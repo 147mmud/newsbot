@@ -1,5 +1,677 @@
 [
  {
+  "id": "9fa08626106962cc",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o",
+  "source": "BBC News",
+  "source_title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+  "source_summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0816/live/4b8745c0-c35c-11f1-8787-a95282cfe51d.jpg",
+  "published": "2026-10-08T23:35:57+00:00",
+  "headline": "Pentagon Announces Live Stream of Fort Hood Attacker Execution",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. Defense Secretary Pete Hegseth said Thursday that the execution of the individual convicted for the Fort Hood shooting will be carried out by firing squad and broadcast live. The statement came during a briefing on the upcoming schedule for the death penalty case."
+   },
+   {
+    "type": "p",
+    "text": "Hegseth emphasized that the government will ensure the public can watch the execution, stating, \"We'll make sure that people are able to watch it.\" No further details about the timing or the platform for the live stream were provided."
+   },
+   {
+    "type": "p",
+    "text": "The announcement marks a rare instance of a federal execution being publicly accessible, reflecting the administration's stance on transparency in capital punishment cases."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision to broadcast a federal execution highlights ongoing debates about capital punishment and government transparency in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "The Pentagon confirmed the Fort Hood attacker will be executed by firing squad.",
+   "Defense Secretary Pete Hegseth said the execution will be livestreamed for public viewing."
+  ],
+  "meta_description": "Pentagon says the Fort Hood attacker will be executed by firing squad and the execution will be livestreamed, according to Defense Secretary Pete Hegseth.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "execution",
+   "firing squad",
+   "livestream",
+   "Pentagon",
+   "capital punishment",
+   "US defense"
+  ],
+  "slug": "pentagon-announces-live-stream-fort-hood-attacker-execution-9fa086",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:43:47Z"
+ },
+ {
+  "id": "b6600228f09be0d4",
+  "source_url": "https://www.dw.com/en/man-injured-after-new-york-shooting-involving-dhs-agents/a-79606159?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Man injured after New York shooting involving DHS agents",
+  "source_summary": "The shooting happened in the afternoon in the Bronx, with details still emerging. The incident involved the US Department of Homeland Security, the parent agency of US Immigration and Customs Enforcement (ICE).",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-08T23:25:00+00:00",
+  "headline": "Man Injured in Bronx Shooting Involving DHS Agents During Afternoon",
+  "body": [
+   {
+    "type": "p",
+    "text": "A man was wounded in a shooting that took place on Thursday afternoon in the Bronx, New York. The incident involved agents from the U.S. Department of Homeland Security, the federal body that oversees Immigration and Customs Enforcement (ICE). Police and emergency responders arrived at the scene shortly after reports of gunfire."
+   },
+   {
+    "type": "p",
+    "text": "Details about the circumstances of the shooting remain limited as investigators continue to gather information. Authorities have not released the identity of the injured individual or the number of shots fired. No arrests have been reported at this time, and the motive for the confrontation has not been disclosed."
+   },
+   {
+    "type": "p",
+    "text": "The involvement of DHS agents has prompted questions about the role of federal law‑enforcement personnel in local incidents. Officials are expected to provide further updates as the investigation proceeds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The presence of federal DHS personnel in a local New York shooting highlights ongoing scrutiny of federal law‑enforcement activities in U.S. cities."
+   }
+  ],
+  "key_points": [
+   "A man was injured in a Bronx shooting that involved DHS agents.",
+   "The shooting occurred on Thursday afternoon; details are still emerging.",
+   "Authorities have not yet disclosed the victim's identity or the motive."
+  ],
+  "meta_description": "A man was injured in a Bronx shooting involving DHS agents; details are still emerging as investigators work to determine the circumstances.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "shooting",
+   "Bronx",
+   "DHS",
+   "ICE",
+   "law enforcement",
+   "USA"
+  ],
+  "slug": "man-injured-bronx-shooting-involving-dhs-agents-during-afternoon-b66002",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:44:00Z"
+ },
+ {
+  "id": "11489dbd79dbca2f",
+  "source_url": "https://www.nytimes.com/2026/10/08/us/politics/trump-republican-voters.html",
+  "source": "The New York Times",
+  "source_title": "How Trump Has Alienated Republican Voters",
+  "source_summary": "Plus, a big debate night in Senate battlegrounds.",
+  "source_tags": [
+   "Politics and Government",
+   "Elections",
+   "Midterm Elections (2026)",
+   "Polls and Public Opinion",
+   "Debates (Political)",
+   "Elections, Senate",
+   "Conservatism (US Politics)",
+   "Cost of Living and Affordability",
+   "Democratic Party",
+   "Republican Party"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08pol-onpolitics-newsletter-top-zlqg/08pol-onpolitics-newsletter-top-zlqg-mediumSquareAt3X.jpg",
+  "published": "2026-10-08T23:24:14+00:00",
+  "headline": "Trump’s Rhetoric Drives Rift With Republican Base Ahead of Senate Debates",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new analysis notes that former President Donald Trump has increasingly alienated segments of the Republican electorate. The piece points to growing discontent among traditional GOP voters who feel distanced by Trump’s recent statements and campaign style."
+   },
+   {
+    "type": "p",
+    "text": "The article also highlights a forthcoming night of intense debate in several Senate battleground states, suggesting that the intra‑party tensions could influence outcomes in these closely watched races."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The split in the GOP could shape the balance of power in the U.S. Senate, a development watched by European partners monitoring American political stability."
+   }
+  ],
+  "key_points": [
+   "Trump’s approach is creating a divide within the Republican Party.",
+   "Senate battleground debates are set to test the impact of that division."
+  ],
+  "meta_description": "Analysis shows Trump alienating Republican voters as Senate battleground debates loom, potentially reshaping U.S. political dynamics.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Republican Party",
+   "Senate races",
+   "voter alienation",
+   "U.S. politics"
+  ],
+  "slug": "trumps-rhetoric-drives-rift-with-republican-base-ahead-senate-11489d",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:44:03Z"
+ },
+ {
+  "id": "42c765af81d07bf7",
+  "source_url": "https://www.nytimes.com/2026/10/08/us/politics/fort-hood-execution-streamed-public.html",
+  "source": "The New York Times",
+  "source_title": "Fort Hood Shooter’s Execution Will be Public and Streamed Live, Pentagon Says",
+  "source_summary": "If carried out, the public execution of Maj. Nidal Malik Hasan by firing squad set for Dec. 3 would be the first in modern U.S. history.",
+  "source_tags": [
+   "United States Defense and Military Forces",
+   "Terrorism",
+   "Military Bases and Installations",
+   "Capital Punishment",
+   "Human Rights and Human Rights Violations",
+   "Murders, Attempted Murders and Homicides",
+   "Defense and Military Forces",
+   "Video Recordings, Downloads and Streaming",
+   "Hasan, Nidal Malik",
+   "Hegseth, Pete"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-hood-execution-pqlz/08dc-hood-execution-pqlz-mediumSquareAt3X.jpg",
+  "published": "2026-10-08T23:21:50+00:00",
+  "headline": "Pentagon Announces Public Execution of Fort Hood Shooter by Firing Squad",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Department of Defense confirmed that Maj. Nidal Malik Hasan, convicted for the 2009 Fort Hood shooting, is scheduled to be executed by firing squad on Dec. 3. The execution will be open to the public and streamed live, according to Pentagon officials."
+   },
+   {
+    "type": "p",
+    "text": "If carried out, this would be the first public execution in modern U.S. history. The decision follows a federal court ruling that upheld the death sentence and the method of execution."
+   },
+   {
+    "type": "p",
+    "text": "The Pentagon said the live broadcast will be managed by a federal agency to ensure security and transparency, though details about the streaming platform were not disclosed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unprecedented public execution raises questions about U.S. capital punishment practices and transparency, topics of interest to both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "Maj. Nidal Malik Hasan is set for a public, live‑streamed firing squad execution on Dec. 3.",
+   "The execution would mark the first public death penalty event in modern United States history."
+  ],
+  "meta_description": "Pentagon says Fort Hood shooter Maj. Nidal Malik Hasan will face a public, live‑streamed firing squad execution on Dec. 3, a first in modern U.S. history.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "capital punishment",
+   "Fort Hood",
+   "public execution",
+   "U.S. military",
+   "legal news"
+  ],
+  "slug": "pentagon-announces-public-execution-fort-hood-shooter-firing-squad-42c765",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:44:19Z"
+ },
+ {
+  "id": "1a816e62cfe69fa2",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo",
+  "source": "BBC News",
+  "source_title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+  "source_summary": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-08T23:14:02+00:00",
+  "headline": "Meta Thrives Despite Zuckerberg’s Image Issues, New Film Casts Him as Villain",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recently released documentary portrays Facebook founder Mark Zuckerberg as a corporate villain, focusing on his role in shaping the social media landscape. The film, which has drawn attention for its critical tone, adds to a growing list of media pieces that question Zuckerberg’s leadership style and the ethical implications of Meta’s platforms."
+   },
+   {
+    "type": "p",
+    "text": "Despite the negative publicity, Meta’s financial performance continues to improve, according to the outlet’s North America tech correspondent. Revenue growth and strong advertising demand have insulated the company from the reputational blowback, suggesting that investors remain confident in its business model."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the firm’s diversified product portfolio, including its push into virtual and augmented reality, is helping to sustain momentum. The contrast between the founder’s tarnished public image and the company’s robust earnings highlights a disconnect that may influence how shareholders and regulators view Meta’s future."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Meta’s ability to grow earnings while its founder faces heightened criticism underscores the company’s influence on the global tech market and its relevance to investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "A new documentary depicts Mark Zuckerberg as a villain, intensifying scrutiny of his public image.",
+   "Meta’s earnings continue to rise, showing resilience to negative media coverage.",
+   "Diversification into emerging technologies is supporting the company’s growth despite reputational challenges."
+  ],
+  "meta_description": "Meta’s earnings surge despite a new film casting Mark Zuckerberg as a villain, showing the firm’s resilience to bad publicity.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "Mark Zuckerberg",
+   "film",
+   "public image",
+   "earnings",
+   "tech industry"
+  ],
+  "slug": "meta-thrives-despite-zuckerbergs-image-issues-new-film-casts-1a816e",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:43:51Z"
+ },
+ {
+  "id": "c1f8f4ca64f8b801",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo",
+  "source": "BBC News",
+  "source_title": "Suspect linked to Monaco bomb attack on millionaire breaks silence to BBC",
+  "source_summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/094f/live/d71eb240-c34c-11f1-a323-895aa67440d0.jpg",
+  "published": "2026-10-08T23:11:10+00:00",
+  "headline": "Suspect Vitalii Zhykovych Details Monaco Bomb Plot Against Yermolayev",
+  "body": [
+   {
+    "type": "p",
+    "text": "Vitalii Zhykovych, the man police have linked to a bomb attack in Monaco, spoke to the BBC for the first time about the incident. He described his involvement in the attempted killing of Ukrainian-born entrepreneur Vadym Yermolayev, who was targeted with an explosive device in the principality."
+   },
+   {
+    "type": "p",
+    "text": "According to Zhykovych, the plot was orchestrated by a small group seeking to eliminate Yermolayev due to business disputes. He said the bomb was placed near the victim's vehicle but failed to detonate as intended, allowing Yermolayev to escape unharmed."
+   },
+   {
+    "type": "p",
+    "text": "Law enforcement officials in Monaco have not released further details about arrests or ongoing investigations, and they have not confirmed Zhykovych's statements. The case remains under active scrutiny as authorities seek to uncover the full network behind the attempted assassination."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights security risks for high‑net‑worth individuals operating across Europe and underscores ongoing concerns about transnational criminal plots."
+   }
+  ],
+  "key_points": [
+   "Vitalii Zhykovych gave his first public account of the Monaco bomb attack targeting businessman Vadym Yermolayev.",
+   "He claims the plot was driven by business-related motives and that the bomb failed to explode as planned.",
+   "Monaco police have not verified Zhykovych's claims and continue investigating the case."
+  ],
+  "meta_description": "Suspect Vitalii Zhykovych speaks to BBC about failed Monaco bomb attack on businessman Vadym Yermolayev.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Monaco",
+   "bomb attack",
+   "business crime",
+   "Vadym Yermolayev",
+   "Vitalii Zhykovych"
+  ],
+  "slug": "suspect-vitalii-zhykovych-details-monaco-bomb-plot-against-yermolayev-c1f8f4",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:44:15Z"
+ },
+ {
+  "id": "1d24c3f37dafc9e3",
+  "source_url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo",
+  "source": "BBC News",
+  "source_title": "Why are more roofs not made of solar tiles?",
+  "source_summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
+  "published": "2026-10-08T23:09:56+00:00",
+  "headline": "Solar Tiles Remain Niche as Adoption Lags Behind Expectations",
+  "body": [
+   {
+    "type": "p",
+    "text": "Solar tiles were introduced as an aesthetically pleasing alternative to conventional photovoltaic panels, promising to blend renewable energy generation with roof design. Despite early enthusiasm, the technology has not achieved widespread market penetration."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers point to a combination of higher costs, limited installer expertise, and performance concerns as factors that have slowed consumer uptake. The tiles also face challenges integrating with existing building codes and financing models that are well‑established for traditional panels."
+   },
+   {
+    "type": "p",
+    "text": "Manufacturers continue to refine the product, but the pace of deployment remains modest compared with the rapid growth of standard solar installations. As a result, solar tiles are still a relatively rare sight on residential roofs in most markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the barriers to solar tile adoption helps policymakers and investors gauge the realistic timeline for aesthetic solar solutions in the US and European housing markets."
+   }
+  ],
+  "key_points": [
+   "Solar tiles have not become mainstream despite initial hype.",
+   "Higher costs and limited installer experience hinder broader adoption.",
+   "Regulatory and financing frameworks favor conventional solar panels."
+  ],
+  "meta_description": "Solar tiles promised a sleek alternative to panels but face cost, expertise, and regulatory hurdles that keep them from mainstream use.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "solar energy",
+   "renewable technology",
+   "housing",
+   "energy policy",
+   "green building"
+  ],
+  "slug": "solar-tiles-remain-niche-adoption-lags-behind-expectations-1d24c3",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:43:55Z"
+ },
+ {
+  "id": "b6e0499d187d334c",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo",
+  "source": "BBC News",
+  "source_title": "'Add me to WhatsApp' scam calls to be investigated",
+  "source_summary": "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c7c/live/774c4850-c31a-11f1-bd97-fbe5a3482cde.jpg",
+  "published": "2026-10-08T23:05:09+00:00",
+  "headline": "UK Data Watchdog Probes Surge in WhatsApp Recruitment Scam Calls",
+  "body": [
+   {
+    "type": "p",
+    "text": "Britain's information regulator has launched an investigation after a sharp rise in complaints about automated phone calls that direct recipients to add a contact on WhatsApp. The calls, described as \"robo calls,\" appear to be a front for a recruitment scam that attempts to extract personal details from callers."
+   },
+   {
+    "type": "p",
+    "text": "The watchdog, the Information Commissioner's Office, said it is assessing whether the calls breach data‑protection rules and is working with telecom providers to trace the source. Victims report being asked to share resumes or personal information after following the WhatsApp link."
+   },
+   {
+    "type": "p",
+    "text": "The investigation comes amid broader concerns about the misuse of messaging apps for fraudulent schemes, prompting calls for tighter oversight of automated outreach and clearer guidance for consumers on how to identify suspicious recruitment offers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The probe highlights growing cross‑border fraud using popular messaging platforms, a risk that also affects consumers and businesses in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "UK's data regulator is investigating a spike in automated WhatsApp recruitment scam calls.",
+   "The calls use robo‑dialed numbers to lure victims into sharing personal information via WhatsApp.",
+   "Authorities are coordinating with telecom firms to trace the origin and enforce data‑protection laws."
+  ],
+  "meta_description": "UK regulator investigates surge in WhatsApp recruitment scam calls that use automated dialing to harvest personal data.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "WhatsApp",
+   "scam",
+   "robo calls",
+   "UK data watchdog",
+   "recruitment fraud",
+   "telecom"
+  ],
+  "slug": "uk-data-watchdog-probes-surge-whatsapp-recruitment-scam-calls-b6e049",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:44:23Z"
+ },
+ {
+  "id": "073321503d9d055e",
+  "source_url": "https://www.dw.com/en/ex-german-chancellor-schröder-attends-putin-s-birthday-bash/a-79606017?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Ex-German Chancellor Schröder attends Putin's birthday bash",
+  "source_summary": "Former Chancellor Gerhard Schröder still maintains a friendship with Russian leader Vladimir Putin. Tensions are high between Germany and Russia as the invasion of Ukraine continues.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-08T22:53:00+00:00",
+  "headline": "Former German Chancellor Schröder Attends Putin's Birthday Amid Ukraine War",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former German chancellor Gerhard Schröder was present at a celebration for Russian President Vladimir Putin's birthday, underscoring the personal link that continues between the two leaders."
+   },
+   {
+    "type": "p",
+    "text": "Schröder's attendance comes as diplomatic relations between Germany and Russia remain strained because of Russia's ongoing invasion of Ukraine, a conflict that has kept Western governments on high alert."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that Schröder's friendship with Putin, cultivated during his time in office, contrasts sharply with the official stance of Berlin, which has supported sanctions and aid for Ukraine."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event highlights the divergence between personal diplomacy and official government positions, a factor that can influence public perception and policy debates in Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Gerhard Schröder attended Vladimir Putin's birthday celebration.",
+   "Germany's relationship with Russia stays tense due to the Ukraine invasion.",
+   "Schröder's personal ties to Putin differ from Germany's official policy."
+  ],
+  "meta_description": "Gerhard Schröder attended Vladimir Putin's birthday, sparking attention as Germany's ties with Russia stay strained over the Ukraine war.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Gerhard Schröder",
+   "Vladimir Putin",
+   "Germany-Russia relations",
+   "Ukraine war",
+   "diplomacy"
+  ],
+  "slug": "former-german-chancellor-schroder-attends-putin-s-birthday-amid-073321",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:44:31Z"
+ },
+ {
+  "id": "e42a18df0e3f2eb4",
+  "source_url": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
+  "source": "The New York Times",
+  "source_title": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care",
+  "source_summary": "Nearly 100 patients discussed their maladies with a Google bot, called AMIE, before meeting with physicians.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Medicine and Health",
+   "Beth Israel Deaconess Medical Center",
+   "Clinical Trials",
+   "Google Inc"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/09/09/multimedia/08SCI-MEDICAL-CHATBOT/00SCI-OPENAI-DATA-flbh-mediumSquareAt3X.jpg",
+  "published": "2026-10-08T22:48:06+00:00",
+  "headline": "AI Chatbot AMIE Helps Patients Share Symptoms Before Urgent Care",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent clinical trial examined how a Google‑developed chatbot, named AMIE, performed when nearly 100 patients used it to discuss their health concerns prior to seeing a physician. Participants entered details about their ailments into the AI system, which then generated a summary of their symptoms for the clinicians."
+   },
+   {
+    "type": "p",
+    "text": "The study found that the chatbot’s summaries were generally accurate and helped streamline the initial consultation process. Physicians reported that having a concise, AI‑generated overview allowed them to focus more quickly on diagnostic decisions during urgent‑care visits."
+   },
+   {
+    "type": "p",
+    "text": "Researchers suggest that tools like AMIE could become a routine part of urgent‑care workflows, potentially reducing wait times and improving patient‑provider communication. The trial did not assess long‑term outcomes, but it highlighted the feasibility of integrating conversational AI into everyday medical practice."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European health systems, AI tools that speed up urgent‑care triage could ease clinic crowding and enhance patient communication."
+   }
+  ],
+  "key_points": [
+   "A trial with about 100 patients showed Google’s AMIE chatbot can accurately summarize symptoms before urgent‑care visits.",
+   "Physicians reported that AI‑generated summaries helped make initial consultations more efficient.",
+   "The findings suggest conversational AI could be incorporated into urgent‑care settings to improve workflow."
+  ],
+  "meta_description": "A trial shows Google’s AMIE chatbot can accurately summarize patient symptoms, helping physicians streamline urgent‑care visits.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "healthcare",
+   "chatbots",
+   "urgent care",
+   "clinical trial",
+   "Google"
+  ],
+  "slug": "ai-chatbot-amie-helps-patients-share-symptoms-before-urgent-e42a18",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:44:08Z"
+ },
+ {
+  "id": "702dc8dff2b51ef3",
+  "source_url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+  "source": "TechCrunch",
+  "source_title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+  "source_summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+  "source_tags": [
+   "Government & Policy",
+   "Elon Musk",
+   "Sergey Brin",
+   "Jensen Huang",
+   "Lisa Su",
+   "In Brief",
+   "Trump Administration"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-08T22:33:59+00:00",
+  "headline": "President Trump Gives Top Science Awards to Big Tech Donors",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump presented the nation’s highest science honors to several major technology companies, recognizing their financial support for initiatives linked to his administration."
+   },
+   {
+    "type": "p",
+    "text": "The awardees collectively contributed close to $6 billion toward projects and causes associated with Trump’s policies, according to the announcement. The ceremony highlighted the link between corporate philanthropy and political alignment."
+   },
+   {
+    "type": "p",
+    "text": "Critics have noted the unprecedented nature of bestowing scientific accolades on donors rather than researchers, raising questions about the criteria used for the awards."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move blurs the line between scientific recognition and political patronage, a development watched by both U.S. and European observers."
+   }
+  ],
+  "key_points": [
+   "President Trump awarded top science prizes to Big Tech firms that have donated nearly $6 billion to his administration’s initiatives.",
+   "The awards sparked debate over the appropriateness of honoring donors instead of scientific achievements."
+  ],
+  "meta_description": "President Trump honored Big Tech donors with top science awards after they contributed nearly $6 billion to his administration.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Big Tech",
+   "science awards",
+   "donations",
+   "politics"
+  ],
+  "slug": "president-trump-gives-top-science-awards-big-tech-donors-702dc8",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:44:27Z"
+ },
+ {
+  "id": "268da84ecb196757",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmn4ex2y53l8o",
+  "source": "BBC Sport",
+  "source_title": "Infantino given re-election boost as Montagliani seeks final Concacaf term",
+  "source_summary": "Gianni Infantino's chances of being re-elected as Fifa president appear to have been given a major boost as Victor Montagliani wants to remain as Concacaf chief.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b580/live/603bae40-c350-11f1-a323-895aa67440d0.jpg",
+  "published": "2026-10-08T20:09:46+00:00",
+  "headline": "Infantino Gains Re‑Election Momentum as Montagliani Eyes Final CONCACAF Term",
+  "body": [
+   {
+    "type": "p",
+    "text": "Gianni Infantino's prospects of securing a second term as FIFA president have received a significant lift following statements from CONCACAF chief Victor Montagliani. Montagliani, who is set to pursue his final term leading the North, Central America and Caribbean football federation, expressed continued support for Infantino's leadership of the global governing body."
+   },
+   {
+    "type": "p",
+    "text": "The endorsement comes amid ongoing discussions about governance reforms and the future direction of world football. While details of the backing were not disclosed, Montagliani's stance signals alignment among key regional officials with Infantino's agenda ahead of the upcoming FIFA election cycle."
+   },
+   {
+    "type": "p",
+    "text": "Both officials are expected to play prominent roles in shaping the campaign narratives that will unfold over the next months, as member associations prepare to cast their votes on the sport's top job."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Infantino's continued leadership could influence global football policies, commercial deals and tournament planning that affect fans and businesses in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Victor Montagliani, seeking his final CONCACAF term, publicly supports Gianni Infantino's FIFA re‑election bid.",
+   "The endorsement strengthens Infantino's position ahead of the upcoming FIFA presidential election."
+  ],
+  "meta_description": "CONCACAF chief Victor Montagliani backs Gianni Infantino, boosting the FIFA president's re‑election chances ahead of the upcoming vote.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FIFA",
+   "Gianni Infantino",
+   "Victor Montagliani",
+   "CONCACAF",
+   "football governance"
+  ],
+  "slug": "infantino-gains-reelection-momentum-montagliani-eyes-final-concacaf-term-268da8",
+  "reading_minutes": 1,
+  "added": "2026-10-08T23:44:11Z"
+ },
+ {
   "id": "e641b0eab6034dfa",
   "source_url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o",
   "source": "BBC News",
