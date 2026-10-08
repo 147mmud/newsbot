@@ -1,1 +1,6 @@
-placeholder
+{% extends "_page.html" %}
+{% block robots %}<meta name="robots" content="noindex">{% endblock %}
+{% block heading %}Page not found{% endblock %}
+{% block content %}
+<p>This story may have moved. Try the <a href="{{ url() }}">homepage</a> or one of the trending stories.</p>
+{% endblock %}

@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% import "_cards.html" as c %}
+{% import "_ads.html" as ads %}
+{% block main %}
+<nav class="crumbs"><a href="{{ url() }}">Home</a> › {{ cat_name }}</nav>
+<h1 class="page-title">{{ cat_name }}{% if page_num > 1 %} <small>– Page {{ page_num }}</small>{% endif %}</h1>
+{% if articles %}
+<div class="grid">
+  {% for a in articles %}
+    {{ c.card(a, 'md', eager=loop.first) }}
+    {% if loop.index == 6 %}<div class="grid-ad">{{ ads.banner('infeed', 'rect_300', 300, 250) }}</div>{% endif %}
+    {% if loop.index == 12 %}<div class="grid-ad">{{ ads.native() }}</div>{% endif %}
+  {% endfor %}
+</div>
+<nav class="pager">
+  {% if page_num > 1 %}<a href="{{ url('category/' ~ cat_slug ~ '/' ~ ('' if page_num == 2 else 'page/' ~ (page_num - 1) ~ '/')) }}">‹ Newer</a>{% endif %}
+  {% if page_num < total_pages %}<a href="{{ url('category/' ~ cat_slug ~ '/page/' ~ (page_num + 1) ~ '/') }}">Older ›</a>{% endif %}
+</nav>
+{% else %}
+<p class="empty">No {{ cat_name }} stories yet.</p>
+{% endif %}
+{% endblock %}

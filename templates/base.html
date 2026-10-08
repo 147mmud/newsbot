@@ -1,0 +1,120 @@
+{% import "_ads.html" as ads %}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="{{ canonical }}">
+{% block robots %}<meta name="robots" content="index, follow, max-image-preview:large">{% endblock %}
+<meta property="og:site_name" content="{{ site.SITE_NAME }}">
+<meta property="og:locale" content="{{ site.SITE_LOCALE }}">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:url" content="{{ canonical }}">
+{% block og %}<meta property="og:type" content="website">{% endblock %}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0b1d33">
+<link rel="alternate" type="application/rss+xml" title="{{ site.SITE_NAME }}" href="{{ url('feed.xml') }}">
+<link rel="icon" href="{{ url('static/img/favicon.svg') }}" type="image/svg+xml">
+<link rel="preconnect" href="https://site.api.espn.com" crossorigin>
+<link rel="stylesheet" href="{{ url('static/css/style.css') }}">
+<script>
+  window.NB = {
+    base: "{{ url() }}",
+    scoresFallback: "{{ url('data/scores.json') }}",
+    scoreEndpoints: {{ site.SCORE_SPORTS|tojson_safe|safe }}
+  };
+</script>
+<script src="{{ url('static/js/scores.js') }}" defer></script>
+<script src="{{ url('static/js/ads.js') }}" defer></script>
+{% block head %}{% endblock %}
+</head>
+<body class="page-{{ page }}">
+
+<!-- ===== LIVE SCORES BAR ===== -->
+<div class="scorebar" id="scorebar" aria-label="Live sports scores">
+  <div class="sb-inner">
+    <div class="sb-tabs" role="tablist">
+      <button role="tab" data-sport="football" aria-selected="true">⚽ Football</button>
+      <button role="tab" data-sport="cricket">🏏 Cricket</button>
+      <button role="tab" data-sport="rugby">🏉 Rugby</button>
+      <button role="tab" data-sport="nfl">🏈 NFL</button>
+    </div>
+    <div class="sb-track" id="sb-track" aria-live="polite">
+      <span class="sb-msg">Loading live scores…</span>
+    </div>
+    <button class="sb-nav sb-next" aria-label="Scroll scores">›</button>
+  </div>
+</div>
+
+<!-- ===== HEADER ===== -->
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="logo" href="{{ url() }}">
+      <span class="logo-mark">{{ site.SITE_NAME[:1] }}</span>
+      <span class="logo-text">{{ site.SITE_NAME }}<small>{{ site.SITE_TAGLINE }}</small></span>
+    </a>
+    {{ ads.banner('header', 'header_728', 728, 90, 'header_320', 320, 50, label=False) }}
+  </div>
+  <nav class="nav" aria-label="Sections">
+    <div class="wrap nav-row">
+      <a href="{{ url() }}" {% if page == 'home' %}aria-current="page"{% endif %}>Home</a>
+      {% for slug, name in categories.items() %}
+      <a href="{{ url('category/' ~ slug ~ '/') }}" {% if page == slug %}aria-current="page"{% endif %}>{{ name }}</a>
+      {% endfor %}
+    </div>
+  </nav>
+  {% if trending %}
+  <div class="ticker wrap"><b>Breaking</b>
+    <div class="ticker-items">
+      {% for t in trending[:5] %}<a href="{{ url('news/' ~ t.slug ~ '/') }}">{{ t.headline }}</a>{% endfor %}
+    </div>
+  </div>
+  {% endif %}
+</header>
+
+<div class="wrap layout">
+  <main id="main">{% block main %}{% endblock %}</main>
+
+  <aside class="sidebar">
+    {{ ads.banner('side-top', 'rect_300', 300, 250) }}
+    <section class="widget">
+      <h3 class="widget-title">Trending Now</h3>
+      <ol class="trending">
+        {% for t in trending %}
+        <li><a href="{{ url('news/' ~ t.slug ~ '/') }}">{{ t.headline }}</a></li>
+        {% endfor %}
+      </ol>
+    </section>
+    <div class="sticky-side">
+      {{ ads.banner('side-sky', 'sky_160', 160, 600) }}
+    </div>
+  </aside>
+</div>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <nav>
+      {% for slug, name in categories.items() %}<a href="{{ url('category/' ~ slug ~ '/') }}">{{ name }}</a>{% endfor %}
+      <a href="{{ url('about/') }}">About</a>
+      <a href="{{ url('privacy/') }}">Privacy</a>
+      <a href="{{ url('contact/') }}">Contact</a>
+      <a href="{{ url('feed.xml') }}">RSS</a>
+    </nav>
+    <p>© {{ year }} {{ site.SITE_NAME }}. Headlines link to and credit their original publishers.</p>
+  </div>
+</footer>
+
+<!-- ===== STICKY FOOTER AD ===== -->
+{% if ad('sticky_728') or ad('sticky_320') or site.ADS_PREVIEW %}
+<div class="sticky-ad" id="sticky-ad">
+  <button class="sticky-close" aria-label="Close ad">×</button>
+  {{ ads.banner('sticky', 'sticky_728', 728, 90, 'sticky_320', 320, 50, label=False) }}
+</div>
+{% endif %}
+
+{{ ads.global_scripts() }}
+</body>
+</html>

@@ -1,0 +1,24 @@
+{% macro thumb(a, w, h, eager=False) %}
+<div class="thumb cat-{{ a.category }}" style="aspect-ratio:{{ w }}/{{ h }}">
+  {% if site.USE_FEED_IMAGES and a.image %}
+  <img src="{{ a.image }}" alt="" width="{{ w }}" height="{{ h }}"
+       {% if eager %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async"
+       referrerpolicy="no-referrer" onerror="this.remove()">
+  {% endif %}
+  <span class="thumb-cat">{{ categories[a.category] }}</span>
+</div>
+{% endmacro %}
+
+{% macro card(a, size='md', eager=False) %}
+<article class="card card-{{ size }}">
+  <a href="{{ url('news/' ~ a.slug ~ '/') }}" class="card-link">
+    {% if size == 'lg' %}{{ thumb(a, 800, 450, eager) }}{% elif size != 'txt' %}{{ thumb(a, 400, 225) }}{% endif %}
+    <div class="card-body">
+      {% if size != 'lg' %}<span class="kicker">{{ categories[a.category] }}</span>{% endif %}
+      <h3 class="card-title">{{ a.headline }}</h3>
+      {% if size in ('lg', 'row') %}<p class="card-dek">{{ a.meta_description }}</p>{% endif %}
+      <span class="meta"><time datetime="{{ a.published }}">{{ a.published|date }}</time> · {{ a.source }}</span>
+    </div>
+  </a>
+</article>
+{% endmacro %}

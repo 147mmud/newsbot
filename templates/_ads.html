@@ -1,0 +1,38 @@
+{# ---------------------------------------------------------------------------
+   Adsterra slot macros.
+   * Banner code is stored in an inert <template>; static/js/ads.js loads it
+     into an isolated iframe only when the slot nears the viewport
+     (lazy-load = faster LCP, and each banner gets its own atOptions scope).
+   * Space is reserved with fixed dimensions -> zero layout shift (CLS).
+   * If no code is configured the slot isn't rendered at all.
+--------------------------------------------------------------------------- #}
+{% macro banner(cls, desktop, dw, dh, mobile=None, mw=0, mh=0, label=True) %}
+{% set dcode = ad(desktop) %}
+{% set mcode = ad(mobile) if mobile else '' %}
+{% if dcode or mcode or site.ADS_PREVIEW %}
+<div class="ad ad-{{ cls }}{% if dw > 400 and not mcode and not (site.ADS_PREVIEW and mobile) %} desktop-only{% endif %}" data-ad
+     style="--dw:{{ dw }}px;--dh:{{ dh }}px;--mw:{{ mw or dw }}px;--mh:{{ mh or dh }}px">
+  {% if label %}<span class="ad-label">Advertisement</span>{% endif %}
+  <div class="ad-box">
+    {% if dcode %}<template data-variant="desktop" data-w="{{ dw }}" data-h="{{ dh }}">{{ dcode|safe }}</template>{% endif %}
+    {% if mcode %}<template data-variant="mobile" data-w="{{ mw }}" data-h="{{ mh }}">{{ mcode|safe }}</template>{% endif %}
+    {% if site.ADS_PREVIEW and not (dcode or mcode) %}<div class="ad-preview">{{ desktop }} {{ dw }}×{{ dh }}{% if mobile %} / {{ mobile }} {{ mw }}×{{ mh }}{% endif %}</div>{% endif %}
+  </div>
+</div>
+{% endif %}
+{% endmacro %}
+
+{% macro native(cls='native') %}
+{% if ad('native') or site.ADS_PREVIEW %}
+<div class="ad ad-{{ cls }}" data-ad-native>
+  <span class="ad-label">Sponsored</span>
+  {% if ad('native') %}<template>{{ ad('native')|safe }}</template>
+  {% else %}<div class="ad-preview ad-preview-native">native (Adsterra Native Banner)</div>{% endif %}
+</div>
+{% endif %}
+{% endmacro %}
+
+{% macro global_scripts() %}
+{% if ad('social_bar') %}<template id="ad-social-bar">{{ ad('social_bar')|safe }}</template>{% endif %}
+{% if ad('popunder') %}<template id="ad-popunder">{{ ad('popunder')|safe }}</template>{% endif %}
+{% endmacro %}

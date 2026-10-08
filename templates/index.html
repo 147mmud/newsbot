@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+{% import "_cards.html" as c %}
+{% import "_ads.html" as ads %}
+{% block head %}
+<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"WebSite","name":site.SITE_NAME,"url":abs_url()}|tojson_safe|safe }}</script>
+{% endblock %}
+{% block main %}
+<h1 class="visually-hidden">{{ site.SITE_NAME }} – Latest News</h1>
+{% if articles %}
+<section class="hero">
+  {{ c.card(articles[0], 'lg', eager=True) }}
+  <div class="hero-side">
+    {% for a in articles[1:5] %}{{ c.card(a, 'sm') }}{% endfor %}
+  </div>
+</section>
+
+{{ ads.native() }}
+
+<section class="block">
+  <h2 class="block-title">Latest News</h2>
+  <div class="list">
+    {% for a in articles[5:17] %}
+      {{ c.card(a, 'row') }}
+      {% if loop.index == 6 %}{{ ads.banner('infeed', 'rect_300', 300, 250) }}{% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+{% for slug, name in categories.items() if by_cat[slug] %}
+<section class="block">
+  <h2 class="block-title"><a href="{{ url('category/' ~ slug ~ '/') }}">{{ name }} <span>More ›</span></a></h2>
+  <div class="grid">
+    {% for a in by_cat[slug][:4] %}{{ c.card(a, 'md') }}{% endfor %}
+  </div>
+</section>
+{% if loop.index == 2 %}{{ ads.banner('mid', 'header_728', 728, 90, 'rect_300', 300, 250) }}{% endif %}
+{% endfor %}
+{% else %}
+<p class="empty">No stories yet – the newsroom bot will publish the first batch on its next run.</p>
+{% endif %}
+{% endblock %}
