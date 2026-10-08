@@ -1,5 +1,179 @@
 [
  {
+  "id": "e641b0eab6034dfa",
+  "source_url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o",
+  "source": "BBC News",
+  "source_title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+  "source_summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d62a/live/d11c0100-c341-11f1-b521-0bbd7e4f1f2e.jpg",
+  "published": "2026-10-08T19:10:06+00:00",
+  "headline": "Protesters Set Up Tents in Madrid, Blame Vulture Funds for Housing Crisis",
+  "body": [
+   {
+    "type": "p",
+    "text": "Hundreds of demonstrators erected tents in central Madrid to protest what they describe as a housing crisis driven by so‑called ‘vulture funds’. The encampment highlighted growing public anger over soaring rents and evictions across Spain."
+   },
+   {
+    "type": "p",
+    "text": "The protesters allege that investment firms buying distressed property portfolios are profiteering at the expense of tenants, exacerbating the shortage of affordable homes. Their demands include stricter regulation of these funds and stronger tenant protections."
+   },
+   {
+    "type": "p",
+    "text": "Amid the unrest, Spain’s prime minister announced a snap election, signalling a potential shift in the country’s political landscape as housing policy becomes a central campaign issue."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The housing dispute could influence Spain’s upcoming election and affect European investors in distressed‑property funds, with possible ripple effects on housing markets elsewhere."
+   }
+  ],
+  "key_points": [
+   "Hundreds of people set up a tent encampment in Madrid to protest Spain’s housing crisis.",
+   "Demonstrators blame investment ‘vulture funds’ for driving up rents and evictions.",
+   "The Spanish prime minister called a snap election in response to the mounting pressure."
+  ],
+  "meta_description": "Hundreds protest in Madrid, blaming vulture funds for Spain's housing crisis as the prime minister calls a snap election.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spain",
+   "housing crisis",
+   "vulture funds",
+   "protests",
+   "snap election"
+  ],
+  "slug": "protesters-set-up-tents-madrid-blame-vulture-funds-housing-e641b0",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:13Z"
+ },
+ {
+  "id": "40236939e35d5723",
+  "source_url": "https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html",
+  "source": "The New York Times",
+  "source_title": "Highest Mortgage Rates in 3 Years Chills the Housing Market",
+  "source_summary": "The average 30-year fixed-rate mortgage rose to 7.4 percent, putting more pressure on Americans struggling to afford to buy a home.",
+  "source_tags": [
+   "Real Estate and Housing (Residential)",
+   "Prices (Fares, Fees and Rates)",
+   "Mortgages",
+   "Inflation (Economics)",
+   "Affordable Housing",
+   "Homeowners Insurance",
+   "Cost of Living and Affordability"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08biz-mortgage-rates1-ftjw/08biz-mortgage-rates1-ftjw-mediumSquareAt3X.jpg",
+  "published": "2026-10-08T19:06:55+00:00",
+  "headline": "Mortgage Rates Hit 7.4% Highest in Three Years, Cooling Housing Market",
+  "body": [
+   {
+    "type": "p",
+    "text": "The average rate for a 30‑year fixed‑rate mortgage climbed to 7.4 percent, the highest level in three years, according to recent data. The rise adds fresh strain to prospective homebuyers who are already grappling with high prices and limited inventory."
+   },
+   {
+    "type": "p",
+    "text": "Higher borrowing costs are expected to dampen demand for residential property, slowing the pace of sales that had shown signs of recovery earlier this year. Lenders report that more borrowers are postponing purchases or seeking smaller loans to stay within budget."
+   },
+   {
+    "type": "p",
+    "text": "Economists warn that the sustained elevation of mortgage rates could extend the slowdown in the housing market, potentially influencing broader economic activity as construction and related sectors feel the ripple effects."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. mortgage rate trends affect global financial markets and can influence housing affordability discussions in Europe, where similar rate pressures are emerging."
+   }
+  ],
+  "key_points": [
+   "The 30‑year fixed mortgage average reached 7.4%, a three‑year peak.",
+   "Rising rates are increasing affordability challenges for U.S. homebuyers.",
+   "The higher cost of borrowing is expected to temper housing market activity."
+  ],
+  "meta_description": "Mortgage rates rise to 7.4%, the highest in three years, adding pressure to U.S. homebuyers and cooling the housing market.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "mortgage",
+   "housing market",
+   "interest rates",
+   "home buying",
+   "economy"
+  ],
+  "slug": "mortgage-rates-hit-7-4-highest-three-years-cooling-402369",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:17Z"
+ },
+ {
+  "id": "90d0da4933448917",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/08/cassidy-hutchinson-criminal-charges-doj",
+  "source": "The Guardian",
+  "source_title": "DoJ seeks to charge ex-Trump aide who gave key testimony on January 6 attack",
+  "source_summary": "Cassidy Hutchinson told panel she had been told Trump lunged for wheel of SUV to try to join mob at Capitol Prosecutors in the justice department’s civil rights division are seeking criminal charges against Cassidy Hutchinson, a former top Trump White House aide who gave explosive testimony to the committee that investigated the US attack on the Capitol, according to a person familiar with the matter. The potential charges involve lying to Congress, the person said.",
+  "source_tags": [
+   "US Capitol attack",
+   "US politics",
+   "US news",
+   "Donald Trump",
+   "Trump administration",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/27d8516f271d5fd43304a46e8370b3d212321071/460_0_4581_3667/master/4581.jpg?width=700&quality=85&auto=format&fit=max&s=88a9fcb5b5eccc1762dc71a42046694b",
+  "published": "2026-10-08T19:06:20+00:00",
+  "headline": "DOJ Moves to Charge Former Trump Aide Cassidy Hutchinson",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal prosecutors in the Justice Department’s civil rights division are reportedly preparing criminal charges against Cassidy Hutchinson, a former senior aide in the Trump White House. The move follows Hutchinson’s testimony before the House committee investigating the Jan. 6 Capitol attack, where she described hearing that former President Donald Trump tried to reach the SUV’s wheel to join the mob."
+   },
+   {
+    "type": "p",
+    "text": "According to a source familiar with the investigation, the potential indictment would allege that Hutchinson lied to Congress about her knowledge of the incident. The charge would fall under statutes that make it a crime to provide false statements to a congressional committee."
+   },
+   {
+    "type": "p",
+    "text": "The development adds a new legal dimension to the ongoing scrutiny of the Jan. 6 events and the actions of Trump’s inner circle. Prosecutors have not yet disclosed a timeline for filing any indictment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case could set a precedent for holding senior political staff accountable for misleading Congress about the Jan. 6 attack, a matter of ongoing interest in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "The Justice Department is considering criminal charges against former Trump aide Cassidy Hutchinson.",
+   "The alleged offense is providing false testimony to the Jan. 6 congressional committee.",
+   "Hutchinson’s testimony included claims that Trump attempted to join the Capitol rioters."
+  ],
+  "meta_description": "DOJ eyes charges against ex‑Trump aide Cassidy Hutchinson for allegedly lying to Congress about the Jan. 6 Capitol attack.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Cassidy Hutchinson",
+   "DOJ",
+   "January 6",
+   "Congressional Testimony"
+  ],
+  "slug": "doj-moves-charge-former-trump-aide-cassidy-hutchinson-90d0da",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:25Z"
+ },
+ {
   "id": "98c1c8b07cbbdcd7",
   "source_url": "https://www.bbc.co.uk/sport/articles/cx7vpe1p070mo",
   "source": "BBC Sport",
@@ -168,6 +342,62 @@
   "slug": "i-only-bought-pokemon-legends-z-during-prime-day-93ee44",
   "reading_minutes": 1,
   "added": "2026-10-08T18:50:50Z"
+ },
+ {
+  "id": "e76bd53782462307",
+  "source_url": "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "South Africa: Anti-migrant protests turn violent",
+  "source_summary": "A court order requiring the government to resume processing asylum applications reignited violent protests against immigration in South Africa.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-08T18:42:00+00:00",
+  "headline": "Court Order to Resume Asylum Processing Sparks Violent Anti‑Migrant Protests in South Africa",
+  "body": [
+   {
+    "type": "p",
+    "text": "A South African court has ordered the government to restart processing asylum applications, a decision that has triggered renewed anti‑migrant demonstrations across the country. Protesters, many of whom are local residents, have taken to the streets in several cities, targeting immigration offices and foreign nationals."
+   },
+   {
+    "type": "p",
+    "text": "The unrest has turned violent in multiple locations, with clashes between demonstrators and police resulting in injuries and property damage. Authorities have deployed additional law enforcement personnel in an effort to contain the disturbances and protect vulnerable communities."
+   },
+   {
+    "type": "p",
+    "text": "Human rights groups have warned that the protests could exacerbate xenophobic tensions and undermine the rights of asylum seekers. The government has pledged to uphold the court ruling while also seeking to maintain public order."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The escalation highlights growing xenophobia in a major African economy, raising concerns for international investors and diaspora communities in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "A court order to resume asylum application processing has reignited anti‑migrant protests in South Africa.",
+   "Demonstrations have turned violent, leading to clashes with police and property damage.",
+   "Human rights organisations caution that the unrest may worsen xenophobic sentiment."
+  ],
+  "meta_description": "South Africa sees violent anti‑migrant protests after a court orders the government to resume asylum processing.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "South Africa",
+   "asylum",
+   "protests",
+   "immigration",
+   "court order",
+   "xenophobia"
+  ],
+  "slug": "court-order-resume-asylum-processing-sparks-violent-antimigrant-protests-e76bd5",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:21Z"
  },
  {
   "id": "faaa26b20d907d9e",
@@ -659,6 +889,119 @@
   "added": "2026-10-08T18:50:50Z"
  },
  {
+  "id": "8dce6b889a93aede",
+  "source_url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+  "source": "TechCrunch",
+  "source_title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+  "source_summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+  "source_tags": [
+   "AI",
+   "Anthropic",
+   "OpenAI"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-08T18:19:42+00:00",
+  "headline": "OpenAI Revenue Revised Down by $20 Billion From Earlier Forecast",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new report indicates that OpenAI's annualized revenue is about $20 billion lower than the figure previously cited by analysts. Earlier coverage had suggested the AI lab was generating roughly $70 billion a year, but the latest data points to a substantially smaller amount."
+   },
+   {
+    "type": "p",
+    "text": "The revised estimate places OpenAI's revenue around $50 billion, according to the new source. The adjustment reflects a reassessment of the company's earnings across its suite of products and services, though the report does not detail the methodology behind the change."
+   },
+   {
+    "type": "p",
+    "text": "The correction comes as investors and industry watchers continue to gauge the financial scale of leading artificial‑intelligence firms. A lower revenue figure could influence market expectations and valuations for OpenAI and its competitors."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A lower revenue estimate could reshape expectations for AI market growth and influence investment decisions in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "OpenAI's annualized revenue is now estimated at about $50 billion, $20 billion less than earlier reports.",
+   "The previous $70 billion figure was widely cited before the new assessment.",
+   "The revision may affect investor sentiment toward the AI sector."
+  ],
+  "meta_description": "OpenAI's revenue is now estimated $20 billion lower than earlier reports, revising the annual figure to about $50 billion.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "AI revenue",
+   "financial outlook",
+   "tech industry",
+   "investment"
+  ],
+  "slug": "openai-revenue-revised-down-20-billion-from-earlier-forecast-8dce6b",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:53Z"
+ },
+ {
+  "id": "ebb9fcaf69c069f3",
+  "source_url": "https://www.dw.com/en/us-will-not-resume-strikes-on-iran-before-midterms-trump/a-79603731?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "US will not resume strikes on Iran before midterms — Trump",
+  "source_summary": "President Donald Trump said the US will not resume strikes on Iran before the midterm elections on November 3. High gas and grocery prices are top concerns for voters.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-08T18:18:00+00:00",
+  "headline": "Trump Says US Won’t Resume Iran Strikes Before Midterms Amid Voter Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump told reporters that the United States will not restart military strikes against Iran before the upcoming midterm elections on November 3. The comment came as the campaign season intensifies and voters focus on domestic issues."
+   },
+   {
+    "type": "p",
+    "text": "According to the statement, the administration will hold off on any new offensive actions until after the elections, citing the need to avoid influencing the political climate. High gasoline and grocery prices were highlighted as the top concerns for American voters heading into the polls."
+   },
+   {
+    "type": "p",
+    "text": "The pause in potential strikes reflects a broader strategy to keep foreign policy decisions separate from the electoral contest, a move that could shape the narrative around national security in the coming weeks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The timing of military decisions can affect voter sentiment and the political landscape in both the US and allied European nations."
+   }
+  ],
+  "key_points": [
+   "Trump announced the US will not resume Iran strikes before the November 3 midterms.",
+   "Voters are primarily worried about rising gas and grocery costs.",
+   "The decision aims to separate foreign‑policy actions from the election campaign."
+  ],
+  "meta_description": "Trump says the US will hold off on new Iran strikes until after the November 3 midterms, as voters worry about gas and grocery prices.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Iran",
+   "US policy",
+   "midterm elections",
+   "gas prices",
+   "grocery prices"
+  ],
+  "slug": "trump-says-us-wont-resume-iran-strikes-before-midterms-ebb9fc",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:29Z"
+ },
+ {
   "id": "99f761068afaf5c6",
   "source_url": "https://www.nytimes.com/2026/10/08/business/france-bond-yields.html",
   "source": "The New York Times",
@@ -872,6 +1215,116 @@
   "added": "2026-10-08T19:08:28Z"
  },
  {
+  "id": "7629cb2f0c6649bb",
+  "source_url": "https://www.nytimes.com/2026/10/08/business/iran-war-oil-prices.html",
+  "source": "The New York Times",
+  "source_title": "Oil Prices Jump on Outburst of Violence in the Middle East",
+  "source_summary": "Attacks on ships around the Strait of Hormuz have continued as a war between Saudi Arabia and the Houthi militia intensified.",
+  "source_tags": [
+   "Oil (Petroleum) and Gasoline",
+   "US and Israeli Attack on Iran (2026)",
+   "Ships and Shipping",
+   "Houthis",
+   "Trump, Donald J",
+   "Iran",
+   "Strait of Hormuz"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-08T17:50:34+00:00",
+  "headline": "Oil Prices Surge as Violence Escalates Around Strait of Hormuz",
+  "body": [
+   {
+    "type": "p",
+    "text": "Oil markets jumped after a fresh wave of attacks on commercial vessels near the Strait of Hormuz, a key chokepoint for global petroleum shipments. The incidents are part of a broader conflict that has intensified between Saudi Arabia and the Houthi militia, which controls parts of Yemen and has been targeting shipping lanes in the region."
+   },
+   {
+    "type": "p",
+    "text": "Traders responded to the heightened risk by pushing crude prices higher, reflecting concerns that continued disruptions could tighten supplies and raise costs for refiners worldwide. The Strait of Hormuz handles roughly a fifth of the world’s oil flow, so any sustained threat to navigation there can quickly ripple through international markets."
+   },
+   {
+    "type": "p",
+    "text": "Both sides have exchanged accusations over the attacks, and the fighting appears to be escalating rather than de‑escalating. Analysts warned that further violence could lead to more pronounced price volatility, especially if additional vessels are targeted or if the conflict spreads beyond the immediate maritime zone."
+   }
+  ],
+  "key_points": [
+   "Oil prices rose sharply after renewed attacks on ships near the Strait of Hormuz.",
+   "The violence is linked to an intensifying war between Saudi Arabia and the Houthi militia.",
+   "Disruptions in the strait could tighten global oil supplies and increase market volatility."
+  ],
+  "meta_description": "Oil prices climb as attacks on ships near the Strait of Hormuz intensify amid a growing Saudi-Houthi conflict.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "oil",
+   "Middle East",
+   "Strait of Hormuz",
+   "Saudi Arabia",
+   "Houthi militia",
+   "energy markets"
+  ],
+  "slug": "oil-prices-surge-violence-escalates-around-strait-hormuz-7629cb",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:37Z"
+ },
+ {
+  "id": "21983fe5ab5ec39f",
+  "source_url": "https://www.nytimes.com/2026/10/08/business/economy/wto-global-trade-resilient.html",
+  "source": "The New York Times",
+  "source_title": "A.I. Fueled More Resilient Global Growth, W.T.O. Says",
+  "source_summary": "The World Trade Organization said that the drag on global trade from the war in the Middle East was more than offset by spending on goods related to artificial intelligence.",
+  "source_tags": [
+   "International Trade and World Market",
+   "Artificial Intelligence",
+   "Natural Gas"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-wto-qhtp/08dc-wto-qhtp-mediumSquareAt3X.jpg",
+  "published": "2026-10-08T17:49:06+00:00",
+  "headline": "WTO Says AI Spending Offsets Middle East War Trade Drag",
+  "body": [
+   {
+    "type": "p",
+    "text": "The World Trade Organization reported that the slowdown in global trade caused by the ongoing war in the Middle East has been more than compensated for by increased expenditures on artificial‑intelligence‑related goods. The organization highlighted that AI‑driven demand is bolstering manufacturing and services sectors worldwide."
+   },
+   {
+    "type": "p",
+    "text": "According to the WTO, the surge in spending on AI hardware, software and related infrastructure has created a resilient growth pattern that counterbalances the trade disruptions stemming from the conflict. This dynamic suggests that technology investment can act as a stabilizing force in volatile geopolitical environments."
+   },
+   {
+    "type": "p",
+    "text": "The trade body emphasized that while the war continues to pose risks, the momentum behind AI adoption is reshaping global supply chains and fostering new opportunities for exporters and investors across regions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European businesses, the trend signals that AI investments may offset trade risks and open new market opportunities."
+   }
+  ],
+  "key_points": [
+   "WTO says AI‑related spending has outweighed the trade slowdown from the Middle East war.",
+   "Artificial‑intelligence investment is driving resilient global economic growth despite geopolitical tensions."
+  ],
+  "meta_description": "WTO reports AI spending offsets trade slowdown from Middle East war, boosting global growth.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "global trade",
+   "WTO",
+   "Middle East conflict",
+   "economic growth"
+  ],
+  "slug": "wto-says-ai-spending-offsets-middle-east-war-trade-21983f",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:49Z"
+ },
+ {
   "id": "841f33b7d1537fda",
   "source_url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo",
   "source": "BBC News",
@@ -957,6 +1410,134 @@
   "added": "2026-10-08T19:08:28Z"
  },
  {
+  "id": "53bd0432fec80a50",
+  "source_url": "https://www.nytimes.com/2026/10/08/us/politics/supreme-court-trump-ad-rates.html",
+  "source": "The New York Times",
+  "source_title": "Trump Administration Asks Supreme Court to Weigh In, Again, in TV Ad Fight",
+  "source_summary": "The emergency application to the justices marks the latest move in a monthslong fight over who is entitled to low rates for political ads.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Political Advertising",
+   "Campaign Finance",
+   "Midterm Elections (2026)",
+   "Elections, Courts and the Judiciary",
+   "Politics and Government",
+   "Democratic Party",
+   "Republican Party",
+   "Supreme Court (US)",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-scotus-ads-qtgk/08dc-scotus-ads-qtgk-mediumSquareAt3X.jpg",
+  "published": "2026-10-08T17:19:14+00:00",
+  "headline": "Trump Administration Seeks Supreme Court Review of TV Ad Rate Fight",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Trump administration has filed an emergency application with the U.S. Supreme Court, asking the justices to intervene in an ongoing dispute over low rates for political television advertisements. The request marks another escalation in a months‑long legal battle over who is entitled to discounted ad pricing."
+   },
+   {
+    "type": "p",
+    "text": "The administration argues that the current handling of rate discounts could affect the fairness of political advertising and seeks a swift ruling to clarify the rules. Opponents of the move contend that the courts should not intervene in what they view as a regulatory matter best left to the Federal Communications Commission."
+   },
+   {
+    "type": "p",
+    "text": "If the Supreme Court agrees to hear the case, it could set a precedent for how political ad rates are regulated nationwide. The outcome may influence campaign strategies and the cost of reaching voters through broadcast media."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A ruling could affect the cost and accessibility of political advertising in the U.S., with implications for campaign financing and media regulation in other democracies."
+   }
+  ],
+  "key_points": [
+   "The Trump administration filed an emergency petition for Supreme Court review of political TV ad rate rules.",
+   "The case is part of a prolonged dispute over who qualifies for discounted advertising rates.",
+   "A Supreme Court decision could reshape how political advertising costs are regulated."
+  ],
+  "meta_description": "Trump administration seeks Supreme Court intervention in a dispute over low rates for political TV ads, raising questions about campaign financing.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Supreme Court",
+   "political advertising",
+   "campaign finance",
+   "media rates"
+  ],
+  "slug": "trump-administration-seeks-supreme-court-review-tv-ad-rate-53bd04",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:33Z"
+ },
+ {
+  "id": "c2796659fc4b2ad9",
+  "source_url": "https://www.nytimes.com/2026/10/08/us/politics/microsoft-visas-green-cards.html",
+  "source": "The New York Times",
+  "source_title": "Trump Administration Suspends Microsoft From Green Card Program, Alleging Visa Fraud",
+  "source_summary": "Vice President JD Vance singled out the tech firm as he and other officials accused several companies and universities of committing visa fraud.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Foreign Workers",
+   "Foreign Students (in US)",
+   "Immigration and Emigration",
+   "Labor Department (US)",
+   "Harvard University",
+   "Massachusetts Institute of Technology",
+   "Microsoft Corp",
+   "Stanford University",
+   "Adobe Systems Inc"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08dc-fraud--mwcv/08dc-fraud--mwcv-mediumSquareAt3X.jpg",
+  "published": "2026-10-08T16:38:52+00:00",
+  "headline": "Trump Administration Suspends Microsoft From Green Card Program",
+  "body": [
+   {
+    "type": "p",
+    "text": "Vice President JD Vance highlighted Microsoft during a briefing in which senior officials accused a number of technology firms and universities of participating in visa fraud. The administration announced that Microsoft would be barred from the employment‑based green card program pending further investigation."
+   },
+   {
+    "type": "p",
+    "text": "The move follows a broader crackdown on alleged abuses of the U.S. immigration system, with officials saying that some companies have misused the program to secure permanent residency for foreign workers without proper eligibility. No specific penalties have been detailed, and the agency has not released a timeline for a possible reinstatement."
+   },
+   {
+    "type": "p",
+    "text": "Microsoft has not publicly responded to the allegations, and the suspension does not affect existing green card applications already in process for the company’s employees."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The suspension could affect the flow of skilled immigrants to U.S. tech firms and signals heightened scrutiny of immigration programs that European companies also monitor."
+   }
+  ],
+  "key_points": [
+   "The Trump administration has temporarily removed Microsoft from the employment‑based green card program over alleged visa fraud.",
+   "Vice President JD Vance cited Microsoft alongside other firms and universities in a broader fraud investigation."
+  ],
+  "meta_description": "The Trump administration suspends Microsoft from the green card program, citing alleged visa fraud, per VP JD Vance.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Microsoft",
+   "green card",
+   "visa fraud",
+   "immigration",
+   "JD Vance"
+  ],
+  "slug": "trump-administration-suspends-microsoft-from-green-card-program-c27966",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:46Z"
+ },
+ {
   "id": "d6f3a10fd34a51a0",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/c6n4ex2lgg2ko",
   "source": "BBC Sport",
@@ -993,6 +1574,65 @@
   "slug": "maresca-says-feeling-fantastic-among-man-city-squad-d6f3a1",
   "reading_minutes": 1,
   "added": "2026-10-08T19:08:27Z"
+ },
+ {
+  "id": "e148d14f24ed20e8",
+  "source_url": "https://www.nytimes.com/2026/10/08/us/politics/the-docket-comey-free-speech.html",
+  "source": "The New York Times",
+  "source_title": "The Seashells Case Against Comey at a Crossroads",
+  "source_summary": "A judge will soon rule on whether the former F.B.I. director must face trial for an Instagram post.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Federal Courts (US)",
+   "Law and Legislation",
+   "Courts and the Judiciary",
+   "Suits and Litigation (Civil)",
+   "Threats and Threatening Messages",
+   "Demonstrations, Protests and Riots",
+   "Twenty-Fifth Amendment (US Constitution)",
+   "First Amendment (US Constitution)",
+   "Obergefell v Hodges (Supreme Court Decision)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/08/multimedia/08thedocket-nl-top-qzvp/08thedocket-nl-top-qzvp-mediumSquareAt3X.jpg",
+  "published": "2026-10-08T16:02:40+00:00",
+  "headline": "Judge Nears Decision on Whether Ex‑FBI Director Faces Trial",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge is set to issue a ruling on whether former FBI Director James Comey must stand trial over an Instagram post that allegedly violated court orders. The case, known as the \"Seashells\" matter, centers on a social‑media image posted by Comey that prosecutors say contravened a prior injunction related to ongoing investigations."
+   },
+   {
+    "type": "p",
+    "text": "Legal analysts note that the upcoming decision could clarify the scope of contempt powers in the digital age and set a precedent for how former officials are held accountable for online conduct. The judge’s ruling is expected within weeks, and a trial, if ordered, would add another chapter to the high‑profile legal battles surrounding the former director."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome could influence how U.S. officials are held accountable for online actions, with possible ripple effects for legal standards in Europe."
+   }
+  ],
+  "key_points": [
+   "A judge will soon decide if ex‑FBI chief James Comey faces trial for an Instagram post.",
+   "The case tests how court orders apply to social‑media activity by former officials."
+  ],
+  "meta_description": "Judge to rule soon on whether former FBI director James Comey must stand trial for an Instagram post, testing contempt limits.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "James Comey",
+   "FBI",
+   "legal proceedings",
+   "Instagram",
+   "court ruling"
+  ],
+  "slug": "judge-nears-decision-whether-exfbi-director-faces-trial-e148d1",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:57Z"
  },
  {
   "id": "0d618b01889969a8",
@@ -1106,5 +1746,58 @@
   "slug": "clubs-fear-political-interference-man-city-appeal-1090b9",
   "reading_minutes": 1,
   "added": "2026-10-08T19:08:27Z"
+ },
+ {
+  "id": "7f995d2aa52f7b49",
+  "source_url": "https://www.bbc.co.uk/sport/motorsport/articles/c68xkx9gqv89o",
+  "source": "BBC Sport",
+  "source_title": "Faster than F1: The extreme motorsport where women keep winning",
+  "source_summary": "Top Fuel drag racing is the only elite motorsport class where women frequently beat men to major titles.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f383/live/abedca80-bdc9-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-08T05:41:20+00:00",
+  "headline": "Women Dominate Top Fuel Drag Racing, Rare Elite Motorsport Win",
+  "body": [
+   {
+    "type": "p",
+    "text": "Top Fuel drag racing stands out as the sole elite motorsport category where female competitors regularly outpace their male rivals for championship titles. The high‑speed, quarter‑mile sprint demands both raw power and precise engineering, and women have consistently proven their prowess on the track."
+   },
+   {
+    "type": "p",
+    "text": "Recent seasons have seen multiple women clinch major titles, underscoring a pattern of success rather than isolated victories. Their achievements highlight the sport’s unique openness to gender parity, contrasting with the broader motorsport landscape where female representation at the top level remains limited."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the visibility of women champions in Top Fuel helps broaden the appeal of drag racing and encourages greater participation across genders. The sport’s governing bodies continue to support this trend through inclusive policies and promotional initiatives."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dominance of women in Top Fuel showcases a rare example of gender parity in elite sport, offering a model for other motorsport series and inspiring wider audience engagement."
+   }
+  ],
+  "key_points": [
+   "Top Fuel drag racing is the only elite motorsport where women frequently win major titles.",
+   "Female drivers have secured multiple championships in recent seasons.",
+   "The sport’s gender‑inclusive success is drawing broader interest and participation."
+  ],
+  "meta_description": "Women regularly win top titles in elite Top Fuel drag racing, a unique case of gender parity in motorsport.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Top Fuel",
+   "drag racing",
+   "women in sport",
+   "motorsport",
+   "gender equality"
+  ],
+  "slug": "women-dominate-top-fuel-drag-racing-rare-elite-motorsport-7f995d",
+  "reading_minutes": 1,
+  "added": "2026-10-08T19:13:41Z"
  }
 ]
