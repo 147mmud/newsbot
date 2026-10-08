@@ -71,7 +71,7 @@ FEEDS = [
     ("https://rss.nytimes.com/services/xml/rss/nyt/World.xml",   "The New York Times", "world"),
     ("https://www.theguardian.com/world/rss",                    "The Guardian",  "world"),
     ("https://feeds.npr.org/1004/rss.xml",                       "NPR",           "world"),
-    ("https://www.dw.com/en/top-stories/rss",                    "DW",            "world"),
+    ("https://rss.dw.com/rdf/rss-en-all",                    "DW",            "world"),
     ("https://www.cbc.ca/webfeed/rss/rss-world",                 "CBC News",      "world"),
     ("http://rss.cnn.com/rss/edition_world.rss",                 "CNN",           "world"),
     # --- Politics ---
@@ -108,7 +108,7 @@ LLM_PROVIDERS = [
         "name": "groq",
         "key_env": "GROQ_API_KEY",
         "url": "https://api.groq.com/openai/v1/chat/completions",
-        "model": env("GROQ_MODEL", "llama-3.3-70b-versatile"),
+        "model": env("GROQ_MODEL", "openai/gpt-oss-120b"),
     },
     {
         "name": "gemini",
