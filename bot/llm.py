@@ -32,7 +32,20 @@ def active_provider_name() -> str:
     return next((p["name"] for p in _providers()), "none")
 
 
-def chat(system: str, user: str, max_tokens: int = 900) -> str | None:
+def _payload(model: str, system: str, user: str, max_tokens: int) -> dict:
+    body = {
+        "model": model,
+        "messages": [{"role": "system", "content": system},
+                     {"role": "user", "content": user}],
+        "temperature": 0.4,
+        "max_tokens": max_tokens,
+    }
+    if "gpt-oss" in model:          # reasoning models: keep thinking short & cheap
+        body["reasoning_effort"] = "low"
+    return body
+
+
+def chat(system: str, user: str, max_tokens: int = 2500) -> str | None:
     global _last_call
     for p in list(_providers()):
         for attempt in range(3):
@@ -45,13 +58,7 @@ def chat(system: str, user: str, max_tokens: int = 900) -> str | None:
                     p["url"],
                     headers={"Authorization": f"Bearer {os.environ[p['key_env']]}",
                              "Content-Type": "application/json"},
-                    json={
-                        "model": p["model"],
-                        "messages": [{"role": "system", "content": system},
-                                     {"role": "user", "content": user}],
-                        "temperature": 0.4,
-                        "max_tokens": max_tokens,
-                    },
+                    json=_payload(p["model"], system, user, max_tokens),
                     timeout=60,
                 )
             except requests.RequestException as exc:
