@@ -30,6 +30,16 @@ def run(args) -> int:
             feeds = [tuple((l.split("|") + [None, None])[:3]) for l in open(args.feeds_file).read().split("\n") if l.strip()]
         raw = fetcher.fetch_all(feeds)
         log.info("Fetched %d candidate items", len(raw))
+        # Round-robin across sections so one busy feed (e.g. Tech) can't fill
+        # the whole per-run quota.
+        buckets = {}
+        for it in raw:
+            buckets.setdefault(it.get("category_hint") or "other", []).append(it)
+        raw = []
+        while any(buckets.values()):
+            for key in list(buckets):
+                if buckets[key]:
+                    raw.append(buckets[key].pop(0))
         dedupe = store.Deduper(articles)
         for item in raw:
             if len(new) >= config.MAX_NEW_PER_RUN:
