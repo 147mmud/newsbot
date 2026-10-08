@@ -1,1 +1,96 @@
-# placeholder
+# NewsBot - runs every 30 minutes on GitHub's free runners (public repo = unlimited minutes)
+name: NewsBot
+
+on:
+  schedule:
+    # Minutes 7 and 37 instead of :00/:30 - GitHub delays jobs queued on the hour.
+    - cron: "7,37 * * * *"
+  workflow_dispatch:            # "Run workflow" button for manual runs
+  push:                         # rebuild when you change the design/code
+    branches: [main]
+    paths: ["templates/**", "static/**", "bot/**", "config.py", "main.py"]
+
+permissions:
+  contents: write    # commit data/articles.json back to the repo
+  pages: write       # deploy to GitHub Pages
+  id-token: write
+
+concurrency:
+  group: newsbot
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch, rewrite, build
+        env:
+          # ---- site ----
+          SITE_URL: ${{ vars.SITE_URL }}
+          SITE_NAME: ${{ vars.SITE_NAME }}
+          SITE_TAGLINE: ${{ vars.SITE_TAGLINE }}
+          CONTACT_EMAIL: ${{ vars.CONTACT_EMAIL }}
+          PUBLISH_TARGET: ${{ vars.PUBLISH_TARGET || 'static' }}
+          # ---- free LLM keys (optional; first one set is used) ----
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          # ---- WordPress (optional) ----
+          WP_URL: ${{ vars.WP_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          # ---- Adsterra codes (public anyway, so Variables not Secrets) ----
+          ADSTERRA_HEADER_728: ${{ vars.ADSTERRA_HEADER_728 }}
+          ADSTERRA_HEADER_320: ${{ vars.ADSTERRA_HEADER_320 }}
+          ADSTERRA_RECT_300: ${{ vars.ADSTERRA_RECT_300 }}
+          ADSTERRA_SKY_160: ${{ vars.ADSTERRA_SKY_160 }}
+          ADSTERRA_NATIVE: ${{ vars.ADSTERRA_NATIVE }}
+          ADSTERRA_SOCIAL_BAR: ${{ vars.ADSTERRA_SOCIAL_BAR }}
+          ADSTERRA_POPUNDER: ${{ vars.ADSTERRA_POPUNDER }}
+          ADSTERRA_STICKY_728: ${{ vars.ADSTERRA_STICKY_728 }}
+          ADSTERRA_STICKY_320: ${{ vars.ADSTERRA_STICKY_320 }}
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            python main.py --build-only
+          else
+            python main.py
+          fi
+
+      - name: Commit new articles
+        run: |
+          git config user.name  "newsbot"
+          git config user.email "newsbot@users.noreply.github.com"
+          git add data/articles.json
+          if git diff --cached --quiet; then
+            echo "No new articles"
+          else
+            git commit -m "news: $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        if: ${{ (vars.PUBLISH_TARGET || 'static') != 'wordpress' }}
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    if: ${{ (vars.PUBLISH_TARGET || 'static') != 'wordpress' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
