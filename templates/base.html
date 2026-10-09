@@ -29,6 +29,15 @@
 </script>
 <script src="{{ url('static/js/scores.js') }}" defer></script>
 <script src="{{ url('static/js/ads.js') }}" defer></script>
+{% if site.GA_MEASUREMENT_ID %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.GA_MEASUREMENT_ID }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.GA_MEASUREMENT_ID }}');
+</script>
+{% endif %}
 {% block head %}{% endblock %}
 </head>
 <body class="page-{{ page }}">
