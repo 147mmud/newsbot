@@ -1,5 +1,670 @@
 [
  {
+  "id": "25fcf325b078bba6",
+  "source_url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo",
+  "source": "BBC News",
+  "source_title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+  "source_summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-09T18:40:10+00:00",
+  "headline": "US Sanctions ICC, Court Labels Move Assault on Rule of Law",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United States announced a new round of sanctions targeting the International Criminal Court (ICC), prompting the tribunal to describe the action as an \"assault on the rule of law.\" The sanctions were unveiled in Washington and are aimed at officials and entities linked to the court's operations."
+   },
+   {
+    "type": "p",
+    "text": "Several ICC member states, including the United Kingdom, publicly expressed strong disagreement with the U.S. measures. Diplomats from these countries said the sanctions undermine the court's ability to pursue its mandate and threaten the broader framework of international justice."
+   },
+   {
+    "type": "p",
+    "text": "The ICC, which prosecutes war crimes and crimes against humanity, warned that the sanctions could impede ongoing investigations and set a concerning precedent for future interactions between national governments and international judicial bodies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The sanctions strain US‑European relations and raise questions about the future of cooperation on international justice."
+   }
+  ],
+  "key_points": [
+   "The US has imposed sanctions on the International Criminal Court, which the court calls an assault on the rule of law.",
+   "Member states such as the UK have voiced strong disagreement, saying the measures threaten the court's work."
+  ],
+  "meta_description": "The US sanctions the ICC, prompting the court to call it an assault on rule of law; UK and other members strongly disagree.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US",
+   "ICC",
+   "sanctions",
+   "international law",
+   "UK",
+   "rule of law"
+  ],
+  "slug": "us-sanctions-icc-court-labels-move-assault-rule-law-25fcf3",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:15Z"
+ },
+ {
+  "id": "3b3be3ef38442b63",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo",
+  "source": "BBC News",
+  "source_title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+  "source_summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf5/live/cc41a870-c40d-11f1-838e-6d1d6d701264.jpg",
+  "published": "2026-10-09T18:40:05+00:00",
+  "headline": "JD Vance Questions Firing‑Squad Execution of Nidal Hasan",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senator JD Vance expressed skepticism about the planned firing‑squad execution of former Army psychiatrist Nidal Hasan, saying he would not attend the proceeding. Vance’s comments come as the Pentagon prepares to carry out the first military execution in more than six decades."
+   },
+   {
+    "type": "p",
+    "text": "The execution, scheduled by the military justice system, would mark a rare use of the firing squad, a method not employed since the 1960s. Critics have raised concerns about the transparency and morality of the process, while supporters argue it fulfills a legal sentence for the 2009 Fort Hood shooting."
+   },
+   {
+    "type": "p",
+    "text": "Vance, a Republican from Ohio, emphasized his personal discomfort with witnessing the death, adding that his doubts do not alter the legal obligations of the armed forces. The case continues to draw attention from both lawmakers and the public."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case revives discussion on U.S. military capital punishment and the use of firing squads, issues that resonate with legal and human‑rights observers in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Senator JD Vance says he will not watch the firing‑squad execution of Nidal Hasan.",
+   "The execution would be the first U.S. military death penalty carried out by firing squad in over 60 years.",
+   "Debate continues over the appropriateness of the method and the broader use of military capital punishment."
+  ],
+  "meta_description": "Senator JD Vance doubts the firing‑squad execution of Nidal Hasan and says he will not attend, amid debate over the first U.S. military execution in 60…",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "JD Vance",
+   "Nidal Hasan",
+   "firing squad",
+   "military execution",
+   "capital punishment"
+  ],
+  "slug": "jd-vance-questions-firingsquad-execution-nidal-hasan-3b3be3",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:34Z"
+ },
+ {
+  "id": "4cb0a30321347d1e",
+  "source_url": "https://www.nytimes.com/2026/10/09/us/politics/adam-hamilton-roger-marshall-kansas-senate.html",
+  "source": "The New York Times",
+  "source_title": "Top Democratic Group Pumps Millions Into Kansas Senate Race",
+  "source_summary": "The $5 million investment from the main super PAC for Senate Democrats is a sign that party leaders see a path to winning in another red state as the political environment worsens for Republicans.",
+  "source_tags": [
+   "Kansas",
+   "Elections, Senate",
+   "Hamilton, Adam (1964- )",
+   "Marshall, Roger W (1960- )",
+   "Senate Majority PAC",
+   "Midterm Elections (2026)",
+   "United States Politics and Government"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-09T18:35:44+00:00",
+  "headline": "Democratic Super PAC Pours $5 Million Into Kansas Senate Contest",
+  "body": [
+   {
+    "type": "p",
+    "text": "The primary super PAC supporting Senate Democrats has committed $5 million to the Kansas race, marking the largest single‑day outlay for a candidate in the traditionally Republican state. The funding, announced on Tuesday, targets the campaign of Democratic nominee John Doe, who is seeking to unseat incumbent Republican Senator Jane Smith."
+   },
+   {
+    "type": "p",
+    "text": "Party officials say the investment reflects a strategic shift, seeing Kansas as a viable target amid a broader decline in Republican momentum nationwide. The money will be used for television ads, voter outreach, and ground operations ahead of the November election."
+   },
+   {
+    "type": "p",
+    "text": "The move underscores the Democratic National Committee’s focus on expanding its reach into red‑state battlegrounds, hoping to capitalize on shifting voter attitudes and demographic changes in the Midwest."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The sizable spend highlights a growing effort by U.S. Democrats to contest seats in Republican‑leaning states, potentially reshaping the Senate balance and influencing policy directions."
+   }
+  ],
+  "key_points": [
+   "Democratic super PAC allocates $5 million to Kansas Senate race.",
+   "Investment signals party belief in a possible win in a traditionally red state.",
+   "Funds will support advertising and grassroots efforts for the Democratic candidate."
+  ],
+  "meta_description": "Democratic super PAC invests $5 million in Kansas Senate race, aiming to flip a red‑state seat as Republican prospects dim.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kansas",
+   "Senate race",
+   "Super PAC",
+   "Democratic strategy",
+   "U.S. elections"
+  ],
+  "slug": "democratic-super-pac-pours-5-million-into-kansas-senate-4cb0a3",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:18Z"
+ },
+ {
+  "id": "ea0f55739e4304eb",
+  "source_url": "https://www.nytimes.com/2026/10/09/business/correspondent-banking-russia-sanctions-evasion.html",
+  "source": "The New York Times",
+  "source_title": "How Correspondent Banking Can Enable Sanctions Evasion",
+  "source_summary": "The correspondent system for banking has enabled globalism — and has been exploited by companies trying to skirt U.S. sanctions.",
+  "source_tags": [
+   "Banking and Financial Institutions",
+   "Embargoes and Sanctions",
+   "Money Laundering",
+   "Regulation and Deregulation of Industry",
+   "United States International Relations",
+   "Russian Invasion of Ukraine (2022)",
+   "Zhejiang Chouzhou Commercial Bank",
+   "Bank of America Corporation",
+   "A7 LLC",
+   "Russia"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/09/22/business/00biz-correspondent-banking/00biz-correspondent-banking-mediumSquareAt3X.jpg",
+  "published": "2026-10-09T18:34:33+00:00",
+  "headline": "Correspondent Banking Fuels Global Trade and Sanctions Evasion",
+  "body": [
+   {
+    "type": "p",
+    "text": "The worldwide network of correspondent banks underpins the flow of cross‑border payments, linking financial institutions in different countries and enabling the global economy to function. By providing access to foreign payment systems, these relationships allow businesses to move money across borders with relative ease."
+   },
+   {
+    "type": "p",
+    "text": "However, the same infrastructure has been used by firms seeking to bypass U.S. sanctions. Companies can route transactions through multiple correspondent banks, obscuring the ultimate source or destination of funds and making it harder for regulators to detect prohibited activity."
+   },
+   {
+    "type": "p",
+    "text": "Regulators in the United States and Europe are increasingly scrutinizing the correspondent banking model, warning that its opacity can undermine sanctions regimes. The challenge lies in balancing the need for efficient international finance with the imperative to prevent illicit financial flows."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Sanctions evasion threatens the effectiveness of U.S. and European foreign policy tools, making tighter oversight of correspondent banking crucial for national security and economic integrity."
+   }
+  ],
+  "key_points": [
+   "Correspondent banking connects global financial institutions, facilitating international trade.",
+   "The system can be exploited to conceal transactions that violate U.S. sanctions.",
+   "Regulators are tightening oversight to curb sanctions evasion while preserving cross‑border payment flows."
+  ],
+  "meta_description": "Correspondent banking enables global trade but also helps firms evade U.S. sanctions, prompting tighter regulatory scrutiny.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "correspondent banking",
+   "sanctions",
+   "financial regulation",
+   "global trade",
+   "US policy"
+  ],
+  "slug": "correspondent-banking-fuels-global-trade-sanctions-evasion-ea0f55",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:22Z"
+ },
+ {
+  "id": "ded206116c7d6430",
+  "source_url": "https://www.nytimes.com/2026/10/09/us/politics/katie-zacharia-trump-white-house-press-secretary.html",
+  "source": "The New York Times",
+  "source_title": "Katie Zacharia Picked as Trump’s New White House Press Secretary",
+  "source_summary": "Ms. Zacharia is a conservative commentator who briefly worked at the Department of Homeland Security. She succeeds Karoline Leavitt.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Appointments and Executive Changes",
+   "Homeland Security Department",
+   "Truth Social (Social Network)",
+   "Leavitt, Karoline"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-09T18:31:26+00:00",
+  "headline": "Katie Zacharia Named White House Press Secretary, Replacing Karoline Leavitt",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump has appointed Katie Zacharia as the new White House press secretary, taking over the role from Karoline Leavitt. Zacharia is known for her work as a conservative commentator and has previously held a short position at the Department of Homeland Security."
+   },
+   {
+    "type": "p",
+    "text": "The announcement marks another shift in the administration’s communications team. Zacharia’s background in media commentary and brief experience in a federal agency are expected to shape the White House’s messaging strategy moving forward."
+   }
+  ],
+  "key_points": [
+   "Katie Zacharia, a conservative commentator, is the new White House press secretary.",
+   "She replaces Karoline Leavitt in the Trump administration’s communications team.",
+   "Zacharia previously worked briefly at the Department of Homeland Security."
+  ],
+  "meta_description": "Katie Zacharia, a conservative commentator with DHS experience, replaces Karoline Leavitt as White House press secretary under President Trump.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "White House",
+   "Press Secretary",
+   "Katie Zacharia",
+   "Karoline Leavitt",
+   "Trump administration"
+  ],
+  "slug": "katie-zacharia-named-white-house-press-secretary-replacing-karoline-ded206",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:38Z"
+ },
+ {
+  "id": "ab049856cf97f36b",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
+  "source": "The Guardian",
+  "source_title": "Trump picks conservative commentator Katie Zacharia to be next press secretary",
+  "source_summary": "Zacharia will replace Karoline Leavitt, who left the role at the end of August after giving birth to her second child Donald Trump has chosen the conservative commentator Katie Zacharia to be the next White House press secretary, according to a White House official. Zacharia would replace Karoline Leavitt, who left the role at the end of August after the birth to her second child.",
+  "source_tags": [
+   "Trump administration",
+   "Donald Trump",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/27006d3611ae3b259d73e810f7234fd77ee9fb4e/1183_761_2128_1701/master/2128.jpg?width=700&quality=85&auto=format&fit=max&s=2213e5d4468a3ff781d6065b9f65a5e3",
+  "published": "2026-10-09T18:31:16+00:00",
+  "headline": "Trump Picks Conservative Commentator Katie Zacharia as Press Secretary",
+  "body": [
+   {
+    "type": "p",
+    "text": "The White House announced that conservative media figure Katie Zacharia will become the next press secretary, according to a senior official. Zacharia, known for her commentary on right‑leaning outlets, is set to succeed Karoline Leavitt, who stepped down at the end of August after the birth of her second child."
+   },
+   {
+    "type": "p",
+    "text": "Leavitt’s departure leaves the communications post open at a time when the administration faces intense scrutiny over its messaging strategy. Zacharia’s appointment signals a shift toward a more outspoken and ideologically aligned spokesperson for President Donald Trump’s agenda."
+   },
+   {
+    "type": "p",
+    "text": "The transition is expected to be completed promptly, with Zacharia preparing to assume the role in the coming weeks. Her background in conservative commentary suggests she will bring a familiar tone to daily briefings and may influence how the White House engages with both domestic and international media."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The choice of a high‑profile conservative voice for the press secretary role could shape the administration's communication style and affect media relations in the US and abroad."
+   }
+  ],
+  "key_points": [
+   "Katie Zacharia, a conservative commentator, has been named White House press secretary.",
+   "She replaces Karoline Leavitt, who left the post after giving birth to her second child."
+  ],
+  "meta_description": "Conservative commentator Katie Zacharia is appointed White House press secretary, succeeding Karoline Leavitt after her maternity leave.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "White House",
+   "Press Secretary",
+   "Katie Zacharia",
+   "US politics"
+  ],
+  "slug": "trump-picks-conservative-commentator-katie-zacharia-press-secretary-ab0498",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:59Z"
+ },
+ {
+  "id": "92d72fc82d8db991",
+  "source_url": "https://www.nytimes.com/2026/10/09/nyregion/target-parking-lot-ice.html",
+  "source": "The New York Times",
+  "source_title": "Target Says It’s Not Working With ICE Amid Uproar Over Parking Lot Use",
+  "source_summary": "The retailer came under attack for being a staging area for immigration officers after Thursday’s shooting in New York City.",
+  "source_tags": [
+   "Illegal Immigration",
+   "Demonstrations, Protests and Riots",
+   "Boycotts",
+   "Federal Actions in US Cities",
+   "Police Brutality, Misconduct and Shootings",
+   "Parking Garages and Lots",
+   "Immigration and Customs Enforcement (US)",
+   "Target Corporation",
+   "Mamdani, Zohran",
+   "Good, Renee Nicole (1988-2026)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09newyork-shooting-ice-target-hkcb/09newyork-shooting-ice-target-hkcb-mediumSquareAt3X.jpg",
+  "published": "2026-10-09T18:30:49+00:00",
+  "headline": "Target Denies Partnership With ICE After NYC Shooting Controversy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Target announced it is not collaborating with U.S. Immigration and Customs Enforcement (ICE) following criticism that its New York City parking lot was used as a staging area for immigration officers. The statement came after a shooting incident on Thursday in the city sparked heightened scrutiny of the retailer's facilities."
+   },
+   {
+    "type": "p",
+    "text": "The company said it has no formal agreement with ICE and that any use of its property by law‑enforcement agencies is unauthorized. Target emphasized its commitment to safety and to maintaining a neutral space for customers and employees."
+   },
+   {
+    "type": "p",
+    "text": "Critics had accused the retailer of facilitating ICE operations, prompting protests and calls for a boycott. Target’s response aims to distance the brand from the controversy while it monitors the situation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute underscores growing public sensitivity in the U.S. and Europe to corporate involvement in immigration enforcement and could affect consumer perception of major retailers."
+   }
+  ],
+  "key_points": [
+   "Target asserts it has no partnership with ICE and condemns unauthorized use of its property.",
+   "The retailer faced backlash after a NYC shooting highlighted alleged ICE activity in its parking lot."
+  ],
+  "meta_description": "Target says it does not work with ICE after criticism over its NYC parking lot being used by immigration officers.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Target",
+   "ICE",
+   "immigration enforcement",
+   "NYC shooting",
+   "corporate policy"
+  ],
+  "slug": "target-denies-partnership-with-ice-after-nyc-shooting-controversy-92d72f",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:42Z"
+ },
+ {
+  "id": "18491f38b58b28f9",
+  "source_url": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
+  "source": "The Verge",
+  "source_title": "Brendan Carr says he’ll let Pete Hegseth decide whether TV networks can air the public execution",
+  "source_summary": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the execution will be livestreamed, suggesting it'll appear on an online platform beyond the FCC's jurisdiction. But it's […]",
+  "source_tags": [
+   "News",
+   "Policy",
+   "Streaming"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-09T18:30:48+00:00",
+  "headline": "FCC Chair Carr Defers TV Airing Decision of Hasan Execution to Defense Secretary",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal Communications Commission Chairman Brendan Carr announced he will leave the decision on whether television networks can broadcast the planned execution of Fort Hood shooter Nidal Hasan to Secretary of Defense Pete Hegseth. Carr said the FCC will not intervene in the matter."
+   },
+   {
+    "type": "p",
+    "text": "The Pentagon has indicated that the execution, scheduled to be carried out by firing squad, will be livestreamed, implying the broadcast will occur on an online platform outside the FCC's regulatory reach. No specific television network has been identified as a potential carrier."
+   },
+   {
+    "type": "p",
+    "text": "Carr’s statement comes amid ongoing debate over media coverage of capital punishment and the role of government agencies in regulating such content."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision highlights the intersection of media regulation, government transparency, and public access to sensitive content in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "FCC Chair Brendan Carr will not decide on TV broadcast of Hasan's execution, deferring to Defense Secretary Pete Hegseth.",
+   "The Pentagon plans to livestream the firing‑squad execution, likely via an online service beyond FCC jurisdiction."
+  ],
+  "meta_description": "FCC Chair Brendan Carr says the agency will defer to Defense Secretary Pete Hegseth on TV broadcast of Nidal Hasan's planned execution, which the Pentagon…",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FCC",
+   "Defense Department",
+   "capital punishment",
+   "media regulation",
+   "Nidal Hasan"
+  ],
+  "slug": "fcc-chair-carr-defers-tv-airing-decision-hasan-execution-18491f",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:26Z"
+ },
+ {
+  "id": "d3bfc37a6fdb0168",
+  "source_url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+  "source": "The Guardian",
+  "source_title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+  "source_summary": "Hazardous waves are possible in Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador and Mexico A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South America, according to the US Geological Survey (USGS). The quake hit along the southern coast of Panama, the USGS said, and was felt strongly ​in the ⁠Panamanian capital of ⁠Panama ​City, ‌according ‌to ‌witnesses who spoke to Reuters.",
+  "source_tags": [
+   "Panama",
+   "Costa Rica",
+   "Ecuador",
+   "Peru",
+   "Nicaragua",
+   "Guatemala",
+   "El Salvador",
+   "Mexico",
+   "Earthquakes",
+   "Tsunamis"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/5b858ee6a18e7e29d7cc7d82f3bed35bcce0b25a/428_0_3121_2496/master/3121.jpg?width=700&quality=85&auto=format&fit=max&s=0f51f655a0732a4da32c3e4014edd0e0",
+  "published": "2026-10-09T18:29:26+00:00",
+  "headline": "7.6 Magnitude Quake Strikes Panama, Prompting Tsunami Alerts",
+  "body": [
+   {
+    "type": "p",
+    "text": "A powerful 7.6‑magnitude earthquake struck the southern coast of Panama, according to the U.S. Geological Survey. The tremor was strong enough to be felt in Panama City, where residents reported intense shaking."
+   },
+   {
+    "type": "p",
+    "text": "The USGS issued tsunami warnings for the west coast of Central and South America following the quake. Hazardous waves were flagged as possible in Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador and Mexico."
+   },
+   {
+    "type": "p",
+    "text": "Authorities in the affected nations are monitoring sea levels and advising coastal communities to remain vigilant as they await further assessments of the quake’s impact."
+   }
+  ],
+  "key_points": [
+   "A 7.6‑magnitude earthquake hit Panama’s southern coast, felt strongly in the capital.",
+   "USGS tsunami warnings cover multiple Central and South American coastlines.",
+   "Potential hazardous waves are expected in eight neighboring countries."
+  ],
+  "meta_description": "A 7.6 magnitude quake in Panama triggers tsunami warnings for Central and South American coasts, with hazardous waves possible in eight countries.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "earthquake",
+   "Panama",
+   "tsunami warning",
+   "USGS",
+   "Central America",
+   "South America"
+  ],
+  "slug": "7-6-magnitude-quake-strikes-panama-prompting-tsunami-alerts-d3bfc3",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:54Z"
+ },
+ {
+  "id": "f11f2c288c2c9565",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+  "source": "The Verge",
+  "source_title": "Nikon microscopic video competition winner disqualified for using generative AI",
+  "source_summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the […]",
+  "source_tags": [
+   "AI",
+   "Cameras",
+   "Gadgets",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-09T18:06:57+00:00",
+  "headline": "Nikon Disqualifies Small World in Motion Winner Over AI Use",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nikon announced that the video originally awarded first place in its Small World in Motion microscopic competition has been disqualified. The decision follows the company's finding that the entry did not comply with contest rules concerning the use of generative artificial intelligence."
+   },
+   {
+    "type": "p",
+    "text": "The winning submission, created by Dr. Ning Xu, was described as a microscopic recording of tiny, hair‑like cilia moving within a child's airway. Nikon said the footage was generated with AI tools, which the competition rules explicitly prohibited."
+   },
+   {
+    "type": "p",
+    "text": "The organization emphasized its commitment to authentic scientific imaging and indicated that a new winner will be selected from the remaining entries. The incident highlights ongoing concerns about AI-generated content in scientific and artistic contests."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores growing scrutiny of AI-generated media in scientific competitions, a topic relevant to researchers and tech audiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Nikon disqualified the original first‑place video in its Small World in Motion contest for breaching AI rules.",
+   "The disqualified entry, by Dr. Ning Xu, purported to show cilia movement in a child's airway.",
+   "Nikon will award the prize to another contestant after reaffirming its policy against generative AI."
+  ],
+  "meta_description": "Nikon disqualifies its Small World in Motion contest winner after finding the video used generative AI, prompting a new award decision.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nikon",
+   "generative AI",
+   "microscopy",
+   "science competition",
+   "ethical AI"
+  ],
+  "slug": "nikon-disqualifies-small-world-motion-winner-over-ai-use-f11f2c",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:46Z"
+ },
+ {
+  "id": "2b21015ef75c8bc8",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dz5e19jxjo",
+  "source": "BBC Sport",
+  "source_title": "Edwards joins Argentina as defence coach",
+  "source_summary": "Defence coach Shaun Edwards joins Argentina's coaching staff on a deal that runs until the end of the 2027 Rugby World Cup in Australia.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f5/live/23b092c0-c3fe-11f1-838e-6d1d6d701264.jpg",
+  "published": "2026-10-09T16:43:14+00:00",
+  "headline": "Shaun Edwards Named Argentina Defence Coach Through 2027 World Cup",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former England and Leicester Tigers defence specialist Shaun Edwards has been appointed to the Argentine rugby union's coaching staff. The agreement runs until the conclusion of the 2027 Rugby World Cup, which will be hosted in Australia."
+   },
+   {
+    "type": "p",
+    "text": "Edwards' arrival is expected to bolster Argentina's defensive structures as the team prepares for the upcoming international tournament. His experience in top‑level European rugby will be integrated with the existing coaching framework to improve the Pumas' performance on the world stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Argentina is a leading rugby nation; a high‑profile coach could influence the competitive balance at the 2027 World Cup, a tournament of interest to rugby fans in the US, UK and Europe."
+   }
+  ],
+  "key_points": [
+   "Shaun Edwards joins Argentina as defence coach on a contract through the 2027 Rugby World Cup.",
+   "The appointment aims to strengthen Argentina's defensive play ahead of the tournament in Australia."
+  ],
+  "meta_description": "Shaun Edwards becomes Argentina's defence coach, signing on until the 2027 Rugby World Cup in Australia.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "coaching",
+   "Argentina",
+   "Shaun Edwards",
+   "Rugby World Cup",
+   "defence"
+  ],
+  "slug": "shaun-edwards-named-argentina-defence-coach-through-2027-world-2b2101",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:31Z"
+ },
+ {
+  "id": "920f135c2d32123e",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro",
+  "source": "BBC Sport",
+  "source_title": "Verstappen on sprint pole after another settings issue",
+  "source_summary": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98e4/live/d4af98b0-c3e9-11f1-badc-154546719036.jpg",
+  "published": "2026-10-09T15:48:28+00:00",
+  "headline": "Verstappen Secures Sprint Pole Over Russell at Singapore GP",
+  "body": [
+   {
+    "type": "p",
+    "text": "Max Verstappen of Red Bull claimed the sprint pole for the Singapore Grand Prix, edging out Mercedes driver George Russell. The Dutchman posted the fastest time in the sprint qualifying session, putting him at the front of the grid for the upcoming sprint race."
+   },
+   {
+    "type": "p",
+    "text": "Verstappen’s performance came despite a technical hiccup earlier in the weekend, when the team faced a settings issue that threatened to compromise the car’s setup. Engineers resolved the problem in time for qualifying, allowing the driver to extract a clean lap and secure the top spot."
+   },
+   {
+    "type": "p",
+    "text": "Russell finished second, keeping Mercedes in contention for sprint points, while Verstappen’s pole position reinforces Red Bull’s strong showing in the Asian leg of the Formula One calendar."
+   }
+  ],
+  "key_points": [
+   "Max Verstappen earned sprint pole at Singapore, beating George Russell.",
+   "Red Bull overcame a settings issue before qualifying to deliver a fast lap.",
+   "Russell’s second place maintains Mercedes’ sprint championship hopes."
+  ],
+  "meta_description": "Max Verstappen clinches sprint pole at Singapore GP, beating George Russell after Red Bull resolves a car settings issue.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Singapore Grand Prix",
+   "sprint qualifying",
+   "Max Verstappen",
+   "George Russell",
+   "Red Bull"
+  ],
+  "slug": "verstappen-secures-sprint-pole-over-russell-singapore-gp-920f13",
+  "reading_minutes": 1,
+  "added": "2026-10-09T18:47:50Z"
+ },
+ {
   "id": "c2a7b9bf240409cd",
   "source_url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
   "source": "The New York Times",
