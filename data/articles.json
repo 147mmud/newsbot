@@ -1,5 +1,653 @@
 [
  {
+  "id": "c2a7b9bf240409cd",
+  "source_url": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
+  "source": "The New York Times",
+  "source_title": "Live Updates: Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
+  "source_summary": "Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a finding the Israeli government rejected.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/09/arts/09nobel-header-winner/09nobel-header-winner-mediumSquareAt3X.jpg",
+  "published": "2026-10-09T13:04:45+00:00",
+  "headline": "Rights Lawyer Navi Pillay Wins Nobel Peace Prize for Gaza Findings",
+  "body": [
+   {
+    "type": "p",
+    "text": "Navi Pillay, a veteran human‑rights lawyer and former judge in South Africa and on international war‑crimes tribunals, was awarded the Nobel Peace Prize. The Swedish committee cited her decades‑long work defending victims of conflict and her leadership of a United Nations fact‑finding panel on Gaza."
+   },
+   {
+    "type": "p",
+    "text": "The UN panel, chaired by Pillay, concluded that Israel’s actions in Gaza amounted to genocide against the Palestinian population. The Israeli government rejected the finding, calling it unfounded. Pillay’s Nobel award underscores the international community’s focus on accountability for alleged war crimes."
+   },
+   {
+    "type": "p",
+    "text": "Pillay’s career has spanned national and global courts, where she has pursued justice for victims of oppression. Her Nobel recognition highlights the role of legal experts in shaping global human‑rights discourse."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The award brings renewed attention to international legal standards and the Gaza conflict, issues that resonate with policymakers and the public in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Navi Pillay received the Nobel Peace Prize for her work on a UN panel that labeled Israel’s Gaza actions as genocide.",
+   "The panel’s finding was rejected by the Israeli government, intensifying debate over accountability in the conflict.",
+   "Pillay’s background includes service as a judge in South Africa and on international war‑crimes courts."
+  ],
+  "meta_description": "Human‑rights lawyer Navi Pillay wins the Nobel Peace Prize for leading a UN panel that deemed Israel's Gaza actions genocide.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Navi Pillay",
+   "Nobel Peace Prize",
+   "human rights",
+   "UN panel",
+   "Gaza",
+   "genocide"
+  ],
+  "slug": "rights-lawyer-navi-pillay-wins-nobel-peace-prize-gaza-c2a7b9",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:06:38Z"
+ },
+ {
+  "id": "fc0feb52c0b46a70",
+  "source_url": "https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Art for freedom: Maria Kalesnikava in Bonn",
+  "source_summary": "The Belarusian musician and civil rights activist Maria Kalesnikava held the keynote speech on the importance of art at the 2026 Beethovenfest in Bonn. She also visited DW.",
+  "source_tags": [
+   "Culture"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-09T13:03:00+00:00",
+  "headline": "Maria Kalesnikava Highlights Art’s Role at Beethovenfest Bonn",
+  "body": [
+   {
+    "type": "p",
+    "text": "Belarusian musician and civil‑rights activist Maria Kalesnikava delivered the keynote address at the 2026 Beethovenfest in Bonn, stressing how artistic expression can safeguard freedom. In her speech she recounted personal experiences of repression in Belarus and argued that music and visual art serve as powerful tools for dissent and solidarity."
+   },
+   {
+    "type": "p",
+    "text": "Kalesnikava’s appearance at the festival was part of a broader itinerary that included a visit to Deutsche Welle (DW), where she discussed the intersection of culture and human rights with journalists. She emphasized that artists worldwide share a responsibility to amplify voices that are silenced by authoritarian regimes."
+   },
+   {
+    "type": "p",
+    "text": "The event drew attention from festival attendees and the international press, highlighting the growing recognition of cultural platforms as venues for political dialogue. Organisers noted that the Beethovenfest aims to blend artistic excellence with contemporary social issues, positioning the festival as a stage for global conversations about liberty."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For Western audiences, the speech illustrates how cultural institutions are increasingly becoming arenas for promoting democratic values and supporting activists facing repression."
+   }
+  ],
+  "key_points": [
+   "Maria Kalesnikava used her Beethovenfest keynote to link art with the fight for freedom.",
+   "She met with DW journalists to discuss how culture can amplify human‑rights concerns.",
+   "The festival underscored the role of artistic events in fostering political discourse."
+  ],
+  "meta_description": "Maria Kalesnikava urged the power of art to protect freedom during her Beethovenfest Bonn keynote, highlighting culture's role in human‑rights advocacy.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Belarus",
+   "Maria Kalesnikava",
+   "Beethovenfest",
+   "art and freedom",
+   "civil rights",
+   "Germany"
+  ],
+  "slug": "maria-kalesnikava-highlights-arts-role-beethovenfest-bonn-fc0feb",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:06:57Z"
+ },
+ {
+  "id": "a6e5f858d2bdefff",
+  "source_url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo",
+  "source": "BBC News",
+  "source_title": "Burnham promises to curb non-compete rules in job contracts",
+  "source_summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887d/live/a06cb1b0-c3de-11f1-95ba-dba767ffba7e.png",
+  "published": "2026-10-09T13:02:47+00:00",
+  "headline": "UK Prime Minister Burnham Promises to Restrict Non‑Compete Clauses",
+  "body": [
+   {
+    "type": "p",
+    "text": "Prime Minister Rishi Burnham announced a government plan to curb the use of non‑compete clauses in employment contracts, saying the restrictions on former employees have \"gone too far\". The proposal will focus on limiting the duration and geographic scope of such clauses, especially in sectors where they are not essential to protect trade secrets."
+   },
+   {
+    "type": "p",
+    "text": "Burnham indicated that the new rules will be introduced through legislation and will be overseen by the Department for Business and Trade. The government aims to give workers greater freedom to change jobs without facing legal barriers, while still allowing companies to safeguard genuine commercial interests."
+   },
+   {
+    "type": "p",
+    "text": "The move follows growing criticism from trade unions and business groups that overly broad non‑compete agreements stifle competition and limit career mobility. Officials expect the reforms to be debated in Parliament within the next few months."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Limiting non‑compete clauses could increase labor market flexibility in the UK and set a precedent for similar reforms in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The UK government will introduce legislation to limit non‑compete clauses in job contracts.",
+   "Prime Minister Burnham says current restrictions have become excessive and hinder worker mobility.",
+   "The reforms aim to balance protection of trade secrets with employees' right to change jobs."
+  ],
+  "meta_description": "UK Prime Minister Burnham vows to limit non‑compete clauses in employment contracts, saying current restrictions have gone too far.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "labor law",
+   "non-compete",
+   "employment",
+   "Burnham",
+   "government"
+  ],
+  "slug": "uk-prime-minister-burnham-promises-restrict-noncompete-clauses-a6e5f8",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:06:41Z"
+ },
+ {
+  "id": "ffe8d13d42027f22",
+  "source_url": "https://www.theverge.com/entertainment/1008441/playdate-season-3",
+  "source": "The Verge",
+  "source_title": "The humble Playdate has become one of gaming’s best deals",
+  "source_summary": "The Playdate, Panic's tiny yellow handheld that launched in 2022, has slowly but surely become a great deal - which is a good thing, because everything else in gaming has only gotten more expensive. Despite being a weird device with a black-and-white screen and a crank jutting out the side, the Playdate has managed to […]",
+  "source_tags": [
+   "Analysis",
+   "Entertainment",
+   "Gaming",
+   "Report"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23396642/vpavic_220415_5149_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-09T13:00:00+00:00",
+  "headline": "Playdate Handheld Emerges as One of Gaming’s Best Value Deals",
+  "body": [
+   {
+    "type": "p",
+    "text": "Panic’s Playdate, a compact yellow handheld that debuted in 2022, has gradually earned a reputation as a standout bargain in the gaming market. The device’s distinctive features—a monochrome screen and a side‑mounted crank—set it apart from mainstream consoles."
+   },
+   {
+    "type": "p",
+    "text": "As prices for most gaming hardware continue to rise, the Playdate’s modest cost and unique game delivery model have attracted budget‑conscious players. Its library of quirky, episodic titles and the novelty of the crank controller contribute to its appeal without demanding a premium price tag."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the Playdate’s steady rise in popularity underscores a growing niche for affordable, experimental gaming experiences amid an otherwise inflation‑driven market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "With gaming hardware prices climbing in the US and Europe, the Playdate offers an inexpensive alternative for casual gamers seeking novel experiences."
+   }
+  ],
+  "key_points": [
+   "The Playdate launched in 2022 as a small yellow handheld with a black‑and‑white screen and a crank.",
+   "Its low price and unique game format have made it one of the most cost‑effective gaming options today.",
+   "Rising costs across the gaming sector highlight the Playdate’s appeal to budget‑focused consumers."
+  ],
+  "meta_description": "Panic's Playdate handheld, launched in 2022, is praised as a top value deal amid rising gaming hardware costs.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "gaming",
+   "handheld consoles",
+   "budget gaming",
+   "Playdate",
+   "tech trends"
+  ],
+  "slug": "playdate-handheld-emerges-one-gamings-best-value-deals-ffe8d1",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:06:44Z"
+ },
+ {
+  "id": "8441a304d4837e8b",
+  "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cwp9gxzyplk4o",
+  "source": "BBC Sport",
+  "source_title": "Fury-Joshua tickets priced up to £13,000 sell out in one hour",
+  "source_summary": "Tickets for Tyson Fury and Anthony Joshua's fight at Cardiff's Principality Stadium sells out in just one hour.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83c4/live/8f5b7ae0-c3da-11f1-95ba-dba767ffba7e.jpg",
+  "published": "2026-10-09T12:51:41+00:00",
+  "headline": "Fury-Joshua Fight Tickets Reach £13,000, Sold Out in One Hour",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tickets for the heavyweight showdown between Tyson Fury and Anthony Joshua at Cardiff's Principality Stadium were snapped up in just 60 minutes, according to the event promoter. Prices for the most coveted seats climbed to £13,000, reflecting the high demand for the bout."
+   },
+   {
+    "type": "p",
+    "text": "The rapid sell‑out underscores the magnitude of the fight, which pits two of the sport's biggest names against each other in a venue that can hold over 70,000 spectators. Fans from across the UK and beyond queued online, driving the price surge for premium sections."
+   },
+   {
+    "type": "p",
+    "text": "Organisers confirmed that all ticket categories were fully allocated within the hour, prompting speculation that secondary‑market prices could climb even higher as the event approaches."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The swift sell‑out shows the global appeal of heavyweight boxing, signalling strong market interest for future high‑profile fights in Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Fury‑Joshua tickets sold out in one hour.",
+   "Premium seats were priced up to £13,000.",
+   "The rapid sell‑out highlights strong demand for the heavyweight clash."
+  ],
+  "meta_description": "Tickets for the Fury‑Joshua heavyweight bout at Cardiff's Principality Stadium sold out in an hour, with premium seats reaching £13,000.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "boxing",
+   "Tyson Fury",
+   "Anthony Joshua",
+   "ticket sales",
+   "Principality Stadium",
+   "UK boxing"
+  ],
+  "slug": "fury-joshua-fight-tickets-reach-13-000-sold-out-8441a3",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:06:49Z"
+ },
+ {
+  "id": "38046ee1bd54fd3a",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cqlydnrperpko",
+  "source": "BBC Sport",
+  "source_title": "Djokovic suffers surprise Hurkacz loss in Shanghai",
+  "source_summary": "Novak Djokovic suffers a surprise second-round loss to Hubert Hurkacz at the Shanghai Masters, just three days after his triumph at the China Open in Beijing.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8307/live/533bd400-c3db-11f1-95ba-dba767ffba7e.jpg",
+  "published": "2026-10-09T12:50:28+00:00",
+  "headline": "Djokovic Stunned by Hurkacz in Shanghai Masters Second Round",
+  "body": [
+   {
+    "type": "p",
+    "text": "World No. 1 Novak Djokovic was eliminated in the second round of the Shanghai Masters after a surprising defeat to Poland's Hubert Hurkacz. The match ended Djokovic's run in the tournament much earlier than expected."
+   },
+   {
+    "type": "p",
+    "text": "The loss came just three days after Djokovic captured the China Open title in Beijing, highlighting a rapid shift in form. Hurkacz's victory was described as an upset given Djokovic's recent triumph and his status as the tournament favorite."
+   },
+   {
+    "type": "p",
+    "text": "The result adds an unexpected twist to the Asian swing of the ATP Tour, with the Polish player advancing further while the Serbian champion exits early."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The upset follows Djokovic's recent Beijing title, underscoring the unpredictable nature of the ATP tour for fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Novak Djokovic lost to Hubert Hurkacz in the Shanghai Masters second round.",
+   "The defeat followed Djokovic's China Open win only three days earlier.",
+   "Hurkacz's victory is considered a major upset on the ATP Tour."
+  ],
+  "meta_description": "Novak Djokovic suffers a surprise second‑round loss to Hubert Hurkacz at the Shanghai Masters, three days after winning the China Open.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Djokovic",
+   "Hurkacz",
+   "Shanghai Masters",
+   "tennis",
+   "ATP",
+   "China Open"
+  ],
+  "slug": "djokovic-stunned-hurkacz-shanghai-masters-second-round-38046e",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:07:09Z"
+ },
+ {
+  "id": "fc6a4a6531d7eb31",
+  "source_url": "https://www.dw.com/en/poland-lifeline-for-ukrainian-refugees-confronts-donor-fatigue-and-online-abuse-as-anti-ukrainian-sentiment-grows/a-79613292?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Poland: Lifeline for Ukrainian refugees confronts donor fatigue and online abuse as anti-Ukrainian sentiment grows",
+  "source_summary": "A Ukrainian woman who fled the war in her country built a lifeline for refugees in Poland. Now her organization faces donor fatigue, funding cuts and rising hostility as support for Ukrainians in Poland wanes.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-09T12:50:00+00:00",
+  "headline": "Refugee Aid Network Hits Funding Cuts as Anti‑Ukrainian Sentiment Rises",
+  "body": [
+   {
+    "type": "p",
+    "text": "A Ukrainian woman who escaped the war founded a volunteer network in Poland that provides shelter, food and legal assistance to displaced Ukrainians. The organization, which grew rapidly after the 2022 invasion, has become a key lifeline for thousands of refugees living in camps and private homes across the country."
+   },
+   {
+    "type": "p",
+    "text": "In recent months the network has reported a slowdown in donations, reduced grants from European donors and a decline in volunteer numbers. Officials say the slowdown reflects broader donor fatigue as the conflict drags on and competing crises divert attention and resources."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, anti‑Ukrainian sentiment is reportedly increasing in parts of Poland, with online abuse targeting refugees and volunteers. The hostile environment has made it harder for the aid group to operate, prompting calls for renewed public support and stronger protection measures for those assisting refugees."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The strain on refugee assistance in Poland could affect the stability of one of Europe’s largest Ukrainian diaspora communities and test the EU’s commitment to humanitarian support."
+   }
+  ],
+  "key_points": [
+   "The Polish refugee aid network founded by a Ukrainian expatriate is experiencing donor fatigue and funding cuts.",
+   "Rising anti‑Ukrainian sentiment and online abuse are adding pressure to the organization’s operations."
+  ],
+  "meta_description": "Polish refugee aid group faces funding cuts and growing anti‑Ukrainian hostility, threatening support for thousands of displaced Ukrainians.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "refugees",
+   "Poland",
+   "donor fatigue",
+   "anti-Ukrainian sentiment"
+  ],
+  "slug": "refugee-aid-network-hits-funding-cuts-antiukrainian-sentiment-rises-fc6a4a",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:07:17Z"
+ },
+ {
+  "id": "fbbc0778629d6f83",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo",
+  "source": "BBC News",
+  "source_title": "Polanski vows to stay on as Green leader as criticism mounts",
+  "source_summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10d/live/a324f3e0-c3de-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-09T12:49:29+00:00",
+  "headline": "Polanski Insists He’ll Remain Green Party Leader Amid Criticism",
+  "body": [
+   {
+    "type": "p",
+    "text": "Jewish Greens leader has called for Polanski to step down after a controversy over Zionism and a recent by‑election loss. The demand comes as the party faces internal pressure and public scrutiny."
+   },
+   {
+    "type": "p",
+    "text": "Despite the calls for his resignation, Polanski announced he will stay on as the Green party’s head, saying he remains committed to the party’s agenda. He did not address the specific allegations but emphasized continuity."
+   },
+   {
+    "type": "p",
+    "text": "The dispute highlights tensions within the party over its stance on Israel‑related issues and its electoral performance, with critics warning that the leadership battle could affect the Greens’ broader political prospects."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The leadership clash could influence the Green party’s direction in Europe and affect coalition dynamics in countries where greens hold sway."
+   }
+  ],
+  "key_points": [
+   "Jewish Greens leader urges Polanski to resign after a Zionism controversy and by‑election defeat.",
+   "Polanski says he will remain the Green party leader despite mounting criticism."
+  ],
+  "meta_description": "Jewish Greens leader demands Polanski’s resignation over a Zionism row, but he vows to stay on as party head amid criticism.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Polanski",
+   "Green Party",
+   "resignation demand",
+   "Zionism row",
+   "by-election",
+   "Jewish Greens"
+  ],
+  "slug": "polanski-insists-hell-remain-green-party-leader-amid-criticism-fbbc07",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:07:01Z"
+ },
+ {
+  "id": "603a1798959edc67",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo",
+  "source": "BBC News",
+  "source_title": "Anthropic bans users from being 'cruel' to its AI systems",
+  "source_summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg",
+  "published": "2026-10-09T12:34:27+00:00",
+  "headline": "Anthropic Bars Users From Abusive Interaction With Its AI Systems",
+  "body": [
+   {
+    "type": "p",
+    "text": "Anthropic announced that it will no longer allow users to engage in \"sustained and needless\" abusive behaviour toward its artificial intelligence models. The new rule prohibits any form of cruelty or harassment directed at the AI, aiming to foster more respectful interactions."
+   },
+   {
+    "type": "p",
+    "text": "The company said the policy change is intended to prevent harmful patterns that could degrade the user experience and the integrity of its technology. Users who violate the ban may face restrictions or loss of access to Anthropic's services."
+   },
+   {
+    "type": "p",
+    "text": "Anthropic's move reflects a growing trend among AI developers to set behavioural standards for how people treat machine learning systems, emphasizing ethical considerations in the deployment of advanced AI."
+   }
+  ],
+  "key_points": [
+   "Anthropic has instituted a ban on \"sustained and needless\" abusive behaviour toward its AI.",
+   "Violations of the new policy could result in user restrictions or loss of service.",
+   "The rule underscores a broader industry focus on ethical AI interaction."
+  ],
+  "meta_description": "Anthropic bans users from abusive treatment of its AI, citing ethical concerns and potential service restrictions.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "Anthropic",
+   "user policy",
+   "ethical AI",
+   "technology standards"
+  ],
+  "slug": "anthropic-bars-users-from-abusive-interaction-with-its-ai-603a17",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:07:04Z"
+ },
+ {
+  "id": "30d949226356a8f1",
+  "source_url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+  "source": "CNBC",
+  "source_title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+  "source_summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-09T12:20:12+00:00",
+  "headline": "Delta Air Lines Cuts 2026 Outlook Amid Fuel Price Surge, Says Demand Remains Strong",
+  "body": [
+   {
+    "type": "p",
+    "text": "Delta Air Lines announced a revision to its 2026 financial outlook, citing a sharp increase in fuel costs as the primary driver. The airline’s third‑quarter earnings fell short of Wall Street expectations, marking the first miss in two years."
+   },
+   {
+    "type": "p",
+    "text": "Despite the forecast downgrade, Delta chief executive Ed Bastian told investors that passenger demand remains robust across its network. He emphasized that the carrier is taking steps to mitigate higher fuel expenses while maintaining service levels."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the earnings miss reflects broader industry pressure from volatile energy prices, but they also pointed to Delta’s strong brand and capacity utilization as factors that could support future growth."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher fuel costs affect ticket prices and airline profitability, influencing travel budgets for U.S. and European consumers and investors."
+   }
+  ],
+  "key_points": [
+   "Delta lowered its 2026 earnings guidance because of a surge in fuel prices.",
+   "The airline missed quarterly earnings estimates for the first time in two years.",
+   "CEO Ed Bastian said passenger demand continues to be strong despite cost pressures."
+  ],
+  "meta_description": "Delta cuts its 2026 forecast due to rising fuel costs, misses Q3 earnings, but CEO says demand stays strong.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Delta Air Lines",
+   "fuel prices",
+   "aviation earnings",
+   "forecast downgrade",
+   "travel demand"
+  ],
+  "slug": "delta-air-lines-cuts-2026-outlook-amid-fuel-price-30d949",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:06:53Z"
+ },
+ {
+  "id": "db622c887bea06bd",
+  "source_url": "https://www.nytimes.com/2026/10/09/business/dealbook/openai-revenue-safety.html",
+  "source": "The New York Times",
+  "source_title": "The Fallout From OpenAI’s Revenue Surprise",
+  "source_summary": "News that the artificial intelligence giant’s sales weren’t growing as fast as investors had expected added to concerns about the A.I. boom.",
+  "source_tags": [
+   "internal-storyline-no",
+   "OpenAI Labs",
+   "Artificial Intelligence",
+   "Anthropic AI LLC",
+   "Coxon, Jacob",
+   "Industrial Espionage"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09db-openai-qhkz/09db-openai-qhkz-mediumSquareAt3X.jpg",
+  "published": "2026-10-09T12:06:43+00:00",
+  "headline": "OpenAI Misses Revenue Expectations, Fueling AI Boom Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "OpenAI reported that its sales growth fell short of analysts' forecasts, prompting a sharp reassessment of the company's financial outlook. The AI firm disclosed that revenue did not accelerate at the pace investors had anticipated, despite continued demand for its products."
+   },
+   {
+    "type": "p",
+    "text": "The earnings miss added to growing unease about the sustainability of the broader artificial‑intelligence boom, which has attracted massive capital inflows over the past year. Market commentators noted that the slowdown could signal a more cautious spending environment among enterprise customers."
+   },
+   {
+    "type": "p",
+    "text": "Investors responded with a sell‑off of OpenAI‑related stocks, and the news is expected to influence valuation models for other AI startups that rely on similar growth assumptions. The company has not provided a revised guidance timeline, leaving analysts to watch upcoming quarterly reports closely."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The revenue slowdown could reshape investment strategies in the AI market for U.S. and European investors who have been betting on continued rapid growth."
+   }
+  ],
+  "key_points": [
+   "OpenAI's revenue growth lagged behind analyst expectations.",
+   "The shortfall intensifies doubts about the durability of the AI sector's rapid expansion.",
+   "Share prices of AI‑linked firms fell as investors reassess growth forecasts."
+  ],
+  "meta_description": "OpenAI's slower‑than‑expected revenue growth raises doubts about the AI boom, prompting market caution.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "revenue",
+   "AI industry",
+   "investors",
+   "tech earnings"
+  ],
+  "slug": "openai-misses-revenue-expectations-fueling-ai-boom-concerns-db622c",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:07:13Z"
+ },
+ {
+  "id": "9f1dada88361ec18",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm4g13dqwj7zo",
+  "source": "BBC News",
+  "source_title": "Ex-first minister Mark Drakeford suggests Wales Office should go",
+  "source_summary": "Created 60 years ago, most of the powers it used to hold were transferred to Cardiff Bay in 1999.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aff/live/cdc05170-c3c6-11f1-8fc5-335d62f6730b.jpg",
+  "published": "2026-10-09T12:04:57+00:00",
+  "headline": "Former Welsh Leader Drakeford Calls for Abolishing Wales Office",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Welsh first minister Mark Drakeford has urged that the Wales Office, a UK government department created six decades ago, be discontinued. He argued that the office no longer serves a distinct purpose after most of its responsibilities were transferred to the Welsh government in Cardiff Bay in 1999."
+   },
+   {
+    "type": "p",
+    "text": "Drakeford highlighted that the devolution settlement has given Cardiff the majority of powers originally held by the Wales Office, making the London‑based department largely redundant. He suggested that the functions it still performs could be absorbed by existing Welsh institutions."
+   },
+   {
+    "type": "p",
+    "text": "The proposal comes as part of an ongoing debate about the structure of UK devolution and the efficiency of central government bodies that oversee devolved administrations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The suggestion reflects broader discussions in the UK about streamlining governance and the future of devolution, issues that affect UK‑EU relations and regional policy making."
+   }
+  ],
+  "key_points": [
+   "Mark Drakeford recommends scrapping the Wales Office, citing its reduced role since 1999.",
+   "The Wales Office was established 60 years ago but most powers shifted to Cardiff Bay after devolution.",
+   "Drakeford argues remaining duties could be handled by Welsh institutions."
+  ],
+  "meta_description": "Former Welsh first minister Mark Drakeford calls for the abolition of the Wales Office, saying its powers moved to Cardiff in 1999.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Wales",
+   "devolution",
+   "Mark Drakeford",
+   "UK politics",
+   "Wales Office"
+  ],
+  "slug": "former-welsh-leader-drakeford-calls-abolishing-wales-office-9f1dad",
+  "reading_minutes": 1,
+  "added": "2026-10-09T13:07:21Z"
+ },
+ {
   "id": "98b72b282d471698",
   "source_url": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o",
   "source": "BBC News",
