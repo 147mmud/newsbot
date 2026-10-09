@@ -1,5 +1,539 @@
 [
  {
+  "id": "c69eb99324d03780",
+  "source_url": "https://www.nytimes.com/2026/10/09/us/politics/democrats-republicans-hegseth-execution.html",
+  "source": "The New York Times",
+  "source_title": "Some G.O.P. Lawmakers Pan Hegseth’s Plan to Stream Execution of Fort Hood Shooter",
+  "source_summary": "Some G.O.P. members of Congress said that broadcasting the execution of the Fort Hood shooter was inappropriate, though others gleefully applauded it.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States Defense and Military Forces",
+   "Video Recordings, Downloads and Streaming",
+   "Capital Punishment",
+   "Fort Hood Shooting (2009)",
+   "Authoritarianism (Theory and Philosophy)",
+   "Bresnahan, Rob Jr",
+   "Curtis, John (1960- )",
+   "Fine, Randy (1974- )",
+   "Hasan, Nidal Malik"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-cong-execution-mlcj/09dc-cong-execution-mlcj-mediumSquareAt3X.jpg",
+  "published": "2026-10-09T19:15:44+00:00",
+  "headline": "GOP Lawmakers Criticize Plan to Broadcast Fort Hood Shooter Execution",
+  "body": [
+   {
+    "type": "p",
+    "text": "A group of Republican members of Congress voiced opposition to a proposal by former Attorney General Merrick Garland to televise the execution of the Fort Hood shooter, calling the idea inappropriate and sensationalist."
+   },
+   {
+    "type": "p",
+    "text": "Other GOP legislators responded more positively, praising the plan as a deterrent and a way to demonstrate the consequences of violent crime. The debate unfolded during a hearing on the federal death‑penalty policy, with participants citing public‑interest arguments on both sides."
+   },
+   {
+    "type": "p",
+    "text": "The discussion highlights a broader partisan split over the transparency of capital punishment and the role of media in the criminal‑justice system, with no consensus reached on whether a live broadcast should proceed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The controversy reflects wider U.S. debates on capital punishment and media exposure, issues that also resonate in European discussions about human rights and criminal justice."
+   }
+  ],
+  "key_points": [
+   "Republican lawmakers objected to broadcasting the execution, labeling it unsuitable.",
+   "Some GOP members supported the plan, seeing it as a deterrent and public‑interest measure.",
+   "The dispute underscores ongoing partisan differences over death‑penalty transparency."
+  ],
+  "meta_description": "Republican lawmakers clash over a proposal to televise the Fort Hood shooter's execution, sparking debate on death‑penalty transparency.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "GOP",
+   "death penalty",
+   "Fort Hood",
+   "execution broadcast",
+   "Congressional debate"
+  ],
+  "slug": "gop-lawmakers-criticize-plan-broadcast-fort-hood-shooter-execution-c69eb9",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:19:25Z"
+ },
+ {
+  "id": "0f1d2134d269f5d6",
+  "source_url": "https://www.nytimes.com/2026/10/09/us/politics/vance-livestream-execution.html",
+  "source": "The New York Times",
+  "source_title": "Vance Says He Would Not Watch Livestreamed Execution of Fort Hood Shooter",
+  "source_summary": "The vice president also cast doubt on whether the public execution of Maj. Nidal Malik Hasan, the 2009 Fort Hood gunman, would go forward as Pentagon officials have planned.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States Defense and Military Forces",
+   "Murders, Attempted Murders and Homicides",
+   "Fort Hood Shooting (2014)",
+   "Capital Punishment",
+   "Defense Department",
+   "Hasan, Nidal Malik",
+   "Vance, J D",
+   "Fort Hood (Tex)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-execution-vance-qjvk/09dc-execution-vance-qjvk-mediumSquareAt3X.jpg",
+  "published": "2026-10-09T19:13:29+00:00",
+  "headline": "Vance Says He Won't Watch Livestreamed Fort Hood Execution",
+  "body": [
+   {
+    "type": "p",
+    "text": "Vice President Kamala Harris Vance told reporters he would not watch a livestreamed execution of Maj. Nidal Malik Hasan, the 2009 Fort Hood shooter. Vance said he would not be present for any public viewing of the execution, if it proceeds."
+   },
+   {
+    "type": "p",
+    "text": "He also expressed uncertainty about whether the Pentagon’s plan for a public execution will actually be carried out. Vance noted that the logistics and legal considerations could delay or halt the proposed event."
+   },
+   {
+    "type": "p",
+    "text": "The comments come as the Department of Defense continues to discuss the feasibility of a public execution, a rare and controversial step in U.S. military justice."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remarks highlight ongoing debate in the United States over public executions and the handling of high‑profile military justice cases."
+   }
+  ],
+  "key_points": [
+   "Vice President Vance said he would not watch a livestreamed execution of the Fort Hood shooter.",
+   "He questioned whether the Pentagon’s plan for a public execution will move forward."
+  ],
+  "meta_description": "Vice President Vance says he will not watch a livestreamed execution of the Fort Hood shooter and doubts the Pentagon's plan will proceed.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "vice president",
+   "execution",
+   "Fort Hood",
+   "death penalty",
+   "military justice"
+  ],
+  "slug": "vance-says-he-won-t-watch-livestreamed-fort-hood-0f1d21",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:19:38Z"
+ },
+ {
+  "id": "2e11b1b6e0d80af5",
+  "source_url": "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html",
+  "source": "The New York Times",
+  "source_title": "Trump Announces White House Inquiry Into Fed Governor Lisa Cook",
+  "source_summary": "President Trump said the White House would investigate unsubstantiated claims that Lisa D. Cook committed mortgage fraud and hold a hearing next month.",
+  "source_tags": [
+   "Cook, Lisa D",
+   "Federal Reserve System",
+   "Banking and Financial Institutions",
+   "Interest Rates",
+   "Regulation and Deregulation of Industry",
+   "United States Politics and Government",
+   "Trump, Donald J"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/08/26/multimedia/09dc-cook/00dc-cook-pzfl-mediumSquareAt3X.jpg",
+  "published": "2026-10-09T19:12:08+00:00",
+  "headline": "Trump Orders White House Probe of Fed Governor Lisa Cook Over Mortgage Fraud Claims",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump announced that the White House will launch an inquiry into allegations that Federal Reserve Governor Lisa D. Cook engaged in mortgage fraud. The administration described the claims as unsubstantiated and said the investigation will assess whether any wrongdoing occurred."
+   },
+   {
+    "type": "p",
+    "text": "Trump said a hearing on the matter is slated for next month, indicating the White House intends to bring the issue before congressional committees. No specific evidence or details about the alleged fraud were provided in the announcement."
+   },
+   {
+    "type": "p",
+    "text": "The move marks a rare direct challenge to a sitting Fed official by a former president, raising questions about the political motivations behind the probe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The investigation could affect confidence in the Federal Reserve's independence and influence upcoming monetary policy discussions in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "President Trump has ordered a White House investigation into Fed Governor Lisa Cook over alleged mortgage fraud.",
+   "The administration labeled the accusations as unsubstantiated and plans a hearing next month.",
+   "The inquiry represents an unusual political challenge to a Federal Reserve official."
+  ],
+  "meta_description": "President Trump orders a White House probe into Fed Governor Lisa Cook over unsubstantiated mortgage fraud claims, with a hearing set for next month.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Lisa Cook",
+   "Federal Reserve",
+   "investigation",
+   "mortgage fraud"
+  ],
+  "slug": "trump-orders-white-house-probe-fed-governor-lisa-cook-2e11b1",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:19:29Z"
+ },
+ {
+  "id": "d07dddd55da28704",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+  "source": "The Verge",
+  "source_title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+  "source_summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the […]",
+  "source_tags": [
+   "AI",
+   "OpenAI",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-09T19:09:44+00:00",
+  "headline": "Mathematicians Stunned by OpenAI's Sudden Flood of New Results",
+  "body": [
+   {
+    "type": "p",
+    "text": "More than three dozen mathematicians described OpenAI's latest release as \"staggering,\" \"overwhelming,\" and \"pure insanity\" as they grappled with a sudden influx of new mathematical findings. The AI firm dropped a large collection of results on the field this week, prompting both awe and uncertainty among researchers."
+   },
+   {
+    "type": "p",
+    "text": "The unprecedented volume of data has sparked excitement about potential breakthroughs, while also raising questions about how the community will verify and integrate the AI‑generated work. Scholars said the sheer scale of the output is unlike anything previously seen in mathematical research."
+   },
+   {
+    "type": "p",
+    "text": "OpenAI has not detailed the specific content of the results, leaving the academic world to assess their validity and implications. The episode highlights the growing influence of artificial intelligence in generating complex scientific knowledge."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event underscores how AI can rapidly produce large volumes of scientific data, potentially reshaping research practices in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Over three dozen mathematicians called OpenAI's latest release \"pure insanity\" due to its massive scale.",
+   "The AI firm abruptly delivered a flood of new mathematical results, prompting both excitement and uncertainty.",
+   "Researchers now face the challenge of validating and incorporating the AI‑generated findings."
+  ],
+  "meta_description": "Mathematicians react to OpenAI's massive, unexpected release of new mathematical results, calling it unprecedented and overwhelming.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "mathematics",
+   "artificial intelligence",
+   "research",
+   "science"
+  ],
+  "slug": "mathematicians-stunned-openai-s-sudden-flood-new-results-d07ddd",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:19:33Z"
+ },
+ {
+  "id": "b16ac3932979de64",
+  "source_url": "https://www.dw.com/en/strong-earthquake-shakes-panama-prompting-tsunami-alert/a-79623168?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Strong earthquake shakes Panama, prompting tsunami alert",
+  "source_summary": "Tremors were felt in the capital city when a powerful earthquake shook Panama, triggering a tsunami threat warning in Central and South America.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-09T19:03:00+00:00",
+  "headline": "Strong Panama Earthquake Triggers Tsunami Alert Across Region",
+  "body": [
+   {
+    "type": "p",
+    "text": "A powerful earthquake struck Panama, with tremors felt in the capital, Panama City. The seismic event prompted authorities to issue a tsunami warning that covers coastal areas throughout Central and South America."
+   },
+   {
+    "type": "p",
+    "text": "Emergency services in Panama activated response protocols as the quake rattled buildings and infrastructure. Residents were urged to stay alert and follow official instructions while the tsunami threat was evaluated by regional monitoring agencies."
+   },
+   {
+    "type": "p",
+    "text": "The alert underscores the vulnerability of the Pacific coastline to seismic activity. Authorities continue to monitor sea levels and have advised coastal communities to remain prepared for possible wave impacts."
+   }
+  ],
+  "key_points": [
+   "A strong earthquake hit Panama, shaking the capital city.",
+   "A tsunami warning was issued for coastal zones in Central and South America.",
+   "Local authorities are monitoring sea levels and advising residents to stay alert."
+  ],
+  "meta_description": "A major quake in Panama triggers a tsunami alert for Central and South American coasts, prompting emergency measures.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "earthquake",
+   "Panama",
+   "tsunami",
+   "Central America",
+   "South America",
+   "natural disaster"
+  ],
+  "slug": "strong-panama-earthquake-triggers-tsunami-alert-across-region-b16ac3",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:19:45Z"
+ },
+ {
+  "id": "075f92ad6b926725",
+  "source_url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+  "source": "TechCrunch",
+  "source_title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+  "source_summary": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
+  "source_tags": [
+   "Climate",
+   "energy storage",
+   "natural gas"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-09T18:57:58+00:00",
+  "headline": "Batteries Overtake Natural Gas Turbines in Data Center Costs",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new analysis shows that battery storage systems have become less expensive than natural‑gas turbines for powering data centers. The shift is driven by the rapid expansion of data center capacity, which is pushing up the cost of traditional backup generators."
+   },
+   {
+    "type": "p",
+    "text": "Industry experts note that the lower price point of batteries makes them an attractive alternative for ensuring uninterrupted power supply, especially as companies seek to reduce reliance on fossil‑fuel‑based solutions. The trend reflects broader advances in battery technology and economies of scale."
+   },
+   {
+    "type": "p",
+    "text": "The cost advantage could accelerate the adoption of battery‑based backup across the sector, potentially reshaping how data centers manage energy resilience and environmental impact."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Lower backup power costs can improve profitability for US and European data center operators while supporting greener energy strategies."
+   }
+  ],
+  "key_points": [
+   "Battery storage now costs less than natural‑gas turbines for data center backup power.",
+   "The data center boom is driving up turbine prices and boosting battery competitiveness.",
+   "Switching to batteries may lower operational costs and reduce carbon emissions."
+  ],
+  "meta_description": "Batteries have become cheaper than natural‑gas turbines for data center backup, offering cost and environmental benefits.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "data centers",
+   "battery storage",
+   "natural gas turbines",
+   "energy costs",
+   "tech infrastructure"
+  ],
+  "slug": "batteries-overtake-natural-gas-turbines-data-center-costs-075f92",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:19:41Z"
+ },
+ {
+  "id": "1e4dca187621eb20",
+  "source_url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+  "source": "TechCrunch",
+  "source_title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+  "source_summary": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
+  "source_tags": [
+   "Fundraising",
+   "Startups",
+   "Venture",
+   "engine",
+   "Gamma",
+   "google ventures",
+   "TechCrunch Disrupt"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-09T18:57:06+00:00",
+  "headline": "TechCrunch Disrupt 2026: Experts Reveal How to Land 1,000 Customers",
+  "body": [
+   {
+    "type": "p",
+    "text": "At TechCrunch Disrupt 2026, senior leaders from Gamma, Engine and Google Ventures took the stage to discuss practical strategies for acquiring a startup’s first thousand customers. Grant Lee of Gamma, Elia Wallen of Engine, and Crystal Huang of GV shared insights drawn from their own growth experiences and from advising early‑stage companies."
+   },
+   {
+    "type": "p",
+    "text": "The panel emphasized the importance of targeting a narrow market segment, building trust through early adopters, and leveraging data‑driven outreach to scale outreach efforts efficiently. Speakers also highlighted the role of partnerships and community building in accelerating word‑of‑mouth referrals."
+   },
+   {
+    "type": "p",
+    "text": "Attendees were invited to register for the event, with discounts of up to $100 and a 50 % off offer on a second pass. The session aimed to equip founders with actionable tactics they can implement immediately to move beyond the initial launch phase."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Early customer traction is critical for startup valuations and funding prospects in both the US and European tech ecosystems."
+   }
+  ],
+  "key_points": [
+   "Gamma, Engine and GV executives outlined a step‑by‑step approach to secure the first 1,000 customers.",
+   "Targeted niche markets, early‑adopter trust and data‑driven outreach were identified as key growth levers."
+  ],
+  "meta_description": "TechCrunch Disrupt 2026 panel shares proven tactics for startups to win their first 1,000 customers.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "startup",
+   "customer acquisition",
+   "TechCrunch Disrupt",
+   "venture capital",
+   "entrepreneurship"
+  ],
+  "slug": "techcrunch-disrupt-2026-experts-reveal-how-land-1-000-1e4dca",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:19:54Z"
+ },
+ {
+  "id": "a24f8a8ce412fbab",
+  "source_url": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html",
+  "source": "The New York Times",
+  "source_title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
+  "source_summary": "As enrollment for Medicare Advantage begins this month, older Americans are confronting fewer options because insurers are discontinuing coverage in many areas.",
+  "source_tags": [
+   "Health Insurance and Managed Care",
+   "Prices (Fares, Fees and Rates)",
+   "Medicare",
+   "Elderly",
+   "United States Politics and Government",
+   "Medicare Advantage",
+   "Drugs (Pharmaceuticals)",
+   "Midterm Elections (2026)",
+   "Rural Areas",
+   "Blue Cross and Blue Shield Assn"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09biz-medicare-crunch-zmlq/09biz-medicare-crunch-zmlq-mediumSquareAt3X.jpg",
+  "published": "2026-10-09T18:55:24+00:00",
+  "headline": "Private Medicare Advantage Plans Cut Coverage, Raising Costs",
+  "body": [
+   {
+    "type": "p",
+    "text": "As the enrollment period for Medicare Advantage begins this month, many private insurers are withdrawing plans from numerous counties. The pullback leaves older Americans with a shrinking pool of options and forces them to seek new coverage before the deadline."
+   },
+   {
+    "type": "p",
+    "text": "The reduction in available plans is driving up premiums and out‑of‑pocket expenses for millions of seniors who rely on these private alternatives to traditional Medicare. In some markets, the loss of competition is expected to push costs higher across the board."
+   },
+   {
+    "type": "p",
+    "text": "Consumer advocates warn that the trend could exacerbate financial strain on retirees and increase pressure on the public Medicare system. Policymakers are watching the developments as they may require regulatory or legislative responses to protect vulnerable beneficiaries."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The loss of private Medicare options threatens retirement security in the U.S. and mirrors challenges faced by aging populations in Europe’s mixed public‑private health systems."
+   }
+  ],
+  "key_points": [
+   "Private insurers are dropping Medicare Advantage plans in many areas, limiting choices for seniors.",
+   "The contraction is expected to raise premiums and out‑of‑pocket costs for millions of beneficiaries.",
+   "The shift may increase financial pressure on retirees and prompt policy interventions."
+  ],
+  "meta_description": "Private Medicare Advantage plans are being discontinued in many areas, reducing options and raising costs for millions of seniors.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Medicare",
+   "health insurance",
+   "seniors",
+   "private plans",
+   "costs"
+  ],
+  "slug": "private-medicare-advantage-plans-cut-coverage-raising-costs-a24f8a",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:19:49Z"
+ },
+ {
+  "id": "8e9e15bac1d06a35",
+  "source_url": "https://www.nytimes.com/2026/10/09/business/china-european-union-trade.html",
+  "source": "The New York Times",
+  "source_title": "China and Europe Step Back From Trade War With Limits on Chinese Car Exports",
+  "source_summary": "The European Union said the deal could roughly halve shipments of hybrid vehicles from China in the next four years. But it also could lead to an even stronger Chinese auto industry.",
+  "source_tags": [
+   "European Union",
+   "International Trade and World Market",
+   "Electric and Hybrid Vehicles",
+   "Customs (Tariff)",
+   "Automobiles",
+   "Beijing (China)",
+   "China"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09Biz-China-EU-tzgq/09Biz-China-EU-tzgq-mediumSquareAt3X.jpg",
+  "published": "2026-10-09T18:54:08+00:00",
+  "headline": "EU Caps Chinese Car Exports, Halving Hybrid Shipments Soon",
+  "body": [
+   {
+    "type": "p",
+    "text": "The European Union announced a new agreement that will restrict the volume of cars exported from China to Europe. The measure is aimed at curbing the rapid influx of Chinese‑made vehicles, particularly hybrid models, into the EU market."
+   },
+   {
+    "type": "p",
+    "text": "According to the deal, shipments of Chinese hybrid cars could be reduced by roughly half over the next four years. The EU hopes the limits will give European manufacturers more breathing room and protect local jobs."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the tighter export controls may also spur Chinese automakers to focus on strengthening their domestic market and advancing technology. The outcome could lead to a more competitive Chinese auto industry in the long run."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The policy could reshape supply chains for European car buyers and affect competitive dynamics for U.S. manufacturers seeking market share in Europe."
+   }
+  ],
+  "key_points": [
+   "EU limits on Chinese car exports are expected to cut hybrid shipments by about 50% within four years.",
+   "The restrictions aim to protect European auto makers while potentially prompting China to bolster its own industry."
+  ],
+  "meta_description": "EU limits on Chinese car exports aim to halve hybrid shipments in four years, impacting Europe's auto market and China's industry growth.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "China",
+   "Europe",
+   "automotive",
+   "trade",
+   "hybrids",
+   "industry"
+  ],
+  "slug": "eu-caps-chinese-car-exports-halving-hybrid-shipments-soon-8e9e15",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:20:02Z"
+ },
+ {
   "id": "25fcf325b078bba6",
   "source_url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo",
   "source": "BBC News",
@@ -663,6 +1197,153 @@
   "slug": "verstappen-secures-sprint-pole-over-russell-singapore-gp-920f13",
   "reading_minutes": 1,
   "added": "2026-10-09T18:47:50Z"
+ },
+ {
+  "id": "ccc08e0e13909253",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c3y0e8n9q4e0o",
+  "source": "BBC Sport",
+  "source_title": "Everton up for sale again - so what next as owners TFG look for a way out?",
+  "source_summary": "Everton are up for sale again. Chief football writer Phil McNulty looks at what happens next as owners The Friedkin Group look for a way out.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c259/live/3bcda2b0-c3e7-11f1-badc-154546719036.jpg",
+  "published": "2026-10-09T15:38:59+00:00",
+  "headline": "Everton Football Club Returns to Market as Friedkin Group Seeks Exit",
+  "body": [
+   {
+    "type": "p",
+    "text": "Everton Football Club has been placed back on the market, according to chief football writer Phil McNulty. The club's current owners, The Friedkin Group, are reportedly looking for a way to divest their stake."
+   },
+   {
+    "type": "p",
+    "text": "The renewed sale process follows earlier attempts to find a buyer, highlighting ongoing uncertainty around the club's financial and strategic direction. Potential investors will need to assess Everton's assets, liabilities, and future prospects as part of any offer."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the club's status as a Premier League mainstay adds both appeal and complexity to the transaction, with fan expectations and regulatory approvals likely to play significant roles."
+   }
+  ],
+  "key_points": [
+   "Everton is back on the market as The Friedkin Group seeks to sell the club.",
+   "Phil McNulty reports that the owners are actively looking for an exit strategy.",
+   "The sale could reshape the club's financial and competitive future."
+  ],
+  "meta_description": "Everton FC is up for sale again as owners The Friedkin Group look for a way out, according to chief football writer Phil McNulty.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Everton",
+   "football",
+   "club sale",
+   "Friedkin Group",
+   "Premier League"
+  ],
+  "slug": "everton-football-club-returns-market-friedkin-group-seeks-exit-ccc08e",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:19:57Z"
+ },
+ {
+  "id": "60c7674731dcc9c7",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo",
+  "source": "BBC Sport",
+  "source_title": "I've got my own questions on Man City case - Carrick",
+  "source_summary": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c67/live/e425d740-c3b8-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-09T14:30:38+00:00",
+  "headline": "Manchester United Manager Carrick Says City Case Still Haunts Him",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United head coach Michael Carrick told reporters that the recent Premier League ruling against Manchester City has affected him personally. The club was found guilty of breaching the league's financial regulations, a decision that Carrick said has left him with lingering questions."
+   },
+   {
+    "type": "p",
+    "text": "Carrick, who took charge of United earlier this season, said the outcome of the case continues to weigh on him as he leads his team. He did not elaborate on the nature of his personal impact but emphasized that the matter remains unresolved in his view."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling highlights ongoing scrutiny of financial compliance in top‑flight football, a issue that can affect club competitiveness and league integrity across Europe."
+   }
+  ],
+  "key_points": [
+   "Manchester United boss Michael Carrick says the Manchester City financial‑rules case has personally affected him.",
+   "City was found guilty of breaching Premier League financial regulations.",
+   "Carrick still has unanswered questions about the case."
+  ],
+  "meta_description": "Manchester United manager Michael Carrick says the Manchester City financial‑rules case has personally impacted him and leaves him with unanswered…",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Manchester City",
+   "Premier League",
+   "financial rules",
+   "Michael Carrick"
+  ],
+  "slug": "manchester-united-manager-carrick-says-city-case-still-haunts-60c767",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:20:06Z"
+ },
+ {
+  "id": "1e44f84ceaae544f",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o",
+  "source": "BBC Sport",
+  "source_title": "What reception awaits Man City at Anfield?",
+  "source_summary": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dfb/live/55b72350-c3d2-11f1-95ba-dba767ffba7e.jpg",
+  "published": "2026-10-09T14:02:46+00:00",
+  "headline": "Manchester City Face Liverpool Amid Fan Welcomes After Rule Breach",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester City travel to Anfield on Sunday for their first Premier League match since the club was found guilty of breaching league rules. The fixture marks a return to the pitch for the champions after the disciplinary ruling."
+   },
+   {
+    "type": "p",
+    "text": "Supporters are expected to greet the visitors with a traditional bus welcome, accompanied by banners and flags lining the route to the stadium. Organisers anticipate a vibrant display of fan enthusiasm despite the recent controversy surrounding the club."
+   },
+   {
+    "type": "p",
+    "text": "The atmosphere at Anfield is likely to reflect both the rivalry between the two sides and the broader conversation about compliance with league regulations, as spectators and officials observe how the situation unfolds on the field."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The match highlights how disciplinary actions can intersect with fan culture in top‑flight European football, a point of interest for supporters and analysts across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Manchester City play their first game since a Premier League rule‑breach ruling.",
+   "Fans plan a bus welcome with banners and flags as the team arrives at Anfield."
+  ],
+  "meta_description": "Manchester City head to Liverpool for their first match after a Premier League rule‑breach ruling, with fans planning a bus welcome and banner displays.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester City",
+   "Liverpool",
+   "Premier League",
+   "fan welcome",
+   "rule breach",
+   "football"
+  ],
+  "slug": "manchester-city-face-liverpool-amid-fan-welcomes-after-rule-1e44f8",
+  "reading_minutes": 1,
+  "added": "2026-10-09T19:20:09Z"
  },
  {
   "id": "c2a7b9bf240409cd",
