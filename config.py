@@ -172,6 +172,9 @@ ADS = {
     "sticky_728":    env("ADSTERRA_STICKY_728", ""),
     "sticky_320":    env("ADSTERRA_STICKY_320", ""),
 }
+# Google Analytics 4 Measurement ID (e.g. G-XXXXXXXXXX). Leave empty to disable.
+GA_MEASUREMENT_ID = env("GA_MEASUREMENT_ID", "")
+
 # Draw labelled dashed boxes where ads will go (for previewing the layout
 # before you have Adsterra codes). Never enable in production.
 ADS_PREVIEW = env("ADS_PREVIEW", False, bool)
