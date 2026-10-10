@@ -1,5 +1,565 @@
 [
  {
+  "id": "8bc05b7198c02b2f",
+  "source_url": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
+  "source": "The New York Times",
+  "source_title": "Pentagon Again Increases Number of U.S. Casualties in Iran War",
+  "source_summary": "In an unannounced change, the Defense Department is now acknowledging troops who died or were wounded in support roles.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "United States Defense and Military Forces",
+   "Deaths (Fatalities)",
+   "Midterm Elections (2026)",
+   "Defense Department",
+   "United States Central Command",
+   "Hegseth, Pete",
+   "Houlahan, Chrissy",
+   "Smith, David A",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/07/23/multimedia/10dc-iran-troopdeaths/10dc-iran-troopdeaths-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T23:22:20+00:00",
+  "headline": "Pentagon Raises U.S. Casualty Count in Iran War to Include Support Troops",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Defense Department announced an unpublicized revision to its casualty figures for the ongoing conflict in Iran, now counting service members who died or were wounded while performing support functions. The update expands the tally beyond combat‑line personnel to include logisticians, medical staff and other behind‑the‑scenes roles."
+   },
+   {
+    "type": "p",
+    "text": "The adjustment marks the second increase in reported U.S. losses since the war began, reflecting a broader acknowledgment of the risks faced by all deployed troops. Officials said the change aligns the official record with the reality on the ground, where support units are increasingly exposed to hostile fire and indirect attacks."
+   },
+   {
+    "type": "p",
+    "text": "No specific numbers were released in the statement, and the Pentagon did not provide a timeline for future updates. The revision comes amid growing scrutiny of the war’s human cost and its impact on military readiness and public opinion."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Including support troops highlights the broader human toll of the Iran conflict, influencing U.S. and European public debate over continued involvement."
+   }
+  ],
+  "key_points": [
+   "The Pentagon now includes support‑role personnel in its U.S. casualty count for the Iran war.",
+   "This is the second increase in reported casualties since the conflict began.",
+   "No detailed figures were disclosed in the latest announcement."
+  ],
+  "meta_description": "Pentagon revises U.S. casualty figures for the Iran war to include support personnel, marking a second increase in reported losses.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran war",
+   "U.S. military",
+   "casualties",
+   "Pentagon",
+   "defense department"
+  ],
+  "slug": "pentagon-raises-u-s-casualty-count-iran-war-include-8bc05b",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:27:36Z"
+ },
+ {
+  "id": "6ffda4820c017da3",
+  "source_url": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+  "source": "The New York Times",
+  "source_title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+  "source_summary": "Major TV networks were notified on Friday that the department was looking into whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Television",
+   "News and News Media",
+   "Antitrust Laws and Competition Issues",
+   "ABC Inc",
+   "CBS News",
+   "CNN",
+   "Fox News Channel",
+   "Justice Department",
+   "MS NOW"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10biz-media-investigation-gpjh/10biz-media-investigation-gpjh-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T23:21:07+00:00",
+  "headline": "Justice Department Probes TV Networks Over Trump Pool Coverage Suspension",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Justice Department notified major television networks on Friday that it is examining whether their decision to suspend pool coverage of former President Donald Trump may have breached antitrust regulations. The inquiry focuses on the coordinated halt of live broadcasts that traditionally feature multiple news outlets sharing footage of the president's public appearances."
+   },
+   {
+    "type": "p",
+    "text": "The investigation seeks to determine if the networks' collective action limited competition and reduced the availability of real-time coverage for viewers. Officials have not disclosed which networks are under review or the specific legal standards being applied."
+   },
+   {
+    "type": "p",
+    "text": "The Department of Justice has not indicated any immediate enforcement action, but the probe underscores heightened scrutiny of media practices that could affect market competition and public access to information."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The inquiry highlights potential legal risks for media companies that coordinate coverage, affecting both competition policy and public access to news in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "The Justice Department is investigating whether TV networks violated antitrust laws by jointly suspending pool coverage of Donald Trump.",
+   "The probe examines if the coordinated broadcast halt reduced competition and limited real-time news access.",
+   "No specific networks or enforcement actions have been disclosed at this stage."
+  ],
+  "meta_description": "Justice Dept. probes TV networks for possible antitrust violations after they halted pool coverage of former President Trump.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Justice Department",
+   "antitrust",
+   "TV networks",
+   "Trump",
+   "media coverage"
+  ],
+  "slug": "justice-department-probes-tv-networks-over-trump-pool-coverage-6ffda4",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:27:39Z"
+ },
+ {
+  "id": "e5c81b376f3c0221",
+  "source_url": "https://www.dw.com/en/storm-isaias-leaves-4-dead-as-it-moves-across-southern-us/a-79630125?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Storm Isaias leaves 4 dead as it moves across southern US",
+  "source_summary": "The storm, which is now a post-tropical cyclone, had made landfall near Destin, Florida on Friday evening. The storm brings heavy rainfall and powerful winds and has caused mass power outages in Florida and Alabama.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-10T23:09:00+00:00",
+  "headline": "Storm Isaias Leaves Four Dead as Post‑Tropical Cyclone Hits Gulf Coast",
+  "body": [
+   {
+    "type": "p",
+    "text": "The post‑tropical cyclone Isaias made landfall near Destin, Florida on Friday evening, bringing torrential rain and strong winds to the Gulf Coast. The system quickly moved inland, affecting both Florida and Alabama with widespread power outages and flooding."
+   },
+   {
+    "type": "p",
+    "text": "Emergency officials reported four fatalities linked to the storm, and utility crews are working to restore electricity to thousands of customers. Heavy downpours have caused localized flooding, while gusts have downed trees and power lines across the affected counties."
+   },
+   {
+    "type": "p",
+    "text": "Meteorologists noted that Isaias retained much of its intensity despite losing tropical characteristics, underscoring the threat posed by post‑tropical systems in the region during the autumn season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The storm highlights the vulnerability of U.S. power infrastructure to severe weather and serves as a reminder that post‑tropical cyclones can still produce dangerous conditions similar to hurricanes."
+   }
+  ],
+  "key_points": [
+   "Storm Isaias made landfall near Destin, Florida as a post‑tropical cyclone.",
+   "Four people died and extensive power outages were reported in Florida and Alabama.",
+   "Heavy rain and strong winds caused flooding and damage despite the storm’s loss of tropical status."
+  ],
+  "meta_description": "Storm Isaias, now a post‑tropical cyclone, hit Destin, Florida, killing four and causing widespread power outages in Florida and Alabama.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Storm Isaias",
+   "post‑tropical cyclone",
+   "Florida",
+   "Alabama",
+   "power outages"
+  ],
+  "slug": "storm-isaias-leaves-four-dead-posttropical-cyclone-hits-gulf-e5c81b",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:27:48Z"
+ },
+ {
+  "id": "7c5ac0dfb6ede7cf",
+  "source_url": "https://www.dw.com/en/palestinian-president-postpones-elections-until-late-2027/a-79630075?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Palestinian president postpones elections until late 2027",
+  "source_summary": "Palestinian President Mahmoud Abbas previously committed to holding legislative elections in November 2026. He said that due to \"obstacles ⁠posed by Israeli measures\" the vote would be pushed back until late next year.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-10T22:54:00+00:00",
+  "headline": "Palestinian President Delays Legislative Elections to Late 2027",
+  "body": [
+   {
+    "type": "p",
+    "text": "Palestinian President Mahmoud Abbas announced that the legislative elections he had pledged to hold in November 2026 will be postponed until late 2027. The decision was presented as a response to what he described as \"obstacles posed by Israeli measures,\" though no specific details were provided in the statement."
+   },
+   {
+    "type": "p",
+    "text": "Abbas had previously committed to a November 2026 vote as part of a broader timeline for political reform and reconciliation within the Palestinian territories. The postponement pushes the electoral calendar back by more than a year, extending the current term of the Palestinian Legislative Council."
+   },
+   {
+    "type": "p",
+    "text": "The delay underscores ongoing tensions between Palestinian authorities and Israel, and it may affect internal Palestinian politics as factions vie for influence ahead of the rescheduled poll."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift in the election timeline could influence peace negotiations and U.S. and European diplomatic efforts in the region."
+   }
+  ],
+  "key_points": [
+   "President Mahmoud Abbas postponed the planned November 2026 legislative elections to late 2027.",
+   "The postponement is attributed to obstacles stemming from Israeli measures.",
+   "The delay extends the current legislative term and may reshape Palestinian political dynamics."
+  ],
+  "meta_description": "Palestinian President Mahmoud Abbas delays legislative elections to late 2027, citing Israeli obstacles.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Palestine",
+   "elections",
+   "Mahmoud Abbas",
+   "Israeli measures",
+   "political delay"
+  ],
+  "slug": "palestinian-president-delays-legislative-elections-late-2027-7c5ac0",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:27:59Z"
+ },
+ {
+  "id": "bd4cb90a20630270",
+  "source_url": "https://www.nytimes.com/2026/10/10/style/conor-kennedy-and-giulia-be-married-rio-brazil.html",
+  "source": "The New York Times",
+  "source_title": "Conor Kennedy and Giulia Be Married in Rio",
+  "source_summary": "The couple’s three-day wedding celebration in Rio de Janeiro brought together two families with political ties as rising tensions surround Brazil’s presidential election.",
+  "source_tags": [
+   "Weddings and Engagements",
+   "United States Politics and Government",
+   "Kennedy Family",
+   "Brazil",
+   "Rio de Janeiro (Brazil)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10ST-KENNEDY-RIO-qmwg/10ST-KENNEDY-RIO-qmwg-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T22:40:42+00:00",
+  "headline": "Conor Kennedy Marries Giulia in Rio Amid Brazil Election Tensions",
+  "body": [
+   {
+    "type": "p",
+    "text": "Conor Kennedy and Giulia Be were married in a three‑day celebration in Rio de Janeiro, bringing together members of their two families. The ceremony combined personal festivities with the presence of relatives who have long‑standing political connections in Brazil and the United States."
+   },
+   {
+    "type": "p",
+    "text": "The wedding took place as Brazil’s presidential election enters a period of heightened tension, drawing attention to the political backdrop surrounding the event. Observers noted that the gathering highlighted the cross‑border ties between prominent families on both sides of the Atlantic."
+   },
+   {
+    "type": "p",
+    "text": "Guests enjoyed a blend of cultural traditions and high‑profile attendance, underscoring how personal milestones can intersect with broader political narratives during a volatile electoral season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The marriage illustrates the intersection of prominent North American families with Brazil’s political elite at a time of electoral uncertainty."
+   }
+  ],
+  "key_points": [
+   "Conor Kennedy and Giulia Be wed in Rio in a three‑day ceremony attended by politically connected families.",
+   "The celebration coincided with rising tensions surrounding Brazil’s upcoming presidential election."
+  ],
+  "meta_description": "Conor Kennedy and Giulia Be's Rio wedding brings together politically linked families amid Brazil's election tensions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kennedy",
+   "Giulia Be",
+   "Rio wedding",
+   "Brazil election",
+   "political families",
+   "celebrity marriage"
+  ],
+  "slug": "conor-kennedy-marries-giulia-rio-amid-brazil-election-tensions-bd4cb9",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:27:52Z"
+ },
+ {
+  "id": "c28b369988e14aee",
+  "source_url": "https://www.nytimes.com/2026/10/10/us/politics/republicans-midterms-trump-diesel-russia.html",
+  "source": "The New York Times",
+  "source_title": "Some Republicans Reject Trump’s Move to Import Diesel Fuel From Russia",
+  "source_summary": "High diesel costs have posed a problem for Republicans in the midterms, but President Trump’s decision did not satisfy some candidates in key Senate races.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2022)",
+   "Rogers, Michael J (1963- )",
+   "Sullivan, Daniel Scott (1964- )",
+   "Trump, Donald J",
+   "Oil (Petroleum) and Gasoline"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/10/us/10pol-midterms-diesel-trump/10pol-midterms-diesel-trump-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T22:33:15+00:00",
+  "headline": "Republican Senate Candidates Push Back on Trump’s Russian Diesel Import Plan",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rising diesel prices have become a political headache for Republicans heading into the 2026 midterm elections. President Donald Trump announced a plan to import diesel fuel from Russia in an effort to lower costs, but the move has drawn criticism from several GOP Senate hopefuls in competitive races."
+   },
+   {
+    "type": "p",
+    "text": "Candidates in key battleground states argue that relying on Russian fuel could alienate voters and raise concerns about energy security. While the administration frames the import as a short‑term price relief measure, the dissenting Republicans say the strategy may backfire politically and undermine broader energy policy goals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Diesel price spikes affect everyday commuters and businesses, while reliance on Russian fuel touches on broader U.S. energy and foreign‑policy debates."
+   }
+  ],
+  "key_points": [
+   "High diesel costs are pressuring Republican candidates ahead of the midterms.",
+   "Trump’s proposal to import Russian diesel has been rejected by some GOP Senate contenders.",
+   "Critics fear the plan could hurt voter perception and raise energy‑security questions."
+  ],
+  "meta_description": "Republican Senate candidates criticize Trump's plan to import diesel from Russia amid rising fuel costs and midterm election pressures.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "diesel fuel",
+   "Republicans",
+   "Russia",
+   "Senate races"
+  ],
+  "slug": "republican-senate-candidates-push-back-trumps-russian-diesel-import-c28b36",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:28:03Z"
+ },
+ {
+  "id": "35dc91695d5dee44",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "source": "The Verge",
+  "source_title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+  "source_summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or […]",
+  "source_tags": [
+   "AI",
+   "Microsoft",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-10T22:10:17+00:00",
+  "headline": "Microsoft CEO Nadella Warns All AI Models Likely Compromised",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a detailed post on X, Microsoft chief executive Satya Nadella cautioned that the industry can no longer assume advanced AI systems are secure. He argued that treating AI as a \"set of nested black boxes\" whose outputs are accepted without scrutiny is increasingly unsafe."
+   },
+   {
+    "type": "p",
+    "text": "Nadella said the rapid evolution of large language models and other AI tools creates a landscape where malicious actors can infiltrate or manipulate them. He urged developers, regulators, and users to assume every model may be compromised and to build safeguards, verification mechanisms, and transparent oversight into AI pipelines."
+   },
+   {
+    "type": "p",
+    "text": "The Microsoft leader emphasized that this mindset shift is essential to protect critical decisions made by AI, from business analytics to public policy advice, and to maintain trust in the technology as it becomes more embedded in daily operations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European audiences, the warning underscores the need for stronger AI security standards and regulatory oversight as AI tools influence economic and policy decisions."
+   }
+  ],
+  "key_points": [
+   "Nadella asserts that all advanced AI models should be treated as potentially compromised.",
+   "He calls for systematic verification and oversight rather than blind reliance on AI outputs.",
+   "The warning highlights growing security concerns as AI becomes integral to business and governance."
+  ],
+  "meta_description": "Microsoft CEO Satya Nadella says AI models must be assumed compromised, urging verification and oversight to protect users.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "security",
+   "Microsoft",
+   "Nadella",
+   "cybersecurity",
+   "risk"
+  ],
+  "slug": "microsoft-ceo-nadella-warns-all-ai-models-likely-compromised-35dc91",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:27:44Z"
+ },
+ {
+  "id": "09ea0a7a95711950",
+  "source_url": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
+  "source_summary": "Officials said at least 12 people were killed in a strike on King Khalid International Airport in the Saudi capital, Riyadh. The airport had already been targeted multiple times this week.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-10T22:07:00+00:00",
+  "headline": "At Least 12 Killed and Hundreds Injured in Riyadh Airport Strike",
+  "body": [
+   {
+    "type": "p",
+    "text": "Saudi officials reported that a strike on King Khalid International Airport in Riyadh resulted in at least 12 deaths. The attack also left hundreds of passengers and staff wounded, according to authorities."
+   },
+   {
+    "type": "p",
+    "text": "The airport has been the target of several attacks this week, indicating a surge in violence against critical infrastructure in the Saudi capital. Security forces are investigating the incident while emergency services tend to the injured."
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores heightened security concerns in the region, with the airport remaining a key hub for international travel and commerce."
+   }
+  ],
+  "key_points": [
+   "A strike on Riyadh's King Khalid International Airport killed at least 12 people.",
+   "Hundreds more were injured in the attack.",
+   "The airport has faced multiple attacks this week, raising security alarms."
+  ],
+  "meta_description": "At least 12 people died and hundreds were injured in a strike on Riyadh's King Khalid International Airport, part of a series of attacks this week.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "Riyadh",
+   "airport attack",
+   "casualties",
+   "security"
+  ],
+  "slug": "least-12-killed-hundreds-injured-riyadh-airport-strike-09ea0a",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:28:15Z"
+ },
+ {
+  "id": "d05facb80f7a8876",
+  "source_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+  "source": "TechCrunch",
+  "source_title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+  "source_summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+  "source_tags": [
+   "AI",
+   "Microsoft",
+   "Satya Nadella"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-10T21:47:51+00:00",
+  "headline": "Microsoft CEO Urges ‘Emergency Brake’ for AI Trust Architecture",
+  "body": [
+   {
+    "type": "p",
+    "text": "Microsoft chief executive Satya Nadella posted on Saturday morning that the company must consider an \"emergency brake\" for artificial‑intelligence models. He framed the call as a pause to evaluate the underlying trust architecture that governs AI behavior."
+   },
+   {
+    "type": "p",
+    "text": "Nadella’s brief message emphasized the need to step back and assess how AI systems are built and monitored. The suggestion reflects growing concerns about the reliability and safety of increasingly powerful models."
+   },
+   {
+    "type": "p",
+    "text": "The CEO did not provide specific timelines or technical details, but his remarks signal that Microsoft is prioritizing safeguards as it continues to develop and deploy AI technologies."
+   }
+  ],
+  "key_points": [
+   "Satya Nadella says AI models need an \"emergency brake\" to ensure safety.",
+   "He urges a review of the trust architecture that underpins Microsoft’s AI systems."
+  ],
+  "meta_description": "Microsoft CEO Satya Nadella says AI models need an emergency brake and a review of their trust architecture.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Microsoft",
+   "AI",
+   "Satya Nadella",
+   "trust architecture",
+   "emergency brake"
+  ],
+  "slug": "microsoft-ceo-urges-emergency-brake-ai-trust-architecture-d05fac",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:27:56Z"
+ },
+ {
+  "id": "d6c0a0860e6d3ffc",
+  "source_url": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia",
+  "source": "NPR",
+  "source_title": "Trump's economic strategy resemble similar policies in East Asia",
+  "source_summary": "Much of the Trump administration's economic policy has been inspired by successful industrial policies successful in East Asia, including those of competitor, China. Will those policies work in the U.S.?",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5992884",
+  "published": "2026-10-10T21:40:18+00:00",
+  "headline": "Trump Administration Echoes East Asian Industrial Policies",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent analysis notes that many elements of the Trump administration’s economic agenda draw heavily from industrial strategies that have been credited with rapid growth in East Asian economies, including China. The report highlights similarities in government‑led investment, export‑oriented incentives, and targeted support for key manufacturing sectors."
+   },
+   {
+    "type": "p",
+    "text": "Proponents argue that adopting such policies could boost U.S. competitiveness by revitalizing domestic production and reducing reliance on foreign supply chains. Critics, however, caution that the political and market conditions in the United States differ markedly from those in East Asia, raising questions about the feasibility and potential side effects of transplanting these approaches."
+   },
+   {
+    "type": "p",
+    "text": "The study stops short of predicting outcomes, instead urging policymakers to weigh the lessons of East Asian success against the unique institutional landscape of the American economy before committing to large‑scale industrial interventions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding whether East Asian‑style industrial policies can be adapted in the U.S. informs debates on trade, manufacturing jobs, and economic competitiveness for both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "The Trump administration’s economic plan mirrors industrial policies used by East Asian nations, including China.",
+   "Supporters see potential for job creation and supply‑chain resilience, while skeptics warn of differing U.S. market dynamics."
+  ],
+  "meta_description": "Analysis finds Trump’s economic strategy mirrors East Asian industrial policies, sparking debate over its suitability for the U.S. economy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "economic policy",
+   "industrial policy",
+   "East Asia",
+   "China",
+   "US economy"
+  ],
+  "slug": "trump-administration-echoes-east-asian-industrial-policies-d6c0a0",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:28:12Z"
+ },
+ {
   "id": "9fe15a12a7df7ad0",
   "source_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
   "source": "TechCrunch",
@@ -370,6 +930,112 @@
   "slug": "brighton-defeat-sunderland-2-0-despite-red-card-controversy-9ddbcd",
   "reading_minutes": 1,
   "added": "2026-10-10T20:01:27Z"
+ },
+ {
+  "id": "aece79f37d20680b",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cw7v42y027gqo",
+  "source": "BBC Sport",
+  "source_title": "Ipswich produce late fightback to stun winless Fulham",
+  "source_summary": "Two goals in three minutes sees Ipswich produce a late fightback to snatch a 2-1 victory against Fulham at Portman Road, with the away side still searching for their first Premier League win of the season.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dde0/live/a3d0ab10-c4cc-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-10T19:00:14+00:00",
+  "headline": "Ipswich Rally Late to Edge Fulham 2-1 at Portman Road",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ipswich Town turned the tide in the closing stages of their Premier League clash with Fulham, scoring two goals within three minutes to secure a 2-1 win at Portman Road."
+   },
+   {
+    "type": "p",
+    "text": "The decisive strike came after a period of dominance by the home side, and the rapid double overturned Fulham's lead, leaving the visitors still searching for their first league victory of the season."
+   },
+   {
+    "type": "p",
+    "text": "The result provides Ipswich with a vital three points as they look to climb the table, while Fulham remain winless and will aim to regroup ahead of their next fixture."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The match highlights the competitive early season dynamics of the Premier League, a league followed closely by fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Ipswich scored two quick goals to win 2-1 after trailing Fulham.",
+   "Fulham continue their Premier League campaign without a win.",
+   "The victory gives Ipswich a crucial boost in the early season standings."
+  ],
+  "meta_description": "Ipswich staged a late comeback to beat winless Fulham 2-1 at Portman Road, scoring twice in three minutes.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ipswich",
+   "Fulham",
+   "Premier League",
+   "Portman Road",
+   "comeback"
+  ],
+  "slug": "ipswich-rally-late-edge-fulham-2-1-portman-road-aece79",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:28:07Z"
+ },
+ {
+  "id": "187c8a0e56f012c1",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cjy5zxv9qq1po",
+  "source": "BBC Sport",
+  "source_title": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
+  "source_summary": "Jordan Henderson has a home debut to remember as he scores twice for Chelsea as his side thrash Bournemouth 5-1 at Stamford Bridge, leaving the away side still searching for their first Premier League win this season.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e83/live/d582d610-c4cc-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-10T19:00:12+00:00",
+  "headline": "Henderson Nets Double as Chelsea Dominate Bournemouth 5-1",
+  "body": [
+   {
+    "type": "p",
+    "text": "Jordan Henderson marked his first home appearance for Chelsea with a brace, helping the Blues secure a commanding 5-1 victory over Bournemouth at Stamford Bridge."
+   },
+   {
+    "type": "p",
+    "text": "Chelsea displayed a five‑star performance, scoring five goals while limiting the visitors to a single reply. The win reinforces Chelsea's strong start to the Premier League season."
+   },
+   {
+    "type": "p",
+    "text": "Bournemouth remain without a league win this campaign, continuing their search for a first point after the heavy defeat."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result highlights Chelsea's early-season momentum in the Premier League, a league that draws significant viewership in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Jordan Henderson scored two goals on his Chelsea home debut.",
+   "Chelsea defeated Bournemouth 5-1 at Stamford Bridge.",
+   "Bournemouth are still winless in the Premier League this season."
+  ],
+  "meta_description": "Jordan Henderson scores twice as Chelsea thrash Bournemouth 5-1 in his home debut, leaving the visitors still winless.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chelsea",
+   "Premier League",
+   "Jordan Henderson",
+   "Bournemouth",
+   "football"
+  ],
+  "slug": "henderson-nets-double-chelsea-dominate-bournemouth-5-1-187c8a",
+  "reading_minutes": 1,
+  "added": "2026-10-10T23:28:19Z"
  },
  {
   "id": "e77e9ae83492452b",
