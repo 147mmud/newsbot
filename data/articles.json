@@ -1,5 +1,617 @@
 [
  {
+  "id": "9fe15a12a7df7ad0",
+  "source_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+  "source": "TechCrunch",
+  "source_title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+  "source_summary": "Is Apple hoping to get into the AI-generated podcast business?",
+  "source_tags": [
+   "AI",
+   "Media & Entertainment",
+   "Startups",
+   "Apple",
+   "Huxe"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-10T19:50:00+00:00",
+  "headline": "Apple Signs Deal to Hire Huxe Team and License Its Podcast AI Technology",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple announced a new agreement with Huxe, a startup that creates personalized podcast experiences using artificial intelligence. The deal includes hiring Huxe's engineering and product staff and obtaining a license for the company's AI-driven podcast technology."
+   },
+   {
+    "type": "p",
+    "text": "The arrangement signals Apple’s interest in expanding its audio offerings, potentially incorporating AI-generated or customized podcast content into its ecosystem. Details on the financial terms or timeline for integration were not disclosed."
+   },
+   {
+    "type": "p",
+    "text": "Huxe, known for tailoring podcast recommendations and generating audio content based on user preferences, will continue operating under its brand while collaborating with Apple’s services team."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Apple’s move could reshape how U.S. and European listeners discover and consume podcasts, adding AI personalization to a major platform."
+   }
+  ],
+  "key_points": [
+   "Apple will absorb Huxe’s team and license its AI podcast technology.",
+   "The partnership suggests Apple may broaden its AI-powered audio services.",
+   "Financial and rollout specifics of the deal were not revealed."
+  ],
+  "meta_description": "Apple hires Huxe staff and licenses its AI podcast tech, hinting at new AI-driven audio features.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "Huxe",
+   "podcast",
+   "AI",
+   "licensing",
+   "audio"
+  ],
+  "slug": "apple-signs-deal-hire-huxe-team-license-its-podcast-9fe15a",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:00:56Z"
+ },
+ {
+  "id": "68c1e3ecc1d0be8c",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo",
+  "source": "BBC News",
+  "source_title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+  "source_summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-10T19:28:28+00:00",
+  "headline": "Trump Urges New Ukrainian President After Diesel Deal Criticism",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former U.S. President Donald Trump said it is \"time for Ukraine to get a new president\" in response to President Volodymyr Zelensky's condemnation of a proposed diesel shipment from Russia to the United States. Zelensky warned that the arrangement could provide Moscow with additional funds to sustain its war effort."
+   },
+   {
+    "type": "p",
+    "text": "The diesel deal, which would see Russian fuel exported to the U.S., has sparked debate in Washington and Kyiv over its potential impact on Russian financing. Trump’s remarks add a political dimension to the controversy, suggesting a leadership change in Kyiv could alter Ukraine's approach to such negotiations."
+   },
+   {
+    "type": "p",
+    "text": "U.S. officials have not confirmed any official stance on the proposed shipment, and the discussion highlights ongoing tensions between supporting Ukraine’s defense needs and preventing revenue streams to Russia."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The debate over the diesel shipment underscores U.S. concerns about inadvertently supporting Russia’s war finances while aiding Ukraine."
+   }
+  ],
+  "key_points": [
+   "Trump called for a new Ukrainian president after Zelensky criticized a Russian diesel shipment to the U.S.",
+   "Zelensky warned the deal could help fund Russia's war against Ukraine."
+  ],
+  "meta_description": "Trump urges a new Ukrainian president after Zelensky condemns a Russian diesel deal that could fund Moscow's war.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Trump",
+   "Zelensky",
+   "diesel deal",
+   "Russia",
+   "US policy"
+  ],
+  "slug": "trump-urges-new-ukrainian-president-after-diesel-deal-criticism-68c1e3",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:00:59Z"
+ },
+ {
+  "id": "0dad3819eb486694",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo",
+  "source": "BBC Sport",
+  "source_title": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
+  "source_summary": "Dominic Solanke scores in stoppage time to salvage a point for 10-man Tottenham as they snatched a draw against Manchester United in a feisty encounter at Old Trafford.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b519/live/e8fd9930-c4d8-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-10T19:24:23+00:00",
+  "headline": "Solanke’s Late Goal Earns 10-Man Tottenham a Draw at Old Trafford",
+  "body": [
+   {
+    "type": "p",
+    "text": "Dominic Solanke struck in stoppage time to secure a point for Tottenham Hotspur after they were reduced to ten men. The English striker’s goal came in the final minutes of a tightly contested match at Manchester United’s Old Trafford ground."
+   },
+   {
+    "type": "p",
+    "text": "Both sides battled fiercely throughout the game, with Manchester United pressing for a win but unable to break the deadlock before Solanke’s intervention. Tottenham, playing with one player fewer after a red card, held firm and forced the encounter into a 1‑1 stalemate."
+   },
+   {
+    "type": "p",
+    "text": "The result leaves both clubs sharing the spoils in a match that highlighted the intensity of the Premier League rivalry. Solanke’s late finish ensured that Tottenham avoided defeat despite the numerical disadvantage, while United missed an opportunity to claim full three points at home."
+   }
+  ],
+  "key_points": [
+   "Dominic Solanke scored in added time to level the match for Tottenham.",
+   "Tottenham played the remainder of the game with ten men after a red card.",
+   "The game ended 1‑1, leaving both teams with one point each."
+  ],
+  "meta_description": "Dominic Solanke's stoppage‑time goal secures a 1‑1 draw for 10‑man Tottenham against Manchester United at Old Trafford.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tottenham",
+   "Manchester United",
+   "Premier League",
+   "Solanke",
+   "Old Trafford",
+   "red card"
+  ],
+  "slug": "solankes-late-goal-earns-10-man-tottenham-draw-old-0dad38",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:01:04Z"
+ },
+ {
+  "id": "1304eb701eb02a43",
+  "source_url": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Money, networks and bias: Why women struggle to win seats in US politics",
+  "source_summary": "The US is holding Congress and state governors elections. At all levels of US politics, women are underrepresented — but they may win some historic victories in the midterms on November 3.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-10T19:16:00+00:00",
+  "headline": "Women Face Barriers but Could Achieve Historic Wins in US Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Across federal, state and local races, women remain significantly underrepresented in American politics. Analysts point to a mix of financial hurdles, limited network access and persistent gender bias as the primary obstacles that keep female candidates from securing nominations and winning seats."
+   },
+   {
+    "type": "p",
+    "text": "Despite these challenges, the upcoming November 3 midterm elections present a potential turning point. Early projections suggest that a number of women candidates could break historical records by winning to the House, Senate and governorships, signaling a shift in voter attitudes and party strategies."
+   },
+   {
+    "type": "p",
+    "text": "Experts say that increased female representation could reshape policy priorities, especially on issues such as health care, education and family leave. The outcomes of these races will be closely watched both in the United States and abroad as a barometer of progress toward gender parity in governance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher female representation can affect policy directions in the US and offers a benchmark for gender equality efforts in Europe."
+   }
+  ],
+  "key_points": [
+   "Women remain underrepresented in US politics due to money, networks and bias.",
+   "The November 3 midterms could produce historic numbers of female winners.",
+   "Greater female representation may influence policy on health, education and family issues."
+  ],
+  "meta_description": "Women face financial and network barriers in US politics, but the November 3 midterms could yield historic wins, reshaping representation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "women",
+   "US elections",
+   "representation",
+   "midterms",
+   "gender bias"
+  ],
+  "slug": "women-face-barriers-but-could-achieve-historic-wins-us-1304eb",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:01:12Z"
+ },
+ {
+  "id": "56eb0ce4e3552852",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o",
+  "source": "BBC News",
+  "source_title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+  "source_summary": "Isaias made landfall in Florida on late Friday before being downgraded to a post-tropical cyclone.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd2/live/7e8f55f0-c4df-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-10T19:08:17+00:00",
+  "headline": "Four Dead, Thousands Lose Power as Hurricane Isaias Hits Florida",
+  "body": [
+   {
+    "type": "p",
+    "text": "Hurricane Isaias made landfall in Florida late Friday before being downgraded to a post‑tropical cyclone, leaving a trail of destruction across the state. Emergency officials reported four fatalities and widespread damage as the storm surged ashore."
+   },
+   {
+    "type": "p",
+    "text": "The storm knocked out electricity for thousands of residents, prompting utility crews to begin massive restoration efforts. Local authorities warned that power outages could persist for days as crews work to repair damaged infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "Isaias’s rapid transition to a post‑tropical system did not lessen its impact, with heavy rain and strong winds continuing to affect communities inland. Officials urged residents to stay cautious and follow safety advisories as clean‑up operations commence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event underscores the ongoing vulnerability of U.S. coastal regions to powerful storms and the strain such events place on power infrastructure."
+   }
+  ],
+  "key_points": [
+   "Four people died after Hurricane Isaias struck Florida.",
+   "Thousands were left without electricity following the storm.",
+   "The cyclone was downgraded to a post‑tropical system after landfall."
+  ],
+  "meta_description": "Hurricane Isaias hits Florida, killing four and leaving thousands without power as it weakens to a post‑tropical cyclone.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Hurricane Isaias",
+   "Florida",
+   "power outage",
+   "storm casualties",
+   "US weather"
+  ],
+  "slug": "four-dead-thousands-lose-power-hurricane-isaias-hits-florida-56eb0c",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:01:24Z"
+ },
+ {
+  "id": "3c348478df1a5f29",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cjwyz50g569zo",
+  "source": "BBC Sport",
+  "source_title": "Brentford extend unbeaten start as Ajer secures draw at Aston Villa",
+  "source_summary": "Brentford extend their unbeaten start to the new Premier League season as Kristoffer Ajer scores late to earn his side a 2-2 draw at Aston Villa, who's wait for a first home Premier League win of the season goes on.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb72/live/0346d6f0-c4cd-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-10T19:00:33+00:00",
+  "headline": "Brentford Keep Unbeaten Run Alive with Late Ajer Equaliser at Villa",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brentford extended their unbeaten start to the 2026‑27 Premier League season by salvaging a 2‑2 draw at Aston Villa. The match was decided in the closing minutes when defender Kristoffer Ajer headed home to level the score."
+   },
+   {
+    "type": "p",
+    "text": "Villa had taken the lead earlier in the game and were hoping to record their first home win of the campaign. Ajer's strike denied them that milestone and left both sides sharing the points."
+   },
+   {
+    "type": "p",
+    "text": "The result means Brentford remain unbeaten after two league fixtures, while Aston Villa continue to search for a home victory to boost their early‑season momentum."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The draw keeps Brentford in the early race for a top‑half finish, while Villa's continued search for a home win highlights the competitive balance at the start of the season."
+   }
+  ],
+  "key_points": [
+   "Brentford stayed unbeaten with a 2‑2 draw at Aston Villa thanks to a late goal by Kristoffer Ajer.",
+   "Aston Villa missed the chance to secure their first home Premier League win of the season."
+  ],
+  "meta_description": "Brentford remain unbeaten after a 2‑2 draw at Aston Villa, with Kristoffer Ajer scoring a late equaliser to deny Villa their first home win.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brentford",
+   "Aston Villa",
+   "Premier League",
+   "Kristoffer Ajer",
+   "draw"
+  ],
+  "slug": "brentford-keep-unbeaten-run-alive-with-late-ajer-equaliser-3c3484",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:01:16Z"
+ },
+ {
+  "id": "9ddbcd5f56af5664",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c6n8m3k7egd9o",
+  "source": "BBC Sport",
+  "source_title": "Struijk sees red but Brighton march on with win against Sunderland",
+  "source_summary": "Brighton maintained their excellent start to the new Premier League season, as they beat Sunderland 2-0 at the Stadium of Light, despite having to play much of the second half with ten men, after Pascal Struijk was shown a controversial red card.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7188/live/7394f370-c4cc-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-10T19:00:17+00:00",
+  "headline": "Brighton Defeat Sunderland 2-0 Despite Red Card Controversy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brighton continued their strong opening to the Premier League campaign by securing a 2-0 victory over Sunderland at the Stadium of Light. The win maintains their unbeaten start to the season and adds three points to their tally."
+   },
+   {
+    "type": "p",
+    "text": "The match turned contentious in the second half when Sunderland defender Pascal Struijk received a red card after a disputed challenge. Brighton were forced to play the remainder of the game with ten men, yet they held on to the lead."
+   },
+   {
+    "type": "p",
+    "text": "Goals from Brighton's attackers came before the dismissal, allowing the visitors to manage the game defensively and see out the win despite the numerical disadvantage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result keeps Brighton at the top of the early league table, highlighting their potential challenge for European spots, while the red‑card controversy may spark debate over officiating standards."
+   }
+  ],
+  "key_points": [
+   "Brighton beat Sunderland 2-0 at the Stadium of Light.",
+   "Pascal Struijk was sent off in a controversial decision, leaving Brighton with ten men.",
+   "The victory sustains Brighton's unbeaten start to the Premier League season."
+  ],
+  "meta_description": "Brighton win 2-0 at Sunderland despite a controversial red card for Pascal Struijk, maintaining their unbeaten start to the Premier League season.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Premier League",
+   "Brighton",
+   "Sunderland",
+   "red card",
+   "season start"
+  ],
+  "slug": "brighton-defeat-sunderland-2-0-despite-red-card-controversy-9ddbcd",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:01:27Z"
+ },
+ {
+  "id": "e77e9ae83492452b",
+  "source_url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+  "source": "The Verge",
+  "source_title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+  "source_summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that […]",
+  "source_tags": [
+   "AI",
+   "Copyright",
+   "Entertainment",
+   "Law",
+   "Music",
+   "News",
+   "Policy"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-10T18:52:07+00:00",
+  "headline": "DistroKid Removes Songs After Universal Music Group Lawsuit Claim",
+  "body": [
+   {
+    "type": "p",
+    "text": "Independent distribution platform DistroKid has begun deleting tracks from its catalog without warning, a move artists say is abrupt and unexplained. The company told The Verge that the removals are a direct reaction to a lawsuit filed by Universal Music Group (UMG) in September."
+   },
+   {
+    "type": "p",
+    "text": "UMG alleges that DistroKid operates an \"AI‑slop pipeline,\" suggesting the service enables the creation and distribution of music generated by artificial intelligence without proper licensing. In response, DistroKid has started pulling songs that may be implicated in the legal claim, though it has not provided specific criteria for the takedowns."
+   },
+   {
+    "type": "p",
+    "text": "Affected musicians have taken to social media to voice frustration, noting the lack of notice and the potential impact on their earnings and exposure. The situation highlights growing tensions between traditional record labels and digital distribution platforms over the use of AI in music production."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case illustrates how AI‑driven music creation is prompting legal battles that could affect how independent artists distribute their work in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "DistroKid is removing songs after a UMG lawsuit accusing it of facilitating AI‑generated music.",
+   "Artists report sudden takedowns without prior notice, raising concerns about revenue loss.",
+   "The dispute underscores broader industry conflicts over AI‑created content and licensing."
+  ],
+  "meta_description": "DistroKid is deleting songs after Universal Music Group's lawsuit claims the platform enables AI‑generated music, sparking artist backlash.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "DistroKid",
+   "Universal Music Group",
+   "AI music",
+   "copyright lawsuit",
+   "digital distribution"
+  ],
+  "slug": "distrokid-removes-songs-after-universal-music-group-lawsuit-claim-e77e9a",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:01:08Z"
+ },
+ {
+  "id": "39e7c522fad095f0",
+  "source_url": "https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html",
+  "source": "The New York Times",
+  "source_title": "Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle",
+  "source_summary": "The U.S. ambassador to Greece is facing accusations that she asked a donor to pay off her credit card bill before she took up her post in Athens.",
+  "source_tags": [
+   "United States International Relations",
+   "United States Politics and Government",
+   "Ethics and Official Misconduct",
+   "Guilfoyle, Kimberly",
+   "State Department",
+   "Trump, Donald J",
+   "Greece",
+   "Mitsotakis, Kyriakos"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09int-greece-guilfoyle-1-vjfb/09int-greece-guilfoyle-1-vjfb-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T17:48:20+00:00",
+  "headline": "US Ambassador to Greece Accused of Soliciting Donor Credit Card Help",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United States ambassador to Greece has come under fire after allegations surfaced that she requested a private donor to settle her personal credit‑card debt before assuming her diplomatic post in Athens. The claim, reported by local media, has sparked a wave of exasperation among Greek observers who view the request as a breach of ethical standards for public officials."
+   },
+   {
+    "type": "p",
+    "text": "Critics in Greece argue that the alleged solicitation undermines confidence in the new ambassador and raises questions about the influence of private donors on diplomatic appointments. The controversy has fueled calls for greater transparency in the vetting process for U.S. envoys abroad."
+   },
+   {
+    "type": "p",
+    "text": "While the ambassador has not publicly responded to the accusations, the episode highlights ongoing concerns about the intersection of personal finance and diplomatic service, and it may affect the perception of U.S. diplomatic conduct in the region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident could strain U.S.-Greek relations and underscores broader worries about donor influence in diplomatic roles."
+   }
+  ],
+  "key_points": [
+   "A U.S. ambassador to Greece is accused of asking a donor to pay her credit‑card bill before taking office.",
+   "The allegation has triggered public frustration in Greece and calls for more transparent diplomatic appointments."
+  ],
+  "meta_description": "U.S. ambassador to Greece faces accusations of seeking donor help for personal debt, sparking public outcry and calls for transparency.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US ambassador",
+   "Greece",
+   "diplomatic scandal",
+   "donor influence",
+   "politics"
+  ],
+  "slug": "us-ambassador-greece-accused-soliciting-donor-credit-card-help-39e7c5",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:01:20Z"
+ },
+ {
+  "id": "d3cb3584b4e4feac",
+  "source_url": "https://www.nytimes.com/2026/10/10/us/politics/trump-trees-golf-national-park.html",
+  "source": "The New York Times",
+  "source_title": "More Than 500 Trees to Be Cut Down at D.C. Golf Course That Trump Wants to Redo",
+  "source_summary": "The National Park Service notified a court of the plan as part of continuing litigation over the president’s proposal to create a “champion-level” course.",
+  "source_tags": [
+   "National Parks, Monuments and Seashores",
+   "Golf",
+   "Trees and Shrubs",
+   "Suits and Litigation (Civil)",
+   "National Park Service",
+   "DC Preservation League",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/10/us/dc-trees/dc-trees-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T17:38:39+00:00",
+  "headline": "More Than 500 Trees Targeted for Removal at D.C. Golf Course Plan",
+  "body": [
+   {
+    "type": "p",
+    "text": "The National Park Service has informed a federal court that a proposal to redesign a Washington, D.C., golf course would involve cutting down over 500 trees. The plan is part of a broader effort by President Donald Trump to create a \"champion-level\" golf facility on the site."
+   },
+   {
+    "type": "p",
+    "text": "The tree removal request is tied to ongoing litigation concerning the president's redevelopment proposal. Officials say the changes are intended to meet the standards of a top‑tier course, but opponents argue the environmental impact has not been fully considered."
+   },
+   {
+    "type": "p",
+    "text": "The court filing highlights the tension between the administration's recreational ambitions and preservation concerns, as the National Park Service seeks approval while litigation continues."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case illustrates how federal land use decisions can clash with conservation priorities, a concern for both U.S. and European audiences interested in environmental policy."
+   }
+  ],
+  "key_points": [
+   "The redesign plan calls for the removal of more than 500 trees at a D.C. golf course.",
+   "The National Park Service has submitted the tree‑cutting proposal to a federal court amid ongoing lawsuits.",
+   "President Trump's \"champion-level\" course proposal faces criticism over its environmental impact."
+  ],
+  "meta_description": "A court filing reveals plans to cut over 500 trees for a Trump‑backed redesign of a D.C. golf course, sparking legal and environmental debate.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Washington D.C.",
+   "golf course",
+   "tree removal",
+   "National Park Service",
+   "environmental litigation"
+  ],
+  "slug": "more-than-500-trees-targeted-removal-d-c-golf-d3cb35",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:01:31Z"
+ },
+ {
+  "id": "858e15a4e46b63b3",
+  "source_url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+  "source": "TechCrunch",
+  "source_title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+  "source_summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+  "source_tags": [
+   "Startups",
+   "data centers",
+   "energy"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-10T17:00:00+00:00",
+  "headline": "Petra Power Introduces Efficient Fuel Cells for Data Centers and Defense Vehicles",
+  "body": [
+   {
+    "type": "p",
+    "text": "Petra Power, a startup focused on clean energy solutions, announced a new line of fuel cells designed to power large‑scale data centers and military vehicles. The company says its technology delivers higher efficiency than conventional generators, translating into lower fuel consumption."
+   },
+   {
+    "type": "p",
+    "text": "According to Petra Power, the fuel cells can help mitigate the current electricity shortage that many technology firms are facing, especially as demand for cloud services and high‑performance computing continues to rise. By reducing reliance on grid power, the solution aims to cut operating costs for data‑center operators and provide a reliable energy source for defense platforms."
+   },
+   {
+    "type": "p",
+    "text": "The firm plans to roll out pilot installations later this year, targeting customers in North America and Europe. If successful, the technology could offer a scalable alternative to diesel generators and help address the broader challenge of meeting growing energy needs without expanding fossil‑fuel use."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Data centers and military operations in the US and Europe are grappling with rising power demand and supply gaps; Petra Power’s solution could ease costs and reduce reliance on traditional fossil fuels."
+   }
+  ],
+  "key_points": [
+   "Petra Power’s fuel cells promise higher efficiency and lower fuel costs for data centers and defense vehicles.",
+   "The technology is positioned as a response to the tech industry’s current electricity supply constraints."
+  ],
+  "meta_description": "Petra Power unveils efficient fuel cells to cut fuel costs for data centers and defense vehicles amid electricity shortages.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "fuel cells",
+   "data centers",
+   "defense vehicles",
+   "energy efficiency",
+   "startup",
+   "clean tech"
+  ],
+  "slug": "petra-power-introduces-efficient-fuel-cells-data-centers-defense-858e15",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:01:40Z"
+ },
+ {
   "id": "038035b4da476203",
   "source_url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o",
   "source": "BBC News",
@@ -667,6 +1279,60 @@
   "slug": "matt-renshaw-s-190-secures-australian-lead-over-south-cf1a93",
   "reading_minutes": 1,
   "added": "2026-10-10T15:51:27Z"
+ },
+ {
+  "id": "ae30740112738726",
+  "source_url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+  "source": "CNBC",
+  "source_title": "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
+  "source_summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-10T12:00:01+00:00",
+  "headline": "Retailers Trim Assortments From BJ’s to Lululemon to Spur Growth",
+  "body": [
+   {
+    "type": "p",
+    "text": "Major retail brands are deliberately narrowing their product assortments as a strategy to restore healthy growth. Companies ranging from warehouse club BJ’s Wholesale Club to apparel retailer Lululemon are reducing the number of SKUs they carry, focusing on higher‑margin items and clearer brand positioning."
+   },
+   {
+    "type": "p",
+    "text": "Big‑box chains are also culling low‑performing products to create more curated shopping experiences. By tightening inventory, they aim to improve inventory turnover, reduce excess stock costs, and better match consumer demand, which has softened in recent quarters."
+   },
+   {
+    "type": "p",
+    "text": "Analysts say the shift reflects a broader industry move away from the “more is better” mindset that dominated the pandemic boom. Retailers hope that a slimmer, more focused assortment will stabilize earnings and support sustainable expansion in a competitive market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European shoppers may see fewer choices but more consistent product availability, while investors watch for improved margins in the retail sector."
+   }
+  ],
+  "key_points": [
+   "Retailers like BJ’s and Lululemon are cutting product lines to improve profitability.",
+   "Box stores are curating offerings to boost inventory turnover and reduce excess stock.",
+   "The trend marks a shift toward leaner assortments after years of rapid expansion."
+  ],
+  "meta_description": "Retailers such as BJ’s and Lululemon are shrinking assortments to boost growth and profitability, signaling a shift toward leaner inventory strategies.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "retail",
+   "assortment reduction",
+   "growth strategy",
+   "BJ's",
+   "Lululemon",
+   "inventory management"
+  ],
+  "slug": "retailers-trim-assortments-from-bjs-lululemon-spur-growth-ae3074",
+  "reading_minutes": 1,
+  "added": "2026-10-10T20:01:36Z"
  },
  {
   "id": "5bec0443d4a2f532",
