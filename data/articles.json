@@ -1,5 +1,674 @@
 [
  {
+  "id": "038035b4da476203",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o",
+  "source": "BBC News",
+  "source_title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+  "source_summary": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cafe/live/bfd91a70-c4bf-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-10T15:50:06+00:00",
+  "headline": "Christa Pike Leaves Hospital for Prison After Surviving Two Lethal Injections",
+  "body": [
+   {
+    "type": "p",
+    "text": "Convicted murderer Christa Pike was discharged from a hospital on Monday and transferred back to a correctional facility, her legal team confirmed. Pike had been hospitalized in critical condition after surviving two attempts at lethal injection, a rare occurrence that drew significant media attention."
+   },
+   {
+    "type": "p",
+    "text": "According to her lawyers, medical staff determined Pike was stable enough to leave the hospital, though she remains under close observation. The prison authorities have not released details about her current health status or any further medical treatment she may receive while incarcerated."
+   },
+   {
+    "type": "p",
+    "text": "The case has reignited discussions about the administration of lethal injections and the protocols surrounding failed executions. While the incident occurred in the United States, it has been reported internationally, highlighting ongoing concerns about capital punishment practices."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event underscores ongoing controversies over execution methods in the United States, a topic of interest for policymakers and human‑rights observers in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Christa Pike was released from hospital and returned to prison after surviving two lethal injections.",
+   "She remains in critical condition but is considered stable enough for transfer.",
+   "The incident renews debate over lethal injection procedures."
+  ],
+  "meta_description": "Convicted killer Christa Pike leaves hospital for prison after surviving two lethal injections, sparking renewed debate on execution methods.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Christa Pike",
+   "capital punishment",
+   "lethal injection",
+   "prison health",
+   "legal controversy"
+  ],
+  "slug": "christa-pike-leaves-hospital-prison-after-surviving-two-lethal-038035",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:50:47Z"
+ },
+ {
+  "id": "51702e3e43fefd3a",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do",
+  "source": "BBC Sport",
+  "source_title": "Arsenal have issues to address despite Guimaraes' rescue act",
+  "source_summary": "Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a7b/live/dfa63d80-c4b3-11f1-892b-f7bfd6496ad0.jpg",
+  "published": "2026-10-10T15:44:14+00:00",
+  "headline": "Arsenal Face Ongoing Issues Even After Guimaraes' Rescue Effort",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal's season has been marked by a pattern of heroic moments and hard‑fought displays, according to recent commentary. Despite these flashes of resilience, the club continues to grapple with underlying problems that need attention."
+   },
+   {
+    "type": "p",
+    "text": "Midfielder Bruno Guimaraes has once again stepped in to salvage a result, delivering a decisive contribution that prevented a further setback. His intervention highlights the team's reliance on individual brilliance to offset broader shortcomings."
+   },
+   {
+    "type": "p",
+    "text": "The recurring need for such rescue acts underscores the urgency for Arsenal to resolve tactical and consistency issues if they are to compete effectively over the course of the campaign."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Arsenal is a high‑profile Premier League club, and its performance influences league standings and European competition prospects that interest fans across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Arsenal's season features recurring heroic performances but underlying issues remain.",
+   "Bruno Guimaraes' decisive actions have repeatedly rescued the team from difficult situations.",
+   "Addressing tactical and consistency problems is essential for sustained success."
+  ],
+  "meta_description": "Arsenal's ongoing problems persist despite Bruno Guimaraes' latest rescue, highlighting the need for broader improvements.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Premier League",
+   "Bruno Guimaraes",
+   "football",
+   "team performance"
+  ],
+  "slug": "arsenal-face-ongoing-issues-even-after-guimaraes-rescue-effort-51702e",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:50:52Z"
+ },
+ {
+  "id": "ea24cb5ac914986e",
+  "source_url": "https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html",
+  "source": "The New York Times",
+  "source_title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
+  "source_summary": "Ms. Pike, 50 and convicted of the 1995 murder of a classmate, survived two doses of the drug pentobarbital late last month.",
+  "source_tags": [
+   "Capital Punishment",
+   "Decisions and Verdicts",
+   "Drugs (Pharmaceuticals)",
+   "Pike, Christa (1976- )",
+   "Tennessee"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10nat-tn-christa-lfvq/10nat-tn-christa-lfvq-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T15:41:36+00:00",
+  "headline": "Christa Pike Discharged After Surviving Execution Attempt",
+  "body": [
+   {
+    "type": "p",
+    "text": "Fifty‑year‑old Christa Pike, convicted of the 1995 murder of a classmate, was released from the hospital after surviving an execution attempt. The attempt involved two separate doses of the lethal drug pentobarbital administered late last month."
+   },
+   {
+    "type": "p",
+    "text": "Medical staff reported that Pike remained alive despite the drug regimen, prompting her discharge once she was deemed medically stable. The case has drawn attention to the protocols surrounding lethal injection procedures in the United States."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights ongoing debates over the reliability and ethics of lethal injection methods in the U.S. death‑penalty system."
+   }
+  ],
+  "key_points": [
+   "Christa Pike, serving a murder sentence, survived two doses of pentobarbital used in an execution attempt.",
+   "She was discharged from the hospital after being declared medically stable."
+  ],
+  "meta_description": "Christa Pike, convicted of a 1995 murder, was discharged after surviving a lethal injection execution attempt.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Christa Pike",
+   "execution",
+   "death penalty",
+   "pentobarbital",
+   "criminal justice"
+  ],
+  "slug": "christa-pike-discharged-after-surviving-execution-attempt-ea24cb",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:50:56Z"
+ },
+ {
+  "id": "0056c9f0db823573",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6j5kyx2p1o",
+  "source": "BBC Sport",
+  "source_title": "Verstappen beats Ferraris to Singapore pole",
+  "source_summary": "Red Bull's Max Verstappen beats the Ferraris of Charles Leclerc and Lewis Hamilton to pole position in qualifying at the Singapore Grand Prix.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2084/live/95f182b0-c4ba-11f1-9ce9-55293bd7f0d9.jpg",
+  "published": "2026-10-10T15:29:12+00:00",
+  "headline": "Verstappen Secures Singapore Grand Prix Pole, Outpacing Ferraris",
+  "body": [
+   {
+    "type": "p",
+    "text": "Max Verstappen claimed pole position for the Singapore Grand Prix after a strong qualifying session, edging out the two Ferrari entries. The Dutch driver posted the fastest lap, securing the front row for Red Bull."
+   },
+   {
+    "type": "p",
+    "text": "Ferrari’s Charles Leclerc and former Mercedes star Lewis Hamilton completed the top three, finishing second and third respectively. Their times were close but insufficient to challenge Verstappen’s leading performance."
+   },
+   {
+    "type": "p",
+    "text": "The result sets the stage for a critical race in the Asian swing of the Formula One calendar, with the championship battle intensifying as the season progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Securing pole in Singapore gives Verstappen a strategic advantage in a key race that could influence the championship fight, a storyline followed closely by fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Max Verstappen took pole for the Singapore Grand Prix, beating both Ferraris.",
+   "Charles Leclerc and Lewis Hamilton rounded out the top three in qualifying.",
+   "The pole positions heighten the championship stakes heading into the Asian race."
+  ],
+  "meta_description": "Max Verstappen clinches Singapore Grand Prix pole, outpacing Ferraris of Charles Leclerc and Lewis Hamilton.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Singapore Grand Prix",
+   "Max Verstappen",
+   "Ferrari",
+   "pole position"
+  ],
+  "slug": "verstappen-secures-singapore-grand-prix-pole-outpacing-ferraris-0056c9",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:51:12Z"
+ },
+ {
+  "id": "b134901bac303efa",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no",
+  "source": "BBC News",
+  "source_title": "Saudi capital airport hit again, sparking evacuations, reports say",
+  "source_summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882f/live/23bf5530-c4c1-11f1-9ce9-55293bd7f0d9.jpg",
+  "published": "2026-10-10T15:05:55+00:00",
+  "headline": "Saudi Riyadh Airport Faces Second Attack, Evacuations Ordered",
+  "body": [
+   {
+    "type": "p",
+    "text": "A second incident struck the main airport serving Saudi Arabia's capital on Monday, prompting emergency evacuations of passengers and staff, officials said. The event follows a claim by Yemen's Houthi rebels that they carried out two deadly attacks on the Riyadh airport the previous day."
+   },
+   {
+    "type": "p",
+    "text": "Local authorities have not confirmed the nature of the latest incident, but reports describe it as a suspected attack that forced the temporary closure of terminals and the relocation of flights to alternate airports. Security forces are conducting investigations and securing the site while airlines work to re‑schedule disrupted services."
+   },
+   {
+    "type": "p",
+    "text": "The back‑to‑back incidents highlight heightened security concerns around Saudi transport infrastructure amid the ongoing conflict in the region. No casualty figures or details about damage have been released, and the airport is expected to resume limited operations once safety checks are completed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attacks raise concerns about the safety of major travel hubs in a key oil‑producing region, affecting passengers and international business."
+   }
+  ],
+  "key_points": [
+   "A second suspected attack hit Riyadh's main airport, leading to evacuations and temporary closure.",
+   "The incident follows Houthi claims of two deadly attacks on the same airport the day before."
+  ],
+  "meta_description": "A second suspected attack at Riyadh's main airport triggered evacuations, underscoring rising security threats in Saudi Arabia.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "Riyadh airport",
+   "Houthi rebels",
+   "aviation security",
+   "Middle East"
+  ],
+  "slug": "saudi-riyadh-airport-faces-second-attack-evacuations-ordered-b13490",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:51:08Z"
+ },
+ {
+  "id": "15d34cdc01af3c16",
+  "source_url": "https://www.dw.com/en/blast-reported-at-saudi-arabia-s-riyadh-airport/a-79628862?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Blast reported at Saudi Arabia's Riyadh airport",
+  "source_summary": "Riyadh's King Khalid International Airport has already been targeted multiple times this week amid intensified fighting between Yemen-based Houthi rebels and a Saudi-backed coalition.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-10T15:01:00+00:00",
+  "headline": "Blast Hits Riyadh’s King Khalid Airport Amid Houthi‑Coalition Fighting",
+  "body": [
+   {
+    "type": "p",
+    "text": "A blast was reported at King Khalid International Airport in Riyadh, Saudi Arabia, marking the latest incident at the hub this week. The explosion occurred amid a surge in hostilities between Yemen’s Houthi rebels and the Saudi-backed coalition fighting them."
+   },
+   {
+    "type": "p",
+    "text": "The airport has been targeted multiple times in recent days, reflecting the heightened intensity of the conflict that has spilled over into Saudi territory. Authorities have not released details on casualties or damage, but the repeated attacks raise concerns about security at a major regional transportation node."
+   },
+   {
+    "type": "p",
+    "text": "The incidents come as the Houthi movement continues its missile and drone campaign against Saudi interests, prompting the coalition to respond with airstrikes in Yemen. The ongoing violence threatens to disrupt air travel and could have broader implications for regional stability."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attacks on a major Saudi airport illustrate the expanding reach of the Yemen conflict, a factor that can affect regional security and global energy markets important to the US and Europe."
+   }
+  ],
+  "key_points": [
+   "A blast struck Riyadh’s King Khalid International Airport amid escalating Houthi‑coalition fighting.",
+   "The airport has faced several attacks this week, highlighting growing security threats in Saudi Arabia.",
+   "The incidents underscore the broader regional conflict between Yemen’s Houthi rebels and the Saudi-backed coalition."
+  ],
+  "meta_description": "A blast hit Riyadh's King Khalid Airport as Houthi‑coalition fighting intensifies, raising security concerns for the region.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Riyadh",
+   "King Khalid Airport",
+   "blast",
+   "Houthi rebels",
+   "Saudi Arabia",
+   "aviation security"
+  ],
+  "slug": "blast-hits-riyadhs-king-khalid-airport-amid-houthicoalition-fighting-15d34c",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:51:24Z"
+ },
+ {
+  "id": "6801da099eadf383",
+  "source_url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+  "source": "TechCrunch",
+  "source_title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+  "source_summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+  "source_tags": [
+   "Startups",
+   "Climate",
+   "Fintech",
+   "Venture",
+   "AI",
+   "Robotics",
+   "Fundraising",
+   "TechCrunch Disrupt",
+   "Startup Battlefield 200"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-10T15:00:00+00:00",
+  "headline": "TechCrunch Disrupt 2026 Opens Oct 13-15 in San Francisco",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch Disrupt 2026 will be held from October 13 to 15 in San Francisco, gathering more than 300 startups to showcase their products to an audience of roughly 10,000 technology leaders."
+   },
+   {
+    "type": "p",
+    "text": "The event will feature over 250 speakers across more than 200 sessions, offering insights on emerging trends, funding strategies, and product development. Attendees can register early to receive a discount of up to $100 and a second pass at half price."
+   },
+   {
+    "type": "p",
+    "text": "Organizers expect the conference to serve as a launchpad for new ventures, connecting founders with investors, partners, and media while highlighting innovations that could shape the next wave of mainstream technology."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The gathering offers U.S. and European investors and tech executives a chance to spot high‑growth startups early, potentially influencing cross‑border partnerships and funding flows."
+   }
+  ],
+  "key_points": [
+   "Over 300 startups will present their solutions to 10,000 tech leaders at TechCrunch Disrupt 2026.",
+   "The conference includes 250+ speakers, 200+ sessions, and early‑bird discounts of up to $100.",
+   "Held in San Francisco Oct. 13‑15, the event aims to accelerate startups toward mainstream adoption."
+  ],
+  "meta_description": "TechCrunch Disrupt 2026 in San Francisco features 300+ startups, 250 speakers, and early‑bird discounts, connecting innovators with 10,000 tech leaders.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "startups",
+   "conference",
+   "San Francisco",
+   "tech leaders",
+   "Disrupt2026"
+  ],
+  "slug": "techcrunch-disrupt-2026-opens-oct-13-15-san-francisco-6801da",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:51:00Z"
+ },
+ {
+  "id": "3292f7f8dac8bc8a",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/10/donald-trump-oval-office-replica",
+  "source": "The Guardian",
+  "source_title": "A replica of Donald Trump’s Oval Office goes for the gold in Washington DC",
+  "source_summary": "The tourist attraction just unveiled an elaborate, full-scale overhaul to match Trump’s second-term aesthetic Sitting behind a replica Resolute Desk, nine-year-old Sydney Wright posed for the camera like a future US president. “I love it,” she smiled. And what about the dazzling gold appliqués, gold leaf and gold trim surrounding her? “It’s cool.” Sydney was among a steady stream of visitors on Thursday to The People’s House: A White House Experience , an interactive museum – with an orientation film narrated by The West Wing star Martin Sheen – at 1700 Pennsylvania Avenue, just 150 yards from the real thing.",
+  "source_tags": [
+   "Donald Trump",
+   "Washington DC",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/cd4c449d877bdb92b8680212cf6b7c089e63aede/684_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=54340cfb6cacf6d87b3e180c06486bd1",
+  "published": "2026-10-10T15:00:00+00:00",
+  "headline": "Gold‑Trimmed Trump Oval Office Replica Opens at DC Museum",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new exhibit at The People’s House museum on Pennsylvania Avenue features a full‑scale replica of Donald Trump’s Oval Office, complete with gold appliqués, leaf and trim that echo the former president’s second‑term décor. Visitors can sit behind a copy of the Resolute Desk and view the space as it was arranged during Trump’s administration."
+   },
+   {
+    "type": "p",
+    "text": "The interactive museum, located just 150 yards from the real White House, includes an orientation film narrated by former \"West Wing\" star Martin Sheen. Among the day's guests was nine‑year‑old Sydney Wright, who posed at the desk and expressed enthusiasm for the lavish setting."
+   },
+   {
+    "type": "p",
+    "text": "The attraction aims to offer a hands‑on experience of recent presidential history, drawing a steady stream of tourists and school groups interested in the visual and cultural legacy of the Trump era."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The exhibit reflects growing public interest in recent U.S. political history and adds a new draw for Washington’s tourism sector."
+   }
+  ],
+  "key_points": [
+   "The People’s House museum unveiled a gold‑trimmed replica of Trump’s Oval Office.",
+   "The exhibit includes a Martin Sheen‑narrated orientation film and a replica Resolute Desk.",
+   "Visitors, including a nine‑year‑old girl, can explore the recreated presidential space."
+  ],
+  "meta_description": "Washington’s People’s House museum opens a gold‑trimmed replica of Trump’s Oval Office, complete with a Martin Sheen film and a replica Resolute Desk.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "White House replica",
+   "Washington DC museum",
+   "political tourism",
+   "Martin Sheen"
+  ],
+  "slug": "goldtrimmed-trump-oval-office-replica-opens-dc-museum-3292f7",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:51:16Z"
+ },
+ {
+  "id": "809098db807e66f2",
+  "source_url": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
+  "source": "The Verge",
+  "source_title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+  "source_summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October […]",
+  "source_tags": [
+   "Entertainment",
+   "Interview",
+   "Music",
+   "Report"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Photo-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-10T15:00:00+00:00",
+  "headline": "Sunmi’s K‑Pop Rise, Notion Passion and Ear‑Cleaning Video Craze",
+  "body": [
+   {
+    "type": "p",
+    "text": "South Korean singer Sunmi first entered the global music scene as a member of the Wonder Girls in 2007. The group’s English‑language single “Nobody” became the first K‑pop track to chart on the Billboard Hot 100, marking an early breakthrough for the genre in Western markets."
+   },
+   {
+    "type": "p",
+    "text": "Beyond her music career, Sunmi has publicly expressed a fondness for the productivity app Notion, using it to organize her projects and daily life. She has also shared a quirky interest in ear‑cleaning videos, a niche genre that has amassed a sizable online following."
+   },
+   {
+    "type": "p",
+    "text": "These personal preferences have drawn attention from fans and media alike, highlighting how contemporary artists blend professional achievements with distinct online personas that resonate across cultural boundaries."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Sunmi’s blend of musical influence and digital habits illustrates the expanding cultural reach of K‑pop and its impact on global media consumption."
+   }
+  ],
+  "key_points": [
+   "Sunmi debuted with the Wonder Girls in 2007, contributing to K‑pop’s first Billboard Hot 100 entry.",
+   "She is an avid user of the Notion app for personal organization.",
+   "Sunmi enjoys watching ear‑cleaning videos, a popular online trend."
+  ],
+  "meta_description": "K‑pop star Sunmi, known from Wonder Girls, loves Notion and ear‑cleaning videos, reflecting her unique digital presence.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Sunmi",
+   "K-pop",
+   "Wonder Girls",
+   "Notion",
+   "viral videos"
+  ],
+  "slug": "sunmis-kpop-rise-notion-passion-earcleaning-video-craze-809098",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:51:20Z"
+ },
+ {
+  "id": "495ff983bc7e7e8e",
+  "source_url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+  "source": "The Guardian",
+  "source_title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
+  "source_summary": "Ukrainian president says money from fuel sales will intensify war as European leaders reiterate support for Kyiv Russia launched deadly strikes on civilians in Ukraine as “thanks” for a deal cut by Donald Trump with Vladimir Putin to buy large quantities of Russian diesel, Volodymyr Zelenskyy has said, accusing Washington of helping fund Moscow’s war. The Ukrainian president has expressed repeated outrage at the agreement announced by Trump on Friday, which the US president said was needed to reduce diesel prices, and comes ahead of November midterm elections where the cost of fuel is a key voter issue.",
+  "source_tags": [
+   "Volodymyr Zelenskyy",
+   "Ukraine",
+   "Russia",
+   "Trump administration",
+   "Donald Trump",
+   "Vladimir Putin",
+   "US foreign policy",
+   "Europe",
+   "US news",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/c598f4211d657333cb70f50f9323c6797a68e632/0_0_4425_3540/master/4425.jpg?width=700&quality=85&auto=format&fit=max&s=774587e0198c8c309fb9b4e91b631ff7",
+  "published": "2026-10-10T14:45:15+00:00",
+  "headline": "Zelensky Blames Trump Diesel Deal for Russian Strikes on Civilians",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelenskyy said Russia’s recent deadly attacks on civilians were a \"thanks\" for a diesel purchase agreement announced by U.S. President Donald Trump with Russian President Vladimir Putin. The deal, unveiled on Friday, involves the United States buying large quantities of Russian diesel to lower fuel prices."
+   },
+   {
+    "type": "p",
+    "text": "Zelenskyy warned that revenue from the fuel sales will fund Moscow’s war effort and intensify the conflict. European leaders responded by reaffirming their support for Kyiv, emphasizing that the agreement does not change their political stance toward Russia."
+   },
+   {
+    "type": "p",
+    "text": "The controversy comes as the United States heads toward its November midterm elections, where fuel costs are a prominent voter concern. Critics argue the deal could undermine sanctions while supporters claim it helps curb domestic diesel prices."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. policy on Russian fuel could influence both the intensity of the Ukraine war and domestic fuel prices ahead of the November elections, while European allies watch the diplomatic fallout."
+   }
+  ],
+  "key_points": [
+   "Zelenskyy links Russia’s civilian strikes to Trump’s diesel purchase deal with Putin.",
+   "The U.S. agreement aims to reduce diesel prices but may generate revenue for Moscow’s war.",
+   "European leaders reiterate backing for Ukraine despite the U.S. deal."
+  ],
+  "meta_description": "Zelensky says Russia’s civilian strikes are a \"thanks\" for Trump’s diesel deal with Putin, sparking debate as fuel prices dominate US midterm talks.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Russia",
+   "Trump",
+   "diesel deal",
+   "Zelensky",
+   "fuel prices"
+  ],
+  "slug": "zelensky-blames-trump-diesel-deal-russian-strikes-civilians-495ff9",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:51:31Z"
+ },
+ {
+  "id": "3c268ba4efa1ec31",
+  "source_url": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
+  "source": "The New York Times",
+  "source_title": "What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’",
+  "source_summary": "As artificial intelligence automates office tasks, it is also creating a new type of human work.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Economics (Theory and Philosophy)",
+   "Productivity"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-10T14:28:57+00:00",
+  "headline": "Verification Tax Slows AI Efficiency, Sparks New Human Roles",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent analysis highlights that the growing use of artificial intelligence to automate office tasks is being offset by a rising “verification tax.” This term describes the extra time and effort workers must spend checking and correcting AI‑generated outputs, which diminishes the overall speed gains promised by the technology."
+   },
+   {
+    "type": "p",
+    "text": "The study notes that as AI handles routine functions, employees are increasingly tasked with reviewing the results for accuracy, consistency, and compliance. This new layer of human oversight creates a distinct form of labor that did not exist before widespread AI adoption, effectively turning some of the automation benefits into additional work."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers warn that the verification tax could limit the cost‑saving potential of AI deployments unless companies develop better validation tools or redesign workflows to reduce the need for manual checks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For businesses in the US and Europe, the verification tax could affect profitability and reshape workforce needs as AI becomes more prevalent."
+   }
+  ],
+  "key_points": [
+   "The verification tax refers to the extra human effort required to audit AI‑generated work.",
+   "This oversight work can erode the productivity gains expected from AI automation.",
+   "Addressing the verification tax will be crucial for companies seeking true efficiency improvements."
+  ],
+  "meta_description": "AI's verification tax adds human oversight work, cutting efficiency gains and creating new labor demands.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "automation",
+   "labor",
+   "efficiency",
+   "verification tax",
+   "workplace"
+  ],
+  "slug": "verification-tax-slows-ai-efficiency-sparks-new-human-roles-3c268b",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:51:04Z"
+ },
+ {
+  "id": "cf1a93f3e1af620e",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/ckp8gqplvj85o",
+  "source": "BBC Sport",
+  "source_title": "'What this team has been crying out for' - Renshaw 190 lifts Australia",
+  "source_summary": "After nine years and 280 days, Matt Renshaw scores epic century to put Australia on top against South Africa and push his own case for a regular place.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a11f/live/8619ef40-c4b4-11f1-892b-f7bfd6496ad0.jpg",
+  "published": "2026-10-10T14:06:35+00:00",
+  "headline": "Matt Renshaw's 190 Secures Australian Lead Over South Africa",
+  "body": [
+   {
+    "type": "p",
+    "text": "Matt Renshaw broke a nine-year, 280-day drought by hitting a 190-run innings, steering Australia to a commanding position against South Africa. The marathon knock came in the second innings of the Test match, giving the hosts a solid lead."
+   },
+   {
+    "type": "p",
+    "text": "Renshaw's performance not only lifted Australia on the scoreboard but also revived discussions about his place in the national side. Cricket analysts noted the innings as a statement of intent, suggesting he could become a regular fixture in the lineup."
+   },
+   {
+    "type": "p",
+    "text": "South Africa struggled to contain the Australian batsman, with the partnership and aggressive stroke play unsettling the visitors' bowlers. The match now appears poised to swing in Australia's favor as they look to consolidate the advantage."
+   }
+  ],
+  "key_points": [
+   "Matt Renshaw scored 190, ending a nine-year, 280-day wait for a major Australian century.",
+   "The innings gave Australia a strong lead over South Africa in the Test match.",
+   "Renshaw's knock has reignited calls for his regular inclusion in the Australian side."
+  ],
+  "meta_description": "Matt Renshaw's 190-run innings ends a long Australian century drought and puts Australia ahead of South Africa in the Test.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cricket",
+   "Australia",
+   "South Africa",
+   "Matt Renshaw",
+   "Test match",
+   "century"
+  ],
+  "slug": "matt-renshaw-s-190-secures-australian-lead-over-south-cf1a93",
+  "reading_minutes": 1,
+  "added": "2026-10-10T15:51:27Z"
+ },
+ {
   "id": "5bec0443d4a2f532",
   "source_url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
