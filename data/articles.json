@@ -1,5 +1,693 @@
 [
  {
+  "id": "5bec0443d4a2f532",
+  "source_url": "https://www.dw.com/en/taiwan-to-boost-military-spending-to-deter-war-with-china/a-79625346?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Taiwan to boost military spending to 'deter war' with China",
+  "source_summary": "President Lai Ching-te ⁠said in a National Day speech that his country is boosting defense spending to 'deter war' with China. It comes after US President Donald Trump asked Taiwan to pay for US protection.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-10T09:38:00+00:00",
+  "headline": "Taiwan Increases Defense Budget to Deter War With China",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Lai Ching‑te announced in his National Day address that Taiwan will raise its defence spending to help deter a possible conflict with China. The move is presented as a direct response to growing security concerns in the region."
+   },
+   {
+    "type": "p",
+    "text": "The decision follows remarks from U.S. President Donald Trump, who urged Taiwan to contribute financially to the protection it receives from the United States. Lai’s speech linked the budget increase to the need for Taiwan to strengthen its own capabilities while maintaining the existing security partnership."
+   },
+   {
+    "type": "p",
+    "text": "Taiwan’s heightened military funding aims to enhance deterrence, modernise equipment and improve readiness. Officials said the additional resources will be allocated to key areas such as missile defence, naval forces and cyber security, though specific figures were not disclosed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Taiwan's increased spending affects regional stability and underscores the financial dimension of U.S. security commitments, a concern for both American and European policymakers."
+   }
+  ],
+  "key_points": [
+   "Taiwan will boost its defence budget to deter potential aggression from China.",
+   "The policy shift comes after U.S. President Donald Trump asked Taiwan to help fund its own protection.",
+   "Funding will focus on missile defence, naval capabilities and cyber security."
+  ],
+  "meta_description": "Taiwan plans to raise defence spending to deter war with China after a U.S. request for Taiwan to fund its protection.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Taiwan",
+   "defence spending",
+   "China",
+   "US",
+   "security",
+   "regional stability"
+  ],
+  "slug": "taiwan-increases-defense-budget-deter-war-with-china-5bec04",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:43:24Z"
+ },
+ {
+  "id": "26087cd8c84dd1d6",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo",
+  "source": "BBC News",
+  "source_title": "How drones are hunting fires hidden beneath the Cairngorms",
+  "source_summary": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e6/live/0f446750-c48d-11f1-a915-a1cdb09cbaf6.jpg",
+  "published": "2026-10-10T09:31:14+00:00",
+  "headline": "Drones Track Hidden Hotspots After Cairngorms Wildfire",
+  "body": [
+   {
+    "type": "p",
+    "text": "After the massive Cairngorms wildfire in July, visible flames have largely vanished, but experts say smouldering hotspots can persist beneath the ground. Specialized drones are now being deployed to locate these concealed fires, using thermal imaging to scan the forest floor and detect residual heat signatures."
+   },
+   {
+    "type": "p",
+    "text": "The aerial surveys aim to prevent reignition by identifying areas where embers remain active below the surface. By pinpointing these hidden hotspots, fire crews can target their efforts more precisely, reducing the risk of new flare‑ups and protecting surrounding communities and wildlife habitats."
+   },
+   {
+    "type": "p",
+    "text": "The drone programme reflects a growing reliance on technology to manage post‑wildfire risks in remote, rugged terrain. Officials stress that early detection of underground combustion is crucial for effective containment and for minimizing long‑term environmental damage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding how drones detect hidden fires informs broader wildfire response strategies that are increasingly relevant across the US and Europe as climate‑driven fire seasons intensify."
+   }
+  ],
+  "key_points": [
+   "Drones equipped with thermal sensors are scanning the Cairngorms to locate underground fire hotspots after the July blaze.",
+   "Hidden smouldering areas can reignite, so early detection helps fire crews intervene before new flames emerge.",
+   "The initiative highlights the expanding role of aerial technology in post‑wildfire management."
+  ],
+  "meta_description": "Drones use thermal imaging to find hidden hotspots after the Cairngorms wildfire, helping prevent reignition and protect the environment.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "wildfire",
+   "drones",
+   "thermal imaging",
+   "Cairngorms",
+   "fire management"
+  ],
+  "slug": "drones-track-hidden-hotspots-after-cairngorms-wildfire-26087c",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:43:28Z"
+ },
+ {
+  "id": "debc595fa576a0b7",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9zrdl4028mko",
+  "source": "BBC Sport",
+  "source_title": "All Blacks power past Australia to retain Bledisloe Cup",
+  "source_summary": "New Zealand retain the Bledisloe Cup for a 23rd straight year as they power past Australia to extend their remarkable unbeaten run at Eden Park.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae49/live/2dfadb80-c487-11f1-a915-a1cdb09cbaf6.jpg",
+  "published": "2026-10-10T09:21:28+00:00",
+  "headline": "All Blacks Secure 23rd Consecutive Bledisloe Cup Win at Eden Park",
+  "body": [
+   {
+    "type": "p",
+    "text": "The New Zealand All Blacks defeated Australia at Eden Park, clinching the Bledisloe Cup for the 23rd year in a row. The victory extended the All Blacks' unbeaten streak at the venue, underscoring their dominance in the trans‑Tasman rivalry."
+   },
+   {
+    "type": "p",
+    "text": "New Zealand's powerful performance saw them out‑score the Wallabies by a comfortable margin, reinforcing their status as the world’s top rugby nation. The win also marked another chapter in the All Blacks' long‑standing record of success in the annual contest."
+   },
+   {
+    "type": "p",
+    "text": "Australia will look to regroup ahead of upcoming international fixtures, while New Zealand aims to maintain its high standards as the season progresses. The match drew a large crowd, reflecting the enduring popularity of the Bledisloe Cup in both countries."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Bledisloe Cup is a premier rugby contest; New Zealand's continued dominance highlights the sport’s global hierarchy and influences upcoming international tournaments."
+   }
+  ],
+  "key_points": [
+   "New Zealand retained the Bledisloe Cup, marking a 23‑year streak.",
+   "The All Blacks extended their unbeaten run at Eden Park with a decisive win over Australia."
+  ],
+  "meta_description": "All Blacks beat Australia at Eden Park to retain the Bledisloe Cup for a 23rd straight year, extending their unbeaten run.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "Bledisloe Cup",
+   "All Blacks",
+   "Australia",
+   "Eden Park",
+   "rugby union"
+  ],
+  "slug": "all-blacks-secure-23rd-consecutive-bledisloe-cup-win-eden-debc59",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:43:32Z"
+ },
+ {
+  "id": "fc8b9921af20aa28",
+  "source_url": "https://www.nytimes.com/2026/10/10/us/politics/trump-inflation-midterms-republicans.html",
+  "source": "The New York Times",
+  "source_title": "Economic Pain and an Unpopular Trump Put G.O.P. on its Heels With Three Weeks to Go",
+  "source_summary": "Inflation has hurt Americans at many levels: Farmers, truckers, consumers. It has also expanded the electoral map into what was safely Republican country just a few months ago.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Republican Party",
+   "Trump, Donald J",
+   "Elections",
+   "Inflation (Economics)",
+   "Data Centers",
+   "Artificial Intelligence",
+   "Iran",
+   "Elections, Senate",
+   "Elections, House of Representatives"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10pol-gop-issues-01-zfmk/10pol-gop-issues-01-zfmk-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T09:01:19+00:00",
+  "headline": "Inflation Hits Farmers and Truckers as GOP Falters Near Election",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rising inflation is squeezing key constituencies across the United States, from farmers facing higher input costs to truckers battling soaring fuel prices, while everyday consumers feel the pinch at the checkout line."
+   },
+   {
+    "type": "p",
+    "text": "The economic strain is reshaping the political landscape, turning areas that were considered solidly Republican just months ago into contested ground as voters reassess party priorities."
+   },
+   {
+    "type": "p",
+    "text": "With three weeks left before the election and former President Donald Trump remaining unpopular among many voters, the GOP finds itself on the defensive, scrambling to address the widespread economic pain."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. voters' reaction to inflation could shift the balance of power, influencing policies that affect both American and European economies."
+   }
+  ],
+  "key_points": [
+   "Inflation is adversely affecting farmers, truckers and consumers nationwide.",
+   "Traditional Republican strongholds are becoming competitive as economic concerns grow.",
+   "The GOP faces a challenging final stretch with an unpopular Trump influencing voter sentiment."
+  ],
+  "meta_description": "Inflation hurts farmers, truckers and consumers, turning safe Republican areas into battlegrounds as the GOP struggles weeks before the election.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "inflation",
+   "GOP",
+   "election",
+   "Trump",
+   "economy",
+   "voter sentiment"
+  ],
+  "slug": "inflation-hits-farmers-truckers-gop-falters-near-election-fc8b99",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:43:36Z"
+ },
+ {
+  "id": "a066afed137a363d",
+  "source_url": "https://www.nytimes.com/2026/10/10/us/politics/fact-check-senate-ads-iowa-new-hampshire-north-carolina.html",
+  "source": "The New York Times",
+  "source_title": "Fact-Checking Senate Ads in Iowa, New Hampshire and North Carolina",
+  "source_summary": "We assess three campaign ads in the battleground states that have focused on the cost of living.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Political Advertising",
+   "Midterm Elections (2026)",
+   "Senate",
+   "Cooper, Roy A",
+   "Hinson, Ashley (1983- )",
+   "Turek, Josh (1979- )",
+   "Whatley, Michael (1968- )",
+   "Iowa",
+   "New Hampshire"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/00dc-factcheck-lzbf/00dc-factcheck-lzbf-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T09:01:19+00:00",
+  "headline": "Fact-Check Reviews Senate Ads on Cost of Living in Iowa, New Hampshire and North Carolina",
+  "body": [
+   {
+    "type": "p",
+    "text": "The New York Times examined three Senate campaign advertisements aired in the battleground states of Iowa, New Hampshire and North Carolina. Each ad highlighted concerns about the rising cost of living for voters in those states."
+   },
+   {
+    "type": "p",
+    "text": "The review focused on the factual accuracy of the claims presented in the ads, comparing them with publicly available data on housing, food and energy expenses. The analysis aimed to determine whether the advertisements reflected current economic conditions or relied on misleading information."
+   },
+   {
+    "type": "p",
+    "text": "The fact‑checking effort underscores the importance of accurate messaging in closely contested races, where voters often base decisions on perceived economic pressures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Voters in key swing states rely on campaign ads for information; factual accuracy can influence election outcomes in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "Three Senate ads in Iowa, New Hampshire and North Carolina were examined for cost‑of‑living claims.",
+   "The review compared ad statements with existing data on housing, food and energy costs.",
+   "Accurate economic messaging is critical in tightly contested Senate races."
+  ],
+  "meta_description": "The New York Times fact‑checks three Senate ads on cost of living in Iowa, New Hampshire and North Carolina, assessing their accuracy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Senate",
+   "campaign ads",
+   "cost of living",
+   "fact-checking",
+   "Iowa",
+   "New Hampshire"
+  ],
+  "slug": "fact-check-reviews-senate-ads-cost-living-iowa-new-a066af",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:43:52Z"
+ },
+ {
+  "id": "4cd54e3527e970f2",
+  "source_url": "https://www.nytimes.com/2026/10/10/us/politics/tennessee-lethal-injection-protocol-christa-pike.html",
+  "source": "The New York Times",
+  "source_title": "A Vague, Redacted Execution Protocol in Tennessee Draws Scrutiny",
+  "source_summary": "The differences between the current protocol and the previous one have become a focus in Christa Pike’s failed execution.",
+  "source_tags": [
+   "Capital Punishment",
+   "Pike, Christa (1976- )",
+   "Strada, Frank (1966- )",
+   "Nashville (Tenn)",
+   "Tennessee"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09nat-tn-protocol-pfvz/09nat-tn-protocol-pfvz-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T09:00:58+00:00",
+  "headline": "Tennessee Execution Protocol Scrutinized After Christy Pike Failure",
+  "body": [
+   {
+    "type": "p",
+    "text": "A newly released execution protocol in Tennessee has drawn intense scrutiny because much of its content is redacted and its language is vague. Legal observers note that the document differs markedly from the previous protocol that governed past lethal injections."
+   },
+   {
+    "type": "p",
+    "text": "The differences between the current and former procedures have become a focal point in the case of Christy Pike, whose execution attempt failed earlier this year. Critics argue that the lack of transparency hampers the ability of courts and advocacy groups to assess whether the method complies with constitutional standards."
+   },
+   {
+    "type": "p",
+    "text": "State officials have defended the redactions as necessary to protect security and proprietary information, while opponents contend that the secrecy undermines accountability in a process that carries irreversible consequences."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The debate highlights ongoing tensions in the United States over death‑penalty transparency, a concern also echoed by European nations that have abolished capital punishment."
+   }
+  ],
+  "key_points": [
+   "Tennessee's latest execution protocol is heavily redacted and less detailed than its predecessor.",
+   "The protocol's ambiguities are central to the controversy surrounding Christy Pike's failed execution.",
+   "Legal and human‑rights groups argue the secrecy threatens constitutional safeguards."
+  ],
+  "meta_description": "Tennessee's vague, redacted execution protocol faces criticism after Christy Pike's botched execution, raising legal and human‑rights concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tennessee",
+   "death penalty",
+   "execution protocol",
+   "Christy Pike",
+   "legal scrutiny"
+  ],
+  "slug": "tennessee-execution-protocol-scrutinized-after-christy-pike-failure-4cd54e",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:44:08Z"
+ },
+ {
+  "id": "d5c1cd5f0467e618",
+  "source_url": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+  "source": "NPR",
+  "source_title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
+  "source_summary": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5d%2Fa4%2Fda87682f4b4e963a85f1dd2f71b2%2Fgaza-04.JPEG",
+  "published": "2026-10-10T09:00:00+00:00",
+  "headline": "Palestinians Say Gaza Ceasefire Was Only in Name After Year",
+  "body": [
+   {
+    "type": "p",
+    "text": "A year after Hamas released the last Israeli hostages and former President Donald Trump pledged to end the conflict, many Palestinians describe the ceasefire in Gaza as largely symbolic. NPR’s reporter on the ground notes that daily life in the enclave remains marked by restrictions, shortages and sporadic violence, despite the formal truce."
+   },
+   {
+    "type": "p",
+    "text": "Local residents say the promised pause has not translated into meaningful relief. Checkpoints stay in place, electricity and water supplies are intermittent, and reconstruction efforts are hampered by limited access for aid workers. The contrast between diplomatic statements and on‑the‑ground realities fuels frustration among Gaza’s civilian population."
+   },
+   {
+    "type": "p",
+    "text": "Human‑rights groups and regional observers echo these concerns, warning that a ceasefire without substantive guarantees may prolong humanitarian distress and undermine prospects for a lasting political solution."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stability in Gaza affects regional security and U.S. and European diplomatic efforts to resolve the broader Israeli‑Palestinian conflict."
+   }
+  ],
+  "key_points": [
+   "One year after a high‑profile hostage release, Palestinians claim the Gaza ceasefire remains largely ineffective.",
+   "Restrictions on movement, utilities and aid continue despite formal truce agreements.",
+   "Human‑rights organizations warn the nominal ceasefire could entrench ongoing suffering."
+  ],
+  "meta_description": "A year after a promised Gaza ceasefire, Palestinians say the truce is only in name, with daily hardships persisting.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Gaza",
+   "ceasefire",
+   "Hamas",
+   "Israel",
+   "Trump",
+   "Middle East"
+  ],
+  "slug": "palestinians-say-gaza-ceasefire-was-only-name-after-year-d5c1cd",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:43:40Z"
+ },
+ {
+  "id": "886cb48003b999c9",
+  "source_url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+  "source": "NPR",
+  "source_title": "India cracks down on youth protests as anger grows against Modi and election chief",
+  "source_summary": "Indian authorities have launched a major security crackdown in New Delhi, detaining thousands of protesters who intended to hold a mass demonstration against Prime Minister Narendra Modi's government.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3953x2636+0+0/resize/3953x2636!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F39%2F5c77716b4ce493dd9aeaec5f4d48%2Fap26283120193955.jpg",
+  "published": "2026-10-10T08:31:28+00:00",
+  "headline": "India Detains Thousands in New Delhi Crackdown on Anti‑Modi Protest",
+  "body": [
+   {
+    "type": "p",
+    "text": "Indian security forces have launched a large‑scale operation in New Delhi, arresting thousands of young activists who were planning a mass rally against Prime Minister Narendra Modi's government. The crackdown was carried out in the capital city as authorities sought to prevent the demonstration from taking place."
+   },
+   {
+    "type": "p",
+    "text": "The detained protesters were part of a broader wave of dissent that has been growing across the country, with many expressing frustration over economic and political issues. Officials said the arrests were necessary to maintain public order, while critics argue the move suppresses free expression and assembly."
+   },
+   {
+    "type": "p",
+    "text": "Human‑rights groups have called for the release of those held and for an independent investigation into the authorities' tactics. The incident highlights rising tensions between the government and segments of the youth population that are increasingly vocal about their grievances."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The crackdown raises concerns about democratic freedoms in a major global economy, a topic of interest for Western governments and investors."
+   }
+  ],
+  "key_points": [
+   "Thousands of protesters were detained in New Delhi as part of a security crackdown targeting an anti‑Modi rally.",
+   "Authorities claim the arrests were needed for public order, while critics see them as a suppression of dissent.",
+   "Human‑rights organizations are urging the release of detainees and an independent review of the crackdown."
+  ],
+  "meta_description": "India detains thousands in New Delhi to stop an anti‑Modi protest, sparking criticism over suppression of dissent.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "protests",
+   "crackdown",
+   "Narendra Modi",
+   "Delhi",
+   "civil liberties"
+  ],
+  "slug": "india-detains-thousands-new-delhi-crackdown-antimodi-protest-886cb4",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:43:56Z"
+ },
+ {
+  "id": "8d86e4401e8bc1a9",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cxj0l2d4dp2vo",
+  "source": "BBC Sport",
+  "source_title": "Delight for Scotland's Cuthbert after long summer of recovery",
+  "source_summary": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in Scotland's impressive 2-0 win over Czech Republic.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ee/live/a2bd0d40-c481-11f1-9323-b15f40d5009a.jpg",
+  "published": "2026-10-10T08:28:17+00:00",
+  "headline": "Erin Cuthbert Celebrates Return as Scotland Beats Czech Republic 2-0",
+  "body": [
+   {
+    "type": "p",
+    "text": "Midfielder Erin Cuthbert said she felt \"delighted\" after stepping onto the pitch for Scotland following a lengthy summer of rehabilitation. The Scottish side opened their campaign with a convincing 2-0 victory over the Czech Republic, marking Cuthbert's first appearance of the season."
+   },
+   {
+    "type": "p",
+    "text": "The win highlighted Scotland's attacking strength, as they controlled the game and secured both goals without reply. Cuthbert, who had been sidelined by injury, expressed relief at being match‑fit and contributing to the team's performance."
+   },
+   {
+    "type": "p",
+    "text": "Coach Sonia Bompastor praised the squad's cohesion and noted that Cuthbert's return adds depth to the midfield ahead of upcoming international fixtures. The result boosts Scotland's confidence as they aim to build momentum in the qualifying campaign."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Scotland's win and Cuthbert's comeback signal a strong start for the team in the European qualifying cycle, relevant to fans of women's international football."
+   }
+  ],
+  "key_points": [
+   "Erin Cuthbert returned to the Scotland lineup after a summer of recovery.",
+   "Scotland defeated the Czech Republic 2-0 in their opening match.",
+   "The victory strengthens Scotland's prospects in upcoming qualifiers."
+  ],
+  "meta_description": "Erin Cuthbert returns to Scotland's lineup as the team secures a 2-0 win over the Czech Republic, marking a promising start to the campaign.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Scotland",
+   "Erin Cuthbert",
+   "women's football",
+   "Czech Republic",
+   "international soccer"
+  ],
+  "slug": "erin-cuthbert-celebrates-return-scotland-beats-czech-republic-2-8d86e4",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:43:48Z"
+ },
+ {
+  "id": "a101dcbc367475f0",
+  "source_url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+  "source": "The Verge",
+  "source_title": "My brief romance with an AI bird feeder",
+  "source_summary": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I chuckled, still waiting for […]",
+  "source_tags": [
+   "Gadgets",
+   "Reviews",
+   "Smart Home",
+   "Smart Home Reviews",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-10T07:00:00+00:00",
+  "headline": "AI-Powered Bird Feeder Draws Colorful Visitors to Home Garden",
+  "body": [
+   {
+    "type": "p",
+    "text": "A consumer installed the Kiwibit Bird Feeder 2 Pro, an AI-enabled feeder priced at $269, in their garden and soon observed a surge of small, brightly colored birds. Within weeks, the device sent smartphone alerts identifying species such as the Great Tit and the Eurasian Blue Tit."
+   },
+   {
+    "type": "p",
+    "text": "The feeder uses computer‑vision algorithms to recognize birds that visit the platform, providing owners with real‑time notifications. The author of the review noted the novelty of receiving species names directly on their phone and expressed amusement at the technology’s accuracy."
+   },
+   {
+    "type": "p",
+    "text": "While the device offers an engaging way to monitor local wildlife, the article does not detail long‑term performance, battery life, or any privacy considerations associated with the AI system."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "AI-driven consumer gadgets like this feeder illustrate how machine‑learning technology is entering everyday home hobbies, offering new ways to engage with nature."
+   }
+  ],
+  "key_points": [
+   "The Kiwibit Bird Feeder 2 Pro uses AI to identify visiting birds and send alerts to users.",
+   "Early users reported a noticeable increase in small songbirds like Great Tits and Blue Tits.",
+   "The product costs $269 and is marketed as a smart garden accessory."
+  ],
+  "meta_description": "An AI-powered bird feeder identifies species such as Great Tit and Blue Tit, drawing more birds to home gardens.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "smart home",
+   "birdwatching",
+   "consumer tech",
+   "Kiwibit"
+  ],
+  "slug": "ai-powered-bird-feeder-draws-colorful-visitors-home-garden-a101dc",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:43:44Z"
+ },
+ {
+  "id": "f541606972668beb",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do",
+  "source": "BBC Sport",
+  "source_title": "Time to rise? Ranking European football's sleeping giants",
+  "source_summary": "From Sampdoria to Saint-Etienne and Real Zaragoza, who are the sleeping giants of European football?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cb5/live/a8fc7030-c259-11f1-bc2e-018d645d8d21.png",
+  "published": "2026-10-10T05:14:17+00:00",
+  "headline": "Ranking Europe’s Sleeping Football Giants From Sampdoria to Zaragoza",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC Sport’s latest feature examines clubs that once dominated their leagues but now linger in the shadows of European football. The piece highlights a selection of historic sides, including Italy’s Sampdoria, France’s Saint‑Étienne and Spain’s Real Zaragoza, labeling them as the continent’s \"sleeping giants.\""
+   },
+   {
+    "type": "p",
+    "text": "Each club is evaluated on past achievements, fan base size and the potential to return to former glories. The article ranks these teams, offering insight into why they have fallen from prominence and what could spark a resurgence in the coming seasons."
+   },
+   {
+    "type": "p",
+    "text": "The analysis underscores the enduring legacy of these clubs and suggests that a revival could reshape competition dynamics across Europe’s top leagues."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding which historic clubs could rise again helps fans and investors gauge future shifts in European football’s competitive landscape."
+   }
+  ],
+  "key_points": [
+   "BBC Sport identifies Sampdoria, Saint‑Étienne and Real Zaragoza as notable sleeping giants of European football.",
+   "The ranking considers historical success, supporter strength and revival potential.",
+   "A resurgence of these clubs could impact the competitive balance of major European leagues."
+  ],
+  "meta_description": "BBC Sport ranks Europe’s sleeping football giants, spotlighting Sampdoria, Saint‑Étienne and Real Zaragoza and their revival prospects.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "football",
+   "Europe",
+   "clubs",
+   "Sampdoria",
+   "Saint‑Étienne",
+   "Real Zaragoza"
+  ],
+  "slug": "ranking-europes-sleeping-football-giants-from-sampdoria-zaragoza-f54160",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:44:04Z"
+ },
+ {
+  "id": "467cf97b1acfa9c0",
+  "source_url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+  "source": "TechCrunch",
+  "source_title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+  "source_summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+  "source_tags": [
+   "Government & Policy",
+   "Space",
+   "Elon Musk",
+   "Mukesh Ambani",
+   "reliance industries",
+   "reliance jio",
+   "SpaceX",
+   "Starlink"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-10T03:10:06+00:00",
+  "headline": "Elon Musk Blames Mukesh Ambani for Starlink India Delay",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk has publicly accused Indian telecom magnate Mukesh Ambani of hindering competition by delaying the launch of SpaceX's Starlink satellite internet service in India. Musk's comments suggest he believes Ambani is using his influence to block the entry of a rival broadband provider."
+   },
+   {
+    "type": "p",
+    "text": "The dispute centers on the pending regulatory approval for Starlink, which would bring high‑speed satellite internet to Indian consumers. Musk alleges that Ambani, whose conglomerate Reliance operates a dominant fiber network, is obstructing the process to protect his own market share."
+   },
+   {
+    "type": "p",
+    "text": "No official response from Ambani or Reliance has been reported, and Indian regulators have not commented on the allegations. The situation highlights ongoing tensions between global tech firms and established local players in emerging markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute could affect the pace at which high‑speed internet reaches Indian consumers, influencing global tech competition and investment in emerging markets."
+   }
+  ],
+  "key_points": [
+   "Elon Musk claims Mukesh Ambani is blocking Starlink's Indian rollout.",
+   "The accusation reflects broader competition concerns in India's telecom sector.",
+   "Regulators have not yet responded to Musk's allegations."
+  ],
+  "meta_description": "Elon Musk accuses Mukesh Ambani of delaying Starlink's launch in India, sparking a telecom rivalry.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "Mukesh Ambani",
+   "Starlink",
+   "India telecom",
+   "competition",
+   "SpaceX"
+  ],
+  "slug": "elon-musk-blames-mukesh-ambani-starlink-india-delay-467cf9",
+  "reading_minutes": 1,
+  "added": "2026-10-10T09:44:00Z"
+ },
+ {
   "id": "5ad5922e67159a68",
   "source_url": "https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
