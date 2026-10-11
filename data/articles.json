@@ -1,5 +1,675 @@
 [
  {
+  "id": "bba8d46d59629061",
+  "source_url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+  "source": "The Verge",
+  "source_title": "NASA dumped over 800GB of Artemis II data online",
+  "source_summary": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, and crew-annotated […]",
+  "source_tags": [
+   "News",
+   "Science",
+   "Space"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/art002e016252_impactflash_annotation_croppedlarge.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-11T15:34:40+00:00",
+  "headline": "NASA Releases Over 800GB of Artemis II Science Data Online",
+  "body": [
+   {
+    "type": "p",
+    "text": "NASA has made a massive archive from the Artemis II mission publicly available on its new \"Artemis II: Sights & Sounds of Science\" website. The collection totals more than 800 gigabytes of raw data, including over 11,000 photos and videos captured during the flight."
+   },
+   {
+    "type": "p",
+    "text": "In addition to visual media, the archive contains more than 8.5 hours of audio recordings, many of which feature annotations by the crew members themselves. The material provides scientists and the public with unprecedented insight into the mission’s operations and observations."
+   },
+   {
+    "type": "p",
+    "text": "The release is part of NASA’s effort to increase transparency and support ongoing research related to lunar exploration. Users can download the files directly from the site for analysis or educational purposes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The open access to Artemis II data helps researchers and educators in the US and Europe advance lunar science and technology development."
+   }
+  ],
+  "key_points": [
+   "NASA posted over 800GB of Artemis II data, images, and audio on a dedicated website.",
+   "The archive includes more than 11,000 photos and videos plus 8.5 hours of crew‑annotated audio.",
+   "The data is freely downloadable for scientific and educational use."
+  ],
+  "meta_description": "NASA releases over 800GB of Artemis II photos, videos and audio for public download, boosting lunar research.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Artemis II",
+   "NASA",
+   "space data",
+   "lunar exploration",
+   "science archive"
+  ],
+  "slug": "nasa-releases-over-800gb-artemis-ii-science-data-online-bba8d4",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:10Z"
+ },
+ {
+  "id": "3081a68bc207675b",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o",
+  "source": "BBC News",
+  "source_title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+  "source_summary": "The boat was travelling from Djibouti to Yemen with 305 people on board, when it capsized near the port town of Obock on Thursday night.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a58/live/88e5f7c0-c589-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-11T15:32:23+00:00",
+  "headline": "Boat Capsizes Off Djibouti Killing 139, Many More Missing",
+  "body": [
+   {
+    "type": "p",
+    "text": "A boat traveling from Djibouti to Yemen capsized near the port town of Obock on Thursday night, according to the United Nations. The vessel was carrying 305 people when it overturned, resulting in 139 confirmed deaths."
+   },
+   {
+    "type": "p",
+    "text": "Rescue teams recovered bodies and pulled survivors from the water, but many passengers remain unaccounted for. The incident underscores the perilous conditions faced by migrants and refugees attempting the crossing between the Horn of Africa and the Arabian Peninsula."
+   },
+   {
+    "type": "p",
+    "text": "The UN has called for urgent attention to the safety of such sea journeys, noting that the loss of life could have been higher if not for the swift response of local authorities and international aid workers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disaster illustrates the ongoing humanitarian risks on migration routes that link Africa and the Middle East, a concern for international aid and security agencies."
+   }
+  ],
+  "key_points": [
+   "A boat bound for Yemen capsized near Obock, Djibouti, killing 139 of the 305 aboard.",
+   "Rescue operations continue as dozens of passengers are still missing.",
+   "The tragedy highlights the dangers of migration routes across the Red Sea."
+  ],
+  "meta_description": "A boat capsized off Djibouti, killing 139 and leaving many missing, highlighting risks on migration routes to Yemen.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Djibouti",
+   "boat disaster",
+   "migration",
+   "UN",
+   "Red Sea",
+   "humanitarian crisis"
+  ],
+  "slug": "boat-capsizes-off-djibouti-killing-139-many-more-missing-3081a6",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:14Z"
+ },
+ {
+  "id": "df9166f4d7428de0",
+  "source_url": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
+  "source": "The New York Times",
+  "source_title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+  "source_summary": "President Trump lashed out at President Volodymyr Zelensky for striking Russian oil refineries. Mr. Zelensky said he’ll stop — if Russia does too.",
+  "source_tags": [
+   "Russian Invasion of Ukraine (2022)",
+   "United States Politics and Government",
+   "United States International Relations",
+   "Embargoes and Sanctions",
+   "Diesel Power",
+   "Putin, Vladimir V",
+   "Trump, Donald J",
+   "Zelensky, Volodymyr",
+   "Europe",
+   "Kyiv (Ukraine)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-ukraine-zelensky-qvtm/11int-ukraine-zelensky-qvtm-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T15:23:49+00:00",
+  "headline": "Trump Criticizes Zelensky Over Russian Oil Refinery Strikes, Ukraine Says It Will Pause If Moscow Stops",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump publicly rebuked Ukrainian President Volodymyr Zelensky for ordering attacks on Russian oil refineries, calling the moves counterproductive. Trump’s comments came amid ongoing conflict between Kyiv and Moscow, where Ukraine has targeted energy infrastructure to weaken Russia’s war effort."
+   },
+   {
+    "type": "p",
+    "text": "Zelensky responded that Ukraine would halt the refinery strikes if Russia ceased its own attacks on Ukrainian energy sites. He framed the pause as a reciprocal measure, emphasizing that Kyiv’s actions are tied to Moscow’s behavior on the battlefield."
+   },
+   {
+    "type": "p",
+    "text": "The exchange highlights differing strategies within the Western alliance on how to pressure Russia while managing the broader geopolitical fallout of targeting civilian-linked facilities."
+   }
+  ],
+  "key_points": [
+   "President Trump condemned Zelensky’s strikes on Russian oil refineries.",
+   "Zelensky said Ukraine would stop the attacks if Russia halted its own energy strikes.",
+   "The dispute underscores tensions over the use of energy targets in the Ukraine war."
+  ],
+  "meta_description": "Trump slams Zelensky for hitting Russian oil refineries; Ukraine says it will pause strikes if Russia stops its own energy attacks.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Zelensky",
+   "Ukraine",
+   "Russia",
+   "oil strikes",
+   "energy warfare"
+  ],
+  "slug": "trump-criticizes-zelensky-over-russian-oil-refinery-strikes-ukraine-df9166",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:34Z"
+ },
+ {
+  "id": "d9244e215e4c9de1",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go",
+  "source": "BBC News",
+  "source_title": "Poland stabbings driven by online glorification of violence, Tusk says",
+  "source_summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5288/live/10c1e1e0-c585-11f1-80f2-5bd1e5df7ada.jpg",
+  "published": "2026-10-11T15:18:52+00:00",
+  "headline": "Polish PM Blames Online Violence Glorification for School Stabbings",
+  "body": [
+   {
+    "type": "p",
+    "text": "Poland's prime minister, Donald Tusk, said the recent wave of knife attacks at schools was fueled by the online glorification of violence. The comment came after a stabbing this week left one student dead and injured several others."
+   },
+   {
+    "type": "p",
+    "text": "Tusk urged social‑media platforms and authorities to tackle content that celebrates violent acts, warning that such material can inspire real‑world aggression among young people. He called for stronger monitoring and swift removal of extremist posts."
+   },
+   {
+    "type": "p",
+    "text": "The government is now reviewing existing regulations on digital content and considering new measures to protect schools from similar incidents, while families mourn the loss and call for increased safety measures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights growing concerns in Europe about how online extremist content can translate into real‑world violence, a trend also watched by U.S. policymakers."
+   }
+  ],
+  "key_points": [
+   "Polish PM attributes recent school stabbings to online glorification of violence.",
+   "One student was killed and several injured in the latest attack.",
+   "Authorities are urged to tighten monitoring of extremist content on social media."
+  ],
+  "meta_description": "Polish PM links school stabbing deaths to online glorification of violence, calling for tighter social‑media controls.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Poland",
+   "school attacks",
+   "online violence",
+   "Donald Tusk",
+   "social media regulation"
+  ],
+  "slug": "polish-pm-blames-online-violence-glorification-school-stabbings-d9244e",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:50Z"
+ },
+ {
+  "id": "0aa56ca5c3906304",
+  "source_url": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+  "source": "The Verge",
+  "source_title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+  "source_summary": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, which I'll admit I've never seen, and Season of the Witch, or, as it […]",
+  "source_tags": [
+   "Column",
+   "Entertainment",
+   "Film",
+   "Movie Review"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/b4cbdcb8-32ec-4f79-8a23-c2edbf8d58e9.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-11T15:15:00+00:00",
+  "headline": "George A. Romero’s “Season of the Witch” Reviewed as Feminist Occult Drama",
+  "body": [
+   {
+    "type": "p",
+    "text": "George A. Romero, famed for pioneering modern zombie cinema with \"Night of the Living Dead,\" also directed two lesser‑known titles, \"There's Always Vanilla\" and the recently discussed \"Season of the Witch.\""
+   },
+   {
+    "type": "p",
+    "text": "The Verge describes \"Season of the Witch\" as a slow‑burn feminist occult drama, highlighting its departure from Romero’s typical outbreak horror style exemplified by \"The Crazies.\""
+   },
+   {
+    "type": "p",
+    "text": "While the reviewer admits not having seen \"There's Always Vanilla,\" the focus remains on the thematic shift in \"Season of the Witch,\" emphasizing its feminist and supernatural elements."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The piece offers insight into the broader range of Romero’s work, showing that even iconic genre directors explore diverse themes that may interest international audiences."
+   }
+  ],
+  "key_points": [
+   "\"Season of the Witch\" is framed as a feminist occult drama rather than a typical horror film.",
+   "The film showcases a different creative direction for Romero beyond his well‑known zombie and outbreak movies."
+  ],
+  "meta_description": "The Verge reviews George A. Romero’s \"Season of the Witch,\" noting its feminist occult focus and contrast with his famous zombie films.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "George A. Romero",
+   "Season of the Witch",
+   "film review",
+   "feminist cinema",
+   "occult drama"
+  ],
+  "slug": "george-romeros-season-witch-reviewed-feminist-occult-drama-0aa56c",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:30Z"
+ },
+ {
+  "id": "46b3d6fae0f3245f",
+  "source_url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+  "source": "TechCrunch",
+  "source_title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+  "source_summary": "This Battlefield 200 startup has developed blood-purification tech to save children",
+  "source_tags": [
+   "Biotech & Health",
+   "TechCrunch Disrupt",
+   "Startup Battlefield 200"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-11T15:00:00+00:00",
+  "headline": "Efferon Unveils Blood‑Purification Device Targeting Pediatric Sepsis",
+  "body": [
+   {
+    "type": "p",
+    "text": "Battlefield 200‑backed startup Efferon has introduced a blood‑purification technology designed to combat pediatric sepsis, a condition that claims thousands of young lives each year. The device aims to filter harmful pathogens from a child's bloodstream, offering a potential lifesaving intervention."
+   },
+   {
+    "type": "p",
+    "text": "According to the company, the system can be integrated into existing hospital equipment and is intended for use in intensive care settings. Efferon hopes the technology will reduce the high mortality rate associated with severe infections in children."
+   },
+   {
+    "type": "p",
+    "text": "The startup plans to pursue regulatory approvals and clinical trials to validate the device’s efficacy and safety before broader deployment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Pediatric sepsis remains a leading cause of child mortality in the US and Europe, making new treatment options critical for healthcare systems."
+   }
+  ],
+  "key_points": [
+   "Efferon has developed a blood‑purification device aimed at treating pediatric sepsis.",
+   "The technology is backed by Battlefield 200 and targets integration into hospital intensive care units.",
+   "Efferon will seek regulatory clearance and conduct clinical trials to prove the device’s effectiveness."
+  ],
+  "meta_description": "Startup Efferon, backed by Battlefield 200, launches a blood‑purification device to treat deadly pediatric sepsis.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "pediatric sepsis",
+   "blood purification",
+   "medical device",
+   "startup",
+   "healthcare innovation"
+  ],
+  "slug": "efferon-unveils-bloodpurification-device-targeting-pediatric-sepsis-46b3d6",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:46Z"
+ },
+ {
+  "id": "25f79e4f8fc08aa9",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c84g1p2ql9z5o",
+  "source": "BBC Sport",
+  "source_title": "Verstappen dominates for first Singapore Grand Prix win",
+  "source_summary": "Red Bull's Max Verstappen secures his first win in the Singapore Grand Prix, ahead of Charles Leclerc and Kimi Antonelli.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e391/live/e358fd80-c57d-11f1-80f2-5bd1e5df7ada.jpg",
+  "published": "2026-10-11T14:46:06+00:00",
+  "headline": "Verstappen Claims First Singapore Grand Prix Victory for Red Bull",
+  "body": [
+   {
+    "type": "p",
+    "text": "Max Verstappen secured his inaugural win at the Singapore Grand Prix, navigating the street circuit to finish ahead of Ferrari's Charles Leclerc. The Dutch driver managed the demanding night race conditions to claim the top step of the podium."
+   },
+   {
+    "type": "p",
+    "text": "Leclerc completed the podium in second place, while rookie Kimi Antonelli earned his first Formula 1 points by finishing third. The race featured typical Singapore challenges, including tight corners and high temperatures, which tested the drivers' stamina and car performance."
+   },
+   {
+    "type": "p",
+    "text": "Verstappen's triumph adds a crucial victory to his season tally and demonstrates Red Bull's continued competitiveness on the global calendar. The result also highlights the emergence of new talent, with Antonelli's podium finish marking a notable achievement for the young driver."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The win boosts Verstappen's championship campaign and showcases Red Bull's dominance, while Antonelli's podium signals fresh talent for the sport's future."
+   }
+  ],
+  "key_points": [
+   "Max Verstappen won his first Singapore Grand Prix, beating Charles Leclerc.",
+   "Kimi Antonelli secured a podium finish, his first points in Formula 1.",
+   "The victory strengthens Red Bull's position in the championship race."
+  ],
+  "meta_description": "Max Verstappen claims his first Singapore Grand Prix win, with Charles Leclerc second and rookie Kimi Antonelli third.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Max Verstappen",
+   "Singapore Grand Prix",
+   "Red Bull",
+   "Charles Leclerc",
+   "Kimi Antonelli"
+  ],
+  "slug": "verstappen-claims-first-singapore-grand-prix-victory-red-bull-25f79e",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:18Z"
+ },
+ {
+  "id": "28dac8e904c18aff",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo",
+  "source": "BBC News",
+  "source_title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+  "source_summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-11T14:38:10+00:00",
+  "headline": "Ukraine Hits Yandex Data Centre in Third Attack This Week",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukraine launched a missile strike on a Yandex data centre on Tuesday, marking the third assault on the Russian internet firm in just seven days. The attack damaged the facility and prompted Yandex to halt its services temporarily while it assessed the impact."
+   },
+   {
+    "type": "p",
+    "text": "The series of strikes follows earlier hits on Yandex infrastructure earlier in the week, which also forced the company to suspend operations. Ukrainian officials have not commented on the specific targets, but the pattern suggests a focus on weakening Russian digital capabilities."
+   },
+   {
+    "type": "p",
+    "text": "Yandex, Russia's largest search engine and a major provider of cloud and advertising services, has faced increasing pressure amid the ongoing conflict. The company has not released details on the extent of the damage or the expected timeline for restoring full service."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disrupting Yandex's infrastructure hampers Russia's online services, affecting businesses and users across Europe and highlighting the expanding cyber‑war dimension of the conflict."
+   }
+  ],
+  "key_points": [
+   "Ukraine struck a Yandex data centre, the third such attack in a week.",
+   "The damage led Yandex to suspend its operations temporarily.",
+   "The attacks aim to disrupt Russian digital and cloud services."
+  ],
+  "meta_description": "Ukraine's third strike this week hits a Yandex data centre, forcing the Russian tech giant to suspend operations.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Yandex",
+   "data centre",
+   "cyber warfare",
+   "Russia",
+   "tech attacks"
+  ],
+  "slug": "ukraine-hits-yandex-data-centre-third-attack-this-week-28dac8",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:22Z"
+ },
+ {
+  "id": "440c57ab1a0a82ba",
+  "source_url": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
+  "source": "The New York Times",
+  "source_title": "Democrats Press Pentagon on Iran Civilian Deaths",
+  "source_summary": "A new letter from 74 lawmakers suggests that civilian casualties will become a focus of investigation if Democrats take control of Congress.",
+  "source_tags": [
+   "United States Defense and Military Forces",
+   "Civilian Casualties",
+   "US and Israeli Attack on Iran (2026)",
+   "Defense Department",
+   "Democratic Party",
+   "United States Central Command",
+   "Crow, Jason",
+   "Hegseth, Pete",
+   "Iran"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-11T14:36:00+00:00",
+  "headline": "Democrats Demand Pentagon Probe of Iran Civilian Deaths",
+  "body": [
+   {
+    "type": "p",
+    "text": "A coalition of 74 Democratic lawmakers has sent a letter to the Pentagon urging a formal investigation into civilian deaths linked to U.S. operations in Iran. The lawmakers say the issue should become a priority for any future Democratic-controlled Congress."
+   },
+   {
+    "type": "p",
+    "text": "The letter argues that transparency and accountability are essential to uphold U.S. values and to maintain credibility with allies. It calls for a detailed review of the incidents, including the circumstances that led to civilian casualties and the steps taken to prevent them in the future."
+   },
+   {
+    "type": "p",
+    "text": "Lawmakers also request that the Department of Defense provide regular updates to Congress on the progress of the investigation. They stress that such oversight is necessary to ensure that military actions align with both legal standards and public expectations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. oversight of military operations abroad affects diplomatic relations and public trust in both American and European partners."
+   }
+  ],
+  "key_points": [
+   "Seventy-four Democrats have asked the Pentagon to investigate civilian deaths from U.S. actions in Iran.",
+   "The letter urges that any Democratic majority in Congress make the probe a legislative focus.",
+   "Lawmakers seek regular congressional briefings on the investigation’s findings."
+  ],
+  "meta_description": "Democratic lawmakers demand a Pentagon investigation into civilian deaths from U.S. actions in Iran, urging Congress to prioritize oversight.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pentagon",
+   "Iran",
+   "civilian casualties",
+   "Congress",
+   "Democrats",
+   "military oversight"
+  ],
+  "slug": "democrats-demand-pentagon-probe-iran-civilian-deaths-440c57",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:26Z"
+ },
+ {
+  "id": "b0d09f06c293c405",
+  "source_url": "https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html",
+  "source": "The New York Times",
+  "source_title": "A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later",
+  "source_summary": "Senator Roger Marshall, a Kansas Republican in a difficult race, paid an old campaign debt for cookies, muffins and brownies after a baker’s story went viral online.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Marshall, Roger W (1960- )",
+   "Kansas"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/03/12/multimedia/00dc-miller-04-mhwp-copy/00dc-miller-04-mhwp-copy-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T14:17:19+00:00",
+  "headline": "Kansas Senator Roger Marshall Pays Long‑Pending Bakery Debt Amid Re‑Election Fight",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senator Roger Marshall, the Republican incumbent from Kansas, has settled an old campaign obligation for baked goods after a baker’s online post about the unpaid cookies, muffins and brownies went viral. The debt, which dates back six years, was finally paid as the senator faces a challenging re‑election campaign."
+   },
+   {
+    "type": "p",
+    "text": "The baker’s story, which spread across social media platforms, drew attention to the lingering campaign expense and prompted the senator’s office to clear the balance. Marshall’s team confirmed the payment but did not provide details on the amount or the circumstances that led to the original lapse."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts note that the episode underscores the heightened scrutiny candidates endure during election cycles, especially when financial matters become public. The settlement arrives as Marshall contends with a competitive race in a state that has shown increasing electoral volatility."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story illustrates how past campaign finances can resurface and affect candidates' public image during critical election periods in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Senator Roger Marshall cleared a six‑year‑old campaign debt for bakery items after a viral online post.",
+   "The payment comes as the Kansas Republican faces a tough re‑election contest.",
+   "The incident highlights the focus on campaign‑finance transparency during election seasons."
+  ],
+  "meta_description": "Kansas Sen. Roger Marshall pays a six‑year‑old bakery debt amid a tough re‑election race, drawing attention to campaign‑finance scrutiny.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Roger Marshall",
+   "campaign finance",
+   "Kansas election",
+   "viral story",
+   "baked goods debt"
+  ],
+  "slug": "kansas-senator-roger-marshall-pays-longpending-bakery-debt-amid-b0d09f",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:42Z"
+ },
+ {
+  "id": "6aa99ca3d638215f",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cw7vpzzj0502o",
+  "source": "BBC Sport",
+  "source_title": "Sheff Utd legend Sharp retires after 22-year career",
+  "source_summary": "Sheffield United legend Billy Sharp announces his retirement from football at the age of 40.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff14/live/c6301180-c55f-11f1-9cae-455625013d45.jpg",
+  "published": "2026-10-11T10:49:39+00:00",
+  "headline": "Billy Sharp Retires After 22-Year Spell With Sheffield United",
+  "body": [
+   {
+    "type": "p",
+    "text": "Sheffield United forward Billy Sharp announced his retirement from professional football at the age of 40. The striker, who is widely regarded as a club legend, ends a career that spanned more than two decades."
+   },
+   {
+    "type": "p",
+    "text": "Sharp’s 22-year tenure included multiple promotions and a reputation for consistent goal‑scoring. His departure marks the conclusion of one of the longest playing spells in modern English football."
+   },
+   {
+    "type": "p",
+    "text": "The club and fans paid tribute to Sharp’s loyalty and contributions, highlighting his status as a role model for younger players."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Sharp’s longevity and loyalty exemplify the dedication prized in English football, offering a benchmark for aspiring players in the UK and North America."
+   }
+  ],
+  "key_points": [
+   "Billy Sharp retires at 40 after a 22‑year career with Sheffield United.",
+   "He is celebrated as a club legend and prolific goal‑scorer.",
+   "His retirement ends one of the longest playing careers in recent English football."
+  ],
+  "meta_description": "Sheffield United legend Billy Sharp retires at 40 after a 22‑year career, ending a notable era in English football.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Billy Sharp",
+   "Sheffield United",
+   "retirement",
+   "football",
+   "English Premier League"
+  ],
+  "slug": "billy-sharp-retires-after-22-year-spell-with-sheffield-6aa99c",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:38Z"
+ },
+ {
+  "id": "38b3b1f2bee73284",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo",
+  "source": "BBC Sport",
+  "source_title": "Russo named England player of the year",
+  "source_summary": "Arsenal forward Alessia Russo is named England women's player of the year after scoring five goals in 10 games.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c3/live/088b06d0-c55f-11f1-9cae-455625013d45.jpg",
+  "published": "2026-10-11T10:35:31+00:00",
+  "headline": "Alessia Russo Named England Women's Player of the Year",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal striker Alessia Russo has been honoured as the England women's player of the year. The award recognises her impact on the national side during the past season."
+   },
+   {
+    "type": "p",
+    "text": "Russo's tally of five goals in ten appearances for England was highlighted as a key factor in her selection. Her contributions helped the team maintain a strong offensive record in international fixtures."
+   },
+   {
+    "type": "p",
+    "text": "The accolade underscores Russo's rising profile in women's football, adding to her reputation as one of the sport's emerging talents."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The recognition of Russo highlights the increasing visibility and competitiveness of women's soccer in Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Alessia Russo, Arsenal forward, wins England women's player of the year.",
+   "She scored five goals in ten matches for the national team.",
+   "The award reflects her growing influence in women's football."
+  ],
+  "meta_description": "Arsenal forward Alessia Russo is named England women's player of the year after netting five goals in ten games.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alessia Russo",
+   "England women's football",
+   "player of the year",
+   "Arsenal",
+   "women's soccer"
+  ],
+  "slug": "alessia-russo-named-england-women-s-player-year-38b3b1",
+  "reading_minutes": 1,
+  "added": "2026-10-11T15:56:54Z"
+ },
+ {
   "id": "0f4ac4de3969243d",
   "source_url": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
