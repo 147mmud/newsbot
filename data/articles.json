@@ -1,5 +1,168 @@
 [
  {
+  "id": "9cb8088d6020976d",
+  "source_url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Shooter kills 8 people and himself in Pennsylvania — police",
+  "source_summary": "The 45-year-old shooter, who is yet to be identified, carried out the killings at his home in Erie. Pennsylvania Governor Josh Shapiro offered support as the lakeside city grieves.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-11T01:52:00+00:00",
+  "headline": "Shooter Kills Eight People at Erie Home, Police Say in Pennsylvania",
+  "body": [
+   {
+    "type": "p",
+    "text": "A 45-year-old man, whose identity has not yet been released, opened fire at his residence in Erie, Pennsylvania, killing eight people before taking his own life, according to local police. The victims were found inside the home, and authorities are still investigating the motive behind the attack."
+   },
+   {
+    "type": "p",
+    "text": "Governor Josh Shapiro expressed his condolences and pledged support for the grieving community, describing the incident as a tragic loss for the lakeside city. Emergency responders and law‑enforcement agencies worked through the night to secure the scene and notify the families of those killed."
+   },
+   {
+    "type": "p",
+    "text": "The shooting adds to a series of recent mass‑casualty events in the United States, prompting renewed discussions about public safety and mental‑health resources. Officials have not released further details about the victims or any potential warning signs prior to the incident."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack underscores the persistent issue of mass shootings in the United States, a topic of concern for both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "A 45-year-old shooter killed eight people at his Erie home before committing suicide.",
+   "Pennsylvania Governor Josh Shapiro offered support to the community following the tragedy.",
+   "The incident highlights ongoing concerns about gun violence and public safety in the U.S."
+  ],
+  "meta_description": "A 45-year-old shooter killed eight people at his home in Erie, Pennsylvania, before taking his own life, prompting condolences from the governor.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "mass shooting",
+   "Pennsylvania",
+   "Erie",
+   "gun violence",
+   "public safety"
+  ],
+  "slug": "shooter-kills-eight-people-erie-home-police-say-pennsylvania-9cb808",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:13Z"
+ },
+ {
+  "id": "e3a9514e7d6fdaab",
+  "source_url": "https://www.nytimes.com/2026/10/10/us/politics/trump-rally-tennessee-public-execution.html",
+  "source": "The New York Times",
+  "source_title": "‘Not Pleasant’ but ‘Necessary’: Support at Trump Rally for Public Execution",
+  "source_summary": "A sample of people at the president’s midterm stump speech in Tennessee defended the Pentagon’s announcement that it would livestream the execution of a mass shooter.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Capital Punishment",
+   "Midterm Elections (2026)",
+   "Fort Hood Shooting (2014)",
+   "Defense Department",
+   "Hasan, Nidal Malik",
+   "Hegseth, Pete",
+   "Pike, Christa (1976- )",
+   "Trump, Donald J",
+   "Clarksville (Tenn)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10DC-TRUMP-RALLY-1-hjzg/10DC-TRUMP-RALLY-1-hjzg-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T00:11:51+00:00",
+  "headline": "Support for Pentagon Livestreamed Execution at Trump Rally",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a midterm campaign event in Tennessee, a sample of attendees listened to President Donald Trump’s speech and voiced approval of the Pentagon’s plan to broadcast the execution of a mass shooter. The crowd’s reaction was described as supportive despite the grim nature of the proposal."
+   },
+   {
+    "type": "p",
+    "text": "The Pentagon announced it would livestream the execution, calling it a necessary measure to demonstrate the consequences of extreme violence. Attendees at the rally echoed this sentiment, saying the public display was “not pleasant” but essential for deterrence."
+   },
+   {
+    "type": "p",
+    "text": "Observers noted the unusual convergence of a political rally and a military‑run execution broadcast, highlighting the heightened rhetoric surrounding public safety and justice in the current political climate."
+   }
+  ],
+  "key_points": [
+   "Trump rally attendees in Tennessee defended the Pentagon’s plan to livestream a mass shooter’s execution.",
+   "The Pentagon framed the broadcast as a necessary deterrent, despite its disturbing nature."
+  ],
+  "meta_description": "Trump rally supporters in Tennessee back the Pentagon's plan to livestream a mass shooter execution, calling it a necessary deterrent.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Pentagon",
+   "execution",
+   "livestream",
+   "mass shooter",
+   "rally"
+  ],
+  "slug": "support-pentagon-livestreamed-execution-trump-rally-e3a951",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:17Z"
+ },
+ {
+  "id": "3581328646f8cb4d",
+  "source_url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+  "source": "NPR",
+  "source_title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+  "source_summary": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian, a Syrian and a Sudanese. It said some of those injured were in critical condition. The attack — the latest of several in the past week on King Khalid International Airport — is expected to increase Saudi pressure on allies including the United States to provide military support for the kingdom.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/989x1523+0+0/resize/989x1523!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F67%2F6adafce549cc8bcbb7372304010a%2Fap26282625542805.jpg",
+  "published": "2026-10-10T23:44:15+00:00",
+  "headline": "Attack on Riyadh Airport Kills 12, Injures Over 300 in Latest Assault",
+  "body": [
+   {
+    "type": "p",
+    "text": "Saudi officials reported that a strike on King Khalid International Airport in Riyadh resulted in 12 fatalities and more than 300 injuries. The death toll includes four Saudi nationals and eight foreign citizens: two Bangladeshis, a Palestinian, a U.S. citizen, an Egyptian, a Jordanian, a Syrian and a Sudanese. Several of the wounded are said to be in critical condition."
+   },
+   {
+    "type": "p",
+    "text": "The incident is the most recent of a series of attacks on the airport that have occurred over the past week. Saudi authorities warned that the growing violence could heighten pressure on the kingdom’s allies, particularly the United States, to consider providing additional military assistance."
+   },
+   {
+    "type": "p",
+    "text": "Security forces have begun investigations, but details about the perpetrators or the method of the attack have not been released. The airport, a key hub for international travel, remains partially operational as authorities work to secure the site and treat the injured."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack may push Saudi Arabia to seek greater military backing from the United States and European partners amid rising regional threats."
+   }
+  ],
+  "key_points": [
+   "An attack on Riyadh's King Khalid International Airport killed 12 people, including a U.S. citizen, and injured over 300.",
+   "The strike follows several other assaults on the airport in the last week, raising Saudi calls for allied military support."
+  ],
+  "meta_description": "A recent attack on Riyadh's airport killed 12 and wounded more than 300, prompting Saudi calls for increased allied military support.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Riyadh",
+   "airport attack",
+   "Saudi Arabia",
+   "casualties",
+   "US relations"
+  ],
+  "slug": "attack-riyadh-airport-kills-12-injures-over-300-latest-358132",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:21Z"
+ },
+ {
   "id": "8bc05b7198c02b2f",
   "source_url": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
   "source": "The New York Times",
@@ -353,6 +516,59 @@
   "added": "2026-10-10T23:28:03Z"
  },
  {
+  "id": "a976a218925ec25f",
+  "source_url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o",
+  "source": "BBC News",
+  "source_title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+  "source_summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6204/live/aaaf6ea0-c21d-11f1-b7d8-6f930589c871.jpg",
+  "published": "2026-10-10T22:13:08+00:00",
+  "headline": "Young Men Fear Kidnapping and Sale to Myanmar's Military",
+  "body": [
+   {
+    "type": "p",
+    "text": "In Myanmar, young men are living in constant fear of being seized from the streets and handed over to the country's army, according to recent reporting. The threat comes as the military junta, struggling to maintain control, intensifies its campaign against ethnic militias and civilian resistance groups."
+   },
+   {
+    "type": "p",
+    "text": "Human rights observers say the junta's desperation has led to a war of attrition, with forced recruitment and abductions becoming more common. Victims are reportedly taken without warning and forced into service for the army, heightening anxiety among communities already burdened by conflict."
+   },
+   {
+    "type": "p",
+    "text": "The climate of fear is spreading across urban and rural areas, as families worry that any young male could become a target. This environment undermines daily life and hampers efforts toward peace and stability in the region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The escalation of forced recruitment in Myanmar raises concerns for regional security and human‑rights monitoring, issues of interest to Western governments and NGOs."
+   }
+  ],
+  "key_points": [
+   "Young men in Myanmar fear being kidnapped and sold to the army amid the junta's crackdown.",
+   "The military's desperate war of attrition targets ethnic militias and civilian resistance.",
+   "Forced recruitment is increasing anxiety and destabilizing communities."
+  ],
+  "meta_description": "Young men in Myanmar fear kidnapping and forced service as the junta intensifies its war against militias and civilian resistance.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Myanmar",
+   "military junta",
+   "forced recruitment",
+   "human rights",
+   "ethnic conflict"
+  ],
+  "slug": "young-men-fear-kidnapping-sale-myanmar-s-military-a976a2",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:32Z"
+ },
+ {
   "id": "35dc91695d5dee44",
   "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
   "source": "The Verge",
@@ -507,6 +723,58 @@
   "added": "2026-10-10T23:27:56Z"
  },
  {
+  "id": "739b758eb78c5921",
+  "source_url": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+  "source": "NPR",
+  "source_title": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
+  "source_summary": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5993847",
+  "published": "2026-10-10T21:40:58+00:00",
+  "headline": "London Tour of Bayeux Tapestry Sparks Battle of Hastings Reenactment",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Bayeux Tapestry, now on display in London, has ignited renewed enthusiasm for one of England's most famous medieval battles. Visitors to the exhibition have been inspired to organize a public reenactment of the 1066 Battle of Hastings, an event that marked the Norman conquest of England."
+   },
+   {
+    "type": "p",
+    "text": "The reenactment, staged in the United Kingdom, has attracted sizable crowds of history buffs and local residents eager to witness a live portrayal of the clash that reshaped the British Isles. Organizers report that the turnout reflects a growing public fascination with medieval heritage, spurred directly by the tapestry's vivid storytelling."
+   },
+   {
+    "type": "p",
+    "text": "While details of the event’s scale and participants remain limited, the surge in interest underscores the tapestry’s power to connect contemporary audiences with a pivotal moment in European history."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The surge in public interest highlights a broader appetite for medieval history and cultural heritage among European audiences."
+   }
+  ],
+  "key_points": [
+   "The Bayeux Tapestry's London exhibition has motivated a large‑scale Battle of Hastings reenactment.",
+   "The reenactment is drawing notable crowds of history enthusiasts across the UK."
+  ],
+  "meta_description": "London's Bayeux Tapestry exhibition inspires a popular Battle of Hastings reenactment, drawing crowds of history fans.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bayeux Tapestry",
+   "Battle of Hastings",
+   "recreation",
+   "UK history",
+   "cultural tourism"
+  ],
+  "slug": "london-tour-bayeux-tapestry-sparks-battle-hastings-reenactment-739b75",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:49Z"
+ },
+ {
   "id": "d6c0a0860e6d3ffc",
   "source_url": "https://www.npr.org/2026/10/10/nx-s1-5992884/trumps-economic-strategy-resemble-similar-policies-in-east-asia",
   "source": "NPR",
@@ -558,6 +826,186 @@
   "slug": "trump-administration-echoes-east-asian-industrial-policies-d6c0a0",
   "reading_minutes": 1,
   "added": "2026-10-10T23:28:12Z"
+ },
+ {
+  "id": "dcc48233c883fd3c",
+  "source_url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+  "source": "NPR",
+  "source_title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+  "source_summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/989x1523+0+0/resize/989x1523!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2Fc5%2F97fb91ff49f1a3ed412d58b43f28%2Fap26282625542805.jpg",
+  "published": "2026-10-10T21:32:53+00:00",
+  "headline": "Trump Considers Supporting Saudi Fight Against Houthis After Airport Attack",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump said he is weighing the possibility of joining the Saudi-led effort to combat Yemen's Houthi rebels following a recent attack on Riyadh's airport. The strike is part of a broader wave of Houthi assaults that have targeted additional Saudi airports, military sites and oil infrastructure over the past week."
+   },
+   {
+    "type": "p",
+    "text": "The escalation comes as the Saudi-led coalition launched a major military offensive against the Houthis just days earlier, intensifying the regional conflict. Trump’s comments signal a potential shift in U.S. political rhetoric toward the Saudi campaign, though no formal policy change has been announced."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that any U.S. involvement, even symbolic, could influence the dynamics of the conflict and affect global oil markets, given Saudi Arabia's pivotal role in energy supply."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European economies are sensitive to disruptions in Saudi oil production, and political statements from a former U.S. president can shape diplomatic and market responses."
+   }
+  ],
+  "key_points": [
+   "Trump is contemplating support for the Saudi-led war against Houthi rebels after a Riyadh airport attack.",
+   "The attack is part of a recent surge in Houthi strikes on Saudi airports, military facilities and oil assets.",
+   "U.S. political signals could impact the regional conflict and global oil markets."
+  ],
+  "meta_description": "Donald Trump weighs backing Saudi Arabia's fight against Houthi rebels after a recent airport attack, raising concerns for regional stability and oil…",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Houthis",
+   "Saudi Arabia",
+   "Yemen conflict",
+   "oil market",
+   "Middle East"
+  ],
+  "slug": "trump-considers-supporting-saudi-fight-against-houthis-after-airport-dcc482",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:56Z"
+ },
+ {
+  "id": "45b03a1f1db7ddea",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/10/cottonwood-tree-toppling-trump-mexico-border-wall-arizona",
+  "source": "The Guardian",
+  "source_title": "Despair after 200-year-old ‘grandmother’ tree toppled for Trump’s border wall: ‘It crushes your heart’",
+  "source_summary": "Protesters spent months occupying an ancient cottonwood. Then a tense standoff with US border patrol came to a head A 200-year-old cottonwood tree near the US-Mexico border , known as the “grandmother”, has been destroyed to make way for the construction of Donald Trump ’s border wall, despite a months-long effort by protesters trying to save it. In late July, land defenders began a tree-sit in the ghost town of Lochiel, Arizona , taking turns occupying a platform high in the tree’s canopy. The group remained there for more than 70 days.",
+  "source_tags": [
+   "US immigration",
+   "Arizona",
+   "US news",
+   "US-Mexico border",
+   "Trump administration",
+   "Donald Trump",
+   "US politics",
+   "Trees and forests",
+   "Environment",
+   "Protest (US)"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/50a8b0c323bb8789296dadfeeadb996d90bf63a6/410_0_6968_5578/master/6968.jpg?width=700&quality=85&auto=format&fit=max&s=109528aacaaa161ac1e40d184788a867",
+  "published": "2026-10-10T20:57:32+00:00",
+  "headline": "200-Year-Old “Grandmother” Cottonwood Cut Down for Trump Border Wall",
+  "body": [
+   {
+    "type": "p",
+    "text": "A 200‑year‑old cottonwood tree known locally as the “grandmother” was felled near the U.S.–Mexico border to clear space for the border wall championed by former President Donald Trump. The tree stood in the ghost town of Lochiel, Arizona, and had become a symbol of resistance after activists began a tree‑sit in late July, rotating occupants on a platform built in its canopy."
+   },
+   {
+    "type": "p",
+    "text": "Protesters occupied the platform for more than 70 days, maintaining a continuous presence despite a tense standoff with U.S. Border Patrol agents. Their effort aimed to halt construction and draw attention to the environmental impact of the wall, but the tree was ultimately cut down, ending the occupation."
+   },
+   {
+    "type": "p",
+    "text": "The removal of the ancient tree underscores the ongoing clash between border‑security initiatives and environmental and indigenous advocacy groups, highlighting the lengths to which activists will go to protect natural landmarks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident illustrates the broader conflict between U.S. border‑security policies and environmental activism, a dynamic watched by European audiences concerned about climate and human‑rights issues."
+   }
+  ],
+  "key_points": [
+   "A 200‑year‑old cottonwood dubbed “grandmother” was destroyed for a Trump‑era border wall project.",
+   "Activists occupied the tree for over 70 days in a high‑platform tree‑sit before it was felled."
+  ],
+  "meta_description": "A 200‑year‑old cottonwood tree called “grandmother” was cut down for a Trump border wall after a 70‑day protest tree‑sit in Arizona.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "border wall",
+   "cottonwood",
+   "protest",
+   "Arizona",
+   "environmental activism"
+  ],
+  "slug": "200-year-old-grandmother-cottonwood-cut-down-trump-border-45b03a",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:29Z"
+ },
+ {
+  "id": "90f0ca2bfe4c01ec",
+  "source_url": "https://www.nytimes.com/2026/10/10/us/politics/trump-nobel-peace-prize-norway-navi-pillay.html",
+  "source": "The New York Times",
+  "source_title": "Trump Says He Should Have Won ‘8 Nobel Peace Prizes’ After Being Snubbed",
+  "source_summary": "The president took to social media on Friday and Saturday to criticize the choice of Navi Pillay and disparage the Norwegian Nobel Committee.",
+  "source_tags": [
+   "Trump, Donald J",
+   "Pillay, Navi",
+   "Nobel Prizes",
+   "United States Politics and Government",
+   "International Relations",
+   "Awards, Decorations and Honors",
+   "Norwegian Nobel Committee",
+   "International Criminal Court",
+   "Nuremberg (Germany)",
+   "United States"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10xp-Trump-01-zwvq/10xp-Trump-01-zwvq-mediumSquareAt3X.jpg",
+  "published": "2026-10-10T20:11:09+00:00",
+  "headline": "Trump Claims He Deserves Eight Nobel Peace Prizes After Snub, Attacks Committee",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump took to social media on Friday and Saturday to assert that he should have been awarded eight Nobel Peace Prizes. The claim came after he was not nominated for the award, prompting a series of posts that criticized the selection process."
+   },
+   {
+    "type": "p",
+    "text": "In his messages, Trump specifically disparaged the Norwegian Nobel Committee and questioned the appointment of Navi Pillay, a former United Nations high commissioner for human rights, to a related role. He described the committee’s decision as a “snub” and suggested that his own diplomatic efforts merited multiple peace honors."
+   },
+   {
+    "type": "p",
+    "text": "The posts generated immediate attention online, with supporters echoing his sentiment and critics pointing to the hyperbolic nature of the claim. No official response from the Nobel Committee was reported in the coverage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remarks illustrate the former president's continued use of social media to challenge international institutions and shape public debate."
+   }
+  ],
+  "key_points": [
+   "Trump claimed he deserved eight Nobel Peace Prizes after being excluded from the nomination list.",
+   "He criticized the Norwegian Nobel Committee and the selection of Navi Pillay in his social‑media posts."
+  ],
+  "meta_description": "Donald Trump says he should have won eight Nobel Peace Prizes, attacks the Norwegian Nobel Committee and Navi Pillay on social media.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Nobel Peace Prize",
+   "Norway",
+   "Navi Pillay",
+   "social media"
+  ],
+  "slug": "trump-claims-he-deserves-eight-nobel-peace-prizes-after-90f0ca",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:41Z"
  },
  {
   "id": "9fe15a12a7df7ad0",
@@ -1038,6 +1486,60 @@
   "added": "2026-10-10T23:28:19Z"
  },
  {
+  "id": "88b12ead4afbfb74",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c6y4z9lnkz30o",
+  "source": "BBC Sport",
+  "source_title": "Brilliant Guimaraes goal helps Arsenal fight back to beat Leeds",
+  "source_summary": "A brilliant goal from Bruno Guimaraes helps Arsenal come from behind to beat Leeds United 2-1 at the Emirates, as the champions get back to winning ways in the Premier League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1979/live/91d156a0-c4bb-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-10T19:00:08+00:00",
+  "headline": "Guimaraes' Strike Powers Arsenal to 2-1 Comeback Victory Over Leeds",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal returned to winning form in the Premier League on Monday, overturning a first‑half deficit to beat Leeds United 2-1 at the Emirates Stadium. The hosts fell behind early but rallied after Bruno Guimaraes produced a spectacular goal that shifted the momentum."
+   },
+   {
+    "type": "p",
+    "text": "Guimaraes' strike, described by match reports as brilliant, gave Arsenal the lead and set the tone for the remainder of the game. The English champions added a second goal to secure the win, while Leeds managed only a single reply."
+   },
+   {
+    "type": "p",
+    "text": "The result marks Arsenal's first victory after a recent spell of mixed results, reinforcing their position in the league table as they aim to maintain pressure on rivals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Arsenal's resurgence impacts the Premier League title race, a competition closely followed by fans in the US, UK, Canada, Germany and Switzerland."
+   }
+  ],
+  "key_points": [
+   "Bruno Guimaraes scored a standout goal as Arsenal came from behind to defeat Leeds United 2-1.",
+   "The win ends Arsenal's recent winless run and restores their momentum in the Premier League.",
+   "Leeds United were unable to recover after conceding the decisive goals."
+  ],
+  "meta_description": "Arsenal beat Leeds United 2-1 with a brilliant Guimaraes goal, ending their winless streak and reviving title hopes.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Leeds United",
+   "Premier League",
+   "Bruno Guimaraes",
+   "football",
+   "match result"
+  ],
+  "slug": "guimaraes-strike-powers-arsenal-2-1-comeback-victory-over-88b12e",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:24Z"
+ },
+ {
   "id": "e77e9ae83492452b",
   "source_url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
   "source": "The Verge",
@@ -1276,6 +1778,175 @@
   "slug": "petra-power-introduces-efficient-fuel-cells-data-centers-defense-858e15",
   "reading_minutes": 1,
   "added": "2026-10-10T20:01:40Z"
+ },
+ {
+  "id": "7549208eceec51b4",
+  "source_url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+  "source": "The Verge",
+  "source_title": "Ledger wallet tampering suspected after reports of crypto thefts",
+  "source_summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained […]",
+  "source_tags": [
+   "Crypto",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-10T16:36:44+00:00",
+  "headline": "Ledger Requests Halt on CryptoBillis Wallet Sales Amid Theft Claims",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ledger, the maker of popular hardware cryptocurrency wallets, has asked reseller CryptoBillis to suspend all sales of its devices after multiple users reported their accounts being emptied. The company says the incidents appear linked to tampered hardware that was distributed by CryptoBillis."
+   },
+   {
+    "type": "p",
+    "text": "Ledger confirmed that an investigation is under way and that at least one compromised device was found to contain unauthorized modifications. The firm has not disclosed the exact nature of the tampering but emphasized that it is working with authorities to identify the source."
+   },
+   {
+    "type": "p",
+    "text": "CryptoBillis has not yet issued a public response, but the pause in sales affects customers in the United States, Europe and other markets where the wallets are sold. Ledger advises users to verify the authenticity of their devices and to monitor their accounts for any suspicious activity."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The breach highlights security risks for crypto investors in major markets and may prompt tighter oversight of hardware wallet supply chains."
+   }
+  ],
+  "key_points": [
+   "Ledger has asked CryptoBillis to stop selling its hardware wallets after theft reports.",
+   "Investigators found evidence of tampering in at least one compromised device.",
+   "Users are urged to check their wallets and remain vigilant for unauthorized transactions."
+  ],
+  "meta_description": "Ledger urges CryptoBillis to halt wallet sales after tampered devices lead to crypto thefts, prompting an investigation.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cryptocurrency",
+   "hardware wallet",
+   "Ledger",
+   "CryptoBillis",
+   "security breach"
+  ],
+  "slug": "ledger-requests-halt-cryptobillis-wallet-sales-amid-theft-claims-754920",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:36Z"
+ },
+ {
+  "id": "df771d277c46056d",
+  "source_url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+  "source": "TechCrunch",
+  "source_title": "Cloudflare acquires Deno to improve its Workers programming model",
+  "source_summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+  "source_tags": [
+   "Enterprise",
+   "Startups",
+   "cloudflare",
+   "Deno"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-10T16:25:42+00:00",
+  "headline": "Cloudflare Acquires Deno to Enhance Workers Programming Model",
+  "body": [
+   {
+    "type": "p",
+    "text": "Cloudflare announced that it has acquired Deno, the open‑source runtime for JavaScript and TypeScript, as part of a strategy to strengthen its serverless offering. The deal was disclosed on October 10, 2026, and positions Cloudflare to integrate Deno’s technology directly into its Workers platform."
+   },
+   {
+    "type": "p",
+    "text": "The acquisition is aimed at improving the programming model that developers use to build and deploy code at the edge. By leveraging Deno’s runtime, Cloudflare expects to offer a more streamlined and secure environment for writing serverless functions, reducing friction for developers who already use JavaScript or TypeScript."
+   },
+   {
+    "type": "p",
+    "text": "Cloudflare said the move will expand the capabilities of its Workers service, allowing customers to benefit from faster iteration cycles and tighter security controls. The company plans to roll out the integrated features over the coming months, though specific timelines were not provided."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Improved edge computing performance can speed up web services for users in the US and Europe, while tighter security benefits businesses handling sensitive data."
+   }
+  ],
+  "key_points": [
+   "Cloudflare has purchased Deno to integrate its runtime into the Workers platform.",
+   "The integration aims to simplify and secure serverless development for JavaScript and TypeScript users.",
+   "Cloudflare expects the enhanced Workers model to roll out in the next few months."
+  ],
+  "meta_description": "Cloudflare buys Deno to boost its Workers platform, promising a simpler, more secure serverless experience for developers.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cloudflare",
+   "deno",
+   "workers",
+   "acquisition",
+   "programming",
+   "edge computing"
+  ],
+  "slug": "cloudflare-acquires-deno-enhance-workers-programming-model-df771d",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:45Z"
+ },
+ {
+  "id": "159439cbc18120fd",
+  "source_url": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o",
+  "source": "BBC News",
+  "source_title": "King warns malicious online actors are evolving tactics",
+  "source_summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d98d/live/0d6d7c40-c4c0-11f1-9ce9-55293bd7f0d9.jpg",
+  "published": "2026-10-10T15:56:32+00:00",
+  "headline": "King Highlights Evolving Tactics of Malicious Online Actors",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a letter marking the tenth anniversary of the United Kingdom’s National Cyber Security Centre, the King warned that malicious online actors are continually refining their methods. He described these groups as a growing threat to the stability of the international order, emphasizing the need for coordinated defence measures."
+   },
+   {
+    "type": "p",
+    "text": "The monarch’s message underscored the importance of vigilance across governments and the private sector, noting that cyber‑enabled attacks can target critical infrastructure, democratic processes and economic systems. He called for sustained investment in cyber resilience and for sharing intelligence to stay ahead of evolving threats."
+   },
+   {
+    "type": "p",
+    "text": "While the letter did not detail specific incidents, it highlighted a broader trend of increasingly sophisticated cyber campaigns that exploit emerging technologies and social engineering tactics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Cyber attacks can disrupt critical services and democratic institutions, making the King’s call for coordinated defence relevant to the US and European security landscape."
+   }
+  ],
+  "key_points": [
+   "The King warned that malicious online actors are constantly improving their tactics.",
+   "He linked cyber threats to broader risks for the international order and urged stronger cooperation.",
+   "Investment in cyber resilience and intelligence sharing was called for."
+  ],
+  "meta_description": "The King warns that evolving cyber threats pose a risk to the international order, urging stronger cooperation and investment in resilience.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "King",
+   "cyber security",
+   "online threats",
+   "NCSC",
+   "international order"
+  ],
+  "slug": "king-highlights-evolving-tactics-malicious-online-actors-159439",
+  "reading_minutes": 1,
+  "added": "2026-10-11T02:08:53Z"
  },
  {
   "id": "038035b4da476203",
