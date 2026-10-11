@@ -1,5 +1,639 @@
 [
  {
+  "id": "0f4ac4de3969243d",
+  "source_url": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Germany sticks to Russia sanctions after Trump diesel deal",
+  "source_summary": "After Washington announced a sanctions pause on Russian diesel, Germany has said it remains committed to pressuring Moscow and supporting Ukraine. More on DW.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-11T09:13:00+00:00",
+  "headline": "Germany Reaffirms Russia Sanctions Despite U.S. Diesel Pause",
+  "body": [
+   {
+    "type": "p",
+    "text": "Berlin said on Wednesday that it will continue to enforce sanctions against Russia even after Washington announced a temporary pause on restrictions for Russian diesel. The German foreign ministry emphasized that the move does not change its overall strategy of pressuring Moscow over its war in Ukraine."
+   },
+   {
+    "type": "p",
+    "text": "The United States indicated the suspension is linked to a proposed diesel export deal involving President Donald Trump’s administration. German officials said the limited easing does not affect the broader sanctions regime, which includes bans on technology, finance and energy sectors."
+   },
+   {
+    "type": "p",
+    "text": "Germany reiterated its commitment to support Ukraine with military aid and humanitarian assistance, underscoring that any short‑term adjustments by the U.S. will not alter Berlin’s stance on holding Russia accountable."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The stance highlights a split in transatlantic approaches to Russia, affecting energy markets and Ukraine's support."
+   }
+  ],
+  "key_points": [
+   "Germany will keep its Russia sanctions in place despite a U.S. pause on diesel restrictions.",
+   "The U.S. pause is tied to a diesel export deal linked to the Trump administration.",
+   "Berlin says its policy to pressure Moscow and aid Ukraine remains unchanged."
+  ],
+  "meta_description": "Germany says it will maintain Russia sanctions even as the U.S. pauses diesel restrictions tied to a Trump deal.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Germany",
+   "Russia sanctions",
+   "diesel",
+   "Ukraine",
+   "US policy",
+   "energy"
+  ],
+  "slug": "germany-reaffirms-russia-sanctions-despite-u-s-diesel-pause-0f4ac4",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:15:34Z"
+ },
+ {
+  "id": "78c733a4f593b12c",
+  "source_url": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
+  "source": "The New York Times",
+  "source_title": "A Contagious Aversion to Overhead Lights",
+  "source_summary": "Plus: How far to go for a colleague, and now your chance to give someone advice.",
+  "source_tags": [
+   "Workplace Environment",
+   "Human Resources",
+   "Lighting"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11WorkFriend-mzpt/11WorkFriend-mzpt-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T09:01:32+00:00",
+  "headline": "A Contagious Aversion to Overhead Lights",
+  "body": [
+   {
+    "type": "p",
+    "text": "In business and markets news, The New York Times reports:"
+   },
+   {
+    "type": "quote",
+    "text": "Plus: How far to go for a colleague, and now your chance to give someone advice.",
+    "cite": "The New York Times"
+   }
+  ],
+  "key_points": [],
+  "meta_description": "Plus: How far to go for a colleague, and now your chance to give someone advice.",
+  "category": "business",
+  "mode": "offline",
+  "index": false,
+  "tags": [
+   "Workplace Environment",
+   "Human Resources",
+   "Lighting",
+   "Contagious Aversion",
+   "Overhead Lights",
+   "Plus"
+  ],
+  "slug": "contagious-aversion-overhead-lights-78c733",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:15:38Z"
+ },
+ {
+  "id": "2e5d8215fcb525d1",
+  "source_url": "https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html",
+  "source": "The New York Times",
+  "source_title": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
+  "source_summary": "A release of selected records from the classified documents inquiry is a case study in how omitting context can create political ammunition.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Classified Information and State Secrets",
+   "Federal Criminal Case Against Trump (Documents Case)",
+   "Archives and Records",
+   "Federal Bureau of Investigation",
+   "Justice Department",
+   "Mar-a-Lago (Palm Beach, Fla)",
+   "Florida",
+   "Bannon, Stephen K",
+   "Solomon, John F"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/10/multimedia/00dc-propaganda-01-mzkl/00dc-propaganda-01-mzkl-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T09:01:26+00:00",
+  "headline": "White House Shapes Narrative Using Select Call Log Records",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recently released set of documents from the classified‑documents investigation shows the White House highlighted specific excerpts from a former Trump aide's call logs while leaving out surrounding context. The selective release, according to the report, was intended to frame a political narrative rather than provide a full picture of the communications."
+   },
+   {
+    "type": "p",
+    "text": "The analysis notes that by omitting surrounding details, the administration created ammunition for partisan attacks. Critics argue that the approach undermines transparency and skews public understanding of the aide's interactions during the investigation."
+   },
+   {
+    "type": "p",
+    "text": "The findings illustrate how curated disclosures can influence perception of ongoing political inquiries, raising questions about the balance between national‑security concerns and the public’s right to comprehensive information."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights how government control of information can shape political debates, a concern for both U.S. and European audiences monitoring democratic transparency."
+   }
+  ],
+  "key_points": [
+   "The White House released only portions of a Trump aide's call logs from the classified‑documents probe.",
+   "Omitted context allowed the administration to craft a politically favorable narrative.",
+   "Experts warn that selective disclosures can distort public perception of investigations."
+  ],
+  "meta_description": "White House releases selective call log excerpts, shaping narrative and sparking debate over transparency in the Trump aide investigation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "White House",
+   "Trump aide",
+   "call logs",
+   "classified documents",
+   "political narrative"
+  ],
+  "slug": "white-house-shapes-narrative-using-select-call-log-records-2e5d82",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:15:42Z"
+ },
+ {
+  "id": "45e33bc9cbe43ab6",
+  "source_url": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
+  "source": "The New York Times",
+  "source_title": "Wringing Hope From the Rubble of Gaza",
+  "source_summary": "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct. 7, 2023. A year later, however, Israeli strikes, though less frequent, haven’t stopped.",
+  "source_tags": [
+   "vis-photo"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/09/22/multimedia/22Gaza-ceasefire-anniversary-05-hjvz/22Gaza-ceasefire-anniversary-05-hjvz-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T09:01:25+00:00",
+  "headline": "Israeli Strikes Persist Despite 2025 Gaza Cease‑Fire Agreement",
+  "body": [
+   {
+    "type": "p",
+    "text": "A cease‑fire signed in October 2025 formally ended Israel’s large‑scale war in Gaza following the Hamas attacks of Oct. 7, 2023. The truce was meant to halt hostilities and begin a period of reconstruction in the enclave."
+   },
+   {
+    "type": "p",
+    "text": "One year later, Israeli military operations continue, though at a reduced frequency. While the intensity of the strikes has lessened compared with the war’s peak, they have not stopped entirely, keeping the region in a state of ongoing tension."
+   },
+   {
+    "type": "p",
+    "text": "The persistence of these attacks underscores the fragile nature of the cease‑fire and highlights the challenges of achieving lasting peace in the Gaza Strip."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Ongoing hostilities affect regional stability and have implications for U.S. and European diplomatic and security policies in the Middle East."
+   }
+  ],
+  "key_points": [
+   "The October 2025 cease‑fire ended the major phase of Israel’s war in Gaza.",
+   "Israeli strikes still occur a year later, albeit less frequently.",
+   "The continued violence shows the cease‑fire’s limited durability."
+  ],
+  "meta_description": "A year after the 2025 Gaza cease‑fire, Israeli strikes continue, highlighting the fragile peace in the region.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Gaza",
+   "Israel",
+   "Ceasefire",
+   "Middle East",
+   "Conflict"
+  ],
+  "slug": "israeli-strikes-persist-despite-2025-gaza-ceasefire-agreement-45e33b",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:15:55Z"
+ },
+ {
+  "id": "e86757a99ebbfa99",
+  "source_url": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+  "source": "The New York Times",
+  "source_title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+  "source_summary": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
+  "source_tags": [
+   "Actors and Actresses",
+   "Movies",
+   "Eisenberg, Jesse",
+   "Strong, Jeremy (1978- )",
+   "Zuckerberg, Mark E",
+   "The Social Network (Movie)",
+   "The Social Reckoning (Movie)",
+   "Meta Platforms Inc",
+   "Social Media"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/11/arts/11cul-zuckerberg-film/11cul-zuckerberg-film-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T09:01:17+00:00",
+  "headline": "Three Mark Zuckerbergs: Actor, Filmmaker, Executive Show Divergent Paths",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent New York Times feature examines three distinct portrayals of Meta founder Mark Zuckerberg: Jeremy Strong's performance in the stage production \"The Social Reckoning,\" Jesse Eisenberg's role in the film \"The Social Network,\" and the real-life Meta executive himself. The piece highlights how each representation reflects a different facet of the tech mogul's public image."
+   },
+   {
+    "type": "p",
+    "text": "While the theatrical and cinematic versions dramatize Zuckerberg's early years and controversies, the article notes that only the actual Meta executive has altered his approach in recent years. This shift is presented as a notable divergence from the static depictions offered by the actors."
+   },
+   {
+    "type": "p",
+    "text": "The analysis underscores the contrast between fictionalized narratives and the evolving strategies of the real Zuckerberg, suggesting that the executive's recent changes may reshape perceptions of his leadership and the company's direction."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding how Zuckerberg's real‑world strategy differs from his on‑screen portrayals helps readers gauge Meta's future direction."
+   }
+  ],
+  "key_points": [
+   "The article compares three portrayals of Mark Zuckerberg: a stage play, a film, and the real executive.",
+   "Only the actual Meta executive has changed his approach, unlike the static fictional versions.",
+   "The piece highlights the gap between dramatized depictions and the evolving reality of Zuckerberg's leadership."
+  ],
+  "meta_description": "New York Times piece contrasts three Mark Zuckerberg portrayals, noting only the real executive has changed his approach.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mark Zuckerberg",
+   "Meta",
+   "portrayals",
+   "tech leadership",
+   "media representations"
+  ],
+  "slug": "three-mark-zuckerbergs-actor-filmmaker-executive-show-divergent-paths-e86757",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:15:46Z"
+ },
+ {
+  "id": "b050989c7be457c8",
+  "source_url": "https://www.nytimes.com/2026/10/11/us/politics/in-the-senate-collins-often-defies-trump-but-rarely-stops-him.html",
+  "source": "The New York Times",
+  "source_title": "In the Senate, Collins Often Defies Trump but Rarely Stops Him",
+  "source_summary": "A New York Times analysis of Senator Susan Collins’s voting record shows that she frequently breaks with Republicans but more seldom changes an outcome.",
+  "source_tags": [
+   "Midterm Elections (2026)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/00dc-collins-01-mwpv/00dc-collins-01-mwpv-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T09:00:56+00:00",
+  "headline": "Senator Collins Often Opposes Trump Yet Rarely Alters Vote Outcomes",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new analysis by The New York Times examines Senator Susan Collins’s voting record in the Senate, highlighting a pattern of frequent dissent from the Republican line. While Collins regularly casts votes that diverge from President Donald Trump’s preferred positions, the study finds that these instances seldom shift the final result of legislation or nominations."
+   },
+   {
+    "type": "p",
+    "text": "The review shows that Collins’s occasional breaks with her party are more symbolic than decisive, as the margins in most votes remain wide enough that her opposition does not change the outcome. Consequently, her role appears to be that of a vocal critic within the GOP rather than a swing vote capable of overturning party‑backed measures."
+   },
+   {
+    "type": "p",
+    "text": "The findings underscore the limited power of individual dissent in a highly polarized Senate, where party majorities often dominate outcomes despite occasional intra‑party disagreement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding Collins’s impact helps gauge the extent of dissent within the GOP and its effect on legislative outcomes in the U.S. Senate."
+   }
+  ],
+  "key_points": [
+   "Senator Susan Collins frequently votes against the Trump‑aligned Republican agenda.",
+   "Her dissent rarely changes the final vote tally in the Senate.",
+   "The analysis suggests her influence is more symbolic than decisive."
+  ],
+  "meta_description": "Analysis shows Senator Susan Collins often opposes Trump but rarely changes Senate vote outcomes, highlighting limited sway of intra‑party dissent.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Senate",
+   "Susan Collins",
+   "Trump",
+   "Republican Party",
+   "voting record"
+  ],
+  "slug": "senator-collins-often-opposes-trump-yet-rarely-alters-vote-b05098",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:15:58Z"
+ },
+ {
+  "id": "2b4ed34190440f37",
+  "source_url": "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html",
+  "source": "The New York Times",
+  "source_title": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
+  "source_summary": "A Times investigation has found that violent threats have become a new normal among public officials, reshaped private lives, cost millions in security and pushed people out of office.",
+  "source_tags": [
+   "Elections",
+   "Midterm Elections (2026)",
+   "House of Representatives",
+   "Senate",
+   "Governors (US)",
+   "Elections, Governors",
+   "Elections, House of Representatives",
+   "Elections, Senate",
+   "Threats and Threatening Messages"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/07/us/POL-FEAR-PROMO-STILL/POL-FEAR-PROMO-STILL-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T09:00:39+00:00",
+  "headline": "Violent Threats to U.S. Officials Become New Normal, Study Finds",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new investigation by The New York Times reveals that violent threats against elected officials in the United States have become a routine part of political life. The report documents how these threats have altered the personal lives of lawmakers, forcing many to adopt heightened security measures and limit everyday activities."
+   },
+   {
+    "type": "p",
+    "text": "The study estimates that the surge in threats has driven millions of dollars in security expenses for public officials. In some cases, the pressure from persistent intimidation has led officials to resign or decline to seek re‑election, effectively removing experienced voices from government."
+   },
+   {
+    "type": "p",
+    "text": "Researchers say the pattern reflects a broader shift in the political climate, where intimidation is used as a tool to influence policy and public discourse. The investigation calls for a reassessment of protective protocols and a national conversation about safeguarding democratic participation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rise in threats undermines democratic stability and may prompt similar security concerns in European democracies."
+   }
+  ],
+  "key_points": [
+   "Violent threats against U.S. elected officials are now considered a regular occurrence.",
+   "Security costs have risen into the millions, and some officials have left office due to intimidation.",
+   "The trend signals a deeper erosion of safe political engagement in America."
+  ],
+  "meta_description": "NYT investigation finds violent threats to U.S. officials are now routine, driving up security costs and prompting some to leave office.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "political violence",
+   "elected officials",
+   "security costs",
+   "threats",
+   "democracy"
+  ],
+  "slug": "violent-threats-u-s-officials-become-new-normal-study-2b4ed3",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:16:14Z"
+ },
+ {
+  "id": "722aaa3c3b7c5fea",
+  "source_url": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
+  "source": "The New York Times",
+  "source_title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+  "source_summary": "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos.",
+  "source_tags": [
+   "Canada",
+   "Iqaluit (Nunavut)",
+   "Indigenous People",
+   "Nunavut (Canada)",
+   "Arctic Regions",
+   "Aboriginal People's Television Network",
+   "Inuit Indians",
+   "Writing and Writers",
+   "Books and Literature",
+   "Television"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-iqaluit-promo/00int-canada-iqaluit-ktbq-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T09:00:31+00:00",
+  "headline": "Inuit Artists in Canada’s Arctic Turn Identity Into Modern Art",
+  "body": [
+   {
+    "type": "p",
+    "text": "In Iqaluit, the sole city of Canada’s Arctic, a cohort of young Inuit writers, filmmakers and visual artists is channeling concerns about language, land and cultural identity into a diverse array of creative works. Their projects range from contemporary literature and documentary films to body art such as tattoos that reference traditional symbols."
+   },
+   {
+    "type": "p",
+    "text": "These creators are exploring how the preservation of Inuktitut and the connection to the northern landscape can be expressed through modern mediums, often blending ancestral narratives with current social issues. By doing so, they aim to reach both local audiences and broader national and international viewers, fostering a renewed appreciation for Inuit perspectives."
+   },
+   {
+    "type": "p",
+    "text": "The movement reflects a broader shift among Indigenous youth toward self‑representation, using art to assert agency over their stories and to challenge stereotypes. Their work is gaining attention across Canada and beyond, highlighting the vitality of Arctic cultures in the 21st century."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rise of Inuit voices in art adds to global conversations about Indigenous rights and cultural preservation, resonating with audiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "A new generation of Inuit artists in Iqaluit is using language, land and identity as central themes in books, films and tattoos.",
+   "Their work blends traditional Inuit symbols with contemporary artistic forms to reach wider audiences.",
+   "The creative surge underscores a growing emphasis on Indigenous self‑representation in the Arctic."
+  ],
+  "meta_description": "In Iqaluit, young Inuit creators turn language, land and identity into books, films and tattoos, reshaping Arctic art.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Inuit",
+   "Arctic art",
+   "Indigenous culture",
+   "Canada",
+   "Iqaluit",
+   "creative expression"
+  ],
+  "slug": "inuit-artists-canadas-arctic-turn-identity-into-modern-art-722aaa",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:16:07Z"
+ },
+ {
+  "id": "81aef11a278cfb4c",
+  "source_url": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
+  "source": "The New York Times",
+  "source_title": "San Francisco Is Still Pushing to Turn Offices Into Homes",
+  "source_summary": "The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns.",
+  "source_tags": [
+   "San Francisco (Calif)",
+   "Building (Construction)",
+   "Real Estate and Housing (Residential)",
+   "Real Estate (Commercial)",
+   "Urban Areas",
+   "California",
+   "Tax Credits, Deductions and Exemptions",
+   "Area Planning and Renewal",
+   "Buildings (Structures)",
+   "Property Taxes"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/04/multimedia/04BIZ-SQFT-SANFRANCISCO-1-fhwk/04BIZ-SQFT-SANFRANCISCO-1-fhwk-mediumSquareAt3X.jpg",
+  "published": "2026-10-11T09:00:15+00:00",
+  "headline": "San Francisco Still Has No Office-to-Housing Conversions",
+  "body": [
+   {
+    "type": "p",
+    "text": "San Francisco officials continue to promote the conversion of vacant office buildings into residential units, but the city has not completed a single such project to date. The initiative was launched to address the region’s chronic housing shortage and to bring activity back to underused downtown spaces."
+   },
+   {
+    "type": "p",
+    "text": "City leaders argue that turning office towers into apartments could help meet rising demand for affordable homes and revitalize empty streets. Despite the optimism, no office-to-housing conversion has moved beyond planning stages, leaving the promised boost to the housing market unrealized."
+   },
+   {
+    "type": "p",
+    "text": "The lack of progress highlights the challenges of repurposing commercial real estate in a market still grappling with high construction costs and regulatory hurdles. Stakeholders remain hopeful that future efforts will eventually translate policy into tangible housing units."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Housing shortages and underused commercial spaces are common issues in major U.S. and European cities, making San Francisco’s stalled effort a bellwether for similar urban policies."
+   }
+  ],
+  "key_points": [
+   "San Francisco has not finished any office-to-housing conversion despite ongoing policy pushes.",
+   "The city hopes the conversions will ease housing shortages and revive downtown activity.",
+   "Regulatory and cost obstacles have stalled the projects at the planning stage."
+  ],
+  "meta_description": "San Francisco's push to turn offices into homes has yet to yield a single completed conversion, underscoring challenges in addressing housing shortages.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "San Francisco",
+   "office conversion",
+   "housing shortage",
+   "urban policy",
+   "downtown revitalization"
+  ],
+  "slug": "san-francisco-still-has-no-office-housing-conversions-81aef1",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:16:11Z"
+ },
+ {
+  "id": "b8ff10d170f49954",
+  "source_url": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o",
+  "source": "BBC Sport",
+  "source_title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+  "source_summary": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9d/live/26fc84c0-c543-11f1-b4f1-2359026a88ee.jpg",
+  "published": "2026-10-11T08:19:52+00:00",
+  "headline": "Eliud Kipchoge, 41, Breaks Melbourne Marathon Course Record in Stunning Victory",
+  "body": [
+   {
+    "type": "p",
+    "text": "Double Olympic champion Eliud Kipchoge, now 41, won the Melbourne Marathon, setting a new course record. His performance marked a rare achievement for a marathoner of his age, underscoring his continued dominance in long‑distance running."
+   },
+   {
+    "type": "p",
+    "text": "Kipchoge said his \"body is still peaking\" after crossing the finish line, highlighting his belief that he can still improve despite being well beyond the typical peak age for elite marathoners. The exact time of the record was not disclosed in the source."
+   },
+   {
+    "type": "p",
+    "text": "The victory adds another milestone to Kipchoge’s storied career, which includes multiple Olympic gold medals and world‑record attempts. His success in Melbourne demonstrates that elite endurance athletes can maintain top form well into their forties."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Kipchoge’s record shows that elite athletes can sustain peak performance into their 40s, a trend of interest to sports fans and trainers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Eliud Kipchoge, 41, set a new course record at the Melbourne Marathon.",
+   "He described his condition as \"still peaking,\" emphasizing his longevity in the sport.",
+   "The win further cements Kipchoge’s status as one of the greatest marathoners of all time."
+  ],
+  "meta_description": "Eliud Kipchoge, 41, breaks the Melbourne Marathon course record, saying his body is still peaking.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Eliud Kipchoge",
+   "Melbourne Marathon",
+   "marathon record",
+   "age",
+   "athletics"
+  ],
+  "slug": "eliud-kipchoge-41-breaks-melbourne-marathon-course-record-stunning-b8ff10",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:15:51Z"
+ },
+ {
+  "id": "13577a9799d31a30",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo",
+  "source": "BBC Sport",
+  "source_title": "Toxicity and uncertainty await Man City - will their season even matter?",
+  "source_summary": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc0/live/8da112e0-c499-11f1-b094-cb5c335b015a.jpg",
+  "published": "2026-10-11T05:27:03+00:00",
+  "headline": "Manchester City Faces Uncertainty Ahead of Liverpool Clash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester City travel to Anfield on Sunday for a Premier League encounter with Liverpool, a match that arrives amid growing uncertainty for the defending champions. The team's recent form and the stakes of the fixture have prompted widespread speculation about the direction of their campaign."
+   },
+   {
+    "type": "p",
+    "text": "BBC Sport analyst Phil McNulty examines the challenges City may encounter, highlighting concerns over injuries, tactical adjustments and the pressure of maintaining momentum. The article suggests that the outcome of the Liverpool game could influence how the season is perceived, regardless of the final league standings."
+   },
+   {
+    "type": "p",
+    "text": "Supporters and pundits alike are watching closely, aware that a slip-up at Anfield could amplify doubts that have already begun to surface. The preview underscores the importance of the match in shaping narratives around City’s title ambitions and overall performance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The fixture involves two of the Premier League’s most successful clubs, and its outcome may affect European competition qualifications and the broader narrative of English football."
+   }
+  ],
+  "key_points": [
+   "Manchester City travel to Liverpool with season-long doubts looming.",
+   "Phil McNulty outlines potential injury and tactical issues for City.",
+   "The result could shape perceptions of City’s title campaign."
+  ],
+  "meta_description": "Manchester City heads to Liverpool amid uncertainty, with Phil McNulty previewing the challenges ahead.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester City",
+   "Liverpool",
+   "Premier League",
+   "Phil McNulty",
+   "season uncertainty"
+  ],
+  "slug": "manchester-city-faces-uncertainty-ahead-liverpool-clash-13577a",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:16:02Z"
+ },
+ {
   "id": "9cb8088d6020976d",
   "source_url": "https://www.dw.com/en/shooter-kills-8-people-and-himself-in-pennsylvania-police/a-79630735?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
@@ -880,6 +1514,59 @@
   "slug": "trump-considers-supporting-saudi-fight-against-houthis-after-airport-dcc482",
   "reading_minutes": 1,
   "added": "2026-10-11T02:08:56Z"
+ },
+ {
+  "id": "7d4debd1c1574d73",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqn73g3pvezdo",
+  "source": "BBC Sport",
+  "source_title": "'I kissed Rodrigo and said thanks' - De Zerbi 'liked' Spurs red card",
+  "source_summary": "Roberto de Zerbi praises Rodrigo Bentancur after he was sent off in a 1-1 draw against Manchester United.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/332c/live/05dcfc40-c4fb-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-10T20:58:39+00:00",
+  "headline": "De Zerbi Praises Bentancur After Red Card in Spurs‑Man United Draw",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tottenham manager Roberto de Zerbi lauded midfielder Rodrigo Bentancur despite the Argentine's dismissal in Saturday's 1-1 Premier League stalemate with Manchester United. De Zerbi recalled a light‑hearted moment after the match, saying he \"kissed Rodrigo and said thanks\" for the player's effort."
+   },
+   {
+    "type": "p",
+    "text": "Bentancur received a second‑yellow card in the second half, reducing Spurs to ten men and contributing to the draw. The manager emphasized that the midfielder's aggression and commitment were valuable, even though the sending‑off cost the team a chance to secure all three points."
+   },
+   {
+    "type": "p",
+    "text": "Tottenham remain in the hunt for a European‑competition place, and de Zerbi's public support aims to maintain squad morale as the club navigates a congested fixture schedule."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Tottenham's pursuit of a European qualification spot makes player discipline and morale crucial as the season reaches its final stages."
+   }
+  ],
+  "key_points": [
+   "Roberto de Zerbi publicly praised Rodrigo Bentancur after his red card in a 1-1 draw with Manchester United.",
+   "Bentancur was sent off for a second yellow, leaving Tottenham with ten men for the remainder of the match.",
+   "De Zerbi's comments aim to boost team spirit as Tottenham chase a European spot."
+  ],
+  "meta_description": "Tottenham boss Roberto de Zerbi praised Rodrigo Bentancur after his red card in a 1-1 draw with Manchester United, highlighting team morale.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tottenham Hotspur",
+   "Rodrigo Bentancur",
+   "Roberto de Zerbi",
+   "Premier League",
+   "Manchester United"
+  ],
+  "slug": "de-zerbi-praises-bentancur-after-red-card-spursman-united-7d4deb",
+  "reading_minutes": 1,
+  "added": "2026-10-11T09:16:18Z"
  },
  {
   "id": "45b03a1f1db7ddea",
