@@ -1,5 +1,667 @@
 [
  {
+  "id": "e288f767d754a4d2",
+  "source_url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+  "source": "TechCrunch",
+  "source_title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+  "source_summary": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+  "source_tags": [
+   "Hardware",
+   "TC",
+   "fitbit",
+   "Google",
+   "wearables"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-12T15:11:19+00:00",
+  "headline": "Google Launches Fitbit Edge Wearable at $179.99, Combining Air Look with Pixel",
+  "body": [
+   {
+    "type": "p",
+    "text": "Google unveiled its latest wearable, the Fitbit Edge, priced at $179.99. The device blends the slim, sleek aesthetic of the Fitbit Air with a more premium feel, aiming to bridge the gap between entry‑level fitness trackers and the higher‑end Pixel Watch."
+   },
+   {
+    "type": "p",
+    "text": "The Edge features an OLED display that offers vibrant colors and better visibility in various lighting conditions. While retaining the lightweight design that Fitbit users expect, the new model adds a richer visual experience without a significant price jump."
+   },
+   {
+    "type": "p",
+    "text": "Google positions the Edge as a middle‑ground option for consumers who want a stylish, functional tracker without the full smartwatch price tag. The launch expands Google's wearable lineup and provides an alternative for those seeking both form and function."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Edge adds a competitively priced option to the crowded wearable market, appealing to US and European consumers seeking a balance of style and technology."
+   }
+  ],
+  "key_points": [
+   "Fitbit Edge costs $179.99 and merges the Air’s slim design with a premium look.",
+   "It includes an OLED screen, delivering brighter visuals than previous Fitbit models."
+  ],
+  "meta_description": "Google's new Fitbit Edge wearable costs $179.99, offering an OLED display and a design that blends the Air's sleekness with Pixel Watch features.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Fitbit",
+   "Google",
+   "wearable",
+   "smartwatch",
+   "OLED",
+   "consumer tech"
+  ],
+  "slug": "google-launches-fitbit-edge-wearable-179-99-combining-air-e288f7",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:12:30Z"
+ },
+ {
+  "id": "36f95c29c20b59bb",
+  "source_url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo",
+  "source": "BBC News",
+  "source_title": "AI minister warns 'likely' UK's cyber defences will be breached",
+  "source_summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd68/live/6a2ab470-c646-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-12T15:03:42+00:00",
+  "headline": "UK AI Minister Warns Cyber Defences Likely to Be Breached, Plans AI Boost",
+  "body": [
+   {
+    "type": "p",
+    "text": "Britain's artificial intelligence minister, Kanishka Narayan, cautioned that the country's cyber defences are \"likely\" to be penetrated in the near future. The warning comes amid growing concerns over sophisticated cyber threats targeting critical infrastructure and government networks."
+   },
+   {
+    "type": "p",
+    "text": "In response, Narayan announced that the UK government will deploy advanced AI tools to reinforce its cyber security posture. The initiative aims to detect, deter and mitigate attacks more effectively by leveraging machine‑learning algorithms and automated threat‑analysis systems."
+   },
+   {
+    "type": "p",
+    "text": "The minister emphasized that the strategy will be integrated across public and private sectors, seeking to create a coordinated defence framework. No specific timelines or budget figures were disclosed in the statement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Strengthening UK cyber defences with AI could set a precedent for allied nations facing similar threats, impacting trans‑Atlantic security cooperation."
+   }
+  ],
+  "key_points": [
+   "UK AI minister Kanishka Narayan says the nation's cyber defences are likely to be breached.",
+   "The government will use advanced AI technologies to strengthen cyber security.",
+   "The plan involves collaboration between public and private sectors."
+  ],
+  "meta_description": "UK AI minister warns cyber defences are likely to be breached and outlines a plan to use advanced AI to bolster security.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "cyber security",
+   "UK government",
+   "Kanishka Narayan",
+   "cyber defence"
+  ],
+  "slug": "uk-ai-minister-warns-cyber-defences-likely-be-breached-36f95c",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:12:32Z"
+ },
+ {
+  "id": "a408760eeac61eb3",
+  "source_url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o",
+  "source": "BBC News",
+  "source_title": "Immigration agents search Congresswoman Ilhan Omar's home",
+  "source_summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/255fca30-c63f-11f1-abff-0d918239b2e3.jpg",
+  "published": "2026-10-12T15:02:41+00:00",
+  "headline": "Immigration Agents Search Home of Congresswoman Ilhan Omar",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal immigration officials conducted a search of the residence of Representative Ilhan Omar, a Democratic lawmaker from Minnesota, on Wednesday. The operation was carried out by agents from the Department of Homeland Security, though the specific reason for the search was not disclosed in the report."
+   },
+   {
+    "type": "p",
+    "text": "Omar, who first won election to the U.S. House of Congress in 2018, has been a vocal critic of former President Donald Trump and has frequently highlighted immigration policy concerns. The search adds to a series of legal and political challenges she has faced since taking office."
+   },
+   {
+    "type": "p",
+    "text": "The incident has sparked reactions from both parties, with some lawmakers calling for clarification of the agents' authority and others defending the action as a routine enforcement measure. No arrests were made, and no charges have been announced at this time."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The search highlights ongoing political tensions surrounding immigration enforcement and the scrutiny faced by high-profile members of Congress."
+   }
+  ],
+  "key_points": [
+   "Federal immigration agents searched Representative Ilhan Omar's home without public explanation.",
+   "Omar, elected in 2018, is known for her criticism of former President Donald Trump.",
+   "The search has prompted calls for transparency from both Democratic and Republican lawmakers."
+  ],
+  "meta_description": "Federal immigration agents searched Rep. Ilhan Omar's home, raising questions about enforcement and political scrutiny.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ilhan Omar",
+   "immigration enforcement",
+   "Congress",
+   "US politics",
+   "Donald Trump"
+  ],
+  "slug": "immigration-agents-search-home-congresswoman-ilhan-omar-a40876",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:12:36Z"
+ },
+ {
+  "id": "09066c34d66374b2",
+  "source_url": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
+  "source": "The New York Times",
+  "source_title": "Federal Agents Search Home of Rep. Ilhan Omar",
+  "source_summary": "The search takes place within the 60-day window of the midterm elections, when the Justice Department has historically avoided such investigative steps related to political candidates.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Immigration and Emigration",
+   "Homeland Security Department",
+   "Omar, Ilhan"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12dc-omar-pgqj/12dc-omar-pgqj-mediumSquareAt3X.jpg",
+  "published": "2026-10-12T15:02:20+00:00",
+  "headline": "Federal Agents Search Home of Rep. Ilhan Omar Ahead of Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal law enforcement officials conducted a search of Representative Ilhan Omar's residence on Wednesday, according to a statement from the Justice Department. The operation took place within the 60-day period that precedes the upcoming midterm elections, a timeframe in which the department has traditionally refrained from initiating investigative actions involving political candidates."
+   },
+   {
+    "type": "p",
+    "text": "The search was carried out under a warrant, though details about the specific allegations or evidence prompting the raid have not been disclosed. Omar, a Democrat from Minnesota, has not commented publicly on the investigation, and her office declined to provide further information."
+   },
+   {
+    "type": "p",
+    "text": "Historically, the Justice Department has exercised caution in pursuing investigations that could be perceived as influencing electoral outcomes. This recent action marks a departure from that practice, raising questions about the timing and potential political implications of the search."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The raid occurs at a sensitive time for U.S. elections, highlighting tensions between law enforcement actions and political campaigning."
+   }
+  ],
+  "key_points": [
+   "Federal agents executed a search warrant at Rep. Ilhan Omar's home during the pre‑midterm election window.",
+   "The Justice Department historically avoids investigative moves against candidates within 60 days of elections.",
+   "Details of the investigation remain undisclosed, and Omar has not responded publicly."
+  ],
+  "meta_description": "Federal agents searched Rep. Ilhan Omar's home within the 60‑day pre‑midterm window, a rare move by the Justice Department.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ilhan Omar",
+   "Justice Department",
+   "midterm elections",
+   "federal investigation",
+   "U.S. politics"
+  ],
+  "slug": "federal-agents-search-home-rep-ilhan-omar-ahead-midterms-09066c",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:12:40Z"
+ },
+ {
+  "id": "c3418a4fca682f3f",
+  "source_url": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+  "source": "The Verge",
+  "source_title": "Mechanism’s first Switch 2 case is as awesome as I hoped it would be",
+  "source_summary": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineup of mounts. You could already mount the Switch 2 in numerous […]",
+  "source_tags": [
+   "Gaming",
+   "Hands-on",
+   "Nintendo",
+   "Reviews",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-12T15:00:00+00:00",
+  "headline": "Mechanism Launches $49 Basecase Snap‑On Shell for Switch 2",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mechanism, a longtime maker of modular gaming accessories, has released its first case for Nintendo's Switch 2. The Basecase, priced at $49, snaps onto the handheld console and integrates with the company's existing line of mounts, allowing users to attach the device to a variety of surfaces and rigs."
+   },
+   {
+    "type": "p",
+    "text": "The shell arrives after several delays, and reviewers note that its design meets the expectations set by earlier accessories in the market. It provides a protective layer while preserving access to all ports and buttons, and its modular connections let owners expand their setup with additional mounts or stands from Mechanism's catalog."
+   },
+   {
+    "type": "p",
+    "text": "While many accessory firms have slowed new product rollouts for the Switch 2, Mechanism's timely entry adds a durable, affordable option for gamers seeking both protection and flexibility in how they play."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case gives North American and European Switch 2 owners a cost‑effective way to protect and customize their console for home or on‑the‑go gaming."
+   }
+  ],
+  "key_points": [
+   "Mechanism's Basecase is a $49 snap‑on shell that works with its modular mount system.",
+   "The case offers protection without blocking ports and supports a range of mounting options.",
+   "It arrives as one of the few new Switch 2 accessories released this year."
+  ],
+  "meta_description": "Mechanism's $49 Basecase snap‑on shell for Switch 2 adds protection and modular mounting options for gamers.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Switch 2",
+   "gaming accessories",
+   "Mechanism",
+   "console case",
+   "tech gear"
+  ],
+  "slug": "mechanism-launches-49-basecase-snapon-shell-switch-2-c3418a",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:13:04Z"
+ },
+ {
+  "id": "cf12391aacbc2b55",
+  "source_url": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
+  "source": "The Guardian",
+  "source_title": "Burnham claims EU summit could boost growth and help control illegal migration – UK politics live",
+  "source_summary": "The prime minister tells MPs the next summit with the EU will be held on 20 November Burnham to urge MPs to embrace closer ties with EU Zia Yusuf , Reform UK’s home affairs spokesperson, is speaking now. He started his speech with an account of a 73-year-old woman dying in North Wales after having to wait 23 hours for an ambulance, and he sought to link this to immigration. He said: The Royal College of Emergency Medicine estimates that 15,000 people across Britain died last year due to excess wait times for emergency treatment. That’s 300 people a week, 300 lives destroyed, 300 families devastated. And that number has increased tenfold over the last decade. This is a moral outrage, and it is a direct result of decisions made by Tory and Labour governments. I don’t think that’s because he wants to have a fight over the European Union. I think that’s because he knows what we’re talking about today impacts hard in what is known as the red wall.",
+  "source_tags": [
+   "Politics",
+   "UK news",
+   "Andy Burnham",
+   "Labour",
+   "Brexit",
+   "European Union",
+   "Nigel Farage",
+   "Reform UK",
+   "Immigration and asylum",
+   "Ed Davey"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/e00822eb0a9542d30bcbe36e1fd0f079bc6a36ba/454_0_4467_3575/master/4467.jpg?width=700&quality=85&auto=format&fit=max&s=b731226402cb6d9660269d6bd4e610af",
+  "published": "2026-10-12T14:58:40+00:00",
+  "headline": "Burnham Says EU Summit on Nov. 20 Could Spur Growth and curb Illegal Migration",
+  "body": [
+   {
+    "type": "p",
+    "text": "Prime Minister Burnham told MPs that the United Kingdom will hold its next summit with the European Union on 20 November, aiming to deepen economic ties and strengthen cooperation on illegal migration. He urged parliamentarians to support closer links with the bloc, arguing that such collaboration could boost growth and help manage migration flows."
+   },
+   {
+    "type": "p",
+    "text": "Reform UK home affairs spokesperson Zia Yusuf used the debate to highlight a separate crisis in health services, recounting the death of a 73‑year‑old woman in North Wales after a 23‑hour ambulance wait. Citing the Royal College of Emergency Medicine, he said 15,000 Britons died last year from delayed emergency treatment – about 300 each week – and that the figure has risen tenfold over the past decade, blaming decisions by both Tory and Labour governments."
+   },
+   {
+    "type": "p",
+    "text": "Burnham framed the upcoming EU talks as a chance to address these systemic issues, suggesting that coordinated policy could improve public services and reduce the pressures that fuel illegal migration, particularly in former “red‑wall” constituencies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The summit could reshape UK‑EU economic and migration cooperation, affecting trade, security and public‑service funding across Europe and for transatlantic partners."
+   }
+  ],
+  "key_points": [
+   "Burnham announced a UK‑EU summit for 20 November to pursue economic growth and tighter migration controls.",
+   "Reform UK’s Zia Yusuf linked rising emergency‑care deaths to government policy and immigration debates.",
+   "The summit is presented as an opportunity to tackle health‑system strain and migration pressures in key UK regions."
+  ],
+  "meta_description": "UK PM Burnham announces a 20 Nov EU summit to boost growth and curb illegal migration, amid health‑care crisis warnings from Reform UK.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "EU summit",
+   "immigration",
+   "health care",
+   "Burnham",
+   "Reform UK"
+  ],
+  "slug": "burnham-says-eu-summit-nov-20-could-spur-growth-cf1239",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:12:57Z"
+ },
+ {
+  "id": "618f7a81a5948f19",
+  "source_url": "https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html",
+  "source": "CNBC",
+  "source_title": "McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task",
+  "source_summary": "McDonald's is targeting growth in chicken and beverages, but Consumer Edge data shows Chick-fil-A and coffee chains gaining in customer spending.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-12T14:56:42+00:00",
+  "headline": "McDonald’s Pushes Chicken and Drink Sales Amid Rising Competition",
+  "body": [
+   {
+    "type": "p",
+    "text": "McDonald’s Corp. is intensifying its focus on expanding chicken menu items and beverage offerings as part of its growth strategy. The fast‑food giant believes that adding more chicken‑based meals and a broader drink lineup will attract a wider customer base and boost same‑store sales."
+   },
+   {
+    "type": "p",
+    "text": "However, recent Consumer Edge research shows that rivals such as Chick‑fil‑A and specialty coffee chains are capturing a larger share of consumer spending on chicken and drinks. The data suggests that while McDonald’s is investing in these categories, competitors are already gaining momentum with higher customer spend."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that McDonald’s will need to differentiate its products and possibly adjust pricing or promotions to keep pace with the shifting preferences highlighted by the Consumer Edge report."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move reflects broader competition in the fast‑food sector, where shifting consumer preferences for chicken and specialty drinks could reshape market share in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "McDonald’s is targeting growth by adding more chicken dishes and expanding its beverage menu.",
+   "Consumer Edge data indicates that Chick‑fil‑A and coffee chains are currently outpacing McDonald’s in customer spending on these categories."
+  ],
+  "meta_description": "McDonald’s aims to grow with new chicken and drink options, but data shows rivals like Chick‑fil‑A and coffee chains are gaining more customer spend.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "McDonald’s",
+   "chicken",
+   "beverages",
+   "fast food competition",
+   "consumer trends"
+  ],
+  "slug": "mcdonalds-pushes-chicken-drink-sales-amid-rising-competition-618f7a",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:12:48Z"
+ },
+ {
+  "id": "534b6588e21e85d3",
+  "source_url": "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html",
+  "source": "The New York Times",
+  "source_title": "How American Retirees at Different Incomes Rely on Social Security",
+  "source_summary": "Social Security funds are on track to run short by 2032, which would mean a reduction in benefits. Here’s how four hypothetical households rely on the program in retirement.",
+  "source_tags": [
+   "Personal Finances",
+   "Retirement",
+   "Social Security (US)",
+   "Social Security Administration",
+   "Pensions and Retirement Plans",
+   "Income",
+   "United States"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/06/business/00ss-income/00ss-income-mediumSquareAt3X.jpg",
+  "published": "2026-10-12T14:55:00+00:00",
+  "headline": "Social Security Shortfall Threatens Retirees Across Income Levels",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new analysis shows that the Social Security trust fund is projected to run out of cash by 2032, a scenario that could force a cut in benefits for retirees. The study outlines four hypothetical households, each representing a different income bracket, to illustrate how the program currently underpins retirement income for a broad spectrum of Americans."
+   },
+   {
+    "type": "p",
+    "text": "For low‑income retirees, Social Security makes up the majority of their monthly earnings, while middle‑income families rely on it to fill the gap between earnings and living costs. Even higher‑earning households, which supplement Social Security with personal savings and pensions, still count on the program for a significant portion of their retirement budget."
+   },
+   {
+    "type": "p",
+    "text": "If the fund’s depletion leads to reduced payouts, all four household types would face financial strain, prompting many to reassess savings strategies, delay retirement, or seek additional work. Policymakers are thus urged to consider reforms that could extend the fund’s solvency and protect retirees across the income spectrum."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The looming shortfall highlights fiscal challenges similar to those faced by European pension systems, underscoring the need for sustainable retirement policies."
+   }
+  ],
+  "key_points": [
+   "The Social Security trust fund is expected to be depleted by 2032, risking benefit cuts.",
+   "Retirees at every income level depend on Social Security for a substantial share of their income.",
+   "Potential reductions could force widespread adjustments to retirement plans and savings."
+  ],
+  "meta_description": "Social Security may run out of funds by 2032, threatening benefits for retirees across all income levels.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "social security",
+   "retirees",
+   "pension",
+   "fiscal policy",
+   "income inequality"
+  ],
+  "slug": "social-security-shortfall-threatens-retirees-across-income-levels-534b65",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:13:08Z"
+ },
+ {
+  "id": "d2db505dc7907ca4",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cw3dj8jr8xj2o",
+  "source": "BBC Sport",
+  "source_title": "Zverev secures year-end number one ranking",
+  "source_summary": "Alexander Zverev is guaranteed to finish his 2026 season as the world number one after Carlos Alcaraz suffers a surprise defeat in Shanghai.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8117/live/83df3a00-c63f-11f1-abff-0d918239b2e3.jpg",
+  "published": "2026-10-12T14:53:42+00:00",
+  "headline": "Zverev Clinches Year‑End World No. 1 Spot After Alcaraz Falls in Shanghai",
+  "body": [
+   {
+    "type": "p",
+    "text": "German star Alexander Zverev has secured the world number one ranking for the 2026 season. The confirmation came after his rival, Spain's Carlos Alcaraz, suffered an unexpected loss in the Shanghai tournament, eliminating any remaining challenge to Zverev's top spot."
+   },
+   {
+    "type": "p",
+    "text": "With the Shanghai result, Zverv's lead in the ATP rankings became mathematically insurmountable, guaranteeing he will finish the year at the summit of men's tennis. The outcome underscores a shift in the sport's hierarchy as Zverev consolidates his position ahead of the season’s final events."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ranking determines player seeding and prize distribution for upcoming tournaments, influencing the sport's competitive landscape in Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Alexander Zverev is guaranteed to end 2026 as the world number one in men's tennis.",
+   "Carlos Alcaraz's surprise defeat in Shanghai removed his chance to overtake Zverev."
+  ],
+  "meta_description": "Alexander Zverev secures the year‑end world No. 1 ranking after Carlos Alcaraz loses in Shanghai, ending the 2026 season atop men's tennis.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tennis",
+   "ATP rankings",
+   "Alexander Zverev",
+   "Carlos Alcaraz",
+   "Shanghai tournament"
+  ],
+  "slug": "zverev-clinches-yearend-world-no-1-spot-after-alcaraz-d2db50",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:12:44Z"
+ },
+ {
+  "id": "b455050704985bda",
+  "source_url": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Pope lung nodule: Could it be cancer?",
+  "source_summary": "The case of Pope Leo shows how small lung nodules are often found during routine health checks. Quick treatment is generally advised before nodules can grow to become larger life-threatening masses.",
+  "source_tags": [
+   "Science"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-12T14:41:00+00:00",
+  "headline": "Pope Leo’s Lung Nodule Highlights Need for Early Treatment",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent health check on Pope Leo revealed a small lung nodule, a finding that underscores how such growths are frequently discovered during routine examinations. The Vatican’s medical team identified the nodule before it developed into a larger, potentially life‑threatening mass."
+   },
+   {
+    "type": "p",
+    "text": "Medical experts advise prompt treatment of lung nodules to prevent progression. In Pope Leo’s case, early detection allowed doctors to consider immediate intervention, reflecting standard practice for managing these early‑stage abnormalities."
+   },
+   {
+    "type": "p",
+    "text": "The incident illustrates the broader medical consensus that routine screenings can catch asymptomatic conditions, enabling patients to receive timely care and avoid more serious health complications."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Pope’s case shows the importance of regular health screenings, a practice relevant to readers in the US and Europe for preventing serious illnesses."
+   }
+  ],
+  "key_points": [
+   "A routine check found a small lung nodule in Pope Leo.",
+   "Early detection allows for quick treatment before nodules grow.",
+   "Medical guidelines recommend prompt action on discovered lung nodules."
+  ],
+  "meta_description": "Pope Leo’s lung nodule discovery stresses the value of early detection and swift treatment of small lung growths.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pope Leo",
+   "lung nodule",
+   "early detection",
+   "health screening",
+   "Vatican health"
+  ],
+  "slug": "pope-leos-lung-nodule-highlights-need-early-treatment-b45505",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:12:52Z"
+ },
+ {
+  "id": "1997be6d24308df0",
+  "source_url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko",
+  "source": "BBC News",
+  "source_title": "South Africa's deputy police chief resigns after being charged with sexual offences",
+  "source_summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c8/live/68991b20-c64a-11f1-b47f-e3f9cf703bc3.jpg",
+  "published": "2026-10-12T14:40:15+00:00",
+  "headline": "South Africa Deputy Police Chief Resigns Amid Sexual Offence Charges",
+  "body": [
+   {
+    "type": "p",
+    "text": "South Africa's deputy police chief, Shadrack Sibiya, has stepped down after being formally charged with sexual offences. The charges relate to allegations that he groomed a 16-year‑old girl and raped an 18‑year‑old woman."
+   },
+   {
+    "type": "p",
+    "text": "Sibiya denied the accusations, asserting his innocence throughout the legal process. His resignation follows intense public scrutiny and calls for accountability within the national police service."
+   },
+   {
+    "type": "p",
+    "text": "The departure of a senior police official underscores ongoing concerns about misconduct and the integrity of law‑enforcement institutions in South Africa."
+   }
+  ],
+  "key_points": [
+   "Deputy police chief Shadrack Sibiya resigned after being charged with grooming and rape.",
+   "Sibiya denied the allegations, claiming he did not commit the offences.",
+   "The case highlights scrutiny of police leadership in South Africa."
+  ],
+  "meta_description": "South Africa's deputy police chief resigns after sexual offence charges; he denies grooming a 16‑year‑old and raping an 18‑year‑old.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "South Africa",
+   "police",
+   "sexual offences",
+   "resignation",
+   "law enforcement"
+  ],
+  "slug": "south-africa-deputy-police-chief-resigns-amid-sexual-offence-1997be",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:13:12Z"
+ },
+ {
+  "id": "0c343c1a58c11a76",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmq5nzn8ww98o",
+  "source": "BBC Sport",
+  "source_title": "Hincapie and Zubimendi injured in post-match training session",
+  "source_summary": "Arsenal manager Mikel Arteta says it is \"far from ideal\" that Piero Hincapie and Martin Zubimendi were injured in a post-match training session.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a42/live/d8cea790-c63e-11f1-abff-0d918239b2e3.jpg",
+  "published": "2026-10-12T14:22:24+00:00",
+  "headline": "Arsenal Coach Arteta Deplores Injuries to Hincapie and Zubimendi",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal midfielder Piero Hincapie and defender Martin Zubimendi sustained injuries during a post‑match training session, according to club statements released on Wednesday."
+   },
+   {
+    "type": "p",
+    "text": "Manager Mikel Arteta described the situation as \"far from ideal,\" emphasizing that the timing of the setbacks could disrupt the team's preparation for upcoming fixtures."
+   },
+   {
+    "type": "p",
+    "text": "Both players are expected to undergo medical assessments, with the club yet to confirm the severity of the injuries or the length of any potential absences."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The injuries could affect Arsenal's squad depth as the Premier League season intensifies, a concern for fans and analysts in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Piero Hincapie and Martin Zubimendi were injured in a post‑match training session.",
+   "Arsenal manager Mikel Arteta called the injuries \"far from ideal\" for the squad.",
+   "Medical evaluations are pending to determine recovery timelines."
+  ],
+  "meta_description": "Arsenal's Hincapie and Zubimendi injured in post‑match training; manager Arteta says the situation is far from ideal.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "injuries",
+   "training",
+   "Mikel Arteta",
+   "Premier League"
+  ],
+  "slug": "arsenal-coach-arteta-deplores-injuries-hincapie-zubimendi-0c343c",
+  "reading_minutes": 1,
+  "added": "2026-10-12T15:13:00Z"
+ },
+ {
   "id": "5b6e6fc966a66e18",
   "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o",
   "source": "BBC Sport",
