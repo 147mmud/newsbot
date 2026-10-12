@@ -1,5 +1,675 @@
 [
  {
+  "id": "424ec1ec95ee9151",
+  "source_url": "https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html",
+  "source": "The New York Times",
+  "source_title": "Judge Orders Trump Administration to Answer for Tree Removals at D.C. Golf Course",
+  "source_summary": "During a four-hour hearing, a federal judge demanded answers from the Trump administration about who authorized the removal of hundreds of trees at the East Potomac Golf Links.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Trees and Shrubs",
+   "Federal Courts (US)",
+   "Courts and the Judiciary",
+   "Golf",
+   "Suits and Litigation (Civil)",
+   "DC Preservation League",
+   "East Potomac Golf Links",
+   "Interior Department",
+   "Justice Department"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12dc-trees-fmlz/12dc-trees-fmlz-mediumSquareAt3X.jpg",
+  "published": "2026-10-12T22:29:42+00:00",
+  "headline": "Federal Judge Orders Trump Administration to Explain DC Golf Course Tree Removal",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a four‑hour hearing, a federal judge pressed the Trump administration for details about the removal of hundreds of trees at the East Potomac Golf Links in Washington, D.C. The judge’s order seeks to identify which officials authorized the action and why it was carried out."
+   },
+   {
+    "type": "p",
+    "text": "The hearing focused on the scope of the tree‑cutting operation, which critics say could affect the historic landscape of the waterfront golf course. The administration has been asked to provide documentation and testimony to clarify the decision‑making process behind the removals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores judicial oversight of federal actions that impact public lands and historic sites."
+   }
+  ],
+  "key_points": [
+   "A federal judge demanded answers from the Trump administration regarding tree removals at East Potomac Golf Links.",
+   "The inquiry seeks to uncover who authorized the removal of hundreds of trees and the rationale behind it."
+  ],
+  "meta_description": "Judge orders Trump administration to explain removal of hundreds of trees at D.C.'s East Potomac Golf Links.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "judiciary",
+   "environment",
+   "Washington D.C.",
+   "golf course",
+   "tree removal"
+  ],
+  "slug": "federal-judge-orders-trump-administration-explain-dc-golf-course-424ec1",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:34:51Z"
+ },
+ {
+  "id": "07228413cc260d8b",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o",
+  "source": "BBC News",
+  "source_title": "Breaking Bad actor RJ Mitte dies aged 34",
+  "source_summary": "Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d722/live/ce8c0310-c67d-11f1-841c-2105a54cdb08.jpg",
+  "published": "2026-10-12T22:24:11+00:00",
+  "headline": "Breaking Bad Star RJ Mitte Dies at 34, Known for Walter White Jr.",
+  "body": [
+   {
+    "type": "p",
+    "text": "Actor RJ Mitte, best known for playing Walter White Jr. in the acclaimed series \"Breaking Bad,\" died on Thursday at the age of 34. Mitte, who lived with cerebral palsy, was praised for bringing authenticity to the role of the teenage son of Walter White."
+   },
+   {
+    "type": "p",
+    "text": "His portrayal earned him recognition for increasing visibility of actors with disabilities on mainstream television. Mitte also appeared in other TV projects and advocated for disability rights, using his platform to challenge stereotypes."
+   },
+   {
+    "type": "p",
+    "text": "The entertainment community has expressed condolences, highlighting his contributions to both the series' success and broader discussions about inclusive casting."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Mitte's death underscores the impact of his pioneering work in representing people with disabilities on popular TV, a topic of ongoing relevance in US and European media discussions."
+   }
+  ],
+  "key_points": [
+   "RJ Mitte, the actor with cerebral palsy who played Walter White Jr., died at 34.",
+   "His role in \"Breaking Bad\" was noted for authentic representation of disability.",
+   "Mitte was also an advocate for disability rights in the entertainment industry."
+  ],
+  "meta_description": "Breaking Bad actor RJ Mitte, known for his role as Walter White Jr., dies at 34; he was celebrated for disability representation.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Breaking Bad",
+   "RJ Mitte",
+   "actor",
+   "cerebral palsy",
+   "disability representation",
+   "TV"
+  ],
+  "slug": "breaking-bad-star-rj-mitte-dies-34-known-walter-072284",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:34:55Z"
+ },
+ {
+  "id": "4227246c7fb08a85",
+  "source_url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
+  "source": "NPR",
+  "source_title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+  "source_summary": "Katie Zacharia worked for one of Trump's companies and raised her profile appearing on conservative-leaning talk shows. She also amplified right-wing conspiracy theories. Now she'll be the president's chief spokesperson.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1857x2928+0+0/resize/1857x2928!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F27%2F729a84cb46feb05ce8aedc910123%2Fgettyimages-2298850605.jpg",
+  "published": "2026-10-12T22:17:43+00:00",
+  "headline": "White House Names Katie Zacharia New Press Secretary, Trump Ally",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Joe Biden has appointed Katie Zacharia as the new White House press secretary. Zacharia previously worked for a company owned by former President Donald Trump and built a public profile through appearances on conservative-leaning talk shows."
+   },
+   {
+    "type": "p",
+    "text": "During her media career, Zacharia was known for amplifying right-wing conspiracy theories, aligning her commentary with the MAGA movement. Her appointment places a figure with strong ties to Trump’s political base in charge of the administration’s daily communications."
+   },
+   {
+    "type": "p",
+    "text": "The move signals a shift in the White House’s messaging strategy, as the president’s chief spokesperson will now bring a background rooted in partisan media and former Trump business circles to the role."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European audiences should note the significance of a Trump‑aligned figure leading the White House’s public messaging, which could affect diplomatic tone and media relations."
+   }
+  ],
+  "key_points": [
+   "Katie Zacharia, a former Trump company employee, becomes the White House press secretary.",
+   "She previously gained visibility on conservative talk shows and promoted right-wing conspiracy theories.",
+   "Her appointment marks a notable change in the administration’s communication approach."
+  ],
+  "meta_description": "Katie Zacharia, a former Trump company employee and right‑wing media figure, is named White House press secretary, signaling a shift in U.S.…",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "White House",
+   "Press Secretary",
+   "Trump",
+   "MAGA",
+   "Conservative Media"
+  ],
+  "slug": "white-house-names-katie-zacharia-new-press-secretary-trump-422724",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:35:11Z"
+ },
+ {
+  "id": "a12bf57ead5deebb",
+  "source_url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
+  "source": "NPR",
+  "source_title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
+  "source_summary": "Nearly $22 million in taxpayers funds has been spent to air the ads, with nearly half spent after Trump promised to fund what the White House calls public service announcements through his super PAC.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5097x3398+0+0/resize/5097x3398!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2F5c%2F3f346e034949b36cd4c8b40fa6ce%2Fgettyimages-2299455893.jpg",
+  "published": "2026-10-12T22:16:47+00:00",
+  "headline": "Government spends $10 million on pro‑Trump ads after Trump pledged super PAC funding",
+  "body": [
+   {
+    "type": "p",
+    "text": "The White House disclosed that roughly $10 million of taxpayer money was used to air pro‑Trump television ads after the president said his super PAC would cover the cost of what the administration calls public service announcements. The total amount spent on such ads since the start of the campaign period approaches $22 million."
+   },
+   {
+    "type": "p",
+    "text": "Nearly half of the spending occurred after Trump’s promise, according to officials who reviewed the advertising contracts. The ads were broadcast on major networks and targeted swing‑state audiences ahead of upcoming elections."
+   },
+   {
+    "type": "p",
+    "text": "Critics argue the use of public funds for partisan messaging blurs the line between government communication and campaign advertising, while supporters claim the ads serve a public‑interest purpose by informing voters."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The spending highlights concerns about how government resources may be used to influence elections, a topic of interest for voters in the US and abroad."
+   }
+  ],
+  "key_points": [
+   "About $10 million of federal money funded pro‑Trump ads after the president said his super PAC would pay for them.",
+   "Total taxpayer spending on the ads is close to $22 million.",
+   "The practice has sparked debate over the appropriateness of using public funds for partisan messaging."
+  ],
+  "meta_description": "The government spent $10 million on pro‑Trump ads after the president said his super PAC would fund them, raising questions about public‑fund use.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "super PAC",
+   "government spending",
+   "political ads",
+   "taxpayer funds"
+  ],
+  "slug": "government-spends-10-million-protrump-ads-after-trump-pledged-a12bf5",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:35:31Z"
+ },
+ {
+  "id": "4d8e31aa9c9cb0ea",
+  "source_url": "https://www.nytimes.com/2026/10/12/world/africa/egypt-sudan-goldmine-strike.html",
+  "source": "The New York Times",
+  "source_title": "Dozens Killed in Airstrikes Near Sudan-Egypt Border",
+  "source_summary": "The attacks occurred at a remote gold mine hundreds of miles from the front lines of Sudan’s devastating civil war. Videos showed what appeared to be Egyptian munitions.",
+  "source_tags": [
+   "Darfur (Sudan)",
+   "Egypt",
+   "Sudan",
+   "Deaths (Fatalities)",
+   "Video Recordings, Downloads and Streaming",
+   "Mines and Mining"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-12T21:49:58+00:00",
+  "headline": "Dozens Killed in Airstrikes Near Sudan-Egypt Border Gold Mine",
+  "body": [
+   {
+    "type": "p",
+    "text": "Airstrikes struck a remote gold mining site near the Sudan‑Egypt border, killing dozens of people, according to reports from the area. The mine is located hundreds of miles away from the main battle zones of Sudan’s ongoing civil war."
+   },
+   {
+    "type": "p",
+    "text": "Video footage released after the attacks shows munitions that appear to be of Egyptian origin, though no official statement has confirmed the source of the weapons or the perpetrators of the strike. Local witnesses described the explosions as sudden and devastating, with many workers caught off guard."
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the spread of violence beyond Sudan’s front lines and raises concerns about possible cross‑border involvement in the conflict. International observers have called for an investigation to determine responsibility and to prevent further escalation in the region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The strike underscores the risk of regional spillover from Sudan’s civil war, potentially drawing neighboring countries into the violence."
+   }
+  ],
+  "key_points": [
+   "Airstrikes near the Sudan‑Egypt border killed dozens at a remote gold mine.",
+   "Videos suggest the munitions used may be Egyptian, though no official claim has been made.",
+   "The attack occurs far from Sudan’s main war fronts, indicating a widening of the conflict."
+  ],
+  "meta_description": "Dozens killed in airstrikes at a remote gold mine near the Sudan‑Egypt border, with video suggesting Egyptian munitions.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Sudan",
+   "Egypt",
+   "airstrike",
+   "civil war",
+   "gold mine",
+   "regional security"
+  ],
+  "slug": "dozens-killed-airstrikes-near-sudan-egypt-border-gold-mine-4d8e31",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:35:15Z"
+ },
+ {
+  "id": "194dc1f5886d1cc8",
+  "source_url": "https://www.npr.org/2026/10/12/nx-s1-5998808/trump-announced-a-partial-russia-ukraine-ceasefire-did-either-country-know-about-it",
+  "source": "NPR",
+  "source_title": "Trump announced a partial Russia-Ukraine ceasefire. Did either country know about it?",
+  "source_summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5998808",
+  "published": "2026-10-12T21:43:48+00:00",
+  "headline": "Trump Announces Partial Russia-Ukraine Ceasefire Amid Ongoing Fighting",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump declared a partial ceasefire between Russia and Ukraine, describing it as an \"energy ceasefire\" aimed at limiting attacks on power infrastructure. The announcement came on Tuesday evening."
+   },
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelensky responded that Russian forces continue to strike Ukrainian targets, saying Moscow is disregarding the ceasefire Trump announced. He emphasized that hostilities have not paused."
+   },
+   {
+    "type": "p",
+    "text": "The discrepancy between the U.S. president's statement and Kyiv's assessment highlights ongoing tensions over the conflict's trajectory and the prospects for any negotiated pause."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ceasefire claim could affect diplomatic efforts and energy security concerns across the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "President Trump announced a partial \"energy ceasefire\" between Russia and Ukraine.",
+   "Ukraine's leader says Russia is still attacking and ignoring the ceasefire.",
+   "The differing accounts underscore uncertainty about any real pause in fighting."
+  ],
+  "meta_description": "Trump declares a partial Russia-Ukraine ceasefire, but Ukraine says Russia continues attacks, raising doubts about the pause.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Russia",
+   "Ukraine",
+   "Donald Trump",
+   "ceasefire",
+   "energy infrastructure",
+   "conflict"
+  ],
+  "slug": "trump-announces-partial-russia-ukraine-ceasefire-amid-ongoing-fighting-194dc1",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:35:35Z"
+ },
+ {
+  "id": "9391d4cd0093fb1d",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c65y71z4rjj2o",
+  "source": "BBC Sport",
+  "source_title": "Coventry thrash Newcastle for first top-flight home win in 25 years",
+  "source_summary": "Coventry City stun Newcastle United with an emphatic 4-1 victory as they win their first Premier League game at home in 25 years.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/615d/live/7ef559e0-c683-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-12T21:35:07+00:00",
+  "headline": "Coventry City Earn First Premier League Home Win in 25 Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "Coventry City delivered a stunning performance at the Coventry Building Society Arena, defeating Newcastle United 4-1. The victory marked the Sky Blues' first Premier League win on home soil in a quarter of a century."
+   },
+   {
+    "type": "p",
+    "text": "Newcastle, who entered the match as clear favorites, were unable to contain Coventry's attacking flair. The hosts scored four goals, while limiting the Magpies to a single reply, securing a comprehensive triumph."
+   },
+   {
+    "type": "p",
+    "text": "The result underscores Coventry's progress since their promotion back to the top flight, highlighting a significant milestone for a club that has long awaited a home win at this level."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The win signals Coventry City's resurgence in England's top division, offering a morale boost for the club and its supporters."
+   }
+  ],
+  "key_points": [
+   "Coventry City beat Newcastle United 4-1, their first Premier League home win in 25 years.",
+   "The victory came against a favored Newcastle side, emphasizing Coventry's strong performance."
+  ],
+  "meta_description": "Coventry City secured a 4-1 victory over Newcastle, achieving their first Premier League home win in 25 years.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Coventry City",
+   "Newcastle United",
+   "Premier League",
+   "upset",
+   "football"
+  ],
+  "slug": "coventry-city-earn-first-premier-league-home-win-25-9391d4",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:34:59Z"
+ },
+ {
+  "id": "c1d3345667cfcac0",
+  "source_url": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+  "source": "The Verge",
+  "source_title": "The Social Reckoning is flopping at the box office",
+  "source_summary": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it […]",
+  "source_tags": [
+   "Entertainment",
+   "Facebook",
+   "Film",
+   "Meta",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DF-04750_r.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-12T21:20:57+00:00",
+  "headline": "Aaron Sorkin's 'The Social Reckoning' Earns $5.5M, Falls Short of $30‑42M Budget",
+  "body": [
+   {
+    "type": "p",
+    "text": "The latest Aaron Sorkin drama, \"The Social Reckoning,\" has dramatically missed its financial targets, pulling in just $5.5 million over the weekend, according to Variety. The film, a sequel to the 2010 hit \"The Social Network,\" was produced on a budget estimated between $30 million and $42 million."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the modest opening suggests weak audience interest despite the movie’s topical relevance and Sorkin’s reputation for sharp dialogue. The underperformance may prompt studios to reassess the commercial viability of sequel biopics that tackle recent tech history."
+   },
+   {
+    "type": "p",
+    "text": "The shortfall also highlights the broader challenge of translating critical acclaim into box‑office success in a crowded release calendar, where streaming options and franchise fatigue are reshaping viewer habits."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The film’s financial flop signals potential caution for Hollywood studios investing in niche biographical dramas, affecting future production strategies in both the U.S. and European markets."
+   }
+  ],
+  "key_points": [
+   "\"The Social Reckoning\" opened with $5.5 million, far below its $30‑42 million production budget.",
+   "The film’s poor earnings raise questions about the market appetite for tech‑industry biopics.",
+   "Box‑office results could influence future greenlighting decisions for similar high‑profile projects."
+  ],
+  "meta_description": "Aaron Sorkin's 'The Social Reckoning' earns only $5.5M this weekend, far short of its $30‑42M budget, raising doubts about the market for tech biopics.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "film",
+   "box office",
+   "Aaron Sorkin",
+   "The Social Reckoning",
+   "Hollywood",
+   "budget"
+  ],
+  "slug": "aaron-sorkin-s-social-reckoning-earns-5-5m-falls-c1d334",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:35:03Z"
+ },
+ {
+  "id": "e4ea7b2f2a350dce",
+  "source_url": "https://www.bbc.co.uk/sport/basketball/articles/cje36qz977yqo",
+  "source": "BBC Sport",
+  "source_title": "Jordan 'Last Dance' jersey sells for record £10.6m",
+  "source_summary": "A Michael Jordan jersey from his 'Last Dance' season sells for $14m (£10.6m), a record for a piece of basketball memorabilia.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c843/live/c34dbf20-c67d-11f1-841c-2105a54cdb08.jpg",
+  "published": "2026-10-12T21:05:46+00:00",
+  "headline": "Jordan 'Last Dance' Jersey Fetches Record £10.6m at Auction",
+  "body": [
+   {
+    "type": "p",
+    "text": "A Michael Jordan jersey from his iconic 1997‑98 \"Last Dance\" season has been sold for $14 million, equivalent to £10.6 million, setting a new benchmark for basketball memorabilia."
+   },
+   {
+    "type": "p",
+    "text": "The jersey, which Jordan wore during the Chicago Bulls' final championship run, was auctioned by a leading sports memorabilia house and attracted bids from collectors worldwide."
+   },
+   {
+    "type": "p",
+    "text": "The sale surpasses previous records for basketball items and highlights the growing appetite for high‑profile sports artifacts among investors and fans."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The record price underscores the expanding market for premium sports memorabilia, a trend that influences collectors and investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Michael Jordan's \"Last Dance\" jersey sold for a record £10.6 million ($14 million).",
+   "The sale establishes a new high for basketball memorabilia at auction.",
+   "Interest in iconic sports collectibles continues to rise globally."
+  ],
+  "meta_description": "Michael Jordan's 'Last Dance' jersey sells for a record £10.6m, marking the highest price ever for basketball memorabilia.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Michael Jordan",
+   "basketball",
+   "memorabilia",
+   "auction",
+   "sports collectibles"
+  ],
+  "slug": "jordan-last-dance-jersey-fetches-record-10-6m-auction-e4ea7b",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:35:19Z"
+ },
+ {
+  "id": "0bcc978662dc841b",
+  "source_url": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html",
+  "source": "The New York Times",
+  "source_title": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
+  "source_summary": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee said.",
+  "source_tags": [
+   "Nobel Prizes",
+   "Economics (Theory and Philosophy)",
+   "Woodford, Michael D (Economist)",
+   "Hall, Robert E (Economist)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/12nobel-econ-fpmj/12nobel-econ-fpmj-mediumSquareAt3X.jpg",
+  "published": "2026-10-12T19:01:19+00:00",
+  "headline": "Robert E. Hall and Michael Woodford Win Nobel in Economics",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Nobel Committee announced that economists Robert E. Hall and Michael Woodford have been awarded the 2026 Nobel Prize in Economic Sciences. The award recognizes their research that has given policymakers better tools to respond to economic shocks."
+   },
+   {
+    "type": "p",
+    "text": "Hall’s work on the dynamics of fiscal policy and Woodford’s contributions to monetary theory have become central to modern macroeconomic analysis. Their insights are credited with improving the design of stabilization measures during periods of financial turbulence."
+   },
+   {
+    "type": "p",
+    "text": "The committee highlighted that the duo’s scholarship helps governments and central banks anticipate and mitigate the impact of sudden economic disturbances, enhancing overall economic resilience."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The award underscores research that directly informs fiscal and monetary policy, affecting how the U.S., Europe and other economies respond to crises."
+   }
+  ],
+  "key_points": [
+   "Robert E. Hall and Michael Woodford received the 2026 Nobel Prize in Economic Sciences.",
+   "Their research improves policymakers’ ability to handle economic shocks."
+  ],
+  "meta_description": "Robert E. Hall and Michael Woodford win the 2026 Nobel in Economics for research that helps policymakers manage economic shocks.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nobel",
+   "economics",
+   "Robert Hall",
+   "Michael Woodford",
+   "monetary policy",
+   "fiscal policy"
+  ],
+  "slug": "robert-e-hall-michael-woodford-win-nobel-economics-0bcc97",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:35:07Z"
+ },
+ {
+  "id": "de123f8a168dd747",
+  "source_url": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo",
+  "source": "BBC News",
+  "source_title": "Fridges in French supermarkets hit by cyber attack",
+  "source_summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfaf/live/a3ced500-c63a-11f1-b99d-0127a94fa1d0.jpg",
+  "published": "2026-10-12T18:31:32+00:00",
+  "headline": "French Supermarket Fridges Hacked, Spoiling Millions of Euros in Food",
+  "body": [
+   {
+    "type": "p",
+    "text": "An overnight cyber attack targeted the refrigeration systems of hundreds of French supermarkets, causing the spoilage of both fresh and frozen products. The breach affected the temperature controls of the stores' fridges, rendering the food unsafe for sale."
+   },
+   {
+    "type": "p",
+    "text": "Authorities estimate that the ruined inventory is worth millions of euros, though exact figures have not been released. The incident forced many outlets to discard large quantities of perishable goods and to temporarily close affected sections while repairs are carried out."
+   },
+   {
+    "type": "p",
+    "text": "The hack underscores growing vulnerabilities in retail supply chains, as cybercriminals increasingly focus on critical infrastructure. French officials have launched an investigation and are working with cybersecurity experts to identify the perpetrators and prevent future attacks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack demonstrates how cyber threats can disrupt food supply chains and potentially raise prices for consumers across Europe and beyond."
+   }
+  ],
+  "key_points": [
+   "A cyber attack disabled refrigeration in hundreds of French supermarkets, spoiling food worth millions of euros.",
+   "The incident highlights the rising risk of cyber threats to retail supply chains and food safety.",
+   "French authorities are investigating the breach and seeking to strengthen cyber defenses for critical retail systems."
+  ],
+  "meta_description": "Hundreds of French supermarkets suffered a cyber attack that ruined millions of euros worth of food by disabling fridge temperatures.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cyberattack",
+   "supermarkets",
+   "food supply",
+   "France",
+   "retail security"
+  ],
+  "slug": "french-supermarket-fridges-hacked-spoiling-millions-euros-food-de123f",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:35:28Z"
+ },
+ {
+  "id": "80d24e11891767c4",
+  "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+  "source": "TechCrunch",
+  "source_title": "Meta releases its first frontier model, Muse Wonder",
+  "source_summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+  "source_tags": [
+   "AI",
+   "ai models",
+   "frontier models",
+   "meta superintelligence lab",
+   "muse"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-12T17:56:56+00:00",
+  "headline": "Meta Unveils Muse Wonder, Its First Large‑Scale Frontier AI Model",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta announced the launch of Muse Wonder, the company's inaugural frontier AI model. Unlike the earlier Muse Spark, which was designed for lightweight, low‑latency applications, Wonder is a larger architecture aimed at delivering higher performance across a broader range of tasks."
+   },
+   {
+    "type": "p",
+    "text": "According to Meta, Muse Wonder achieves superior benchmark scores compared with Spark and shows marked improvements on complex workloads, including software coding. The company highlighted the model's ability to handle more demanding queries while maintaining accuracy."
+   },
+   {
+    "type": "p",
+    "text": "The release positions Meta to compete more directly with other major AI developers that offer large, versatile models for enterprise and developer use."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The introduction of a high‑performance AI model by Meta signals intensified competition in the global AI market, affecting tech firms and developers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Meta's Muse Wonder is a larger, more capable successor to the lightweight Muse Spark.",
+   "The new model records higher benchmark scores and better performance on complex tasks such as coding.",
+   "Muse Wonder expands Meta's AI portfolio into the frontier model space."
+  ],
+  "meta_description": "Meta launches Muse Wonder, a larger, more capable AI model that outperforms its Muse Spark on benchmarks and coding tasks.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "AI model",
+   "Muse Wonder",
+   "machine learning",
+   "technology"
+  ],
+  "slug": "meta-unveils-muse-wonder-its-first-largescale-frontier-ai-80d24e",
+  "reading_minutes": 1,
+  "added": "2026-10-12T22:35:23Z"
+ },
+ {
   "id": "e288f767d754a4d2",
   "source_url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
   "source": "TechCrunch",
