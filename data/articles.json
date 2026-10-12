@@ -1,5 +1,497 @@
 [
  {
+  "id": "5b6e6fc966a66e18",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c623d4pzy4n2o",
+  "source": "BBC Sport",
+  "source_title": "New rule, no change - has cricket missed a trick again with bad light?",
+  "source_summary": "More than 60 overs have been lost from the first Test between South Africa and Australia despite a change by the ICC. Has cricket missed a trick?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b24/live/670a89f0-c59c-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-12T05:19:46+00:00",
+  "headline": "Over 60 Overs Lost in SA‑Australia Test After New ICC Light Rule",
+  "body": [
+   {
+    "type": "p",
+    "text": "The opening Test between South Africa and Australia saw more than 60 overs abandoned because of bad light, even though the International Cricket Council recently altered the rule governing play under reduced illumination. The change was intended to minimise disruptions, but the first‑innings daylight shortage still forced officials to halt action multiple times."
+   },
+   {
+    "type": "p",
+    "text": "Umpires invoked the revised guideline after the natural light fell below the threshold required for safe batting. Despite the new provision allowing play to continue longer in marginal conditions, the match officials deemed the visibility insufficient, leading to a significant reduction in playing time."
+   },
+   {
+    "type": "p",
+    "text": "Cricket analysts are questioning whether the ICC’s amendment has achieved its goal, noting that the loss of overs not only affects the competitive balance of the game but also has financial implications for broadcasters and sponsors who rely on full‑length matches."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disruption highlights challenges in adapting cricket’s traditional schedule to modern broadcasting demands, affecting viewers and commercial partners in major markets."
+   }
+  ],
+  "key_points": [
+   "More than 60 overs were lost in the first Test between South Africa and Australia due to bad light.",
+   "The ICC's recent rule change on light conditions failed to prevent the extensive stoppage.",
+   "The incident has sparked debate about the effectiveness of the new regulation."
+  ],
+  "meta_description": "Over 60 overs were lost in the SA‑Australia Test despite a new ICC rule on bad light, prompting questions about its effectiveness.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cricket",
+   "ICC",
+   "bad light",
+   "South Africa",
+   "Australia",
+   "test match"
+  ],
+  "slug": "over-60-overs-lost-saaustralia-test-after-new-icc-5b6e6f",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:04Z"
+ },
+ {
+  "id": "11290e266e354ed9",
+  "source_url": "https://www.bbc.co.uk/sport/olympics/articles/cq0ldgz9x142o",
+  "source": "BBC Sport",
+  "source_title": "What happens to sports kit that never gets worn?",
+  "source_summary": "A look at kit wastage in elite sport and what is being done to reduce it.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/d5904670-c3c2-11f1-8fc5-335d62f6730b.jpg",
+  "published": "2026-10-12T05:18:31+00:00",
+  "headline": "Elite Sports Face Growing Kit Waste, New Recycling Efforts Emerging",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent BBC Sport analysis highlights the scale of unused sports kits in elite athletics, noting that many garments never see competition or training use. The surplus stems from frequent design changes, sponsorship deals and large production runs that exceed actual demand."
+   },
+   {
+    "type": "p",
+    "text": "Clubs and governing bodies are responding by introducing measures to curb the waste. Initiatives include donating unworn kits to charitable organisations, establishing recycling programmes for textiles, and redesigning supply chains to better match inventory with need."
+   },
+   {
+    "type": "p",
+    "text": "These steps aim to lower the environmental footprint of professional sport while also addressing public concern over resource use. Industry experts suggest that continued focus on sustainable practices could set a benchmark for broader consumer markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reducing kit waste helps lower the carbon footprint of high‑profile sports, a concern for environmentally conscious audiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Elite sport generates significant amounts of unworn kit, creating waste.",
+   "Clubs are donating, recycling, and adjusting supply chains to reduce surplus.",
+   "Sustainable kit management could influence wider apparel industry practices."
+  ],
+  "meta_description": "Elite sports grapple with unused kit waste; clubs adopt donation and recycling programs to cut environmental impact.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "kit waste",
+   "sustainability",
+   "elite sport",
+   "recycling",
+   "environment"
+  ],
+  "slug": "elite-sports-face-growing-kit-waste-new-recycling-efforts-11290e",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:20Z"
+ },
+ {
+  "id": "78abc95760a367e3",
+  "source_url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo",
+  "source": "BBC News",
+  "source_title": "Documents falsified to evade tax on Abramovich's wealth",
+  "source_summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d87/live/b7260ed0-c57b-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-12T05:00:52+00:00",
+  "headline": "BBC Finds Falsified Documents Hid Abramovich's Yachts and Mansions",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC investigators have uncovered that back‑dated paperwork was used to conceal the value of Russian oligarch Roman Abramovich's assets, allowing him to evade tax on his wealth. The falsified documents removed his yachts and mansions from official accounts, according to the report."
+   },
+   {
+    "type": "p",
+    "text": "The investigation revealed that the altered records were deliberately crafted to mislead tax authorities, effectively erasing high‑value properties from the financial statements used for tax assessments. The BBC said the scheme involved multiple layers of paperwork designed to appear legitimate while masking the true extent of Abramovich's holdings."
+   },
+   {
+    "type": "p",
+    "text": "Authorities are now examining the extent of the tax evasion and the mechanisms used to hide the assets. The findings highlight ongoing challenges in tracking offshore wealth and enforcing tax compliance among high‑net‑worth individuals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case illustrates how sophisticated document manipulation can undermine tax systems, a concern for regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "BBC reports that falsified, back‑dated documents were used to hide Abramovich's yachts and mansions from tax records.",
+   "The scheme aimed to evade taxes on the oligarch's wealth by removing high‑value assets from official accounts."
+  ],
+  "meta_description": "BBC uncovers falsified documents that hid Roman Abramovich's yachts and mansions to evade tax on his wealth.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tax evasion",
+   "Roman Abramovich",
+   "offshore assets",
+   "financial fraud",
+   "BBC investigation"
+  ],
+  "slug": "bbc-finds-falsified-documents-hid-abramovich-s-yachts-mansions-78abc9",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:07Z"
+ },
+ {
+  "id": "4e298f7c80db2a4e",
+  "source_url": "https://www.dw.com/en/how-iran-s-elite-forces-mold-the-minds-of-the-young-cadets/a-79609734?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "How Iran's elite forces 'mold the minds of the young cadets'",
+  "source_summary": "Months of correspondence with two high-ranking defectors have given DW's investigative unit a rare look at the mindset of the regime's loyal servants — and revealed a clandestine circle that allegedly plots murders.",
+  "source_tags": [
+   "TOP STORIES"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-12T05:00:00+00:00",
+  "headline": "Iran’s Elite Forces Use Cadet Training to Shape Loyalty, Defectors Say",
+  "body": [
+   {
+    "type": "p",
+    "text": "DW’s investigative team spent months exchanging messages with two senior Iranian military defectors, gaining unprecedented insight into the mindset of the regime’s most trusted officers. The correspondents described a systematic effort within elite units to indoctrinate young cadets, emphasizing absolute loyalty to the Supreme Leader and the state’s ideological goals."
+   },
+   {
+    "type": "p",
+    "text": "According to the defectors, a covert circle exists inside these forces that not only monitors dissent but also plans targeted killings of perceived opponents. This hidden network, they claim, operates beyond official channels and is tasked with eliminating threats to the regime’s stability."
+   },
+   {
+    "type": "p",
+    "text": "The revelations suggest that Iran’s military apparatus combines rigorous ideological training with clandestine violent operations, reinforcing the regime’s grip on power while suppressing internal criticism."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding these internal mechanisms helps Western governments assess Iran’s security posture and the risks of covert violence spilling beyond its borders."
+   }
+  ],
+  "key_points": [
+   "Defectors say Iran’s elite forces indoctrinate cadets to ensure unwavering loyalty.",
+   "A secretive group within the military allegedly coordinates murders of regime opponents."
+  ],
+  "meta_description": "Defectors reveal Iran’s elite forces indoctrinate cadets and run a secret circle planning murders, deepening concerns for regional security.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "military",
+   "defectors",
+   "regime",
+   "human rights"
+  ],
+  "slug": "irans-elite-forces-use-cadet-training-shape-loyalty-defectors-4e298f",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:23Z"
+ },
+ {
+  "id": "24914f67a36b672f",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko",
+  "source": "BBC News",
+  "source_title": "PM says it is 'clear' Russia interfered with Brexit vote",
+  "source_summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37c/live/b4b0e8c0-c57e-11f1-80f2-5bd1e5df7ada.jpg",
+  "published": "2026-10-12T04:15:03+00:00",
+  "headline": "UK Prime Minister Says Russia Clearly Interfered in Brexit Vote",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Prime Minister Rishi Sunak told Parliament that it is \"clear\" Russia attempted to influence the 2016 Brexit referendum, describing the interference as a direct assault on UK democracy."
+   },
+   {
+    "type": "p",
+    "text": "Sunak added that voters were not \"sufficiently\" informed about the methods foreign actors used to disrupt the referendum, implying a lack of transparency around the campaign’s funding and messaging."
+   },
+   {
+    "type": "p",
+    "text": "The prime minister’s remarks come as part of a broader investigation into foreign meddling in elections, highlighting concerns that external powers may still be seeking to shape political outcomes in the United Kingdom."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding foreign interference in elections is crucial for allies in the US and Europe as they confront similar threats to democratic integrity."
+   }
+  ],
+  "key_points": [
+   "The UK prime minister stated that Russia clearly interfered in the Brexit referendum.",
+   "He warned that voters lacked adequate information about foreign actors' disruptive tactics.",
+   "The comments underscore ongoing scrutiny of foreign influence on democratic processes."
+  ],
+  "meta_description": "UK Prime Minister says Russia clearly interfered in the Brexit vote and voters were not adequately informed.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brexit",
+   "Russia",
+   "interference",
+   "UK politics",
+   "foreign influence"
+  ],
+  "slug": "uk-prime-minister-says-russia-clearly-interfered-brexit-vote-24914f",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:12Z"
+ },
+ {
+  "id": "ed6c544be0e92837",
+  "source_url": "https://www.dw.com/en/us-judge-orders-halt-to-taxpayer-funded-promo-ads-of-trump/a-79636117?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "US judge orders halt to taxpayer-funded promo ads of Trump",
+  "source_summary": "Last week, President Donald Trump said he considered the ads to be a \"positive promotion for our great USA.\" However, the New York district judge ruled that the commercials were an illegal misuse of funds.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-12T03:59:00+00:00",
+  "headline": "New York Judge Blocks Taxpayer-Funded Trump Promotional Ads",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge in New York has issued an order stopping the use of public money for television commercials that promote former President Donald Trump. The judge ruled that the ads constitute an illegal misuse of taxpayer funds, citing violations of federal law."
+   },
+   {
+    "type": "p",
+    "text": "President Trump had recently described the advertisements as a \"positive promotion for our great USA,\" but the court found no legal basis for using government resources to market a private political figure. The injunction halts any further airing of the commercials until the case is resolved."
+   },
+   {
+    "type": "p",
+    "text": "The decision underscores the judiciary's role in enforcing campaign finance rules and preventing government resources from being employed for partisan purposes. Legal experts say the ruling could set a precedent for how similar promotional efforts are scrutinized in the future."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case illustrates how U.S. courts enforce limits on government spending for political promotion, a principle relevant to democratic accountability worldwide."
+   }
+  ],
+  "key_points": [
+   "A New York federal judge ordered an immediate stop to taxpayer-funded ads promoting Donald Trump.",
+   "The court deemed the commercials an illegal use of public funds under federal law.",
+   "The ruling highlights enforcement of campaign finance regulations."
+  ],
+  "meta_description": "A New York judge blocks taxpayer-funded ads promoting Donald Trump, calling them illegal misuse of public funds.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "campaign finance",
+   "court ruling",
+   "taxpayer funds",
+   "political advertising"
+  ],
+  "slug": "new-york-judge-blocks-taxpayer-funded-trump-promotional-ads-ed6c54",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:31Z"
+ },
+ {
+  "id": "c4e640b4ccfd77c4",
+  "source_url": "https://www.dw.com/en/north-korea-fires-missiles-after-seoul-s-hypersonic-test/a-79636110?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "North Korea fires missiles after Seoul's hypersonic test",
+  "source_summary": "North Korea has conducted its fourth missile launch in October. South Korea's military called this launch a \"show of force\" in response to South Korea's successful test launch of a hypersonic missile.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-12T03:24:00+00:00",
+  "headline": "North Korea Launches Missiles in Show of Force After Seoul's Hypersonic Test",
+  "body": [
+   {
+    "type": "p",
+    "text": "North Korea carried out its fourth missile launch of October, firing a series of rockets in what its neighbor described as a \"show of force.\" The launch came shortly after South Korea successfully tested a hypersonic missile, marking a notable escalation in the regional arms dynamic."
+   },
+   {
+    "type": "p",
+    "text": "South Korean military officials said the North Korean salvo was a direct response to the hypersonic test, underscoring the heightened tension on the Korean Peninsula. No details on the type or range of the missiles were released in the statement."
+   },
+   {
+    "type": "p",
+    "text": "The incident adds to a pattern of reciprocal military demonstrations between the two countries, each seeking to signal capability and resolve amid ongoing security concerns."
+   }
+  ],
+  "key_points": [
+   "North Korea conducted its fourth missile launch in October, labeling it a \"show of force.\"",
+   "The launch followed South Korea's successful test of a hypersonic missile.",
+   "South Korean officials view the missile firing as a direct response to the hypersonic test."
+  ],
+  "meta_description": "North Korea's fourth October missile launch was framed as a show of force after South Korea's hypersonic test, raising regional tensions.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "North Korea",
+   "missiles",
+   "South Korea",
+   "hypersonic",
+   "military",
+   "Asia"
+  ],
+  "slug": "north-korea-launches-missiles-show-force-after-seoul-s-c4e640",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:36Z"
+ },
+ {
+  "id": "d87dedb9076492e1",
+  "source_url": "https://www.nytimes.com/2026/10/11/us/politics/judge-bars-trump-taxpayer-ads.html",
+  "source": "The New York Times",
+  "source_title": "Federal Judge Bars Trump Administration From Airing Publicly Funded Ads",
+  "source_summary": "A group of liberal organizations sued last week over the ads that praised the administration.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Political Advertising",
+   "Democracy Forward (Nonprofit)",
+   "Customs and Border Protection (US)",
+   "Homeland Security Department",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11met-trump-ads-kctg/11met-trump-ads-kctg-mediumSquareAt3X.jpg",
+  "published": "2026-10-12T03:14:37+00:00",
+  "headline": "Federal Judge Blocks Trump Administration From Using Taxpayer Ads",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge issued an order preventing the Trump administration from broadcasting advertisements that were funded with public money and praised the administration's policies. The injunction came after a coalition of liberal organizations filed a lawsuit challenging the ads."
+   },
+   {
+    "type": "p",
+    "text": "The plaintiffs argued that the government’s use of taxpayer dollars to promote its own agenda violated legal standards. The court’s decision halts the airing of the contested ads while the case proceeds."
+   },
+   {
+    "type": "p",
+    "text": "The ruling underscores the judiciary’s role in overseeing how public funds are employed for political communication, and it may influence future government advertising practices."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision highlights limits on government use of public funds for political messaging, a concern for both U.S. and European audiences monitoring democratic norms."
+   }
+  ],
+  "key_points": [
+   "A federal judge barred the Trump administration from airing publicly funded ads that praised its actions.",
+   "Liberal groups sued, claiming the ads misused taxpayer money for political promotion.",
+   "The injunction stops the ads pending further legal review."
+  ],
+  "meta_description": "Judge blocks Trump administration's taxpayer-funded ads praising its policies after liberal groups sue.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump administration",
+   "court ruling",
+   "public funding",
+   "political advertising",
+   "liberal groups"
+  ],
+  "slug": "federal-judge-blocks-trump-administration-from-using-taxpayer-ads-d87ded",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:27Z"
+ },
+ {
+  "id": "7138971830c72977",
+  "source_url": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
+  "source": "The New York Times",
+  "source_title": "Why My Conversations with OpenAI’s ‘ChatGPT for Teens’ Made Me Very Worried",
+  "source_summary": "A new mode includes a study tool, but it still does a user’s homework. And a children’s safety nonprofit says the chatbot flunked its tests.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "ChatGPT",
+   "Teenagers and Adolescence",
+   "Children and Childhood",
+   "Suicides and Suicide Attempts",
+   "Education (K-12)",
+   "Mental Health and Disorders",
+   "OpenAI Labs",
+   "Common Sense Media"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/10/business/06biz-techfix/06biz-techfix-mediumSquareAt3X.jpg",
+  "published": "2026-10-12T03:00:20+00:00",
+  "headline": "OpenAI’s ChatGPT for Teens Raises Safety Concerns Over Homework Help",
+  "body": [
+   {
+    "type": "p",
+    "text": "OpenAI has introduced a new \"ChatGPT for Teens\" mode that includes a study‑tool feature intended to assist young users with learning. However, early testing shows the chatbot still completes users' homework assignments rather than merely guiding them."
+   },
+   {
+    "type": "p",
+    "text": "A children’s safety nonprofit evaluated the teen‑focused version and reported that it failed the organization’s safety tests, citing inadequate safeguards against academic dishonesty and potential exposure to inappropriate content."
+   },
+   {
+    "type": "p",
+    "text": "The findings highlight a tension between OpenAI’s goal of providing educational support and the need for robust protections that prevent misuse by teenage users."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The issues raise concerns for parents, educators, and regulators in the US and Europe about how AI tools are deployed for minors."
+   }
+  ],
+  "key_points": [
+   "OpenAI’s new teen mode includes a study tool but still does users' homework.",
+   "A children’s safety nonprofit says the chatbot did not pass its safety tests."
+  ],
+  "meta_description": "OpenAI's ChatGPT for Teens includes a study tool but still does homework, failing safety tests by a child‑focused nonprofit.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "teens",
+   "AI safety",
+   "education",
+   "nonprofit"
+  ],
+  "slug": "openais-chatgpt-teens-raises-safety-concerns-over-homework-help-713897",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:15Z"
+ },
+ {
   "id": "8dc5dc8942eb6205",
   "source_url": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o",
   "source": "BBC News",
@@ -211,6 +703,59 @@
   "slug": "microsoft-president-calls-global-ai-rules-cites-uk-lead-8424fb",
   "reading_minutes": 1,
   "added": "2026-10-11T23:55:23Z"
+ },
+ {
+  "id": "b4d649deb9713cb7",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo",
+  "source": "BBC News",
+  "source_title": "Iran war threatens Healey's Budget plans, think tank warns",
+  "source_summary": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48bb/live/aeeccb70-c3e4-11f1-badc-154546719036.jpg",
+  "published": "2026-10-11T23:04:07+00:00",
+  "headline": "Iran War Poses Major Risk to UK Budget Plans, Think Tank Warns",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Institute for Fiscal Studies has warned that the ongoing war in Iran could seriously undermine the United Kingdom's fiscal outlook. The think tank says the conflict adds a layer of uncertainty that may force the government to rethink its spending priorities outlined in Chancellor Jeremy Healey's upcoming budget."
+   },
+   {
+    "type": "p",
+    "text": "According to the IFS, the war could affect trade flows, energy prices and global financial stability, all of which feed into the Treasury's revenue forecasts. A slowdown in these areas would make it harder for the government to meet its planned public‑service investments without raising taxes or cutting other programmes."
+   },
+   {
+    "type": "p",
+    "text": "The warning comes as the UK prepares to unveil its budget amid broader concerns about inflation and public debt. Policymakers may need to factor in contingency measures to buffer the economy against any spill‑over effects from the Middle‑East conflict."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "European and US investors watch UK fiscal policy closely; heightened risk from the Iran war could affect markets and trade ties across the region."
+   }
+  ],
+  "key_points": [
+   "The Institute for Fiscal Studies says the Iran war adds significant risk to the UK’s fiscal plans.",
+   "Potential impacts include disrupted trade, higher energy costs and weaker financial markets.",
+   "The Treasury may need to adjust spending or revenue measures in response."
+  ],
+  "meta_description": "The Institute for Fiscal Studies warns that the Iran war threatens the UK's budget plans, potentially forcing spending cuts or tax changes.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran war",
+   "UK budget",
+   "Institute for Fiscal Studies",
+   "Jeremy Healey",
+   "economic risk"
+  ],
+  "slug": "iran-war-poses-major-risk-uk-budget-plans-think-b4d649",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:39Z"
  },
  {
   "id": "5611b93eb4354827",
@@ -597,6 +1142,64 @@
   "slug": "aaron-sorkins-social-reckoning-falters-opening-act-46e54f",
   "reading_minutes": 1,
   "added": "2026-10-11T23:55:59Z"
+ },
+ {
+  "id": "d02e64454e8e963b",
+  "source_url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+  "source": "The Verge",
+  "source_title": "A college in Illinois tried to cancel its Flock contact and it refused",
+  "source_summary": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and Border Patrol, that camera feeds were not properly secured, and that both law enforcement and […]",
+  "source_tags": [
+   "Policy",
+   "Politics",
+   "Privacy",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-11T20:06:43+00:00",
+  "headline": "Elgin Community College Battles Flock Over Data‑Sharing Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elgin Community College in Illinois installed six Flock safety cameras in April 2025, citing a need to improve campus security. By September, administrators grew uneasy after learning the system might be transmitting video footage to U.S. Customs and Border Patrol and that the feeds were not adequately protected."
+   },
+   {
+    "type": "p",
+    "text": "College officials attempted to terminate the contract with Flock, but the vendor refused to cancel the service. The dispute highlights tensions between educational institutions seeking privacy safeguards and technology providers whose data‑handling practices are under scrutiny."
+   },
+   {
+    "type": "p",
+    "text": "The standoff underscores broader worries among schools about surveillance technology that could expose student data to law‑enforcement agencies without clear oversight."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case illustrates growing concerns in the U.S. and Europe over surveillance tools on campuses and the potential for student data to be accessed by government agencies."
+   }
+  ],
+  "key_points": [
+   "Elgin Community College installed six Flock cameras in April 2025 for campus safety.",
+   "Administrators later feared the cameras shared footage with Customs and Border Patrol and lacked proper security.",
+   "The college’s effort to end the contract was blocked when Flock refused to cancel the service."
+  ],
+  "meta_description": "Elgin Community College's attempt to cancel Flock cameras over data‑sharing worries was rebuffed, raising privacy concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "surveillance",
+   "campus security",
+   "data privacy",
+   "Flock",
+   "customs and border patrol"
+  ],
+  "slug": "elgin-community-college-battles-flock-over-datasharing-concerns-d02e64",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:47Z"
  },
  {
   "id": "9bbbe81509cc08dd",
@@ -1227,6 +1830,60 @@
   "slug": "investors-urged-attend-techcrunch-disrupt-2026-oct-13-e958c2",
   "reading_minutes": 1,
   "added": "2026-10-11T20:11:37Z"
+ },
+ {
+  "id": "09ef6a361776cc11",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro",
+  "source": "BBC Sport",
+  "source_title": "Sensational Smith, relentless quicks - Australia veterans serve reminder",
+  "source_summary": "The fearsome pace quartet and Steve Smith's brilliance serves as a reminder of Australia's quality as the tourists take charge against South Africa.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3baf/live/fbd0a300-c586-11f1-80f2-5bd1e5df7ada.jpg",
+  "published": "2026-10-11T17:52:45+00:00",
+  "headline": "Australia Veterans Shine as Smith and Pace Quartet Dominate South Africa",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australia’s seasoned players delivered a commanding performance against South Africa, with the fast‑bowling quartet and captain Steve Smith leading the charge. Their display highlighted the depth of experience within the touring side."
+   },
+   {
+    "type": "p",
+    "text": "Smith’s batting brilliance combined with the relentless pressure from the pace attack, reminding observers of Australia’s enduring quality on foreign soil. The veterans’ contributions underscored the team’s ability to dictate the flow of the match."
+   },
+   {
+    "type": "p",
+    "text": "The South African side struggled to contain the Australian onslaught, allowing the visitors to seize control of the contest. The performance served as a clear statement of intent from the tourists as the series progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The match showcases Australia’s cricketing strength, a sport followed by large audiences in the US, UK, Canada, Germany and Switzerland, and influences upcoming international fixtures."
+   }
+  ],
+  "key_points": [
+   "Steve Smith’s batting and the fast‑bowling quartet anchored Australia’s dominance over South Africa.",
+   "The veteran lineup demonstrated the depth and experience of the Australian side on tour.",
+   "South Africa was unable to counter the sustained pressure from Australia’s pace attack."
+  ],
+  "meta_description": "Australia’s veterans, led by Steve Smith and a fearsome pace quartet, dominate South Africa, highlighting the team's quality on tour.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cricket",
+   "Australia",
+   "South Africa",
+   "Steve Smith",
+   "pace quartet",
+   "test series"
+  ],
+  "slug": "australia-veterans-shine-smith-pace-quartet-dominate-south-africa-09ef6a",
+  "reading_minutes": 1,
+  "added": "2026-10-12T05:46:44Z"
  },
  {
   "id": "93e6e09facaccf39",
