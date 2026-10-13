@@ -1,5 +1,686 @@
 [
  {
+  "id": "3e50c67087875e42",
+  "source_url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+  "source": "TechCrunch",
+  "source_title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+  "source_summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+  "source_tags": [
+   "AI",
+   "Robotics",
+   "Startup Battlefield 200"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-13T23:00:00+00:00",
+  "headline": "Industrial Next Enables Factory Robots to Switch Tasks in Minutes",
+  "body": [
+   {
+    "type": "p",
+    "text": "Industrial Next is offering a new approach to factory automation that lets robots change from one complex, delicate operation to another within minutes rather than weeks. The company’s platform is designed for manufacturers that still rely on human labor for intricate tasks, aiming to reduce downtime and retooling effort."
+   },
+   {
+    "type": "p",
+    "text": "By focusing on rapid reconfiguration, Industrial Next seeks to make robotic cells more adaptable to shifting production demands. The technology targets tasks that have traditionally been too nuanced for standard automation, promising a smoother transition between product lines without extensive programming or hardware changes."
+   },
+   {
+    "type": "p",
+    "text": "The solution positions manufacturers to respond faster to market changes while maintaining high precision in delicate processes. Industrial Next’s model could lower the barrier for companies to adopt advanced robotics across a broader range of operations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Greater flexibility in automation helps manufacturers in the US and Europe stay competitive by quickly adapting to changing product demands."
+   }
+  ],
+  "key_points": [
+   "Industrial Next enables robots to switch tasks in minutes, not weeks.",
+   "The platform targets complex, delicate manufacturing tasks that usually need human workers.",
+   "Rapid reconfiguration aims to cut downtime and increase production flexibility."
+  ],
+  "meta_description": "Industrial Next lets factory robots change tasks in minutes, boosting flexibility for complex manufacturing processes.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "industrial automation",
+   "robotics",
+   "manufacturing",
+   "flexible production",
+   "AI"
+  ],
+  "slug": "industrial-next-enables-factory-robots-switch-tasks-minutes-3e50c6",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:14Z"
+ },
+ {
+  "id": "c3260478132e6434",
+  "source_url": "https://www.dw.com/en/cornell-suspends-frat-parties-after-gang-rape-case/a-79655735?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Cornell suspends frat parties after gang rape case",
+  "source_summary": "Cornell said no parties will be held at frat houses until the end of the academic year. The university is trying to mend its reputation following its handling of a gang rape case in 2024.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-13T22:58:00+00:00",
+  "headline": "Cornell Bars Fraternity Parties Through End of Academic Year",
+  "body": [
+   {
+    "type": "p",
+    "text": "Cornell University announced that no social events will be permitted in fraternity houses for the remainder of the academic year. The decision follows criticism of the school's response to a 2024 gang‑rape case involving students."
+   },
+   {
+    "type": "p",
+    "text": "University officials said the suspension is intended to protect campus safety and to begin repairing the institution's reputation after the handling of the assault case drew national attention. The ban will stay in place until the end of the current term, after which the university will review whether to lift the restriction."
+   },
+   {
+    "type": "p",
+    "text": "Student groups have expressed mixed reactions, with some welcoming the precautionary measure and others urging broader reforms to address sexual violence on campus."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move highlights growing pressure on U.S. universities to tighten campus safety policies after high‑profile sexual assault cases."
+   }
+  ],
+  "key_points": [
+   "Cornell will not allow parties in fraternity houses until the academic year ends.",
+   "The ban follows backlash over the university's handling of a 2024 gang‑rape case.",
+   "Officials say the measure aims to improve safety and restore the school's reputation."
+  ],
+  "meta_description": "Cornell suspends fraternity parties through the academic year amid criticism of its handling of a 2024 gang‑rape case.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Cornell",
+   "fraternities",
+   "campus safety",
+   "sexual assault",
+   "university policy"
+  ],
+  "slug": "cornell-bars-fraternity-parties-through-end-academic-year-c32604",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:18Z"
+ },
+ {
+  "id": "9b2218756696f2a5",
+  "source_url": "https://www.nytimes.com/2026/10/13/business/bank-of-america-money-laundering-fine.html",
+  "source": "The New York Times",
+  "source_title": "Bank of America Pays $1.8 Billion Fine for Lax Money-Laundering Oversight",
+  "source_summary": "Federal regulators said the bank had waved through suspicious transactions without proper care.",
+  "source_tags": [
+   "Bank of America Corporation",
+   "Treasury Department",
+   "Office of the Comptroller of the Currency",
+   "Banking and Financial Institutions",
+   "Fines (Penalties)",
+   "Money Laundering"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-bank-america-fine-vcfm/13biz-bank-america-fine-vcfm-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T22:57:46+00:00",
+  "headline": "Bank of America Fined $1.8 Billion for Lax Money‑Laundering Oversight",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal regulators announced that Bank of America will pay a $1.8 billion civil penalty after investigators found the bank repeatedly allowed suspicious transactions to pass without adequate scrutiny. The enforcement action cites systemic failures in the bank’s anti‑money‑laundering controls."
+   },
+   {
+    "type": "p",
+    "text": "According to the regulators, the bank’s compliance program was “grossly deficient,” allowing high‑risk transfers to be processed without proper documentation or escalation. The fine represents one of the largest penalties ever imposed for AML violations in the United States."
+   },
+   {
+    "type": "p",
+    "text": "Bank of America said it will cooperate fully with authorities and has begun a comprehensive review of its monitoring systems. The settlement also requires the bank to implement enhanced oversight measures and submit regular reports to regulators."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The penalty underscores heightened regulatory scrutiny of U.S. banks and signals stricter enforcement that could affect transatlantic financial compliance standards."
+   }
+  ],
+  "key_points": [
+   "Bank of America will pay $1.8 billion for inadequate anti‑money‑laundering oversight.",
+   "Regulators say the bank’s compliance program failed to flag suspicious transactions.",
+   "The settlement mandates stricter monitoring and ongoing reporting to authorities."
+  ],
+  "meta_description": "Bank of America faces a $1.8 billion fine for lax money‑laundering oversight, the largest AML penalty in recent U.S. history.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bank of America",
+   "money laundering",
+   "regulatory fine",
+   "compliance",
+   "financial crime",
+   "US banking"
+  ],
+  "slug": "bank-america-fined-1-8-billion-lax-moneylaundering-oversight-9b2218",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:22Z"
+ },
+ {
+  "id": "a5d1fefdbee88b67",
+  "source_url": "https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html",
+  "source": "The New York Times",
+  "source_title": "The Steep Rise and Spectacular Fall of Kimberly Guilfoyle",
+  "source_summary": "President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "Appointments and Executive Changes",
+   "Diplomatic Service, Embassies and Consulates",
+   "Fox News Channel",
+   "Republican Party",
+   "Guilfoyle, Kimberly",
+   "Newsom, Gavin",
+   "Trump, Donald J",
+   "Trump, Donald J Jr"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-guilfoyle-fall-wlzv/13dc-guilfoyle-fall-wlzv-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T22:52:37+00:00",
+  "headline": "Trump Drops Former Insider Kimberly Guilfoyle After Greece Probe",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump has severed ties with former White House aide and ex‑ambassador to Greece, Kimberly Guilfoyle, following a series of damaging news reports about her diplomatic tenure. The reports, which highlighted controversies during her short stint in Athens, prompted the president to end her role within his inner circle."
+   },
+   {
+    "type": "p",
+    "text": "Guilfoyle, once a prominent figure in Trump’s political network, announced she will now focus on defending her reputation against the allegations. She said she intends to challenge the narratives that have emerged and restore her standing in the public eye."
+   },
+   {
+    "type": "p",
+    "text": "The decision underscores the volatile nature of loyalty within the Trump administration, where allies can quickly fall out of favor amid negative press. Observers note that the episode reflects broader challenges faced by political appointees when scrutiny of their performance turns harsh."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The fallout illustrates how political reputations can shift rapidly in the U.S., affecting diplomatic credibility and party dynamics, a pattern also watched by European observers."
+   }
+  ],
+  "key_points": [
+   "President Trump cut ties with former ambassador Kimberly Guilfoyle after adverse reports on her Greece tenure.",
+   "Guilfoyle vows to fight the allegations and restore her reputation.",
+   "The episode highlights the precarious position of political insiders in the Trump era."
+  ],
+  "meta_description": "Trump ends ties with ex‑ambassador Kimberly Guilfoyle after negative reports on her Greece service; she vows to defend her reputation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Kimberly Guilfoyle",
+   "Greece",
+   "ambassador",
+   "political insider"
+  ],
+  "slug": "trump-drops-former-insider-kimberly-guilfoyle-after-greece-probe-a5d1fe",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:26Z"
+ },
+ {
+  "id": "c9d6760aa5aaa3ff",
+  "source_url": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+  "source": "The New York Times",
+  "source_title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+  "source_summary": "OpenAI said that the employee had placed a device built to evade detection and that he had planned to secretly record meetings in other sensitive spaces.",
+  "source_tags": [
+   "OpenAI Labs",
+   "Altman, Samuel H",
+   "Federal Bureau of Investigation",
+   "Artificial Intelligence",
+   "Science and Technology"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T22:45:09+00:00",
+  "headline": "FBI Arrests OpenAI Staffer Over Secret Bug Intended for Meetings",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal agents detained an OpenAI employee on Tuesday after accusing him of installing a covert recording device in the company's office. According to the FBI, the device was engineered to avoid detection and could capture audio from private discussions."
+   },
+   {
+    "type": "p",
+    "text": "Investigators say the employee intended to use the hidden equipment to record meetings in other sensitive locations, though details of those planned targets were not disclosed. OpenAI confirmed the allegation, stating the staff member had placed the undetectable bug and that the company is cooperating with authorities."
+   },
+   {
+    "type": "p",
+    "text": "The arrest underscores heightened scrutiny of internal security practices at leading artificial‑intelligence firms. OpenAI said it will review its safeguards to prevent future breaches and protect confidential information."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights growing concerns about espionage and data security within the AI sector, a priority for both U.S. and European regulators."
+   }
+  ],
+  "key_points": [
+   "The FBI arrested an OpenAI employee for allegedly installing an undetectable audio bug in the office.",
+   "OpenAI confirmed the claim and is working with authorities to address the security lapse."
+  ],
+  "meta_description": "FBI arrests OpenAI employee for planting an undetectable bug to record meetings, raising AI industry security concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "FBI",
+   "espionage",
+   "workplace security",
+   "AI industry"
+  ],
+  "slug": "fbi-arrests-openai-staffer-over-secret-bug-intended-meetings-c9d676",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:34Z"
+ },
+ {
+  "id": "84c7a153927e739f",
+  "source_url": "https://www.nytimes.com/2026/10/13/us/politics/elon-musk-republicans-spending.html",
+  "source": "The New York Times",
+  "source_title": "How Elon Musk’s Money Is Shaping Republicans’ Midterms Strategy",
+  "source_summary": "A quarter-billion dollars to help Republicans hold Congress.",
+  "source_tags": [
+   "Politics and Government",
+   "Elections",
+   "Midterm Elections (2026)",
+   "Political Action Committees",
+   "Campaign Finance",
+   "Elections, Senate",
+   "America PAC",
+   "Government Efficiency Department (US)",
+   "Republican Party",
+   "Senate"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13pol-onpolitics-newsletter-01-pvtl/13pol-onpolitics-newsletter-01-pvtl-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T22:43:22+00:00",
+  "headline": "Elon Musk Donates $250 Million to Boost Republican Midterm Efforts",
+  "body": [
+   {
+    "type": "p",
+    "text": "According to a New York Times report, Elon Musk is contributing a quarter‑billion dollars to Republican groups ahead of the 2026 midterm elections. The funds are intended to help the party retain control of Congress, signaling a direct financial push from the tech billionaire into the political arena."
+   },
+   {
+    "type": "p",
+    "text": "Musk’s sizable donation is being funneled through various political action committees and super‑PACs that support Republican candidates. The money is expected to finance advertising, voter outreach, and other campaign activities aimed at securing key swing districts."
+   },
+   {
+    "type": "p",
+    "text": "The influx of private wealth underscores the growing role of billionaire donors in shaping electoral strategies. While the exact impact on election outcomes remains uncertain, the contribution marks one of the largest single‑source cash infusions to a party’s midterm campaign in recent history."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The scale of Musk’s contribution illustrates how private wealth can sway electoral dynamics, a trend of interest to both U.S. voters and European observers of democratic processes."
+   }
+  ],
+  "key_points": [
+   "Elon Musk is providing $250 million to Republican groups for the 2026 midterms.",
+   "The money will fund advertising and voter outreach to help the party keep Congress.",
+   "Musk’s donation highlights the influence of billionaire financing on U.S. elections."
+  ],
+  "meta_description": "Elon Musk is donating $250 million to Republican groups to aid their 2026 midterm campaign, highlighting billionaire influence on U.S. politics.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "Republican Party",
+   "campaign finance",
+   "midterms",
+   "US politics",
+   "donations"
+  ],
+  "slug": "elon-musk-donates-250-million-boost-republican-midterm-efforts-84c7a1",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:46Z"
+ },
+ {
+  "id": "8ffa5222f5cfbfa3",
+  "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+  "source": "TechCrunch",
+  "source_title": "Cerebras CEO pushes back on AI doomsday warnings",
+  "source_summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+  "source_tags": [
+   "AI",
+   "TechCrunch Disrupt",
+   "Cerebras",
+   "andrew feldman"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-13T22:36:59+00:00",
+  "headline": "Cerebras CEO Warns AI Doom Talk Drowns Out Benefits at Industry",
+  "body": [
+   {
+    "type": "p",
+    "text": "At TechCrunch Disrupt, Cerebras Systems chief executive Andrew Feldman urged fellow AI leaders to curb the flood of doomsday warnings surrounding artificial intelligence. He said the constant focus on risk is eclipsing the technology’s positive potential and practical applications."
+   },
+   {
+    "type": "p",
+    "text": "Feldman argued that the industry’s preoccupation with worst‑case scenarios is distracting investors, policymakers, and the public from the tangible gains AI can deliver in fields such as scientific research, healthcare, and enterprise productivity. He called for a more balanced conversation that highlights both challenges and opportunities."
+   },
+   {
+    "type": "p",
+    "text": "The CEO’s comments come as regulators in the United States and Europe intensify scrutiny of AI systems, while companies continue to race to commercialize increasingly powerful models. Feldman’s plea underscores a tension between cautionary narratives and the drive to innovate."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "US and European policymakers are weighing AI safety against economic competitiveness, making Feldman's call for balanced discourse relevant to both regions."
+   }
+  ],
+  "key_points": [
+   "Cerebras CEO Andrew Feldman said AI risk warnings are drowning out the technology’s benefits.",
+   "He called for a more balanced public dialogue that highlights AI’s practical advantages.",
+   "The remarks were made at TechCrunch Disrupt amid growing regulatory attention on AI."
+  ],
+  "meta_description": "Cerebras CEO Andrew Feldman urges AI leaders to tone down doom talk and focus on the technology's benefits, speaking at TechCrunch Disrupt.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "Cerebras",
+   "Andrew Feldman",
+   "AI risk",
+   "technology industry",
+   "TechCrunch Disrupt"
+  ],
+  "slug": "cerebras-ceo-warns-ai-doom-talk-drowns-out-benefits-8ffa52",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:55Z"
+ },
+ {
+  "id": "5cc2c6760be75c6e",
+  "source_url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o",
+  "source": "BBC News",
+  "source_title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+  "source_summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eff9/live/16b445b0-c720-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-13T22:29:55+00:00",
+  "headline": "Missiles Intercepted Near Riyadh After Saudi Coalition Strikes Yemen Fuel Depot",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Saudi-led coalition, which is fighting in Yemen, hit a fuel depot near the Houthi‑controlled capital of Sanaa on Thursday. The strike prompted a rapid response from Saudi air defenses."
+   },
+   {
+    "type": "p",
+    "text": "Shortly after the attack, Saudi forces intercepted several missiles that were heading toward Riyadh, the kingdom’s capital. Military officials said the missiles were neutralised before they could cause damage."
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores the heightened tension between the Saudi coalition and Houthi forces, who have repeatedly targeted Saudi infrastructure in retaliation for the coalition’s air campaign in Yemen."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The escalation raises concerns about regional stability and the potential for attacks to affect international oil markets and security interests of the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Saudi coalition bombed a fuel depot near Sanaa, prompting missile launches toward Riyadh.",
+   "Saudi air defenses intercepted the missiles before they reached the capital.",
+   "The exchange highlights ongoing hostilities between the coalition and Houthi rebels in Yemen."
+  ],
+  "meta_description": "Saudi air defenses intercepted missiles aimed at Riyadh after the coalition struck a fuel depot near Houthi‑controlled Sanaa.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "Yemen conflict",
+   "missile interception",
+   "Riyadh",
+   "Houthi rebels",
+   "regional security"
+  ],
+  "slug": "missiles-intercepted-near-riyadh-after-saudi-coalition-strikes-yemen-5cc2c6",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:38Z"
+ },
+ {
+  "id": "6945a88941d584ea",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro",
+  "source": "BBC Sport",
+  "source_title": "Swans' Eom the target of alleged racism at Millwall",
+  "source_summary": "Swansea City head coach Vitor Matos says the lengthy stoppage during their 1-0 win away at Millwall was a result of racist abuse aimed at winger Ji-sung Eom.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/2bdbfd10-c74e-11f1-b4d5-87f9c6c95a29.jpg",
+  "published": "2026-10-13T22:23:48+00:00",
+  "headline": "Swansea Coach Blames Millwall Delay on Racist Abuse of Ji‑sung Eom",
+  "body": [
+   {
+    "type": "p",
+    "text": "Swansea City head coach Vitor Matos said the extended stoppage that occurred during his team's 1-0 victory at Millwall was caused by racist abuse directed at winger Ji‑sung Eom. The incident unfolded in the second half of the match, prompting a pause while officials addressed the situation."
+   },
+   {
+    "type": "p",
+    "text": "Matos described the abuse as “unacceptable” and insisted that the delay was necessary to ensure the safety of the player and to allow officials to investigate. He added that the club will pursue appropriate action in response to the allegations."
+   },
+   {
+    "type": "p",
+    "text": "The match, played at Millwall's stadium, ended with Swansea securing three points, but the focus shifted to the reported incident. No further details about the nature of the abuse or any disciplinary measures have been released at this stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights ongoing concerns about racism in European football, an issue that resonates with fans and governing bodies across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Swansea coach Vitor Matos linked a lengthy stoppage to alleged racist abuse of winger Ji‑sung Eom.",
+   "The incident occurred during Swansea's 1-0 win at Millwall and prompted a pause in play.",
+   "Matos said the club will seek appropriate action following the allegations."
+  ],
+  "meta_description": "Swansea coach says a stoppage in their 1-0 win at Millwall was caused by racist abuse of winger Ji‑sung Eom.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Swansea City",
+   "Millwall",
+   "racism in sport",
+   "football",
+   "Ji‑sung Eom",
+   "Vitor Matos"
+  ],
+  "slug": "swansea-coach-blames-millwall-delay-racist-abuse-jisung-eom-6945a8",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:30Z"
+ },
+ {
+  "id": "46f30fd2afcef0a4",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do",
+  "source": "BBC Sport",
+  "source_title": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+  "source_summary": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/6f952e60-c743-11f1-b4d5-87f9c6c95a29.jpg",
+  "published": "2026-10-13T22:15:44+00:00",
+  "headline": "Georgia Stanway Proves Unstoppable Scorer for England Lionesses",
+  "body": [
+   {
+    "type": "p",
+    "text": "Georgia Stanway has continued to demonstrate her knack for finding the net, regardless of the opponent or match outcome. The England forward's consistent goal‑scoring record has earned her a reputation as a relentless attacking force for the Lionesses."
+   },
+   {
+    "type": "p",
+    "text": "Her ability to convert chances into goals has made her a pivotal player for the national team, reinforcing England's offensive options and keeping the squad's scoring threat alive in every competition."
+   }
+  ],
+  "key_points": [
+   "Georgia Stanway consistently scores for England's women's national team.",
+   "Her goal‑scoring prowess makes her a key attacking asset for the Lionesses."
+  ],
+  "meta_description": "Georgia Stanway remains a constant goal threat for England's Lionesses, underscoring her importance to the national team.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Georgia Stanway",
+   "England women's football",
+   "Lionesses",
+   "goal scoring",
+   "soccer"
+  ],
+  "slug": "georgia-stanway-proves-unstoppable-scorer-england-lionesses-46f30f",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:50Z"
+ },
+ {
+  "id": "5ed5e0759cc7f350",
+  "source_url": "https://www.nytimes.com/2026/10/13/business/fed-governor-lisa-cook-trump-investigation.html",
+  "source": "The New York Times",
+  "source_title": "Lawyer for Fed Governor Cook Denounces Trump’s New Investigation",
+  "source_summary": "A lawyer for Lisa Cook raised “significant concerns” over the “objectivity and fitness of the committee” assembled by President Trump as a way to remove her as a governor at the Federal Reserve.",
+  "source_tags": [
+   "Cook, Lisa D",
+   "Trump, Donald J",
+   "Ethics and Official Misconduct",
+   "Banking and Financial Institutions",
+   "Mortgages"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-cook-jkph/13dc-cook-jkph-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T21:55:45+00:00",
+  "headline": "Lawyer for Fed Governor Lisa Cook Criticizes Trump Probe",
+  "body": [
+   {
+    "type": "p",
+    "text": "Attorney Michael S. Berman, representing Federal Reserve Governor Lisa Cook, said his client has \"significant concerns\" about the committee formed by President Donald Trump to investigate her. Berman questioned both the objectivity and the fitness of the panel, suggesting it was designed to pressure Cook into stepping down."
+   },
+   {
+    "type": "p",
+    "text": "The lawyer’s statement came after the White House announced the investigation, which aims to examine alleged misconduct by Cook. Berman emphasized that the process lacks transparency and appears politically motivated, noting that no concrete evidence has been presented to justify the inquiry."
+   },
+   {
+    "type": "p",
+    "text": "Cook, who was appointed by President Joe Biden, has not been given an opportunity to respond publicly. The controversy adds to ongoing debates over the independence of the Federal Reserve and the extent of presidential influence over its governors."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights tensions between the executive branch and the Federal Reserve, a key institution for monetary policy in the United States and globally."
+   }
+  ],
+  "key_points": [
+   "Lisa Cook’s lawyer says the Trump‑appointed committee lacks objectivity and fitness.",
+   "The investigation is viewed as a politically driven effort to remove a Fed governor.",
+   "The dispute raises questions about the Federal Reserve’s independence."
+  ],
+  "meta_description": "Fed Governor Lisa Cook's lawyer alleges President Trump's probe is politically motivated and lacks objectivity.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Federal Reserve",
+   "Lisa Cook",
+   "Trump",
+   "investigation",
+   "US politics",
+   "monetary policy"
+  ],
+  "slug": "lawyer-fed-governor-lisa-cook-criticizes-trump-probe-5ed5e0",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:42Z"
+ },
+ {
+  "id": "b31569649bf0410b",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo",
+  "source": "BBC News",
+  "source_title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+  "source_summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/194/cpsprodpb/59c9/live/4ad4e9c0-c74e-11f1-a64c-550be9e3c66b.png",
+  "published": "2026-10-13T21:42:49+00:00",
+  "headline": "Saudi Man Charged Over Sophisticated Recording Device Hidden in OpenAI Office TV",
+  "body": [
+   {
+    "type": "p",
+    "text": "Prosecutors in Saudi Arabia have filed charges against a man accused of planting a covert recording device inside the OpenAI office in Riyadh. The device, described as \"sophisticated,\" was discovered wrapped in toilet paper and lodged in a USB port on the back of a television in an executive conference room."
+   },
+   {
+    "type": "p",
+    "text": "According to the indictment, the suspect inserted the equipment without detection, raising concerns about corporate espionage and the security of high‑profile technology firms operating abroad. Authorities say the device was capable of capturing audio and video from meetings held in the room."
+   },
+   {
+    "type": "p",
+    "text": "OpenAI has not commented publicly on the incident, but the case underscores the growing focus on safeguarding sensitive data in multinational tech environments, especially as artificial intelligence companies expand their global footprints."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident illustrates the risks of corporate espionage for U.S. and European tech companies expanding into the Middle East, emphasizing the need for robust security measures."
+   }
+  ],
+  "key_points": [
+   "A Saudi man has been charged with installing a covert recording device in OpenAI's Riyadh office.",
+   "The device was hidden in a TV's USB port and wrapped in toilet paper, indicating deliberate concealment.",
+   "The case highlights heightened security concerns for AI firms operating internationally."
+  ],
+  "meta_description": "A Saudi man is charged with planting a covert recording device in OpenAI's Riyadh office, raising security concerns for AI firms abroad.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "OpenAI",
+   "espionage",
+   "cybersecurity",
+   "legal",
+   "AI"
+  ],
+  "slug": "saudi-man-charged-over-sophisticated-recording-device-hidden-openai-b31569",
+  "reading_minutes": 1,
+  "added": "2026-10-13T23:05:58Z"
+ },
+ {
   "id": "5349b4bff5efc007",
   "source_url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
   "source": "TechCrunch",
