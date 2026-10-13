@@ -1,5 +1,687 @@
 [
  {
+  "id": "5349b4bff5efc007",
+  "source_url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+  "source": "TechCrunch",
+  "source_title": "Facebook is giving users more control over their algorithm",
+  "source_summary": "Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds. Meta announced the launch of its new AI-powered feature, “Your Algorithm,” on Tuesday, a feature it first launched on Instagram. The new tool allows Facebook users to influence the content they see in […]",
+  "source_tags": [
+   "AI",
+   "Apps",
+   "Social",
+   "Facebook"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-13T18:05:24+00:00",
+  "headline": "Facebook Introduces 'Your Algorithm' Tool for User Feed Control",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta has rolled out a new AI‑driven feature called “Your Algorithm” on Facebook, extending the functionality that debuted on Instagram. The tool lets users adjust the factors that shape the posts appearing in their news feeds."
+   },
+   {
+    "type": "p",
+    "text": "By accessing the feature, Facebook members can prioritize the types of content they want to see and demote material they prefer less, giving them a more personalized experience without relying solely on the platform’s default ranking system."
+   },
+   {
+    "type": "p",
+    "text": "The move follows growing demand for greater transparency and user agency in social‑media feeds, and it represents Meta’s latest effort to address concerns about algorithmic influence on information consumption."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Giving users direct control over their feed helps address concerns about algorithmic bias and improves the relevance of content for audiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Meta launches “Your Algorithm” on Facebook, an AI‑powered feed‑customization tool.",
+   "The feature allows users to influence which posts appear in their news feed.",
+   "It expands a similar control option previously introduced on Instagram."
+  ],
+  "meta_description": "Meta adds the AI‑powered “Your Algorithm” feature to Facebook, letting users customize the content shown in their feeds.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Facebook",
+   "Meta",
+   "algorithm control",
+   "AI feature",
+   "social media"
+  ],
+  "slug": "facebook-introduces-your-algorithm-tool-user-feed-control-5349b4",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:08:38Z"
+ },
+ {
+  "id": "01382b63972f8a6f",
+  "source_url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+  "source": "TechCrunch",
+  "source_title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
+  "source_summary": "Longshot is trying to build a gun big enough to make space data centers a reality.",
+  "source_tags": [
+   "Space",
+   "TechCrunch Disrupt"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-13T18:05:00+00:00",
+  "headline": "Longshot Unveils Giant Space‑Gun to Launch Cargo at TechCrunch Disrupt",
+  "body": [
+   {
+    "type": "p",
+    "text": "At TechCrunch Disrupt 2026, startup Longshot demonstrated a prototype of a massive electromagnetic gun designed to fire payloads into orbit. The company says the device could eventually replace conventional rockets for delivering bulk cargo, such as modular data‑center components, to low‑Earth orbit."
+   },
+   {
+    "type": "p",
+    "text": "Longshot’s engineers claim the gun can accelerate a payload to the velocities needed for orbit without the fuel costs and emissions associated with rocket launches. The prototype shown at the conference was a scaled‑down version, but the team outlined plans to build a full‑scale system capable of handling multi‑ton shipments."
+   },
+   {
+    "type": "p",
+    "text": "If successful, the technology could enable a new class of space‑based infrastructure, lowering the barrier for companies to deploy large‑scale hardware above the atmosphere. The concept has drawn interest from investors seeking alternatives to traditional launch providers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A cheaper, non‑rocket launch method could accelerate the growth of satellite‑based services and data infrastructure important to US and European tech markets."
+   }
+  ],
+  "key_points": [
+   "Longshot is developing a gun‑based launch system to send cargo into orbit, aiming to cut launch costs.",
+   "The prototype was displayed at TechCrunch Disrupt 2026, with plans for a full‑scale version.",
+   "The technology could facilitate the creation of space‑based data centers and other large payloads."
+  ],
+  "meta_description": "Longshot showcased a gun‑based launch prototype at TechCrunch Disrupt, promising lower‑cost orbital cargo delivery.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "space",
+   "launch technology",
+   "cargo",
+   "data centers",
+   "startup",
+   "TechCrunch Disrupt"
+  ],
+  "slug": "longshot-unveils-giant-spacegun-launch-cargo-techcrunch-disrupt-01382b",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:08:54Z"
+ },
+ {
+  "id": "64be3d764257b9ff",
+  "source_url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+  "source": "The Verge",
+  "source_title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+  "source_summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to […]",
+  "source_tags": [
+   "Accessory Reviews",
+   "AI",
+   "Gadgets",
+   "Headphone Reviews",
+   "Meta",
+   "Reviews",
+   "Tech",
+   "Wearable"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-13T18:00:00+00:00",
+  "headline": "Review Finds No Need for Camera on Ray‑Ban Meta Audio Glasses",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent review of the Ray‑Ban Meta Audio smart glasses notes that the built‑in camera is not missed during everyday use. The author describes typical activities such as running in a park, ordering a coffee, and reading on a bench, all without feeling the absence of a camera."
+   },
+   {
+    "type": "p",
+    "text": "The piece highlights the glasses' audio capabilities, emphasizing that they function well for music playback and phone calls while remaining unobtrusive. The reviewer’s experience suggests that the device can integrate into daily routines without the visual recording feature."
+   },
+   {
+    "type": "p",
+    "text": "Overall, the assessment implies that the lack of a camera does not detract from the glasses’ primary purpose as a hands‑free audio accessory."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For consumers in the US and Europe, the finding suggests that privacy‑concerned users can adopt the glasses without sacrificing core functionality."
+   }
+  ],
+  "key_points": [
+   "The reviewer did not feel the missing camera affected daily use of the Ray‑Ban Meta Audio glasses.",
+   "Audio functions like music and calls performed well in typical activities.",
+   "The glasses remain low‑profile and useful without visual recording capabilities."
+  ],
+  "meta_description": "A review finds the Ray‑Ban Meta Audio glasses work well without a camera, focusing on audio performance in daily life.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ray-Ban",
+   "Meta Audio",
+   "smart glasses",
+   "wearable tech",
+   "privacy"
+  ],
+  "slug": "review-finds-no-need-camera-rayban-meta-audio-glasses-64be3d",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:09:10Z"
+ },
+ {
+  "id": "e3998d4ca2d8b30b",
+  "source_url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+  "source": "The Guardian",
+  "source_title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+  "source_summary": "Exclusive: Caution urged over Javier Milei government’s ‘red notice’ requests for arrest of individuals linked to oil project Britain has appealed to Interpol to reject Argentina’s requests for the arrest of individuals involved in a large oil project off the Falkland Islands. With tensions over the sovereignty of the British overseas territory reaching levels not seen since the war with Argentina in 1982, UK officials have sought urgent assurances from the international organisation.",
+  "source_tags": [
+   "Falkland Islands",
+   "Interpol",
+   "Foreign policy",
+   "Argentina",
+   "Javier Milei",
+   "UK news",
+   "Politics",
+   "Americas",
+   "World news"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/1651600a577e16c6617520e787af63fe99b21bc4/587_0_7911_6328/master/7911.jpg?width=700&quality=85&auto=format&fit=max&s=77017aa36692590ca71ced4223c43f38",
+  "published": "2026-10-13T17:42:03+00:00",
+  "headline": "UK Urges Interpol to Block Argentina Red Notices Over Falklands Oil Project",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United Kingdom has formally appealed to Interpol to reject Argentina's requests for \"red notices\" seeking the arrest of individuals connected to a major oil development near the Falkland Islands. British officials described the Argentine requests as politically motivated and asked the international police body for urgent assurances that the notices would not be acted upon."
+   },
+   {
+    "type": "p",
+    "text": "The move comes as diplomatic tensions over the sovereignty of the British overseas territory have risen to levels not seen since the 1982 Falklands War. Argentina, which claims the islands, has recently intensified legal actions aimed at entities involved in the offshore oil venture."
+   },
+   {
+    "type": "p",
+    "text": "London's request underscores the UK's determination to protect its commercial interests and the personnel working on the project, while signaling to Interpol that the red notices are part of a broader political dispute rather than legitimate criminal matters."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute highlights ongoing geopolitical friction between the UK and Argentina, affecting energy investments and international law enforcement cooperation relevant to Western allies."
+   }
+  ],
+  "key_points": [
+   "The UK has asked Interpol to dismiss Argentina's arrest requests linked to a Falklands oil project.",
+   "British officials label the Argentine red notices as politically driven.",
+   "Sovereignty tensions over the Falklands have escalated to post‑war levels."
+  ],
+  "meta_description": "UK asks Interpol to reject Argentina's politically motivated red notices targeting oil project personnel near the Falklands.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "Argentina",
+   "Interpol",
+   "Falkland Islands",
+   "oil project",
+   "sovereignty"
+  ],
+  "slug": "uk-urges-interpol-block-argentina-red-notices-over-falklands-e3998d",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:08:42Z"
+ },
+ {
+  "id": "a941923aa13a3053",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko",
+  "source": "BBC News",
+  "source_title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+  "source_summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c36b/live/a481bb50-c72c-11f1-b881-4391ac746e04.jpg",
+  "published": "2026-10-13T17:36:43+00:00",
+  "headline": "Argentina Files Legal Claim Over UK Falklands Oil Exploration",
+  "body": [
+   {
+    "type": "p",
+    "text": "Argentina has lodged a formal legal claim with an international maritime tribunal, challenging the United Kingdom's plans to explore for oil around the Falkland Islands. The filing marks the latest escalation in a long‑standing dispute between the two nations over sovereignty of the South Atlantic archipelago."
+   },
+   {
+    "type": "p",
+    "text": "The claim seeks to halt the UK's offshore drilling activities, arguing that they violate international law and Argentina's territorial rights. Officials in Buenos Aires described the move as a necessary step to protect the region's resources and to assert Argentina's position in ongoing negotiations."
+   },
+   {
+    "type": "p",
+    "text": "The United Kingdom has not yet responded publicly to the tribunal filing. The dispute, which has periodically flared over the decades, now involves both legal and environmental dimensions as both sides consider the economic stakes of potential hydrocarbon reserves."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case could affect UK‑Argentina diplomatic ties and influence global energy markets by shaping access to potential offshore oil reserves."
+   }
+  ],
+  "key_points": [
+   "Argentina has taken its Falklands oil dispute to an international maritime tribunal.",
+   "The claim alleges that the UK's exploration plans breach international law and Argentine sovereignty.",
+   "The filing intensifies a decades‑long rivalry over the South Atlantic islands."
+  ],
+  "meta_description": "Argentina files a legal claim at an international tribunal to block UK oil exploration around the Falkland Islands, heightening a long‑standing…",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Argentina",
+   "United Kingdom",
+   "Falkland Islands",
+   "oil exploration",
+   "maritime tribunal"
+  ],
+  "slug": "argentina-files-legal-claim-over-uk-falklands-oil-exploration-a94192",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:08:58Z"
+ },
+ {
+  "id": "c43a6407ebc083fa",
+  "source_url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
+  "source": "The New York Times",
+  "source_title": "Saudi Arabia and Yemen’s Houthis Trade Threats to Hit Oil Facilities",
+  "source_summary": "The Iran-backed militia threatened to attack the Saudi energy giant Aramco after the Saudi authorities issued an evacuation notice for an oil facility in the Yemeni capital.",
+  "source_tags": [
+   "Houthis",
+   "Saudi Aramco",
+   "Saudi Arabia",
+   "Yemen",
+   "Riyadh (Saudi Arabia)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-saudi-yemen-photo-qfph/13int-saudi-yemen-photo-qfph-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T17:34:57+00:00",
+  "headline": "Houthis Threaten Aramco After Saudi Evacuation Order for Yemen Facility",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Iran‑backed Houthi militia in Yemen warned it could target the Saudi energy giant Aramco following a Saudi government directive that ordered the evacuation of an oil facility in Sana'a, the Yemeni capital. The threat was issued shortly after the evacuation notice was announced, heightening tensions between the two sides."
+   },
+   {
+    "type": "p",
+    "text": "Saudi authorities had instructed workers to leave the facility as a precaution, but the Houthis framed the move as a provocation, stating they would consider striking Aramco assets in response. The militia’s statement did not specify a timeline or the exact nature of any planned attack."
+   },
+   {
+    "type": "p",
+    "text": "The exchange underscores the ongoing volatility in the Red Sea region, where both state and non‑state actors have repeatedly disrupted oil operations. No immediate attacks have been reported, and the situation remains under close watch by regional security officials."
+   }
+  ],
+  "key_points": [
+   "The Houthi militia threatened to attack Saudi Aramco after a Saudi evacuation order for a Sana'a oil facility.",
+   "Saudi authorities issued the evacuation as a precaution, but the Houthis called it a provocation.",
+   "The standoff adds to existing instability affecting oil infrastructure in the Red Sea area."
+  ],
+  "meta_description": "Houthis warn of attacks on Saudi Aramco after evacuation order for a Yemen oil facility, raising regional security concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "Yemen",
+   "Houthis",
+   "Aramco",
+   "oil facilities",
+   "Red Sea"
+  ],
+  "slug": "houthis-threaten-aramco-after-saudi-evacuation-order-yemen-facility-c43a64",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:09:18Z"
+ },
+ {
+  "id": "b1f0ed8760823d99",
+  "source_url": "https://www.bbc.co.uk/sport/golf/articles/c875pdv1ye2lo",
+  "source": "BBC Sport",
+  "source_title": "McIlroy would vote for LIV players' PGA Tour return",
+  "source_summary": "Rory McIlroy would vote to have LIV Golf players back on the PGA Tour and says the breakaway circuit is no longer a threat to traditional tours.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/574d/live/0c095960-c726-11f1-b881-4391ac746e04.jpg",
+  "published": "2026-10-13T17:17:31+00:00",
+  "headline": "Rory McIlroy Backs Return of LIV Golf Players to PGA Tour",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rory McIlroy said he would vote to allow former LIV Golf participants to rejoin the PGA Tour, arguing that the rival circuit no longer poses a significant challenge to established tours."
+   },
+   {
+    "type": "p",
+    "text": "The Northern Irish star emphasized that the split in professional golf has largely healed, and that integrating LIV players would benefit the sport’s competitive landscape."
+   },
+   {
+    "type": "p",
+    "text": "McIlroy’s comments come as the PGA Tour continues to assess its policies on former LIV members, with the broader golf community watching how the two entities might coexist moving forward."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The potential reintegration of LIV players could reshape professional golf’s tournament fields and sponsorship dynamics across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "McIlroy supports reinstating LIV Golf players on the PGA Tour.",
+   "He believes the LIV circuit is no longer a major threat to traditional tours.",
+   "The statement adds pressure on the PGA Tour’s ongoing policy decisions."
+  ],
+  "meta_description": "Rory McIlroy says he would vote to let former LIV Golf players return to the PGA Tour, noting the breakaway circuit is no longer a threat.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rory McIlroy",
+   "LIV Golf",
+   "PGA Tour",
+   "professional golf",
+   "sports policy"
+  ],
+  "slug": "rory-mcilroy-backs-return-liv-golf-players-pga-tour-b1f0ed",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:08:46Z"
+ },
+ {
+  "id": "c53837b319d66bdf",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
+  "source": "The Guardian",
+  "source_title": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
+  "source_summary": "Musk’s midterm donations, mostly for rightwing candidates and causes, surpass his contributions to Trump in 2024 Elon Musk has become the biggest political donor of the 2026 US midterm elections cycle, funneling about $366m into political groups and campaigns as he backs conservative candidates and rightwing causes. The world’s richest person has poured more than $276m into politics since July alone, some of the most rapid political spending in US history. He’s targeting key races that will determine which party controls the US Senate. The New York Times first reported the spending numbers, which will be released in a federal filing on Thursday. Musk’s spending outpaces his 2024 presidential election contributions, in which he sunk nearly $300m into Donald Trump’s re-election campaign.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Elon Musk",
+   "US politics",
+   "Technology",
+   "US news",
+   "US Congress",
+   "Republicans",
+   "Money",
+   "US political financing",
+   "Super Pacs"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/2629e359cb7d8edb68029571b27eb8bb7a602a90/720_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=488f5e8ef9f64e2833a813c6feee248b",
+  "published": "2026-10-13T17:13:50+00:00",
+  "headline": "Elon Musk Becomes Largest Donor in 2026 US Midterms, Spending $366 Million",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk has emerged as the top financial backer of the 2026 United States midterm elections, directing roughly $366 million to political groups and campaigns. The bulk of the money is aimed at conservative candidates and right‑wing causes, according to a New York Times report that will be detailed in a federal filing on Thursday."
+   },
+   {
+    "type": "p",
+    "text": "Musk’s contributions this cycle exceed $276 million since July, marking one of the fastest accumulations of political spending in recent American history. The amount also surpasses his outlays in the 2024 presidential race, where he spent nearly $300 million supporting Donald Trump’s re‑election bid."
+   },
+   {
+    "type": "p",
+    "text": "The billionaire’s funding is focused on pivotal Senate contests that will decide which party holds control of the chamber. By targeting these key races, Musk hopes to influence the legislative agenda in line with his political preferences."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The influx of Musk’s money could shape the balance of power in the US Senate, affecting legislation that impacts both American and European interests."
+   }
+  ],
+  "key_points": [
+   "Elon Musk has spent about $366 million on the 2026 US midterm elections, making him the cycle’s biggest donor.",
+   "The donations are largely directed toward conservative candidates and right‑wing organizations.",
+   "Musk’s spending targets critical Senate races that will determine party control of the chamber."
+  ],
+  "meta_description": "Elon Musk tops 2026 US midterm donors with $366 million, backing conservative candidates and key Senate races.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "US elections",
+   "campaign finance",
+   "midterms 2026",
+   "conservative donors"
+  ],
+  "slug": "elon-musk-becomes-largest-donor-2026-us-midterms-spending-c53837",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:09:14Z"
+ },
+ {
+  "id": "9a31c9c2bf24262c",
+  "source_url": "https://www.cnbc.com/2026/10/13/walmart-glp-1s-inhalers-insulin-employee-benefits.html",
+  "source": "CNBC",
+  "source_title": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
+  "source_summary": "Walmart will offer Novo's Ozempic and Lilly's Mounjaro without charge for people with Type 2 diabetes after a new prior authorization.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-13T17:07:19+00:00",
+  "headline": "Walmart Expands Benefits to Cover GLP‑1 Drugs, Inhalers and Insulin for Employees",
+  "body": [
+   {
+    "type": "p",
+    "text": "Walmart announced that it will provide its U.S. employees with free access to Novo Nordisk’s Ozempic and Eli Lilly’s Mounjaro, two GLP‑1 medications used to treat type 2 diabetes, after implementing a new prior‑authorization process."
+   },
+   {
+    "type": "p",
+    "text": "The benefit expansion also includes coverage of prescription inhalers and insulin at no cost to eligible workers, aiming to reduce out‑of‑pocket expenses for common chronic‑disease treatments."
+   },
+   {
+    "type": "p",
+    "text": "The retailer said the move is part of a broader effort to enhance its health‑care benefits package, though it did not disclose how many employees are expected to use the new coverage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The initiative could lower medication costs for a large workforce in the United States, highlighting corporate roles in addressing rising drug prices."
+   }
+  ],
+  "key_points": [
+   "Walmart will provide Ozempic and Mounjaro free of charge to eligible employees with type 2 diabetes.",
+   "Prescription inhalers and insulin are also covered at no cost under the expanded benefits.",
+   "The program requires a new prior‑authorization step before the medications are provided."
+  ],
+  "meta_description": "Walmart will cover Ozempic, Mounjaro, inhalers and insulin for eligible employees at no cost after a new prior‑authorization process.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Walmart",
+   "employee benefits",
+   "GLP-1 drugs",
+   "prescription coverage",
+   "healthcare costs"
+  ],
+  "slug": "walmart-expands-benefits-cover-glp1-drugs-inhalers-insulin-employees-9a31c9",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:08:50Z"
+ },
+ {
+  "id": "5ac4efbb58b1d59d",
+  "source_url": "https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html",
+  "source": "The New York Times",
+  "source_title": "Rising Interest Rates Bite Some Wall Street Banks",
+  "source_summary": "JPMorgan released surprisingly spotty earnings results for the third quarter, while Goldman Sachs and Citi posted better-than-expected results, reflecting a choppy trading environment.",
+  "source_tags": [
+   "Banking and Financial Institutions",
+   "Inflation (Economics)",
+   "Interest Rates",
+   "Company Reports",
+   "Artificial Intelligence",
+   "Goldman Sachs Group Inc",
+   "JPMorgan Chase & Company",
+   "Wells Fargo & Company",
+   "Dimon, James"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-bank-earnings-lgjp/13biz-bank-earnings-lgjp-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T17:02:34+00:00",
+  "headline": "Wall Street Earnings Mixed as Rates Pressure JPMorgan, Goldman, Citi",
+  "body": [
+   {
+    "type": "p",
+    "text": "JPMorgan Chase reported third‑quarter earnings that fell short of analyst expectations, with the bank describing the results as \"surprisingly spotty\" amid a volatile trading environment. The underperformance was linked to higher interest rates that have complicated the bank's lending and investment activities."
+   },
+   {
+    "type": "p",
+    "text": "In contrast, Goldman Sachs and Citigroup both delivered earnings that exceeded forecasts, showing resilience despite the same market turbulence. Their stronger results were attributed to better‑than‑expected trading revenues and cost‑management measures."
+   },
+   {
+    "type": "p",
+    "text": "The divergent outcomes highlight how rising rates are creating a uneven playing field across major Wall Street firms, with some banks adapting more effectively than others."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Investors in the U.S. and Europe watch these earnings to gauge how major banks are navigating higher rates, which can influence market sentiment and credit availability."
+   }
+  ],
+  "key_points": [
+   "JPMorgan's Q3 earnings missed expectations, reflecting pressure from higher rates.",
+   "Goldman Sachs and Citi posted earnings above forecasts despite market volatility.",
+   "Rising interest rates are producing mixed results among leading U.S. banks."
+  ],
+  "meta_description": "JPMorgan missed Q3 earnings expectations while Goldman Sachs and Citi beat forecasts as rising rates create a choppy trading environment.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "earnings",
+   "interest rates",
+   "JPMorgan",
+   "Goldman Sachs",
+   "Citigroup",
+   "Wall Street"
+  ],
+  "slug": "wall-street-earnings-mixed-rates-pressure-jpmorgan-goldman-citi-5ac4ef",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:09:06Z"
+ },
+ {
+  "id": "c981583b6dd76397",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cvglw07rx6jeo",
+  "source": "BBC Sport",
+  "source_title": "Liverpool's Wirtz problem - does he need to be dropped?",
+  "source_summary": "More than a year since his £116m move, Florian Wirtz is still struggling to hit top form at Liverpool - so does he need to be dropped?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbd1/live/8744c100-c6e0-11f1-bf38-57dc5cd42af2.jpg",
+  "published": "2026-10-13T16:45:59+00:00",
+  "headline": "Liverpool's Florian Wirtz Still Struggles After £116m Transfer",
+  "body": [
+   {
+    "type": "p",
+    "text": "More than a year after Liverpool paid a £116 million fee for German midfielder Florian Wirtz, the player has yet to find the form that justified his price tag. The BBC Sport piece notes that his performances have been below expectations, prompting debate among fans and pundits."
+   },
+   {
+    "type": "p",
+    "text": "The article raises the question of whether the club should consider dropping Wirtz from the starting lineup to spark improvement. While no official decision has been announced, the discussion reflects growing impatience with his lack of impact on the pitch."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Wirtz's situation highlights the risks of high‑price transfers in the Premier League and its impact on club strategy and fan expectations."
+   }
+  ],
+  "key_points": [
+   "Florian Wirtz joined Liverpool for £116 million over a year ago.",
+   "He continues to struggle to reach his expected performance level.",
+   "Speculation is mounting about whether he should be dropped from the team."
+  ],
+  "meta_description": "Liverpool's £116m signing Florian Wirtz remains under‑performing a year on, sparking talk of dropping him from the lineup.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Florian Wirtz",
+   "Premier League",
+   "football transfers",
+   "sports analysis"
+  ],
+  "slug": "liverpool-s-florian-wirtz-still-struggles-after-116m-transfer-c98158",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:09:02Z"
+ },
+ {
+  "id": "d8a1bf78c1911291",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo",
+  "source": "BBC Sport",
+  "source_title": "Football regulator says he would quit over Man City political interference",
+  "source_summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8ca/live/752f1a40-c723-11f1-b881-4391ac746e04.jpg",
+  "published": "2026-10-13T16:00:18+00:00",
+  "headline": "Football Regulator Vows to Quit if Politically Interfered with Man City",
+  "body": [
+   {
+    "type": "p",
+    "text": "The chief of England's independent football regulator has announced he will step down should he encounter any political meddling in decisions about Manchester City’s future. He said the integrity of the sport must be protected from external pressure and that he would not compromise his role."
+   },
+   {
+    "type": "p",
+    "text": "The regulator’s warning comes amid growing scrutiny of how government bodies and politicians may influence club licensing, licensing appeals and disciplinary actions. While no specific instance of interference has been cited, the statement underscores the regulator’s readiness to defend the sport’s autonomous governance."
+   },
+   {
+    "type": "p",
+    "text": "If the regulator follows through, his resignation would trigger a leadership change at the body that oversees the English game’s rules and standards. The move could prompt a broader debate about the separation of sport and politics in the United Kingdom and across Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The stance highlights the tension between government influence and independent sport regulation, a issue relevant to fans and policymakers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The head of England’s football regulator says he will resign if faced with political interference over Manchester City.",
+   "He stresses that sport must remain free from external political pressure.",
+   "A resignation would prompt a leadership shift and could spark wider discussions on sport governance."
+  ],
+  "meta_description": "England's football regulator says he'll quit if political interference affects Manchester City's future, stressing sport's independence.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "football",
+   "governance",
+   "Manchester City",
+   "political interference",
+   "regulator"
+  ],
+  "slug": "football-regulator-vows-quit-if-politically-interfered-with-man-d8a1bf",
+  "reading_minutes": 1,
+  "added": "2026-10-13T18:09:23Z"
+ },
+ {
   "id": "39e27a4211a4a75a",
   "source_url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o",
   "source": "BBC News",
