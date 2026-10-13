@@ -1,5 +1,612 @@
 [
  {
+  "id": "5e1ab64fe93602eb",
+  "source_url": "https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html",
+  "source": "The New York Times",
+  "source_title": "After Lockdown, Sea of Protesters Flows Through India’s Capital",
+  "source_summary": "The raucous demonstrations by opposition groups on Monday followed days of an effective lockdown and mass detentions of young protesters by security forces.",
+  "source_tags": [
+   "Demonstrations, Protests and Riots",
+   "Politics and Government",
+   "Elections",
+   "Delhi (India)",
+   "Gandhi, Rahul",
+   "Indian National Congress",
+   "Youth",
+   "Police"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12int-india-protests01-photo-fvjk/12int-india-protests01-photo-fvjk-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T03:08:14+00:00",
+  "headline": "Mass Protests Surge Through New Delhi After Recent Lockdown",
+  "body": [
+   {
+    "type": "p",
+    "text": "Opposition groups staged loud demonstrations in India's capital on Monday, filling the streets with thousands of participants. The rallies came after an effective lockdown that had been imposed for several days, limiting movement across the city."
+   },
+   {
+    "type": "p",
+    "text": "Security forces responded to the earlier unrest by detaining large numbers of young protesters. The mass arrests were reported to have taken place during the lockdown period, intensifying tensions between authorities and opposition supporters."
+   },
+   {
+    "type": "p",
+    "text": "The protests resumed with renewed vigor once restrictions were lifted, highlighting the opposition's determination to voice dissent despite the recent crackdown. Organizers described the gatherings as a collective outcry against the government's handling of civil liberties."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest underscores concerns about democratic freedoms in India, a key partner for the United States and European nations."
+   }
+  ],
+  "key_points": [
+   "Opposition groups held large-scale protests in New Delhi after a multi‑day lockdown.",
+   "Security forces detained many young protesters during the lockdown period.",
+   "Demonstrations resumed quickly once restrictions were eased, signaling ongoing dissent."
+  ],
+  "meta_description": "Opposition groups flood New Delhi with protests after a lockdown and mass detentions of young activists.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "protests",
+   "lockdown",
+   "opposition",
+   "security forces",
+   "New Delhi"
+  ],
+  "slug": "mass-protests-surge-through-new-delhi-after-recent-lockdown-5e1ab6",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:09:30Z"
+ },
+ {
+  "id": "8b7d217a470347c8",
+  "source_url": "https://www.nytimes.com/2026/10/12/business/economy/imf-global-economic-outlook.html",
+  "source": "The New York Times",
+  "source_title": "I.M.F. Warns Mideast War Will Widen Gap Between Rich and Poor Countries",
+  "source_summary": "Persistent conflicts, high energy costs and technological upheavals will slow global growth and raise prices, the organization forecast.",
+  "source_tags": [
+   "Economic Conditions and Trends",
+   "International Monetary Fund",
+   "Inflation (Economics)",
+   "Bangkok (Thailand)",
+   "Prices (Fares, Fees and Rates)",
+   "World Bank",
+   "Oil (Petroleum) and Gasoline"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13Biz-global-econ-IMF-02-ptml/13Biz-global-econ-IMF-02-ptml-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T02:58:49+00:00",
+  "headline": "IMF Warns Middle East War Will Widen Gap Between Rich and Poor",
+  "body": [
+   {
+    "type": "p",
+    "text": "The International Monetary Fund said that ongoing conflicts in the Middle East, together with high energy prices and rapid technological change, will slow global economic growth and push up consumer prices worldwide."
+   },
+   {
+    "type": "p",
+    "text": "The IMF’s latest outlook predicts that these pressures will deepen the divide between wealthy and low‑income nations, as richer economies are better able to absorb higher costs and invest in new technologies, while poorer countries face tighter fiscal constraints."
+   },
+   {
+    "type": "p",
+    "text": "The fund cautioned that the widening disparity could undermine efforts to achieve sustainable development and increase the risk of social and political unrest in vulnerable regions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A larger gap between rich and poor economies can affect trade, investment and geopolitical stability, issues of direct relevance to the United States and European markets."
+   }
+  ],
+  "key_points": [
+   "IMF forecasts slower global growth due to Middle East conflict, energy costs, and tech disruption.",
+   "Rising prices are expected to widen the income gap between rich and poor nations.",
+   "The disparity could threaten stability and development goals in low‑income countries."
+  ],
+  "meta_description": "IMF warns Middle East war, high energy costs and tech upheavals will slow growth and widen the rich‑poor gap globally.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "IMF",
+   "Middle East",
+   "global inequality",
+   "economic growth",
+   "energy prices"
+  ],
+  "slug": "imf-warns-middle-east-war-will-widen-gap-between-8b7d21",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:09:34Z"
+ },
+ {
+  "id": "74885cfb260da516",
+  "source_url": "https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html",
+  "source": "The New York Times",
+  "source_title": "Rider on Georgia Roller Coaster Dies and Several Others Are Injured",
+  "source_summary": "The episode happened Monday afternoon at the Six Flags Over Georgia amusement park, the police said. It was not immediately clear what led up to the rider’s death.",
+  "source_tags": [
+   "Six Flags Entertainment Corporation",
+   "Georgia",
+   "Deaths (Fatalities)",
+   "Amusement and Theme Parks",
+   "Roller Coasters",
+   "Accidents and Safety"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12xp-roller-coaster-fhzp/12xp-roller-coaster-fhzp-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T02:26:40+00:00",
+  "headline": "Rider Dies on Six Flags Over Georgia Roller Coaster, Others Injured",
+  "body": [
+   {
+    "type": "p",
+    "text": "A fatal incident occurred Monday afternoon on a roller coaster at Six Flags Over Georgia, according to police reports. The rider who died was on the attraction when the accident happened, and several other park guests sustained injuries."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have not yet determined the cause of the rider's death, and the investigation is ongoing. Emergency responders treated the injured on site before transporting them to nearby hospitals for further care."
+   },
+   {
+    "type": "p",
+    "text": "Six Flags Over Georgia has not released an official statement regarding the incident, and the park remains closed while officials assess the situation and gather additional information."
+   }
+  ],
+  "key_points": [
+   "A rider died on a Six Flags Over Georgia roller coaster on Monday afternoon.",
+   "Multiple other guests were injured and taken to hospitals.",
+   "Police have not yet identified the cause of the fatality."
+  ],
+  "meta_description": "A rider died and several others were injured on a Six Flags Over Georgia roller coaster Monday; cause remains unclear.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Six Flags",
+   "roller coaster accident",
+   "Georgia",
+   "amusement park safety",
+   "police investigation"
+  ],
+  "slug": "rider-dies-six-flags-over-georgia-roller-coaster-others-74885c",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:09:49Z"
+ },
+ {
+  "id": "cdd52e4bee534109",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo",
+  "source": "BBC News",
+  "source_title": "UK growth upgraded but energy prices and rates to bite in 2027",
+  "source_summary": "The IMF report comes as final preparations are being made to the first Budget under Prime Minister Andy Burham.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac3/live/cdd68a00-c662-11f1-8600-efb62b613ab5.jpg",
+  "published": "2026-10-13T02:00:35+00:00",
+  "headline": "IMF Upgrades UK Growth Outlook as Energy Costs Loom in 2027",
+  "body": [
+   {
+    "type": "p",
+    "text": "The International Monetary Fund has raised its forecast for the United Kingdom’s economic growth, signalling a more positive outlook for the near term. The upgrade comes as the country prepares for the first budget presented by Prime Minister Andy Burham, who took office earlier this year."
+   },
+   {
+    "type": "p",
+    "text": "Despite the improved growth projection, the IMF warned that rising energy prices and higher tax rates could erode household disposable income and dampen consumer spending from 2027 onward. The fund highlighted that the energy market remains volatile and that fiscal pressures are likely to increase as the government seeks to balance public finances."
+   },
+   {
+    "type": "p",
+    "text": "Policy makers are now faced with the challenge of sustaining the growth momentum while mitigating the impact of higher living costs. The IMF’s assessment suggests that timely measures to stabilise energy costs and manage tax burdens will be crucial for maintaining consumer confidence and economic stability."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outlook affects investors and policymakers in the US and Europe who monitor UK economic health and energy market stability."
+   }
+  ],
+  "key_points": [
+   "The IMF has upgraded its forecast for UK economic growth.",
+   "Energy price hikes and higher tax rates are expected to strain households from 2027.",
+   "Prime Minister Andy Burham’s inaugural budget will need to address these cost pressures."
+  ],
+  "meta_description": "IMF lifts UK growth forecast but warns energy price spikes and higher taxes could hit households from 2027, as Burham's first budget looms.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK economy",
+   "IMF",
+   "growth forecast",
+   "energy prices",
+   "budget",
+   "Andy Burham"
+  ],
+  "slug": "imf-upgrades-uk-growth-outlook-energy-costs-loom-2027-cdd52e",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:10:10Z"
+ },
+ {
+  "id": "34e3643232f207a8",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo",
+  "source": "BBC News",
+  "source_title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+  "source_summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3e/live/9d1f7420-c69f-11f1-8a85-c72eae042e5a.jpg",
+  "published": "2026-10-13T01:50:47+00:00",
+  "headline": "Bumble Shares Surge as Firm Reports $1 Billion Takeover Talks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bumble's shares jumped after a report that the dating company is in discussions about a takeover valued at roughly $1 billion. The rally lifted the company's market capitalisation to just over $580 million."
+   },
+   {
+    "type": "p",
+    "text": "Even with the surge, Bumble's valuation remains far below its historic high, which topped $14 billion during its peak. The contrast highlights how the firm’s market value has contracted since its earlier highs."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the potential deal could reshape the competitive landscape for online dating services, though details of the transaction remain limited."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Investors in the U.S. and Europe track Bumble as a barometer for the health of the broader tech and dating sectors, where valuation swings can signal market sentiment."
+   }
+  ],
+  "key_points": [
+   "Bumble's stock rose sharply after news of a $1 billion takeover discussion.",
+   "The company’s market value now exceeds $580 million, well under its $14 billion peak.",
+   "The possible deal could alter the dynamics of the online dating market."
+  ],
+  "meta_description": "Bumble shares climb after reports of a $1 billion takeover talk, lifting valuation above $580 million but still far below its $14 billion peak.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bumble",
+   "stock surge",
+   "takeover talks",
+   "valuation",
+   "online dating",
+   "tech market"
+  ],
+  "slug": "bumble-shares-surge-firm-reports-1-billion-takeover-talks-34e364",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:09:38Z"
+ },
+ {
+  "id": "d9dca1a3cdfff1ea",
+  "source_url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o",
+  "source": "BBC News",
+  "source_title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+  "source_summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82e/live/50a18f00-c629-11f1-a509-ab6554d795a2.jpg",
+  "published": "2026-10-13T01:26:02+00:00",
+  "headline": "Saudi Minister Promises Serious Response After Houthi Airport Attacks Kill 13",
+  "body": [
+   {
+    "type": "p",
+    "text": "Saudi Arabia's transport minister announced a \"serious response\" following a series of Houthi attacks that targeted the capital's main international airport and an additional facility. The assaults resulted in the deaths of 13 people, marking a notable escalation in the militant group's campaign against Saudi infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "The minister emphasized that the kingdom will take decisive action to protect its aviation hubs and deter further aggression. While specific measures were not detailed, the statement signals a heightened security posture and potential retaliation against the Houthi forces."
+   },
+   {
+    "type": "p",
+    "text": "The attacks underscore the growing threat posed by the Yemen-based group to regional stability and critical transport links. Saudi officials have warned that any further attempts to disrupt airport operations will be met with forceful countermeasures."
+   }
+  ],
+  "key_points": [
+   "Houthi militants struck Riyadh's international airport and another site, killing 13 people.",
+   "Saudi transport minister pledged a serious response to the attacks.",
+   "The incident represents a significant escalation in the conflict affecting regional aviation security."
+  ],
+  "meta_description": "Saudi transport minister vows a serious response after Houthi attacks on Riyadh airport kill 13, raising regional security concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "Houthi",
+   "airport attacks",
+   "security",
+   "Middle East"
+  ],
+  "slug": "saudi-minister-promises-serious-response-after-houthi-airport-attacks-d9dca1",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:09:45Z"
+ },
+ {
+  "id": "394406fb18ae0eff",
+  "source_url": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+  "source": "The New York Times",
+  "source_title": "NASA’s Perseverance Rover Sets a Mars Driving Record",
+  "source_summary": "Advances in self-driving technology have made it easier to traverse distant worlds.",
+  "source_tags": [
+   "Perseverance (Mars Rover)",
+   "Space and Astronomy",
+   "Records and Achievements",
+   "Mars (Planet)",
+   "Planets"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/09/02/multimedia/00sci-mars-rover-stillpromo-gjqz/00sci-mars-rover-stillpromo-gjqz-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T01:20:10+00:00",
+  "headline": "NASA Perseverance Rover Breaks Mars Driving Record Using New AI Tech",
+  "body": [
+   {
+    "type": "p",
+    "text": "NASA announced that its Perseverance rover has set a new distance record on the surface of Mars, covering more ground than any previous mission. The achievement is credited to recent upgrades in the rover's self‑driving software, which allow it to navigate the planet’s rugged terrain with minimal human input."
+   },
+   {
+    "type": "p",
+    "text": "The enhanced autonomous system uses artificial‑intelligence algorithms to assess hazards, plot safe routes, and adjust speed in real time. Engineers say the technology reduces the time needed for mission planners to chart each drive, speeding up scientific operations and extending the rover’s operational lifespan."
+   },
+   {
+    "type": "p",
+    "text": "Mission officials highlighted that the record demonstrates the growing reliability of autonomous navigation for future planetary exploration, including upcoming crewed missions and robotic landers destined for more distant worlds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The breakthrough illustrates how AI‑powered autonomy can accelerate scientific return on costly space missions, a development relevant to U.S. and European aerospace programs."
+   }
+  ],
+  "key_points": [
+   "Perseverance set a new Mars driving distance record thanks to upgraded AI‑driven navigation.",
+   "The self‑driving system autonomously evaluates terrain, improving mission efficiency.",
+   "The milestone showcases the potential of autonomous tech for future space missions."
+  ],
+  "meta_description": "NASA's Perseverance rover sets a Mars driving record using advanced AI navigation, highlighting autonomous tech's role in future space missions.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "NASA",
+   "Perseverance",
+   "Mars",
+   "autonomous vehicles",
+   "space exploration",
+   "AI"
+  ],
+  "slug": "nasa-perseverance-rover-breaks-mars-driving-record-using-new-394406",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:09:58Z"
+ },
+ {
+  "id": "e9d7b446b4ad930b",
+  "source_url": "https://www.dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "'Breaking Bad' actor and disability advocate RJ Mitte dies",
+  "source_summary": "RJ Mitte said his lived experience with cerebral palsy was an asset for his role as Walter White's son Flynn on \"Breaking Bad.\"",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-13T01:00:00+00:00",
+  "headline": "Actor RJ Mitte, Disability Advocate, 'Breaking Bad' Star, Dies at 48",
+  "body": [
+   {
+    "type": "p",
+    "text": "Actor RJ Mitte, best known for playing Walter White’s son Flynn on the acclaimed series \"Breaking Bad,\" has died, according to reports from DW. Mitte, who lived with cerebral palsy, often highlighted how his personal experience with the condition informed his performance and added authenticity to the role."
+   },
+   {
+    "type": "p",
+    "text": "Beyond his acting career, Mitte was a vocal disability advocate, using his public platform to raise awareness and promote inclusion for people with disabilities. He frequently spoke about the importance of representation in media and worked with organizations to improve accessibility and opportunities for the disabled community."
+   },
+   {
+    "type": "p",
+    "text": "Mitte’s death marks the loss of a prominent figure who bridged entertainment and activism, leaving a legacy that underscores the impact of lived experience in shaping both storytelling and social advocacy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Mitte’s career highlighted the value of authentic disability representation in mainstream media, influencing both U.S. and European discussions on inclusion."
+   }
+  ],
+  "key_points": [
+   "RJ Mitte, known for his role on \"Breaking Bad,\" died.",
+   "Mitte credited his cerebral palsy experience as an asset to his acting.",
+   "He was an active advocate for disability rights and representation."
+  ],
+  "meta_description": "Actor RJ Mitte, known for 'Breaking Bad' and disability advocacy, has died, leaving a legacy of authentic representation.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "RJ Mitte",
+   "Breaking Bad",
+   "disability advocacy",
+   "cerebral palsy",
+   "entertainment"
+  ],
+  "slug": "actor-rj-mitte-disability-advocate-breaking-bad-star-dies-e9d7b4",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:10:07Z"
+ },
+ {
+  "id": "bfc39967bcea6b95",
+  "source_url": "https://www.nytimes.com/2026/10/12/us/politics/james-talarico-ohio-texas-senate-race.html",
+  "source": "The New York Times",
+  "source_title": "Republicans Promoted a False Rumor That James Talarico Was in Ohio",
+  "source_summary": "The Democratic nominee for Senate in Texas spent nine days off the trail with what he and his campaign said was a bad case of the flu. His opponents fueled rumors, including one that spread widely before it was debunked.",
+  "source_tags": [
+   "Talarico, James",
+   "Elections, Senate",
+   "Texas"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12pol-talarico-absence1-jklg/12pol-talarico-absence1-jklg-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T00:41:24+00:00",
+  "headline": "Republicans Spread Debunked Rumor That Texas Senate Candidate Was in Ohio",
+  "body": [
+   {
+    "type": "p",
+    "text": "James Talarico, the Democratic nominee for the Texas Senate race, took a nine‑day break from campaigning after reporting a severe case of the flu, his campaign said. During his absence, Republican opponents circulated a false claim that Talarico had traveled to Ohio, a rumor that quickly gained traction on social media."
+   },
+   {
+    "type": "p",
+    "text": "Fact‑checking organizations and Talarico's campaign refuted the allegation, confirming that he remained in Texas throughout the period. The misinformation was part of a broader effort by his opponents to question his credibility and distract from his health‑related hiatus."
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights the ongoing use of unverified rumors in political contests, especially in high‑stakes Senate races where candidates face intense scrutiny and opposition tactics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The spread of false political rumors can influence voter perceptions in a pivotal Senate race, underscoring the need for reliable information in democratic processes."
+   }
+  ],
+  "key_points": [
+   "Republicans promoted an unverified claim that Texas Senate candidate James Talarico was in Ohio.",
+   "Talarico's campaign clarified he was in Texas, taking time off due to a severe flu.",
+   "Fact‑checkers debunked the rumor, labeling it false."
+  ],
+  "meta_description": "Republicans spread a false rumor that Texas Senate candidate James Talarico was in Ohio; fact‑checkers debunked the claim.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "James Talarico",
+   "Texas Senate race",
+   "political misinformation",
+   "Republican tactics",
+   "fact checking"
+  ],
+  "slug": "republicans-spread-debunked-rumor-that-texas-senate-candidate-was-bfc399",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:09:53Z"
+ },
+ {
+  "id": "b7eee49d89dfbee9",
+  "source_url": "https://www.nytimes.com/2026/10/12/us/christa-pike-medical-care-delay.html",
+  "source": "The New York Times",
+  "source_title": "Calls Show How Confusion Delayed Emergency Response for Christa Pike",
+  "source_summary": "The first 911 call from inside the prison was made at 8:40 p.m. It took about 30 minutes to verify its authenticity.",
+  "source_tags": [
+   "Capital Punishment",
+   "Nine-One-One (911) (Emergency Phone Number)",
+   "Pike, Christa (1976- )",
+   "Nashville (Tenn)",
+   "Riverbend Maximum Security Institution (Nashville, Tenn)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12nat-tn-pike-jclt/12nat-tn-pike-jclt-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T00:13:41+00:00",
+  "headline": "Delay in Verifying Prison 911 Call Extends Emergency Response Time",
+  "body": [
+   {
+    "type": "p",
+    "text": "A 911 call placed from inside a prison at 8:40 p.m. was the first alert of an unfolding emergency, according to the report. The call's authenticity was not confirmed until roughly thirty minutes later, creating a significant lag in the emergency response."
+   },
+   {
+    "type": "p",
+    "text": "The verification delay meant that responders were unable to act on the situation promptly, highlighting procedural challenges in handling internal prison alerts. Officials noted that the time taken to confirm the call's legitimacy directly impacted the speed of the subsequent response."
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores the importance of rapid verification processes for emergency calls, especially in secure facilities where swift action can be critical."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The delay illustrates potential risks in emergency communication systems that can affect public safety in correctional institutions across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The initial 911 call from inside the prison was made at 8:40 p.m.",
+   "It took about 30 minutes to verify the call's authenticity, delaying response."
+  ],
+  "meta_description": "A prison 911 call at 8:40 p.m. faced a 30‑minute verification delay, slowing emergency response.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "emergency response",
+   "prison safety",
+   "911 call",
+   "verification delay",
+   "public safety"
+  ],
+  "slug": "delay-verifying-prison-911-call-extends-emergency-response-time-b7eee4",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:10:13Z"
+ },
+ {
+  "id": "7a10eb0197967897",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o",
+  "source": "BBC Sport",
+  "source_title": "Coventry announce themselves back in the big time",
+  "source_summary": "Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight goal and victory in front of their own fans.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/75fce310-c68a-11f1-a387-7d6d38bf2d79.jpg",
+  "published": "2026-10-12T22:34:32+00:00",
+  "headline": "Coventry City Escape Relegation With First Top‑Flight Goal in 25 Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "Coventry City moved out of the relegation zone after securing a historic victory that featured the club's first top‑flight goal in 25 years. The win was celebrated by the home supporters who witnessed the milestone on their own turf."
+   },
+   {
+    "type": "p",
+    "text": "The result not only lifted the team above the danger area but also ended a quarter‑century wait for a goal and a win at this level in front of their fans. The achievement marks a significant turning point in Coventry's season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The breakthrough signals a potential shift in Coventry's fortunes in England's top league, a development of interest to followers of European football."
+   }
+  ],
+  "key_points": [
+   "Coventry City climbed out of the relegation zone with a landmark victory.",
+   "The win included the club's first top‑flight goal in 25 years, scored before home fans."
+  ],
+  "meta_description": "Coventry City escape relegation after scoring their first top‑flight goal in 25 years, ending a long wait for a home victory.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Coventry City",
+   "Premier League",
+   "relegation battle",
+   "football",
+   "English football"
+  ],
+  "slug": "coventry-city-escape-relegation-with-first-topflight-goal-25-7a10eb",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:09:41Z"
+ },
+ {
   "id": "424ec1ec95ee9151",
   "source_url": "https://www.nytimes.com/2026/10/12/us/politics/judge-trees-golf-trump.html",
   "source": "The New York Times",
@@ -58,6 +665,59 @@
   "slug": "federal-judge-orders-trump-administration-explain-dc-golf-course-424ec1",
   "reading_minutes": 1,
   "added": "2026-10-12T22:34:51Z"
+ },
+ {
+  "id": "ab8ad969604344c8",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cme36q1gnpnlo",
+  "source": "BBC Sport",
+  "source_title": "Who has made Troy's Premier League team of the week?",
+  "source_summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ad/live/75a67e50-c68d-11f1-b789-b92a80d9185b.png",
+  "published": "2026-10-12T22:25:57+00:00",
+  "headline": "Troy Deeney Releases His Premier League Team of the Week",
+  "body": [
+   {
+    "type": "p",
+    "text": "After every round of Premier League matches this season, former Watford striker Troy Deeney publishes his own selection of the best performers, dubbed his ‘team of the week’. The weekly list highlights players he believes have stood out across the league’s fixtures."
+   },
+   {
+    "type": "p",
+    "text": "Deeney’s picks are shared with fans through BBC Sport, inviting readers to compare his choices with their own opinions on the standout performers. The feature has become a regular touchpoint for supporters tracking form and debate during the campaign."
+   },
+   {
+    "type": "p",
+    "text": "While the specific lineup varies each week, the column consistently offers a snapshot of the players who have impressed Deeney, adding another layer of analysis to the season’s ongoing narrative."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The weekly roundup gives football fans in the US and Europe a quick reference to the league’s top performers, enhancing engagement with the Premier League’s ongoing story."
+   }
+  ],
+  "key_points": [
+   "Troy Deeney selects a weekly Premier League ‘team of the week’ after each round of matches.",
+   "The selections are published by BBC Sport and spark discussion among fans.",
+   "The feature provides a regular highlight of standout players throughout the season."
+  ],
+  "meta_description": "Troy Deeney shares his weekly Premier League team of the week, highlighting standout players after each round of matches.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Premier League",
+   "Troy Deeney",
+   "team of the week",
+   "football analysis",
+   "BBC Sport"
+  ],
+  "slug": "troy-deeney-releases-his-premier-league-team-week-ab8ad9",
+  "reading_minutes": 1,
+  "added": "2026-10-13T03:10:02Z"
  },
  {
   "id": "07228413cc260d8b",
