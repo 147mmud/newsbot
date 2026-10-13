@@ -1,5 +1,661 @@
 [
  {
+  "id": "39e27a4211a4a75a",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o",
+  "source": "BBC News",
+  "source_title": "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack",
+  "source_summary": "Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/811bb020-c6e2-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-13T10:57:17+00:00",
+  "headline": "Bulgarian PM Calls Russian Ambassador After Black Sea Drone Attack Sinks Ship",
+  "body": [
+   {
+    "type": "p",
+    "text": "A merchant vessel was sunk overnight in the Black Sea after a drone strike, local officials said, leaving eleven crew members unaccounted for. The incident prompted Bulgaria's prime minister to summon the Russian ambassador for an urgent meeting, demanding explanations for the attack that occurred in international waters."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have not confirmed the nationality of the drone or the ship, but the rapid diplomatic response underscores heightened tensions in the region. Bulgaria, a NATO member, is seeking clarification from Moscow as it assesses the security implications for commercial shipping routes that traverse the Black Sea."
+   },
+   {
+    "type": "p",
+    "text": "The missing crew members' families have been notified, and rescue efforts continue, though officials have not provided further details on the condition of the survivors or the extent of the damage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack threatens the safety of commercial shipping in a region vital to European energy and trade routes, prompting NATO allies to monitor Russian involvement closely."
+   }
+  ],
+  "key_points": [
+   "A merchant ship was sunk by a drone in the Black Sea, with eleven crew members missing.",
+   "Bulgaria's prime minister summoned the Russian ambassador to demand answers.",
+   "The incident raises concerns about maritime security in a key European trade corridor."
+  ],
+  "meta_description": "Bulgarian PM summons Russian ambassador after a drone sinks a merchant ship in the Black Sea, leaving eleven crew members missing.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bulgaria",
+   "Russia",
+   "Black Sea",
+   "drone attack",
+   "maritime security",
+   "EU"
+  ],
+  "slug": "bulgarian-pm-calls-russian-ambassador-after-black-sea-drone-39e27a",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:03Z"
+ },
+ {
+  "id": "de75db705d1e714d",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+  "source": "The Guardian",
+  "source_title": "Trump targets Ilhan Omar at rally following raid on her home – US politics live",
+  "source_summary": "President says Somalia, birthplace of the Minnesota Democratic congresswoman, is ‘one of the worst countries on the planet’ Sign up for the US Breaking News email Donald Trump’s new press secretary Katie Zacharia is due to give her first press conference at the White House later this morning. The president on Friday announced that he had picked Zacharia to be the next White House press secretary, lining up a conservative commentator he called a “devoted fan” to be his most prominent spokesperson.",
+  "source_tags": [
+   "Donald Trump",
+   "US news",
+   "Trump administration",
+   "US politics",
+   "Alaska",
+   "Texas",
+   "Maine"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/9a60436c1dffdd55ab3924db17c7f5d7c0dffdb3/258_0_2325_1861/master/2325.jpg?width=700&quality=85&auto=format&fit=max&s=4e54edfbfe5842bb496515e26a8a28ee",
+  "published": "2026-10-13T10:42:23+00:00",
+  "headline": "Trump Attacks Ilhan Omar’s Somali Roots at Rally After Home Raid",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump used a rally on Friday to criticize Rep. Ilhan Omar, calling Somalia, the congresswoman’s birthplace, \"one of the worst countries on the planet.\" The remarks came shortly after federal agents raided Omar’s home in Minnesota, a development that has intensified political debate."
+   },
+   {
+    "type": "p",
+    "text": "During the same event, Trump announced his new White House press secretary, Katie Zacharia, a conservative commentator he described as a \"devoted fan.\" Zacharia is slated to hold her first press briefing later that morning, marking her debut as the administration’s most visible spokesperson."
+   },
+   {
+    "type": "p",
+    "text": "The president’s comments on Somalia and the timing of the raid on Omar’s residence have drawn sharp reactions from both parties, highlighting the ongoing partisan clash over immigration, foreign policy and the treatment of elected officials."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode underscores rising political tensions in the United States and signals how the administration may frame foreign‑policy criticism ahead of upcoming elections."
+   }
+  ],
+  "key_points": [
+   "Trump labeled Somalia, Omar’s birthplace, as one of the world’s worst countries at a rally.",
+   "The remarks followed a federal raid on Ilhan Omar’s Minnesota home.",
+   "Trump introduced Katie Zacharia as his new White House press secretary."
+  ],
+  "meta_description": "Trump attacks Ilhan Omar’s Somali roots at rally after a raid on her home, and names Katie Zacharia as new White House press secretary.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Ilhan Omar",
+   "Somalia",
+   "White House press secretary",
+   "US politics"
+  ],
+  "slug": "trump-attacks-ilhan-omars-somali-roots-rally-after-home-de75db",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:07Z"
+ },
+ {
+  "id": "ebe61f847677821d",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6pqg7n9l312o",
+  "source": "BBC News",
+  "source_title": "Welsh government and Labour strike budget deal with £60m for additional learning needs",
+  "source_summary": "The Plaid Cymru-led administration had failed to pass its spending plans during the summer.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a43/live/e47ef4b0-c6e2-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-13T10:33:43+00:00",
+  "headline": "Welsh Government and Labour Agree £60m Boost for Learning Needs",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Welsh government and the UK Labour Party have reached a budget agreement that earmarks an additional £60 million for children with extra learning needs. The funding will be added to the devolved administration's education budget for the upcoming fiscal year."
+   },
+   {
+    "type": "p",
+    "text": "The deal follows the Plaid Cymru‑led administration’s inability to secure its own spending plans during the summer months, prompting a cross‑party compromise to ensure the resources are delivered. Officials said the money will support specialist staff, assistive technology and targeted programmes in schools across Wales."
+   },
+   {
+    "type": "p",
+    "text": "Both parties highlighted the importance of the investment for narrowing attainment gaps and meeting statutory obligations for special educational provision. The agreement is expected to be presented to the Senedd for formal approval later this month."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The investment underscores the UK’s broader focus on inclusive education and illustrates how devolved governments negotiate funding when coalition dynamics shift."
+   }
+  ],
+  "key_points": [
+   "Welsh government and Labour secure £60 million for additional learning needs.",
+   "The funding comes after Plaid Cymru's budget proposal failed to pass in the summer.",
+   "The money will fund specialist staff, technology and targeted school programmes."
+  ],
+  "meta_description": "Welsh government and Labour strike a budget deal adding £60 million for children with extra learning needs after Plaid Cymru's plan stalled.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Wales",
+   "education funding",
+   "budget",
+   "Labour",
+   "Plaid Cymru",
+   "UK politics"
+  ],
+  "slug": "welsh-government-labour-agree-60m-boost-learning-needs-ebe61f",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:27Z"
+ },
+ {
+  "id": "bc39a03c2b972a70",
+  "source_url": "https://www.nytimes.com/2026/10/13/us/politics/home-insurance-extreme-weather-elections.html",
+  "source": "The New York Times",
+  "source_title": "The New Affordability Fight in the Midterms: Home Insurance Prices",
+  "source_summary": "Extreme weather is driving up insurance rates, impacting races from California to the nation’s central Tornado Alley.",
+  "source_tags": [
+   "Homeowners Insurance",
+   "Midterm Elections (2026)",
+   "Real Estate and Housing (Residential)",
+   "United States Politics and Government",
+   "Donalds, Byron (1978- )",
+   "Jolly, David",
+   "Sykes, Dinah (1977- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13nat-home-insurance-01-vtpg/13nat-home-insurance-01-vtpg-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T10:28:18+00:00",
+  "headline": "Rising Home Insurance Costs Fueled by Extreme Weather Shape Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Homeowners across the United States are seeing insurance premiums climb as extreme weather events become more frequent, a trend that is entering the political arena ahead of the midterm elections. In California, where wildfires have intensified, insurers are raising rates to cover higher loss payouts, prompting voters to scrutinize candidates’ climate and housing policies."
+   },
+   {
+    "type": "p",
+    "text": "The surge in premiums is also evident in the nation’s central Tornado Alley, where a series of severe storms have led insurers to tighten underwriting standards and increase costs for property owners. Campaigns in these swing regions are beginning to address the affordability of home insurance, positioning the issue as a key electoral battleground."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts note that the rising cost of protecting homes could become a decisive factor for voters who are already facing broader cost‑of‑living pressures, linking climate resilience directly to electoral outcomes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The link between climate‑driven insurance costs and election dynamics highlights how environmental challenges are reshaping policy debates in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Extreme weather is driving up home insurance rates in both California and Tornado Alley.",
+   "The rising cost of insurance is becoming a focal point in upcoming midterm races.",
+   "Candidates are increasingly forced to address climate‑related affordability issues."
+  ],
+  "meta_description": "Extreme weather raises home insurance rates, turning affordability into a pivotal issue in US midterm elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "home insurance",
+   "extreme weather",
+   "midterms",
+   "California",
+   "tornado alley",
+   "insurance rates"
+  ],
+  "slug": "rising-home-insurance-costs-fueled-extreme-weather-shape-midterms-bc39a0",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:43Z"
+ },
+ {
+  "id": "8a4bb6f6eacf9904",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o",
+  "source": "BBC News",
+  "source_title": "One dead and several hurt after rollercoaster incident at Six Flags",
+  "source_summary": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb02/live/12f052c0-c6c6-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-13T10:28:07+00:00",
+  "headline": "One Dead, Several Injured in Six Flags Rollercoaster Accident",
+  "body": [
+   {
+    "type": "p",
+    "text": "A rollercoaster at Six Flags amusement park became stuck, prompting emergency crews to evacuate riders. Aerial footage released after the incident shows staff assisting passengers as the train remained immobilised."
+   },
+   {
+    "type": "p",
+    "text": "Authorities confirmed that one person was pronounced dead at the scene while several others sustained injuries of varying severity. Emergency responders provided medical aid on site before transporting the injured to nearby hospitals."
+   },
+   {
+    "type": "p",
+    "text": "The park has not released details about the cause of the malfunction, and officials are conducting an investigation. Six Flags said it is cooperating with local authorities and will update the public as more information becomes available."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The accident highlights ongoing safety concerns for large amusement parks in the United States and Europe, prompting regulators to review ride inspection protocols."
+   }
+  ],
+  "key_points": [
+   "One fatality and multiple injuries were reported after a rollercoaster stalled at Six Flags.",
+   "Emergency crews evacuated riders and provided medical assistance on site.",
+   "An investigation into the cause of the incident is underway."
+  ],
+  "meta_description": "One person died and several were injured after a Six Flags rollercoaster stalled, prompting an investigation into ride safety.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rollercoaster",
+   "Six Flags",
+   "amusement park safety",
+   "accident",
+   "USA"
+  ],
+  "slug": "one-dead-several-injured-six-flags-rollercoaster-accident-8a4bb6",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:23Z"
+ },
+ {
+  "id": "3b90f566a3b288e6",
+  "source_url": "https://www.dw.com/en/bulgaria-condemns-black-sea-drone-attacks-as-russia-s-war-in-ukraine-spills-over-into-eastern-europe/a-79648001?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Bulgaria condemns Black Sea drone attacks as Russia's war in Ukraine spills over into Eastern Europe",
+  "source_summary": "Bulgaria has seen the second spate of drone attacks on merchant ships off its coast in the past week. Russia has been accused of repeatedly targeting civilian cargo ships in the area.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-13T10:15:00+00:00",
+  "headline": "Bulgaria Condemns Recent Black Sea Drone Strikes on Merchant Vessels",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bulgaria has denounced a second series of drone attacks on merchant ships near its Black Sea coast within a week, calling the incidents a dangerous escalation."
+   },
+   {
+    "type": "p",
+    "text": "The attacks have been attributed to Russia, which is accused of repeatedly targeting civilian cargo vessels operating in the region. Bulgarian officials warned that the strikes threaten the safety of commercial navigation and could destabilize the broader Black Sea trade routes."
+   },
+   {
+    "type": "p",
+    "text": "The government urged the international community to hold the perpetrators accountable and to reinforce security measures to protect maritime traffic in the area."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attacks threaten vital trade routes that supply European markets, highlighting the spillover of the Ukraine conflict into neighboring waters."
+   }
+  ],
+  "key_points": [
+   "Bulgaria condemned a second wave of drone attacks on merchant ships in the Black Sea within a week.",
+   "Russia is accused of repeatedly targeting civilian cargo vessels in the region.",
+   "The incidents raise concerns about the safety of commercial navigation in the Black Sea."
+  ],
+  "meta_description": "Bulgaria condemns a second spate of drone attacks on Black Sea merchant ships, accusing Russia of targeting civilian cargo vessels.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Black Sea",
+   "drone attacks",
+   "Bulgaria",
+   "Russia",
+   "maritime security",
+   "cargo ships"
+  ],
+  "slug": "bulgaria-condemns-recent-black-sea-drone-strikes-merchant-vessels-3b90f5",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:38Z"
+ },
+ {
+  "id": "852a27ea926bacc9",
+  "source_url": "https://www.cnbc.com/2026/10/13/unitedhealth-group-unh-earnings-q3-2026.html",
+  "source": "CNBC",
+  "source_title": "UnitedHealth Group tops estimates, hikes profit outlook as insurer manages high medical costs",
+  "source_summary": "UnitedHealth Group said it expects 2026 adjusted earnings of at least $20.50 per share, up from a previous outlook of $19.50 to $20.00 per share.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-13T10:01:37+00:00",
+  "headline": "UnitedHealth Raises 2026 Earnings Forecast to $20.50 Per Share",
+  "body": [
+   {
+    "type": "p",
+    "text": "UnitedHealth Group announced that it now expects adjusted earnings of at least $20.50 per share for 2026. The new target moves the outlook above the prior range of $19.50 to $20.00 per share."
+   },
+   {
+    "type": "p",
+    "text": "The company said the revision reflects its ability to manage high medical costs while maintaining revenue growth. Analysts had previously projected earnings within the lower range, but UnitedHealth’s latest guidance suggests stronger profitability than anticipated."
+   },
+   {
+    "type": "p",
+    "text": "UnitedHealth also reported that its recent quarterly results topped market estimates, reinforcing confidence in its operational strategy. The firm highlighted continued focus on cost control and efficiency improvements across its health insurance and services divisions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The raised earnings outlook signals stronger profitability for a major U.S. health insurer, influencing investor sentiment and potentially affecting healthcare costs and market dynamics in North America and Europe."
+   }
+  ],
+  "key_points": [
+   "UnitedHealth now forecasts 2026 adjusted earnings of at least $20.50 per share.",
+   "The outlook is higher than the earlier $19.50‑$20.00 per share range.",
+   "Quarterly results exceeded analyst estimates, supporting the upgraded guidance."
+  ],
+  "meta_description": "UnitedHealth lifts its 2026 earnings forecast to at least $20.50 per share, up from $19.50‑$20.00, after beating profit estimates.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UnitedHealth",
+   "earnings",
+   "profit outlook",
+   "healthcare",
+   "stocks"
+  ],
+  "slug": "unitedhealth-raises-2026-earnings-forecast-20-50-per-share-852a27",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:11Z"
+ },
+ {
+  "id": "6d0cff5dc703ceec",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cqe8lg3xpmr3o",
+  "source": "BBC Sport",
+  "source_title": "Bethell returns as England call up youngsters Jack and Rew",
+  "source_summary": "Jacob Bethell will return for England's white-ball tour of Australia, while there are also first international call-ups for exciting prospects Thomas Rew and Eddie Jack.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/770c/live/9137dcc0-c6df-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-13T10:00:26+00:00",
+  "headline": "Jacob Bethell Returns as England Names Jack and Rew for Australia Tour",
+  "body": [
+   {
+    "type": "p",
+    "text": "England's white‑ball squad for the upcoming tour of Australia has been announced, with all‑rounder Jacob Bethell rejoining the side after a period out of the lineup. The selection also includes first‑time internationals Thomas Rew and Eddie Jack, both highlighted as promising young talents."
+   },
+   {
+    "type": "p",
+    "text": "Bethell's recall signals the selectors' confidence in his abilities ahead of the high‑profile series against the hosts. Rew and Jack, meanwhile, receive their inaugural caps, marking a significant step in their cricketing careers and adding fresh options to the England roster."
+   },
+   {
+    "type": "p",
+    "text": "The squad's composition reflects a blend of experience and youth as England prepares for the challenges of playing in Australian conditions, a key factor in the team's strategic planning for the series."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The tour is a major event in the international cricket calendar, and England's squad choices could influence the competitive balance against a strong Australian side."
+   }
+  ],
+  "key_points": [
+   "Jacob Bethell is back in England's white‑ball squad for the Australia tour.",
+   "Thomas Rew and Eddie Jack earn their first international call‑ups.",
+   "The selection mixes seasoned players with emerging talent for the series."
+  ],
+  "meta_description": "Jacob Bethell returns to England's white‑ball squad as newcomers Thomas Rew and Eddie Jack earn first caps for the Australia tour.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cricket",
+   "England",
+   "Australia tour",
+   "Jacob Bethell",
+   "Thomas Rew",
+   "Eddie Jack"
+  ],
+  "slug": "jacob-bethell-returns-england-names-jack-rew-australia-tour-6d0cff",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:15Z"
+ },
+ {
+  "id": "f2a486ee3c43b90d",
+  "source_url": "https://www.nytimes.com/2026/10/13/business/technology-stocks-ai-nasdaq.html",
+  "source": "The New York Times",
+  "source_title": "Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition",
+  "source_summary": "South Korean stocks tumbled in particular, as reports of a breakthrough by a Chinese chip rival heightened concerns about competition.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "Oil (Petroleum) and Gasoline",
+   "Prices (Fares, Fees and Rates)",
+   "Stocks and Bonds",
+   "Standard & Poor's 500-Stock Index",
+   "Iran",
+   "South Korea"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-oil-stocks-bfvw/13biz-oil-stocks-bfvw-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T09:55:10+00:00",
+  "headline": "Chip Stocks Slide as AI Spending Worries and Chinese Rivalry Rise",
+  "body": [
+   {
+    "type": "p",
+    "text": "Global chip equities fell sharply on Tuesday after analysts highlighted growing concerns over artificial‑intelligence spending and the emergence of a new Chinese competitor. The sell‑off was led by South Korean shares, which dropped the most among major markets."
+   },
+   {
+    "type": "p",
+    "text": "Investors reacted to reports that a Chinese chipmaker announced a breakthrough that could challenge established players in high‑performance computing. The news intensified fears that China’s rapid advances may erode the market share of firms in the United States, South Korea and Taiwan."
+   },
+   {
+    "type": "p",
+    "text": "The broader technology sector also felt the pressure, with several U.S. and European chip manufacturers seeing their stock prices dip as market participants reassess growth forecasts amid the heightened competitive landscape."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The slump signals potential volatility for investors in North America and Europe who hold stakes in semiconductor firms, as Chinese advances could reshape global supply chains."
+   }
+  ],
+  "key_points": [
+   "Chip stocks fell sharply, driven by AI spending concerns and a reported Chinese breakthrough.",
+   "South Korean chip shares led the decline, reflecting heightened competition worries.",
+   "The news prompted a broader tech sell‑off, affecting U.S. and European chip makers."
+  ],
+  "meta_description": "Chip stocks tumble amid AI spending fears and a reported Chinese breakthrough, with South Korean shares hit hardest.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "chip",
+   "AI",
+   "China",
+   "South Korea",
+   "stocks",
+   "competition"
+  ],
+  "slug": "chip-stocks-slide-ai-spending-worries-chinese-rivalry-rise-f2a486",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:31Z"
+ },
+ {
+  "id": "01358d2d6eea81d3",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo",
+  "source": "BBC News",
+  "source_title": "Poundland in rescue talks as owners seek buyer",
+  "source_summary": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+  "published": "2026-10-13T09:52:13+00:00",
+  "headline": "Poundland Owners Explore Buyout as Union Warns of Administration Risk",
+  "body": [
+   {
+    "type": "p",
+    "text": "The leadership team of discount retailer Poundland is currently negotiating a management buyout as the company’s owners look for a new buyer. The effort aims to keep the chain operational and preserve its extensive network of stores across the United Kingdom."
+   },
+   {
+    "type": "p",
+    "text": "However, the Union of Shop, Distributive and Allied Workers has cautioned that without a successful sale, Poundland could slip into administration, potentially jeopardising thousands of jobs and the availability of low‑price goods for consumers."
+   },
+   {
+    "type": "p",
+    "text": "The talks come amid a broader period of uncertainty for value‑focused retailers, with the outcome expected to influence both the company’s future strategy and the competitive landscape of the UK discount market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The potential collapse of Poundland would affect UK shoppers who rely on low‑cost products and could lead to significant job losses in the retail sector."
+   }
+  ],
+  "key_points": [
+   "Poundland’s leadership is pursuing a buyout while owners search for a buyer.",
+   "A union warns the retailer could enter administration if a deal is not reached."
+  ],
+  "meta_description": "Poundland’s leadership seeks a buyout as owners hunt for a buyer, with a union warning the chain could face administration.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Poundland",
+   "retail",
+   "buyout",
+   "administration",
+   "union",
+   "UK"
+  ],
+  "slug": "poundland-owners-explore-buyout-union-warns-administration-risk-01358d",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:47Z"
+ },
+ {
+  "id": "d9dde253e482cbcb",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/c875pdrq4rx4o",
+  "source": "BBC Sport",
+  "source_title": "Boulter beaten by Shnaider in Wuhan",
+  "source_summary": "British number one Katie Boulter loses to Diana Shnaider in the Wuhan Open first round.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86be/live/e66c3b30-c6e1-11f1-bf38-57dc5cd42af2.jpg",
+  "published": "2026-10-13T09:49:04+00:00",
+  "headline": "Katie Boulter Falls to Diana Shnaider in Wuhan Open First Round",
+  "body": [
+   {
+    "type": "p",
+    "text": "British world number one Katie Boulter saw her campaign at the Wuhan Open come to an abrupt end, exiting the tournament after just one match. The first‑round encounter was her only appearance in the Chinese event this week."
+   },
+   {
+    "type": "p",
+    "text": "In the match, Boulter was outplayed by Russia's Diana Shnaider, who secured the victory and moved on to the second round. Shnaider's performance allowed her to continue her run in the WTA 1000 competition."
+   },
+   {
+    "type": "p",
+    "text": "Boulter's early departure means she will not add any further points to her ranking from Wuhan, while Shnaider gains momentum as the tournament progresses."
+   }
+  ],
+  "key_points": [
+   "British No.1 Katie Boulter was eliminated in the first round of the Wuhan Open.",
+   "Diana Shnaider advanced after defeating Boulter."
+  ],
+  "meta_description": "British No.1 Katie Boulter was beaten by Diana Shnaider in the first round of the Wuhan Open.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tennis",
+   "Wuhan Open",
+   "Katie Boulter",
+   "Diana Shnaider",
+   "WTA"
+  ],
+  "slug": "katie-boulter-falls-diana-shnaider-wuhan-open-first-round-d9dde2",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:35Z"
+ },
+ {
+  "id": "08f07a5f3ca00a27",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko",
+  "source": "BBC News",
+  "source_title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+  "source_summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca77/live/ea185dd0-c6e2-11f1-bf38-57dc5cd42af2.jpg",
+  "published": "2026-10-13T09:34:43+00:00",
+  "headline": "TFG London Apologizes After Cyberattack Hits Phase Eight, Hobbs",
+  "body": [
+   {
+    "type": "p",
+    "text": "British fashion group TFG London confirmed that a cybersecurity incident disrupted its Phase Eight and Hobbs brands on Sunday. The company issued an apology to customers, acknowledging the breach and stating that it was working to restore services and secure its systems."
+   },
+   {
+    "type": "p",
+    "text": "Separately, the retailer H&M said it was investigating a different hacking claim, though details were not disclosed. Both incidents highlight the growing vulnerability of global clothing retailers to cyber threats, prompting heightened scrutiny of data protection measures across the industry."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Retail cyber‑attacks can expose consumer data and disrupt supply chains, affecting shoppers and investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "TFG London suffered a cyberattack that affected its Phase Eight and Hobbs stores.",
+   "The company apologized to customers and is addressing the security breach.",
+   "H&M is also probing a separate hacking allegation."
+  ],
+  "meta_description": "TFG London apologizes after a cyberattack hits Phase Eight and Hobbs, while H&M investigates a separate hack claim.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cyberattack",
+   "retail",
+   "data security",
+   "TFG",
+   "Phase Eight",
+   "Hobbs"
+  ],
+  "slug": "tfg-london-apologizes-after-cyberattack-hits-phase-eight-hobbs-08f07a",
+  "reading_minutes": 1,
+  "added": "2026-10-13T11:01:19Z"
+ },
+ {
   "id": "5e1ab64fe93602eb",
   "source_url": "https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html",
   "source": "The New York Times",
