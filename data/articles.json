@@ -1,5 +1,676 @@
 [
  {
+  "id": "0c6c7d3439312c97",
+  "source_url": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
+  "source": "The New York Times",
+  "source_title": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
+  "source_summary": "The S&P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months.",
+  "source_tags": [
+   "Stocks and Bonds",
+   "Standard & Poor's 500-Stock Index",
+   "Inflation (Economics)",
+   "Artificial Intelligence",
+   "Company Reports",
+   "United States Economy",
+   "Seagate Technology PLC"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-14T21:30:57+00:00",
+  "headline": "S&P 500 Slides 1.1% Amid Inflation Fears and AI Spending",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. equities slipped on Wednesday as the S&P 500 posted a 1.1 percent decline, marking its sharpest fall in more than two months. The drop reflected growing investor anxiety over persistent inflation pressures and the pace of corporate spending on artificial‑intelligence projects."
+   },
+   {
+    "type": "p",
+    "text": "Analysts said the market is weighing the risk that higher‑than‑expected price growth could force the Federal Reserve to keep interest rates elevated, while also questioning whether the surge in AI‑related capital outlays will deliver near‑term earnings benefits. The combined uncertainty prompted a broad sell‑off across technology and consumer‑discretionary stocks."
+   },
+   {
+    "type": "p",
+    "text": "Despite the dip, other major indexes held relatively steady, and some investors viewed the pullback as a potential buying opportunity if inflation data eases and AI investments begin to show tangible returns."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decline signals heightened risk for investors in both the U.S. and Europe as inflation and AI spending could shape corporate profits and monetary policy."
+   }
+  ],
+  "key_points": [
+   "The S&P 500 fell 1.1% on Wednesday, its steepest slide in over two months.",
+   "Inflation concerns and heavy AI spending by companies are driving market nervousness.",
+   "Analysts warn that sustained price pressures could keep rates high, affecting earnings outlooks."
+  ],
+  "meta_description": "S&P 500 drops 1.1% amid inflation worries and AI investment concerns, the biggest fall in over two months.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "stocks",
+   "inflation",
+   "artificial intelligence",
+   "markets",
+   "S&P 500"
+  ],
+  "slug": "s-p-500-slides-1-1-amid-inflation-fears-0c6c7d",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:17Z"
+ },
+ {
+  "id": "bd61b92171acdf66",
+  "source_url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+  "source": "TechCrunch",
+  "source_title": "Flock CEO says its microphones detect ‘just gunshots.’ Its website says different",
+  "source_summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+  "source_tags": [
+   "AI",
+   "Security",
+   "Flock"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-14T21:30:33+00:00",
+  "headline": "Flock CEO Claims Mics Detect Only Gunshots Amid Privacy Scrutiny",
+  "body": [
+   {
+    "type": "p",
+    "text": "Flock's chief executive, Langley, asserted that the company's audio sensors are designed to recognize solely gunshot sounds. The statement was made as the firm faces growing criticism from privacy groups, including the ACLU, over the potential for broader surveillance capabilities."
+   },
+   {
+    "type": "p",
+    "text": "Advocates and members of the public have raised concerns that the technology could be misused beyond its stated purpose. The company's website, however, presents a different description of the microphones' functions, prompting further debate about transparency and accountability."
+   },
+   {
+    "type": "p",
+    "text": "The controversy highlights ongoing tensions between emerging security technologies and civil liberties, with regulators and watchdogs monitoring how such tools are deployed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute underscores the balance between public safety tools and privacy rights, a concern for both US and European audiences."
+   }
+  ],
+  "key_points": [
+   "Flock CEO says its microphones are limited to detecting gunshots.",
+   "Privacy advocates, including the ACLU, question the technology's broader surveillance potential.",
+   "The company's website description of the microphones differs from the CEO's claim."
+  ],
+  "meta_description": "Flock CEO claims its mics detect only gunshots, but privacy groups cite website details suggesting broader use.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "surveillance",
+   "privacy",
+   "audio detection",
+   "ACLU",
+   "security technology"
+  ],
+  "slug": "flock-ceo-claims-mics-detect-only-gunshots-amid-privacy-bd61b9",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:20Z"
+ },
+ {
+  "id": "02a2946a4f918cc8",
+  "source_url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o",
+  "source": "BBC News",
+  "source_title": "UK threatens to ban Eritreans over migrant return policy",
+  "source_summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935c/live/1c24f8c0-22eb-11f1-abe1-05da6de99c2b.png",
+  "published": "2026-10-14T21:30:13+00:00",
+  "headline": "UK Threatens Ban on Eritrean Migrants Over Return Policy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Britain's Home Secretary warned that the government would act against countries that do not cooperate on migrant returns, specifically targeting Eritrea. The statement came as the UK considered imposing a ban on Eritrean nationals entering the country in response to disputes over the handling of asylum seekers."
+   },
+   {
+    "type": "p",
+    "text": "The Home Secretary said she would not hesitate to take measures against any state that refuses to work with British authorities on return arrangements. While no specific timeline or legal mechanism was detailed, the threat signals a hardening stance on migration enforcement."
+   },
+   {
+    "type": "p",
+    "text": "Eritrea has been a focal point in recent debates over forced returns and human‑rights concerns. The UK's position may affect diplomatic ties and could influence broader European discussions on migration policy and cooperation with countries of origin."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move could reshape UK‑Eritrea relations and adds pressure on European partners to align on migration return policies."
+   }
+  ],
+  "key_points": [
+   "The UK Home Secretary warned of a possible ban on Eritrean migrants if Eritrea does not cooperate on return arrangements.",
+   "No concrete steps have been announced, but the threat reflects a tougher UK stance on migration enforcement."
+  ],
+  "meta_description": "UK Home Secretary threatens a ban on Eritrean migrants over non‑cooperation on return policy, signalling a tougher stance on migration.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "Eritrea",
+   "migration",
+   "asylum",
+   "foreign policy"
+  ],
+  "slug": "uk-threatens-ban-eritrean-migrants-over-return-policy-02a294",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:25Z"
+ },
+ {
+  "id": "c05eaf35181561b6",
+  "source_url": "https://www.nytimes.com/2026/10/14/business/energy-environment/trump-russia-diesel-prices.html",
+  "source": "The New York Times",
+  "source_title": "Why Trump’s Russian Diesel Deal Is Unlikely to Lower Fuel Costs",
+  "source_summary": "President Trump’s deal with Russia will probably not lower diesel prices that have soared because of his war with Iran and Ukrainian attacks on Russian refineries.",
+  "source_tags": [
+   "Oil (Petroleum) and Gasoline",
+   "US and Israeli Attack on Iran (2026)",
+   "United States Politics and Government",
+   "Prices (Fares, Fees and Rates)",
+   "Diesel Power",
+   "Russian Invasion of Ukraine (2022)",
+   "International Trade and World Market",
+   "United States International Relations",
+   "Embargoes and Sanctions",
+   "Refineries"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/2026-oct-biz-promos-russia-diesel/2026-oct-biz-promos-russia-diesel-mediumSquareAt3X-v5.png",
+  "published": "2026-10-14T21:25:25+00:00",
+  "headline": "Trump’s Russia Diesel Deal Unlikely to Cut Soaring Fuel Prices",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump has negotiated a diesel supply agreement with Russia, but analysts say the pact is unlikely to ease the steep rise in diesel costs that consumers are feeling at the pump."
+   },
+   {
+    "type": "p",
+    "text": "The price surge stems from two major disruptions: the United States’ ongoing conflict with Iran and recent Ukrainian strikes on Russian refineries, which have tightened global fuel supplies. Even with additional Russian diesel entering the market, the underlying supply constraints remain, limiting any potential price relief."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that while the deal may secure a steady flow of diesel for American markets, it does not address the broader geopolitical factors driving the current price environment. As a result, motorists can expect diesel prices to stay elevated in the near term."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher diesel prices affect transportation costs and consumer spending across the United States and Europe, influencing inflation and economic stability."
+   }
+  ],
+  "key_points": [
+   "Trump’s diesel agreement with Russia will not significantly lower current diesel prices.",
+   "Fuel costs have risen due to the U.S. war with Iran and Ukrainian attacks on Russian refineries.",
+   "The deal secures supply but does not resolve the geopolitical supply disruptions."
+  ],
+  "meta_description": "Trump's diesel deal with Russia is unlikely to lower soaring fuel prices amid Iran war and Ukrainian refinery attacks.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "diesel",
+   "Russia",
+   "Trump",
+   "fuel prices",
+   "energy policy"
+  ],
+  "slug": "trumps-russia-diesel-deal-unlikely-cut-soaring-fuel-prices-c05eaf",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:36Z"
+ },
+ {
+  "id": "39c98c27cbb2fe98",
+  "source_url": "https://www.nytimes.com/2026/10/14/business/pierre-buyer-lutnick.html",
+  "source": "The New York Times",
+  "source_title": "Battle Over the Pierre Ends in Defeat for the Buyer Pushed by Lutnick",
+  "source_summary": "Motasem Khashoggi, who hails from a prominent Saudi family, missed a Tuesday deadline to deliver a $100 million deposit to purchase the Manhattan landmark.",
+  "source_tags": [
+   "Hotels and Travel Lodgings",
+   "Real Estate (Commercial)",
+   "Restoration and Renovation",
+   "Cantor Fitzgerald LP",
+   "Dorchester Collection",
+   "Newmark Group Inc",
+   "Lutnick, Howard W",
+   "Fifth Avenue (Manhattan, NY)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-Pierre-Deal-lthg/14biz-Pierre-Deal-lthg-mediumSquareAt3X.jpg",
+  "published": "2026-10-14T21:23:45+00:00",
+  "headline": "Buyer Misses $100 Million Deposit Deadline for Manhattan Landmark",
+  "body": [
+   {
+    "type": "p",
+    "text": "Motasem Khashoggi, a member of a prominent Saudi family, failed to meet a Tuesday deadline to provide a $100 million deposit required to purchase the historic Pierre hotel in Manhattan. The missed deadline marks a setback for the deal that had been driven by IAC founder Joey Lutnick, who was pushing the transaction forward."
+   },
+   {
+    "type": "p",
+    "text": "The Pierre, an iconic New York property, has been the focus of intense negotiations, with Khashoggi positioned as the prospective buyer. The inability to deliver the deposit has halted progress on the sale, leaving the future ownership of the landmark uncertain."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the collapse of the deposit arrangement could have broader implications for high‑value real‑estate transactions involving foreign investors, especially amid heightened scrutiny of large capital flows into U.S. assets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the challenges foreign investors face in completing large U.S. real‑estate deals, a topic of interest for investors and policymakers in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Motasem Khashoggi missed the deadline to submit a $100 million deposit for the Pierre hotel.",
+   "The failed payment stalls the proposed purchase of the Manhattan landmark.",
+   "The deal was being advanced by IAC founder Joey Lutnick."
+  ],
+  "meta_description": "Motasem Khashoggi missed a $100 million deposit deadline, halting his bid for Manhattan's Pierre hotel.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "real estate",
+   "Manhattan",
+   "foreign investment",
+   "Pierre hotel",
+   "Motasem Khashoggi",
+   "Joey Lutnick"
+  ],
+  "slug": "buyer-misses-100-million-deposit-deadline-manhattan-landmark-39c98c",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:48Z"
+ },
+ {
+  "id": "302eb66baab90835",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po",
+  "source": "BBC Sport",
+  "source_title": "Man City show fight but fall short of fightback against slick PSG",
+  "source_summary": "Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League, after beating Manchester City 4-2 at the Etihad Stadium",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91b/live/8bd7b720-c813-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-14T21:19:45+00:00",
+  "headline": "Paris Saint-Germain Defeat Manchester City 4-2 to Stay Perfect in Champions League",
+  "body": [
+   {
+    "type": "p",
+    "text": "Paris Saint-Germain continued their flawless start to the Champions League campaign with a 4-2 victory over Manchester City at the Etihad Stadium. The French side, defending champions of the competition, displayed slick attacking play that proved decisive against the English hosts."
+   },
+   {
+    "type": "p",
+    "text": "Manchester City showed resilience and managed to score twice, but PSG's offensive firepower proved too much. The win marks PSG's second triumph in as many matches this season, keeping them unbeaten in the tournament."
+   },
+   {
+    "type": "p",
+    "text": "The result leaves City needing to regroup as they aim to stay in contention for the title, while PSG look to build on their momentum heading into the next round of the competition."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The match highlights PSG's strong form as defending champions and sets up a potential clash with other European powerhouses, influencing the dynamics of the tournament for clubs and fans across the continent."
+   }
+  ],
+  "key_points": [
+   "Paris Saint-Germain beat Manchester City 4-2 at the Etihad Stadium.",
+   "The win gives PSG two victories from two matches in this season's Champions League.",
+   "Manchester City fought back but fell short despite scoring twice."
+  ],
+  "meta_description": "Paris Saint-Germain beat Manchester City 4-2 at the Etihad, staying unbeaten with two wins in this season's Champions League.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Champions League",
+   "Paris Saint-Germain",
+   "Manchester City",
+   "football",
+   "European soccer"
+  ],
+  "slug": "paris-saint-germain-defeat-manchester-city-4-2-stay-302eb6",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:28Z"
+ },
+ {
+  "id": "88ac6d1c3f06222f",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+  "source": "The Verge",
+  "source_title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+  "source_summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
+  "source_tags": [
+   "AI",
+   "News",
+   "OpenAI",
+   "Policy"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-14T21:11:28+00:00",
+  "headline": "Eight US States Sue OpenAI Over Child Safety in ChatGPT",
+  "body": [
+   {
+    "type": "p",
+    "text": "Eight state attorneys general – Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana – have filed separate lawsuits against OpenAI, alleging that the company’s ChatGPT poses risks to children and that the firm misled users about the tool’s safety. The suits claim OpenAI prioritized profit over protecting young users, violating consumer‑protection laws."
+   },
+   {
+    "type": "p",
+    "text": "The lawsuits, first reported by Reuters, accuse OpenAI of failing to implement adequate safeguards, such as age‑verification mechanisms and content filters, that would prevent minors from accessing potentially harmful material. Plaintiffs also contend that marketing materials overstated the platform’s safety features, thereby misleading parents and guardians."
+   },
+   {
+    "type": "p",
+    "text": "OpenAI has not yet responded publicly to the filings. The legal actions come amid growing scrutiny of generative‑AI applications and could prompt broader regulatory measures aimed at ensuring AI products are safe for younger audiences."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The suits highlight rising concerns about AI’s impact on minors and could influence future consumer‑protection policies in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Eight US states allege OpenAI put profit before child safety in ChatGPT.",
+   "The lawsuits claim inadequate age controls and misleading safety claims.",
+   "OpenAI has not commented, and the cases may spur wider AI regulation."
+  ],
+  "meta_description": "Eight US states sue OpenAI, saying ChatGPT endangers children and misleads about safety, sparking potential regulatory action.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "ChatGPT",
+   "lawsuits",
+   "child safety",
+   "US states"
+  ],
+  "slug": "eight-us-states-sue-openai-over-child-safety-chatgpt-88ac6d",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:41Z"
+ },
+ {
+  "id": "87d6fd3997460f14",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c68jzlwpk01zo",
+  "source": "BBC Sport",
+  "source_title": "Barcola shines as Liverpool score six to beat LASK",
+  "source_summary": "Bradley Barcola scores a hat-trick as Liverpool beat LASK 6-3 in Austria to make it two wins from two in the league phase of this season's Champions League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d506/live/673a4720-c7fa-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-14T21:00:24+00:00",
+  "headline": "Barcola Hat‑Trick Powers Liverpool to 6‑3 Champions League Win",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bradley Barcola delivered a standout performance in Austria, netting three goals as Liverpool defeated LASK 6-3. The French forward's hat‑trick was the highlight of a high‑scoring encounter that saw both sides find the net multiple times."
+   },
+   {
+    "type": "p",
+    "text": "Liverpool's attacking display was complemented by contributions from several teammates, allowing the English club to secure a comfortable victory on foreign soil. The win marks Liverpool's second consecutive triumph in the group phase of this season's Champions League."
+   },
+   {
+    "type": "p",
+    "text": "LASK, despite scoring three goals, could not match Liverpool's relentless offense. The result reinforces Liverpool's early momentum in the competition and showcases Barcola's emerging role in the squad."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Liverpool's strong start improves their chances of advancing in the Champions League, a key competition for European clubs."
+   }
+  ],
+  "key_points": [
+   "Bradley Barcola scored a hat‑trick as Liverpool beat LASK 6-3 in Austria.",
+   "The victory gives Liverpool two wins from two matches in the Champions League group stage."
+  ],
+  "meta_description": "Barcola's hat‑trick leads Liverpool to a 6-3 Champions League win over LASK, marking two straight victories in the group stage.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "LASK",
+   "Champions League",
+   "Barcola",
+   "hat-trick"
+  ],
+  "slug": "barcola-hattrick-powers-liverpool-63-champions-league-win-87d6fd",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:45Z"
+ },
+ {
+  "id": "13af8901117402e5",
+  "source_url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+  "source": "TechCrunch",
+  "source_title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+  "source_summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+  "source_tags": [
+   "Biotech & Health",
+   "Startups",
+   "AI",
+   "Colossal Biosciences"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-14T21:00:00+00:00",
+  "headline": "Colossal Biosciences Unveils AI Platform to Speed De‑Extinction Projects",
+  "body": [
+   {
+    "type": "p",
+    "text": "Colossal Biosciences announced the launch of an artificial‑intelligence platform designed to accelerate its de‑extinction research, aiming to streamline the reconstruction of extinct species' genomes and improve breeding strategies."
+   },
+   {
+    "type": "p",
+    "text": "The company highlighted that the platform will provide tools for data analysis, gene editing simulation, and project management, allowing scientists to move more quickly from laboratory work to field trials."
+   },
+   {
+    "type": "p",
+    "text": "Entrepreneur Peter Diamandis introduced a new investment fund that will back startups leveraging Colossal’s AI system, signaling growing financial interest in technologies that could revive lost wildlife."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The development could reshape conservation strategies and create new biotech market opportunities in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Colossal Biosciences released an AI platform to hasten de‑extinction research.",
+   "Peter Diamandis launched a fund to support startups using the new platform.",
+   "The initiative combines biotech and AI to potentially bring extinct species back."
+  ],
+  "meta_description": "Colossal Biosciences launches an AI platform to speed de‑extinction work, backed by a new fund from Peter Diamandis for related startups.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "de‑extinction",
+   "artificial intelligence",
+   "biotech",
+   "venture funding",
+   "conservation"
+  ],
+  "slug": "colossal-biosciences-unveils-ai-platform-speed-deextinction-projects-13af89",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:52Z"
+ },
+ {
+  "id": "223e4b33c31ff3e1",
+  "source_url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo",
+  "source": "BBC News",
+  "source_title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+  "source_summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a29b/live/2b9027f0-c807-11f1-aff0-65f8bbf884f7.jpg",
+  "published": "2026-10-14T20:55:24+00:00",
+  "headline": "Musk Says US Sets Limits on Ukraine Starlink Access, Not Elon",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukraine has reported that while overall Starlink connectivity has improved, the service continues to operate under speed caps that hamper military communications on the front lines. The restrictions have forced Ukrainian units to adjust their battlefield missions and seek workarounds for slower data rates."
+   },
+   {
+    "type": "p",
+    "text": "Elon Musk responded to the complaints by stating that any limits on the satellite broadband are imposed by the United States government, not by his company. He emphasized that SpaceX provides the infrastructure, but policy decisions about usage are made by U.S. authorities."
+   },
+   {
+    "type": "p",
+    "text": "The clarification comes amid ongoing discussions about the role of private technology firms in supporting Ukraine’s defence efforts. Both Ukrainian officials and Western allies have highlighted the importance of unrestricted high‑speed internet for command, control and intelligence operations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reliable high‑speed internet is critical for Ukraine’s military operations, and U.S. policy decisions on Starlink access have direct implications for NATO allies and European security."
+   }
+  ],
+  "key_points": [
+   "Ukraine says Starlink speed caps are still disrupting military missions.",
+   "Elon Musk attributes the limits to U.S. government policy, not SpaceX.",
+   "Unrestricted broadband is considered vital for Ukraine’s defence coordination."
+  ],
+  "meta_description": "Elon Musk says U.S. policy, not SpaceX, limits Ukraine's Starlink speed, affecting military communications.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Starlink",
+   "Elon Musk",
+   "US policy",
+   "defence communications",
+   "satellite internet"
+  ],
+  "slug": "musk-says-us-sets-limits-ukraine-starlink-access-not-223e4b",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:33Z"
+ },
+ {
+  "id": "10e570a46106647e",
+  "source_url": "https://www.bbc.co.uk/sport/golf/articles/cmpwg7dx0q71o",
+  "source": "BBC Sport",
+  "source_title": "LIV accuses DP World Tour of player 'interference'",
+  "source_summary": "LIV Golf accuses the DP World Tour of a \"clear attempt to interfere\" with its restructuring process, after the European tour said it would refuse membership to anyone playing on the breakaway LIV circuit next season.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c97/live/248414a0-c80a-11f1-aff0-65f8bbf884f7.jpg",
+  "published": "2026-10-14T20:54:43+00:00",
+  "headline": "LIV Golf Says DP World Tour Trying to Block Its Restructuring",
+  "body": [
+   {
+    "type": "p",
+    "text": "LIV Golf has lodged a formal complaint, accusing the DP World Tour of a \"clear attempt to interfere\" with its ongoing restructuring efforts. The claim follows the European tour's announcement that it will deny membership to any player who competes on the LIV circuit in the upcoming season."
+   },
+   {
+    "type": "p",
+    "text": "The DP World Tour said the policy is intended to protect the integrity of its competition and to ensure that players are fully committed to its schedule. LIV Golf, which has been seeking to integrate its events into the broader professional golf calendar, views the move as a direct challenge to its plans to attract top talent and secure sponsorship."
+   },
+   {
+    "type": "p",
+    "text": "Both organisations have been locked in a broader dispute over player eligibility, tournament rights and the future shape of professional golf. The standoff highlights the growing tension between the breakaway LIV circuit and the established tours that dominate the sport worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash could reshape tournament fields and sponsorship deals, affecting fans and broadcasters in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "LIV Golf alleges the DP World Tour is deliberately obstructing its restructuring plans.",
+   "The DP World Tour will bar players who join LIV Golf from its membership next season.",
+   "The dispute underscores a widening split in professional golf over governance and player participation."
+  ],
+  "meta_description": "LIV Golf accuses DP World Tour of interfering with its restructuring after the tour said it will refuse membership to LIV players next season.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "LIV Golf",
+   "DP World Tour",
+   "golf",
+   "sports governance",
+   "player eligibility"
+  ],
+  "slug": "liv-golf-says-dp-world-tour-trying-block-its-10e570",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:35:57Z"
+ },
+ {
+  "id": "cd5f943744bf071e",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o",
+  "source": "BBC News",
+  "source_title": "Student protesters attack government buildings in Tirana",
+  "source_summary": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4571/live/704a3630-c7f6-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-14T20:29:05+00:00",
+  "headline": "Albanian Student Protests Ignite Buildings Over University Demands",
+  "body": [
+   {
+    "type": "p",
+    "text": "Thousands of university students gathered in Tirana this week to demand improvements to campus conditions and stronger job prospects after graduation. Demonstrators marched to several government offices, chanting slogans that called for higher education reform and greater employment opportunities for young Albanians."
+   },
+   {
+    "type": "p",
+    "text": "The protests turned violent when some participants set fire to parts of government buildings, causing significant damage and prompting a police response. Authorities reported several arrests and warned that further unrest could be met with stricter security measures."
+   },
+   {
+    "type": "p",
+    "text": "Student leaders said the unrest reflects deep frustration with what they describe as underfunded universities and a lack of clear pathways into the labour market. They urged the government to engage in dialogue and to implement concrete policy changes to address the crisis."
+   }
+  ],
+  "key_points": [
+   "Thousands of Albanian students protested in Tirana demanding better university conditions and job prospects.",
+   "Some protesters set fire to government buildings, leading to arrests and heightened security.",
+   "Student groups say the unrest signals widespread dissatisfaction with higher‑education funding and employment opportunities."
+  ],
+  "meta_description": "Thousands of Albanian students protest in Tirana, demanding university reforms and job prospects, with some setting fire to government buildings.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Albania",
+   "student protests",
+   "education",
+   "Tirana",
+   "unrest",
+   "jobs"
+  ],
+  "slug": "albanian-student-protests-ignite-buildings-over-university-demands-cd5f94",
+  "reading_minutes": 1,
+  "added": "2026-10-14T21:36:01Z"
+ },
+ {
   "id": "2ac03d663f236745",
   "source_url": "https://www.theguardian.com/us-news/2026/oct/14/judge-trump-icc-sanctions-gaza-war-crimes",
   "source": "The Guardian",
