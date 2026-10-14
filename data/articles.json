@@ -1,5 +1,604 @@
 [
  {
+  "id": "018d1b6a7724532c",
+  "source_url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+  "source": "TechCrunch",
+  "source_title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+  "source_summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+  "source_tags": [
+   "Security",
+   "CrowdStrike",
+   "cybersecurity",
+   "data breach",
+   "North Korea"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-14T01:30:42+00:00",
+  "headline": "Justice Dept. Says North Korean Hackers Infiltrated Dozens of U.S. Firms",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Justice Department warned that sanctioned North Korean hackers are increasingly targeting American individuals to serve as go‑betweens after breaching U.S. companies. These facilitators are used to relay stolen data and other illicit access to entities linked to Pyongyang."
+   },
+   {
+    "type": "p",
+    "text": "According to the department, the infiltration effort spans dozens of U.S. firms across multiple sectors. The strategy relies on compromising U.S. personnel rather than directly attacking corporate networks, allowing the foreign actors to obscure their involvement and evade detection."
+   }
+  ],
+  "key_points": [
+   "The Justice Department says North Korean hackers have penetrated dozens of U.S. companies.",
+   "Sanctioned actors are using American insiders as intermediaries to pass stolen information to Pyongyang."
+  ],
+  "meta_description": "Justice Dept. warns North Korean hackers are using U.S. insiders to funnel data from breached American companies to Pyongyang.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "North Korea",
+   "cyber espionage",
+   "U.S. companies",
+   "Justice Department",
+   "sanctions"
+  ],
+  "slug": "justice-dept-says-north-korean-hackers-infiltrated-dozens-u-018d1b",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:50:48Z"
+ },
+ {
+  "id": "99b7879a666a94a3",
+  "source_url": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Houthis launch fresh wave of missiles across Saudi Arabia",
+  "source_summary": "Both the Houthis and the Saudi-led coalition carried out strikes targeting energy infrastructure. Four people were injured as a result of debris of intercepted missiles in Riyadh. DW has the latest.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-14T00:50:00+00:00",
+  "headline": "Houthis Fire New Missile Wave Over Saudi Arabia, Injuring Four in Riyadh",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Yemen‑based Houthi movement launched a fresh barrage of missiles that crossed Saudi Arabian airspace, targeting the kingdom’s energy infrastructure. Saudi‑led coalition forces intercepted many of the projectiles, but debris from the interceptions struck the capital, Riyadh, injuring four people."
+   },
+   {
+    "type": "p",
+    "text": "The latest exchange mirrors a pattern of reciprocal strikes, with both the Houthis and the Saudi‑backed coalition repeatedly hitting oil and gas facilities in the region. While the exact number of missiles launched was not disclosed, the incident underscores the heightened volatility of the conflict that has persisted for years."
+   },
+   {
+    "type": "p",
+    "text": "Local authorities reported that the injured victims suffered minor injuries from falling missile fragments. No fatalities were reported, and emergency services quickly secured the affected area. The incident adds to a series of recent attacks that have disrupted energy supplies and raised concerns about broader regional security."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disruptions to Saudi energy facilities can affect global oil markets, making the conflict relevant to U.S. and European energy security and economic interests."
+   }
+  ],
+  "key_points": [
+   "Houthis launched a new missile wave targeting Saudi energy sites, with debris injuring four in Riyadh.",
+   "Saudi‑led coalition forces intercepted many missiles, continuing a pattern of reciprocal strikes on oil and gas infrastructure."
+  ],
+  "meta_description": "Houthis fire new missiles over Saudi Arabia, injuring four in Riyadh as both sides strike energy infrastructure.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Houthis",
+   "Saudi Arabia",
+   "missiles",
+   "energy infrastructure",
+   "Middle East conflict"
+  ],
+  "slug": "houthis-fire-new-missile-wave-over-saudi-arabia-injuring-99b787",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:50:52Z"
+ },
+ {
+  "id": "f8d318e9b78fcf7a",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o",
+  "source": "BBC News",
+  "source_title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+  "source_summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccec/live/9e543840-c71b-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-14T00:17:00+00:00",
+  "headline": "Pope Leo Undergoes Successful Lung Surgery After Cancer Diagnosis",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Vatican announced that Pope Leo has been diagnosed with lung cancer. Medical officials determined that the disease required surgical intervention to remove part of the organ."
+   },
+   {
+    "type": "p",
+    "text": "On Tuesday, surgeons performed an operation to excise the lower lobe of the Pope's right lung. Vatican spokespersons confirmed that the procedure was completed without complications and that the Pope is now recovering."
+   },
+   {
+    "type": "p",
+    "text": "The Holy See emphasized that the Pope's condition is stable and that he is receiving appropriate follow‑up care. No further details about prognosis or future treatment plans were released at the time of the statement."
+   }
+  ],
+  "key_points": [
+   "Pope Leo was diagnosed with lung cancer and underwent surgery to remove the lower lobe of his right lung.",
+   "The Vatican reported that the operation was successful and the Pope is recovering.",
+   "No additional medical information was provided beyond the successful surgery."
+  ],
+  "meta_description": "The Vatican says Pope Leo's lung cancer surgery was successful, with the Pope now recovering after removal of a lung lobe.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pope Leo",
+   "lung cancer",
+   "surgery",
+   "Vatican",
+   "health"
+  ],
+  "slug": "pope-leo-undergoes-successful-lung-surgery-after-cancer-diagnosis-f8d318",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:51:04Z"
+ },
+ {
+  "id": "eb2341583d0d6526",
+  "source_url": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+  "source": "The New York Times",
+  "source_title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+  "source_summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Russian Invasion of Ukraine (2022)",
+   "United States International Relations",
+   "Embargoes and Sanctions",
+   "Trump, Donald J",
+   "Putin, Vladimir V",
+   "Blumenthal, Richard",
+   "Collins, Susan M",
+   "Coons, Christopher A",
+   "Cornyn, John"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-sanctions-gfkc/13dc-sanctions-gfkc-mediumSquareAt3X.jpg",
+  "published": "2026-10-14T00:12:23+00:00",
+  "headline": "Senators Urge Trump to Reverse Diesel Sanctions Deal with Russia",
+  "body": [
+   {
+    "type": "p",
+    "text": "A bipartisan coalition of twelve U.S. senators has publicly asked President Trump to rescind his recent decision to relax sanctions on Russia's diesel fuel exports. The senators argue that the easing of restrictions would enable Moscow to sustain its military operations in Ukraine."
+   },
+   {
+    "type": "p",
+    "text": "The lawmakers contend that maintaining strict sanctions on Russian energy shipments is a key tool for pressuring the Kremlin and limiting its war financing. They warned that the new policy could undermine the broader strategy of economic isolation aimed at curbing Russia's aggression."
+   },
+   {
+    "type": "p",
+    "text": "The senators' letter to the White House underscores growing concern within Congress that the administration's move may conflict with allied efforts in Europe to keep energy sanctions in place."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Easing diesel sanctions could provide Russia with revenue to sustain its war, affecting U.S. and European security interests."
+   }
+  ],
+  "key_points": [
+   "Twelve bipartisan senators urged President Trump to reverse the diesel sanctions waiver for Russia.",
+   "Lawmakers say the waiver could help fund Russia's ongoing war in Ukraine.",
+   "The appeal highlights tension between the administration and Congress over Russia policy."
+  ],
+  "meta_description": "Twelve bipartisan U.S. senators ask President Trump to undo a diesel sanctions waiver for Russia, citing concerns it will fund the war in Ukraine.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "diesel sanctions",
+   "Russia",
+   "Ukraine war",
+   "U.S. Senate"
+  ],
+  "slug": "senators-urge-trump-reverse-diesel-sanctions-deal-with-russia-eb2341",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:50:40Z"
+ },
+ {
+  "id": "463f0ea2cefd32c8",
+  "source_url": "https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html",
+  "source": "The New York Times",
+  "source_title": "Katie Zacharia Makes Bumpy Debut as Trump’s New Press Secretary",
+  "source_summary": "Ms. Zacharia spent eight minutes reading from a script, called on only three reporters and made an awkward slip-up.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Daily Mail",
+   "Fox News Channel",
+   "Biden, Joseph R Jr",
+   "Cheung, Steven (1982- )",
+   "Guilfoyle, Kimberly",
+   "Leavitt, Karoline",
+   "Trump, Donald J",
+   "Zacharia, Katie"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-press-secretary-ckgw/13dc-press-secretary-ckgw-mediumSquareAt3X.jpg",
+  "published": "2026-10-13T23:49:54+00:00",
+  "headline": "Katie Zacharia’s Bumpy Debut as Trump’s New Press Secretary",
+  "body": [
+   {
+    "type": "p",
+    "text": "White House press secretary Katie Zacharia made her first appearance before reporters on Thursday, delivering an eight‑minute briefing that was largely read from a prepared script. The briefing, held in the West Wing press pool, featured only three journalists who were called on for questions."
+   },
+   {
+    "type": "p",
+    "text": "During the session, Zacharia stumbled over a statement about the administration’s policy agenda, prompting a brief pause before she continued. The slip‑up was noted by observers as an unusual moment for a new spokesperson tasked with managing the president’s communications."
+   },
+   {
+    "type": "p",
+    "text": "The limited interaction and scripted nature of the briefing have drawn comparisons to previous early‑day press secretaries, highlighting the challenges the Trump administration faces in shaping its media narrative."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The tone and structure of the new press secretary’s debut signal how the Trump administration may handle media relations and policy messaging going forward."
+   }
+  ],
+  "key_points": [
+   "Zacharia’s inaugural briefing lasted eight minutes and was mostly scripted.",
+   "Only three reporters were called on, and she made a noticeable slip‑up.",
+   "The restrained format underscores the administration’s cautious media approach."
+  ],
+  "meta_description": "Katie Zacharia’s first White House briefing was eight minutes, scripted, and featured a slip‑up, highlighting the administration’s media strategy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "White House",
+   "Press Secretary",
+   "Media",
+   "Politics"
+  ],
+  "slug": "katie-zacharias-bumpy-debut-trumps-new-press-secretary-463f0e",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:50:56Z"
+ },
+ {
+  "id": "2e40a7030ca678b3",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo",
+  "source": "BBC News",
+  "source_title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+  "source_summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8583/live/42414480-c72f-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-13T23:42:22+00:00",
+  "headline": "German Court Tries Ukrainian Suspect Over Nord Stream Sabotage",
+  "body": [
+   {
+    "type": "p",
+    "text": "A German court will hear the case of Serhii K, a Ukrainian national, accused of participating in a plot to destroy the Nord Stream gas pipelines that run from Russia to Germany. The trial comes four years after the explosions that halted the flow of Russian gas to Europe."
+   },
+   {
+    "type": "p",
+    "text": "Prosecutors allege that Serhii K was involved in the planning and execution of the sabotage, which caused significant disruption to European energy supplies. The defense has not yet commented on the charges, and the proceedings are expected to examine evidence gathered by German investigators."
+   },
+   {
+    "type": "p",
+    "text": "If convicted, the defendant could face a lengthy prison sentence under German law. The case underscores the ongoing legal and political fallout from the 2022 pipeline attacks, which remain a focal point of international scrutiny."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights the legal repercussions of the 2022 Nord Stream attacks that disrupted European energy supplies, a concern for both European and U.S. energy security policies."
+   }
+  ],
+  "key_points": [
+   "Serhii K, a Ukrainian, is on trial in Germany for alleged involvement in the Nord Stream pipeline explosions.",
+   "The trial follows a four‑year investigation into the sabotage that halted Russian gas deliveries to Europe."
+  ],
+  "meta_description": "A German court tries Ukrainian Serhii K for alleged involvement in the Nord Stream pipeline sabotage that halted Russian gas to Europe.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Germany",
+   "Nord Stream",
+   "trial",
+   "energy security"
+  ],
+  "slug": "german-court-tries-ukrainian-suspect-over-nord-stream-sabotage-2e40a7",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:51:20Z"
+ },
+ {
+  "id": "a2d00ff109e7d12f",
+  "source_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+  "source": "TechCrunch",
+  "source_title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+  "source_summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+  "source_tags": [
+   "AI",
+   "Biotech & Health",
+   "Science Corporation"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-13T23:13:31+00:00",
+  "headline": "Science Corp Implants Vision Chip in First Stargardt Patient",
+  "body": [
+   {
+    "type": "p",
+    "text": "Science Corporation announced the implantation of its vision‑restoring chip in a patient diagnosed with Stargardt disease, marking the company’s first clinical use of the technology. The procedure was performed as part of the company’s PRIMA program, which aims to develop advanced neural interfaces."
+   },
+   {
+    "type": "p",
+    "text": "Max Hodak, the former president and co‑founder of Neuralink, presented the milestone at TechCrunch Disrupt, explaining that the Stargardt case is a stepping stone toward a broader brain‑computer interface (BCI) platform. Hodak said the implant demonstrates how the PRIMA system can translate visual signals directly to the brain, potentially restoring sight for degenerative eye conditions."
+   },
+   {
+    "type": "p",
+    "text": "The company emphasized that the successful implantation validates its approach to integrating electronic devices with neural tissue, and it plans to expand trials to additional patients while refining the BCI technology for future applications."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Restoring vision for degenerative eye diseases could impact millions, and the underlying BCI technology may have broader neurological applications in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Science Corp implanted its vision‑restoring chip in a Stargardt disease patient, the first use of the device.",
+   "The procedure is part of the PRIMA program, which aims to develop a broader brain‑computer interface.",
+   "Max Hodak highlighted the implant as a step toward larger BCI applications."
+  ],
+  "meta_description": "Science Corp implants its vision‑restoring chip in a Stargardt disease patient, a milestone for its PRIMA brain‑computer interface program.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "vision",
+   "Stargardt disease",
+   "brain-computer interface",
+   "biotech",
+   "medical device"
+  ],
+  "slug": "science-corp-implants-vision-chip-first-stargardt-patient-a2d00f",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:51:00Z"
+ },
+ {
+  "id": "314375845b17a428",
+  "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+  "source": "TechCrunch",
+  "source_title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+  "source_summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+  "source_tags": [
+   "AI",
+   "Cerebras"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-13T23:05:34+00:00",
+  "headline": "Cerebras CEO Says Personal AI Assistants Will Soon Be Commonplace",
+  "body": [
+   {
+    "type": "p",
+    "text": "Cerebras Systems chief executive Andrew Feldman told TechCrunch that the next wave of artificial intelligence will bring personal assistants into everyday homes, much like refrigerators or washing machines. He said these assistants will operate on a hybrid model, with core processing split between local hardware and cloud services."
+   },
+   {
+    "type": "p",
+    "text": "Feldman explained that advances in chip design and software optimization are making it feasible to run sophisticated language models on modest on‑premise devices, while still leveraging the scalability of cloud infrastructure for heavier tasks. This approach, he said, balances performance, privacy and cost for consumers."
+   },
+   {
+    "type": "p",
+    "text": "The CEO added that widespread adoption could reshape how people manage schedules, control smart home devices and access information, turning AI from a specialized tool into a routine household utility."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For consumers in the US and Europe, the shift could make advanced AI capabilities accessible in everyday life, influencing privacy, cost and the way households interact with technology."
+   }
+  ],
+  "key_points": [
+   "Cerebras predicts personal AI assistants will become as ubiquitous as common appliances.",
+   "The assistants will rely on a hybrid architecture that combines local processing with cloud resources.",
+   "Widespread use could change everyday tasks such as scheduling, home automation and information retrieval."
+  ],
+  "meta_description": "Cerebras CEO forecasts personal AI assistants will soon be as common as home appliances, using a mix of local and cloud processing.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "personal assistants",
+   "Cerebras",
+   "cloud computing",
+   "home technology"
+  ],
+  "slug": "cerebras-ceo-says-personal-ai-assistants-will-soon-be-314375",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:51:16Z"
+ },
+ {
+  "id": "3d89883d5dcb7d6f",
+  "source_url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo",
+  "source": "BBC News",
+  "source_title": "How long will humans be needed for translation?",
+  "source_summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg",
+  "published": "2026-10-13T23:05:29+00:00",
+  "headline": "AI Leads Translation Market While Humans Remain Crucial for High‑Stakes Work",
+  "body": [
+   {
+    "type": "p",
+    "text": "Artificial intelligence now handles the majority of translation tasks, reshaping the industry with faster and cheaper services. Machine‑learning models can process large volumes of text in dozens of languages, making them the default choice for everyday content."
+   },
+   {
+    "type": "p",
+    "text": "Despite this shift, experts say that high‑risk domains such as legal, medical and diplomatic communications still require human translators. The nuance, cultural context and responsibility for accuracy in these areas cannot be fully replicated by current AI systems."
+   },
+   {
+    "type": "p",
+    "text": "The coexistence of AI and human expertise is prompting firms to adopt hybrid workflows, where machines perform initial drafts and professionals perform final checks. This approach aims to balance efficiency with the precision demanded by critical translations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For businesses and governments in the US and Europe, understanding the limits of AI translation helps ensure compliance and safety in sectors where errors could have legal or health consequences."
+   }
+  ],
+  "key_points": [
+   "AI now dominates routine translation work across the industry.",
+   "Human translators are still essential for high‑stakes fields requiring exactness.",
+   "Hybrid models combine machine speed with human quality control."
+  ],
+  "meta_description": "AI handles most translations, but humans remain vital for legal, medical and diplomatic texts, prompting hybrid workflows.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI translation",
+   "human translators",
+   "machine learning",
+   "legal translation",
+   "medical translation",
+   "industry trends"
+  ],
+  "slug": "ai-leads-translation-market-while-humans-remain-crucial-highstakes-3d8988",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:51:07Z"
+ },
+ {
+  "id": "cdcfdccb98321a00",
+  "source_url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo",
+  "source": "BBC News",
+  "source_title": "Is it OK for jobseekers or employers to use AI?",
+  "source_summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+  "published": "2026-10-13T23:04:39+00:00",
+  "headline": "Graduates Turn to AI to Inflate Job Applications, Study Finds",
+  "body": [
+   {
+    "type": "p",
+    "text": "New research indicates that a growing number of recent graduates are using artificial intelligence tools to embellish their résumés and cover letters, presenting a more polished version of their skills and experience than is accurate. The study highlights concerns that AI-generated content can blur the line between genuine achievement and fabricated credentials."
+   },
+   {
+    "type": "p",
+    "text": "While employers worry about the authenticity of applications, some graduates argue that the pressure to compete with peers who already use AI leaves them with little choice but to adopt similar tactics. They claim that the technology has become a de‑facto standard within their job‑search community."
+   },
+   {
+    "type": "p",
+    "text": "The findings raise questions about how hiring processes can adapt to verify candidate information and whether new guidelines are needed to address the ethical use of AI in recruitment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trend could impact hiring fairness and transparency across the US and European labour markets, prompting employers to reassess recruitment verification methods."
+   }
+  ],
+  "key_points": [
+   "Research shows graduates increasingly use AI to exaggerate qualifications in job applications.",
+   "Some jobseekers feel compelled to use AI because peers are already doing so.",
+   "Employers face challenges verifying the authenticity of AI‑enhanced applications."
+  ],
+  "meta_description": "Study finds graduates using AI to overstate credentials in job applications, sparking concerns for employers.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "job market",
+   "graduates",
+   "recruitment",
+   "ethics",
+   "employment"
+  ],
+  "slug": "graduates-turn-ai-inflate-job-applications-study-finds-cdcfdc",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:51:24Z"
+ },
+ {
+  "id": "90f0c0010a370cb9",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko",
+  "source": "BBC Sport",
+  "source_title": "Saka responds to Arteta's challenge with 'huge impact'",
+  "source_summary": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the bench to change the game against Lille in the Champions League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0cddb1d0-c751-11f1-b4d5-87f9c6c95a29.jpg",
+  "published": "2026-10-13T23:03:04+00:00",
+  "headline": "Bukayo Saka Heeds Arteta’s Challenge, Sparks Arsenal Turnaround in Champions League Clash with Lille",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal manager Mikel Arteta challenged his squad ahead of the Champions League tie with Lille, urging substitutes to be ready to make a difference. Midfielder Bukayo Saka answered that call, entering the match from the bench in the second half."
+   },
+   {
+    "type": "p",
+    "text": "Saka’s introduction shifted the momentum as he displayed energy and creativity, helping Arsenal press higher and create several scoring opportunities. His movement and passing opened space for teammates, contributing to a noticeable change in the game’s tempo."
+   },
+   {
+    "type": "p",
+    "text": "The English international’s impact was evident as Arsenal moved from a defensive stance to a more attacking posture, ultimately securing a positive result against the French side. Arteta praised Saka’s response, highlighting the player’s willingness to adapt and influence the match when called upon."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Arsenal’s progress in Europe reflects the competitive balance of the Champions League and showcases the depth of English talent, relevant to fans across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Bukayo Saka came off the bench and altered Arsenal’s play against Lille in the Champions League.",
+   "His performance fulfilled manager Mikel Arteta’s pre‑match challenge to make a ‘huge impact’ as a substitute.",
+   "Arsenal’s increased attacking threat after Saka’s entry helped the team secure a favorable outcome."
+  ],
+  "meta_description": "Bukayo Saka answered Mikel Arteta's challenge, coming off the bench to spark Arsenal's comeback against Lille in the Champions League.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Bukayo Saka",
+   "Mikel Arteta",
+   "Champions League",
+   "Lille",
+   "English football"
+  ],
+  "slug": "bukayo-saka-heeds-artetas-challenge-sparks-arsenal-turnaround-champions-90f0c0",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:50:44Z"
+ },
+ {
   "id": "3e50c67087875e42",
   "source_url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
   "source": "TechCrunch",
@@ -625,6 +1224,56 @@
   "slug": "lawyer-fed-governor-lisa-cook-criticizes-trump-probe-5ed5e0",
   "reading_minutes": 1,
   "added": "2026-10-13T23:05:42Z"
+ },
+ {
+  "id": "72655eef520abef1",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o",
+  "source": "BBC Sport",
+  "source_title": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+  "source_summary": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad following qualification for the Champions League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f810/live/6b054b60-c756-11f1-8157-e5961116a2ed.jpg",
+  "published": "2026-10-13T21:43:09+00:00",
+  "headline": "Lisandro Martinez Blasts Manchester United Board Over Squad Weakness",
+  "body": [
+   {
+    "type": "p",
+    "text": "Lisandro Martinez has publicly criticised Manchester United's hierarchy, accusing them of failing to reinforce the squad despite the club securing a place in the Champions League. In a forceful statement, the Argentine defender said the lack of investment jeopardises the team's competitiveness on the European stage."
+   },
+   {
+    "type": "p",
+    "text": "Martinez's remarks come as United prepares for the upcoming season, with fans and analysts questioning whether the board's transfer strategy will meet the demands of elite competition. The defender’s comments highlight growing tension between players and club management over transfer policy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "United's performance in the Champions League impacts European football markets and fan interest across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Martinez launched a scathing attack on Manchester United's board for not strengthening the squad.",
+   "His criticism follows the club's qualification for the Champions League.",
+   "The comments underscore tension between players and the club hierarchy over transfer decisions."
+  ],
+  "meta_description": "Lisandro Martinez slams Manchester United board for not bolstering the squad after Champions League qualification.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Lisandro Martinez",
+   "Manchester United",
+   "board criticism",
+   "Champions League",
+   "football",
+   "Premier League"
+  ],
+  "slug": "lisandro-martinez-blasts-manchester-united-board-over-squad-weakness-72655e",
+  "reading_minutes": 1,
+  "added": "2026-10-14T01:51:12Z"
  },
  {
   "id": "b31569649bf0410b",
