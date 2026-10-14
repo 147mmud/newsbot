@@ -1,5 +1,695 @@
 [
  {
+  "id": "2ac03d663f236745",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/14/judge-trump-icc-sanctions-gaza-war-crimes",
+  "source": "The Guardian",
+  "source_title": "Judge blocks US sanctions on rights groups helping ICC Gaza war crimes inquiry",
+  "source_summary": "Blow for Trump administration as Dawn and Taag hail ‘important step in unraveling the ICC sanctions regime’ A US federal judge has temporarily blocked the Trump administration from placing sanctions on two US-based human rights groups for working to help the international criminal court’s (ICC) investigations into war crimes in Gaza. In a 30-page order issued on Tuesday, Jesse M Furman, a judge at the US district court for the southern district of New York, granted a preliminary injunction to the two groups, Democracy for the Arab World Now (Dawn) and Taxpayer Alliance Against Genocide (Taag).",
+  "source_tags": [
+   "Trump administration",
+   "International criminal court",
+   "Gaza",
+   "War crimes",
+   "World news",
+   "US politics",
+   "Palestine",
+   "Law"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/7c36c10cf56d21a46f91f0558bf496c8d1647a26/575_0_5265_4211/master/5265.jpg?width=700&quality=85&auto=format&fit=max&s=92111db4d383975be5162f4c89f3d082",
+  "published": "2026-10-14T17:53:58+00:00",
+  "headline": "Judge Blocks Trump Administration Sanctions on US Human Rights Groups",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge in New York has issued a preliminary injunction that temporarily halts the Trump administration’s attempt to sanction two U.S.-based human‑rights organizations. The order, written by Judge Jesse M. Furman of the Southern District of New York, stops sanctions against Democracy for the Arab World Now (Dawn) and the Taxpayer Alliance Against Genocide (Taag)."
+   },
+   {
+    "type": "p",
+    "text": "The sanctions were intended to punish the groups for assisting the International Criminal Court’s investigation into alleged war crimes in Gaza. Dawn and Taag hailed the ruling as a significant step toward dismantling what they described as an \"ICC sanctions regime.\""
+   },
+   {
+    "type": "p",
+    "text": "The injunction does not resolve the underlying legal dispute but pauses enforcement while the case proceeds. Both organizations continue their work supporting the ICC inquiry, and the administration may seek to appeal the decision."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision underscores tensions between U.S. policy and international legal efforts to investigate Gaza conflict crimes, a concern for both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "Judge Jesse M. Furman granted a preliminary injunction blocking sanctions on Dawn and Taag.",
+   "The sanctions were linked to the groups’ assistance to the ICC’s Gaza war‑crimes probe.",
+   "The ruling temporarily halts enforcement but the broader legal battle continues."
+  ],
+  "meta_description": "U.S. judge blocks Trump administration sanctions on two human‑rights groups aiding ICC Gaza war‑crimes inquiry.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US sanctions",
+   "human rights",
+   "ICC",
+   "Gaza war crimes",
+   "legal injunction"
+  ],
+  "slug": "judge-blocks-trump-administration-sanctions-us-human-rights-groups-2ac03d",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:57:44Z"
+ },
+ {
+  "id": "0a8a574e052dd76b",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro",
+  "source": "BBC News",
+  "source_title": "Airport drop-off charges to be reviewed after sharp increase",
+  "source_summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg",
+  "published": "2026-10-14T17:46:30+00:00",
+  "headline": "UK Government to Review Airport Drop‑Off Charges After Sharp Rise",
+  "body": [
+   {
+    "type": "p",
+    "text": "The British government announced a review of airport drop‑off fees following a recent sharp increase in charges. Officials said the step is intended to keep travel affordable and ensure passengers are treated fairly."
+   },
+   {
+    "type": "p",
+    "text": "The decision was confirmed in a statement that emphasized the importance of accessibility for all travelers. The review will examine current pricing structures at major UK airports and consider possible regulatory adjustments."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher airport drop‑off fees can increase travel costs for commuters and tourists across Europe and the United States, affecting decisions about air travel."
+   }
+  ],
+  "key_points": [
+   "The UK government will examine airport drop‑off fees after they rose sharply.",
+   "Officials say the review aims to keep travel accessible and protect passenger fairness."
+  ],
+  "meta_description": "UK government launches review of airport drop‑off charges after sharp rise, citing need for affordable travel and fair treatment of passengers.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "airport fees",
+   "travel costs",
+   "government review",
+   "passenger rights",
+   "transportation"
+  ],
+  "slug": "uk-government-review-airport-dropoff-charges-after-sharp-rise-0a8a57",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:57:48Z"
+ },
+ {
+  "id": "d33b4c24a3f06d4f",
+  "source_url": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
+  "source": "The New York Times",
+  "source_title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
+  "source_summary": "As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one another.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Computers and the Internet",
+   "Parties (Social)",
+   "Podcasts",
+   "Start-ups",
+   "Innovation",
+   "Moltbook",
+   "OpenAI Labs",
+   "CellCog",
+   "Flybridge"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-14T17:35:24+00:00",
+  "headline": "AI Bots Join 22-Person Dinner Party, Reveal Digital Chatter",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a recent dinner gathering of 22 people, each guest also brought an artificial‑intelligence agent. The evening turned into a mixed‑company conversation as the bots interacted alongside their human hosts, discussing topics ranging from the meal to broader cultural references."
+   },
+   {
+    "type": "p",
+    "text": "Observers noted that the AI participants quickly formed their own dialogue streams, echoing the tone of the human table while also introducing distinct patterns of inquiry. The experiment highlighted how digital entities can mirror social cues and maintain parallel discussions without direct human prompting."
+   },
+   {
+    "type": "p",
+    "text": "The event, documented by The New York Times, serves as a small‑scale illustration of the growing presence of AI in everyday social settings. It underscores the potential for AI agents to become routine companions in informal gatherings, raising questions about how such interactions might evolve as the technology becomes more ubiquitous."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding AI’s role in everyday social contexts helps policymakers and businesses anticipate how the technology could shape communication norms in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "AI agents attended a 22‑person dinner and engaged in their own conversations.",
+   "The bots mirrored human social cues while generating distinct discussion threads.",
+   "The gathering demonstrates how AI may become a regular feature of casual social events."
+  ],
+  "meta_description": "AI agents joined a 22‑person dinner, interacting alongside guests and showcasing emerging social dynamics of digital companions.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "social bots",
+   "human‑AI interaction",
+   "dinner party",
+   "digital agents"
+  ],
+  "slug": "ai-bots-join-22-person-dinner-party-reveal-digital-d33b4c",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:57:52Z"
+ },
+ {
+  "id": "a5fccba80415475e",
+  "source_url": "https://www.cnbc.com/2026/10/14/merck-moderna-cancer-vaccine-manufacturing-time.html",
+  "source": "CNBC",
+  "source_title": "Merck CEO tells CNBC he expects breakthrough cancer vaccine will become faster to make",
+  "source_summary": "His comments come after Merck officially opened its new 120,000-square-foot research facility in the Greater Philadelphia area.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-14T17:33:57+00:00",
+  "headline": "Merck CEO Says New Facility Will Speed Up Cancer Vaccine Production",
+  "body": [
+   {
+    "type": "p",
+    "text": "Merck's chief executive told CNBC that the company anticipates its breakthrough cancer vaccine will be manufactured more quickly than previous versions. The remarks were made as the pharmaceutical giant officially opened a new 120,000‑square‑foot research complex in the Greater Philadelphia region."
+   },
+   {
+    "type": "p",
+    "text": "The new site is intended to support advanced research and development activities, including the scaling of innovative immunotherapies. By accelerating production timelines, Merck hopes to bring the vaccine to patients faster, though specific rollout dates were not disclosed."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that faster manufacturing could improve access to cutting‑edge cancer treatments, potentially influencing competitive dynamics in the biotech sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Quicker production of a cancer vaccine may shorten the time patients wait for advanced treatments, impacting healthcare outcomes in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Merck's CEO expects the breakthrough cancer vaccine to be produced more rapidly.",
+   "The expectation follows the opening of a 120,000‑square‑foot research facility near Philadelphia.",
+   "Accelerated vaccine manufacturing could enhance patient access to new cancer therapies."
+  ],
+  "meta_description": "Merck CEO says new Philadelphia research center will speed up production of its breakthrough cancer vaccine.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Merck",
+   "cancer vaccine",
+   "pharmaceuticals",
+   "research facility",
+   "biotech",
+   "healthcare"
+  ],
+  "slug": "merck-ceo-says-new-facility-will-speed-up-cancer-a5fccb",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:58:08Z"
+ },
+ {
+  "id": "69a9ec80b5693da5",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6j472xqk5kro",
+  "source": "BBC Sport",
+  "source_title": "Cokayne back as England face Canada threat in Toronto",
+  "source_summary": "England welcome back the experience of Amy Cokayne at hooker as their 41-match unbeaten run comes under serious threat away to Canada.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/835b/live/9e8df690-c7c3-11f1-993a-152cbb068da1.jpg",
+  "published": "2026-10-14T17:31:11+00:00",
+  "headline": "England Rugby Reinstate Amy Cokayne Ahead of Canada Test in Toronto",
+  "body": [
+   {
+    "type": "p",
+    "text": "England's women's rugby team will field veteran hooker Amy Cokayne for their upcoming test match against Canada in Toronto, marking her return to the squad after a period out of the side. The selection comes as England seeks to maintain their remarkable 41‑match unbeaten streak, which has been a benchmark of dominance in international women's rugby."
+   },
+   {
+    "type": "p",
+    "text": "Canada, playing at home, present a formidable challenge that could end England's run. The Canadian side has been improving steadily and will look to exploit any lapses in the English lineup, especially as they adjust to the North American conditions and crowd support. Both teams are expected to field their strongest available players, making the encounter a key fixture in the autumn international window."
+   },
+   {
+    "type": "p",
+    "text": "Coach Simon Middleton emphasized the importance of experience in high‑pressure games, noting that Cokayne's leadership and set‑piece expertise will be vital against a motivated Canadian side. The match is scheduled for later this week and will be broadcast in several markets, offering fans a chance to see whether England can extend their unbeaten record on foreign soil."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The game pits two of the sport's leading nations against each other, with implications for world rankings and the momentum heading into upcoming global tournaments."
+   }
+  ],
+  "key_points": [
+   "England recall hooker Amy Cokayne for the Toronto test against Canada.",
+   "The match threatens England's 41‑game unbeaten run in women's rugby.",
+   "Canada aim to capitalize on home advantage to break England's streak."
+  ],
+  "meta_description": "England bring back hooker Amy Cokayne for a crucial test against Canada in Toronto, risking their 41‑match unbeaten streak.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England rugby",
+   "Canada rugby",
+   "Amy Cokayne",
+   "women's sport",
+   "international test"
+  ],
+  "slug": "england-rugby-reinstate-amy-cokayne-ahead-canada-test-toronto-69a9ec",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:57:56Z"
+ },
+ {
+  "id": "cc91999e8d6d36a9",
+  "source_url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-guardian-view-on-trumps-deal-with-putin-grim-and-grubby-but-not-gamechanging",
+  "source": "The Guardian",
+  "source_title": "The Guardian view on Trump’s deal with Putin: grim and grubby, but not gamechanging | Editorial",
+  "source_summary": "President Zelenskyy’s allies must show the Russian president that American perfidy won’t alter the course of a war the Kremlin is losing When Donald Trump pledged to end the war in Ukraine within 24 hours of re-entering the White House last year, no one with any depth of insight into the conflict believed him. But Mr Trump took his own words seriously enough to feel the lack of a ceasefire as an affront to his self-image as a master dealmaker. After a period when it seemed that Kyiv’s European allies had steered the US president away from pro‑Kremlin partisanship, he has reverted to the grotesque view that Ukrainian capitulation is a necessary precondition for peace. These are the perilous circumstances in which President Volodymyr Zelenskyy met Andy Burnham on Wednesday in Downing Street. In recent days, the US president has called for a change of government in Ukraine. He claimed that a partial ceasefire had been agreed, while Russia escalated its bombardments. According to Mr Zelenskyy, the latest missile strikes have come without the intelligence warnings from the US that have, in the past, facilitated self-defence. There have been reports of Ukrainian soldiers losing access to the Starlink satellite network, controlled by Elon Musk, the US tech oligarch. This raises suspicion of coordinated pressure to tip the scales in Russia’s favour after many months when Mr Putin’s forces have failed to deliver significant advances and his country’s economy has been suffering from th",
+  "source_tags": [
+   "Ukraine",
+   "Volodymyr Zelenskyy",
+   "Donald Trump",
+   "US news",
+   "US politics",
+   "Vladimir Putin",
+   "Russia",
+   "Andy Burnham",
+   "Labour",
+   "Politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/29c81af2518d0cad0cb06c7a441aef5240cc6a43/423_0_2890_2313/master/2890.jpg?width=700&quality=85&auto=format&fit=max&s=1c980b8f888f9169919cf7095678f135",
+  "published": "2026-10-14T17:30:08+00:00",
+  "headline": "Trump’s Putin Deal Stirs Zelenskyy Warning Over Ukraine Ceasefire",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Volodymyr Zelenskyy met with UK Deputy Prime Minister Andy Burnham at Downing Street as Donald Trump reiterated his pledge to end the war in Ukraine within 24 hours after returning to the White House. Trump has again suggested that a Ukrainian capitulation is required for peace and has called for a change of government in Kyiv, claiming a partial cease‑fire had been agreed despite ongoing Russian bombardments."
+   },
+   {
+    "type": "p",
+    "text": "Zelenskyy said recent Russian missile strikes have hit without the usual U.S. intelligence warnings that have previously helped Ukrainian defenses. He also warned that Ukrainian forces are losing access to the Starlink satellite network, which is owned by Elon Musk, raising concerns about coordinated pressure to favor Russia as the Kremlin’s advances stall and its economy weakens."
+   },
+   {
+    "type": "p",
+    "text": "The editorial notes that no expert expected Trump’s promise to be realistic and describes his stance as a “grotesque view” that could jeopardise Ukraine’s ability to resist Russian aggression."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The United States and its European partners are closely watching U.S. policy shifts that could affect the balance of support for Ukraine in its war with Russia."
+   }
+  ],
+  "key_points": [
+   "Trump claims a partial cease‑fire with Russia despite intensified Russian attacks.",
+   "Zelenskyy says Ukraine is missing U.S. intelligence alerts and losing Starlink connectivity.",
+   "The U.S. president’s push for Ukrainian regime change is viewed as destabilising by allies."
+  ],
+  "meta_description": "Trump's alleged deal with Putin prompts Zelenskyy to warn of reduced U.S. intel and Starlink access amid calls for Ukrainian regime change.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Russia",
+   "Donald Trump",
+   "Volodymyr Zelenskyy",
+   "Starlink",
+   "US foreign policy"
+  ],
+  "slug": "trumps-putin-deal-stirs-zelenskyy-warning-over-ukraine-ceasefire-cc9199",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:58:04Z"
+ },
+ {
+  "id": "d0faf5785541b1f8",
+  "source_url": "https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
+  "source_summary": "A journalist for a Japanese newspaper was arrested on suspicion of spying in Russia's Far East. A geopolitical rivalry over disputed islands in the region has recently caused tension.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-14T17:28:00+00:00",
+  "headline": "Japanese Journalist Detained on Spy Suspicion Amid Russia‑Japan Island Dispute",
+  "body": [
+   {
+    "type": "p",
+    "text": "A reporter for a Japanese newspaper was taken into custody in Russia's Far East on allegations of espionage, Russian authorities said. The arrest comes as Moscow and Tokyo are locked in a diplomatic dispute over a group of islands claimed by both nations."
+   },
+   {
+    "type": "p",
+    "text": "Tokyo has protested the detention, describing it as an unfounded action that strains bilateral relations. The journalist's legal status and the evidence supporting the spying charge have not been disclosed."
+   },
+   {
+    "type": "p",
+    "text": "The incident adds to recent tensions between the two countries, which have been negotiating over the contested islands while also managing broader security concerns in the region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights rising friction between Japan and Russia, a dynamic that could affect security and trade interests for the United States and European partners in the Asia‑Pacific region."
+   }
+  ],
+  "key_points": [
+   "A Japanese newspaper journalist was arrested in Russia's Far East on suspicion of spying.",
+   "The detention occurs amid a diplomatic clash between Japan and Russia over disputed islands.",
+   "Tokyo has formally objected to the arrest, calling it detrimental to bilateral ties."
+  ],
+  "meta_description": "A Japanese journalist was detained on espionage charges in Russia's Far East, sparking a diplomatic protest from Tokyo amid island disputes.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Japan",
+   "Russia",
+   "espionage",
+   "diplomacy",
+   "territorial dispute"
+  ],
+  "slug": "japanese-journalist-detained-spy-suspicion-amid-russiajapan-island-dispute-d0faf5",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:58:00Z"
+ },
+ {
+  "id": "006fb5835ce7963e",
+  "source_url": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
+  "source": "The Verge",
+  "source_title": "Apple’s new HomeView smart display is $10 cheaper at Amazon",
+  "source_summary": "Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure, it’s a small discount, but […]",
+  "source_tags": [
+   "Deals",
+   "Gadgets",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-welcome-home-roundup.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-14T17:24:42+00:00",
+  "headline": "Apple HomeView Smart Display Discounted $10 on Amazon",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple announced its first smart display, the HomeView, on Tuesday with a launch date set for November 13. The device is offered in a gray finish and a creamy white \"starlight\" color."
+   },
+   {
+    "type": "p",
+    "text": "Amazon is currently listing the HomeView for $289.99, which is $10 less than the standard retail price. While the discount is modest, it provides early buyers a small saving ahead of the official release."
+   },
+   {
+    "type": "p",
+    "text": "The HomeView joins Apple’s expanding hardware lineup and marks the company's entry into the competitive smart display market, positioning it against established rivals such as Amazon Echo Show and Google Nest Hub."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The price cut gives U.S. and European consumers an early incentive to adopt Apple’s first smart display as the company expands into a crowded market."
+   }
+  ],
+  "key_points": [
+   "Apple's HomeView smart display will be available on November 13.",
+   "Amazon is selling the device for $289.99, a $10 discount from the usual price.",
+   "The display is offered in gray and starlight color options."
+  ],
+  "meta_description": "Apple's new HomeView smart display is $10 cheaper on Amazon, priced at $289.99 in gray and starlight ahead of its Nov. 13 launch.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "HomeView",
+   "smart display",
+   "Amazon",
+   "discount"
+  ],
+  "slug": "apple-homeview-smart-display-discounted-10-amazon-006fb5",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:58:12Z"
+ },
+ {
+  "id": "455fff5af7436c35",
+  "source_url": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
+  "source": "The New York Times",
+  "source_title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
+  "source_summary": "The streamer’s share price is down more than 40 percent over the last year as the company has struggled with stalling engagement.",
+  "source_tags": [
+   "Layoffs and Job Reductions",
+   "Media",
+   "Netflix Inc",
+   "Peters, Greg (Media Executive)",
+   "Sarandos, Ted"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-netflix-layoffs-1-lvzg/14biz-netflix-layoffs-1-lvzg-mediumSquareAt3X.jpg",
+  "published": "2026-10-14T17:21:26+00:00",
+  "headline": "Netflix Cuts 6% of Workforce Amid Slowing Growth and Share Decline",
+  "body": [
+   {
+    "type": "p",
+    "text": "Netflix announced a reduction of roughly 6 percent of its global staff as the streaming giant confronts a slowdown in subscriber growth and engagement. The move follows a year in which the company's share price fell more than 40 percent, reflecting investor concerns over its ability to sustain rapid expansion."
+   },
+   {
+    "type": "p",
+    "text": "The layoffs are part of a broader cost‑cutting effort aimed at improving profitability after the company reported weaker-than-expected metrics in recent quarters. Executives said the restructuring will focus resources on areas with higher growth potential, while trimming positions that are no longer aligned with strategic priorities."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the staffing cuts underscore the challenges facing the streaming industry, where competition from rivals and shifting consumer habits have pressured revenue streams. The decision also signals that Netflix is prioritizing financial discipline over aggressive hiring as it seeks to stabilize its market position."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The cuts affect investors and the job market in the US and Europe, highlighting the volatility of the streaming industry and its impact on technology employment."
+   }
+  ],
+  "key_points": [
+   "Netflix is eliminating about 6% of its workforce to curb costs amid slowing subscriber growth.",
+   "The company's shares have dropped over 40% in the past year, prompting the restructuring.",
+   "The layoffs reflect broader pressures in the streaming sector and a shift toward profitability."
+  ],
+  "meta_description": "Netflix trims 6% of its staff as growth stalls and shares tumble over 40% in a year, signaling tighter cost controls.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Netflix",
+   "layoffs",
+   "streaming",
+   "stock decline",
+   "cost cutting",
+   "employment"
+  ],
+  "slug": "netflix-cuts-6-workforce-amid-slowing-growth-share-decline-455fff",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:58:21Z"
+ },
+ {
+  "id": "0a5dd84aa555ef63",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6rmykw391ljo",
+  "source": "BBC Sport",
+  "source_title": "Millwall's Neil criticised over racial abuse stoppage comments",
+  "source_summary": "Anti-racism campaign group Kick It Out calls on managers to \"set the tone\" after Millwall boss Alex Neil criticises halting a game following an accusation of abuse.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024c/live/a95276a0-c7c3-11f1-993a-152cbb068da1.jpg",
+  "published": "2026-10-14T17:09:18+00:00",
+  "headline": "Millwall Manager Neil Criticised for Stopping Game Over Abuse Claim",
+  "body": [
+   {
+    "type": "p",
+    "text": "Millwall head coach Alex Neil faced criticism after he ordered play to be halted following an allegation of racial abuse during a match. The decision to pause the game was taken amid accusations that a player had been subjected to discriminatory language from the crowd."
+   },
+   {
+    "type": "p",
+    "text": "Anti‑racism organisation Kick It Out responded by urging club managers to \"set the tone\" and address abuse proactively, rather than interrupting fixtures. The group highlighted the need for clear leadership from senior staff to combat racism in football and to ensure swift, consistent action when incidents arise."
+   },
+   {
+    "type": "p",
+    "text": "While Neil’s intention was to investigate the claim, the move sparked debate within the sport about the best procedures for handling such allegations on the field. Officials and supporters alike are calling for standardized protocols that balance player safety with the continuity of the match."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights ongoing challenges in tackling racism in European football, a concern that resonates with broader anti‑discrimination efforts in sports worldwide."
+   }
+  ],
+  "key_points": [
+   "Millwall manager Alex Neil halted a game after a racial abuse allegation, drawing criticism.",
+   "Kick It Out urged managers to lead anti‑racism efforts and avoid stopping matches.",
+   "The incident has reignited discussion on how football should handle abuse claims during play."
+  ],
+  "meta_description": "Millwall boss Alex Neil was criticised for stopping a match after a racial abuse claim, prompting Kick It Out to call on managers to set a stronger…",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "football",
+   "racism",
+   "Millwall",
+   "Alex Neil",
+   "Kick It Out",
+   "English football"
+  ],
+  "slug": "millwall-manager-neil-criticised-stopping-game-over-abuse-claim-0a5dd8",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:58:16Z"
+ },
+ {
+  "id": "10dda5f966bf21f8",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c84g1rxr0dpno",
+  "source": "BBC Sport",
+  "source_title": "Red Bull F1 boss Mekies gets new deal to 2031",
+  "source_summary": "Red Bull team principal Laurent Mekies, who replaced Christian Horner at the F1 team, has his contract extended until the end of 2031.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a86/live/3ed1d980-c7ee-11f1-9bb8-8794f734d112.jpg",
+  "published": "2026-10-14T17:02:47+00:00",
+  "headline": "Red Bull F1 Team Principal Laurent Mekies Signs Contract Through 2031",
+  "body": [
+   {
+    "type": "p",
+    "text": "Red Bull Racing has announced that Laurent Mekies, who took over as team principal after Christian Horner, has secured a new contract extending his tenure until the close of the 2031 season. The decision was confirmed by the team in a statement released on October 14, 2026."
+   },
+   {
+    "type": "p",
+    "text": "Mekies, who previously served as sporting director for the outfit, will continue to lead the squad through a period that includes the upcoming regulation changes and the launch of new power‑unit technologies. The extension signals Red Bull’s confidence in his strategic direction and the stability of its leadership core."
+   },
+   {
+    "type": "p",
+    "text": "The long‑term deal places Mekies among the few Formula 1 executives with contracts that span multiple championship cycles, offering continuity for drivers, engineers and sponsors alike."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A stable leadership team helps Red Bull maintain its competitive edge in Formula 1, influencing championship outcomes and sponsor investments across Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Laurent Mekies' contract with Red Bull Racing now runs through the end of 2031.",
+   "The extension follows his promotion from sporting director to team principal after Christian Horner's departure.",
+   "Red Bull aims to maintain leadership stability amid upcoming F1 regulation changes."
+  ],
+  "meta_description": "Red Bull Racing extends team principal Laurent Mekies' contract to 2031, ensuring leadership stability ahead of new F1 regulations.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Red Bull",
+   "Formula 1",
+   "Laurent Mekies",
+   "team principal",
+   "contract",
+   "motorsport"
+  ],
+  "slug": "red-bull-f1-team-principal-laurent-mekies-signs-contract-10dda5",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:58:25Z"
+ },
+ {
+  "id": "daa50105e7e1443f",
+  "source_url": "https://www.nytimes.com/2026/10/14/world/middleeast/turkey-erdogan-opposition-halk-tv.html",
+  "source": "The New York Times",
+  "source_title": "Turkey Raids Pro-Opposition TV Station",
+  "source_summary": "The government appointed an overseer to the last big news channel critical of President Recep Tayyip Erdogan. The authorities have now replaced the leadership at five major news outlets.",
+  "source_tags": [
+   "Freedom of the Press",
+   "Erdogan, Recep Tayyip",
+   "Imamoglu, Ekrem",
+   "Turkey",
+   "Elections",
+   "Politics and Government",
+   "Appointments and Executive Changes",
+   "Television",
+   "Halk TV"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-turkey-TV-wcht/14int-turkey-TV-wcht-mediumSquareAt3X-v2.jpg",
+  "published": "2026-10-14T17:00:41+00:00",
+  "headline": "Turkey Replaces Leaders at Five Major News Outlets Critical of Erdogan",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Turkish government has installed an overseer at the country's last major news channel that regularly challenged President Recep Tayyip Erdogan. The move follows a broader crackdown on independent media."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have now removed and replaced the leadership at five leading news outlets, consolidating state control over the broadcast sector. The appointments were made without public consultation and signal a tightening of editorial oversight."
+   },
+   {
+    "type": "p",
+    "text": "The changes come amid ongoing concerns from international watchdogs about press freedom in Turkey, as the government seeks to curb dissenting voices in the media."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The crackdown on independent media raises concerns for U.S. and European partners about democratic backsliding and the erosion of press freedom in a NATO ally."
+   }
+  ],
+  "key_points": [
+   "Turkey appointed an overseer to the only major TV channel still critical of President Erdogan.",
+   "Leadership at five leading news outlets was replaced by government‑approved officials.",
+   "The actions intensify concerns over media independence in the country."
+  ],
+  "meta_description": "Turkey replaces leadership at five major news outlets, tightening state control over media critical of President Erdogan.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Turkey",
+   "media",
+   "Erdogan",
+   "press freedom",
+   "censorship",
+   "news outlets"
+  ],
+  "slug": "turkey-replaces-leaders-five-major-news-outlets-critical-erdogan-daa501",
+  "reading_minutes": 1,
+  "added": "2026-10-14T17:58:28Z"
+ },
+ {
   "id": "a57e6ddc2c18530f",
   "source_url": "https://www.nytimes.com/2026/10/14/business/media/hollywood-agents-producers-ron-howard.html",
   "source": "The New York Times",
