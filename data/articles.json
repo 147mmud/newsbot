@@ -1,5 +1,618 @@
 [
  {
+  "id": "6de63423a5570dc9",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o",
+  "source": "BBC News",
+  "source_title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+  "source_summary": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d4/live/9551bda0-c796-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-14T07:18:08+00:00",
+  "headline": "Royal Mail Faces Weekly Exodus of Hundreds of Staff Under New Plans",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Communication Workers Union (CWU) reports that hundreds of Royal Mail employees are quitting each week following the introduction of a new delivery system. The union says the efficiency plan has led to a surge in resignations across numerous post offices."
+   },
+   {
+    "type": "p",
+    "text": "According to the CWU, the new system, intended to speed up deliveries, is not functioning effectively in hundreds of locations. Staff members have voiced concerns that the changes increase workload and reduce service quality, prompting many to leave their positions."
+   },
+   {
+    "type": "p",
+    "text": "Royal Mail has not provided a comment on the union’s claims, and the impact on overall mail operations remains unclear as the turnover continues at a rapid pace."
+   }
+  ],
+  "key_points": [
+   "The CWU says hundreds of Royal Mail workers are resigning weekly under a new efficiency plan.",
+   "The union claims the new delivery system is failing in hundreds of post offices."
+  ],
+  "meta_description": "Royal Mail sees weekly resignations of hundreds of staff after a new delivery system rollout, according to the CWU.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Royal Mail",
+   "CWU",
+   "staff resignations",
+   "delivery system",
+   "UK postal service"
+  ],
+  "slug": "royal-mail-faces-weekly-exodus-hundreds-staff-under-new-6de634",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:06Z"
+ },
+ {
+  "id": "c2d73bc753bcc0e2",
+  "source_url": "https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "The hidden treasure in discarded wearable and fast tech",
+  "source_summary": "Sales of fast tech like mini fans and disposable e-vapes, as well as wearable health tech such as heart monitors and smart watches are soaring. They're creating a new e-waste problem but are full of hidden treasure.",
+  "source_tags": [
+   "Environment"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-14T06:52:00+00:00",
+  "headline": "Surging Sales of Disposable Tech Boost E‑Waste but Reveal Valuable Materials",
+  "body": [
+   {
+    "type": "p",
+    "text": "Sales of low‑cost fast tech—such as mini fans, disposable e‑vapes, and single‑use health wearables—are climbing rapidly, according to recent reports. The same trend is seen with more durable wearable devices like heart‑rate monitors and smart watches, which are also being discarded in larger numbers."
+   },
+   {
+    "type": "p",
+    "text": "The growing stream of discarded gadgets is creating a fresh e‑waste challenge for waste‑management systems worldwide. Yet experts note that these products contain recoverable metals, plastics and rare earth elements that can be extracted and reused, turning waste into a resource."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts suggest that the hidden treasure inside these devices could spur new recycling initiatives and supply chains, potentially easing pressure on raw‑material markets while reducing landfill burdens."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For consumers and policymakers in the US and Europe, the hidden value in e‑waste offers a chance to strengthen recycling loops and reduce dependence on imported raw materials."
+   }
+  ],
+  "key_points": [
+   "Fast‑tech and wearable sales are soaring, generating a new wave of e‑waste.",
+   "Discarded devices hold recoverable metals and rare earths that can be recycled.",
+   "Recovering these materials could create economic opportunities and lessen environmental impact."
+  ],
+  "meta_description": "Rising sales of disposable tech boost e‑waste but also contain recoverable materials, opening new recycling opportunities.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "e-waste",
+   "wearable technology",
+   "fast tech",
+   "recycling",
+   "consumer electronics"
+  ],
+  "slug": "surging-sales-disposable-tech-boost-ewaste-but-reveal-valuable-c2d73b",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:17Z"
+ },
+ {
+  "id": "07f2350861a2b6b5",
+  "source_url": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Germany news: Nord Stream sabotage suspect's trial opens",
+  "source_summary": "A Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. At the same time, Chancellor Merz is expected to give a major policy statement. DW has more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-14T06:51:00+00:00",
+  "headline": "German Court Begins Trial of Ukrainian Suspect in Nord Stream Sabotage",
+  "body": [
+   {
+    "type": "p",
+    "text": "A court in Hamburg opened proceedings on Thursday against a Ukrainian man accused of involvement in the 2022 sabotage of the Nord Stream gas pipelines. The defendant faces charges related to the alleged attack that disrupted a major conduit for Russian gas to Europe."
+   },
+   {
+    "type": "p",
+    "text": "The trial coincides with Chancellor Friedrich Merz’s scheduled appearance to deliver a major policy statement, underscoring the political significance of the case. German authorities have linked the sabotage to broader geopolitical tensions and are pursuing the case as part of a wider investigation into the incident."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts note that the outcome could have implications for international legal standards on state‑linked sabotage and for ongoing debates about European energy security."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trial addresses questions of accountability for attacks on critical energy infrastructure, a issue that affects European energy markets and U.S. interests in regional stability."
+   }
+  ],
+  "key_points": [
+   "A Ukrainian man is on trial in Hamburg for alleged participation in the 2022 Nord Stream pipeline sabotage.",
+   "The proceedings begin as Chancellor Friedrich Merz prepares to make a major policy announcement.",
+   "The case highlights continuing concerns over energy security and geopolitical retaliation in Europe."
+  ],
+  "meta_description": "A Ukrainian suspect faces trial in Hamburg for the 2022 Nord Stream sabotage as Germany's chancellor prepares a major policy statement.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nord Stream",
+   "sabotage",
+   "trial",
+   "Germany",
+   "Ukraine",
+   "energy security"
+  ],
+  "slug": "german-court-begins-trial-ukrainian-suspect-nord-stream-sabotage-07f235",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:25Z"
+ },
+ {
+  "id": "47d9a565e1b0a77e",
+  "source_url": "https://www.nytimes.com/2026/10/14/business/india-elon-musk-starlink.html",
+  "source": "The New York Times",
+  "source_title": "Musk Blames Tycoon for Stalling Satellite Internet Access in India",
+  "source_summary": "As Starlink seeks permission to operate in India, a recent protest in New Delhi showed how quickly authorities can cut off mobile internet access.",
+  "source_tags": [
+   "Satellites",
+   "Computers and the Internet",
+   "Communications and Media Blackouts",
+   "Starlink Satellite Constellation (SpaceX)",
+   "Musk, Elon",
+   "India"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-india-musk-01-hmzq/14biz-india-musk-01-hmzq-mediumSquareAt3X.jpg",
+  "published": "2026-10-14T06:33:53+00:00",
+  "headline": "Musk Says Indian Tycoon Delays Starlink Approval After Delhi Protest",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk accused a prominent Indian businessman of obstructing Starlink's bid for operating permission in India, following a recent demonstration in New Delhi that highlighted the government's ability to swiftly suspend mobile internet services."
+   },
+   {
+    "type": "p",
+    "text": "The protest, which took place in the capital, prompted authorities to temporarily block mobile data, underscoring regulatory challenges that satellite providers face in the country. Musk suggested the delay is not due to technical or policy issues but to the influence of the unnamed tycoon."
+   },
+   {
+    "type": "p",
+    "text": "Starlink, a satellite internet service owned by SpaceX, is seeking to expand its footprint in the Indian market, where demand for high‑speed connectivity remains high, especially in remote areas."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The delay could affect the rollout of high‑speed internet in underserved regions of India, influencing global satellite broadband competition and investment."
+   }
+  ],
+  "key_points": [
+   "Musk blames an Indian tycoon for hindering Starlink's licensing process.",
+   "A Delhi protest demonstrated how quickly Indian officials can cut mobile internet access.",
+   "Starlink's expansion in India faces regulatory and political obstacles."
+  ],
+  "meta_description": "Elon Musk blames an Indian tycoon for slowing Starlink's approval after a Delhi protest showed rapid internet shutdowns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "Starlink",
+   "India",
+   "Satellite Internet",
+   "Regulation",
+   "Protest"
+  ],
+  "slug": "musk-says-indian-tycoon-delays-starlink-approval-after-delhi-47d9a5",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:29Z"
+ },
+ {
+  "id": "dc6c472b6bc862cc",
+  "source_url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo",
+  "source": "BBC News",
+  "source_title": "Turkey police raid opposition TV station, halting live broadcasts",
+  "source_summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd58/live/148a7250-c798-11f1-b506-c77373b53604.jpg",
+  "published": "2026-10-14T06:32:02+00:00",
+  "headline": "Turkey Police Raid Opposition TV Station, Halt Live Broadcasts",
+  "body": [
+   {
+    "type": "p",
+    "text": "Police forces entered the headquarters of Halk TV in Istanbul early on Tuesday, forcing the opposition channel off the air. The raid prevented staff from accessing the building, and live transmissions were abruptly stopped."
+   },
+   {
+    "type": "p",
+    "text": "Halk TV officials said that employees were barred from entering the premises and that a new manager had been installed by authorities. The station, known for its critical coverage of the government, has not resumed broadcasting since the operation."
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores a growing pattern of pressure on media outlets that challenge the ruling party, raising concerns among journalists and international observers about press freedom in Turkey."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The raid highlights ongoing restrictions on independent media in Turkey, a concern for democratic partners in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Turkish police raided Halk TV in Istanbul, halting its live broadcasts.",
+   "Staff were denied entry to the station and a new manager was appointed by authorities."
+  ],
+  "meta_description": "Turkish police raid opposition channel Halk TV, stopping live broadcasts and appointing a new manager.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Turkey",
+   "media",
+   "police raid",
+   "Halk TV",
+   "press freedom"
+  ],
+  "slug": "turkey-police-raid-opposition-tv-station-halt-live-broadcasts-dc6c47",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:38Z"
+ },
+ {
+  "id": "f45ad460b1b62ca7",
+  "source_url": "https://www.theguardian.com/australia-news/audio/2026/oct/14/everything-you-need-to-know-about-the-midterms-decoding-america-podcast",
+  "source": "The Guardian",
+  "source_title": "Everything you need to know about the midterms – podcast",
+  "source_summary": "In this episode of Guardian Australia’s US politics podcast, co-hosts Reged Ahmad and Jonathan Yerushalmy take a special look at the midterms which are coming up in early November. All 435 House seats are up in this election as representatives only serve fixed two-year terms. In the Senate, 35 of 100 seats are up for grabs too as senators serve six-year terms. There are many predictions of a blue wave -– a big win for the Democratic party who are tipped to take back the House and Senate. But are pollsters being too optimistic? What are the factors that could instead allow the Republican party and the Trump administration to hold on to power in Congress? They also look at why US ambassador to Greece Kimberly Guilfoyle has been ousted from her job – and whether criticism of new White House press secretary Katie Zacharia is fair",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Donald Trump",
+   "US news",
+   "Trump administration",
+   "US politics",
+   "Democrats",
+   "Republicans"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/41af09636830921923752040cec0f4f3ff2a5116/0_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=4e1ac0ea3dfbdc1a6db8e44bf5c865c8",
+  "published": "2026-10-14T05:42:14+00:00",
+  "headline": "Midterm Election Outlook: House, Senate Seats and Poll Predictions",
+  "body": [
+   {
+    "type": "p",
+    "text": "In the latest episode of Guardian Australia’s U.S. politics podcast, co‑hosts Reged Ahmad and Jonathan Yerushalmy break down the upcoming November midterms. All 435 seats in the House of Representatives are contested, as members serve two‑year terms, while 35 of the 100 Senate seats are also on the ballot, with senators serving six‑year terms."
+   },
+   {
+    "type": "p",
+    "text": "The hosts note a wave of predictions forecasting a strong Democratic performance that could flip both chambers. They question whether pollsters are overly optimistic and examine factors that might help Republicans and the Trump‑aligned administration retain congressional control."
+   },
+   {
+    "type": "p",
+    "text": "The discussion also touches on the recent removal of U.S. ambassador to Greece Kimberly Guilfoyle and assesses criticism aimed at new White House press secretary Katie Zacharia."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The midterms will shape U.S. legislative direction and foreign policy, affecting transatlantic relations and economic ties."
+   }
+  ],
+  "key_points": [
+   "All 435 House seats and 35 Senate seats are up for election in November.",
+   "Polls suggest a possible Democratic ‘blue wave,’ but analysts warn of over‑optimism.",
+   "Political dynamics, including recent diplomatic and press‑office changes, could influence outcomes."
+  ],
+  "meta_description": "Guardian Australia podcast examines the 2026 U.S. midterms, House and Senate races, poll expectations and political factors influencing outcomes.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterms",
+   "U.S. House",
+   "U.S. Senate",
+   "polls",
+   "Democrats",
+   "Republicans"
+  ],
+  "slug": "midterm-election-outlook-house-senate-seats-poll-predictions-f45ad4",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:09Z"
+ },
+ {
+  "id": "6586874e42275539",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cx054n684g7do",
+  "source": "BBC Sport",
+  "source_title": "'No excuses' - but is Villa's stadium rebuild affecting team?",
+  "source_summary": "With Villa Park's North Stand currently closed for building work, is the reduced capacity affecting Aston Villa's performances?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e4f/live/5fa81060-c6eb-11f1-bc1b-8dfa7c975faa.jpg",
+  "published": "2026-10-14T05:41:06+00:00",
+  "headline": "Aston Villa Play With Reduced Capacity as North Stand Rebuild Continues",
+  "body": [
+   {
+    "type": "p",
+    "text": "Aston Villa are currently operating with a lower stadium capacity after the North Stand at Villa Park was closed for rebuilding work. The ongoing construction has left the stand unusable, cutting the number of seats available for fans attending matches."
+   },
+   {
+    "type": "p",
+    "text": "The reduction in capacity has prompted questions about whether the smaller crowd could be influencing the team's on‑field performances. Observers are watching closely to see if the altered atmosphere has any measurable effect on results in the Premier League."
+   },
+   {
+    "type": "p",
+    "text": "Club officials have not provided detailed comments on the impact of the construction, but the situation highlights the challenges clubs face when major infrastructure projects coincide with competitive fixtures."
+   }
+  ],
+  "key_points": [
+   "Villa Park's North Stand remains closed, reducing matchday capacity for Aston Villa.",
+   "The limited seating has raised speculation about its effect on the team's performance.",
+   "No official statements have confirmed a direct link between the rebuild and results."
+  ],
+  "meta_description": "Aston Villa play with fewer fans as Villa Park's North Stand rebuild cuts capacity, sparking debate over its impact on performance.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Aston Villa",
+   "Villa Park",
+   "stadium rebuild",
+   "Premier League",
+   "football"
+  ],
+  "slug": "aston-villa-play-with-reduced-capacity-north-stand-rebuild-658687",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:13Z"
+ },
+ {
+  "id": "cace9fae660b743e",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/14/trump-urges-alaska-vote-republican-dan-sullivan-midterms-battle",
+  "source": "The Guardian",
+  "source_title": "Trump urges Alaskans to vote for the ‘real’ Dan Sullivan in tight midterms battle",
+  "source_summary": "Republican senator Dan S Sullivan is vying for re-election against Democrat Mary Peltola – and another candidate called Dan J Sullivan Donald Trump has encouraged Alaskans to vote for the “real” Dan Sullivan, as he sought a breakthrough for the Republican incumbent senator in a tightly fought Senate race complicated by a rival candidate with a near-identical name. Sullivan’s re-election campaign this year against Democrat Mary Peltola, a former US House lawmaker, has turned into one of the most hotly contested battles of the midterm elections, in which Democrats are hoping to seize back control of Congress and hamper Trump for the final two years of his presidency.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Donald Trump",
+   "US news",
+   "US politics",
+   "Alaska",
+   "Republicans"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/117ae2f074de43583adfbeb4d615a46625d9e723/207_0_4548_3639/master/4548.jpg?width=700&quality=85&auto=format&fit=max&s=752df9022e9b5ec9b9c28369a43ca9ed",
+  "published": "2026-10-14T05:39:04+00:00",
+  "headline": "Trump Calls for Vote for “Real” Dan Sullivan in Alaska Senate Race",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump has publicly urged Alaskans to support incumbent Republican Senator Dan Sullivan, describing him as the “real” Dan Sullivan amid a confusing Senate contest. The appeal comes as Sullivan seeks re-election against Democratic challenger Mary Peltola, a former U.S. House member, and a third candidate named Dan J. Sullivan who shares a similar name."
+   },
+   {
+    "type": "p",
+    "text": "The race in Alaska has become one of the most closely watched contests of the 2026 midterm elections, with Democrats aiming to regain control of Congress. Trump’s endorsement is intended to help the Republican incumbent navigate the potential voter confusion caused by the similarly named opponent."
+   },
+   {
+    "type": "p",
+    "text": "Political observers note that the outcome could influence the broader balance of power in the Senate, as the seat is considered pivotal in the tightly contested national landscape."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Alaska Senate seat could affect the overall partisan balance in the U.S. Senate, influencing legislative priorities for the next two years."
+   }
+  ],
+  "key_points": [
+   "Donald Trump urged Alaskans to vote for incumbent Senator Dan Sullivan, labeling him the “real” Dan Sullivan.",
+   "Sullivan faces Democrat Mary Peltola and a similarly named candidate, Dan J. Sullivan, in a tight Senate race.",
+   "The contest is viewed as crucial for control of the U.S. Senate in the 2026 midterms."
+  ],
+  "meta_description": "Trump backs incumbent Dan Sullivan in Alaska's tight Senate race, warning against confusion with similarly named candidate.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Alaska Senate",
+   "Dan Sullivan",
+   "midterm elections",
+   "Mary Peltola"
+  ],
+  "slug": "trump-calls-vote-real-dan-sullivan-alaska-senate-race-cace9f",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:21Z"
+ },
+ {
+  "id": "76e60703ae38a736",
+  "source_url": "https://www.nytimes.com/2026/10/13/business/media/cnn-ms-now-and-politico-ban-ruling.html",
+  "source": "The New York Times",
+  "source_title": "Federal Judge Again Blocks Trump’s Ban on CNN, MS NOW and Politico",
+  "source_summary": "The ruling will allow the outlets to enter the White House grounds while they sue to overturn the ban. But it doesn’t resolve all of their access problems.",
+  "source_tags": [
+   "Decisions and Verdicts",
+   "United States Politics and Government",
+   "Federal Courts (US)",
+   "News and News Media",
+   "Television",
+   "Courts and the Judiciary",
+   "White House Building (Washington, DC)",
+   "Suits and Litigation (Civil)",
+   "CNN",
+   "MS NOW"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-press-ban-ruling-bcqg/13biz-press-ban-ruling-bcqg-mediumSquareAt3X-v2.jpg",
+  "published": "2026-10-14T05:33:02+00:00",
+  "headline": "Federal Judge Blocks Trump's Ban on CNN, MSNBC, Politico Access",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge has again issued an order preventing former President Donald Trump’s ban on three news outlets—CNN, MSNBC and Politico—from entering the White House grounds. The ruling permits the organizations to resume on‑site reporting while they continue legal challenges aimed at overturning the ban entirely."
+   },
+   {
+    "type": "p",
+    "text": "The decision does not settle every dispute over the outlets’ access. Several procedural and logistical issues remain unresolved, meaning the media companies may still face limitations on certain areas or events within the White House complex as the lawsuits proceed."
+   },
+   {
+    "type": "p",
+    "text": "Legal analysts note that the judge’s repeated interventions underscore ongoing tensions between the executive branch and the press over the scope of First Amendment protections in the nation’s capital."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision affects how major news organizations can cover the White House, reflecting broader debates about press rights in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "A federal judge has blocked Trump’s ban, allowing CNN, MSNBC and Politico back onto White House grounds.",
+   "The ruling leaves some access issues unsettled as the outlets continue their lawsuits.",
+   "The case highlights continuing legal battles over press freedom and executive authority."
+  ],
+  "meta_description": "Federal judge blocks Trump's ban on CNN, MSNBC and Politico, allowing limited White House access while lawsuits continue.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "White House",
+   "press freedom",
+   "CNN",
+   "MSNBC",
+   "court ruling"
+  ],
+  "slug": "federal-judge-blocks-trump-s-ban-cnn-msnbc-politico-76e607",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:41Z"
+ },
+ {
+  "id": "d1ce815f4d3d5184",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko",
+  "source": "BBC News",
+  "source_title": "Chris Mason: Lib Dems rally behind Davey as he pledges change",
+  "source_summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d25/live/2922f8c0-c768-11f1-b10a-17422b0170eb.jpg",
+  "published": "2026-10-14T05:11:33+00:00",
+  "headline": "Democrats Unite Behind Leader Davey Amid Frontbench Resignations",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Liberal Democrats have rallied around their new leader, Sir Ed Davey, after a wave of frontbench resignations shook the party last week. In a televised address, Davey pledged a fresh agenda focused on electoral reform, climate action and restoring public trust in the party."
+   },
+   {
+    "type": "p",
+    "text": "Party members and senior figures expressed support for Davey, emphasizing the need for stability as the government faces critical votes on the budget and Brexit‑related legislation. The resignations, which involved several high‑profile MPs, were linked to disagreements over the party’s strategic direction and its role in the coalition government."
+   },
+   {
+    "type": "p",
+    "text": "Analysts say the swift consolidation of support could help the Liberal Democrats maintain their influence in Parliament, but the internal turmoil may also expose deeper divisions that could affect upcoming local elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights shifting dynamics in UK politics, which could influence coalition negotiations and policy outcomes relevant to European partners."
+   }
+  ],
+  "key_points": [
+   "Liberal Democrat leader Ed Davey received broad backing after multiple frontbench resignations.",
+   "Davey outlined a new policy platform aimed at reform and climate action.",
+   "The party’s unity is seen as crucial for its parliamentary influence ahead of key votes."
+  ],
+  "meta_description": "Liberal Democrat leader Ed Davey gains party support after frontbench resignations, pledging reforms and climate action.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "liberal-democrats",
+   "uk-politics",
+   "leadership",
+   "frontbench-resignations",
+   "party-unity"
+  ],
+  "slug": "democrats-unite-behind-leader-davey-amid-frontbench-resignations-d1ce81",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:34Z"
+ },
+ {
+  "id": "e8b1a20e862bcf41",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+  "source": "The Guardian",
+  "source_title": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
+  "source_summary": "District court judge Timothy Kelly was ruling after the Trump administration blocked access to the three outlets in September A federal judge ordered the White House on Tuesday to continue allowing journalists from CNN, MS Now and Politico to access the building as the media coalition’s lawsuit against the Trump administration plays out. Timothy Kelly, a district court judge, had on 24 September granted a 14-day reprieve for the news organizations, which six days earlier had been banned by the president in an extraordinary move from entering the White House grounds “as a result of their constant ‘reporting’ FAKE NEWS”.",
+  "source_tags": [
+   "Trump administration",
+   "Media",
+   "Business",
+   "CNN",
+   "MS Now",
+   "US news",
+   "Donald Trump",
+   "US politics",
+   "US television industry",
+   "US press and publishing"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/8eeeccbb67b79fe20efeef6b9aaa834c81948498/641_0_5512_4413/master/5512.jpg?width=700&quality=85&auto=format&fit=max&s=fb009ce66338cbec7105e0fd1d8cbfc5",
+  "published": "2026-10-14T04:34:29+00:00",
+  "headline": "Judge Orders White House to Keep CNN, MS Now, Politico Access",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal district court judge has ordered the White House to continue allowing journalists from CNN, MS Now and Politico onto the White House grounds. The ruling comes as the media coalition’s lawsuit against the Trump administration proceeds."
+   },
+   {
+    "type": "p",
+    "text": "Judge Timothy Kelly had previously granted a 14‑day reprieve on 24 September after the administration barred the three outlets in early September, citing what it called “constant ‘reporting’ FAKE NEWS.” The latest order extends that temporary relief while the legal challenge unfolds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling underscores ongoing tensions over press freedom and government control of media access in the United States."
+   }
+  ],
+  "key_points": [
+   "Judge Timothy Kelly extended court‑ordered access for CNN, MS Now and Politico to the White House.",
+   "The decision follows a September ban imposed by the Trump administration and a 14‑day reprieve granted on 24 September.",
+   "The media coalition’s lawsuit continues to contest the administration’s restrictions on press access."
+  ],
+  "meta_description": "Federal judge extends White House access for CNN, MS Now and Politico after a September ban by the Trump administration.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "White House",
+   "press freedom",
+   "CNN",
+   "Politico",
+   "court ruling"
+  ],
+  "slug": "judge-orders-white-house-keep-cnn-ms-now-politico-e8b1a2",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:45Z"
+ },
+ {
   "id": "018d1b6a7724532c",
   "source_url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
   "source": "TechCrunch",
@@ -1224,6 +1837,58 @@
   "slug": "lawyer-fed-governor-lisa-cook-criticizes-trump-probe-5ed5e0",
   "reading_minutes": 1,
   "added": "2026-10-13T23:05:42Z"
+ },
+ {
+  "id": "70cedc6a3f6472b4",
+  "source_url": "https://www.bbc.co.uk/sport/american-football/articles/c5zjxnwm8dzpo",
+  "source": "BBC Sport",
+  "source_title": "Rams player suspended for punch & kicker cut by club",
+  "source_summary": "The fallout from the Los Angeles Rams' defeat by the Buffalo Bills continues as offensive lineman Alaric Jackson is suspended for punching an opponent while kicker Harrison Mevis is released.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dbc/live/aa138050-c74d-11f1-b4d5-87f9c6c95a29.png",
+  "published": "2026-10-13T21:47:36+00:00",
+  "headline": "Rams Suspend Alaric Jackson After Punch, Release Kicker Mevis",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Los Angeles Rams have taken disciplinary action following their recent loss to the Buffalo Bills. Offensive lineman Alaric Jackson was suspended after video showed him throwing a punch at an opponent during the game."
+   },
+   {
+    "type": "p",
+    "text": "In a separate move, the Rams cut kicker Harrison Mevis from the roster. The club announced the release shortly after the suspension, citing performance considerations."
+   },
+   {
+    "type": "p",
+    "text": "Both decisions come as the Rams look to regroup ahead of the next series of games, aiming to address on‑field conduct and roster depth after the defeat."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The actions highlight the NFL's focus on player conduct and could affect the Rams' competitiveness as the season progresses."
+   }
+  ],
+  "key_points": [
+   "Alaric Jackson received a suspension for punching an opponent in the Rams' loss to the Bills.",
+   "Kicker Harrison Mevis was released by the Los Angeles Rams shortly thereafter."
+  ],
+  "meta_description": "The Los Angeles Rams suspend Alaric Jackson for a punch and release kicker Harrison Mevis after a loss to the Buffalo Bills.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rams",
+   "NFL",
+   "suspension",
+   "player release",
+   "Buffalo Bills"
+  ],
+  "slug": "rams-suspend-alaric-jackson-after-punch-release-kicker-mevis-70cedc",
+  "reading_minutes": 1,
+  "added": "2026-10-14T07:29:49Z"
  },
  {
   "id": "72655eef520abef1",
