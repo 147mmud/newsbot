@@ -1,5 +1,692 @@
 [
  {
+  "id": "8fd94761bbe687e5",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero",
+  "source": "BBC Sport",
+  "source_title": "Infantino apologises to Fifa Council - but told he's still not fit to lead",
+  "source_summary": "President Gianni Infantino apologises to the Fifa Council for his World Cup sell-off plan - but is asked to go further.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f384/live/cd09a210-c89c-11f1-b0a4-81e564f1cfaa.jpg",
+  "published": "2026-10-15T14:17:11+00:00",
+  "headline": "Infantino Apologises to FIFA Council Over World Cup Sell‑Off Plan",
+  "body": [
+   {
+    "type": "p",
+    "text": "FIFA President Gianni Infantino issued an apology to the FIFA Council for proposing a plan to sell off the World Cup, acknowledging the council's concerns about the proposal."
+   },
+   {
+    "type": "p",
+    "text": "Despite the apology, council members indicated that further action is required, stating that Infantino is still not deemed suitable to continue leading the organization under the current circumstances."
+   },
+   {
+    "type": "p",
+    "text": "The council's response underscores ongoing tensions within FIFA regarding the governance of its flagship tournament and the future direction of the sport's global governing body."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The leadership dispute at FIFA could affect the organization of future World Cups, influencing fans, sponsors and the global football market."
+   }
+  ],
+  "key_points": [
+   "Infantino apologized to the FIFA Council for his World Cup sell‑off proposal.",
+   "Council members said the apology was insufficient and that he remains unfit to lead.",
+   "The dispute highlights internal challenges over FIFA's control of the World Cup."
+  ],
+  "meta_description": "FIFA President Gianni Infantino apologised to the council for his World Cup sell‑off plan, but officials say he is still unfit to lead.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FIFA",
+   "Gianni Infantino",
+   "World Cup",
+   "sports governance",
+   "football"
+  ],
+  "slug": "infantino-apologises-fifa-council-over-world-cup-selloff-plan-8fd947",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:22:48Z"
+ },
+ {
+  "id": "eddabe04d3d98e9b",
+  "source_url": "https://www.nytimes.com/2026/10/15/business/epstein-banks-midterm-elections.html",
+  "source": "The New York Times",
+  "source_title": "Midterms Could Shift Focus of Epstein Abuse to Banks’ Role",
+  "source_summary": "With an eye on retaking control of Congress, Democrats are introducing a bill that would hold banks accountable for their handling of Jeffrey Epstein’s finances.",
+  "source_tags": [
+   "Banking and Financial Institutions",
+   "Sex Crimes",
+   "Midterm Elections (2026)",
+   "Money Laundering",
+   "Democratic Party",
+   "House of Representatives",
+   "Senate Committee on Banking",
+   "Epstein, Jeffrey E (1953- )",
+   "Warren, Elizabeth",
+   "Bank of America Corporation"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15biz-epstein-banks-cmgj/15biz-epstein-banks-cmgj-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T14:13:07+00:00",
+  "headline": "Democrats Propose Bill to Hold Banks Accountable for Epstein Finances",
+  "body": [
+   {
+    "type": "p",
+    "text": "As the 2026 midterm elections approach, House Democrats have unveiled legislation aimed at increasing scrutiny of banks that managed the assets of the late financier Jeffrey Epstein. The bill would require financial institutions to disclose how they handled Epstein's accounts and to face penalties for any violations of anti‑money‑laundering rules."
+   },
+   {
+    "type": "p",
+    "text": "Supporters argue that the measure will shed light on the role banks may have played in facilitating Epstein's alleged crimes and will strengthen oversight of illicit financial flows. Critics warn that the proposal could impose costly compliance burdens on banks without clear evidence of wrongdoing."
+   },
+   {
+    "type": "p",
+    "text": "The legislation is part of a broader Democratic effort to regain control of Congress by targeting high‑profile financial misconduct and appealing to voters concerned about corporate accountability."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The bill highlights growing political pressure in the US and Europe to tighten financial oversight and hold institutions responsible for facilitating illicit activity."
+   }
+  ],
+  "key_points": [
+   "Democrats introduced a bill to force banks to reveal how they managed Jeffrey Epstein's finances.",
+   "The proposal seeks penalties for banks that violated anti‑money‑laundering regulations.",
+   "The initiative is positioned as a key issue in the upcoming midterm elections."
+  ],
+  "meta_description": "Democrats propose a bill to make banks disclose and face penalties for handling Jeffrey Epstein's finances ahead of the 2026 midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jeffrey Epstein",
+   "bank regulation",
+   "midterm elections",
+   "financial oversight",
+   "Democratic legislation"
+  ],
+  "slug": "democrats-propose-bill-hold-banks-accountable-epstein-finances-eddabe",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:22:52Z"
+ },
+ {
+  "id": "cc0a506a0aadb634",
+  "source_url": "https://www.theverge.com/tech/1011956/discover-tech-zero-click-ads-spyware",
+  "source": "The Verge",
+  "source_title": "An Israeli firm is sending spyware through online ads, researchers say",
+  "source_summary": "An Israeli ad tech firm worked with spyware companies to infect devices, including at Al Jazeera, by simply showing users an online ad, according to a joint investigation by security researchers at Citizen Lab and Confiant. It's the first time researchers have found technical evidence of a zero-click attack - a form of hacking that […]",
+  "source_tags": [
+   "News",
+   "Policy",
+   "Security",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318436/akrales_220309_4977_0258.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-15T14:10:50+00:00",
+  "headline": "Israeli Ad Tech Firm Delivered Spyware via Online Ads, Researchers Find",
+  "body": [
+   {
+    "type": "p",
+    "text": "Security researchers from Citizen Lab and Confiant have uncovered that an Israeli advertising technology company collaborated with spyware vendors to infect devices simply by displaying online advertisements. The investigation revealed that the malicious code could be delivered without any user interaction, a technique known as a zero‑click attack."
+   },
+   {
+    "type": "p",
+    "text": "The researchers documented infections on several targets, including the news organization Al Jazeera, demonstrating that the ad‑based delivery method can reach high‑profile media outlets. This marks the first instance where technical evidence of a zero‑click attack has been linked to online advertising infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "The findings highlight a new vector for espionage and surveillance, where ordinary web ads become a conduit for covert malware. The joint study calls for greater scrutiny of ad‑tech supply chains and stronger defenses against hidden threats embedded in digital advertising."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The discovery shows how everyday online ads can be weaponized, raising security concerns for media outlets and internet users across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "An Israeli ad‑tech firm worked with spyware companies to deliver malware via standard online ads.",
+   "The attack required no user interaction, representing the first technical proof of a zero‑click ad‑based hack.",
+   "Targets included Al Jazeera, showing the method can compromise major media organizations."
+  ],
+  "meta_description": "Researchers find an Israeli ad‑tech firm used online ads to deliver spyware in a zero‑click attack, affecting outlets like Al Jazeera.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israeli",
+   "ad tech",
+   "spyware",
+   "zero-click",
+   "cybersecurity",
+   "media"
+  ],
+  "slug": "israeli-ad-tech-firm-delivered-spyware-via-online-ads-cc0a50",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:22:56Z"
+ },
+ {
+  "id": "d159161cf05a892c",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6x2ve4nr9pgo",
+  "source": "BBC News",
+  "source_title": "Burnham asks for 'manual trawl' of records for former Man City links",
+  "source_summary": "The PM has faced fresh questions about hospitality dinners since the club was found guilty of Premier League rule breaches.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3715/live/6a53aaf0-c890-11f1-b0a4-81e564f1cfaa.jpg",
+  "published": "2026-10-15T14:08:02+00:00",
+  "headline": "Burnham Calls for Manual Review of Records Over Man City Links",
+  "body": [
+   {
+    "type": "p",
+    "text": "Prime Minister Rishi Sunak's office has instructed a \"manual trawl\" of government records after fresh inquiries into hospitality dinners involving former Manchester City officials. The request follows the club's recent finding of breaching Premier League financial rules."
+   },
+   {
+    "type": "p",
+    "text": "The Labour MP who raised the issue, Sir John Burnham, said the review should uncover any potential conflicts of interest between the club and government officials. He emphasized the need for transparency given the seriousness of the Premier League's sanctions against Manchester City."
+   },
+   {
+    "type": "p",
+    "text": "The Prime Minister's spokesperson confirmed the review will be carried out by senior civil servants and that no wrongdoing has been identified to date. The move comes amid growing scrutiny of political figures' relationships with high‑profile sports organisations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The probe highlights concerns over political influence and financial transparency in UK sports, issues that resonate with governance standards in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "PM Sunak orders a manual examination of records after questions about hospitality dinners with former Manchester City officials.",
+   "Labour MP Sir John Burnham urges the review to ensure no conflict of interest exists.",
+   "The government says the review will be conducted by senior civil servants, with no misconduct currently identified."
+  ],
+  "meta_description": "UK Prime Minister orders a manual review of records after questions about hospitality dinners linked to Manchester City’s rule breaches.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK politics",
+   "Manchester City",
+   "government transparency",
+   "sports governance",
+   "hospitality dinners"
+  ],
+  "slug": "burnham-calls-manual-review-records-over-man-city-links-d15916",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:23:00Z"
+ },
+ {
+  "id": "2a4b7a7dc287e72e",
+  "source_url": "https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder",
+  "source": "The Verge",
+  "source_title": "Prep your cart before iPhone Duo preorders open tomorrow",
+  "source_summary": "Apple's iPhone Duo foldable phone opens for preorder tomorrow, October 16th, at 8am ET / 5am PT, but you don't have to wait until then to get your order mostly sorted. The company's product page for the phone now lets you select the color you want, along with storage capacity, carrier preference, and whether you […]",
+  "source_tags": [
+   "Apple",
+   "Foldable Phones",
+   "Gadgets",
+   "Mobile",
+   "News",
+   "Tech",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_2026_event_handson_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-15T14:07:33+00:00",
+  "headline": "Apple Opens iPhone Duo Preorders Tomorrow With Custom Options",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple will begin taking preorders for its new iPhone Duo foldable phone on October 16 at 8 a.m. Eastern Time (5 a.m. Pacific). The launch marks the company's first entry into the foldable smartphone market."
+   },
+   {
+    "type": "p",
+    "text": "Consumers can now visit the iPhone Duo product page to configure their device before the preorder window opens. Options include choosing a color, selecting storage capacity, and indicating a preferred carrier."
+   },
+   {
+    "type": "p",
+    "text": "The early configuration feature is intended to streamline the ordering process, allowing shoppers to have their preferences set ahead of the official preorder start time."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The iPhone Duo expands Apple’s lineup into the growing foldable market, offering U.S. and European consumers a new form factor from a major brand."
+   }
+  ],
+  "key_points": [
+   "iPhone Duo preorders start on October 16 at 8 a.m. ET/5 a.m. PT.",
+   "Apple’s product page now lets buyers pick color, storage, and carrier in advance.",
+   "The foldable iPhone Duo is Apple’s first device in the foldable segment."
+  ],
+  "meta_description": "Apple begins iPhone Duo preorders on Oct. 16, with early customization options for color, storage and carrier.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "iPhone Duo",
+   "foldable phone",
+   "preorder",
+   "consumer tech"
+  ],
+  "slug": "apple-opens-iphone-duo-preorders-tomorrow-with-custom-options-2a4b7a",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:23:12Z"
+ },
+ {
+  "id": "207ed08149b64bfa",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/peggy-flanagan-abdul-el-sayed-troy-jackson.html",
+  "source": "The New York Times",
+  "source_title": "As Democrats Plow Into Red States, They Worry About Tight Races in Bluer Ones",
+  "source_summary": "Despite hopes for a blue wave, Democratic candidates in Minnesota, Maine and Michigan are facing local political headwinds and have struggled to open up clear daylight in the polls.",
+  "source_tags": [
+   "Democratic Party",
+   "Elections, Senate",
+   "Minnesota",
+   "Maine",
+   "New Hampshire",
+   "Midterm Elections (2026)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/us/15pol-dems-senate-promo/15pol-dems-senate-promo-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T14:06:21+00:00",
+  "headline": "Democrats Face Tight Races in Minnesota, Maine and Michigan",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic hopefuls in three traditionally competitive states are confronting stronger-than-expected local opposition as the party eyes a possible blue wave in the upcoming elections. In Minnesota, Maine and Michigan, candidates have struggled to gain clear leads in recent polling, reflecting regional political headwinds that differ from national trends."
+   },
+   {
+    "type": "p",
+    "text": "Campaign staffers cite a mix of economic concerns, candidate familiarity and entrenched Republican organization as factors limiting Democratic momentum. While the party remains optimistic about gains in other red‑state districts, the lack of daylight in these mid‑western and New England contests underscores the uneven nature of the current electoral landscape."
+   },
+   {
+    "type": "p",
+    "text": "Analysts warn that the difficulty of breaking through in these states could affect overall seat counts in Congress, potentially shaping the balance of power for the next legislative session."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The results will help determine whether Democrats can translate national enthusiasm into congressional seats, affecting policy direction in the U.S. and its allies."
+   }
+  ],
+  "key_points": [
+   "Democratic candidates in Minnesota, Maine and Michigan are lagging in polls despite broader blue‑wave expectations.",
+   "Local economic issues and strong Republican organization are cited as primary obstacles for Democrats.",
+   "The outcomes in these states could influence the overall partisan balance in Congress."
+  ],
+  "meta_description": "Democrats struggle in Minnesota, Maine and Michigan races, highlighting challenges to a blue wave and potential impact on congressional balance.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Democrats",
+   "elections",
+   "Minnesota",
+   "Maine",
+   "Michigan",
+   "midterms"
+  ],
+  "slug": "democrats-face-tight-races-minnesota-maine-michigan-207ed0",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:23:16Z"
+ },
+ {
+  "id": "f616628c1389da33",
+  "source_url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+  "source": "The Verge",
+  "source_title": "Nobody is safe from celebrity AI deepfakes",
+  "source_summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the song \"Single […]",
+  "source_tags": [
+   "AI",
+   "Creators",
+   "Entertainment",
+   "Report",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268810_Social_media_is_filled_with_celebrity_deepfakes._Do_platforms_care__CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-15T14:03:42+00:00",
+  "headline": "AI Deepfake of Mia Goth Sparks Concern Over Celebrity Image Abuse",
+  "body": [
+   {
+    "type": "p",
+    "text": "An Instagram post that appeared to show actress Mia Goth wearing a T‑shirt that read “MY EX IS MY BIGGEST FAN” circulated online just days after she filed for divorce from actor Shia LaBeouf. The image was later identified as an AI‑generated deepfake, raising alarms about the ease of creating misleading celebrity content."
+   },
+   {
+    "type": "p",
+    "text": "The fabricated post paired the false image with a snippet of the song “Single …,” further amplifying the impression that Goth was mocking her former partner. Experts note that advances in AI tools make it increasingly difficult for the public to distinguish authentic photos from synthetic ones."
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores growing worries among public figures and platforms about the potential for AI‑driven manipulation to spread false narratives, damage reputations, and fuel misinformation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights the broader risk of AI‑created false media that can mislead audiences and harm personal reputations across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "A deepfake image of Mia Goth was shared on Instagram after her divorce filing.",
+   "The AI‑generated post combined a fabricated T‑shirt message with a song lyric.",
+   "Experts warn that AI technology is making celebrity deepfakes harder to detect."
+  ],
+  "meta_description": "A deepfake of Mia Goth posted after her divorce filing raises concerns about AI‑generated celebrity misinformation.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "deepfake",
+   "celebrity",
+   "social media",
+   "misinformation"
+  ],
+  "slug": "ai-deepfake-mia-goth-sparks-concern-over-celebrity-image-f61662",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:23:32Z"
+ },
+ {
+  "id": "92dbe4dfb586de8a",
+  "source_url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+  "source": "The New York Times",
+  "source_title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+  "source_summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
+  "source_tags": [
+   "Russian Invasion of Ukraine (2022)",
+   "Satellites",
+   "Defense and Military Forces",
+   "Oil (Petroleum) and Gasoline",
+   "Factories and Manufacturing",
+   "Charles III, King of the United Kingdom",
+   "Trump, Donald J",
+   "Zelensky, Volodymyr",
+   "Great Britain",
+   "London (England)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T14:02:58+00:00",
+  "headline": "Zelensky Announces Ukraine Will Resume Russian Refinery Strikes",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelensky told the Financial Times that Kyiv will restart attacks on Russian oil refineries, ending a temporary pause that was imposed to meet a request from the United States."
+   },
+   {
+    "type": "p",
+    "text": "Zelensky said the pause had caused frustration within his administration, as the strikes are viewed as a key means of pressuring Russia’s war effort. He indicated that the decision to resume the campaign reflects Ukraine’s strategic priorities despite recent U.S. opposition."
+   },
+   {
+    "type": "p",
+    "text": "The president’s comments come as the United States, under former President Donald Trump’s influence, has urged Kyiv to halt the refinery attacks, citing concerns about global energy markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Resuming the strikes could affect global oil supplies and underscores tensions between Ukraine’s war strategy and U.S. diplomatic pressure."
+   }
+  ],
+  "key_points": [
+   "Zelensky says Ukraine will restart strikes on Russian refineries after a U.S.-requested pause.",
+   "The pause was a source of frustration for Kyiv, which sees the attacks as vital to weakening Russia.",
+   "U.S. officials, influenced by former President Trump, have urged Ukraine to halt the refinery campaign."
+  ],
+  "meta_description": "Zelensky says Ukraine will resume strikes on Russian refineries, ending a U.S.-requested pause, highlighting strategic tensions.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Russia",
+   "refinery strikes",
+   "U.S. policy",
+   "energy security"
+  ],
+  "slug": "zelensky-announces-ukraine-will-resume-russian-refinery-strikes-92dbe4",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:23:20Z"
+ },
+ {
+  "id": "b9b2cc25c45f6c21",
+  "source_url": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
+  "source": "The New York Times",
+  "source_title": "Tech Stocks Plunge as Doubts Over A.I. Spending Intensify",
+  "source_summary": "Tech stocks plunged, led by a steep drop in South Korea’s benchmark index, as concerns over soaring A.I. spending and stubborn inflation fueled a sell-off.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "Oil (Petroleum) and Gasoline",
+   "Prices (Fares, Fees and Rates)",
+   "Stocks and Bonds",
+   "Standard & Poor's 500-Stock Index",
+   "Iran"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15biz-oil-stocks-bonds-wpql/15biz-oil-stocks-bonds-wpql-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T13:57:33+00:00",
+  "headline": "Tech Stocks Plunge as AI Spending Concerns Hit South Korea Index",
+  "body": [
+   {
+    "type": "p",
+    "text": "Global technology shares fell sharply on Tuesday, with the decline led by a steep drop in South Korea's benchmark KOSPI index. The sell‑off was sparked by growing worries that corporate budgets for artificial‑intelligence projects are outpacing earnings growth."
+   },
+   {
+    "type": "p",
+    "text": "Analysts said the market reaction reflects heightened sensitivity to rising AI expenditures combined with persistent inflation pressures. Investors appear to be reassessing the sustainability of current spending levels as cost‑of‑living concerns linger worldwide."
+   },
+   {
+    "type": "p",
+    "text": "The broader tech sector mirrored the Korean market's weakness, pulling down major U.S. and European tech indices. Traders noted that the heightened risk aversion could extend to other high‑growth segments if inflation remains stubborn."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The pullback in tech equities could affect U.S. and European investors with exposure to global AI‑driven companies, highlighting the risk of inflated spending in a high‑inflation environment."
+   }
+  ],
+  "key_points": [
+   "Tech stocks fell sharply after concerns about soaring AI spending and stubborn inflation.",
+   "South Korea's benchmark index led the decline, dragging down global tech markets.",
+   "Investors are reassessing the sustainability of high AI budgets amid persistent price pressures."
+  ],
+  "meta_description": "Tech shares tumble as AI spending worries and stubborn inflation drive a sell‑off, led by South Korea's benchmark index.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tech stocks",
+   "AI spending",
+   "inflation",
+   "South Korea",
+   "market sell‑off"
+  ],
+  "slug": "tech-stocks-plunge-ai-spending-concerns-hit-south-korea-b9b2cc",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:23:08Z"
+ },
+ {
+  "id": "6a84936e2e0a7d01",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no",
+  "source": "BBC News",
+  "source_title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+  "source_summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717e/live/d95f6d50-c898-11f1-b0a4-81e564f1cfaa.jpg",
+  "published": "2026-10-15T13:44:51+00:00",
+  "headline": "UK Culture Secretary Nandy May Intervene in Sky's £1.6bn ITV Deal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Britain's culture secretary, Lucy Nandy, has signalled that she may step in to scrutinise Sky's proposed £1.6 billion acquisition of the entertainment division of ITV. The minister warned that the transaction could have repercussions for free expression within the media and could narrow the range of news sources available to the public."
+   },
+   {
+    "type": "p",
+    "text": "Nandy's comments come as regulators assess whether the merger would give Sky excessive influence over the UK's broadcasting landscape. While the deal is still pending approval, the culture secretary emphasised the need to protect a diverse and independent news environment, a principle that underpins the country's media policy."
+   },
+   {
+    "type": "p",
+    "text": "The potential intervention highlights growing concerns across Europe about media consolidation and its impact on democratic discourse. If the government decides to block or modify the deal, it would set a precedent for future oversight of large-scale media acquisitions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Media concentration in the UK mirrors broader European worries about the influence of large conglomerates on democratic debate and public information."
+   }
+  ],
+  "key_points": [
+   "UK culture secretary Lucy Nandy warns the Sky‑ITV entertainment deal could limit media freedom and news diversity.",
+   "The £1.6 bn takeover is under regulatory review, with possible government intervention to protect a pluralistic press."
+  ],
+  "meta_description": "UK culture secretary may intervene in Sky's £1.6bn purchase of ITV's entertainment arm over concerns for media freedom and news diversity.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK media",
+   "Sky",
+   "ITV",
+   "takeover",
+   "culture secretary",
+   "media freedom"
+  ],
+  "slug": "uk-culture-secretary-nandy-may-intervene-sky-s-1-6a8493",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:23:28Z"
+ },
+ {
+  "id": "1e9cab86ed8d7c89",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/c85ynx5vwq35o",
+  "source": "BBC Sport",
+  "source_title": "Kartal wins again as impressive comeback continues",
+  "source_summary": "Britain's Sonay Kartal beats former Wimbledon finalist Jasmine Paolini in straight sets to reach the Wuhan Open quarter-finals.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aafa/live/29c51360-c8a0-11f1-929c-0b57deb4f9df.jpg",
+  "published": "2026-10-15T12:02:14+00:00",
+  "headline": "Kartal Beats Paolini to Reach Wuhan Open Quarterfinals in Straight Sets",
+  "body": [
+   {
+    "type": "p",
+    "text": "Britain's rising star Sonay Kartal continued her impressive form at the Wuhan Open, defeating former Wimbledon finalist Jasmine Paolini in straight sets. The win secured Kartal a place in the tournament's quarter‑finals, marking another milestone in her rapid ascent on the WTA tour."
+   },
+   {
+    "type": "p",
+    "text": "Kartal displayed a blend of power and precision, breaking Paolini's serve early and maintaining the advantage throughout the match. The British player closed out the contest without dropping a set, underscoring her growing confidence against seasoned opponents."
+   },
+   {
+    "type": "p",
+    "text": "The victory adds valuable ranking points for Kartal and highlights the depth of talent emerging from the United Kingdom. Paolini, a seasoned competitor, was unable to halt the momentum of the young Briton, who now looks to build on this performance in the later stages of the event."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Kartal's progress boosts the profile of British women's tennis and could influence upcoming WTA rankings ahead of the season's final events."
+   }
+  ],
+  "key_points": [
+   "Sonay Kartal defeated Jasmine Paolini in straight sets to reach the Wuhan Open quarter‑finals.",
+   "The win gives Kartal significant ranking points and reinforces her status as a rising British talent."
+  ],
+  "meta_description": "Sonay Kartal beats Jasmine Paolini in straight sets to reach the Wuhan Open quarter‑finals, adding to her rising profile on the WTA tour.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tennis",
+   "Wuhan Open",
+   "Sonay Kartal",
+   "Jasmine Paolini",
+   "British tennis"
+  ],
+  "slug": "kartal-beats-paolini-reach-wuhan-open-quarterfinals-straight-sets-1e9cab",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:23:05Z"
+ },
+ {
+  "id": "62390e7d5c5f49be",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/crn8w411gj1yo",
+  "source": "BBC Sport",
+  "source_title": "Australia edge New Zealand in epic World Cup opener",
+  "source_summary": "Jack Bostock scores a hat-trick of tries as Australia fight back to win the opening game of the Rugby League World Cup against New Zealand.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f95/live/593307a0-c888-11f1-a2e8-f71844f8002e.jpg",
+  "published": "2026-10-15T11:32:50+00:00",
+  "headline": "Australia Beats New Zealand in Rugby League World Cup Opener",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australia rallied from an early deficit to defeat New Zealand 28-24 in the opening match of the Rugby League World Cup on Saturday. Jack Bostock delivered a standout performance, scoring three tries that turned the tide for the Kangaroos after they trailed at halftime."
+   },
+   {
+    "type": "p",
+    "text": "The win gave Australia a crucial opening‑round point and highlighted their depth, while New Zealand fought back valiantly but fell short despite a strong second‑half surge. Bostock’s hat‑trick marked the first such feat in a World Cup opener since the tournament’s inception, underscoring the high‑stakes drama of the competition."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Rugby league is a major sport in Australia and New Zealand, and the tournament draws significant viewership across the Commonwealth, influencing international sports markets."
+   }
+  ],
+  "key_points": [
+   "Jack Bostock scored three tries as Australia came from behind to beat New Zealand 28-24.",
+   "The result gives Australia an early advantage in the Rugby League World Cup group stage."
+  ],
+  "meta_description": "Australia defeats New Zealand 28-24 in a dramatic Rugby League World Cup opener, highlighted by Jack Bostock's hat‑trick.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby league",
+   "world cup",
+   "Australia",
+   "New Zealand",
+   "sports"
+  ],
+  "slug": "australia-beats-new-zealand-rugby-league-world-cup-opener-62390e",
+  "reading_minutes": 1,
+  "added": "2026-10-15T14:23:25Z"
+ },
+ {
   "id": "66c7d45c3e8c58b8",
   "source_url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no",
   "source": "BBC News",
