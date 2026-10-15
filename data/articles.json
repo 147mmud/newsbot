@@ -1,5 +1,634 @@
 [
  {
+  "id": "600b47563b41fc50",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
+  "source": "BBC News",
+  "source_title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+  "source_summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg",
+  "published": "2026-10-15T04:19:17+00:00",
+  "headline": "Anthropic Reports Revenue Surge Ahead of Stock Market Debut",
+  "body": [
+   {
+    "type": "p",
+    "text": "Anthropic told investors that its revenue has risen sharply as the company prepares for its upcoming stock market debut. The AI start‑up highlighted the growth in its earnings in a recent briefing, signaling strong demand for its generative‑AI services."
+   },
+   {
+    "type": "p",
+    "text": "The revenue increase comes at a time when some investors are voicing worries about the high costs associated with AI infrastructure. Analysts note that while Anthropic’s earnings are up, the broader industry continues to grapple with expensive compute requirements."
+   },
+   {
+    "type": "p",
+    "text": "Anthropic’s financial update aims to reassure potential shareholders ahead of the listing, emphasizing that the company’s business model is scaling despite the sector’s cost pressures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The revenue surge signals growing commercial traction for AI firms, which could influence tech‑sector valuations in the US and Europe as more AI companies seek public listings."
+   }
+  ],
+  "key_points": [
+   "Anthropic announced a notable rise in revenue as it nears its stock market debut.",
+   "Investor concerns persist over the substantial spending needed for AI infrastructure.",
+   "The company’s briefing seeks to bolster confidence among prospective shareholders."
+  ],
+  "meta_description": "Anthropic reports a revenue surge ahead of its stock market debut, amid investor concerns over AI infrastructure costs.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Anthropic",
+   "AI",
+   "Revenue",
+   "IPO",
+   "Investors",
+   "Infrastructure"
+  ],
+  "slug": "anthropic-reports-revenue-surge-ahead-stock-market-debut-600b47",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:27:57Z"
+ },
+ {
+  "id": "9f5ccc1e04deb333",
+  "source_url": "https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html",
+  "source": "The New York Times",
+  "source_title": "Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer?",
+  "source_summary": "Katie Zacharia told The New York Times that the confusion over her legal credentials was the result of one big misunderstanding.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Legal Profession",
+   "Appointments and Executive Changes",
+   "Accreditation",
+   "News and News Media",
+   "Tests and Examinations",
+   "Law Schools",
+   "California State Bar",
+   "Pepperdine University",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14dc-zacharia-top-zgkw/14dc-zacharia-top-zgkw-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T03:32:59+00:00",
+  "headline": "Katie Zacharia Named Trump Press Secretary Amid Credential Confusion",
+  "body": [
+   {
+    "type": "p",
+    "text": "The White House announced Katie Zacharia as President Donald Trump's new press secretary. In an interview with The New York Times, Zacharia addressed rumors about her legal background, saying the controversy stemmed from a single misunderstanding."
+   },
+   {
+    "type": "p",
+    "text": "Zacharia clarified that she does not hold a law degree and that the misperception about her credentials was not intentional. The clarification comes as the administration seeks to settle questions surrounding the qualifications of its senior communications staff."
+   }
+  ],
+  "key_points": [
+   "Katie Zacharia has been appointed press secretary for President Trump.",
+   "She told The New York Times that confusion over her legal credentials resulted from a misunderstanding."
+  ],
+  "meta_description": "Katie Zacharia becomes Trump’s press secretary and explains that legal credential rumors were a misunderstanding.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Press Secretary",
+   "Katie Zacharia",
+   "White House",
+   "Credentials"
+  ],
+  "slug": "katie-zacharia-named-trump-press-secretary-amid-credential-confusion-9f5ccc",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:01Z"
+ },
+ {
+  "id": "6e73e0b7709907fd",
+  "source_url": "https://www.dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Brazil to shorten workweek in win for Lula ahead of runoff",
+  "source_summary": "Brazil's Senate approved cutting the workweek from 44 to 40 hours. The move could give President Luiz Inacio Lula da Silva an edge over his opponent, Flavio Bolsonaro, ahead of the October 25 runoff.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-15T03:29:00+00:00",
+  "headline": "Brazil Senate Approves 40‑Hour Workweek, Boosting Lula Ahead of Runoff",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazil's Senate voted to reduce the standard workweek from 44 to 40 hours, marking a major labor reform that will take effect after legislative approval. The change is intended to improve work‑life balance and increase productivity across the country."
+   },
+   {
+    "type": "p",
+    "text": "The timing of the measure is seen as a political advantage for President Luiz Inácio Lula da Silva, who is seeking re‑election in the October 25 runoff against Flávio Bolsonaro. Analysts suggest the shorter workweek could sway undecided voters by highlighting Lula's commitment to social policies."
+   },
+   {
+    "type": "p",
+    "text": "If enacted, the new schedule will affect millions of Brazilian workers and could set a precedent for other Latin American nations considering similar reforms. The proposal still requires the lower house's endorsement before becoming law."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The policy could influence Brazil's labor market and election dynamics, offering a case study of how social reforms intersect with political campaigns in a major emerging economy."
+   }
+  ],
+  "key_points": [
+   "Brazil's Senate approved cutting the workweek from 44 to 40 hours.",
+   "The reform is viewed as a boost for President Lula ahead of the runoff election.",
+   "Implementation will depend on further legislative approval."
+  ],
+  "meta_description": "Brazil's Senate backs a 40‑hour workweek, a move seen as a boost for President Lula before the October runoff election.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "workweek",
+   "Lula",
+   "election",
+   "labor reform"
+  ],
+  "slug": "brazil-senate-approves-40hour-workweek-boosting-lula-ahead-runoff-6e73e0",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:05Z"
+ },
+ {
+  "id": "5a661ac011f7536f",
+  "source_url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo",
+  "source": "BBC News",
+  "source_title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+  "source_summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc6b/live/96412140-c847-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-15T03:26:36+00:00",
+  "headline": "Orange Haze Blankets Palangka Raya as Indonesian Wildfires Rage",
+  "body": [
+   {
+    "type": "p",
+    "text": "Thick orange smog descended on Palangka Raya, the capital of Central Kalimantan, after nearby wildfires intensified, turning the sky into a dense, amber‑coloured veil."
+   },
+   {
+    "type": "p",
+    "text": "Residents captured video of the haze enveloping streets and homes, sharing the footage on social media to illustrate the severity of the situation. The smoke, described by locals as a “wall of orange,” reduced visibility and prompted concerns about air quality."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have confirmed that the fires, which continue to burn across the region’s forested areas, are the primary source of the haze. Efforts to contain the blazes are ongoing, but the scale of the fires has made mitigation challenging."
+   },
+   {
+    "type": "p",
+    "text": "The incident adds to a pattern of seasonal haze events in Southeast Asia, which have previously affected health, transportation and regional economies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The haze highlights recurring air‑quality crises in Southeast Asia that can impact travel, health and trade links with the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Orange haze covered Palangka Raya as wildfires raged nearby.",
+   "Residents posted video showing the dense, amber‑coloured smoke.",
+   "Authorities say the fires are the main cause of the reduced visibility."
+  ],
+  "meta_description": "Orange haze engulfs Palangka Raya, Indonesia, as nearby wildfires intensify, prompting resident video shares and health concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Indonesia",
+   "wildfires",
+   "air pollution",
+   "Palangka Raya",
+   "environment"
+  ],
+  "slug": "orange-haze-blankets-palangka-raya-indonesian-wildfires-rage-5a661a",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:17Z"
+ },
+ {
+  "id": "ad2f1d16b1219488",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
+  "source": "The Guardian",
+  "source_title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race",
+  "source_summary": "Talarico casts himself as a moderate who would put Texans’ needs over party allegiances amid close contest against Republican Ken Paxton James Talarico, the Texas Democratic nominee for Senate, sat face to face with several undecided voters who grilled him on a slew of contentious issues including Israel’s military campaign in Gaza, abortion and foreign aid, during a CNN town hall on Wednesday evening. One voter, a devout small business owner, questioned the authenticity of Talarico’s faith, referencing a past remark where he described God as nonbinary.",
+  "source_tags": [
+   "Texas",
+   "US Senate",
+   "Ken Paxton",
+   "US news",
+   "US politics",
+   "US Congress",
+   "Republicans",
+   "Democrats",
+   "Donald Trump"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/de7629d1eb5a45194992c8fbe3a27153d2d53e4a/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=adfd266e7dfc4e91e7fafc1245313422",
+  "published": "2026-10-15T03:08:18+00:00",
+  "headline": "Texas Democrat James Talarico Faces Voter Scrutiny at Senate Town Hall",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic Senate nominee James Talarico addressed a crowd of undecided voters in a CNN‑hosted town hall on Wednesday, positioning himself as a moderate who would prioritize Texans’ needs over strict party lines. The event took place amid a close contest with Republican incumbent Ken Paxton."
+   },
+   {
+    "type": "p",
+    "text": "Voters pressed Talarico on a range of contentious topics, including Israel’s military campaign in Gaza, abortion policy and foreign aid. He responded by emphasizing a pragmatic approach and cited his record of bipartisan cooperation in the state legislature."
+   },
+   {
+    "type": "p",
+    "text": "One small‑business owner raised a question about Talarico’s personal faith, recalling a previous comment in which the candidate described God as nonbinary. Talarico acknowledged the remark and reiterated his commitment to representing all constituents regardless of religious views."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The close Senate race could influence the balance of power in Washington and reflects broader partisan tensions in the United States."
+   }
+  ],
+  "key_points": [
+   "Talarico presented himself as a moderate candidate focused on Texas interests in a tight Senate race.",
+   "Voters challenged him on foreign policy, abortion and his past remarks about God.",
+   "The town hall highlighted the intense scrutiny faced by both parties in the contest."
+  ],
+  "meta_description": "Democratic Senate candidate James Talarico faces tough questions on policy and faith at a CNN town hall amid a tight race with Republican Ken Paxton.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Texas",
+   "Senate race",
+   "James Talarico",
+   "town hall",
+   "moderate",
+   "voter questions"
+  ],
+  "slug": "texas-democrat-james-talarico-faces-voter-scrutiny-senate-town-ad2f1d",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:13Z"
+ },
+ {
+  "id": "fc8318609dfba872",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo",
+  "source": "BBC News",
+  "source_title": "White House defends new press secretary amid questions about her legal credentials",
+  "source_summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7f/live/f7333c90-c838-11f1-b2e8-93da8301514e.jpg",
+  "published": "2026-10-15T03:03:16+00:00",
+  "headline": "White House Defends Press Secretary Amid Bar Registration Questions",
+  "body": [
+   {
+    "type": "p",
+    "text": "The White House has come to the defense of its new press secretary, Katie Zacharia, after reports surfaced questioning her legal background. Officials emphasized her qualifications for the communications role despite the scrutiny."
+   },
+   {
+    "type": "p",
+    "text": "Research shows that Zacharia does not appear on the legal bar rolls of any state where she has previously lived. This detail has fueled speculation about the relevance of a law license to the press secretary position."
+   },
+   {
+    "type": "p",
+    "text": "Administration spokespeople argue that bar membership is not a prerequisite for the job, noting that the role primarily involves media relations and messaging rather than legal practice."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Credibility of the White House communications team is under scrutiny, a concern for both US and European audiences monitoring U.S. political messaging."
+   }
+  ],
+  "key_points": [
+   "The White House is defending Katie Zacharia despite reports she is not registered to practice law in any state.",
+   "Zacharia's lack of bar registration has raised questions about the necessity of legal credentials for a press secretary."
+  ],
+  "meta_description": "White House backs press secretary Katie Zacharia as reports reveal she is not registered to the legal bar in any state.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "White House",
+   "press secretary",
+   "legal credentials",
+   "Katie Zacharia",
+   "government communications"
+  ],
+  "slug": "white-house-defends-press-secretary-amid-bar-registration-questions-fc8318",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:29Z"
+ },
+ {
+  "id": "34a9bd72b7267764",
+  "source_url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+  "source": "The Guardian",
+  "source_title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+  "source_summary": "Congress approves constitutional amendment that bans six-day workweeks, which could effect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could affect 30 million workers and that will hand a political victory to the leftist president Luiz Inácio Lula da Silva ahead of the presidential runoff in under two weeks. In an attempt to overturn the first-round lead secured by his opponent, far-right senator Flávio Bolsonaro, Lula has strongly championed the amendment, which will give some workers an extra day off each week.",
+  "source_tags": [
+   "Brazil",
+   "Luiz Inácio Lula da Silva",
+   "Americas",
+   "Flávio Bolsonaro"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/170d64bce3c3cd5f2da0bd8212e95c754448d44a/183_0_2045_1636/master/2045.jpg?width=700&quality=85&auto=format&fit=max&s=154c9b56d40201cb86374b09ad50a620",
+  "published": "2026-10-15T02:45:42+00:00",
+  "headline": "Brazil Approves 40‑Hour Work Week, Boosting Lula Ahead of Runoff",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazil's Congress passed a constitutional amendment that caps the work week at 40 hours, effectively banning six‑day schedules. The change could impact up to 30 million workers, giving many an additional day off each week."
+   },
+   {
+    "type": "p",
+    "text": "President Luiz Inácio Lula da Silva has promoted the amendment as a key achievement in the final weeks before the presidential runoff. The move is seen as an effort to consolidate support for his left‑leaning administration against far‑right challenger Flávio Bolsonaro."
+   },
+   {
+    "type": "p",
+    "text": "The amendment requires a constitutional revision, meaning the new limit will be entrenched in law and cannot be easily reversed by future governments."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift aligns Brazil with European‑style work‑hour standards and may influence labor policy debates in other large economies."
+   }
+  ],
+  "key_points": [
+   "Brazil's new constitutional amendment limits the work week to a maximum of 40 hours.",
+   "The reform could affect as many as 30 million Brazilian workers.",
+   "Lula is using the legislation to strengthen his position before the upcoming runoff election."
+  ],
+  "meta_description": "Brazil's Congress caps the work week at 40 hours, affecting up to 30 million workers and bolstering President Lula before the runoff.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "labor law",
+   "Lula",
+   "workweek",
+   "elections"
+  ],
+  "slug": "brazil-approves-40hour-work-week-boosting-lula-ahead-runoff-34a9bd",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:41Z"
+ },
+ {
+  "id": "4fe23fb9dfbee5e7",
+  "source_url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+  "source": "The New York Times",
+  "source_title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+  "source_summary": "The employee, now fired, had said he advised government agencies in Saudi Arabia. He was also listed as a partner at a venture firm with a Saudi prince.",
+  "source_tags": [
+   "Politics and Government",
+   "Royal Families",
+   "Venture Capital",
+   "Engineering and Engineers",
+   "Computers and the Internet",
+   "Artificial Intelligence",
+   "OpenAI Labs",
+   "Start-ups",
+   "Abdulrahman Alfozan",
+   "Saudi Arabia"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T02:27:52+00:00",
+  "headline": "OpenAI Engineer Fired After Bug Allegation, Tied to Saudi Advising",
+  "body": [
+   {
+    "type": "p",
+    "text": "An OpenAI engineer who was recently terminated has been charged with planting a malicious software bug. The employee reportedly admitted to advising Saudi Arabian government agencies on AI matters."
+   },
+   {
+    "type": "p",
+    "text": "In addition to his role at OpenAI, the former engineer was listed as a partner at a venture firm that includes a Saudi prince among its leadership. The connection has raised questions about the overlap between private tech work and foreign government consulting."
+   },
+   {
+    "type": "p",
+    "text": "OpenAI has not commented on the specifics of the bug charge, but the incident underscores growing scrutiny of how AI talent interacts with international partners."
+   }
+  ],
+  "key_points": [
+   "A former OpenAI engineer was fired and charged with inserting a software bug.",
+   "The engineer claimed to have advised Saudi government agencies on AI.",
+   "He was also identified as a partner at a venture firm linked to a Saudi prince."
+  ],
+  "meta_description": "OpenAI fires engineer charged with bug insertion who advised Saudi agencies and partnered with a venture firm tied to a Saudi prince.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "AI security",
+   "Saudi Arabia",
+   "venture capital",
+   "software bug"
+  ],
+  "slug": "openai-engineer-fired-after-bug-allegation-tied-saudi-advising-4fe23f",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:09Z"
+ },
+ {
+  "id": "b9b1dfc3d046da75",
+  "source_url": "https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html",
+  "source": "The New York Times",
+  "source_title": "Vance’s Talarico Attacks Show His Penchant for Personal Broadsides",
+  "source_summary": "At a rally in Texas, the vice president suggested the Democratic Senate nominee is gay, a comment criticized as homophobic.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Homosexuality and Bisexuality",
+   "Elections, Senate",
+   "Vice Presidents and Vice Presidency (US)",
+   "Politics and Government",
+   "Talarico, James",
+   "Vance, J D",
+   "Republican Party",
+   "Senate"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14dc-memo-fwlg/14dc-memo-fwlg-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T02:08:59+00:00",
+  "headline": "Vance’s Talarico Attacks Highlight Personal Broadsides at Texas Rally",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a campaign rally in Texas, Vice President Kamala Harris implied that the Democratic Senate nominee, John Talarico, is gay. The remark sparked immediate criticism from observers who labeled it homophobic and out of step with inclusive political discourse."
+   },
+   {
+    "type": "p",
+    "text": "The incident is part of a broader pattern of personal attacks attributed to Vance’s campaign strategist, Talarico, who has frequently used sharp, individual-focused language against opponents. Critics say the strategy detracts from substantive policy debate and fuels divisive rhetoric."
+   },
+   {
+    "type": "p",
+    "text": "Both parties have condemned the language, urging candidates to focus on issues rather than personal characteristics as the election season intensifies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode underscores growing concerns about personal attacks in U.S. elections and their potential to polarize voters across the Atlantic."
+   }
+  ],
+  "key_points": [
+   "Vice President Harris suggested the Democratic Senate nominee is gay during a Texas rally, prompting accusations of homophobia.",
+   "The comment is seen as part of a series of personal attacks linked to Vance’s campaign strategist, Talarico.",
+   "Political leaders called for a shift away from personal slurs toward issue‑based campaigning."
+  ],
+  "meta_description": "Vice President Harris' suggestion that a Senate nominee is gay at a Texas rally draws homophobia accusations and highlights personal attack tactics in the…",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Vance",
+   "Talarico",
+   "Texas rally",
+   "homophobic comment",
+   "campaign attacks",
+   "Democratic Senate nominee"
+  ],
+  "slug": "vances-talarico-attacks-highlight-personal-broadsides-texas-rally-b9b1df",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:25Z"
+ },
+ {
+  "id": "f86858c1d8495e4a",
+  "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+  "source": "TechCrunch",
+  "source_title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+  "source_summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+  "source_tags": [
+   "AI",
+   "Ricursive",
+   "Ricursive Intelligence"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-15T01:01:32+00:00",
+  "headline": "Ricursive Intelligence Uses AI to Design Chips, Easing Compute Crisis",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ricursive Intelligence, a startup founded by a team of engineers, is building artificial‑intelligence software that can create semiconductor chip layouts. The system generates a design, runs simulations, and then refines its approach based on the results, allowing each iteration to improve on the last."
+   },
+   {
+    "type": "p",
+    "text": "According to the founders, the AI‑driven workflow aims to automate much of the manual effort traditionally required in chip design, cutting development cycles from months to weeks. By learning from each design loop, the platform promises faster time‑to‑market for new processors and specialized accelerators."
+   },
+   {
+    "type": "p",
+    "text": "The company says its technology could help address the broader compute crisis, where demand for processing power outpaces the supply of advanced chips. If successful, the approach may lower costs and speed up innovation across data centers, consumer electronics, and emerging AI applications."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Accelerated chip design could ease supply constraints that affect U.S. and European tech firms reliant on high‑performance processors."
+   }
+  ],
+  "key_points": [
+   "Ricursive Intelligence’s AI system designs and iteratively refines semiconductor chips.",
+   "The platform seeks to automate chip design, shortening development cycles dramatically.",
+   "Its goal is to alleviate the global compute shortage by speeding up chip production."
+  ],
+  "meta_description": "Startup Ricursive Intelligence uses AI to automate chip design, aiming to speed up development and ease the global compute shortage.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "chip design",
+   "startup",
+   "compute crisis",
+   "semiconductors"
+  ],
+  "slug": "ricursive-intelligence-uses-ai-design-chips-easing-compute-crisis-f86858",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:22Z"
+ },
+ {
+  "id": "92b76e7255e3d679",
+  "source_url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+  "source": "TechCrunch",
+  "source_title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+  "source_summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+  "source_tags": [
+   "Hardware",
+   "Privacy",
+   "Security",
+   "Flock",
+   "privacy"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-15T00:49:31+00:00",
+  "headline": "Flock CEO Defends Surveillance Tech, Cites Crime‑Fighting Benefits",
+  "body": [
+   {
+    "type": "p",
+    "text": "At the TechCrunch Disrupt conference, Garrett Langley, chief executive of surveillance‑software firm Flock, responded to mounting privacy criticism by arguing that the technology’s ability to aid law enforcement outweighs potential misuse."
+   },
+   {
+    "type": "p",
+    "text": "Langley emphasized that the tools his company provides can help prevent violent crimes and locate missing persons, urging policymakers not to halt development while acknowledging the concerns raised by privacy advocates and the broader public."
+   },
+   {
+    "type": "p",
+    "text": "He warned that pausing progress could leave communities without effective digital resources to combat criminal activity, and called for continued dialogue rather than a moratorium on the technology."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The debate reflects ongoing tensions in the US and Europe over balancing public safety with privacy rights as surveillance tools become more widespread."
+   }
+  ],
+  "key_points": [
+   "Flock CEO Garrett Langley defended the company’s surveillance platform amid growing privacy backlash.",
+   "He argued that the technology’s crime‑fighting advantages justify continued development.",
+   "Langley urged regulators to seek balanced solutions instead of pausing the technology."
+  ],
+  "meta_description": "Flock CEO Garrett Langley defends surveillance tech at TechCrunch Disrupt, saying crime‑fighting benefits outweigh privacy concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "surveillance",
+   "privacy",
+   "crime prevention",
+   "tech ethics",
+   "Flock",
+   "TechCrunch Disrupt"
+  ],
+  "slug": "flock-ceo-defends-surveillance-tech-cites-crimefighting-benefits-92b76e",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:37Z"
+ },
+ {
   "id": "5abc04e05146a5cd",
   "source_url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
   "source": "TechCrunch",
@@ -667,6 +1296,59 @@
   "slug": "jackson-leads-aston-villa-convincing-champions-league-victory-feb96d",
   "reading_minutes": 1,
   "added": "2026-10-15T00:05:07Z"
+ },
+ {
+  "id": "550139964bbd940e",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o",
+  "source": "BBC Sport",
+  "source_title": "Martinez outburst came out of 'anger and frustration'",
+  "source_summary": "Manchester United defender Lisandro Martinez says he \"spoke out of anger and frustration\" when launching a scathing attack on the club's hierarchy.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2594/live/36bd52e0-c81d-11f1-ba52-6f55b182b2fe.jpg",
+  "published": "2026-10-14T22:42:02+00:00",
+  "headline": "Lisandro Martinez Says Outburst Fueled By Anger And Frustration",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United defender Lisandro Martinez told the media that his recent scathing remarks about the club’s hierarchy were made in a moment of anger and frustration. He acknowledged that the tone of his comments was harsh, emphasizing that strong emotions had driven his statements."
+   },
+   {
+    "type": "p",
+    "text": "Martinez said he spoke out of feeling let down by the way the club is run, but he did not provide further details about specific grievances. The defender’s admission comes after a period of tension between the player and senior management, which has been noted by observers of the team’s internal dynamics."
+   },
+   {
+    "type": "p",
+    "text": "The midfielder’s candid explanation highlights the strain that can exist within high‑profile football clubs when expectations clash with perceived leadership decisions. While no disciplinary action was mentioned, the incident underscores the challenges of maintaining unity in a globally followed organization."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode illustrates how internal discord at a top Premier League club can affect performance and fan perception across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Lisandro Martinez admitted his harsh comments were driven by anger and frustration.",
+   "He criticized Manchester United’s hierarchy without specifying particular issues.",
+   "The outburst reflects broader tensions within the club’s management and players."
+  ],
+  "meta_description": "Lisandro Martinez says his harsh remarks about Manchester United’s hierarchy stemmed from anger and frustration, highlighting internal club tensions.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Lisandro Martinez",
+   "Manchester United",
+   "player outburst",
+   "club hierarchy",
+   "football controversy"
+  ],
+  "slug": "lisandro-martinez-says-outburst-fueled-anger-frustration-550139",
+  "reading_minutes": 1,
+  "added": "2026-10-15T04:28:34Z"
  },
  {
   "id": "0c6c7d3439312c97",
