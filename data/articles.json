@@ -1,5 +1,675 @@
 [
  {
+  "id": "a3e86efef46f5351",
+  "source_url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
+  "source": "The New York Times",
+  "source_title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
+  "source_summary": "A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum.",
+  "source_tags": [
+   "Anti-Semitism",
+   "Discrimination",
+   "Hotels and Travel Lodgings",
+   "Israel-Gaza War (2023- )",
+   "Jews and Judaism",
+   "World Jewish Congress",
+   "European Commission",
+   "Dublin (Ireland)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/15/world/15int-Ireland-Hotel-top/15int-Ireland-Hotel-top-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T18:18:46+00:00",
+  "headline": "Dublin Hotel Cancels 70‑Room Booking Linked to Antisemitism Forum",
+  "body": [
+   {
+    "type": "p",
+    "text": "A senior figure in Ireland’s Jewish community has accused a Dublin hotel of revoking a reservation for 70 rooms after the property discovered the rooms were intended for participants of an international forum aimed at combating antisemitism."
+   },
+   {
+    "type": "p",
+    "text": "The hotel reportedly cancelled the deal once it learned the guests would be attending the anti‑antisemitism conference, prompting criticism from community leaders who view the action as discriminatory."
+   },
+   {
+    "type": "p",
+    "text": "The incident has sparked debate in Ireland about the responsibilities of hospitality providers when political or social events are involved, though no legal proceedings have been announced."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights tensions over how businesses handle events tied to human‑rights issues, a concern for both European and North American audiences."
+   }
+  ],
+  "key_points": [
+   "A Dublin hotel cancelled a 70‑room reservation linked to an antisemitism‑focused forum.",
+   "The cancellation was reported by a leader of Ireland’s Jewish community.",
+   "The case raises questions about discrimination and hotel booking policies."
+  ],
+  "meta_description": "Dublin hotel cancels 70‑room booking for guests attending an antisemitism forum, sparking controversy.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ireland",
+   "Jewish community",
+   "antisemitism",
+   "hospitality",
+   "human rights"
+  ],
+  "slug": "dublin-hotel-cancels-70room-booking-linked-antisemitism-forum-a3e86e",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:12Z"
+ },
+ {
+  "id": "c7cea461bd6d67da",
+  "source_url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+  "source": "The Verge",
+  "source_title": "Meta and Apple team up to make Muse AI models run better on Macs",
+  "source_summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, […]",
+  "source_tags": [
+   "AI",
+   "Apple",
+   "Meta",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-15T18:15:36+00:00",
+  "headline": "Meta Unveils Muse Spark Model Optimized for Apple M5 Ultra Macs",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta introduced its new Muse Spark AI model, describing it as the most capable open-weight model released in the United States to date. The company highlighted that the model is the first of its class designed to run on a desktop environment."
+   },
+   {
+    "type": "p",
+    "text": "According to Meta, Muse Spark can operate on two Apple M5 Ultra Mac Studio machines using the latest MLX framework, allowing developers to run high‑performance AI workloads locally without relying on cloud services."
+   },
+   {
+    "type": "p",
+    "text": "The partnership with Apple aims to combine Meta's AI advancements with Apple’s high‑end hardware, potentially expanding the accessibility of large language models for professional and research users."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Bringing a powerful open-weight model to desktop hardware could lower barriers for AI research and development in the US and Europe, reducing reliance on costly cloud services."
+   }
+  ],
+  "key_points": [
+   "Meta's Muse Spark is billed as the most capable US open-weight AI model released so far.",
+   "The model can run on desktop computers equipped with two Apple M5 Ultra Mac Studios using the MLX framework.",
+   "Collaboration with Apple targets local, high‑performance AI processing without cloud dependence."
+  ],
+  "meta_description": "Meta's Muse Spark AI model runs on Apple M5 Ultra Macs, offering high‑performance local processing.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "Apple",
+   "AI model",
+   "Muse Spark",
+   "M5 Ultra",
+   "MLX framework"
+  ],
+  "slug": "meta-unveils-muse-spark-model-optimized-apple-m5-ultra-c7cea4",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:16Z"
+ },
+ {
+  "id": "68a7d43a3acd6a63",
+  "source_url": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
+  "source": "The New York Times",
+  "source_title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
+  "source_summary": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
+  "source_tags": [
+   "Real Estate and Housing (Residential)",
+   "Interest Rates",
+   "Inflation (Economics)",
+   "Mortgages",
+   "Building (Construction)",
+   "Prices (Fares, Fees and Rates)",
+   "Federal Reserve Bank of Atlanta",
+   "Treasury Department"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15biz-rates-econ-hvkw/15biz-rates-econ-hvkw-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T18:12:19+00:00",
+  "headline": "Rising Mortgage Rates Over 7% Push Homeownership Further Out of Reach",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mortgage rates have climbed past the 7 percent mark, adding a significant cost burden for prospective homebuyers. At the same time, home prices have remained high, creating a double squeeze on affordability."
+   },
+   {
+    "type": "p",
+    "text": "The combination of steep borrowing costs and elevated property values is dampening demand, as many would‑be purchasers find it increasingly difficult to qualify for loans or meet price expectations. Real‑estate analysts note that the market is seeing fewer inquiries and slower transaction activity."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers warn that prolonged rate pressure could delay the entry of younger generations into the housing market, potentially reshaping long‑term homeownership trends."
+   }
+  ],
+  "key_points": [
+   "Mortgage rates have risen above 7 percent, raising borrowing costs for buyers.",
+   "Home prices stay elevated, compounding affordability challenges.",
+   "Higher rates and prices are reducing demand and slowing market activity."
+  ],
+  "meta_description": "Mortgage rates over 7% and high home prices are making homeownership less affordable, slowing buyer demand.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "mortgage rates",
+   "housing market",
+   "home affordability",
+   "real estate",
+   "buyer demand"
+  ],
+  "slug": "rising-mortgage-rates-over-7-push-homeownership-further-out-68a7d4",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:20Z"
+ },
+ {
+  "id": "34217d6a0ccd548c",
+  "source_url": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+  "source": "The Guardian",
+  "source_title": "Wes Streeting urges US to back Ukraine on visit to Washington after Starlink row",
+  "source_summary": "UK defence secretary trying to cool tensions and is arguing it is in America’s economic interests to support Kyiv Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the Starlink row that is threatening to set back Kyiv’s war effort. The British defence secretary, giving a speech before a meeting with his US counterpart, Pete Hegseth, argued that supporting Ukraine was in the long-term interests of Washington – and a business opportunity.",
+  "source_tags": [
+   "Wes Streeting",
+   "Pete Hegseth",
+   "Ukraine",
+   "Trump administration",
+   "Washington DC",
+   "World news",
+   "UK news",
+   "Volodymyr Zelenskyy",
+   "Russia",
+   "Donald Trump"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/fa916c12bb8bb5bef1de9a9d5159fef58e19da3f/380_80_3307_2647/master/3307.jpg?width=700&quality=85&auto=format&fit=max&s=5810d830bc182c9f6f440ea13bb8c395",
+  "published": "2026-10-15T18:09:14+00:00",
+  "headline": "UK Defence Secretary Wes Streeting Calls on US to Back Ukraine",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Defence Secretary Wes Streeting used a stop‑over in Washington to urge the United States to reaffirm its support for Ukraine. Speaking before a meeting with his American counterpart, Pete Hegseth, Streeting warned that the recent Starlink dispute could undermine Kyiv’s war effort."
+   },
+   {
+    "type": "p",
+    "text": "Streeting argued that a continued U.S. commitment to Ukraine aligns with Washington’s long‑term strategic interests and presents a commercial opportunity for American firms. He said backing Kyiv helps preserve European security and opens markets for U.S. defence and technology companies."
+   },
+   {
+    "type": "p",
+    "text": "The appeal comes as tensions between the allies have risen over the Starlink row, which has raised concerns about the reliability of communications support for Ukrainian forces. Streeting’s remarks aim to smooth the diplomatic strain and keep the transatlantic partnership focused on Ukraine’s needs."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. backing of Ukraine remains a cornerstone of European security, and any erosion of that support could affect the war’s outcome and transatlantic trade ties."
+   }
+  ],
+  "key_points": [
+   "UK defence chief Wes Streeting urged the US to maintain support for Ukraine amid a Starlink dispute.",
+   "He framed backing Kyiv as both a strategic interest for Washington and a business opportunity.",
+   "The call was made ahead of a bilateral meeting with US Defence Secretary Pete Hegseth."
+  ],
+  "meta_description": "UK defence secretary Wes Streeting urges the US to back Ukraine, citing strategic and business benefits, as Starlink tensions rise.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "US-UK relations",
+   "defence",
+   "Starlink",
+   "Pete Hegseth",
+   "Wes Streeting"
+  ],
+  "slug": "uk-defence-secretary-wes-streeting-calls-us-back-ukraine-34217d",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:24Z"
+ },
+ {
+  "id": "dffaec21a806d8d4",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o",
+  "source": "BBC Sport",
+  "source_title": "Martinez apologises for outburst and fined by Man Utd",
+  "source_summary": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89af/live/f4ecd4f0-c8ba-11f1-bdfb-e3788aeae9ec.jpg",
+  "published": "2026-10-15T18:03:28+00:00",
+  "headline": "Lisandro Martinez Apologizes, Fined for Criticising United Hierarchy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United defender Lisandro Martinez issued a public apology after his recent comments targeting the club’s hierarchy drew criticism. The midfielder acknowledged that his remarks were inappropriate and expressed regret for any disruption caused within the organization."
+   },
+   {
+    "type": "p",
+    "text": "Following the outburst, the club imposed a financial penalty on Martinez, confirming that disciplinary action had been taken. The fine underscores United’s stance on maintaining internal cohesion and respecting the chain of command."
+   },
+   {
+    "type": "p",
+    "text": "Martinez’s apology and the subsequent sanction come as the team continues to navigate a challenging season, with the defender’s conduct drawing attention from fans and media alike."
+   }
+  ],
+  "key_points": [
+   "Lisandro Martinez apologized for remarks that criticised Manchester United’s hierarchy.",
+   "The club fined the defender as part of its disciplinary response."
+  ],
+  "meta_description": "Manchester United defender Lisandro Martinez apologised and was fined after making remarks critical of the club’s hierarchy.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Lisandro Martinez",
+   "football",
+   "Premier League",
+   "club discipline"
+  ],
+  "slug": "lisandro-martinez-apologizes-fined-criticising-united-hierarchy-dffaec",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:29Z"
+ },
+ {
+  "id": "788e1a78996f5caa",
+  "source_url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+  "source": "TechCrunch",
+  "source_title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+  "source_summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+  "source_tags": [
+   "AI",
+   "Fundraising",
+   "Startups",
+   "Venture",
+   "TechCrunch Founder Summit"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-15T18:00:00+00:00",
+  "headline": "Early‑Bird Discounts Up to $200 End Oct. 16 for TechCrunch Founder Summit",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch is offering savings of up to $200 on Founder and Investor Passes for its upcoming Founder Summit, but the discount window closes on Friday, October 16."
+   },
+   {
+    "type": "p",
+    "text": "The event will bring together roughly 1,000 founders and investors on November 4 at Boston’s SoWa Power Station, giving attendees a chance to pose their toughest questions and gain actionable insights for their businesses."
+   },
+   {
+    "type": "p",
+    "text": "Participants are encouraged to book early to secure the reduced price before the savings disappear after October 16."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The summit offers a rare networking platform for North American and European startup leaders to connect with investors and peers, potentially accelerating growth and funding opportunities."
+   }
+  ],
+  "key_points": [
+   "Discounts of up to $200 on summit passes end on October 16.",
+   "The Founder Summit will host about 1,000 founders and investors in Boston on November 4.",
+   "Early registration secures the lower price for Founder and Investor Passes."
+  ],
+  "meta_description": "Save up to $200 on TechCrunch Founder Summit passes; discount ends Oct. 16. Join 1,000 founders and investors in Boston on Nov. 4.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "TechCrunch",
+   "Founder Summit",
+   "Boston",
+   "early bird",
+   "startup",
+   "investors"
+  ],
+  "slug": "earlybird-discounts-up-200-end-oct-16-techcrunch-founder-788e1a",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:36Z"
+ },
+ {
+  "id": "1a758cc6e0166c56",
+  "source_url": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
+  "source": "The Guardian",
+  "source_title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answered your questions",
+  "source_summary": "The high cost of living has Americans angrier than ever. Guardian reporters answered your questions about the US economy ahead of November Sign up for the Stakes newsletter for more midterms coverage Send us your questions on Trump’s immigration agenda ahead of the midterms LucccA asks: Why are labor unions in the US still not as well-organized compared to the rest of the world? I know there was a push against them in the past—does that still have an effect today? Also, why are there so many right-leaning unions in the US? Michael: A lot of reasons. The US has low union density compared to other wealthy nations, currently at 10.0%, and that has been on a precipitous decline for the past few decades for a variety of reasons that include anti-union and union busting campaigns, outdated labor laws where employers often retaliate for union organizing or delay bargaining for years, as we are seeing with Starbucks, where there is no union contract after nearly five years since the first store won its union election in December 2021.Right to work laws in the US also undermine labor unions and starve them of resources. To the extent that there are right leaning labor unions in the US, they typically are law enforcement unions that consistently endorse and back Republican candidates despite the Republican Party in the US opposing collective bargaining. Some unions like the Teamsters have been making efforts to get Republicans to support legislation and in turn receive endorsements fro",
+  "source_tags": [
+   "US economy",
+   "US midterm elections 2026",
+   "US politics",
+   "US news",
+   "Business",
+   "Economics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/cbe7c9fb6ba442658aeaa7c92974e9addedd0b91/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=1ed949540757f5531749ab511da3b770",
+  "published": "2026-10-15T17:56:50+00:00",
+  "headline": "US Union Decline and Right‑Wing Labor Ties Ahead of Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Union density in the United States has fallen to about 10 percent, far below that of other wealthy nations, according to Guardian reporters. The drop has been driven by long‑standing anti‑union campaigns, legal obstacles that allow employers to delay bargaining for years, and right‑to‑work statutes that limit union resources."
+   },
+   {
+    "type": "p",
+    "text": "The impact of these factors is evident in high‑profile organizing battles such as the Starbucks case, where nearly five years have passed since the first store voted to unionize in December 2021 without a contract in place. Meanwhile, the few right‑leaning unions that exist are largely law‑enforcement groups that consistently back Republican candidates, even as the GOP generally opposes collective bargaining."
+   },
+   {
+    "type": "p",
+    "text": "Some traditional unions, like the Teamsters, are attempting to bridge the partisan gap by courting Republican support for legislation in exchange for endorsements, highlighting a strategic shift as the November midterm elections approach."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The weakening of labor unions could shape voter sentiment and policy outcomes in the upcoming US midterm elections, with implications for workers' rights in Europe."
+   }
+  ],
+  "key_points": [
+   "US union density sits at roughly 10 percent, a steep decline driven by anti‑union laws and campaigns.",
+   "Right‑to‑work statutes and delayed bargaining weaken organizing efforts, exemplified by the prolonged Starbucks dispute.",
+   "Law‑enforcement unions back Republicans, while groups such as the Teamsters seek bipartisan support ahead of the midterms."
+  ],
+  "meta_description": "US union density falls to 10%, right‑to‑work laws hinder organizing, and right‑leaning unions back Republicans ahead of the midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "labor unions",
+   "right-to-work",
+   "midterms",
+   "US politics",
+   "union density",
+   "Republican"
+  ],
+  "slug": "us-union-decline-rightwing-labor-ties-ahead-midterms-1a758c",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:44Z"
+ },
+ {
+  "id": "ed4a94bedcced66a",
+  "source_url": "https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player",
+  "source": "The Verge",
+  "source_title": "Sony made a $5,900 gold-plated Walkman MP3 player",
+  "source_summary": "Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2,999.99 Walkman NW-WM1AM3, which is nearly identical to the WM1ZM3, just minus the gaudy gold shell. All […]",
+  "source_tags": [
+   "News",
+   "Sony",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sony_walkman_WM1ZM3.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-15T17:48:57+00:00",
+  "headline": "Sony Unveils Luxury Walkman Line Up to $5,899 for Gold‑Plated Model",
+  "body": [
+   {
+    "type": "p",
+    "text": "Sony announced a new trio of high‑end Walkman portable media players, expanding its premium audio lineup. The entry model, the NW‑ZX900, starts at $1,899.99 and offers the brand’s flagship sound technology in a sleek, non‑luxury finish."
+   },
+   {
+    "type": "p",
+    "text": "Mid‑range pricing is represented by the NW‑WM1AM3, which retails for $2,999.99. It shares most specifications with the top‑tier version but lacks the ornamental exterior."
+   },
+   {
+    "type": "p",
+    "text": "At the top of the range, Sony introduced the gold‑plated NW‑WM1ZM3, priced at $5,899. The device features a lavish gold shell while delivering the same high‑resolution audio performance as its less flashy sibling."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The launch highlights Sony’s strategy to capture affluent audiophile markets in the US and Europe, where luxury tech accessories command strong niche demand."
+   }
+  ],
+  "key_points": [
+   "Sony’s new Walkman series includes three models priced from $1,899.99 to $5,899.",
+   "The most expensive model, the NW‑WM1ZM3, is gold‑plated but otherwise identical to the $2,999.99 version.",
+   "All three players target audiophiles seeking premium portable sound."
+  ],
+  "meta_description": "Sony rolls out three premium Walkman players, topping out at $5,899 for a gold‑plated model, aiming at high‑end audiophiles.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Sony",
+   "Walkman",
+   "luxury electronics",
+   "audio equipment",
+   "premium pricing"
+  ],
+  "slug": "sony-unveils-luxury-walkman-line-up-5-899-goldplated-ed4a94",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:56Z"
+ },
+ {
+  "id": "c4f51a0e4e7c1b8b",
+  "source_url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo",
+  "source": "BBC News",
+  "source_title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+  "source_summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg",
+  "published": "2026-10-15T17:47:22+00:00",
+  "headline": "Trump Cancels Livestream of Fort Hood Attacker Execution",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump announced that a planned livestream of the execution of Nidal Hasan, the Fort Hood shooter, will not be broadcast. Hasan is set to be put to death by firing squad, marking the first military execution in the United States in more than six decades."
+   },
+   {
+    "type": "p",
+    "text": "Trump said some people would \"rather not watch\" the killing, citing concerns about public reaction. The decision removes a controversial element from the already highly scrutinized case, which has drawn attention from both domestic and international observers."
+   },
+   {
+    "type": "p",
+    "text": "The execution, scheduled for later this month, will proceed without a live video feed, though officials say it will still be carried out according to military protocol. Critics argue that the lack of transparency could limit public understanding of the process, while supporters claim it spares viewers from graphic content."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The execution ends a 60‑year hiatus in U.S. military capital punishment, and the decision to cancel the livestream reflects ongoing debate over transparency and media exposure of state‑sanctioned killings."
+   }
+  ],
+  "key_points": [
+   "Donald Trump halted plans to livestream Nidal Hasan's firing‑squad execution.",
+   "Hasan's death will be the first U.S. military execution in over 60 years.",
+   "Trump said some people would \"rather not watch\" the execution."
+  ],
+  "meta_description": "Donald Trump cancels the livestream of Nidal Hasan's firing‑squad execution, the first U.S. military execution in over 60 years.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Fort Hood",
+   "execution",
+   "firing squad",
+   "livestream"
+  ],
+  "slug": "trump-cancels-livestream-fort-hood-attacker-execution-c4f51a",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:33Z"
+ },
+ {
+  "id": "9ec96211d71f48ff",
+  "source_url": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Middle East updates: Houthis target Yemen government palace in Aden",
+  "source_summary": "Houthi rebels say they targeted Saudi military assets in a rare attack on the interim seat of Yemen's internationally recognized government. Meanwhile, vessels are again under fire near the Strait of Hormuz. More on DW.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-15T17:44:00+00:00",
+  "headline": "Houthis Strike Yemen Government Palace in Aden, Target Saudi Assets",
+  "body": [
+   {
+    "type": "p",
+    "text": "Houthi rebels announced that they launched a rare attack on the interim seat of Yemen's internationally recognised government in Aden, aiming at Saudi military assets housed in the city’s government palace. The strike marks an escalation in the rebels' campaign against Saudi-backed forces in the south of Yemen."
+   },
+   {
+    "type": "p",
+    "text": "In a separate development, vessels operating near the strategic Strait of Hormuz came under fire again, underscoring the widening scope of regional maritime threats. The incidents highlight the persistent volatility that can disrupt key shipping lanes linking the Middle East with global markets."
+   },
+   {
+    "type": "p",
+    "text": "Both events come as the conflict in Yemen continues to draw international attention, with the United Nations and regional powers urging restraint to prevent further destabilisation of an already fragile security environment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incidents threaten global oil shipments through the Strait of Hormuz and could draw greater involvement from the United States and European allies in regional security efforts."
+   }
+  ],
+  "key_points": [
+   "Houthis targeted Saudi military assets in a rare strike on Yemen's interim government palace in Aden.",
+   "Ships near the Strait of Hormuz faced renewed fire, raising concerns over maritime security.",
+   "The attacks illustrate the expanding reach of the Yemen conflict into critical regional trade routes."
+  ],
+  "meta_description": "Houthis strike Yemen's interim government palace in Aden, targeting Saudi assets, while vessels face fire near the Strait of Hormuz.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Yemen",
+   "Houthis",
+   "Aden",
+   "Saudi Arabia",
+   "Strait of Hormuz",
+   "maritime security"
+  ],
+  "slug": "houthis-strike-yemen-government-palace-aden-target-saudi-assets-9ec962",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:52Z"
+ },
+ {
+  "id": "f9936a0b30446874",
+  "source_url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o",
+  "source": "BBC News",
+  "source_title": "'I paid thousands to a company for jobs that never came'",
+  "source_summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1df3/live/28665390-c246-11f1-9670-0b564215b759.jpg",
+  "published": "2026-10-15T17:19:49+00:00",
+  "headline": "Job Seekers Claim Thousands Lost to Unfulfilled Employment Promises",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apurv Patel says he paid a company thousands of dollars after being promised a job that never materialised. Patel is among several individuals who allege they were given similar assurances of employment that did not come to fruition."
+   },
+   {
+    "type": "p",
+    "text": "The complainants assert that the companies they dealt with collected substantial fees for supposed job placements, yet failed to deliver any actual work opportunities. Many of the victims report that after the payments were made, the promised positions vanished without explanation."
+   },
+   {
+    "type": "p",
+    "text": "These allegations highlight concerns about the legitimacy of certain recruitment services that require upfront fees. Authorities have been urged to investigate the practices of firms that market guaranteed jobs in exchange for large sums of money."
+   }
+  ],
+  "key_points": [
+   "Apurv Patel and others allege they paid thousands for promised jobs that never materialised.",
+   "Victims claim recruitment firms collected large upfront fees without delivering employment.",
+   "Calls for investigation into recruitment practices that guarantee jobs for a fee."
+  ],
+  "meta_description": "Job seekers allege they paid thousands for promised positions that never appeared, prompting calls for scrutiny of recruitment firms.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "employment",
+   "fraud",
+   "recruitment",
+   "scams",
+   "job market"
+  ],
+  "slug": "job-seekers-claim-thousands-lost-unfulfilled-employment-promises-f9936a",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:40Z"
+ },
+ {
+  "id": "451050b94a2b09ab",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/videos/cmn4eqpvw1ppo",
+  "source": "BBC Sport",
+  "source_title": "Australia clinch thrilling World Cup opener against New Zealand",
+  "source_summary": "Australia beat New Zealand 24-22 in a dramatic Rugby League World Cup opener in Sydney, with debutant Jack Bostock scoring a hat-trick to see the hosts snatch victory late on.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e8a/live/bac7ea70-c8ac-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-15T17:00:06+00:00",
+  "headline": "Australia Edge New Zealand 24-22 in Thrilling Rugby League World Cup Opener",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australia secured a narrow 24-22 victory over New Zealand in the opening match of the Rugby League World Cup on Saturday in Sydney. The contest remained dead‑locked until the final minutes, when the hosts rallied to claim the win."
+   },
+   {
+    "type": "p",
+    "text": "Debutant Jack Bostock delivered a standout performance, scoring three tries that proved decisive in the closing stages. His hat‑trick helped Australia overturn a late New Zealand surge and clinch the three‑point margin."
+   },
+   {
+    "type": "p",
+    "text": "The win gives the Australian side early momentum in the tournament, while New Zealand will look to regroup after the disappointment of a closely contested opener."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The match highlights Australia's strength in rugby league as the sport expands its global audience ahead of the World Cup."
+   }
+  ],
+  "key_points": [
+   "Australia defeated New Zealand 24-22 in the Rugby League World Cup opener in Sydney.",
+   "Debutant Jack Bostock scored a hat‑trick, providing the decisive points for the hosts.",
+   "The result gives Australia early momentum heading into the group stage."
+  ],
+  "meta_description": "Australia beats New Zealand 24-22 in a dramatic Rugby League World Cup opener, with debutant Jack Bostock scoring a hat‑trick.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Australia",
+   "New Zealand",
+   "Rugby League",
+   "World Cup",
+   "Jack Bostock"
+  ],
+  "slug": "australia-edge-new-zealand-24-22-thrilling-rugby-league-451050",
+  "reading_minutes": 1,
+  "added": "2026-10-15T18:36:48Z"
+ },
+ {
   "id": "8fd94761bbe687e5",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero",
   "source": "BBC Sport",
