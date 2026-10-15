@@ -1,5 +1,700 @@
 [
  {
+  "id": "2cc31e1edcbf7f0d",
+  "source_url": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
+  "source": "The New York Times",
+  "source_title": "Violent Protests in Albania",
+  "source_summary": "Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.",
+  "source_tags": [
+   "Albania",
+   "Demonstrations, Protests and Riots",
+   "Politics and Government",
+   "Rama, Edi",
+   "Building (Construction)",
+   "Luxury Goods and Services",
+   "Kushner, Jared",
+   "Hotels and Travel Lodgings",
+   "Environment",
+   "Berisha, Sali"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-albania-protests-tczw/15int-albania-protests-tczw-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T21:40:23+00:00",
+  "headline": "Violent Protests Erupt in Albania Over Kushner-Linked Resort Project",
+  "body": [
+   {
+    "type": "p",
+    "text": "Demonstrations in Albania turned violent this week as citizens rallied against a planned luxury resort that investors say is connected to former U.S. official Jared Kushner. Protesters set fire to construction equipment and clashed with police, prompting a curfew in the capital."
+   },
+   {
+    "type": "p",
+    "text": "The unrest reflects broader frustration among Albanians over perceived corruption and rising living costs. Activists argue the resort project exemplifies elite favoritism, while officials cite potential tourism revenue. The clash highlights a growing gap between government development plans and public sentiment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The involvement of a former U.S. official ties the unrest to American political interests, while the instability raises concerns for European investors monitoring Balkan markets."
+   }
+  ],
+  "key_points": [
+   "Albanian protesters attacked a luxury resort site linked to Jared Kushner, leading to violent confrontations with police.",
+   "The protests are fueled by wider anger over corruption and the high cost of living in Albania."
+  ],
+  "meta_description": "Violent protests in Albania target a Kushner-linked luxury resort amid rising anger over corruption and cost of living.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Albania",
+   "protests",
+   "Jared Kushner",
+   "luxury resort",
+   "corruption",
+   "cost of living"
+  ],
+  "slug": "violent-protests-erupt-albania-over-kushner-linked-resort-project-2cc31e",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:44:52Z"
+ },
+ {
+  "id": "66efd2f87608334b",
+  "source_url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+  "source": "The Verge",
+  "source_title": "The tech backlash is now in theaters",
+  "source_summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can […]",
+  "source_tags": [
+   "AI",
+   "Analysis",
+   "Elon Musk",
+   "Entertainment",
+   "Facebook",
+   "Film",
+   "Meta",
+   "OpenAI",
+   "Report",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-15T21:39:52+00:00",
+  "headline": "Tech Backlash Hits the Big Screen With New Critiques of Silicon Valley",
+  "body": [
+   {
+    "type": "p",
+    "text": "2026 has seen a surge of feature films that scrutinize the impact of Silicon Valley on everyday life. Aaron Sorkin's latest drama, *The Social Reckoning*, portrays Facebook founder Mark Zuckerberg as a robotic antagonist whose ambitions are portrayed as destabilizing society."
+   },
+   {
+    "type": "p",
+    "text": "In a contrasting comedic vein, Nathan Fielder and Lance Oppenheim team up for *You Can*, another 2026 release that adds to the season's critical look at disruptive tech founders. Both movies join a growing slate of titles that move beyond celebratory biopics to question the broader consequences of tech innovation."
+   },
+   {
+    "type": "p",
+    "text": "The wave of such films reflects a broader cultural shift, as audiences and creators alike grapple with the ways digital platforms reshape reality and power structures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "These movies offer U.S. and European viewers a cinematic lens on how tech giants influence politics, culture, and daily life."
+   }
+  ],
+  "key_points": [
+   "Aaron Sorkin's *The Social Reckoning* depicts Mark Zuckerberg as a destabilizing robotic villain.",
+   "Nathan Fielder and Lance Oppenheim's *You Can* adds to the 2026 lineup of critical tech founder movies.",
+   "The trend signals a growing appetite for films that examine Silicon Valley's societal impact."
+  ],
+  "meta_description": "2026 sees a rise in films critiquing Silicon Valley, including Sorkin's *The Social Reckoning* and Fielder/Oppenheim's *You Can*.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tech",
+   "movies",
+   "Silicon Valley",
+   "film",
+   "criticism",
+   "2026"
+  ],
+  "slug": "tech-backlash-hits-big-screen-with-new-critiques-silicon-66efd2",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:44:56Z"
+ },
+ {
+  "id": "a8333fce8f18768d",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/trumps-attacks-voting-midterms.html",
+  "source": "The New York Times",
+  "source_title": "Trump’s Attacks on Voting Raise Fears He Will Try to Challenge Midterm Results",
+  "source_summary": "Election officials say they worry the administration could use its own unsubstantiated claims to contest the vote in November.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Federal-State Relations (US)",
+   "Midterm Elections (2026)",
+   "Voting Machines",
+   "Voter Fraud (Election Fraud)",
+   "Homeland Security Department",
+   "Justice Department",
+   "National Assn for the Advancement of Colored People",
+   "Blanche, Todd (Attorney)",
+   "Miller, Stephen (1985- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-midterms-mqfb/15dc-trump-midterms-mqfb-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T21:37:34+00:00",
+  "headline": "Election Officials Warn Trump May Challenge Midterm Results",
+  "body": [
+   {
+    "type": "p",
+    "text": "State and local election officials across the United States have expressed concern that the Trump administration could invoke its own unverified claims about voter fraud to contest the outcomes of the upcoming November midterm elections. The officials say the rhetoric surrounding the integrity of the vote has intensified, creating uncertainty about how the administration might respond if the results do not align with its expectations."
+   },
+   {
+    "type": "p",
+    "text": "According to the officials, the potential for a formal challenge stems from a pattern of repeated allegations that lack substantive evidence. They warn that such a move could strain the electoral process, delay certification of results, and undermine public confidence in democratic institutions. The officials stressed the importance of adhering to established legal procedures and transparent verification methods to ensure a fair election."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A contested midterm could affect legislative balance in the U.S. and set precedents that resonate with democratic norms in Europe."
+   }
+  ],
+  "key_points": [
+   "Election officials fear the Trump administration may use unsubstantiated fraud claims to contest November midterm results.",
+   "Such a challenge could delay certification and erode confidence in the electoral system.",
+   "Officials urge reliance on established legal processes to protect election integrity."
+  ],
+  "meta_description": "Election officials warn Trump may use unfounded fraud claims to challenge November midterm results, risking delays and public trust.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "midterms",
+   "voting",
+   "election officials",
+   "vote challenges"
+  ],
+  "slug": "election-officials-warn-trump-may-challenge-midterm-results-a8333f",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:44:59Z"
+ },
+ {
+  "id": "ff4f8eb3705a3c41",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-satellite-intelligence-investigation-senate.html",
+  "source": "The New York Times",
+  "source_title": "Senators Demand Investigation Into Ukraine Satellite Disruption",
+  "source_summary": "Republicans joined Democrats in calling on the Pentagon’s inspector general to look into whether the Trump administration was responsible for the interruption.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Russian Invasion of Ukraine (2022)",
+   "United States Defense and Military Forces",
+   "Defense and Military Forces",
+   "Satellites",
+   "Defense Department",
+   "Senate",
+   "Space Exploration Technologies Corp",
+   "Starlink Satellite Constellation (SpaceX)",
+   "United States Space Force"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-cong-ukraine-wvbq/15dc-cong-ukraine-wvbq-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T21:13:44+00:00",
+  "headline": "Senators Call for Pentagon Probe of Ukraine Satellite Disruption",
+  "body": [
+   {
+    "type": "p",
+    "text": "A bipartisan group of U.S. senators has urged the Pentagon’s inspector general to investigate the recent interruption of a Ukrainian satellite service. The request, signed by both Republicans and Democrats, asks the inspector general to determine whether actions taken by the Trump administration contributed to the outage."
+   },
+   {
+    "type": "p",
+    "text": "Lawmakers say the satellite disruption could have hampered Ukraine’s communications and intelligence capabilities amid ongoing conflict. They argue that a thorough review is needed to assess any possible misuse of U.S. authority or resources that might have led to the interruption."
+   },
+   {
+    "type": "p",
+    "text": "The senators’ letter to the Pentagon emphasizes the importance of transparency and accountability in foreign‑policy decisions that affect allied nations. They expect the inspector general’s findings to be made public and to guide future policy on U.S. support for Ukrainian infrastructure."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The probe could reveal how U.S. policy decisions impact NATO allies and inform future support for Ukraine’s critical infrastructure."
+   }
+  ],
+  "key_points": [
+   "Bipartisan senators have asked the Pentagon’s inspector general to examine the cause of a Ukrainian satellite outage.",
+   "The inquiry focuses on whether the Trump administration played a role in the service disruption.",
+   "Lawmakers seek a public report to ensure accountability in U.S. actions affecting Ukraine’s communications."
+  ],
+  "meta_description": "Bipartisan U.S. senators request a Pentagon inspector‑general investigation into a Ukrainian satellite outage and possible Trump‑admin involvement.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "satellite",
+   "Pentagon",
+   "Senate",
+   "investigation",
+   "Trump administration"
+  ],
+  "slug": "senators-call-pentagon-probe-ukraine-satellite-disruption-ff4f8e",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:45:19Z"
+ },
+ {
+  "id": "ad41215237f6d7eb",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o",
+  "source": "BBC News",
+  "source_title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+  "source_summary": "Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c978/live/dfe9a6d0-c8df-11f1-9a39-31b474234113.png",
+  "published": "2026-10-15T21:12:14+00:00",
+  "headline": "Bus Collides With Stopped Train in Channel Tunnel, 19 Injured",
+  "body": [
+   {
+    "type": "p",
+    "text": "A bus traveling through the Channel Tunnel struck a train that was halted on the French side of the tunnel on Sunday evening. Emergency services responded quickly, and two of the injured were taken by helicopter to hospitals for severe injuries."
+   },
+   {
+    "type": "p",
+    "text": "In total, 19 people were reported injured in the incident, though officials said no lives were in immediate danger. The tunnel, which links the United Kingdom and France, was temporarily closed while investigators examined the scene and cleared the wreckage."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have launched an investigation to determine the cause of the collision and to assess safety protocols for vehicles using the tunnel. The incident underscores the importance of strict coordination between road and rail operations in the bi‑national transport link."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Channel Tunnel is a critical transport corridor for passengers and freight between the UK and mainland Europe, and safety incidents can disrupt cross‑border travel and trade."
+   }
+  ],
+  "key_points": [
+   "A bus hit a stationary train in the Channel Tunnel, injuring 19 people.",
+   "Two seriously injured victims were airlifted to hospitals; no fatalities were reported.",
+   "The tunnel was shut temporarily as investigators probe the cause of the crash."
+  ],
+  "meta_description": "A bus collided with a stopped train in the Channel Tunnel, injuring 19 people, including two severe cases airlifted to hospital.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "channel tunnel",
+   "bus accident",
+   "train collision",
+   "France",
+   "injuries"
+  ],
+  "slug": "bus-collides-with-stopped-train-channel-tunnel-19-injured-ad4121",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:45:12Z"
+ },
+ {
+  "id": "54d7a618ecd38be0",
+  "source_url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+  "source": "The Verge",
+  "source_title": "Trump posts AI-edited photo to brag about White House restoration work",
+  "source_summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discrepancies and was flagged by Google's AI detector as \"made or […]",
+  "source_tags": [
+   "AI",
+   "OpenAI",
+   "Policy",
+   "Politics"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-15T21:09:33+00:00",
+  "headline": "Trump Shares AI‑Edited White House Photo Claiming Restoration Work",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump posted a series of images on his Truth Social platform that were meant to showcase recent renovations at the White House. Among the pictures, one side‑by‑side comparison highlighted an older column next to a supposedly \"restored\" version, suggesting the work had been completed under his administration."
+   },
+   {
+    "type": "p",
+    "text": "Observers noted that the comparison image contained several visual inconsistencies, leading many to suspect it had been altered with artificial intelligence. Google’s AI detection tool flagged the photo as likely \"made or altered by AI,\" raising questions about the authenticity of the claim."
+   },
+   {
+    "type": "p",
+    "text": "The post quickly spread on social media, prompting fact‑checkers and technology analysts to point out the discrepancies and to caution viewers about the potential for AI‑generated content to be used for political messaging."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights how AI‑altered visuals can be leveraged in political communication, underscoring the need for media literacy and verification tools in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Trump posted a photo on Truth Social claiming White House restoration work.",
+   "The image showed discrepancies and was flagged by Google's AI detector as likely AI‑edited.",
+   "Experts warn that AI‑generated images can be used to mislead the public."
+  ],
+  "meta_description": "Trump posted an AI‑edited White House photo on Truth Social, prompting AI detection alerts and concerns over political misinformation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "White House",
+   "AI editing",
+   "Truth Social",
+   "misinformation"
+  ],
+  "slug": "trump-shares-aiedited-white-house-photo-claiming-restoration-work-54d7a6",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:45:15Z"
+ },
+ {
+  "id": "f1f5359ff63cb9c8",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html",
+  "source": "The New York Times",
+  "source_title": "Trump Administration Sues California Over Voter Rolls",
+  "source_summary": "The lawsuit seeks to temporarily block the state from counting mail ballots of voters it claims are likely noncitizens, opening a new front in the administration’s legal fights with election officials.",
+  "source_tags": [
+   "Federal-State Relations (US)",
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Citizenship and Naturalization",
+   "Suits and Litigation (Civil)",
+   "Voting Rights, Registration and Requirements",
+   "States (US)",
+   "Homeland Security Department",
+   "Justice Department",
+   "Newsom, Gavin"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-california-kjbf/15dc-california-kjbf-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T21:05:29+00:00",
+  "headline": "Trump Administration Sues California to Halt Mail Ballot Counting for Alleged Noncitizens",
+  "body": [
+   {
+    "type": "p",
+    "text": "The federal government has filed a lawsuit against the state of California, asking a court to temporarily stop the counting of mail ballots that officials say are likely cast by noncitizen voters. The suit argues that the state's current process violates federal immigration law and seeks an injunction to pause the tally until the issue is resolved."
+   },
+   {
+    "type": "p",
+    "text": "The action represents a new front in the Trump administration’s broader legal campaign against election officials across the country. By targeting California’s voter rolls, the government aims to set a precedent that could affect how mail-in votes are verified and counted in other states."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts note that the case could have significant implications for the administration of upcoming elections, though no court decision has been issued yet."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome could influence how mail-in voting is managed nationwide, affecting election integrity debates in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "The Trump administration is suing California to block the counting of mail ballots it says were cast by noncitizens.",
+   "The lawsuit seeks a temporary injunction while the legality of the ballots is examined.",
+   "The case adds to a series of federal challenges to state election practices."
+  ],
+  "meta_description": "Trump administration sues California to halt counting of mail ballots alleged to be cast by noncitizens, seeking a temporary injunction.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "California",
+   "voter rolls",
+   "mail ballots",
+   "lawsuit"
+  ],
+  "slug": "trump-administration-sues-california-halt-mail-ballot-counting-alleged-f1f535",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:45:35Z"
+ },
+ {
+  "id": "b0e465bf07ddde02",
+  "source_url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+  "source": "CNBC",
+  "source_title": "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
+  "source_summary": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-15T21:03:50+00:00",
+  "headline": "KFC Switches to Coca‑Cola as U.S. Beverage Supplier After Decades",
+  "body": [
+   {
+    "type": "p",
+    "text": "KFC announced that it will replace PepsiCo with Coca‑Cola as the exclusive beverage provider for its United States restaurants. The change marks the first time in decades that the fast‑food chain will serve Coca‑Cola products across its U.S. locations."
+   },
+   {
+    "type": "p",
+    "text": "The new partnership will see Coca‑Cola’s soft drinks, teas and other drinks become the standard offering in KFC outlets nationwide. The shift follows a strategic decision by KFC to realign its supply chain and beverage portfolio."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the move could affect sales dynamics for both beverage giants, as KFC represents a significant volume of soft‑drink purchases in the fast‑food sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The change reshapes a major fast‑food beverage partnership, potentially impacting soft‑drink sales trends in the U.S. market."
+   }
+  ],
+  "key_points": [
+   "KFC is ending its long‑standing beverage contract with PepsiCo in the United States.",
+   "Coca‑Cola will become the sole soft‑drink supplier for KFC U.S. restaurants.",
+   "The switch may influence market share for both beverage companies."
+  ],
+  "meta_description": "KFC will replace PepsiCo with Coca‑Cola as its U.S. beverage supplier, ending a decades‑long partnership.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "KFC",
+   "Coca-Cola",
+   "PepsiCo",
+   "beverage supplier",
+   "U.S. restaurants"
+  ],
+  "slug": "kfc-switches-cocacola-u-s-beverage-supplier-after-decades-b0e465",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:45:04Z"
+ },
+ {
+  "id": "61b59749e908408b",
+  "source_url": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
+  "source_summary": "A minibus carrying truck drivers collided with a freight train near the Channel Tunnel entrance in France, injuring 19 people, two of them severely. Authorities launched an inquiry into what caused the accident.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-15T20:42:00+00:00",
+  "headline": "19 Injured as Minibus Collides with Freight Train Near Channel Tunnel",
+  "body": [
+   {
+    "type": "p",
+    "text": "A minibus carrying truck drivers struck a freight train close to the French entrance of the Channel Tunnel on Saturday, leaving 19 people injured. Emergency services responded quickly, and two of the victims were reported to be in serious condition."
+   },
+   {
+    "type": "p",
+    "text": "The collision occurred near the tunnel’s terminal facilities, prompting French authorities to open an investigation into the cause of the accident. Details about the exact location, time of day, or any mechanical failures have not been released pending the inquiry."
+   },
+   {
+    "type": "p",
+    "text": "Officials emphasized that the incident underscores the importance of safety coordination between road and rail operations in one of Europe’s busiest transport corridors. The Channel Tunnel, which links the United Kingdom and continental Europe, handles a high volume of passenger and freight traffic daily."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The accident highlights safety challenges at a key trans‑European transport hub that connects the UK with mainland Europe, affecting freight and passenger flows."
+   }
+  ],
+  "key_points": [
+   "A minibus carrying truck drivers collided with a freight train near the Channel Tunnel entrance in France.",
+   "Nineteen people were injured, with two suffering serious injuries.",
+   "French authorities have launched an inquiry to determine the cause of the crash."
+  ],
+  "meta_description": "A minibus hit a freight train near the Channel Tunnel in France, injuring 19, including two seriously, as authorities begin an investigation.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Channel Tunnel",
+   "train accident",
+   "France",
+   "transport safety",
+   "injuries"
+  ],
+  "slug": "19-injured-minibus-collides-with-freight-train-near-channel-61b597",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:45:28Z"
+ },
+ {
+  "id": "cf6f64f0e4c00aa1",
+  "source_url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+  "source": "TechCrunch",
+  "source_title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+  "source_summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
+  "source_tags": [
+   "Gadgets",
+   "Hardware",
+   "Amazon",
+   "panos panay",
+   "TechCrunch Disrupt"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-15T20:38:13+00:00",
+  "headline": "Amazon Devices Chief Panos Panay Stresses Learning From Failure",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent interview, Panos Panay, the head of Amazon's devices division, emphasized that setbacks are an inevitable part of product creation. He argued that teams can not only survive failures but also extract valuable lessons that improve future designs."
+   },
+   {
+    "type": "p",
+    "text": "Panay highlighted that even catastrophic missteps can become catalysts for innovation when organizations adopt a mindset focused on recovery and continuous learning. He urged engineers and managers to view each obstacle as an opportunity to refine processes and deliver better consumer experiences."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding how a leading tech firm treats failure offers insight for US and European companies aiming to boost innovation and resilience."
+   }
+  ],
+  "key_points": [
+   "Amazon devices chief Panos Panay says failure is a natural step in product development.",
+   "He believes learning from setbacks, even major ones, drives future innovation.",
+   "Adopting a recovery-focused mindset can improve consumer outcomes."
+  ],
+  "meta_description": "Amazon devices chief Panos Panay says learning from failure is essential for product innovation.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Amazon",
+   "Panos Panay",
+   "product development",
+   "failure",
+   "innovation"
+  ],
+  "slug": "amazon-devices-chief-panos-panay-stresses-learning-from-failure-cf6f64",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:45:32Z"
+ },
+ {
+  "id": "c1b81952d03d32c5",
+  "source_url": "https://www.cnbc.com/2026/10/15/porsche-mission-s-concept-car.html",
+  "source": "CNBC",
+  "source_title": "Porsche reveals Mission S concept car that previews new design identity",
+  "source_summary": "Porsche revealed a concept car called Mission S as part of a turnaround plan that includes efforts to boost profits through higher-end products and lower sales.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-15T20:30:01+00:00",
+  "headline": "Porsche Unveils Mission S Concept, Aiming to Lift Profits",
+  "body": [
+   {
+    "type": "p",
+    "text": "German automaker Porsche introduced the Mission S concept car, showcasing a new design direction that signals the brand’s next aesthetic phase. The reveal is part of a broader turnaround plan announced by the company."
+   },
+   {
+    "type": "p",
+    "text": "Porsche’s strategy focuses on increasing profitability by emphasizing higher‑end products while intentionally reducing overall sales volume. The Mission S is intended to illustrate how premium offerings can support that financial goal."
+   },
+   {
+    "type": "p",
+    "text": "The concept’s debut underscores Porsche’s commitment to reshaping its portfolio in line with the profit‑driven approach, aiming to attract affluent buyers seeking cutting‑edge design and performance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move highlights a trend among luxury car makers to prioritize high‑margin models, which could influence pricing and competition in the U.S. and European automotive markets."
+   }
+  ],
+  "key_points": [
+   "Porsche presented the Mission S concept as a visual preview of its upcoming design language.",
+   "The model is central to a turnaround plan that seeks higher margins through premium products and lower sales.",
+   "The strategy reflects Porsche’s shift toward profit growth rather than volume expansion."
+  ],
+  "meta_description": "Porsche unveils the Mission S concept, part of a profit‑focused plan that emphasizes premium models over volume sales.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Porsche",
+   "Mission S",
+   "concept car",
+   "automotive",
+   "profit strategy"
+  ],
+  "slug": "porsche-unveils-mission-s-concept-aiming-lift-profits-c1b819",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:45:24Z"
+ },
+ {
+  "id": "0537f1059ccf6ad6",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c95ynkv552yvo",
+  "source": "BBC Sport",
+  "source_title": "Kane poised to extend Bayern stay - Friday's gossip",
+  "source_summary": "Harry Kane is close to signing a new deal at Bayern Munich, Arda Guler agrees a new contract with Real Madrid, Liverpool are leading the race for Bournemouth's Alex Scott, plus more.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eb7/live/41935680-c8ca-11f1-bc2e-018d645d8d21.png",
+  "published": "2026-10-15T19:43:01+00:00",
+  "headline": "Kane Nears New Bayern Deal as Guler Signs With Real Madrid",
+  "body": [
+   {
+    "type": "p",
+    "text": "England striker Harry Kane is reported to be on the verge of agreeing a fresh contract with Bayern Munich, extending his stay at the German club beyond the current season. The talks are said to be progressing quickly, with both parties eager to finalize the terms."
+   },
+   {
+    "type": "p",
+    "text": "In other transfer news, Turkish midfielder Arda Güler has confirmed a new deal with Real Madrid, securing his future at the Spanish giants after a successful loan spell. The agreement is expected to keep the 22-year-old at the club for the coming years."
+   },
+   {
+    "type": "p",
+    "text": "Premier League side Liverpool are currently leading the pursuit of Bournemouth forward Alex Scott, according to the latest gossip. The Merseyside club is said to be the front‑runner in what could become a competitive bidding process."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The extensions involve high‑profile players in Europe’s top leagues, affecting club strategies and the market ahead of the upcoming transfer window."
+   }
+  ],
+  "key_points": [
+   "Harry Kane is close to signing a new contract with Bayern Munich.",
+   "Arda Güler has agreed a fresh deal with Real Madrid.",
+   "Liverpool are ahead in the race to sign Bournemouth striker Alex Scott."
+  ],
+  "meta_description": "Harry Kane nears a new Bayern deal, Arda Güler signs with Real Madrid, and Liverpool lead the chase for Alex Scott.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Harry Kane",
+   "Bayern Munich",
+   "Arda Güler",
+   "Real Madrid",
+   "Liverpool",
+   "Alex Scott"
+  ],
+  "slug": "kane-nears-new-bayern-deal-guler-signs-with-real-0537f1",
+  "reading_minutes": 1,
+  "added": "2026-10-15T21:45:07Z"
+ },
+ {
   "id": "a3e86efef46f5351",
   "source_url": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
   "source": "The New York Times",
