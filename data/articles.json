@@ -1,5 +1,674 @@
 [
  {
+  "id": "5abc04e05146a5cd",
+  "source_url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+  "source": "TechCrunch",
+  "source_title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+  "source_summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
+  "source_tags": [
+   "Enterprise",
+   "AI"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-15T00:00:00+00:00",
+  "headline": "Gudea Deploys AI to Detect Emerging Social Media Crises Before They Escalate for Brands and Agencies",
+  "body": [
+   {
+    "type": "p",
+    "text": "Gudea, a firm that describes itself as a \"storm tracker for the internet,\" is using artificial‑intelligence tools to monitor how stories and rumors spread across social platforms and websites. The company’s technology flags posts that could turn into misinformation, hate speech or damaging rumors, giving organizations an early warning before a small spark ignites a larger public controversy."
+   },
+   {
+    "type": "p",
+    "text": "By mapping the trajectory of online conversations in real time, Gudea aims to help brands, agencies and other stakeholders intervene quickly, either by correcting false information or by adjusting messaging. The service is positioned as a preventive measure, allowing clients to avoid the costly fallout that often follows a viral crisis."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For companies in the US and Europe, rapid detection of harmful online narratives can prevent reputational damage and costly legal or regulatory consequences."
+   }
+  ],
+  "key_points": [
+   "Gudea’s AI platform monitors the spread of online rumors and harmful content.",
+   "The system provides early alerts so organizations can act before a crisis escalates.",
+   "Clients include brands and agencies seeking to protect reputation on social media."
+  ],
+  "meta_description": "Gudea uses AI to spot emerging social media crises early, helping brands and agencies prevent reputational damage.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "social media monitoring",
+   "crisis management",
+   "brand safety",
+   "rumor tracking"
+  ],
+  "slug": "gudea-deploys-ai-detect-emerging-social-media-crises-before-5abc04",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:04:39Z"
+ },
+ {
+  "id": "589dbea38ab3433b",
+  "source_url": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+  "source": "The New York Times",
+  "source_title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+  "source_summary": "The company held an investor meeting on Wednesday as it plans a blockbuster initial public offering as soon as next month.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Initial Public Offerings",
+   "Venture Capital",
+   "Anthropic AI LLC",
+   "Amodei, Dario",
+   "San Francisco (Calif)"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/ANTHROPIC-INVESTORS-HFO-zgtc/ANTHROPIC-INVESTORS-HFO-zgtc-mediumSquareAt3X.jpg",
+  "published": "2026-10-14T23:57:26+00:00",
+  "headline": "Anthropic Reports 45% Revenue Surge to $16.8 Billion in Q3",
+  "body": [
+   {
+    "type": "p",
+    "text": "Anthropic announced that its third‑quarter revenue rose 45 percent year over year, reaching $16.8 billion. The AI‑focused firm presented the figures at an investor meeting held on Wednesday."
+   },
+   {
+    "type": "p",
+    "text": "The company said the growth reflects expanding demand for its generative‑AI services across enterprise customers. Management also indicated that it is preparing for a \"blockbuster\" initial public offering that could occur as early as next month."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the strong financial performance and imminent IPO could position Anthropic as a major new player on public markets, joining other AI firms that have recently gone public."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The surge underscores the rapid expansion of the AI sector, a trend that could impact technology investments and competition in both the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Anthropic's Q3 revenue climbed 45% to $16.8 billion.",
+   "The firm is planning a large‑scale IPO as soon as next month.",
+   "Revenue growth is driven by rising enterprise adoption of its AI technology."
+  ],
+  "meta_description": "Anthropic's Q3 revenue jumps 45% to $16.8 billion as it readies a major IPO next month.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Anthropic",
+   "AI",
+   "Revenue Growth",
+   "IPO",
+   "Tech Industry"
+  ],
+  "slug": "anthropic-reports-45-revenue-surge-16-8-billion-q3-589dbe",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:04:54Z"
+ },
+ {
+  "id": "53b42798e408baa9",
+  "source_url": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "North Korea says it tested cruise missiles to be launched from sub",
+  "source_summary": "North Korean state media said the military test-fired cruise missiles designed to be launched from submarines. Pyongyang has ramped up weapons launches in recent weeks.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-14T23:37:00+00:00",
+  "headline": "North Korea Tests Submarine‑Launched Cruise Missiles in Latest Drill",
+  "body": [
+   {
+    "type": "p",
+    "text": "North Korean state media reported that the country’s military conducted a test launch of cruise missiles designed for deployment from submarines. The announcement highlighted the specific focus on underwater launch capability, a step that expands the nation’s missile portfolio."
+   },
+   {
+    "type": "p",
+    "text": "The test comes amid a noticeable uptick in Pyongyang’s weapons launches over recent weeks, signaling a broader acceleration of its military activities. Officials did not provide details on the missile range, payload or the number of launches carried out during the exercise."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that submarine‑launched cruise missiles could enhance North Korea’s ability to strike from concealed positions, complicating detection and response efforts by regional navies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The test adds to a recent increase in North Korean weapons launches, raising concerns for regional security and monitoring by U.S. and European defense agencies."
+   }
+  ],
+  "key_points": [
+   "North Korea announced a test of cruise missiles intended for submarine launch.",
+   "The launch follows a recent surge in the country’s weapons testing activities."
+  ],
+  "meta_description": "North Korea test‑fired submarine‑launched cruise missiles, part of a recent surge in its weapons testing activities.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "North Korea",
+   "cruise missiles",
+   "submarine",
+   "weapons test",
+   "regional security"
+  ],
+  "slug": "north-korea-tests-submarinelaunched-cruise-missiles-latest-drill-53b427",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:04:43Z"
+ },
+ {
+  "id": "3b0f2d67b55f77d3",
+  "source_url": "https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html",
+  "source": "The New York Times",
+  "source_title": "The Trump Administration and the Shrinking Number of Women in Top Roles",
+  "source_summary": "In President Trump’s second term, those heading for the exits, voluntarily or involuntarily, are female officials.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Appointments and Executive Changes",
+   "Women and Girls",
+   "Guilfoyle, Kimberly",
+   "Noem, Kristi",
+   "Gabbard, Tulsi (1981- )",
+   "Trump, Donald J",
+   "Lutnick, Howard W",
+   "Leavitt, Karoline",
+   "Patel, Kashyap"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-14T23:24:52+00:00",
+  "headline": "Trump Administration Sees Rise in Female Officials Leaving Top Posts",
+  "body": [
+   {
+    "type": "p",
+    "text": "During President Donald Trump's second term, a noticeable pattern has emerged among senior staff: a growing number of women are departing from high‑level positions, whether by choice or through forced exits. This trend has been observed across various departments and agencies, highlighting a shift in the composition of the administration's leadership."
+   },
+   {
+    "type": "p",
+    "text": "The departures include both long‑standing officials and newer appointees, indicating that the turnover is not limited to a single cohort. While the exact reasons for each exit vary, the common factor is the gender of the officials involved, underscoring a gender‑related dynamic within the current administration's staffing changes."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the increasing frequency of these exits could have implications for policy continuity and the representation of women in government. The pattern also raises questions about the administration's approach to retaining diverse talent at the highest levels of federal service."
+   }
+  ],
+  "key_points": [
+   "More women are leaving senior roles in the Trump administration during his second term.",
+   "The exits occur across multiple agencies and include both voluntary and involuntary departures.",
+   "The trend may affect gender representation and policy stability within the government."
+  ],
+  "meta_description": "A rise in female officials exiting top positions marks a notable shift in the Trump administration's second term.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump administration",
+   "women in government",
+   "staff turnover",
+   "gender representation",
+   "US politics"
+  ],
+  "slug": "trump-administration-sees-rise-female-officials-leaving-top-posts-3b0f2d",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:04:58Z"
+ },
+ {
+  "id": "cc6fb35de0a3bad6",
+  "source_url": "https://www.nytimes.com/2026/10/14/us/politics/inflation-republicans-midterms-trump.html",
+  "source": "The New York Times",
+  "source_title": "Inflation Data Shows Prices Are Up, Worrying Republicans Ahead of the Midterms",
+  "source_summary": "Today’s inflation report gave Democrats a chance to tie pain at the pump to Trump’s decisions.",
+  "source_tags": [
+   "Politics and Government",
+   "Elections",
+   "Midterm Elections (2026)",
+   "US and Israeli Attack on Iran (2026)",
+   "Prices (Fares, Fees and Rates)",
+   "Inflation (Economics)",
+   "Polls and Public Opinion",
+   "Elections, Senate",
+   "Two Thousand Twenty Six",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14pol-onpolitics-newsletter-inflation-glqm/14pol-onpolitics-newsletter-inflation-glqm-mediumSquareAt3X-v2.jpg",
+  "published": "2026-10-14T23:20:36+00:00",
+  "headline": "Inflation Rise Heightens Republican Concerns Ahead of Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "The latest consumer-price report shows that overall inflation has risen, signaling higher costs for everyday goods. The data arrived as the nation heads toward the upcoming midterm elections, putting economic issues front and center in political debates."
+   },
+   {
+    "type": "p",
+    "text": "Republican leaders expressed alarm over the upward trend, warning that continued price pressures could erode voter confidence in the party’s economic stewardship. Meanwhile, Democratic officials seized the moment to link rising gasoline prices to policies enacted during former President Donald Trump's tenure."
+   },
+   {
+    "type": "p",
+    "text": "Both parties are now framing the inflation figures as a test of their respective policy approaches, with the midterm campaign season expected to intensify scrutiny of how each side plans to curb price growth."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher inflation influences household budgets and can sway voter sentiment, making it a pivotal issue for both U.S. and European audiences watching the U.S. midterm elections."
+   }
+  ],
+  "key_points": [
+   "The new inflation report shows prices are climbing, raising concerns among Republicans before the midterms.",
+   "Democrats are attributing higher gas prices to decisions made under former President Trump.",
+   "Economic performance is becoming a central theme in the upcoming congressional races."
+  ],
+  "meta_description": "Inflation rises, sparking Republican worry and Democratic criticism of Trump-era policies ahead of the U.S. midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "inflation",
+   "Republicans",
+   "Democrats",
+   "midterms",
+   "gas prices",
+   "US politics"
+  ],
+  "slug": "inflation-rise-heightens-republican-concerns-ahead-midterms-cc6fb3",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:05:15Z"
+ },
+ {
+  "id": "ef63b9c7280e4f44",
+  "source_url": "https://www.nytimes.com/2026/10/14/business/department-of-energy-emergency-power-order.html",
+  "source": "The New York Times",
+  "source_title": "Energy Department Order Takes Aim at Mid-Atlantic Blackout Risk",
+  "source_summary": "The order as a precaution allows grid operators to use backup generation this week. There were no widespread outages reported.",
+  "source_tags": [
+   "Electric Light and Power",
+   "Autumn (Season)",
+   "PJM Interconnection",
+   "Energy Department"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14xp-power-qplm/14xp-power-qplm-mediumSquareAt3X.jpg",
+  "published": "2026-10-14T23:17:50+00:00",
+  "headline": "Energy Department Issues Order to Allow Backup Power Amid Mid‑Atlantic Blackout Risk",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Energy Department issued an order on Friday as a precautionary measure to address the risk of a blackout in the Mid‑Atlantic region. The directive permits grid operators to tap into backup generation resources for the upcoming week."
+   },
+   {
+    "type": "p",
+    "text": "The move comes amid heightened concerns about potential disruptions, though officials reported that no widespread outages have occurred to date. By authorizing additional standby power, the department aims to bolster grid stability and prevent any large‑scale service interruptions."
+   },
+   {
+    "type": "p",
+    "text": "The order is limited in scope and duration, focusing specifically on the Mid‑Atlantic area, and is intended to be a temporary safeguard while longer‑term solutions are evaluated."
+   }
+  ],
+  "key_points": [
+   "The Energy Department authorized grid operators to use backup generation this week to mitigate blackout risk in the Mid‑Atlantic.",
+   "No widespread outages have been reported despite the heightened risk.",
+   "The precautionary order is a temporary measure aimed at enhancing grid reliability."
+  ],
+  "meta_description": "Energy Department authorizes backup power for Mid‑Atlantic grid this week to prevent potential blackout, with no major outages reported.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "energy",
+   "grid",
+   "backup power",
+   "blackout risk",
+   "U.S. Department of Energy"
+  ],
+  "slug": "energy-department-issues-order-allow-backup-power-amid-midatlantic-ef63b9",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:04:46Z"
+ },
+ {
+  "id": "33d641220c4a21de",
+  "source_url": "https://www.nytimes.com/2026/10/14/world/americas/mexico-media-bans-children.html",
+  "source": "The New York Times",
+  "source_title": "Mexico Bans Violent Content on Social Media for Children",
+  "source_summary": "Joining a global movement, President Claudia Sheinbaum signed a decree requiring the removal of a range of material for people under 18 and held out the prospect of tougher measures.",
+  "source_tags": [
+   "Mexico",
+   "Social Media",
+   "Children and Childhood",
+   "Regulation and Deregulation of Industry",
+   "Sheinbaum, Claudia",
+   "Teenagers and Adolescence",
+   "Freedom of Speech and Expression"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-mexico-socialmedia01-photo-gfvk/14int-mexico-socialmedia01-photo-gfvk-mediumSquareAt3X.jpg",
+  "published": "2026-10-14T23:11:42+00:00",
+  "headline": "Mexico Enacts Ban on Violent Social Media Content for Minors",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Claudia Sheinbaum signed a decree that obliges social‑media platforms to remove violent material for users under 18. The measure joins a growing international trend to shield children from harmful online content."
+   },
+   {
+    "type": "p",
+    "text": "The decree specifies a range of prohibited material, though the exact categories were not detailed in the announcement. Platforms will be required to enforce age‑verification systems and take down offending posts promptly."
+   },
+   {
+    "type": "p",
+    "text": "Sheinbaum indicated that the government may introduce stricter rules if the current provisions prove insufficient, signaling a possible expansion of digital safety regulations in Mexico."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The policy reflects broader concerns in the US and Europe about protecting children from harmful online material and may influence similar regulatory approaches."
+   }
+  ],
+  "key_points": [
+   "Mexico's new decree forces social‑media sites to delete violent content for users under 18.",
+   "The law includes a prospect of tougher measures if initial rules are deemed inadequate."
+  ],
+  "meta_description": "Mexico bans violent social‑media content for minors, with potential for stricter rules, as part of a global push for online child safety.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mexico",
+   "social media",
+   "child protection",
+   "online safety",
+   "policy"
+  ],
+  "slug": "mexico-enacts-ban-violent-social-media-content-minors-33d641",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:05:19Z"
+ },
+ {
+  "id": "bdcc661f091ef050",
+  "source_url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
+  "source": "BBC News",
+  "source_title": "How backlash against data centres could shape the US midterm elections",
+  "source_summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg",
+  "published": "2026-10-14T23:02:57+00:00",
+  "headline": "Backlash Against Data Centres Gains Momentum Ahead of US Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Both Democratic and Republican lawmakers are increasingly voicing opposition to new data centre projects, reflecting a growing national backlash against the industry. Critics cite concerns over land use, environmental impact and community disruption, prompting a rare bipartisan consensus."
+   },
+   {
+    "type": "p",
+    "text": "The controversy has entered the political arena as candidates for the upcoming midterm elections begin to incorporate data centre opposition into their platforms. Advocacy groups are urging voters to hold elected officials accountable for approving large‑scale facilities that they say threaten local ecosystems and inflate property taxes."
+   },
+   {
+    "type": "p",
+    "text": "Industry representatives argue that data centres are essential for the digital economy and that regulatory hurdles could hinder the United States’ competitiveness in cloud services. However, the mounting public pressure is forcing policymakers to balance economic benefits against environmental and social costs as the election cycle intensifies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The debate highlights how technology infrastructure projects can influence electoral politics in the US and Europe, where similar community and environmental concerns are emerging."
+   }
+  ],
+  "key_points": [
+   "Democrats and Republicans alike are publicly opposing new data centre developments.",
+   "The issue is becoming a campaign theme in the 2026 US midterm elections.",
+   "Industry warns that heightened regulation could affect the country's digital infrastructure competitiveness."
+  ],
+  "meta_description": "Bipartisan backlash against data centre development shapes US midterm election debates, raising environmental and economic concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "data centres",
+   "US elections",
+   "bipartisan",
+   "environment",
+   "technology policy"
+  ],
+  "slug": "backlash-against-data-centres-gains-momentum-ahead-us-midterms-bdcc66",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:05:03Z"
+ },
+ {
+  "id": "b52eb0b18eb579af",
+  "source_url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo",
+  "source": "BBC News",
+  "source_title": "How a Chinese-made toy gets to a US retailer",
+  "source_summary": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg",
+  "published": "2026-10-14T23:01:28+00:00",
+  "headline": "From Chinese Factories to US Store Shelves Ahead of Christmas",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC News follows the journey of a children’s toy made in China as it moves toward retail shelves in the United States, with the holiday season fast approaching. The report outlines each stage of the process, from production in Chinese factories to the final placement in American stores."
+   },
+   {
+    "type": "p",
+    "text": "The piece highlights the logistical steps involved, including transportation across oceans, customs clearance, and distribution through warehouses before the toys reach retailers. It notes the tight timelines retailers face to stock shelves before Christmas shoppers arrive."
+   },
+   {
+    "type": "p",
+    "text": "By tracing a single product, the article illustrates the broader supply‑chain network that underpins the seasonal toy market and the coordination required to meet consumer demand during the peak shopping period."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding this supply chain helps US and European consumers see how global logistics affect the availability and pricing of holiday toys."
+   }
+  ],
+  "key_points": [
+   "A Chinese‑made toy is tracked from factory to US retailer in the lead‑up to Christmas.",
+   "The supply chain involves overseas shipping, customs, and warehouse distribution.",
+   "Retailers must manage tight schedules to ensure toys are on shelves for holiday shoppers."
+  ],
+  "meta_description": "BBC News traces a Chinese-made toy's path to US stores, showing the logistics behind holiday shopping.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "supply chain",
+   "toy industry",
+   "holiday shopping",
+   "China",
+   "US retail"
+  ],
+  "slug": "from-chinese-factories-us-store-shelves-ahead-christmas-b52eb0",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:05:22Z"
+ },
+ {
+  "id": "d11f1899a6c72f9a",
+  "source_url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+  "source": "TechCrunch",
+  "source_title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+  "source_summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+  "source_tags": [
+   "Biotech & Health",
+   "Startups",
+   "Battlefield",
+   "battlefield 20",
+   "Battlefield 200"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-14T23:00:00+00:00",
+  "headline": "Intero Biosystems Offers Lab‑Grown Human Intestines to Replace Animal Testing",
+  "body": [
+   {
+    "type": "p",
+    "text": "Intero Biosystems is marketing lab‑grown human intestinal organoids to pharmaceutical companies as a substitute for traditional animal testing. The company says its mini‑intestines can mimic human drug absorption and toxicity more accurately than animal models."
+   },
+   {
+    "type": "p",
+    "text": "Regulators in the United States and Europe have been urging the industry to adopt non‑animal testing methods, and Intero is scaling its production to meet anticipated demand. The startup plans to broaden its organoid platform beyond the gut, aiming to create a suite of human‑derived tissues for drug screening."
+   },
+   {
+    "type": "p",
+    "text": "By providing a reproducible, human‑based testing tool, Intero hopes to shorten development timelines and reduce the ethical concerns associated with animal experiments, while offering drugmakers a potentially more predictive safety assessment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift toward human‑based testing aligns with tightening US and EU regulations that seek to reduce animal use and improve drug safety predictions."
+   }
+  ],
+  "key_points": [
+   "Intero Biosystems sells human intestinal organoids as an alternative to animal testing for drug development.",
+   "Regulatory pressure in the US and Europe is driving interest in non‑animal testing methods.",
+   "The startup is expanding production and intends to add more human tissue models to its portfolio."
+  ],
+  "meta_description": "Intero Biosystems offers lab‑grown human intestines to replace animal testing, meeting regulatory pressure for safer, more ethical drug development.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "organoids",
+   "drug development",
+   "animal testing alternatives",
+   "biotech",
+   "regulatory",
+   "Intero Biosystems"
+  ],
+  "slug": "intero-biosystems-offers-labgrown-human-intestines-replace-animal-testing-d11f18",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:05:10Z"
+ },
+ {
+  "id": "59e45d1980030e20",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o",
+  "source": "BBC Sport",
+  "source_title": "Guardiola's return, Man City's defiance - and a game of glorious chaos",
+  "source_summary": "On their return to Etihad Stadium Manchester City put on a show of defiance - even in the face of a PSG masterclass, writes Phil McNulty.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d25/live/6b97a6a0-c822-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-14T22:57:23+00:00",
+  "headline": "Guardiola Returns as Manchester City Stands Firm Against PSG",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester City made a dramatic home return to the Etihad Stadium, with Pep Guardiola back on the touchline after a brief absence. The match pitted the English champions against a high‑profile Paris Saint‑Germain side that delivered a performance described as a masterclass."
+   },
+   {
+    "type": "p",
+    "text": "Despite the French team's dominance, City displayed notable resilience, maintaining pressure and creating several chances. The atmosphere at the Etihad was electric, reflecting the supporters' belief in their team's capacity to challenge even the most formidable opponents."
+   },
+   {
+    "type": "p",
+    "text": "Phil McNulty of BBC Sport highlighted the contrast between PSG's technical superiority and City's defiant spirit, noting that the encounter exemplified a \"game of glorious chaos\" where both sides showcased contrasting styles."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The fixture underscores the growing competitiveness of European club football, with English and French powerhouses battling for continental prestige."
+   }
+  ],
+  "key_points": [
+   "Pep Guardiola returned to manage Manchester City at the Etihad.",
+   "Paris Saint‑Germain delivered a masterclass performance, yet City showed strong resistance.",
+   "The match was described as a chaotic yet entertaining contest."
+  ],
+  "meta_description": "Guardiola returns as Manchester City faces PSG's masterclass, delivering a defiant and chaotic showdown at the Etihad.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester City",
+   "Paris Saint-Germain",
+   "Pep Guardiola",
+   "Champions League",
+   "football"
+  ],
+  "slug": "guardiola-returns-manchester-city-stands-firm-against-psg-59e45d",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:04:50Z"
+ },
+ {
+  "id": "feb96dbeac51ccd8",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o",
+  "source": "BBC Sport",
+  "source_title": "Jackson steps up again as Aston Villa revival continues",
+  "source_summary": "Nicolas Jackson continues his fine goalscoring form as Aston Villa record an impressive Champions League win.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c8d/live/bc2e5020-c81b-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-14T22:45:22+00:00",
+  "headline": "Jackson Leads Aston Villa to Convincing Champions League Victory",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nicolas Jackson kept his scoring streak alive as Aston Villa delivered a dominant performance in the Champions League, netting multiple goals to secure a comprehensive win."
+   },
+   {
+    "type": "p",
+    "text": "The forward's clinical finishing highlighted Villa's attacking resurgence, with the team controlling possession and creating numerous chances throughout the match. Jackson's contribution was pivotal, reinforcing his status as the club's leading scorer this season."
+   },
+   {
+    "type": "p",
+    "text": "Villa's victory marks a significant step in their European campaign, showcasing the squad's ability to compete against top continental opponents and raising expectations for further progress in the tournament."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result demonstrates the growing competitiveness of English clubs in Europe, a trend that influences broadcasting and fan interest across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Nicolas Jackson scored again as Aston Villa won convincingly in the Champions League.",
+   "The win underscores Villa's improving form and ambition in European competition."
+  ],
+  "meta_description": "Nicolas Jackson stars as Aston Villa claim a convincing Champions League win, highlighting the club's European resurgence.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Aston Villa",
+   "Nicolas Jackson",
+   "Champions League",
+   "football",
+   "Premier League",
+   "European football"
+  ],
+  "slug": "jackson-leads-aston-villa-convincing-champions-league-victory-feb96d",
+  "reading_minutes": 1,
+  "added": "2026-10-15T00:05:07Z"
+ },
+ {
   "id": "0c6c7d3439312c97",
   "source_url": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
   "source": "The New York Times",
