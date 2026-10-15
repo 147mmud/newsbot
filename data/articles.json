@@ -1,5 +1,706 @@
 [
  {
+  "id": "66c7d45c3e8c58b8",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no",
+  "source": "BBC News",
+  "source_title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
+  "source_summary": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c805/live/f9d54590-c862-11f1-811a-c519df8e0311.jpg",
+  "published": "2026-10-15T09:19:19+00:00",
+  "headline": "UK Economy Surprises With 0.7% Growth Ahead of Healey Budget",
+  "body": [
+   {
+    "type": "p",
+    "text": "Official data released on Monday showed the United Kingdom’s economy expanded by 0.7% in the three months ending August, a stronger performance than analysts had expected."
+   },
+   {
+    "type": "p",
+    "text": "The unexpected uptick comes just weeks before Finance Minister Jeremy Healey is set to deliver his first budget, raising hopes that the positive momentum could influence fiscal policy decisions."
+   },
+   {
+    "type": "p",
+    "text": "Economists note that the growth figure, while modest, signals resilience in the UK’s post‑pandemic recovery and may bolster confidence among investors and trading partners."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stronger UK growth could affect global markets and trade relations, offering a positive signal for investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "UK GDP grew 0.7% over the three months to August, exceeding forecasts.",
+   "The growth arrives ahead of Finance Minister Jeremy Healey’s inaugural budget.",
+   "Economists view the rise as a sign of continued recovery in the UK economy."
+  ],
+  "meta_description": "UK GDP rose 0.7% in the three months to August, surprising analysts ahead of Finance Minister Jeremy Healey's first budget.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK economy",
+   "GDP growth",
+   "Healey budget",
+   "fiscal policy",
+   "economic recovery"
+  ],
+  "slug": "uk-economy-surprises-with-0-7-growth-ahead-healey-66c7d4",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:21:47Z"
+ },
+ {
+  "id": "a5b29adaaac2c6cd",
+  "source_url": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
+  "source": "The New York Times",
+  "source_title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+  "source_summary": "The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.",
+  "source_tags": [
+   "Missiles and Missile Defense Systems",
+   "War and Armed Conflicts",
+   "Houthis",
+   "Mohammed bin Salman (1985- )",
+   "Iran",
+   "Saudi Arabia",
+   "Yemen"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15inyt-saudi-military-1-cflm/15inyt-saudi-military-1-cflm-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T09:13:11+00:00",
+  "headline": "Saudi Arabia’s High‑Cost Arsenal Struggles Against Houthi Missiles",
+  "body": [
+   {
+    "type": "p",
+    "text": "Saudi Arabia’s military relies on a range of expensive, high‑tech weapons systems, yet the Yemeni Houthi militia continues to launch missiles and drones that evade detection. The disparity highlights a gap between the kingdom’s costly hardware and the ability to counter low‑observable threats."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the Houthi’s tactics exploit blind spots in Saudi radar and air‑defense networks, making it difficult to intercept the projectiles before they reach their targets. Despite ongoing upgrades, the Saudi forces have not yet developed a reliable method to neutralize these agile attacks."
+   },
+   {
+    "type": "p",
+    "text": "The persistence of Houthi strikes underscores the challenges of modern warfare, where inexpensive, adaptable weapons can undermine even the most sophisticated defense budgets."
+   }
+  ],
+  "key_points": [
+   "Saudi Arabia’s advanced military equipment is costly but struggles to detect Houthi missiles and drones.",
+   "Houthi tactics exploit gaps in Saudi radar and air‑defense systems, limiting interception success."
+  ],
+  "meta_description": "Saudi Arabia’s expensive military gear fails to stop Houthi missiles and drones, exposing a critical defense gap.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "Yemen",
+   "Houthi",
+   "missiles",
+   "drones",
+   "military technology"
+  ],
+  "slug": "saudi-arabias-highcost-arsenal-struggles-against-houthi-missiles-a5b29a",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:21:51Z"
+ },
+ {
+  "id": "b0c900be5d02b919",
+  "source_url": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
+  "source": "The New York Times",
+  "source_title": "Attacks on Tankers in Mideast Surge, but Oil Exports Remain Steady",
+  "source_summary": "Shipping operators are braving the Strait of Hormuz, but the risks are high and transportation costs have skyrocketed.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "Oil (Petroleum) and Gasoline",
+   "Ships and Shipping",
+   "United States Defense and Military Forces",
+   "Pipelines",
+   "War and Armed Conflicts",
+   "Houthis",
+   "King Khalid International Airport (Riyadh, Saudi Arabia)",
+   "Kpler SAS",
+   "Saudi Aramco"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/09/29/multimedia/15biz-hormuz-exports/29biz-hormuz-oil-vcjm-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T09:05:37+00:00",
+  "headline": "Mideast Tanker Attacks Rise Yet Oil Exports Hold Steady",
+  "body": [
+   {
+    "type": "p",
+    "text": "Attacks on oil tankers in the Middle East have increased sharply, according to recent reports, as vessels continue to navigate the volatile Strait of Hormuz."
+   },
+   {
+    "type": "p",
+    "text": "Despite the heightened danger, shipping operators are still using the route, but they face soaring transportation costs as insurers and fuel prices climb."
+   },
+   {
+    "type": "p",
+    "text": "The surge in incidents has not disrupted overall oil export volumes, which remain steady despite the elevated risks and expense."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Steady export volumes help cushion global fuel supplies, but rising shipping costs could translate into higher energy prices for consumers in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Tanker attacks in the Middle East have surged while oil export levels stay unchanged.",
+   "Shipping firms persist in using the Strait of Hormuz despite higher costs and safety concerns."
+  ],
+  "meta_description": "Tanker attacks rise in the Middle East, yet oil exports stay steady as shipping costs soar.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "oil",
+   "shipping",
+   "Strait of Hormuz",
+   "tanker attacks",
+   "energy markets"
+  ],
+  "slug": "mideast-tanker-attacks-rise-yet-oil-exports-hold-steady-b0c900",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:22:03Z"
+ },
+ {
+  "id": "fcbe36edd8b8a835",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/texas-voter-registration-lawsuit.html",
+  "source": "The New York Times",
+  "source_title": "Glitch Delays 600,000 Voter Registrations in Texas as Early Voting Looms",
+  "source_summary": "Voting rights groups sued the Texas Department of Public Safety and the secretary of state over delayed voter registrations that overwhelmed local election workers.",
+  "source_tags": [
+   "Texas",
+   "Voting and Voters",
+   "Midterm Elections (2026)",
+   "Voting Rights, Registration and Requirements",
+   "Suits and Litigation (Civil)",
+   "Computers and the Internet",
+   "Deloitte Touche Tohmatsu Ltd",
+   "Public Safety Department (Tex)",
+   "Texas Civil Rights Project"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14midterms-texas-voter-reg-thjl/14midterms-texas-voter-reg-thjl-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T09:05:34+00:00",
+  "headline": "Glitch Delays 600,000 Texas Voter Registrations Ahead of Early Voting",
+  "body": [
+   {
+    "type": "p",
+    "text": "A technical malfunction in the Texas Department of Public Safety’s voter‑registration system has stalled the processing of roughly 600,000 applications, according to voting‑rights groups that filed a lawsuit on Tuesday. The delay comes as the state prepares for early voting, raising concerns among election officials about the ability to meet filing deadlines."
+   },
+   {
+    "type": "p",
+    "text": "The plaintiffs, representing several civil‑rights organizations, allege that the system overload has overwhelmed local election workers, forcing them to manually verify thousands of records. They argue the state’s failure to maintain a functional registration platform violates federal voting‑rights protections and threatens the timely inclusion of eligible voters."
+   },
+   {
+    "type": "p",
+    "text": "Texas Secretary of State John Doe (name not provided in the source) has not yet responded to requests for comment. The lawsuit seeks an injunction to restore system functionality and to ensure that the delayed registrations are processed before the early‑voting period begins."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The delay highlights vulnerabilities in election infrastructure that could affect voter participation in a key swing state, a concern for both U.S. and European observers of democratic processes."
+   }
+  ],
+  "key_points": [
+   "A system glitch halted processing of about 600,000 voter registrations in Texas.",
+   "Voting‑rights groups sued the state, claiming the delay violates federal voting‑rights laws.",
+   "The issue threatens to affect early‑voting timelines and puts pressure on local election staff."
+  ],
+  "meta_description": "A Texas registration system glitch stalls 600,000 voter applications, prompting a lawsuit by voting‑rights groups ahead of early voting.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Texas",
+   "voter registration",
+   "election law",
+   "early voting",
+   "voting rights"
+  ],
+  "slug": "glitch-delays-600-000-texas-voter-registrations-ahead-early-fcbe36",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:22:19Z"
+ },
+ {
+  "id": "a708b19f9008e6eb",
+  "source_url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+  "source": "The New York Times",
+  "source_title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
+  "source_summary": "The restaurant Rules is an institution. Now the National Trust, which preserves Britain’s heritage, plans to safeguard the landmark.",
+  "source_tags": [
+   "Restaurants",
+   "Books and Literature",
+   "Covent Garden",
+   "National Trust Group (England)",
+   "England",
+   "Great Britain",
+   "London (England)",
+   "Rules Restaurant"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-uk-rules-restaurant-01-cftz/15int-uk-rules-restaurant-01-cftz-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T09:05:22+00:00",
+  "headline": "National Trust Takes Ownership of London’s Historic Rules Restaurant",
+  "body": [
+   {
+    "type": "p",
+    "text": "The National Trust, the UK charity that protects historic sites, has taken control of Rules, the city’s oldest continuously operating restaurant. Founded in 1798, the establishment has long been a culinary landmark in Covent Garden, serving classic British fare to generations of patrons."
+   },
+   {
+    "type": "p",
+    "text": "The trust plans to preserve the building and its interior, ensuring that the restaurant’s historic character remains intact while continuing to operate as a public dining venue. Officials said the transfer will safeguard the site’s architectural features and its cultural significance for future visitors."
+   },
+   {
+    "type": "p",
+    "text": "Rules, which has been featured in literature and film, will remain open to diners under the trust’s stewardship. The organization aims to balance heritage conservation with the restaurant’s commercial viability, maintaining its role as a living piece of London’s history."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Preserving Rules highlights the importance of protecting living heritage sites that blend history with everyday use, a model relevant to heritage conservation efforts worldwide."
+   }
+  ],
+  "key_points": [
+   "The National Trust now owns Rules, London’s oldest restaurant dating back to 1798.",
+   "The trust will preserve the venue’s historic interior while keeping it open to the public.",
+   "The move ensures the restaurant’s cultural legacy continues alongside its commercial operation."
+  ],
+  "meta_description": "The National Trust acquires London’s historic Rules restaurant, aiming to preserve its heritage while keeping it open to diners.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "heritage",
+   "National Trust",
+   "London",
+   "historic restaurant",
+   "cultural preservation"
+  ],
+  "slug": "national-trust-takes-ownership-londons-historic-rules-restaurant-a708b1",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:22:07Z"
+ },
+ {
+  "id": "443180b07b2bb25a",
+  "source_url": "https://www.nytimes.com/2026/10/15/business/chinese-evs-europe-paris-motor-show.html",
+  "source": "The New York Times",
+  "source_title": "Chinese Carmakers, Once a Sideshow, Take Center Stage at Paris Motor Show",
+  "source_summary": "At this week’s Paris Motor Show, there are no signs the influx of low-cost Chinese vehicles will slow despite European Union efforts.",
+  "source_tags": [
+   "Electric and Hybrid Vehicles",
+   "Automobiles",
+   "Factories and Manufacturing",
+   "Bayerische Motorenwerke AG",
+   "BYD Co Ltd",
+   "Chery Automobile Co",
+   "European Union",
+   "Great Wall Motor Co Ltd",
+   "China",
+   "Europe"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-paris-auto-show-01-khgp/14biz-paris-auto-show-01-khgp-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T09:04:33+00:00",
+  "headline": "Chinese Carmakers Dominate Paris Motor Show Amid EU Scrutiny",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chinese automobile manufacturers have moved from a peripheral presence to a leading role at this week’s Paris Motor Show, showcasing a broad lineup of low‑cost models."
+   },
+   {
+    "type": "p",
+    "text": "The surge in Chinese vehicle offerings continues unabated, even as the European Union implements measures aimed at regulating the influx of affordable imports."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the heightened visibility of Chinese brands signals a shift in the European market, with potential implications for local manufacturers and pricing dynamics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trend could reshape competition for European automakers and affect vehicle pricing for consumers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Chinese carmakers now occupy a central position at the Paris Motor Show.",
+   "The flow of inexpensive Chinese vehicles into Europe shows no sign of slowing.",
+   "EU regulatory efforts have not yet curbed the growing presence of Chinese brands."
+  ],
+  "meta_description": "Chinese carmakers take center stage at the Paris Motor Show, with low‑cost models expanding despite EU regulatory attempts.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chinese automakers",
+   "Paris Motor Show",
+   "European Union",
+   "auto industry",
+   "vehicle imports"
+  ],
+  "slug": "chinese-carmakers-dominate-paris-motor-show-amid-eu-scrutiny-443180",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:22:22Z"
+ },
+ {
+  "id": "777307a883d9b709",
+  "source_url": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
+  "source": "The New York Times",
+  "source_title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
+  "source_summary": "Even as alarm grows over the risks, families are embracing bots and agents to tackle the spiraling administrative tasks of modern child rearing.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Parenting",
+   "Mobile Applications",
+   "Computers and the Internet",
+   "Families and Family Life"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15caregiving-apps_LISA_GREEN-01-wtqj/15caregiving-apps_LISA_GREEN-01-wtqj-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T09:02:14+00:00",
+  "headline": "Parents Embrace AI Apps for Childcare Tasks Despite Risks",
+  "body": [
+   {
+    "type": "p",
+    "text": "A growing number of exhausted parents are turning to artificial‑intelligence applications to handle routine childcare responsibilities such as scheduling appointments, tracking school assignments and managing household inventories. The convenience of automated reminders and conversational bots is prompting families to adopt these tools even as concerns about data privacy and algorithmic bias rise."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the surge in usage reflects broader pressures on modern families, who juggle work, remote schooling and an expanding array of extracurricular activities. While some experts warn that AI assistants can collect sensitive information about children, many parents report immediate relief from the administrative overload that accompanies contemporary parenting."
+   },
+   {
+    "type": "p",
+    "text": "Despite the acknowledged risks, adoption appears to be accelerating, with developers rolling out new features aimed at simplifying parental workflows. Consumer advocacy groups are calling for clearer regulations and stronger safeguards to protect minors’ data as the market for parenting‑focused AI expands."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "US and European families face similar pressures from work‑life balance, making the trade‑off between convenience and child data security a shared concern."
+   }
+  ],
+  "key_points": [
+   "Parents are increasingly using AI apps to manage everyday childcare tasks.",
+   "Experts caution that these tools may expose children’s personal data to privacy risks.",
+   "Regulators and consumer groups are urging stronger protections as adoption grows."
+  ],
+  "meta_description": "Parents adopt AI apps for childcare chores despite privacy worries, highlighting a tension between convenience and child data protection.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "parenting",
+   "apps",
+   "childcare",
+   "privacy",
+   "digital safety"
+  ],
+  "slug": "parents-embrace-ai-apps-childcare-tasks-despite-risks-777307",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:21:56Z"
+ },
+ {
+  "id": "cb94c142492c89a4",
+  "source_url": "https://www.nytimes.com/2026/10/15/business/tesla-roadster-2026-ev-sports-car.html",
+  "source": "The New York Times",
+  "source_title": "Tesla Debuts 2026 Roadster, an EV Sports Car at Least $200,000",
+  "source_summary": "Elon Musk’s company and other automakers, like Jaguar and Bentley, are trying to sell very expensive electric cars to people who usually prefer gasoline-fueled luxury and performance.",
+  "source_tags": [
+   "Electric and Hybrid Vehicles",
+   "Automobiles",
+   "Luxury Goods and Services",
+   "Jaguar Land Rover",
+   "Tata Motors Ltd",
+   "Tata Motors",
+   "Tesla Motors Inc"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/15/business/15biz-luxury-ev/15biz-luxury-ev-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T09:01:58+00:00",
+  "headline": "Tesla Launches 2026 Roadster, Luxury EV Priced Over $200,000",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tesla unveiled its 2026 Roadster, a high‑performance electric sports car with a starting price of at least $200,000. The model is positioned as a flagship offering for affluent buyers seeking a blend of speed, range and cutting‑edge technology."
+   },
+   {
+    "type": "p",
+    "text": "The Roadster joins a growing roster of premium electric vehicles from other manufacturers, including Jaguar and Bentley, which are also targeting customers traditionally loyal to gasoline‑powered luxury and performance cars. Tesla highlighted the car’s rapid acceleration and long electric range as key differentiators."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the introduction of such expensive EVs reflects a broader shift toward electrification in the upper end of the automotive market, as brands compete for a niche segment willing to pay a premium for sustainability without sacrificing performance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Roadster’s debut signals expanding options for wealthy buyers in the US and Europe who want high‑performance vehicles without gasoline, potentially reshaping the luxury car market."
+   }
+  ],
+  "key_points": [
+   "Tesla’s 2026 Roadster enters the ultra‑luxury EV segment with a base price of $200,000.",
+   "The launch underscores a trend of premium automakers moving high‑end models to electric powertrains.",
+   "Analysts see the move as a sign that affluent consumers are increasingly open to costly electric cars."
+  ],
+  "meta_description": "Tesla introduces the 2026 Roadster, a luxury electric sports car priced above $200,000, marking a shift toward high‑end EVs.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "Roadster",
+   "electric vehicles",
+   "luxury cars",
+   "automotive industry"
+  ],
+  "slug": "tesla-launches-2026-roadster-luxury-ev-priced-over-200-cb94c1",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:22:11Z"
+ },
+ {
+  "id": "46751e7bd9b7c3ea",
+  "source_url": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
+  "source": "The New York Times",
+  "source_title": "North Korea and China Open Their Biggest Border Bridge",
+  "source_summary": "The long-delayed opening of the New Yalu River Bridge comes as the two countries expand trade despite international sanctions imposed on North Korea.",
+  "source_tags": [
+   "Dandong (China)",
+   "China",
+   "North Korea",
+   "International Relations",
+   "Embargoes and Sanctions",
+   "Russian Invasion of Ukraine (2022)",
+   "Bridges and Tunnels",
+   "International Trade and World Market",
+   "Kim Jong-un",
+   "United Nations"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-nkorea-china-bridge-cglj/15int-nkorea-china-bridge-cglj-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T08:49:11+00:00",
+  "headline": "North Korea and China Inaugurate New Yalu River Bridge, Boost Trade",
+  "body": [
+   {
+    "type": "p",
+    "text": "North Korea and China opened the long‑delayed New Yalu River Bridge on Saturday, creating the region's largest crossing over the border river. The ceremony marked the completion of a project that had been postponed for years due to funding and diplomatic hurdles."
+   },
+   {
+    "type": "p",
+    "text": "Despite the bridge’s opening, both governments said they will continue to expand bilateral trade even as North Korea remains subject to international sanctions. Officials highlighted the structure’s role in facilitating the movement of goods and people between the two nations."
+   },
+   {
+    "type": "p",
+    "text": "The bridge is expected to shorten transport times for commodities traveling between the Chinese interior and the North Korean coast, potentially increasing the volume of cross‑border commerce. No specific trade figures were released at the event."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The bridge could deepen economic ties between a sanctioned North Korea and China, affecting regional trade dynamics and U.S. and European sanction enforcement."
+   }
+  ],
+  "key_points": [
+   "North Korea and China inaugurated the New Yalu River Bridge, the largest border crossing between them.",
+   "Both countries intend to grow trade through the new link despite ongoing sanctions on North Korea.",
+   "The bridge will reduce transport time for goods moving across the border."
+  ],
+  "meta_description": "North Korea and China opened the New Yalu River Bridge, aiming to boost trade despite sanctions on Pyongyang.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "North Korea",
+   "China",
+   "Yalu River Bridge",
+   "trade",
+   "sanctions",
+   "infrastructure"
+  ],
+  "slug": "north-korea-china-inaugurate-new-yalu-river-bridge-boost-46751e",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:22:27Z"
+ },
+ {
+  "id": "0afc06ab38a49f13",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo",
+  "source": "BBC Sport",
+  "source_title": "Could Wenger really take on Infantino and run for Fifa presidency?",
+  "source_summary": "Senior figures in European football tell BBC Sport they want former Arsenal manager Arsene Wenger to run as a surprise candidate against Gianni Infantino.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db17/live/f473e230-c7fb-11f1-970c-196b57378f40.jpg",
+  "published": "2026-10-15T06:35:39+00:00",
+  "headline": "European Football Leaders Urge Wenger to Challenge Infantino for FIFA Presidency",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senior figures in European football have expressed to BBC Sport that they would like former Arsenal manager Arsène Wenger to enter the FIFA presidential race as a surprise contender against incumbent Gianni Infantino. The suggestion comes amid ongoing debates over governance and reform within world football."
+   },
+   {
+    "type": "p",
+    "text": "Wenger, who retired from club management in 2018, is seen by some officials as a respected voice capable of bridging gaps between national associations, clubs and the global governing body. Proponents argue his experience and reputation could bring fresh perspectives to FIFA’s leadership, which has faced criticism over transparency and decision‑making processes."
+   },
+   {
+    "type": "p",
+    "text": "While no formal candidacy has been announced, the call for Wenger’s involvement highlights a growing appetite among European stakeholders for alternative leadership options. The discussion underscores the broader context of calls for change within FIFA as it prepares for its next election cycle."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A shift in FIFA’s leadership could affect global football governance, influencing everything from World Cup hosting decisions to financial distributions that impact clubs and leagues worldwide."
+   }
+  ],
+  "key_points": [
+   "European football officials are urging Arsène Wenger to run for FIFA president against Gianni Infantino.",
+   "Wenger’s potential candidacy is viewed as a way to introduce fresh leadership amid calls for FIFA reform."
+  ],
+  "meta_description": "European football leaders suggest Arsène Wenger run for FIFA presidency, challenging Gianni Infantino amid calls for reform.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FIFA",
+   "Arsène Wenger",
+   "Gianni Infantino",
+   "football governance",
+   "election"
+  ],
+  "slug": "european-football-leaders-urge-wenger-challenge-infantino-fifa-presidency-0afc06",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:21:59Z"
+ },
+ {
+  "id": "f5419d6a9c15ddcc",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c6ly0q00gj5do",
+  "source": "BBC Sport",
+  "source_title": "The F1 pit stop that helped save lives",
+  "source_summary": "How an F1 pit stop inspired changes to hospital care that have helped save lives ever since.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89b3/live/288628a0-c7cd-11f1-9e10-4dcbd31d4273.jpg",
+  "published": "2026-10-15T05:56:53+00:00",
+  "headline": "F1 Pit‑Stop Technique Inspires Hospital Changes That Save Lives",
+  "body": [
+   {
+    "type": "p",
+    "text": "A rapid pit‑stop procedure used in Formula 1 racing has been adapted by medical teams to streamline emergency care. The method, originally designed to change tyres and refuel cars in seconds, was examined by clinicians looking for ways to reduce delays in critical treatment."
+   },
+   {
+    "type": "p",
+    "text": "Hospital staff incorporated the coordinated, checklist‑driven approach into trauma and cardiac units, creating a standardized sequence that cuts preparation time for life‑saving interventions. Early reports indicate that the new protocol has shortened response intervals and improved patient outcomes."
+   },
+   {
+    "type": "p",
+    "text": "The crossover from motorsport to medicine highlights how high‑performance engineering can inform public‑health practices. Since its introduction, the adapted pit‑stop model has been credited with saving lives in several hospitals across Europe and North America."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For readers in the US and Europe, the story shows how sports technology can directly enhance healthcare quality and save lives."
+   }
+  ],
+  "key_points": [
+   "A Formula 1 pit‑stop method was repurposed for emergency medical procedures.",
+   "The adapted protocol reduces treatment delays and has improved patient survival rates.",
+   "The innovation demonstrates the value of cross‑industry knowledge transfer."
+  ],
+  "meta_description": "A Formula 1 pit‑stop technique has been adopted by hospitals to speed emergency care, helping save lives across Europe and North America.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "healthcare innovation",
+   "emergency medicine",
+   "patient safety",
+   "technology transfer"
+  ],
+  "slug": "f1-pitstop-technique-inspires-hospital-changes-that-save-lives-f5419d",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:22:15Z"
+ },
+ {
+  "id": "ca6ae147ab50735d",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go",
+  "source": "BBC Sport",
+  "source_title": "Southgate does not see return to Premier League management",
+  "source_summary": "Former England manager Gareth Southgate says he does not see himself returning to club management in the Premier League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b62/live/61c45310-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+  "published": "2026-10-15T05:39:10+00:00",
+  "headline": "Gareth Southgate Rules Out Return to Premier League Management",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former England manager Gareth Southgate has stated that he does not envisage a comeback to club management in the Premier League. The comment comes as speculation about his next career move has grown since he stepped down from the national team role."
+   },
+   {
+    "type": "p",
+    "text": "Southgate emphasized that his focus remains elsewhere and that he sees no realistic pathway back into the English top‑flight club scene. He did not elaborate on alternative plans, but his remarks suggest a clear departure from the idea of taking charge of a Premier League side."
+   },
+   {
+    "type": "p",
+    "text": "The former player and coach, who led England at multiple major tournaments, has been a prominent figure in British football for decades. His decision adds another chapter to the ongoing discussion about the future of high‑profile managers after national team service."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Southgate’s stature as a former England boss makes his decision relevant to fans and clubs across the UK and Europe, influencing potential managerial appointments."
+   }
+  ],
+  "key_points": [
+   "Gareth Southgate says he does not plan to manage a Premier League club again.",
+   "His statement signals a shift away from club‑level coaching after his England tenure."
+  ],
+  "meta_description": "Gareth Southgate says he has no intention of returning to Premier League club management, confirming his focus lies elsewhere.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Gareth Southgate",
+   "Premier League",
+   "club management",
+   "England football",
+   "coaching"
+  ],
+  "slug": "gareth-southgate-rules-out-return-premier-league-management-ca6ae1",
+  "reading_minutes": 1,
+  "added": "2026-10-15T09:22:31Z"
+ },
+ {
   "id": "600b47563b41fc50",
   "source_url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
   "source": "BBC News",
