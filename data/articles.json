@@ -1,5 +1,581 @@
 [
  {
+  "id": "666c64837fa62e16",
+  "source_url": "https://www.dw.com/en/carney-says-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Carney says US trying to break Canada amid vote for Alberta independence referendum",
+  "source_summary": "The oil-rich province of Alberta will vote to decide if it wants to remain a Canadian province or start the legal process toward separation. Carney warned that the US was trying the divide-and-rule tactic.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-16T04:24:00+00:00",
+  "headline": "Carney Claims U.S. Is Exploiting Alberta Independence Vote to Divide Canada",
+  "body": [
+   {
+    "type": "p",
+    "text": "Alberta, Canada’s oil‑rich western province, is set to hold a referendum that will determine whether it remains part of Canada or begins a legal process toward separation. The vote has drawn attention both within Canada and abroad as the province debates its future political status."
+   },
+   {
+    "type": "p",
+    "text": "Canadian political commentator Carney warned that the United States is employing a \"divide‑and‑rule\" strategy, seeking to exploit the referendum to weaken Canadian unity. He suggested that American interests are attempting to stir division within Canada at a time of heightened political tension."
+   },
+   {
+    "type": "p",
+    "text": "The referendum’s outcome could have significant implications for Canada’s national cohesion and its energy sector, given Alberta’s pivotal role in oil production. Observers note that any move toward independence would trigger complex legal and economic challenges both domestically and internationally."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The potential split of a major oil‑producing region could affect North American energy markets and geopolitical relations, especially for the United States and European partners."
+   }
+  ],
+  "key_points": [
+   "Alberta will vote on whether to stay in Canada or start a legal separation process.",
+   "Carney alleges the United States is using the referendum to create division in Canada."
+  ],
+  "meta_description": "Alberta's independence referendum sparks claims by Carney that the U.S. is trying to divide Canada, raising geopolitical and energy concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alberta",
+   "Canada",
+   "United States",
+   "independence referendum",
+   "politics"
+  ],
+  "slug": "carney-claims-u-s-exploiting-alberta-independence-vote-divide-666c64",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:18Z"
+ },
+ {
+  "id": "3bcd19347769cd67",
+  "source_url": "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast",
+  "source": "The Guardian",
+  "source_title": "Is JD Vance campaigning for the midterms … or 2028? – podcast",
+  "source_summary": "The US vice-president is following the Donald Trump playbook, attacking the Democrats, attempting to make jokes and even swearing more. Jonathan Freedland talks to Arwa Mahdawi about why Vance is making such an effort to court voters Buy your tickets to the Guardian’s post-midterm live event , hosted by Jonathan Freedland Watch Jonathan Freedland on our new Politics Weekly YouTube channel Send your questions and feedback to politicsweeklyamerica@theguardian.com Watch Today in Focus’ episode on the Trump administration investigation into Rep. Ilhan Omar Read David Smith’s piece on Katie Zacharia’s first press conference",
+  "source_tags": [
+   "JD Vance",
+   "US politics",
+   "US midterm elections 2026",
+   "Republicans",
+   "US news",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/0512d07f5ce81c3e24186dcf0822e15550cb44fa/237_0_4905_3924/master/4905.jpg?width=700&quality=85&auto=format&fit=max&s=09b897ecf56a5fa408a72645a128450d",
+  "published": "2026-10-16T04:00:52+00:00",
+  "headline": "JD Vance Mirrors Trump Tactics in Aggressive Midterm Campaign",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republican Senate candidate JD Vance is adopting a style reminiscent of former President Donald Trump as the 2026 midterm elections approach. In recent appearances he has intensified attacks on Democratic opponents, peppered his remarks with humor, and even used profanity, a shift noted by commentators on the Guardian podcast."
+   },
+   {
+    "type": "p",
+    "text": "Host Jonathan Freedland and guest Arwa Mahdawi discussed Vance's strategic pivot, suggesting the candidate is seeking to energize the Republican base by echoing Trump’s combative playbook. The discussion highlighted how Vance’s rhetoric aims to position him as a staunch anti‑Democrat figure while courting voters who responded positively to Trump’s confrontational tone."
+   },
+   {
+    "type": "p",
+    "text": "The podcast also touched on the broader implications for the upcoming elections, noting that Vance’s approach could influence other GOP candidates and shape the political narrative heading into the 2028 presidential cycle."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift toward more confrontational campaigning in the US could affect policy directions that impact transatlantic trade and security partnerships."
+   }
+  ],
+  "key_points": [
+   "JD Vance is using Trump‑style attacks, jokes, and profanity in his midterm campaign.",
+   "The Guardian podcast suggests his tactics are meant to rally the Republican base and set a tone for future elections."
+  ],
+  "meta_description": "JD Vance adopts Trump‑like rhetoric, attacking Democrats and using humor, as the 2026 US midterms draw near.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "JD Vance",
+   "Donald Trump",
+   "US midterms",
+   "Republican strategy",
+   "political campaigning"
+  ],
+  "slug": "jd-vance-mirrors-trump-tactics-aggressive-midterm-campaign-3bcd19",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:22Z"
+ },
+ {
+  "id": "ba00d5971f36b319",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo",
+  "source": "BBC News",
+  "source_title": "Three children and teacher killed in US primary school shooting",
+  "source_summary": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-16T03:45:09+00:00",
+  "headline": "Three Children and Teacher Killed in Oregon School Shooting",
+  "body": [
+   {
+    "type": "p",
+    "text": "A gunman opened fire at a primary school in Oregon, killing three children and a teacher, according to police reports. The attack shocked the local community and prompted an immediate police response."
+   },
+   {
+    "type": "p",
+    "text": "A community member who followed the shooter into the school confronted him and shot him dead, police said. The suspect was neutralized before he could cause further harm."
+   },
+   {
+    "type": "p",
+    "text": "Authorities are investigating the motive behind the attack and the circumstances that allowed the shooter to enter the school. The incident adds to a growing list of school shootings in the United States."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shooting highlights ongoing concerns about school safety in the United States and its ripple effects on public policy and community security in Europe."
+   }
+  ],
+  "key_points": [
+   "Three children and a teacher were killed in an Oregon primary school shooting.",
+   "A community member shot the suspect dead after he entered the school.",
+   "Police are investigating the motive and security lapses."
+  ],
+  "meta_description": "Three children and a teacher were killed in an Oregon school shooting; a community member shot the suspect dead, police report says.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "school shooting",
+   "Oregon",
+   "USA",
+   "violence",
+   "police response"
+  ],
+  "slug": "three-children-teacher-killed-oregon-school-shooting-ba00d5",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:34Z"
+ },
+ {
+  "id": "4430f4e22947ae3d",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/ocasio-cortez-el-sayed-michigan-vance-trump-senate.html",
+  "source": "The New York Times",
+  "source_title": "In Michigan Senate Race, Ocasio-Cortez Joins El-Sayed on Trail in Trump Country",
+  "source_summary": "Representative Alexandria Ocasio-Cortez campaigned with Dr. Abdul El-Sayed in a swath of Michigan including areas won by President Trump, making a progressive pitch in a key Senate race.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Republican Party",
+   "Democratic Party",
+   "Ocasio-Cortez, Alexandria",
+   "El-Sayed, Abdul",
+   "Vance, J D",
+   "Rogers, Michael J (1963- )",
+   "Michigan"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15pol-michigan-senate-aoc-wczb/15pol-michigan-senate-aoc-wczb-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T03:16:51+00:00",
+  "headline": "Ocasio-Cortez Joins El‑Sayed on Trail in Michigan Trump‑Held Senate Race",
+  "body": [
+   {
+    "type": "p",
+    "text": "Representative Alexandria Ocasio‑Cortez traveled to Michigan to campaign alongside Dr. Abdul El‑Sayed, the Democratic candidate for the state’s U.S. Senate seat. The duo visited a broad swath of the state, including several counties that President Donald Trump carried in the 2024 election."
+   },
+   {
+    "type": "p",
+    "text": "Their joint appearances aimed to present a progressive alternative to the Republican incumbent, emphasizing issues such as health care, climate action and economic equity. By entering traditionally Republican territory, Ocasio‑Cortez sought to broaden El‑Sayed’s appeal and energize Democratic voters in a pivotal Senate contest."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The effort highlights Democratic attempts to make inroads in traditionally Republican areas ahead of the 2026 midterm elections."
+   }
+  ],
+  "key_points": [
+   "Alexandria Ocasio‑Cortez campaigned with Michigan Senate candidate Dr. Abdul El‑Sayed.",
+   "The tour targeted Trump‑won counties to expand the progressive message in a key race."
+  ],
+  "meta_description": "Alexandria Ocasio‑Cortez joins Dr. Abdul El‑Sayed on the campaign trail in Trump‑leaning Michigan Senate districts.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alexandria Ocasio-Cortez",
+   "Abdul El‑Sayed",
+   "Michigan Senate",
+   "Trump counties",
+   "progressive campaign"
+  ],
+  "slug": "ocasio-cortez-joins-elsayed-trail-michigan-trumpheld-senate-race-4430f4",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:38Z"
+ },
+ {
+  "id": "2c35bc7a0d74fd73",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html",
+  "source": "The New York Times",
+  "source_title": "5 Takeaways From the Senate Debate in Maine",
+  "source_summary": "The race’s fourth and final debate centered around whether Senator Susan Collins, the Republican incumbent, was as independent as she claimed to be from President Trump.",
+  "source_tags": [
+   "Maine",
+   "Debates (Political)",
+   "Midterm Elections (2026)",
+   "United States Politics and Government",
+   "Elections, Senate",
+   "Senate",
+   "Collins, Susan M",
+   "Jackson, Troy"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15pol-maine-debate-takeaways-hvmg/15pol-maine-debate-takeaways-hvmg-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T03:05:19+00:00",
+  "headline": "Maine Senate Debate Centers on Collins’ Independence Claim",
+  "body": [
+   {
+    "type": "p",
+    "text": "The fourth and final Senate debate in Maine focused almost entirely on Republican incumbent Senator Susan Collins and her assertion that she remains independent of former President Donald Trump. Moderators and opponents pressed her on voting records and public statements, seeking to gauge how closely she aligns with the former president’s agenda."
+   },
+   {
+    "type": "p",
+    "text": "Collins defended her record, citing instances where she voted against Trump‑backed legislation and emphasizing her willingness to work across the aisle. Critics highlighted recent endorsements and policy positions that they said contradict her claim of independence, arguing that the debate revealed a growing tension within the GOP over loyalty to Trump."
+   },
+   {
+    "type": "p",
+    "text": "The discussion also touched on broader issues such as health care, climate policy, and the economy, but the central narrative remained Collins’ relationship with Trump and what that means for her re‑election prospects in a state that has been trending more moderate."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome may influence the balance of power in the Senate and signal how Republican candidates across the US and Europe view alignment with former President Trump."
+   }
+  ],
+  "key_points": [
+   "Collins argued she remains independent of Trump despite GOP pressure.",
+   "Opponents pointed to recent votes and endorsements that suggest closer ties to Trump.",
+   "The debate underscored intra‑party divisions that could shape the upcoming election."
+  ],
+  "meta_description": "Maine's final Senate debate put Senator Susan Collins' claim of independence from Trump under intense scrutiny.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Senate",
+   "Maine",
+   "Susan Collins",
+   "debate",
+   "Trump",
+   "independence"
+  ],
+  "slug": "maine-senate-debate-centers-collins-independence-claim-2c35bc",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:46Z"
+ },
+ {
+  "id": "5d26e18bd4d17bd0",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/zampolli-trump-ally-state-department.html",
+  "source": "The New York Times",
+  "source_title": "Trump Ally, Paolo Zampolli, Leaves State Department",
+  "source_summary": "Paolo Zampolli, a longtime Trump associate, gained attention earlier this year with a report that his ex-wife had been detained by ICE after his request.",
+  "source_tags": [
+   "Illegal Immigration",
+   "United States Politics and Government",
+   "Immigration Detention",
+   "Diplomatic Service, Embassies and Consulates",
+   "Appointments and Executive Changes",
+   "Child Custody and Support",
+   "Immigration and Customs Enforcement (US)",
+   "State Department",
+   "Landau, Christopher T (1963- )",
+   "Zampolli, Paolo"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/dc-zampolli-pjkc/dc-zampolli-pjkc-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T01:48:39+00:00",
+  "headline": "Trump Ally Paolo Zampolli Resigns From State Department",
+  "body": [
+   {
+    "type": "p",
+    "text": "Paolo Zampolli, a longtime associate of former President Donald Trump, has left his position at the U.S. State Department. The departure was confirmed by the department on Monday, though no official reason was provided."
+   },
+   {
+    "type": "p",
+    "text": "Zampolli attracted media attention earlier this year when a report revealed that his ex‑wife was detained by Immigration and Customs Enforcement (ICE) following a request he allegedly made. The incident sparked debate over the use of immigration enforcement for personal matters."
+   },
+   {
+    "type": "p",
+    "text": "The resignation comes amid ongoing scrutiny of former Trump officials and their roles within the current administration. No successor has been named, and the State Department has not commented further on Zampolli's tenure or the circumstances of his exit."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The exit highlights continued attention on former Trump associates in government roles and raises questions about the intersection of personal disputes and immigration enforcement."
+   }
+  ],
+  "key_points": [
+   "Paolo Zampolli, a Trump ally, has resigned from the State Department.",
+   "Earlier this year, his ex‑wife was reportedly detained by ICE after his request."
+  ],
+  "meta_description": "Trump associate Paolo Zampolli resigns from the State Department after a controversial ICE detention of his ex‑wife.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "State Department",
+   "Paolo Zampolli",
+   "ICE",
+   "US politics"
+  ],
+  "slug": "trump-ally-paolo-zampolli-resigns-from-state-department-5d26e1",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:54Z"
+ },
+ {
+  "id": "c6a9fe227d18776d",
+  "source_url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o",
+  "source": "BBC News",
+  "source_title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+  "source_summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d2/live/c1615dd0-c901-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-16T01:36:45+00:00",
+  "headline": "Teen Shooter Kills Four in Bend, Oregon Elementary After Opening Fire",
+  "body": [
+   {
+    "type": "p",
+    "text": "Local police said a 16-year-old opened fire at an elementary school in Bend, Oregon, killing three children aged five, eight and eleven, along with a teacher. The incident unfolded during school hours, prompting an immediate lockdown and a rapid police response."
+   },
+   {
+    "type": "p",
+    "text": "Authorities confirmed the suspect entered the classroom and began shooting before being subdued by law enforcement. The victims were identified by age, and the community mourned the loss of the young children and the teacher who had been present in the classroom."
+   },
+   {
+    "type": "p",
+    "text": "The investigation remains ongoing, with police gathering evidence and interviewing witnesses to determine the motive behind the attack. The school district announced plans to provide counseling services for students and staff affected by the tragedy."
+   }
+  ],
+  "key_points": [
+   "A 16-year-old suspect opened fire at a Bend, Oregon elementary school, killing four people.",
+   "The victims included three children aged five, eight and eleven, and a teacher.",
+   "Police have taken the suspect into custody and are investigating the motive."
+  ],
+  "meta_description": "A 16-year-old opened fire at a Bend, Oregon elementary school, killing three children and a teacher, prompting a police investigation.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Oregon",
+   "school shooting",
+   "Bend",
+   "teen suspect",
+   "victims"
+  ],
+  "slug": "teen-shooter-kills-four-bend-oregon-elementary-after-opening-c6a9fe",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:50Z"
+ },
+ {
+  "id": "41d2a43ff64d857f",
+  "source_url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+  "source": "The Verge",
+  "source_title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+  "source_summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some […]",
+  "source_tags": [
+   "Electric Cars",
+   "News",
+   "Science",
+   "Space",
+   "SpaceX",
+   "Tesla",
+   "Transportation"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Roadster_94.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-16T01:28:27+00:00",
+  "headline": "Tesla Roadster Demonstrates Upside‑Down Driving and Sub‑Second 0‑60",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tesla showcased a next‑generation Roadster at a Waco, Texas event, where the electric supercar performed a series of dramatic stunts. The vehicle drove upside down on a custom track, briefly left the ground, and recorded a 0‑60 mph acceleration in under one second."
+   },
+   {
+    "type": "p",
+    "text": "The demonstration was presented as a fulfillment of Elon Musk’s promise of a flying car, highlighting the Roadster’s extreme performance capabilities. While the show emphasized speed and agility, details about production timelines or pricing were not disclosed."
+   },
+   {
+    "type": "p",
+    "text": "Observers noted the spectacle underscored Tesla’s focus on pushing the limits of electric vehicle technology, though the practical implications for everyday drivers remain unclear."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The display signals Tesla’s ambition to set new performance benchmarks for electric vehicles, potentially influencing future automotive innovation in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Tesla’s Roadster performed upside‑down driving and a brief flight at a Waco demo.",
+   "The supercar accelerated from 0 to 60 mph in less than one second.",
+   "The event was positioned as a realization of Elon Musk’s flying‑car promise."
+  ],
+  "meta_description": "Tesla’s Roadster demo in Texas featured upside‑down driving, a brief flight, and sub‑second 0‑60 acceleration.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "Roadster",
+   "electric vehicles",
+   "performance",
+   "automotive innovation"
+  ],
+  "slug": "tesla-roadster-demonstrates-upsidedown-driving-subsecond-060-41d2a4",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:26Z"
+ },
+ {
+  "id": "568aa47c4bd878ed",
+  "source_url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+  "source": "TechCrunch",
+  "source_title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+  "source_summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+  "source_tags": [
+   "Transportation",
+   "Elon Musk",
+   "Tesla",
+   "Tesla Roadster"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-16T01:17:43+00:00",
+  "headline": "Tesla Unveils SpaceX-Powered Roadster That Leapt Over Fleet in Texas Demo",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tesla showcased a new version of its Roadster at a demonstration in Texas, featuring integrated SpaceX thrusters. The vehicle performed a series of jumps, soaring over a lineup that included a Cybercab, Cybertruck, Tesla Semi, Model Y and Model 3."
+   },
+   {
+    "type": "p",
+    "text": "The spectacle highlighted the Roadster's ability to both fly and descend with controlled precision, emphasizing Tesla's push into high‑performance electric propulsion combined with aerospace technology. Observers noted the seamless transition between thrust‑powered ascent and landing."
+   },
+   {
+    "type": "p",
+    "text": "While the demonstration focused on the visual impact of the thruster‑assisted leaps, Tesla positioned the prototype as a proof of concept for future mobility solutions that blend automotive and space‑flight capabilities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The integration of SpaceX propulsion into a consumer car signals a potential shift toward more versatile, high‑speed electric vehicles for both US and European markets."
+   }
+  ],
+  "key_points": [
+   "Tesla's new Roadster uses SpaceX thrusters to jump over multiple Tesla models in a Texas demo.",
+   "The demonstration highlighted combined automotive and aerospace technology for high‑performance electric vehicles."
+  ],
+  "meta_description": "Tesla's SpaceX-powered Roadster leapt over a Cybercab, Cybertruck, Semi, Model Y and Model 3 in a Texas demo, showcasing new thruster technology.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "SpaceX",
+   "Roadster",
+   "electric vehicles",
+   "thruster technology",
+   "auto demo"
+  ],
+  "slug": "tesla-unveils-spacex-powered-roadster-that-leapt-over-fleet-568aa4",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:42Z"
+ },
+ {
+  "id": "03d0810158f68c06",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/alina-habba-mildon-richard-grenell-trump.html",
+  "source": "The New York Times",
+  "source_title": "A Bitter White House Feud, Even by Trump-Era Standards: Alina Mildon and Richard Grenell",
+  "source_summary": "Two Trump allies — Alina Habba Mildon and Richard Grenell — are locked in a raging dispute that has its roots in the battle for a share of the spoils in Venezuela.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "Kennedy, John F, Center for the Performing Arts",
+   "Grenell, Richard",
+   "Habba, Alina",
+   "Trump, Donald J",
+   "Scharf, William O",
+   "Venezuela"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-habba-kc-wkcl/15dc-habba-kc-wkcl-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T00:52:57+00:00",
+  "headline": "Trump Allies Alina Mildon and Richard Grenell Clash Over Venezuela Deal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Alina Habba Mildon and former diplomat Richard Grenell, both longtime supporters of former President Donald Trump, are engaged in a heated internal dispute. The conflict stems from competing claims to benefits tied to the United States' policy toward Venezuela."
+   },
+   {
+    "type": "p",
+    "text": "Sources indicate that the rivalry centers on who will control access to potential financial and political gains linked to the Venezuelan situation. Both figures have leveraged their Trump-era connections to press for a larger share of the spoils."
+   },
+   {
+    "type": "p",
+    "text": "The feud has escalated publicly, with each side accusing the other of undermining their efforts. Observers note that the discord reflects broader tensions among former Trump operatives seeking influence in post‑presidential foreign‑policy ventures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash reveals how former Trump insiders continue to vie for power and profit in U.S. foreign policy matters, affecting diplomatic approaches to Venezuela."
+   }
+  ],
+  "key_points": [
+   "Alina Mildon and Richard Grenell, both Trump allies, are fighting over alleged Venezuelan-related benefits.",
+   "The dispute highlights competition among former Trump officials for post‑administration influence.",
+   "Their public feud underscores internal divisions within the former president's network."
+  ],
+  "meta_description": "Trump allies Alina Mildon and Richard Grenell are locked in a dispute over Venezuelan-related benefits, exposing internal rivalries.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump allies",
+   "Venezuela",
+   "foreign policy",
+   "political feud",
+   "Richard Grenell",
+   "Alina Mildon"
+  ],
+  "slug": "trump-allies-alina-mildon-richard-grenell-clash-over-venezuela-03d081",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:56:02Z"
+ },
+ {
   "id": "625bc7812cc7f0ea",
   "source_url": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
   "source": "The New York Times",
@@ -440,6 +1016,59 @@
   "slug": "primark-launches-home-delivery-shoppers-turn-online-retail-192ce6",
   "reading_minutes": 1,
   "added": "2026-10-16T00:18:33Z"
+ },
+ {
+  "id": "99d786afcfbcf755",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo",
+  "source": "BBC Sport",
+  "source_title": "O'Neill defiant in defeat but Celtic's 'flat-track bullies' fail another big test",
+  "source_summary": "Celtic have now lost two Europa League group games, as well as two derbies - but Martin O'Neill is adamant he can see positive signs.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ebf/live/9cc98cc0-c8e0-11f1-aed7-153a8dff3c2e.jpg",
+  "published": "2026-10-15T23:04:37+00:00",
+  "headline": "O'Neill Stays Defiant After Celtic’s Second Europa League Loss",
+  "body": [
+   {
+    "type": "p",
+    "text": "Celtic have suffered a second defeat in this season’s Europa League group stage, bringing their tally to two losses alongside two recent derby setbacks. Manager Martin O'Neill acknowledged the disappointment but insisted there are encouraging signs to build on."
+   },
+   {
+    "type": "p",
+    "text": "Speaking after the match, O'Neill described the opposition as “flat‑track bullies” and warned that the team must improve its consistency and defensive organization. He highlighted moments of resilience and the potential of younger players as reasons for optimism."
+   },
+   {
+    "type": "p",
+    "text": "Despite the setbacks, O'Neill ruled out any immediate pressure on his position, emphasizing that the squad is still adapting to the demands of European competition and that the upcoming fixtures will offer further opportunities to demonstrate progress."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Celtic’s struggles in Europe affect the club’s reputation and revenue, and O'Neill’s public confidence may influence fan sentiment and future performance."
+   }
+  ],
+  "key_points": [
+   "Celtic have lost two Europa League group matches and two recent derbies.",
+   "Manager Martin O'Neill remains confident, citing positive signs despite the defeats.",
+   "He criticized opponents as “flat‑track bullies” and called for greater consistency."
+  ],
+  "meta_description": "Celtic’s second Europa League loss prompts defiant comments from Martin O'Neill, who sees positive signs despite recent defeats.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Celtic",
+   "Europa League",
+   "Martin O'Neill",
+   "football",
+   "European competition"
+  ],
+  "slug": "o-neill-stays-defiant-after-celtics-second-europa-league-99d786",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:30Z"
  },
  {
   "id": "ec38d599b69d7d87",
@@ -2036,6 +2665,60 @@
   "slug": "australia-edge-new-zealand-24-22-thrilling-rugby-league-451050",
   "reading_minutes": 1,
   "added": "2026-10-15T18:36:48Z"
+ },
+ {
+  "id": "959eed628008861e",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/c574pn7j0yp3o",
+  "source": "BBC Sport",
+  "source_title": "Walsh vomit & Ponga pain - the physical toll of World Cup opener",
+  "source_summary": "Australia's Reece Walsh exerted himself to the point of throwing up, while New Zealand's Kalyn Ponga tried to play on with a suspected broken arm in a dramatic Men's Rugby League World Cup opener.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c73/live/7bfc5710-c8a5-11f1-a573-f1e461934384.png",
+  "published": "2026-10-15T15:07:28+00:00",
+  "headline": "Walsh Vomits, Ponga Plays Through Suspected Broken Arm in RLWC Opener",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australia’s fullback Reece Walsh pushed his limits in the men’s Rugby League World Cup opener, reportedly vomiting after an intense first‑half effort. The incident highlighted the extreme physical demands placed on players in the tournament’s opening match."
+   },
+   {
+    "type": "p",
+    "text": "New Zealand’s star Kalyn Ponga continued to compete despite a suspected broken arm, sustaining the injury early in the game but remaining on the field. Medical staff assessed him during play, yet he chose to stay involved as the match progressed."
+   },
+   {
+    "type": "p",
+    "text": "Both incidents underscored the harsh toll the sport can exact, with athletes often battling pain and fatigue while striving to give their teams a competitive edge. Observers noted the bravery and determination displayed by Walsh and Ponga, while also raising questions about player welfare in high‑stakes international fixtures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode showcases the intensity of rugby league at a global level, offering insight into the physical risks athletes face in major tournaments."
+   }
+  ],
+  "key_points": [
+   "Reece Walsh vomited after a grueling first half in the RLWC opener.",
+   "Kalyn Ponga played on with a suspected broken arm, refusing to leave the field.",
+   "The incidents illustrate the severe physical strain of elite rugby league."
+  ],
+  "meta_description": "Reece Walsh vomited and Kalyn Ponga played on with a suspected broken arm in the Rugby League World Cup opener, highlighting the sport's physical toll.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby league",
+   "World Cup",
+   "Australia",
+   "New Zealand",
+   "injuries",
+   "player welfare"
+  ],
+  "slug": "walsh-vomits-ponga-plays-through-suspected-broken-arm-rlwc-959eed",
+  "reading_minutes": 1,
+  "added": "2026-10-16T04:55:58Z"
  },
  {
   "id": "8fd94761bbe687e5",
