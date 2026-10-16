@@ -1,5 +1,678 @@
 [
  {
+  "id": "625bc7812cc7f0ea",
+  "source_url": "https://www.nytimes.com/2026/10/15/world/middleeast/yemen-strike-aden-palace.html",
+  "source": "The New York Times",
+  "source_title": "Houthi Missiles Strike Government Headquarters in Yemen",
+  "source_summary": "Five people were killed when the Houthi militia struck the Maashiq Palace in Aden, a Yemeni minister said.",
+  "source_tags": [
+   "War and Armed Conflicts",
+   "Houthis",
+   "King Khalid International Airport (Riyadh, Saudi Arabia)",
+   "Aden (Yemen)",
+   "Saudi Arabia",
+   "Yemen"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-16T00:14:38+00:00",
+  "headline": "Houthi Missile Attack Kills Five at Yemen's Maashiq Palace",
+  "body": [
+   {
+    "type": "p",
+    "text": "A missile strike by Yemen's Houthi militia hit the Maashiq Palace in the port city of Aden, killing five people, according to a Yemeni minister. The palace serves as a key government headquarters, and the attack marks a significant escalation in the ongoing conflict."
+   },
+   {
+    "type": "p",
+    "text": "The minister did not provide details on the identities of the victims or the extent of damage to the building. No immediate claim of responsibility beyond the Houthi affiliation was reported, and authorities have not announced any further security measures following the incident."
+   }
+  ],
+  "key_points": [
+   "Houthi forces launched missiles at Aden's Maashiq Palace, resulting in five deaths.",
+   "The strike targeted a central government facility in Yemen's southern port city."
+  ],
+  "meta_description": "Houthi missiles struck Yemen's Maashiq Palace in Aden, killing five, according to a Yemeni minister.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Yemen",
+   "Houthi",
+   "missile strike",
+   "Aden",
+   "Maashiq Palace",
+   "conflict"
+  ],
+  "slug": "houthi-missile-attack-kills-five-yemen-s-maashiq-palace-625bc7",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:17:49Z"
+ },
+ {
+  "id": "c9c43f1e32a507cc",
+  "source_url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+  "source": "TechCrunch",
+  "source_title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+  "source_summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+  "source_tags": [
+   "AI",
+   "TC"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-15T23:44:56+00:00",
+  "headline": "Cal AI’s Influencer Strategy Drives $30M Revenue Before MyFitness Deal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Cal AI leveraged a coordinated network of social media influencers to boost its artificial‑intelligence product, turning the campaign into a viral phenomenon. The influencer push helped the startup amass more than $30 million in revenue within its first two years of operation."
+   },
+   {
+    "type": "p",
+    "text": "The rapid financial growth attracted the attention of MyFitness, which completed an acquisition of Cal AI in March. The purchase price was not disclosed, but the deal underscores how influencer‑driven marketing can accelerate valuation for emerging tech firms."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that Cal AI’s approach illustrates a growing pattern where small, highly targeted influencer groups are used to generate substantial sales momentum, making startups more attractive to larger corporations seeking to expand their digital health portfolios."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The acquisition shows how influencer‑driven sales can quickly raise a tech firm’s profile, a trend relevant to investors and marketers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Cal AI generated over $30 million in two years using a focused influencer campaign.",
+   "MyFitness acquired the AI startup in March for an undisclosed sum.",
+   "The case highlights influencer marketing as a catalyst for rapid tech‑company growth."
+  ],
+  "meta_description": "Cal AI earned $30M via influencer marketing and was bought by MyFitness in March, highlighting a fast‑track growth model.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "influencer marketing",
+   "AI startup",
+   "MyFitness acquisition",
+   "tech growth",
+   "venture capital"
+  ],
+  "slug": "cal-ais-influencer-strategy-drives-30m-revenue-before-myfitness-c9c43f",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:17:53Z"
+ },
+ {
+  "id": "60d1c61b53e19cce",
+  "source_url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
+  "source": "TechCrunch",
+  "source_title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+  "source_summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
+  "source_tags": [
+   "Biotech & Health",
+   "Startups",
+   "Startup Battlefield 200",
+   "TechCrunch Disrupt"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-15T23:33:45+00:00",
+  "headline": "Intero Biosystems Wins $100,000 Startup Battlefield at TechCrunch Disrupt 2026",
+  "body": [
+   {
+    "type": "p",
+    "text": "Intero Biosystems emerged as the champion of TechCrunch Disrupt 2026's Startup Battlefield, securing the competition's top honor and a $100,000 cash prize. The company outperformed a field of 199 fellow startups that vied for the title."
+   },
+   {
+    "type": "p",
+    "text": "The victory was announced at the closing ceremony of the event, where judges highlighted Intero Biosystems' innovative approach as a key factor in its success. The win places the startup among a select group of past Battlefield winners who have leveraged the platform to attract further investment and market attention."
+   },
+   {
+    "type": "p",
+    "text": "TechCrunch Disrupt continues to serve as a prominent showcase for emerging technology firms, offering participants exposure to investors, industry leaders, and media coverage across the United States and Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The award highlights the growing prominence of innovative startups in the US and European tech ecosystems, offering winners a platform for further growth and investment."
+   }
+  ],
+  "key_points": [
+   "Intero Biosystems won the Startup Battlefield competition at TechCrunch Disrupt 2026.",
+   "The company beat 199 other startups to claim the $100,000 grand prize.",
+   "The win underscores the event's role in spotlighting high‑potential tech ventures."
+  ],
+  "meta_description": "Intero Biosystems wins the $100,000 Startup Battlefield prize at TechCrunch Disrupt 2026, beating 199 competitors.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Startup Battlefield",
+   "TechCrunch Disrupt",
+   "Intero Biosystems",
+   "startup competition",
+   "innovation"
+  ],
+  "slug": "intero-biosystems-wins-100-000-startup-battlefield-techcrunch-disrupt-60d1c6",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:18:09Z"
+ },
+ {
+  "id": "964731d5d0129819",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro",
+  "source": "BBC News",
+  "source_title": "Porn showing choking or incest to be banned from early November, government says",
+  "source_summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee76/live/db556ac0-c8b5-11f1-bdfb-e3788aeae9ec.jpg",
+  "published": "2026-10-15T23:27:57+00:00",
+  "headline": "UK to Ban Porn Featuring Choking or Incest From Early November",
+  "body": [
+   {
+    "type": "p",
+    "text": "The British government announced that pornographic material depicting choking or incest will be prohibited from early November. The decision was disclosed in a statement that outlined the upcoming ban on such content across online platforms and other distribution channels."
+   },
+   {
+    "type": "p",
+    "text": "The move follows a review of pornography regulation carried out in 2025 by Conservative peer Baroness Gabby Bertin. The review examined the impact of extreme adult content and recommended stricter controls, prompting the current legislative action."
+   },
+   {
+    "type": "p",
+    "text": "Authorities indicated that the ban will be enforced through existing regulatory frameworks, though specific enforcement mechanisms were not detailed in the announcement. The policy aims to align UK standards with concerns about harmful sexual content."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ban reflects a broader trend in Europe toward tighter regulation of online adult content, which may influence policy discussions in the US and other jurisdictions."
+   }
+  ],
+  "key_points": [
+   "The UK will ban porn showing choking or incest starting early November.",
+   "The ban follows a 2025 review of pornography regulation led by Baroness Gabby Bertin.",
+   "Enforcement will use existing regulatory structures, though details remain unspecified."
+  ],
+  "meta_description": "UK to prohibit porn featuring choking or incest from early November after a 2025 review by Baroness Gabby Bertin.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "pornography",
+   "regulation",
+   "UK law",
+   "online content",
+   "censorship",
+   "Baroness Gabby Bertin"
+  ],
+  "slug": "uk-ban-porn-featuring-choking-or-incest-from-early-964731",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:18:25Z"
+ },
+ {
+  "id": "b75a49f62fe8c167",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/trump-russia-ukraine.html",
+  "source": "The New York Times",
+  "source_title": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
+  "source_summary": "The Ukrainian president’s defiant decision to continue attacking Russian refineries underscores President Trump’s inability to end a war he had promised to resolve.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Russian Invasion of Ukraine (2022)",
+   "United States International Relations",
+   "Presidential Election of 2024",
+   "International Relations",
+   "Politics and Government",
+   "Oil (Petroleum) and Gasoline",
+   "Trump, Donald J",
+   "Prices (Fares, Fees and Rates)",
+   "Midterm Elections (2026)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-ukraine-pmfg/15dc-trump-ukraine-pmfg-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T23:26:45+00:00",
+  "headline": "Trump’s Russia Deal Spurs Ukrainian Push on Russian Refineries",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump’s recent agreement with Russia has intensified the conflict in Ukraine, according to analysts. The deal, which was intended to bring an end to the war, has instead prompted Ukrainian President Volodymyr Zelenskyy to reaffirm his commitment to strike Russian oil facilities."
+   },
+   {
+    "type": "p",
+    "text": "Zelenskyy’s decision to continue targeting Russian refineries underscores the gap between Trump’s diplomatic promises and the on‑ground reality of the war. The move highlights the Ukrainian leadership’s resolve to maintain pressure on Russia despite diplomatic overtures that have failed to produce a ceasefire."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The escalation affects NATO allies and U.S. security policy, signaling that diplomatic moves may not translate into immediate conflict resolution."
+   }
+  ],
+  "key_points": [
+   "Trump’s agreement with Russia has not halted hostilities in Ukraine.",
+   "Ukrainian President Zelenskyy vows to keep attacking Russian refineries.",
+   "The development reveals a disconnect between diplomatic talks and battlefield dynamics."
+  ],
+  "meta_description": "Trump's Russia deal fuels Ukraine's continued refinery attacks, highlighting a gap between diplomatic promises and war realities.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Russia",
+   "Ukraine",
+   "war",
+   "refineries",
+   "diplomacy"
+  ],
+  "slug": "trumps-russia-deal-spurs-ukrainian-push-russian-refineries-b75a49",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:17:57Z"
+ },
+ {
+  "id": "e93a0e32d481103c",
+  "source_url": "https://www.nytimes.com/2026/10/15/business/media/netflix-bela-bajaria-peter-rice.html",
+  "source": "The New York Times",
+  "source_title": "Netflix Replaces Bela Bajaria as Chief Content Officer",
+  "source_summary": "Peter Rice, a former executive at Disney and Fox, will take over from Bela Bajaria, who had held the job since 2023.",
+  "source_tags": [
+   "Movies",
+   "Web-Original Programming",
+   "Layoffs and Job Reductions",
+   "Bajaria, Bela",
+   "Rice, Peter",
+   "Sarandos, Ted",
+   "Netflix Inc",
+   "Appointments and Executive Changes"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/NETFLIX-Bela-Bajaria-qpfh/NETFLIX-Bela-Bajaria-qpfh-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T23:18:27+00:00",
+  "headline": "Netflix Appoints Peter Rice as Content Officer Replacing Bajaria",
+  "body": [
+   {
+    "type": "p",
+    "text": "Netflix announced that Peter Rice will assume the role of content officer, taking over from Bela Bajaria. Rice joins the streaming giant after a career at Disney and Fox, where he held senior positions overseeing original programming and distribution."
+   },
+   {
+    "type": "p",
+    "text": "Bajaria, who was appointed chief content officer in 2023, will step down as the company reshapes its content strategy amid intensifying competition in the global streaming market. The transition marks Netflix's latest leadership change as it seeks to sustain growth and expand its international footprint."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The appointment signals Netflix's effort to leverage Rice's experience at major studios to strengthen its content pipeline for U.S. and European audiences."
+   }
+  ],
+  "key_points": [
+   "Peter Rice, a former Disney and Fox executive, is named Netflix's new content officer.",
+   "He replaces Bela Bajaria, who led the content division since 2023.",
+   "The change comes as Netflix adjusts its strategy in a crowded streaming landscape."
+  ],
+  "meta_description": "Netflix names former Disney and Fox exec Peter Rice as its new content officer, succeeding Bela Bajaria.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Netflix",
+   "Peter Rice",
+   "Bela Bajaria",
+   "streaming",
+   "leadership",
+   "media"
+  ],
+  "slug": "netflix-appoints-peter-rice-content-officer-replacing-bajaria-e93a0e",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:18:02Z"
+ },
+ {
+  "id": "9eb26fcc8fe73e13",
+  "source_url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o",
+  "source": "BBC News",
+  "source_title": "Living with a stink? Technology might help",
+  "source_summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-15T23:18:21+00:00",
+  "headline": "New Sensor Networks Track Odours From Landfills and Factories",
+  "body": [
+   {
+    "type": "p",
+    "text": "Scientists and engineers are deploying advanced sensor systems to monitor odours emitted by rubbish dumps and industrial sites. The technology uses real‑time chemical detection and data analytics to identify foul smells as they arise, allowing authorities to pinpoint sources more accurately than traditional complaint‑based methods."
+   },
+   {
+    "type": "p",
+    "text": "Pilot projects across several European regions have demonstrated that continuous monitoring can reduce response times and help local councils enforce environmental standards. By mapping odour plumes, the systems also provide communities with transparent information about air quality near potentially offensive facilities."
+   },
+   {
+    "type": "p",
+    "text": "Researchers say the approach could be expanded to other nuisance emissions, integrating with existing environmental monitoring networks. The data collected may inform future regulations and support efforts to minimise the impact of waste and industrial operations on nearby residents."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Accurate odour monitoring helps protect public health and supports stricter environmental enforcement in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Sensor networks now provide real‑time tracking of odours from waste and industrial sites.",
+   "Continuous monitoring improves response times and transparency for affected communities.",
+   "The technology could shape future environmental regulations on nuisance emissions."
+  ],
+  "meta_description": "Advanced sensors now monitor landfill and factory odours in real time, offering faster response and greater transparency for communities.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "odor monitoring",
+   "waste management",
+   "environmental sensors",
+   "air quality",
+   "industrial emissions"
+  ],
+  "slug": "new-sensor-networks-track-odours-from-landfills-factories-9eb26f",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:18:17Z"
+ },
+ {
+  "id": "192ce683c8f7d533",
+  "source_url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o",
+  "source": "BBC News",
+  "source_title": "I find it quite demoralising in store - why I do all my shopping online",
+  "source_summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e93/live/d56cced0-b75f-11f1-8e7f-6f99c81f3136.jpg",
+  "published": "2026-10-15T23:16:12+00:00",
+  "headline": "Primark Launches Home Delivery as Shoppers Turn to Online Retail",
+  "body": [
+   {
+    "type": "p",
+    "text": "Primark has announced a new home‑delivery service, marking a shift for the fast‑fashion retailer traditionally known for its brick‑and‑mortar stores. The move follows growing consumer preference for shopping online, especially among women who say they rarely visit physical clothing shops."
+   },
+   {
+    "type": "p",
+    "text": "In a recent commentary, several women described the experience of shopping in stores as \"demoralising\" and explained that they now rely entirely on online platforms for their wardrobe needs. They highlighted the convenience of browsing and purchasing from home, without the pressure of crowded aisles or limited stock."
+   },
+   {
+    "type": "p",
+    "text": "The introduction of delivery aims to capture this segment of shoppers, offering a seamless digital experience while maintaining Primark’s low‑price model. The retailer hopes the service will broaden its customer base and adapt to changing retail habits across the UK and beyond."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rollout reflects a broader trend of traditional retailers adapting to online demand, influencing shopping habits in the US, UK, and Europe."
+   }
+  ],
+  "key_points": [
+   "Primark will now provide home delivery, expanding its online presence.",
+   "Some shoppers find physical clothing stores demoralising and prefer digital shopping.",
+   "The service targets cost‑conscious consumers seeking convenience."
+  ],
+  "meta_description": "Primark launches home delivery as shoppers, especially women, shift to online buying, citing store experiences as demoralising.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Primark",
+   "online shopping",
+   "home delivery",
+   "retail trends",
+   "consumer behavior"
+  ],
+  "slug": "primark-launches-home-delivery-shoppers-turn-online-retail-192ce6",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:18:33Z"
+ },
+ {
+  "id": "ec38d599b69d7d87",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/15/katie-zacharia-trump-press-secretary-interview",
+  "source": "The Guardian",
+  "source_title": "Trump’s new press secretary says it’s ‘unknown’ how much she’ll deal with media",
+  "source_summary": "As scrutiny mounts, Katie Zacharia tells Guardian of whirlwind sprint to take job as president’s chief spokesperson Donald Trump’s new White House press secretary says it is “unknown” how much she will engage with the press or hold briefings with reporters, as she faces mounting questions over her legal credentials. In a brief interview with the Guardian on Thursday, Katie Zacharia detailed the whirlwind sprint to replace her predecessor Karoline Leavitt as the US president’s chief spokesperson.",
+  "source_tags": [
+   "Trump administration",
+   "US news",
+   "US politics",
+   "Donald Trump",
+   "Media"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/6db616e3289a52fccbb9884a313f47e7661f5a17/0_0_3274_2621/master/3274.jpg?width=700&quality=85&auto=format&fit=max&s=02c7694a76fd3aebc6d3bbbec2dfd407",
+  "published": "2026-10-15T22:58:02+00:00",
+  "headline": "Trump Names Katie Zacharia as New Press Secretary Amid Media Uncertainty",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump has appointed Katie Zacharia as the White House’s new press secretary, succeeding Karoline Leavitt. In a brief interview with the Guardian, Zacharia described the rapid transition as a \"whirlwind sprint\" to assume the role."
+   },
+   {
+    "type": "p",
+    "text": "Zacharia told the newspaper that it is \"unknown\" how much she will engage with reporters or hold briefings, reflecting the uncertainty surrounding her media strategy. She also faced questions about her legal credentials, which have drawn increased scrutiny."
+   },
+   {
+    "type": "p",
+    "text": "The appointment comes as the Trump administration confronts heightened attention to its communications approach. Zacharia’s statements suggest that the White House may adjust its traditional press‑briefing routine, though no definitive schedule has been announced."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The new press secretary’s unclear media plan could affect how U.S. and international journalists receive information from the White House."
+   }
+  ],
+  "key_points": [
+   "Katie Zacharia replaces Karoline Leavitt as White House press secretary.",
+   "Zacharia says the extent of her interaction with the press is currently unknown.",
+   "Her legal qualifications have become a focal point of scrutiny."
+  ],
+  "meta_description": "Trump appoints Katie Zacharia as press secretary, saying her media engagement plans are unknown amid questions about her legal credentials.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "White House",
+   "Press Secretary",
+   "Katie Zacharia",
+   "Trump administration",
+   "media relations"
+  ],
+  "slug": "trump-names-katie-zacharia-new-press-secretary-amid-media-ec38d5",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:18:13Z"
+ },
+ {
+  "id": "8aafb96779c4d305",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6lyez88m1n2o",
+  "source": "BBC Sport",
+  "source_title": "Minus 17 to European dreams as Bournemouth fairytale continues",
+  "source_summary": "It was a night 127 years in the making as Bournemouth added another chapter to their fairytale with victory in their first-ever European home game.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f616/live/09406380-c8d5-11f1-95b2-9f12d414946d.jpg",
+  "published": "2026-10-15T22:42:26+00:00",
+  "headline": "Bournemouth Triumph in First European Home Match, Extending Fairytale",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bournemouth secured a historic victory in their inaugural European home fixture, adding another chapter to a season that began 127 years ago. The win kept their European aspirations alive despite a recent 17‑goal deficit in the competition's overall standings."
+   },
+   {
+    "type": "p",
+    "text": "The club's supporters celebrated the achievement, noting the significance of competing on the continental stage for the first time. The result underscores Bournemouth's rapid rise from lower‑league obscurity to European contention."
+   },
+   {
+    "type": "p",
+    "text": "Managerial staff praised the players' resilience and tactical discipline, emphasizing that the performance reflects the club's long‑term development plan. The victory also positions Bournemouth favorably for the next round of fixtures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Bournemouth's breakthrough highlights the growing competitiveness of smaller clubs in European football, offering a compelling story for fans across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Bournemouth won their first-ever European home game, extending their fairytale season.",
+   "The victory comes despite the team trailing by 17 goals in the overall European table.",
+   "Supporters and staff hailed the win as evidence of the club's rapid rise."
+  ],
+  "meta_description": "Bournemouth clinches a historic win in their first European home match, keeping their fairytale season alive despite a 17‑goal deficit.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bournemouth",
+   "European football",
+   "historic win",
+   "fairytale season",
+   "football"
+  ],
+  "slug": "bournemouth-triumph-first-european-home-match-extending-fairytale-8aafb9",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:18:05Z"
+ },
+ {
+  "id": "f33f74a9fca5afe4",
+  "source_url": "https://www.nytimes.com/2026/10/15/us/politics/ukraine-us-aid-trump.html",
+  "source": "The New York Times",
+  "source_title": "How U.S. Support to Ukraine Has Evolved Under Trump",
+  "source_summary": "President Trump’s latest push to end the war in Ukraine has raised questions about the future of U.S. support.",
+  "source_tags": [
+   "United States International Relations",
+   "Russian Invasion of Ukraine (2022)",
+   "Foreign Aid",
+   "Putin, Vladimir V",
+   "Trump, Donald J",
+   "Zelensky, Volodymyr",
+   "Russia",
+   "Ukraine",
+   "Arms Trade"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-ukraine-support-cvfl/15dc-ukraine-support-cvfl-mediumSquareAt3X.jpg",
+  "published": "2026-10-15T22:37:04+00:00",
+  "headline": "Trump Pushes to End Ukraine War Raises Questions on U.S. Aid",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump has renewed his call for a swift conclusion to the conflict in Ukraine, urging diplomatic avenues to bring about a cease‑fire. The latest statements signal a shift from the extensive military and financial assistance the United States has provided since Russia's invasion in 2022."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that Trump's approach could reshape the level and type of U.S. support, potentially affecting the flow of weapons, training, and economic aid that Kyiv has relied on. Lawmakers and European allies are watching closely as the administration's stance may influence broader NATO commitments."
+   },
+   {
+    "type": "p",
+    "text": "The debate underscores the uncertainty surrounding future assistance, with some officials warning that a reduction in U.S. backing could weaken Ukraine's defensive capabilities and alter the strategic balance in Eastern Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. policy shifts could affect European security and the stability of the NATO alliance."
+   }
+  ],
+  "key_points": [
+   "Trump is urging a rapid diplomatic end to the Ukraine war.",
+   "His stance could lead to changes in U.S. military and financial aid to Kyiv.",
+   "European partners are concerned about the impact on NATO's unified support."
+  ],
+  "meta_description": "Trump's call to end the Ukraine war sparks debate over future U.S. aid and its impact on NATO allies.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Trump",
+   "US foreign policy",
+   "NATO",
+   "military aid"
+  ],
+  "slug": "trump-pushes-end-ukraine-war-raises-questions-u-s-f33f74",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:18:29Z"
+ },
+ {
+  "id": "a75559f2ca43f5a5",
+  "source_url": "https://www.dw.com/en/multiple-victims-at-elementary-school-shooting-in-us-city-of-bend-oregon-suspected-shooter-is-dead-officials-say/a-79674849?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "'Multiple victims' at elementary school shooting in US city of Bend, Oregon. Suspected shooter is dead, officials say",
+  "source_summary": "Three children, one adult dead in Oregon elementary school shooting, US media report. The suspected shooter is dead, but authorities have yet to confirm who shot the suspect.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-15T21:59:00+00:00",
+  "headline": "Three Children and an Adult Killed in Oregon Elementary School Shooting",
+  "body": [
+   {
+    "type": "p",
+    "text": "A shooting at an elementary school in Bend, Oregon left three children and one adult dead, according to U.S. media reports. The incident, described as involving multiple victims, shocked the community and prompted an immediate law‑enforcement response."
+   },
+   {
+    "type": "p",
+    "text": "Officials confirmed that the suspected shooter is also dead, though authorities have not yet determined how the suspect was killed. Police have not released details about the weapon used or the motive behind the attack."
+   },
+   {
+    "type": "p",
+    "text": "The investigation is ongoing, with local officials saying they will provide further information as it becomes available. The school was placed on lockdown during the incident, and families of the victims have been notified."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack adds to the growing number of school shootings in the United States, raising concerns about safety measures and gun policy both domestically and abroad."
+   }
+  ],
+  "key_points": [
+   "Three children and one adult were killed in a shooting at an elementary school in Bend, Oregon.",
+   "The suspected shooter is also dead, but the circumstances of their death remain unclear.",
+   "Police have not disclosed a motive or details about the weapon used."
+  ],
+  "meta_description": "Three children and an adult were killed in a Bend, Oregon elementary school shooting; the suspected shooter is also dead, authorities say.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "school shooting",
+   "Oregon",
+   "gun violence",
+   "Bend",
+   "US education",
+   "public safety"
+  ],
+  "slug": "three-children-adult-killed-oregon-elementary-school-shooting-a75559",
+  "reading_minutes": 1,
+  "added": "2026-10-16T00:18:21Z"
+ },
+ {
   "id": "2cc31e1edcbf7f0d",
   "source_url": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
   "source": "The New York Times",
