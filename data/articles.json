@@ -1,5 +1,706 @@
 [
  {
+  "id": "3395b49839809674",
+  "source_url": "https://www.nytimes.com/2026/10/16/us/politics/appeals-court-trump-presidential-records.html",
+  "source": "The New York Times",
+  "source_title": "Appeals Court Questions Justice Dept. Claim that Trump Owns White House Records",
+  "source_summary": "A three-judge panel appeared unconvinced by claims that a federal law requiring the president to preserve and hand over his presidential papers was unconstitutional.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Archives and Records",
+   "Law and Legislation",
+   "Presidential Power (US)",
+   "Decisions and Verdicts",
+   "Courts and the Judiciary",
+   "Federal Criminal Case Against Trump (Documents Case)",
+   "Constitution (US)",
+   "American Historical Assn",
+   "Justice Department"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16dc-trump-records-qgvh/16dc-trump-records-qgvh-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T21:47:04+00:00",
+  "headline": "Appeals Court Scrutinizes DOJ Claim White House Records Must Be Preserved",
+  "body": [
+   {
+    "type": "p",
+    "text": "A three‑judge panel of the U.S. Court of Appeals examined the Justice Department's argument that a federal law obligating a president to keep and turn over his official papers is unconstitutional. The judges appeared skeptical of the administration's stance, questioning the legal basis for the claim."
+   },
+   {
+    "type": "p",
+    "text": "The law in question, part of the Presidential Records Act, requires that presidential documents be preserved and eventually made public. The Department of Justice contended that the statute infringes on executive authority, but the appellate judges did not accept that reasoning without further justification."
+   },
+   {
+    "type": "p",
+    "text": "The hearing did not produce a final ruling, leaving the dispute over the scope of the records‑preservation requirement unresolved. The case highlights ongoing tensions between the executive branch and legal frameworks governing transparency and historical record‑keeping."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome could shape how future presidents handle official documents, affecting transparency and historical research in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "An appeals court panel expressed doubt about the DOJ's claim that the Presidential Records Act is unconstitutional.",
+   "The judges questioned the administration's argument that the law infringes on executive authority.",
+   "No definitive ruling was issued, keeping the legal dispute over presidential records open."
+  ],
+  "meta_description": "Appeals court judges question DOJ's claim that the law requiring presidents to preserve official records is unconstitutional.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "presidential records",
+   "Department of Justice",
+   "appeals court",
+   "constitutional law"
+  ],
+  "slug": "appeals-court-scrutinizes-doj-claim-white-house-records-must-3395b4",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:01:36Z"
+ },
+ {
+  "id": "d0f11237d1f3614e",
+  "source_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "source": "TechCrunch",
+  "source_title": "Replit is no longer working with Anthropic, CEO says",
+  "source_summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+  "source_tags": [
+   "AI",
+   "Anthropic",
+   "Replit",
+   "TechCrunch Disrupt"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-16T21:22:28+00:00",
+  "headline": "Replit Ends Anthropic Partnership Over Cost Concerns, Shifts Focus to OpenAI",
+  "body": [
+   {
+    "type": "p",
+    "text": "Replit's chief executive, Amjad Masad, announced that the code‑hosting platform has terminated its collaboration with AI startup Anthropic. Masad said the split was driven by a range of factors, with cost considerations playing a central role."
+   },
+   {
+    "type": "p",
+    "text": "The decision follows Replit's August announcement of a new partnership with OpenAI, which will give developers access to the larger company's language models. The company did not indicate that the Anthropic relationship had already ended prior to the statement."
+   },
+   {
+    "type": "p",
+    "text": "While Replit has not disclosed the financial terms of either agreement, the shift suggests the firm is consolidating its AI resources around a single provider to manage expenses and streamline its product roadmap."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Developers in the US and Europe who rely on Replit for cloud coding will see a change in the AI tools available, potentially affecting project costs and capabilities."
+   }
+  ],
+  "key_points": [
+   "Replit has ended its partnership with Anthropic, citing cost and other reasons.",
+   "The company is now emphasizing its recent collaboration with OpenAI for AI features.",
+   "No prior indication was given that the Anthropic deal had been discontinued."
+  ],
+  "meta_description": "Replit ends its Anthropic partnership over cost concerns and pivots to OpenAI, altering AI options for developers.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Replit",
+   "Anthropic",
+   "OpenAI",
+   "AI partnership",
+   "startup",
+   "cost management"
+  ],
+  "slug": "replit-ends-anthropic-partnership-over-cost-concerns-shifts-focus-d0f112",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:01:40Z"
+ },
+ {
+  "id": "2c8710dbe2adb760",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo",
+  "source": "BBC Sport",
+  "source_title": "Ranking the Premier League's all-time greatest super subs",
+  "source_summary": "Some players are destined to make their biggest impact off the bench, but who are the top 10 Premier League super subs of all time?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebe8/live/306d9e20-c946-11f1-94af-5f148d758fe7.jpg",
+  "published": "2026-10-16T21:15:47+00:00",
+  "headline": "Premier League's Top 10 Super Subs Ranked for Greatest Impact",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new BBC Sport feature examines the Premier League’s most influential bench players, compiling a list of the ten \"super subs\" who have repeatedly changed games after coming on as replacements. The article notes that certain footballers are built to thrive off the bench, delivering decisive goals, assists or defensive solidity when their teams need a spark."
+   },
+   {
+    "type": "p",
+    "text": "The ranking considers a range of factors, including the frequency of match‑winning contributions, the magnitude of moments created and the consistency of impact across multiple seasons. While the piece does not disclose the full list here, it highlights how these players have become tactical assets for managers seeking to alter the tempo or outcome of a match with a single substitution."
+   },
+   {
+    "type": "p",
+    "text": "By spotlighting the role of impact substitutes, the feature underscores a growing strategic emphasis on depth and versatility within Premier League squads, where a well‑timed change can be as pivotal as a starting eleven performance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the value of impact substitutes offers insight into squad building and match strategy for clubs and fans across Europe and North America."
+   }
+  ],
+  "key_points": [
+   "The article ranks the ten Premier League players who have most frequently altered games after coming off the bench.",
+   "Impact is measured by match‑winning contributions, consistency and the ability to shift momentum.",
+   "Super subs are portrayed as essential tactical tools for modern managers."
+  ],
+  "meta_description": "BBC Sport ranks the Premier League's top ten super subs, highlighting their game‑changing influence from the bench.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Premier League",
+   "super subs",
+   "football",
+   "rankings",
+   "bench impact"
+  ],
+  "slug": "premier-league-s-top-10-super-subs-ranked-greatest-2c8710",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:01:44Z"
+ },
+ {
+  "id": "d928a6f901088d03",
+  "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005196/heres-what-experts-say-about-the-civilian-intervention-in-the-bend-school-shooting",
+  "source": "NPR",
+  "source_title": "Here's what experts say about the civilian intervention in the Bend school shooting",
+  "source_summary": "An armed bystander stopped a shooting at a school in Bend, Ore. We talk with experts about how rarely an armed civilian ends an attack like this and how gun rights groups are responding.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6005196",
+  "published": "2026-10-16T21:11:44+00:00",
+  "headline": "Armed Bystander Halts Bend, Oregon School Shooting, Experts Weigh In",
+  "body": [
+   {
+    "type": "p",
+    "text": "An unidentified armed bystander intervened during a shooting at a school in Bend, Oregon, ending the attack before additional casualties occurred. Law enforcement officials confirmed the shooter was neutralized after the civilian’s actions, though details about the weapon used by the bystander were not released."
+   },
+   {
+    "type": "p",
+    "text": "Experts noted that incidents where an armed civilian stops a mass shooting are extremely rare, emphasizing that most school shootings end only after police arrive. Some scholars highlighted the difficulty of assessing the overall impact of such interventions on public safety, while others warned that relying on civilian gun owners could create unpredictable outcomes."
+   },
+   {
+    "type": "p",
+    "text": "Gun‑rights organizations quickly praised the bystander’s actions, framing the incident as evidence supporting broader concealed‑carry policies. Conversely, gun‑control advocates cautioned that the episode should not be used to generalize about the effectiveness of armed civilians in preventing mass violence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event fuels ongoing U.S. debates over concealed‑carry laws and informs European observers of how gun‑policy arguments are shaped by rare incidents."
+   }
+  ],
+  "key_points": [
+   "An armed civilian stopped a school shooting in Bend, Oregon, preventing further loss of life.",
+   "Experts say such interventions are exceptionally uncommon and their safety implications remain debated.",
+   "Gun‑rights groups hailed the act, while gun‑control advocates warned against drawing broad conclusions."
+  ],
+  "meta_description": "Armed bystander ends Bend, Oregon school shooting; experts say such interventions are rare, sparking debate among gun‑rights and control groups.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "school shooting",
+   "armed civilian",
+   "Bend Oregon",
+   "gun rights",
+   "public safety"
+  ],
+  "slug": "armed-bystander-halts-bend-oregon-school-shooting-experts-weigh-d928a6",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:02:04Z"
+ },
+ {
+  "id": "185d3185777d9961",
+  "source_url": "https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html",
+  "source": "The New York Times",
+  "source_title": "Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation",
+  "source_summary": "A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region.",
+  "source_tags": [
+   "Education (K-12)",
+   "Private and Sectarian Schools",
+   "Deaths (Fatalities)",
+   "Accidents and Safety",
+   "Buildings (Structures)",
+   "Teachers and School Employees",
+   "Pakistan Tehreek-e-Insaf",
+   "Khyber-Pakhtunkhwa Province (Pakistan)",
+   "Peshawar (Pakistan)",
+   "Pakistan"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16pakistan-school-01-fjmc/16pakistan-school-01-fjmc-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T21:00:27+00:00",
+  "headline": "Pakistan School Roof Collapse Kills 33, Triggers Safety Inspections",
+  "body": [
+   {
+    "type": "p",
+    "text": "A roof collapse at a school in northwest Pakistan killed 32 children and a teacher, according to local officials. The tragedy prompted immediate safety inspections of schools throughout the region."
+   },
+   {
+    "type": "p",
+    "text": "Authorities are reviewing construction standards and structural integrity of school buildings, focusing on older facilities that may not meet current codes. Inspectors are checking for signs of decay, inadequate materials, and poor maintenance that could pose similar risks."
+   },
+   {
+    "type": "p",
+    "text": "The incident has sparked debate over regulatory oversight and funding for school infrastructure, with officials urging faster implementation of safety measures to prevent future disasters."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The collapse underscores global concerns about school building safety and the need for robust regulatory oversight, issues relevant to education systems in the US, UK, Canada, Germany and Switzerland."
+   }
+  ],
+  "key_points": [
+   "A roof collapse at a Pakistani school killed 33 people, including 32 children.",
+   "The disaster has led to region‑wide safety inspections of school buildings.",
+   "Officials are calling for stricter enforcement of construction standards."
+  ],
+  "meta_description": "A roof collapse at a Pakistani school killed 33, prompting regional safety inspections and calls for stricter building standards.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pakistan",
+   "school safety",
+   "building collapse",
+   "education",
+   "regulation"
+  ],
+  "slug": "pakistan-school-roof-collapse-kills-33-triggers-safety-inspections-185d31",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:01:48Z"
+ },
+ {
+  "id": "56b3fdb20ff1963e",
+  "source_url": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
+  "source": "The New York Times",
+  "source_title": "Meta Withdraws $25 Million from Its Midterms Push",
+  "source_summary": "The company outlined a $65 million budget last year when it embarked on an effort to elect state politicians friendly to the A.I. industry.",
+  "source_tags": [
+   "Meta Platforms Inc",
+   "California",
+   "Midterm Elections (2026)",
+   "Campaign Finance",
+   "Artificial Intelligence",
+   "Elections, State Legislature"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-meta-ai-politics-1-fbwt/16biz-meta-ai-politics-1-fbwt-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T20:58:40+00:00",
+  "headline": "Meta Cuts $25 Million From AI‑Focused Midterm Political Drive",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta announced it is pulling $25 million out of the political effort it launched last year to support state candidates who are favorable to the artificial‑intelligence sector. The company had originally set a $65 million budget for the initiative, which was aimed at influencing the 2026 midterm elections."
+   },
+   {
+    "type": "p",
+    "text": "The withdrawal reduces the scale of Meta’s involvement in state‑level races, though the firm has not disclosed how the remaining funds will be allocated. The original campaign sought to back politicians who would advance policies beneficial to the AI industry, according to the company's filing."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the cut reflects a reassessment of the political landscape and the cost‑effectiveness of direct election spending. Meta’s shift may also signal broader caution among tech firms about large‑scale electoral investments."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Meta’s funding decisions can shape state policies on AI, affecting both U.S. regulators and European markets that watch American tech influence."
+   }
+  ],
+  "key_points": [
+   "Meta reduces its midterm political budget by $25 million, leaving $40 million unaccounted for.",
+   "The original $65 million effort targeted state legislators supportive of AI industry interests.",
+   "The pullback suggests a strategic rethink of tech companies’ election spending."
+  ],
+  "meta_description": "Meta trims $25 million from its $65 million AI‑focused midterm political spending plan, signaling a shift in tech election strategy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "political spending",
+   "AI industry",
+   "midterms",
+   "campaign finance"
+  ],
+  "slug": "meta-cuts-25-million-from-aifocused-midterm-political-drive-56b3fd",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:01:56Z"
+ },
+ {
+  "id": "08858bd56a13e015",
+  "source_url": "https://www.nytimes.com/2026/10/16/us/politics/rfk-jr-vaccines.html",
+  "source": "The New York Times",
+  "source_title": "RFK Jr. Pledged to Advance Anti-Vaccine Group’s Goals. Here’s What He’s Doing.",
+  "source_summary": "The health secretary is quietly taking steps that public health experts fear will reduce immunization rates further.",
+  "source_tags": [
+   "Vaccination and Immunization",
+   "United States Politics and Government",
+   "Children and Childhood",
+   "Suits and Litigation (Civil)",
+   "Compensation for Damages (Law)",
+   "Regulation and Deregulation of Industry",
+   "Centers for Disease Control and Prevention",
+   "Children's Health Defense",
+   "Food and Drug Administration",
+   "Health and Human Services Department"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16dc-kennedy-vaccines-hvcq/16dc-kennedy-vaccines-hvcq-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T20:51:25+00:00",
+  "headline": "RFK Jr. Commits to Boost Anti‑Vaccine Agenda, Health Secretary Acts",
+  "body": [
+   {
+    "type": "p",
+    "text": "Robert F. Kennedy Jr. has publicly pledged to advance the objectives of an anti‑vaccine organization, signaling a new political alignment with groups that oppose mainstream immunization policies. The pledge was noted alongside actions taken by the health secretary, who is reportedly implementing measures that align with the anti‑vaccine group’s goals."
+   },
+   {
+    "type": "p",
+    "text": "Public‑health experts have warned that the combined effect of Kennedy’s endorsement and the health secretary’s quiet steps could further depress vaccination rates. These officials argue the changes are intended to broaden personal‑choice options, while critics fear the moves may undermine established immunization programs and increase the risk of disease outbreaks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reduced vaccination rates can lead to higher disease incidence, affecting public‑health systems in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "RFK Jr. has pledged to support the aims of an anti‑vaccine organization.",
+   "The health secretary is implementing policies that experts say could lower immunization rates.",
+   "Public‑health officials warn the actions may threaten existing vaccine coverage."
+  ],
+  "meta_description": "RFK Jr. pledges to back anti‑vaccine goals as the health secretary takes steps that may lower immunization rates, sparking expert concern.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "RFK Jr.",
+   "anti-vaccine",
+   "immunization",
+   "public health",
+   "health policy"
+  ],
+  "slug": "rfk-jr-commits-boost-antivaccine-agenda-health-secretary-acts-08858b",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:02:16Z"
+ },
+ {
+  "id": "2666d85ec9df74d3",
+  "source_url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+  "source": "The Verge",
+  "source_title": "We can finally hear some of Wu-Tang Clan’s Once Upon A Time in Shaolin album",
+  "source_summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]",
+  "source_tags": [
+   "Entertainment",
+   "Music",
+   "News"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-16T20:50:27+00:00",
+  "headline": "Podcast Reveals First Snippets of Wu‑Tang Clan’s Secret Album",
+  "body": [
+   {
+    "type": "p",
+    "text": "The long‑shelved Wu‑Tang Clan album \"Once Upon A Time in Shaolin\" has finally been heard by the public, as the podcast \"Pablo Torre Finds Out\" released two short excerpts in its latest episode. The record, which has been kept under strict confidentiality since its 2015 release, was sold to a single buyer and has rarely been played outside the original owner’s private listening sessions."
+   },
+   {
+    "type": "p",
+    "text": "The podcast episode, dedicated entirely to the exclusive record, provides listeners with a rare glimpse of the album’s sound, featuring the group’s signature lyrical style and production. While the snippets are brief, they offer the first audible evidence of the music that has been the subject of intense speculation among fans and collectors for over a decade."
+   },
+   {
+    "type": "p",
+    "text": "The release does not include the full album, and the podcast hosts note that the excerpts are intended solely for discussion and analysis. No additional details about the album’s full tracklist or future public availability were disclosed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The album’s rarity has made it a cultural touchstone in hip‑hop, and hearing any part of it offers insight into a unique music‑industry experiment."
+   }
+  ],
+  "key_points": [
+   "Two short excerpts from Wu‑Tang Clan’s \"Once Upon A Time in Shaolin\" were aired on the \"Pablo Torre Finds Out\" podcast.",
+   "The album has remained largely inaccessible since its 2015 sale to a single private buyer.",
+   "The podcast provides the first public listening experience of the secret record."
+  ],
+  "meta_description": "Podcast releases first public snippets of Wu‑Tang Clan's secret \"Once Upon A Time in Shaolin\" album, ending years of silence.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Wu-Tang Clan",
+   "music",
+   "podcast",
+   "exclusive album",
+   "hip hop"
+  ],
+  "slug": "podcast-reveals-first-snippets-wutang-clans-secret-album-2666d8",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:02:07Z"
+ },
+ {
+  "id": "4e79f0146d6f0532",
+  "source_url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+  "source": "The Verge",
+  "source_title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+  "source_summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles.\" Video released by CHP shows the Tesla speeding […]",
+  "source_tags": [
+   "Electric Cars",
+   "News",
+   "Tesla",
+   "Transportation"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-16T20:49:04+00:00",
+  "headline": "Tesla Driver Claims He Was Asleep Using FSD When He Hit CHP Cars",
+  "body": [
+   {
+    "type": "p",
+    "text": "A California Highway Patrol (CHP) video shows a Tesla colliding with two patrol vehicles after the driver said he was asleep while the car’s Full Self‑Driving (FSD) system was active. The crash occurred on a highway, and the Tesla was reportedly traveling at high speed before the impact."
+   },
+   {
+    "type": "p",
+    "text": "CHP officials released the footage and emphasized that, despite its name, Full Self‑Driving is not a fully autonomous technology. They warned that the system does not relieve drivers of the duty to operate their vehicles safely and remain attentive at all times."
+   },
+   {
+    "type": "p",
+    "text": "The incident adds to ongoing scrutiny of advanced driver‑assist features, as regulators and safety advocates continue to evaluate how such systems are marketed and used on public roads."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The crash highlights safety concerns about driver‑assist technologies that are increasingly common in the U.S. and Europe, prompting calls for clearer regulations."
+   }
+  ],
+  "key_points": [
+   "A Tesla driver claimed he was asleep while using Full Self‑Driving when the vehicle struck CHP cars.",
+   "California Highway Patrol stresses that FSD is not fully autonomous and drivers remain responsible for safe operation."
+  ],
+  "meta_description": "Tesla driver says he was asleep using FSD when he crashed into California Highway Patrol cars, prompting safety warnings.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "Full Self-Driving",
+   "California Highway Patrol",
+   "vehicle safety",
+   "driver-assist technology"
+  ],
+  "slug": "tesla-driver-claims-he-was-asleep-using-fsd-when-4e79f0",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:02:19Z"
+ },
+ {
+  "id": "505d813f1ceeb701",
+  "source_url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+  "source_summary": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-16T19:42:00+00:00",
+  "headline": "Zelenskyy Calls for EU Backing as US Ties Strain Over Russia, Starlink",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelenskyy addressed European leaders at the Brussels summit, urging the bloc to maintain and deepen its support for Kyiv as the war with Russia drags on. EU heads reiterated their commitment to Ukraine’s sovereignty and pledged continued political and financial assistance."
+   },
+   {
+    "type": "p",
+    "text": "The summit also highlighted growing friction between Kyiv and Washington. Disagreements over Russia’s actions and the future of the Starlink satellite service have strained the transatlantic partnership, according to officials present at the meeting. Kyiv fears that reduced U.S. backing could undermine its defensive capabilities."
+   },
+   {
+    "type": "p",
+    "text": "In addition, EU officials warned that a sizable shortfall in the upcoming budget could leave Ukraine facing a harsh winter with limited resources. The funding gap underscores the urgency of coordinated European aid to prevent a humanitarian and security crisis on the front lines."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The strained US‑Ukraine ties and EU funding gaps could affect stability in Eastern Europe, a key security concern for both American and European policymakers."
+   }
+  ],
+  "key_points": [
+   "EU leaders reaffirmed political and financial support for Ukraine at the Brussels summit.",
+   "Relations between Ukraine and the United States are deteriorating over Russia policy and the Starlink program.",
+   "A projected budget shortfall threatens Ukraine’s ability to cope with the coming winter."
+  ],
+  "meta_description": "Zelenskyy urges EU support at Brussels summit as US relations sour over Russia and Starlink, while a budget gap threatens Ukraine's winter preparedness.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "EU summit",
+   "Zelenskyy",
+   "US relations",
+   "defense funding"
+  ],
+  "slug": "zelenskyy-calls-eu-backing-us-ties-strain-over-russia-505d81",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:02:00Z"
+ },
+ {
+  "id": "f878b4f8fc00cdaf",
+  "source_url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
+  "source": "CNBC",
+  "source_title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
+  "source_summary": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-16T19:40:00+00:00",
+  "headline": "Netflix Appoints Peter Rice to Lead Content Strategy Across All Formats",
+  "body": [
+   {
+    "type": "p",
+    "text": "Netflix has announced the hiring of Peter Rice to oversee its content operations. Rice joins the streaming giant with a broad background in television and film, spanning both scripted and unscripted programming."
+   },
+   {
+    "type": "p",
+    "text": "His experience also includes managing live sports broadcasts, prestige television series, and theatrical film distribution, giving Netflix a leader familiar with multiple entertainment channels. The move signals Netflix’s intent to deepen its expertise across diverse content types."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that Rice’s varied portfolio could help Netflix navigate the competitive streaming landscape, where original series, sports rights, and film releases are increasingly critical to subscriber growth."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European audiences, the appointment underscores Netflix’s strategy to expand high‑profile series, sports events, and film offerings amid intensifying competition."
+   }
+  ],
+  "key_points": [
+   "Peter Rice, a veteran of TV and film, is now heading Netflix's content division.",
+   "His background covers scripted, unscripted, live sports, prestige TV, and theatrical distribution.",
+   "Netflix aims to strengthen its content slate across multiple entertainment formats."
+  ],
+  "meta_description": "Netflix hires Peter Rice, experienced in TV, film, sports and theatrical distribution, to lead its content strategy.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Netflix",
+   "Peter Rice",
+   "content strategy",
+   "streaming",
+   "media industry",
+   "entertainment"
+  ],
+  "slug": "netflix-appoints-peter-rice-lead-content-strategy-across-all-f878b4",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:01:51Z"
+ },
+ {
+  "id": "42c147a6a504cef7",
+  "source_url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+  "source": "The Guardian",
+  "source_title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+  "source_summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whether this globally important success is maintained or reversed is on a knife edge ahead of a presidential election run-off on 25 October between two candidates with sharply different visions for the future of the rainforest and how that affects relations with the US under Donald Trump.",
+  "source_tags": [
+   "Amazon rainforest",
+   "Deforestation",
+   "Brazil",
+   "Luiz Inácio Lula da Silva",
+   "Flávio Bolsonaro",
+   "Americas",
+   "World news",
+   "Conservation",
+   "Trees and forests",
+   "Environment"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=700&quality=85&auto=format&fit=max&s=111f8493784a6e1283250322fb417aaf",
+  "published": "2026-10-16T19:37:53+00:00",
+  "headline": "Brazilian Amazon Deforestation Hits Record Low Ahead of Election Run‑Off",
+  "body": [
+   {
+    "type": "p",
+    "text": "New government data shows that forest clearance in the Brazilian Amazon has fallen to its smallest total since monitoring began in 1988. The decline marks a significant environmental achievement for President Luiz Inácio Lula da Silva's administration."
+   },
+   {
+    "type": "p",
+    "text": "The trend comes as Brazil prepares for a presidential run‑off on 25 October, pitting Lula against a rival who advocates a markedly different approach to rainforest management. Analysts say the election could determine whether the downward trajectory in deforestation continues."
+   },
+   {
+    "type": "p",
+    "text": "The outcome is also being watched for its potential impact on Brazil's relationship with the United States, where President Donald Trump has expressed strong interest in the region's environmental policies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Amazon’s health influences global climate patterns and trade ties, making Brazil’s election outcome relevant to US and European environmental and diplomatic interests."
+   }
+  ],
+  "key_points": [
+   "Amazon deforestation in Brazil is at its lowest level since records started in 1988.",
+   "The upcoming 25 October run‑off election could reverse or sustain the recent environmental gains.",
+   "Brazil‑U.S. relations may shift depending on the election’s result and rainforest policy."
+  ],
+  "meta_description": "Brazil reports record low Amazon deforestation as a pivotal election looms, with potential implications for US‑Brazil relations.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Amazon",
+   "deforestation",
+   "Brazil election",
+   "Lula",
+   "environment",
+   "US relations"
+  ],
+  "slug": "brazilian-amazon-deforestation-hits-record-low-ahead-election-runoff-42c147",
+  "reading_minutes": 1,
+  "added": "2026-10-16T22:02:11Z"
+ },
+ {
   "id": "a8afb5c0950691b5",
   "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cm4g1e65y3d0o",
   "source": "BBC Sport",
