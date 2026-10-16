@@ -1,5 +1,690 @@
 [
  {
+  "id": "ebd28732e39a0dff",
+  "source_url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o",
+  "source": "BBC News",
+  "source_title": "Dad fined after son, 2, died in Cyprus hotel fall",
+  "source_summary": "Joshua Foster will have to pay 3,000 euro (£2,500), a judge in Paphos rules.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png",
+  "published": "2026-10-16T09:37:55+00:00",
+  "headline": "Father Fined €3,000 After 2-Year-Old Son Dies in Cyprus Hotel Fall",
+  "body": [
+   {
+    "type": "p",
+    "text": "A court in Paphos, Cyprus, ordered Joshua Foster to pay a fine of 3,000 euros (£2,500) after his two‑year‑old son died following a fall in a hotel. The judge’s ruling was reported by BBC News on October 16, 2026."
+   },
+   {
+    "type": "p",
+    "text": "The fine was imposed as part of the legal proceedings that followed the tragic accident at the hotel. Details about the circumstances of the fall or any additional penalties were not disclosed in the report."
+   },
+   {
+    "type": "p",
+    "text": "The case highlights the legal responsibilities of parents and guardians in ensuring child safety while traveling abroad."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling underscores the legal expectations for child safety in tourist destinations, a concern for travelers from the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Joshua Foster was fined 3,000 euros by a Paphos judge after his son died in a hotel fall.",
+   "The incident occurred in Cyprus and was reported on October 16, 2026."
+  ],
+  "meta_description": "Father fined €3,000 after 2‑year‑old son dies in a hotel fall in Cyprus, court says.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Cyprus",
+   "legal",
+   "child safety",
+   "tourism",
+   "court ruling"
+  ],
+  "slug": "father-fined-3-000-after-2-year-old-son-ebd287",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:40:53Z"
+ },
+ {
+  "id": "35d60456189010c6",
+  "source_url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro",
+  "source": "BBC News",
+  "source_title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+  "source_summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db4/live/981316b0-c93a-11f1-8c38-abe947e72d6d.jpg",
+  "published": "2026-10-16T09:34:30+00:00",
+  "headline": "Zelensky Seeks EU Backing as Trump Labels Him Harder Than Putin",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelensky arrived in Brussels ahead of an EU leaders summit, urging member states to deepen political and financial support for Kyiv as the war enters its third year."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, U.S. President Donald Trump launched a fresh wave of criticism, saying Zelensky is \"more difficult to deal with than Putin\" and questioning the effectiveness of Western aid. The remarks came during a press briefing in Washington and have drawn sharp rebukes from European officials."
+   },
+   {
+    "type": "p",
+    "text": "EU officials emphasized that solidarity with Ukraine remains a core priority, while also noting the need to manage differing views within the alliance. The contrasting messages from Washington and Brussels highlight ongoing tensions over the coordination of aid and diplomatic strategy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash underscores strains in transatlantic coordination on Ukraine, affecting aid flows and diplomatic unity."
+   }
+  ],
+  "key_points": [
+   "Zelensky is lobbying EU leaders for stronger support ahead of their Brussels summit.",
+   "President Trump publicly criticized Zelensky, comparing him unfavorably to Putin.",
+   "European officials reaffirm commitment to Ukraine despite U.S. remarks."
+  ],
+  "meta_description": "Zelensky pushes for EU aid as Trump calls him harder to deal with than Putin, highlighting tensions in Western support for Ukraine.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "EU",
+   "Trump",
+   "Zelensky",
+   "US-Ukraine relations",
+   "European summit"
+  ],
+  "slug": "zelensky-seeks-eu-backing-trump-labels-him-harder-than-35d604",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:41:12Z"
+ },
+ {
+  "id": "925243ef10c01c7e",
+  "source_url": "https://www.nytimes.com/2026/10/16/business/indonesia-stocks-economy.html",
+  "source": "The New York Times",
+  "source_title": "Indonesian Stocks Plunge as MSCI Threatens to Drop Market from Indexes",
+  "source_summary": "The potential downgrade by MSCI, an influential index provider, adds to a deepening crisis of investor confidence in the economic policies of Indonesian President Prabowo Subianto.",
+  "source_tags": [
+   "Indonesia",
+   "MSCI Inc",
+   "Stocks and Bonds",
+   "Politics and Government",
+   "International Relations",
+   "Economic Conditions and Trends",
+   "Banking and Financial Institutions"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-indonesia-crash-vwfq/16biz-indonesia-crash-vwfq-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T09:29:01+00:00",
+  "headline": "Indonesian Stocks Plunge as MSCI Threatens Index Removal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Indonesia's equity market suffered a sharp decline on Monday after MSCI signaled it may drop the country from its emerging‑market indexes. The warning intensified a widening loss of confidence among investors in the economic direction set by President Prabowo Subianto."
+   },
+   {
+    "type": "p",
+    "text": "Analysts said the potential delisting could reduce foreign capital inflows, as many funds track MSCI benchmarks. The market reaction followed weeks of policy uncertainty, with investors questioning the government's fiscal and regulatory agenda."
+   },
+   {
+    "type": "p",
+    "text": "Trading volumes surged as sell orders outpaced buys, pushing the Jakarta Composite Index down several percentage points. Market participants are awaiting further clarification from MSCI and any policy adjustments from the Indonesian administration that could restore confidence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move could affect global investors with exposure to emerging‑market funds and signal broader risk concerns for Southeast Asian economies."
+   }
+  ],
+  "key_points": [
+   "MSCI may remove Indonesia from its emerging‑market indexes, prompting a steep sell‑off.",
+   "Investor confidence in President Prabowo Subianto's economic policies continues to erode.",
+   "The potential delisting could limit foreign fund inflows to the Indonesian market."
+  ],
+  "meta_description": "Indonesia's stock market drops sharply as MSCI threatens index removal, raising concerns for global investors.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Indonesia",
+   "stocks",
+   "MSCI",
+   "investor confidence",
+   "emerging markets"
+  ],
+  "slug": "indonesian-stocks-plunge-msci-threatens-index-removal-925243",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:40:56Z"
+ },
+ {
+  "id": "f1e229dc76d61d4d",
+  "source_url": "https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Clashes erupt at Argentine student protests against President Milei's austerity policies",
+  "source_summary": "Demonstrators clashed with police as President Javier Milei's decision not to release funding for universities brought students and employees to the streets. Protesters say the country's future is at stake.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-16T09:26:00+00:00",
+  "headline": "Argentine Students Clash with Police Over Milei Funding Freeze",
+  "body": [
+   {
+    "type": "p",
+    "text": "Students and university staff took to the streets in Buenos Aires on Tuesday after President Javier Milei announced that his government would not release the scheduled funding for public universities. Demonstrators gathered outside several campuses, demanding that the austerity measures be reversed."
+   },
+   {
+    "type": "p",
+    "text": "Police responded with crowd-control tactics, leading to confrontations that resulted in injuries and arrests among protesters. The clashes spread to multiple university sites, with participants chanting that the country's future is at risk if higher‑education financing is cut."
+   },
+   {
+    "type": "p",
+    "text": "Organizers said the funding freeze threatens academic programs and research, while authorities argue the move is part of broader fiscal reforms aimed at stabilising Argentina's economy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The protests highlight how Argentina's austerity agenda could affect its economic stability and trade relations, issues of interest to investors and policymakers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Students and university employees protested President Milei's decision to withhold university funding.",
+   "Police used force to disperse demonstrators, leading to clashes and arrests.",
+   "Protesters claim the austerity policy endangers Argentina's future."
+  ],
+  "meta_description": "Argentine students clash with police after President Milei blocks university funding, raising concerns over the country's future.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Argentina",
+   "student protests",
+   "Javier Milei",
+   "austerity",
+   "education funding",
+   "police clashes"
+  ],
+  "slug": "argentine-students-clash-with-police-over-milei-funding-freeze-f1e229",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:41:33Z"
+ },
+ {
+  "id": "3f1d45cba743e1d2",
+  "source_url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
+  "source": "The Guardian",
+  "source_title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries a ‘disgrace’",
+  "source_summary": "US president says Zelenskyy ‘more difficult ​to deal with ​than Putin’ after ‘energy ceasefire’ collapses Europe live – latest updates Donald Trump has called Ukraine’s renewed strikes on Russian oil refineries a “disgrace”, while renewing his criticism of Volodymyr ⁠Zelenskyy after an energy ceasefire between Russia and Ukraine collapsed. Ukraine resumed strikes on Russian oil refineries ⁠after Zelenskyy said that Kyiv was abandoning a ceasefire abruptly declared by Trump last week, one that neither Russia nor Ukraine said they had agreed to.",
+  "source_tags": [
+   "Ukraine",
+   "Russia",
+   "Europe",
+   "World news",
+   "US news",
+   "Donald Trump",
+   "Trump administration",
+   "Volodymyr Zelenskyy",
+   "Vladimir Putin",
+   "Oil"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/13301cb98a22a6b1728f97dbe586d68dfc8cba5f/341_0_3578_2863/master/3578.jpg?width=700&quality=85&auto=format&fit=max&s=0b95e00eabfae5c62c260a0f496f8aa1",
+  "published": "2026-10-16T09:05:55+00:00",
+  "headline": "Trump Labels Ukraine's New Oil Refinery Strikes a Disgrace, Criticizes Zelensky",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump described Ukraine's renewed attacks on Russian oil refineries as a “disgrace” in remarks made after an energy ceasefire between Moscow and Kyiv fell apart. The ceasefire, which Trump announced last week, had not been formally accepted by either side."
+   },
+   {
+    "type": "p",
+    "text": "Trump also said Ukrainian President Volodymyr Zelenskyy is “more difficult to deal with than Putin,” renewing his criticism of the Ukrainian leader. Zelenskyy responded that Kyiv was ending the ceasefire abruptly, prompting the resumption of strikes on Russian facilities."
+   },
+   {
+    "type": "p",
+    "text": "The renewed targeting of Russian refineries follows the collapse of the short‑lived energy truce, a development that could further strain the already tense relations between the United States, Europe and the warring parties."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The escalation may impact global energy markets and complicate diplomatic efforts by the US and European allies to mediate the conflict."
+   }
+  ],
+  "key_points": [
+   "Trump called Ukraine's latest strikes on Russian oil refineries a “disgrace.”",
+   "He claimed Zelenskyy is harder to negotiate with than Russian President Putin.",
+   "The attacks resumed after Kyiv ended a ceasefire that Trump had announced but was not mutually agreed upon."
+  ],
+  "meta_description": "Trump calls Ukraine's renewed refinery strikes a disgrace and says Zelenskyy is harder to deal with than Putin after a failed energy ceasefire.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Volodymyr Zelenskyy",
+   "Ukraine",
+   "Russia",
+   "energy ceasefire",
+   "oil refineries"
+  ],
+  "slug": "trump-labels-ukraine-s-new-oil-refinery-strikes-disgrace-3f1d45",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:41:00Z"
+ },
+ {
+  "id": "ce08915b1812a51f",
+  "source_url": "https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html",
+  "source": "The New York Times",
+  "source_title": "Feel Like You’re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says.",
+  "source_summary": "The booking giant is accused of breaking federal antitrust laws and forcing millions of customers to overspend on stays by as much as 30 percent.",
+  "source_tags": [
+   "Travel and Vacations",
+   "Hotels and Travel Lodgings",
+   "Travel Agencies and Agents",
+   "Reservations (Airlines, Hotels, Etc.)",
+   "Antitrust Laws and Competition Issues",
+   "Suits and Litigation (Civil)",
+   "Prices (Fares, Fees and Rates)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/16/realestate/16trav-expedia-lawsuit1/16trav-expedia-lawsuit1-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T09:04:20+00:00",
+  "headline": "Expedia Faces Antitrust Lawsuit Over Alleged Hotel Price Inflation",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new federal lawsuit alleges that online travel agency Expedia violated antitrust laws by forcing hotels to raise prices, resulting in customers paying up to 30 percent more for their stays. The complaint claims the company used its market power to impose restrictive contracts on hotel partners, limiting competition and inflating rates for consumers."
+   },
+   {
+    "type": "p",
+    "text": "The suit, filed in a U.S. district court, seeks damages for millions of travelers who booked through Expedia and its affiliated sites. Plaintiffs argue that the booking platform’s practices suppressed competition among hotels and other online travel agencies, leading to higher costs for consumers nationwide."
+   },
+   {
+    "type": "p",
+    "text": "Expedia has not yet responded publicly to the allegations. The case adds to growing scrutiny of major tech and travel platforms over potential anticompetitive behavior, with regulators in the United States and Europe closely monitoring the industry."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher hotel prices affect travelers in the U.S. and Europe, and the lawsuit could lead to stricter oversight of major online travel platforms."
+   }
+  ],
+  "key_points": [
+   "A federal lawsuit accuses Expedia of antitrust violations that allegedly caused hotel prices to rise up to 30%.",
+   "The complaint says Expedia forced hotels into contracts that limited competition and raised consumer costs.",
+   "The case could intensify regulatory focus on online travel agencies in the U.S. and Europe."
+  ],
+  "meta_description": "Expedia is sued for alleged antitrust violations that may have driven hotel prices up by as much as 30%, prompting regulatory scrutiny.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Expedia",
+   "antitrust",
+   "hotel pricing",
+   "consumer protection",
+   "travel industry"
+  ],
+  "slug": "expedia-faces-antitrust-lawsuit-over-alleged-hotel-price-inflation-ce0891",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:41:17Z"
+ },
+ {
+  "id": "c84aad9fc743096d",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o",
+  "source": "BBC Sport",
+  "source_title": "Chelsea's Reece James has surgery for knee issue",
+  "source_summary": "Chelsea announce captain Reece James has undergone successful surgery on a knee injury.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9d/live/09e289c0-c93f-11f1-8c38-abe947e72d6d.jpg",
+  "published": "2026-10-16T09:02:20+00:00",
+  "headline": "Chelsea Confirm Captain Reece James Had Successful Knee Surgery",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chelsea Football Club announced that club captain Reece James has undergone successful surgery to address a knee injury. The procedure was carried out earlier this week, and the club confirmed that James is now in recovery."
+   },
+   {
+    "type": "p",
+    "text": "The surgery is expected to allow James to begin rehabilitation soon, although no specific timetable for his return to first‑team action was provided. Chelsea did not disclose details about the nature of the knee issue or the exact date of the operation."
+   },
+   {
+    "type": "p",
+    "text": "James, a key defender for both Chelsea and the England national team, has missed several matches this season due to the injury. The club expressed optimism that the surgery will enable him to regain full fitness and contribute to their campaign in the Premier League and European competitions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "James is a pivotal player for Chelsea and England; his recovery will influence the club's title hopes and the Premier League landscape."
+   }
+  ],
+  "key_points": [
+   "Chelsea confirmed captain Reece James has had successful knee surgery.",
+   "The club said James will start rehabilitation but gave no return date.",
+   "James' absence has impacted Chelsea's defensive options this season."
+  ],
+  "meta_description": "Chelsea confirm captain Reece James underwent successful knee surgery and is entering rehabilitation, with his return date still unknown.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chelsea",
+   "Reece James",
+   "knee surgery",
+   "Premier League",
+   "football injury"
+  ],
+  "slug": "chelsea-confirm-captain-reece-james-had-successful-knee-surgery-c84aad",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:41:05Z"
+ },
+ {
+  "id": "0f89b796f3e6cf13",
+  "source_url": "https://www.nytimes.com/2026/10/16/travel/lufthansa-a340-600-airbus-retires.html",
+  "source": "The New York Times",
+  "source_title": "Lufthansa’s Final A346 Flight Marks the End of an Aviation Love Story",
+  "source_summary": "Lufthansa’s quirky plane, with its extra-long fuselage, four engines and restrooms down a flight of stairs, has a devoted following. Now, the carrier, one of few still flying the model, is taking it out of service.",
+  "source_tags": [
+   "Airlines and Airplanes",
+   "Travel and Vacations",
+   "Airbus Industrie",
+   "Frankfurt (Germany)",
+   "Deutsche Lufthansa AG",
+   "Airbus A340-600"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-16T09:02:12+00:00",
+  "headline": "Lufthansa Retires Iconic A346 After Decades of Service",
+  "body": [
+   {
+    "type": "p",
+    "text": "Lufthansa has announced the retirement of its Airbus A346, a distinctive aircraft known for its extra‑long fuselage, four engines and stair‑accessed restrooms. The airline, one of the last carriers still operating the model, will remove the plane from its fleet following its final flight."
+   },
+   {
+    "type": "p",
+    "text": "The A346 has cultivated a loyal fan base among aviation enthusiasts who appreciate its unique design and nostalgic appeal. Lufthansa’s decision marks the end of an era for the airline and for the few remaining operators of the four‑engine, long‑range jet."
+   },
+   {
+    "type": "p",
+    "text": "While the carrier has not detailed the exact timeline for the aircraft’s removal from service, the move reflects broader industry trends toward newer, more fuel‑efficient planes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The phase‑out highlights the aviation industry's move toward newer, greener fleets, affecting travelers and airlines across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Lufthansa will retire its Airbus A346, ending service of a rare four‑engine jet.",
+   "The aircraft’s distinctive design has earned a dedicated following among aviation fans.",
+   "The retirement aligns with the airline’s shift to more modern, efficient aircraft."
+  ],
+  "meta_description": "Lufthansa retires its iconic Airbus A346, ending service for the rare four‑engine jet loved by aviation fans.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Lufthansa",
+   "Airbus A346",
+   "airline retirement",
+   "aviation history",
+   "fleet modernization"
+  ],
+  "slug": "lufthansa-retires-iconic-a346-after-decades-service-0f89b7",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:41:36Z"
+ },
+ {
+  "id": "540232d969d2df69",
+  "source_url": "https://www.nytimes.com/2026/10/16/us/politics/midterm-elections-ai-generated-ads.html",
+  "source": "The New York Times",
+  "source_title": "$137 Million in A.I.-Generated Ads Flood the Midterms",
+  "source_summary": "Republicans have used A.I.-generated content more often than Democrats, ranging from subtle enhancements to convincing deepfakes.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Political Advertising",
+   "Midterm Elections (2026)",
+   "Democratic Party",
+   "Republican Party",
+   "Mamdani, Zohran",
+   "Hochul, Kathleen C"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-10-05-ai-election-ad-grids-index/2026-10-05-ai-election-ad-grids-index-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T09:02:07+00:00",
+  "headline": "AI-Generated Ads Spend $137 Million on Midterms, Republicans Lead",
+  "body": [
+   {
+    "type": "p",
+    "text": "A review of advertising data shows that $137 million in artificial‑intelligence‑generated political ads were run during the 2026 midterm elections. The spending was dominated by Republican campaigns, which used AI tools more frequently than their Democratic counterparts."
+   },
+   {
+    "type": "p",
+    "text": "The AI‑created content ranged from modest visual enhancements of traditional ads to sophisticated deepfake videos that mimicked real speakers. While some pieces were clearly labeled as computer‑generated, others were designed to appear authentic, blurring the line between genuine and fabricated political messaging."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the surge in AI‑driven advertising reflects a broader shift toward automated content creation in political communication, raising questions about transparency, regulation, and the potential for voter manipulation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rise of AI‑crafted political ads could influence voter perceptions and challenges existing election‑integrity safeguards in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Republican campaigns outspent Democrats in AI‑generated political ads, totaling $137 million.",
+   "The ads included everything from simple graphic upgrades to convincing deepfake videos.",
+   "The trend highlights growing concerns over transparency and regulation of AI in elections."
+  ],
+  "meta_description": "Republicans led a $137 million wave of AI‑generated ads in the 2026 midterms, using deepfakes and enhanced visuals, sparking transparency concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "political advertising",
+   "midterms",
+   "Republicans",
+   "Democrats",
+   "deepfakes"
+  ],
+  "slug": "ai-generated-ads-spend-137-million-midterms-republicans-lead-540232",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:41:21Z"
+ },
+ {
+  "id": "9e4a7dfcf5e2f50d",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cmpwgq52y22zo",
+  "source": "BBC Sport",
+  "source_title": "Kartal upsets Svitolina to reach Wuhan semi-finals",
+  "source_summary": "Sonay Kartal's winning streak following a long injury lay-off continues as she seals a hard-fought victory over fifth seed Elina Svitolina in the quarter-finals of the Wuhan Open.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d38a/live/c6ea2ee0-c932-11f1-bcc7-a3638a736ce9.jpg",
+  "published": "2026-10-16T08:45:06+00:00",
+  "headline": "Kartal Upsets Svitolina to Reach Wuhan Open Semi-Finals",
+  "body": [
+   {
+    "type": "p",
+    "text": "Briton Sonay Kartal extended her post‑injury winning streak by defeating fifth seed Elina Svitolina in the quarter‑finals of the Wuhan Open. The match was tightly contested, with Kartal prevailing after a series of long rallies and a decisive break in the final set."
+   },
+   {
+    "type": "p",
+    "text": "Svitolina, a former world No. 2 and multiple Grand Slam champion, entered the tournament as a top seed and was expected to advance to the later stages. Kartal’s aggressive baseline play and improved serve allowed her to neutralise Svitolina’s experience, culminating in a hard‑fought victory that secured her a place in the semi‑finals."
+   },
+   {
+    "type": "p",
+    "text": "The win marks Kartal’s first semi‑final appearance at a WTA 1000 event since returning from a lengthy injury lay‑off. Her continued success suggests a rapid climb back up the rankings and adds a fresh contender to the tournament’s latter rounds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Kartal’s resurgence highlights the depth of emerging talent in women’s tennis, offering new storylines for fans in the US and Europe as the WTA tour heads into its Asian swing."
+   }
+  ],
+  "key_points": [
+   "Sonay Kartal defeated fifth seed Elina Svitolina in the Wuhan Open quarter‑finals.",
+   "The victory extends Kartal’s winning streak after a long injury break.",
+   "Kartal reaches her first WTA 1000 semi‑final since returning to competition."
+  ],
+  "meta_description": "Sonay Kartal upsets Elina Svitolina to reach the Wuhan Open semi‑finals, extending her post‑injury winning streak.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tennis",
+   "Wuhan Open",
+   "Sonay Kartal",
+   "Elina Svitolina",
+   "upset",
+   "quarterfinals"
+  ],
+  "slug": "kartal-upsets-svitolina-reach-wuhan-open-semi-finals-9e4a7d",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:41:25Z"
+ },
+ {
+  "id": "ac92425b3079fb0c",
+  "source_url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+  "source": "TechCrunch",
+  "source_title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+  "source_summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
+  "source_tags": [
+   "TC",
+   "Venture"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-16T05:16:46+00:00",
+  "headline": "Benchmark Says Venture Pact Against Backing Rivals Is Eroding",
+  "body": [
+   {
+    "type": "p",
+    "text": "Benchmark, a long‑standing Silicon Valley venture‑capital firm, warned that the informal agreement among investors to avoid funding direct competitors is weakening. The firm noted that the pressure to back promising startups is increasingly outweighing the traditional courtesy of not backing a rival’s portfolio company."
+   },
+   {
+    "type": "p",
+    "text": "According to Benchmark, the shift reflects a broader change in the venture ecosystem, where capital scarcity and heightened competition for high‑growth opportunities are prompting firms to reconsider long‑held norms. The firm’s observation suggests that investors are more willing to cross perceived boundaries to secure a stake in emerging technologies."
+   },
+   {
+    "type": "p",
+    "text": "The trend could reshape how venture capital firms evaluate deals and manage relationships with peers. If the unwritten rule continues to erode, it may lead to more overlapping investments and alter the collaborative dynamics that have historically characterized the Valley’s funding landscape."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European startups could see more aggressive funding battles, affecting deal terms and partnership strategies across the Atlantic."
+   }
+  ],
+  "key_points": [
+   "Benchmark says the informal rule against funding rivals is fading.",
+   "Increasing competition for high‑growth startups is driving investors to ignore the pact.",
+   "The change may lead to more overlapping investments and shift collaborative norms in venture capital."
+  ],
+  "meta_description": "Benchmark warns that the venture‑capital norm of not backing rivals is weakening, reshaping funding dynamics in Silicon Valley.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "venture capital",
+   "Benchmark",
+   "startup funding",
+   "competition",
+   "Silicon Valley",
+   "investment norms"
+  ],
+  "slug": "benchmark-says-venture-pact-against-backing-rivals-eroding-ac9242",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:41:09Z"
+ },
+ {
+  "id": "51a8267bb8798fa1",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o",
+  "source": "BBC News",
+  "source_title": "Snapchat and Instagram grooming becoming 'easier'",
+  "source_summary": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51e0/live/009ee4b0-c93c-11f1-8c38-abe947e72d6d.jpg",
+  "published": "2026-10-16T05:12:48+00:00",
+  "headline": "Snapchat and Instagram Make Online Grooming Easier, Study Finds",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent report highlights a surge in online grooming on popular social‑media apps, noting that the design of Snapchat and Instagram now allows predators to contact children more readily. The analysis points to features such as disappearing messages and algorithm‑driven friend suggestions that can be exploited to approach young users."
+   },
+   {
+    "type": "p",
+    "text": "The investigation found that victims as young as five years old are being targeted, prompting child‑protection advocates to call for stricter regulation and platform‑level reforms. Critics argue that current safeguards are insufficient and that companies must redesign or limit certain functionalities to protect minors."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rise in grooming on globally used apps raises concerns for regulators in the US and Europe about the adequacy of existing child‑protection laws."
+   }
+  ],
+  "key_points": [
+   "Online grooming is increasing on Snapchat and Instagram, with children as young as five being targeted.",
+   "Platform features like disappearing messages and algorithmic suggestions are cited as facilitators of abuse.",
+   "Child‑safety groups are urging regulatory reforms and stronger safeguards on the apps."
+  ],
+  "meta_description": "Report finds Snapchat and Instagram make online grooming easier, targeting children as young as five, prompting calls for stricter reforms.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "online grooming",
+   "social media",
+   "child safety",
+   "Snapchat",
+   "Instagram",
+   "regulation"
+  ],
+  "slug": "snapchat-instagram-make-online-grooming-easier-study-finds-51a826",
+  "reading_minutes": 1,
+  "added": "2026-10-16T09:41:29Z"
+ },
+ {
   "id": "666c64837fa62e16",
   "source_url": "https://www.dw.com/en/carney-says-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
