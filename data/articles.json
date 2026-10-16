@@ -1,5 +1,698 @@
 [
  {
+  "id": "b463f968d19d2749",
+  "source_url": "https://www.dw.com/en/german-colonialism-why-hasn-t-there-been-a-reckoning/a-79682388?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "German colonialism: Why hasn't there been a reckoning?",
+  "source_summary": "Germany's opposition parties have forced a debate in the Bundestag on the genocide against the Ovaherero and Nama. But will this finally spur progress in addressing colonial crimes?",
+  "source_tags": [
+   "Germany"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-16T14:42:00+00:00",
+  "headline": "German Parliament Debates Ovaherero and Nama Genocide After Opposition Push",
+  "body": [
+   {
+    "type": "p",
+    "text": "Opposition parties in Germany have compelled the Bundestag to hold a debate on the 1904-1908 genocide of the Ovaherero and Nama peoples in present‑day Namibia, a colonial atrocity long omitted from official narratives."
+   },
+   {
+    "type": "p",
+    "text": "The discussion, prompted by a coalition of left‑wing and liberal lawmakers, seeks to examine whether Germany should formally acknowledge the killings as genocide and consider reparations or other forms of redress. Critics argue that previous attempts at recognition have been symbolic at best."
+   },
+   {
+    "type": "p",
+    "text": "Supporters of the debate contend that confronting this dark chapter is essential for Germany’s historical accountability and could set a precedent for addressing other colonial crimes worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The issue highlights how European nations are re‑examining colonial legacies, a topic that resonates with ongoing discussions about historical justice in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "German opposition parties have forced a Bundestag debate on the Ovaherero and Nama genocide.",
+   "The debate focuses on formal recognition of the killings as genocide and possible reparations.",
+   "Addressing the colonial atrocity is seen as a step toward broader accountability for historic crimes."
+  ],
+  "meta_description": "German opposition parties push a Bundestag debate on the Ovaherero and Nama genocide, sparking calls for formal recognition and reparations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Germany",
+   "colonialism",
+   "genocide",
+   "Ovaherero",
+   "Nama",
+   "Bundestag"
+  ],
+  "slug": "german-parliament-debates-ovaherero-nama-genocide-after-opposition-push-b463f9",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:45:44Z"
+ },
+ {
+  "id": "3b60328867ef11f7",
+  "source_url": "https://www.nytimes.com/2026/10/16/climate/india-sugarcane-production-sugar-prices.html",
+  "source": "The New York Times",
+  "source_title": "El Niño Threatens Global Sugar Supply",
+  "source_summary": "A sugarcane crop withered by El Niño in India, the world’s second-largest producer, is hurting consumers and farmers — plus undermining the country’s energy security goals.",
+  "source_tags": [
+   "Sugar",
+   "Maharashtra (India)",
+   "Agriculture and Farming",
+   "Drought",
+   "Oil (Petroleum) and Gasoline",
+   "Monsoons",
+   "International Trade and World Market",
+   "India",
+   "Ethanol",
+   "El Nino Southern Oscillation"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05-INT-INDIA-SUGAR-01-jbfv/05-INT-INDIA-SUGAR-01-jbfv-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T14:41:00+00:00",
+  "headline": "El Niño Drought Hits India's Sugarcane Crop, Threatening Global Supply",
+  "body": [
+   {
+    "type": "p",
+    "text": "An El Niño‑driven heat wave has severely withered India's sugarcane fields, the country's crop that supplies a large share of the world’s sugar. The damage comes as India, the second‑largest producer, faces lower yields that are already rippling through domestic markets."
+   },
+   {
+    "type": "p",
+    "text": "Farmers report reduced harvests, while consumers confront higher prices for sugar and related products. The shortfall also jeopardizes India's plans to use sugarcane for bio‑energy, a key element of its energy‑security strategy."
+   },
+   {
+    "type": "p",
+    "text": "Analysts warn that the supply squeeze could tighten global sugar markets, prompting price volatility that may affect food manufacturers and import‑dependent nations worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher sugar prices can affect food and beverage costs in the US and Europe, while disruptions to bio‑energy feedstocks may influence global energy‑security discussions."
+   }
+  ],
+  "key_points": [
+   "El Niño has caused a significant decline in India's sugarcane harvest, the world's second‑largest sugar source.",
+   "Reduced output is raising sugar prices for consumers and threatening India's bio‑energy goals.",
+   "The shortfall may tighten global sugar markets and increase price volatility."
+  ],
+  "meta_description": "El Niño drought slashes India's sugarcane harvest, raising global sugar prices and challenging the country's bio‑energy plans.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "sugar",
+   "El Niño",
+   "India",
+   "agriculture",
+   "energy security",
+   "global markets"
+  ],
+  "slug": "el-nino-drought-hits-india-s-sugarcane-crop-threatening-3b6032",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:46:01Z"
+ },
+ {
+  "id": "8d3b7e0fb803ef20",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go",
+  "source": "BBC News",
+  "source_title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
+  "source_summary": "On his first substantive trip to Scotland since becoming PM, he says politicians should focus on solutions \"right now\" and move beyond the issue of Scottish independence.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d85/live/aa087380-c960-11f1-9081-f19b8af087ed.jpg",
+  "published": "2026-10-16T14:36:27+00:00",
+  "headline": "UK Prime Minister Burnham Calls for Deeper Scottish Devolution",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Prime Minister Rishi Burnham made his first substantive visit to Scotland since taking office, meeting with Scottish First Minister Humza Swinney. During the talks, Burnham urged both governments to set aside the long‑running debate over Scottish independence and concentrate on practical solutions for the country’s future."
+   },
+   {
+    "type": "p",
+    "text": "Burnham proposed a collaborative approach to expand the powers already devolved to Holyrood, describing it as a \"deeper Scottish devolution\" that would give Scotland greater control over fiscal and policy matters. He emphasized that immediate action was needed to address pressing issues such as economic recovery, public services and climate targets."
+   },
+   {
+    "type": "p",
+    "text": "Both leaders agreed to continue discussions and to develop a joint framework that moves beyond partisan rhetoric. The meeting signals a shift in Westminster’s strategy, aiming to strengthen the union through increased autonomy rather than a binary independence referendum."
+   },
+   {
+    "type": "p",
+    "text": "Swinney welcomed the invitation, noting that deeper devolution could provide a constructive path forward for Scotland within the United Kingdom."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The push for greater Scottish autonomy could reshape the UK’s political landscape and affect its relationship with the EU, a concern for European partners and transatlantic observers."
+   }
+  ],
+  "key_points": [
+   "PM Burnham invited First Minister Swinney to collaborate on expanding devolved powers for Scotland.",
+   "The leaders agreed to focus on immediate policy solutions rather than the independence debate.",
+   "A joint framework for deeper devolution is to be developed in the coming months."
+  ],
+  "meta_description": "UK Prime Minister Burnham urges deeper Scottish devolution, urging leaders to move beyond independence talks and focus on immediate solutions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "Scotland",
+   "devolution",
+   "Burnham",
+   "Swinney",
+   "independence"
+  ],
+  "slug": "uk-prime-minister-burnham-calls-deeper-scottish-devolution-8d3b7e",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:45:33Z"
+ },
+ {
+  "id": "7c8b4f942f888edf",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo",
+  "source": "BBC Sport",
+  "source_title": "Former Sale Sharks lock Andrews dies at team hotel in La Rochelle",
+  "source_summary": "Former Sale second row Hyron Andrews has died at his Johannesburg Lions' team hotel before their Champions Cup match at La Rochelle on Saturday.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a3/live/d583a6c0-c969-11f1-a6e6-417671ef62cb.jpg",
+  "published": "2026-10-16T14:33:04+00:00",
+  "headline": "Former Sale Sharks Lock Hyron Andrews Dies at La Rochelle Hotel",
+  "body": [
+   {
+    "type": "p",
+    "text": "Hyron Andrews, a former second‑row forward for Sale Sharks, was found dead at the Johannesburg Lions' team hotel in La Rochelle on Saturday. The incident occurred shortly before the Lions were due to play their European Champions Cup match in the French city."
+   },
+   {
+    "type": "p",
+    "text": "Andrews had previously played for Sale Sharks in the English Premiership before joining the Lions, a South African franchise that competes in the United Rugby Championship. His death was reported by the club and local authorities, though no cause has been released."
+   },
+   {
+    "type": "p",
+    "text": "The Champions Cup match was postponed as officials and teammates dealt with the tragic news. Rugby communities across Europe and South Africa expressed condolences, highlighting Andrews' contributions to the sport during his playing career."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores the sudden loss of a professional athlete ahead of a major European competition, affecting teams and fans across the continent."
+   }
+  ],
+  "key_points": [
+   "Former Sale Sharks lock Hyron Andrews died at his team's hotel in La Rochelle before a Champions Cup game.",
+   "The death led to the postponement of the scheduled match and prompted condolences from the rugby community."
+  ],
+  "meta_description": "Former Sale Sharks lock Hyron Andrews died at his team's hotel in La Rochelle before a Champions Cup match, prompting match postponement.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "Sale Sharks",
+   "Champions Cup",
+   "Hyron Andrews",
+   "La Rochelle",
+   "player death"
+  ],
+  "slug": "former-sale-sharks-lock-hyron-andrews-dies-la-rochelle-7c8b4f",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:45:37Z"
+ },
+ {
+  "id": "a20219d866630c27",
+  "source_url": "https://www.nytimes.com/2026/10/16/us/politics/aoc-el-sayed-million-transfer-midterms.html",
+  "source": "The New York Times",
+  "source_title": "Ocasio-Cortez Transfers $1 Million to Help El-Sayed in Michigan Senate Race",
+  "source_summary": "The transfer represents an unusually large amount for a House member to give to a Senate race.",
+  "source_tags": [
+   "Ocasio-Cortez, Alexandria",
+   "El-Sayed, Abdul",
+   "Elections, Senate",
+   "Michigan",
+   "Midterm Elections (2026)",
+   "United States Politics and Government",
+   "Democratic Party"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16midterms-AOC-AES-topart-khcb/16midterms-AOC-AES-topart-khcb-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T14:32:40+00:00",
+  "headline": "Ocasio‑Cortez Sends $1 Million to Back El‑Sayed’s Michigan Senate Bid",
+  "body": [
+   {
+    "type": "p",
+    "text": "Representative Alexandria Ocasio‑Cortez transferred a $1 million contribution to the campaign of El‑Sayed, a candidate in the Michigan Senate race. The payment, disclosed in recent filings, marks a notably large sum for a sitting House member to allocate to a Senate contest."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts note that such a sizable transfer is atypical, as House members usually limit contributions to lower levels of state races. The move underscores Ocasio‑Cortez’s strategic interest in influencing the composition of the Senate, particularly in a battleground state like Michigan."
+   },
+   {
+    "type": "p",
+    "text": "El‑Sayed’s campaign has not yet disclosed how the funds will be deployed, but the infusion is expected to bolster advertising and ground‑game efforts ahead of the upcoming primary. The donation arrives as both parties intensify fundraising ahead of the November election."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The transfer highlights how high‑profile House members can shape Senate contests, potentially affecting the balance of power in a pivotal swing state."
+   }
+  ],
+  "key_points": [
+   "Alexandria Ocasio‑Cortez contributed $1 million to Michigan Senate candidate El‑Sayed.",
+   "The amount is unusually large for a House member’s contribution to a Senate race.",
+   "The donation could significantly boost El‑Sayed’s campaign resources."
+  ],
+  "meta_description": "Alexandria Ocasio‑Cortez gives $1 million to Michigan Senate candidate El‑Sayed, an unusually large House member contribution.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alexandria Ocasio-Cortez",
+   "Michigan Senate",
+   "campaign finance",
+   "El‑Sayed",
+   "U.S. elections"
+  ],
+  "slug": "ocasiocortez-sends-1-million-back-elsayeds-michigan-senate-bid-a20219",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:45:48Z"
+ },
+ {
+  "id": "9d337093f9bfed1d",
+  "source_url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+  "source": "TechCrunch",
+  "source_title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+  "source_summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+  "source_tags": [
+   "Media & Entertainment",
+   "AI",
+   "filmmaking",
+   "TechCrunch Disrupt"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-16T14:26:51+00:00",
+  "headline": "Mark Wahlberg Says AI Can Be Used in Film If It Enhances the Craft",
+  "body": [
+   {
+    "type": "p",
+    "text": "Actor and angel investor Mark Wahlberg told TechCrunch that he is comfortable with the use of artificial intelligence in filmmaking, as long as the technology serves to improve the creative process rather than replace it. He emphasized that AI should be a tool that \"enhances what you're doing\" rather than a shortcut that undermines artistic effort."
+   },
+   {
+    "type": "p",
+    "text": "Wahlberg also expressed openness to the idea of an AI-generated version of himself continuing his legacy after his career ends. He said he would consider an AI clone that could represent his brand and voice, provided it respects his personal and professional standards."
+   },
+   {
+    "type": "p",
+    "text": "The actor’s comments come amid growing debate in Hollywood over the ethical and legal implications of AI-generated content, including concerns about consent, compensation, and the authenticity of performances."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Wahlberg’s view highlights how prominent talent is shaping the conversation on AI’s role in entertainment, a topic that could affect future contracts and content creation in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "Wahlberg supports AI in film if it enhances creative work.",
+   "He is open to an AI clone that could carry on his legacy under strict conditions.",
+   "His stance reflects broader industry discussions about AI ethics and rights."
+  ],
+  "meta_description": "Mark Wahlberg says AI is acceptable in filmmaking when it enhances work and is open to an AI clone preserving his legacy.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mark Wahlberg",
+   "AI in film",
+   "entertainment technology",
+   "digital cloning",
+   "Hollywood AI debate"
+  ],
+  "slug": "mark-wahlberg-says-ai-can-be-used-film-if-9d3370",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:45:40Z"
+ },
+ {
+  "id": "83f3fffde75a4b9e",
+  "source_url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
+  "source": "The Verge",
+  "source_title": "The incredible flying Tesla Roadster is just for show",
+  "source_summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? \"We were promised flying cars,\" sure, but isn't the operative word in that […]",
+  "source_tags": [
+   "Electric Cars",
+   "Elon Musk",
+   "Science",
+   "Space",
+   "SpaceX",
+   "Tech",
+   "Tesla",
+   "Transportation"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-16T14:15:29+00:00",
+  "headline": "Elon Musk Unveils Stunt Tesla Roadster That Flips Mid‑Air",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a private event on Tuesday night, Elon Musk showcased a Tesla Roadster performing a dramatic vertical ascent up a multi‑story ramp, launching off the edge and executing a mid‑air \"kickflip\" before landing on cold‑gas thrusters. The spectacle was designed to give the audience a taste of the flying‑car concept many have long awaited."
+   },
+   {
+    "type": "p",
+    "text": "The Roadster did not actually fly; instead, the maneuver relied on a combination of ramp propulsion and thruster‑based stabilization to simulate a flight‑like experience. Musk’s team emphasized that the display was a demonstration of engineering possibilities rather than a functional flying vehicle."
+   },
+   {
+    "type": "p",
+    "text": "While the stunt generated excitement, observers noted that the demonstration highlighted the gap between promotional hype and the current state of automotive technology, underscoring that practical flying cars remain a future goal."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The stunt reflects ongoing consumer interest in futuristic transport and the challenges tech firms face in turning flying‑car concepts into reality."
+   }
+  ],
+  "key_points": [
+   "Musk’s Roadster performed a vertical ramp launch, mid‑air flip, and thruster landing as a stunt, not a true flight.",
+   "The event was framed as a showcase of engineering potential rather than a functional flying car.",
+   "The demonstration underscores the ongoing gap between flying‑car promises and existing technology."
+  ],
+  "meta_description": "Elon Musk's Tesla Roadster stunt featured a vertical launch, mid‑air flip and thruster landing, highlighting the gap between hype and real flying‑car tech.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "Elon Musk",
+   "flying car",
+   "automotive stunt",
+   "technology demonstration"
+  ],
+  "slug": "elon-musk-unveils-stunt-tesla-roadster-that-flips-midair-83f3ff",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:45:56Z"
+ },
+ {
+  "id": "4c7899a36ff05016",
+  "source_url": "https://www.nytimes.com/2026/10/16/us/politics/young-voters-fleeing-republicans.html",
+  "source": "The New York Times",
+  "source_title": "Young Voters Say They Are Turning Their Backs on Trump and His Party",
+  "source_summary": "One of the biggest surprises of 2024 was the swing of young voters, particularly men, away from Democrats to Donald Trump. Now they are swinging back.",
+  "source_tags": [
+   "Presidential Election of 2024",
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Youth",
+   "Voting and Voters",
+   "Trump, Donald J",
+   "United States"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16nat-young-voters-SWAP-tlch/16nat-young-voters-SWAP-tlch-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T14:04:11+00:00",
+  "headline": "Young Voters Reverse 2024 Shift, Turning Away From Trump and Party Ahead of 2028 Election",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent poll shows that the wave of young voters who moved toward former President Donald Trump in the 2024 election is receding. The same demographic, especially men, is now indicating a renewed distance from Trump and his political organization."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the shift reflects a broader reassessment among younger Americans who had briefly aligned with the former president after the 2024 surprise swing. The new sentiment suggests a return to more traditional partisan preferences among this group."
+   },
+   {
+    "type": "p",
+    "text": "The trend could influence upcoming electoral cycles, as young voters constitute a pivotal segment of the electorate. Their changing attitudes may affect party strategies and candidate positioning ahead of future contests."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The changing preferences of young voters could alter the balance of power in upcoming U.S. elections and inform party strategies in Europe where similar demographic trends are observed."
+   }
+  ],
+  "key_points": [
+   "Young voters who supported Trump in 2024 are now moving away from him and his party.",
+   "The reversal is most pronounced among young men, according to the poll.",
+   "The shift may reshape party outreach ahead of upcoming elections."
+  ],
+  "meta_description": "Young voters who backed Trump in 2024 are now turning away, signaling a shift that could impact future elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "young voters",
+   "Trump",
+   "political shift",
+   "elections",
+   "public opinion"
+  ],
+  "slug": "young-voters-reverse-2024-shift-turning-away-from-trump-4c7899",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:46:05Z"
+ },
+ {
+  "id": "ad3a47861a304e90",
+  "source_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+  "source": "The Verge",
+  "source_title": "Meta’s new terms may allow it to train AI on news sites for free",
+  "source_summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" […]",
+  "source_tags": [
+   "AI",
+   "Meta",
+   "News",
+   "Policy",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-16T14:02:40+00:00",
+  "headline": "Meta's New Terms Permit AI Training on Publisher Content",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta announced that its updated platform terms, effective Oct. 30, will let the company crawl and scrape websites linked to businesses that use its services, including online news publishers. The language in the terms grants Meta permission to use this external content for purposes such as development, improvement, research, and training of artificial‑intelligence systems."
+   },
+   {
+    "type": "p",
+    "text": "The change was highlighted in a report by Nieman Lab, which noted that the wording could allow Meta to harvest news articles without paying the publishers. The policy applies to sites that Meta deems \"associated\" with advertisers or other commercial partners on its platforms."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers say the move could intensify debates over data ownership and compensation for news outlets whose material may be used to fuel large‑scale AI models."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European news organizations could see their articles used to train AI without compensation, raising legal and ethical questions about data rights."
+   }
+  ],
+  "key_points": [
+   "Meta's updated terms let it scrape content from sites tied to its advertisers, including news publishers.",
+   "The scraped material may be used to develop and train Meta's AI systems.",
+   "The policy takes effect on Oct. 30 and has sparked concerns about unpaid use of news content."
+  ],
+  "meta_description": "Meta's new terms allow the company to scrape publisher sites for AI training, sparking concerns over unpaid use of news content.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "AI training",
+   "news publishers",
+   "data scraping",
+   "Nieman Lab"
+  ],
+  "slug": "meta-s-new-terms-permit-ai-training-publisher-content-ad3a47",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:46:12Z"
+ },
+ {
+  "id": "17da4914c4d09e1b",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno",
+  "source": "BBC Sport",
+  "source_title": "'I am telling you the truth' - Carrick on Martinez fallout",
+  "source_summary": "Manchester United boss Michael Carrick says he is telling the truth about the club moving on from Lisandro Martinez's explosive post-match interview.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1307/live/63565910-c961-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-16T13:59:12+00:00",
+  "headline": "Manchester United’s Carrick Insists He’s Truthful on Martinez Interview Fallout",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United manager Michael Carrick told reporters that he is being completely honest about the club’s response to Lisandro Martinez’s explosive post‑match interview. Carrick emphasized that the team is moving forward and that any speculation about internal discord is unfounded."
+   },
+   {
+    "type": "p",
+    "text": "The former midfielder said the focus remains on the squad’s performance and that the club will not be distracted by the media attention surrounding Martinez’s comments. Carrick’s remarks aim to reassure supporters that United is handling the situation transparently."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stability at a high‑profile club like Manchester United affects league competition and fan engagement across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Manchester United manager Michael Carrick says he is telling the truth about the club’s handling of Lisandro Martinez’s interview.",
+   "Carrick asserts that United is moving on and will not be distracted by the fallout."
+  ],
+  "meta_description": "Manchester United boss Michael Carrick says he’s being truthful about the club moving on from Lisandro Martinez’s explosive interview.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Lisandro Martinez",
+   "football",
+   "Premier League"
+  ],
+  "slug": "manchester-uniteds-carrick-insists-hes-truthful-martinez-interview-fallout-17da49",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:45:53Z"
+ },
+ {
+  "id": "03465d07c830b77f",
+  "source_url": "https://www.nytimes.com/2026/10/16/your-money/cd-bank-lost-money.html",
+  "source": "The New York Times",
+  "source_title": "You’ve Found a Long-Lost CD. Can You Still Get Your Money?",
+  "source_summary": "The bank was required to hold the certificate of deposit only for a limited time, and now has no record of the money. Experts offer tips to avoid having this happen to you.",
+  "source_tags": [
+   "Banking and Financial Institutions",
+   "Personal Finances",
+   "Content Type: Service",
+   "Certificates of Deposit"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-16T13:00:05+00:00",
+  "headline": "Bank Says No Record After Holding CD Certificate Too Shortly",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent report highlights a case where a bank was obligated to retain a certificate of deposit (CD) for only a limited period and subsequently lost all records of the account. The customer, who discovered the CD years later, was unable to claim the funds because the bank could not verify ownership."
+   },
+   {
+    "type": "p",
+    "text": "Financial experts explain that banks must follow strict record‑keeping timelines, after which they may legally discard documents. They advise consumers to keep personal copies of all CD paperwork and to periodically check with their financial institutions to ensure the assets remain documented."
+   },
+   {
+    "type": "p",
+    "text": "The article also outlines steps to avoid similar issues, such as setting reminders to renew or cash in CDs before the bank’s retention window expires and using digital storage for important financial documents."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story underscores the importance of personal record‑keeping for investors in the US and Europe, where similar banking regulations apply."
+   }
+  ],
+  "key_points": [
+   "Banks may discard CD records after a legally defined retention period, leaving customers without proof of ownership.",
+   "Consumers should retain personal copies of CD certificates and monitor account status regularly.",
+   "Expert advice includes setting renewal reminders and using digital backups to protect financial assets."
+  ],
+  "meta_description": "Bank lost CD records after required retention period; experts advise how to protect your deposits.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "certificate of deposit",
+   "banking regulations",
+   "consumer finance",
+   "record keeping",
+   "financial advice"
+  ],
+  "slug": "bank-says-no-record-after-holding-cd-certificate-too-03465d",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:46:16Z"
+ },
+ {
+  "id": "19aaae501543f70a",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/c50me81r74n7o",
+  "source": "BBC Sport",
+  "source_title": "NRL gap a factor in France's heavy defeat by Samoa, says boss",
+  "source_summary": "France boss Laurent Frayssinous suggests the gap between the NRL and Super League was a huge factor in their 78-4 defeat by Samoa at the Men's Rugby League World Cup.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee76/live/fa12d800-c958-11f1-8879-9d9deeb686e1.jpg",
+  "published": "2026-10-16T12:28:55+00:00",
+  "headline": "France Blamed NRL‑Super League Gap for 78‑4 World Cup Loss",
+  "body": [
+   {
+    "type": "p",
+    "text": "France suffered a crushing 78-4 defeat to Samoa in the men's Rugby League World Cup, prompting coach Laurent Frayssinous to point to the disparity between the NRL and Super League as a key factor."
+   },
+   {
+    "type": "p",
+    "text": "Frayssinous said the French side, which competes in the Super League, struggled to match the speed, skill and physicality of Samoa’s players, many of whom are regulars in the Australian NRL competition."
+   },
+   {
+    "type": "p",
+    "text": "The result highlighted the widening performance gap between the two premier rugby league competitions, raising questions about how European teams can remain competitive on the global stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The widening gap between the NRL and Super League affects the competitiveness of European rugby league teams in international tournaments."
+   }
+  ],
+  "key_points": [
+   "France lost 78-4 to Samoa in the Rugby League World Cup.",
+   "Coach Laurent Frayssinous cited the NRL‑Super League gap as a major cause.",
+   "The match underscored a growing disparity between the two top leagues."
+  ],
+  "meta_description": "France's 78-4 loss to Samoa at the Rugby League World Cup was blamed on the NRL‑Super League gap, says coach Laurent Frayssinous.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby league",
+   "France",
+   "Samoa",
+   "World Cup",
+   "NRL",
+   "Super League"
+  ],
+  "slug": "france-blamed-nrlsuper-league-gap-784-world-cup-loss-19aaae",
+  "reading_minutes": 1,
+  "added": "2026-10-16T14:46:08Z"
+ },
+ {
   "id": "ebd28732e39a0dff",
   "source_url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o",
   "source": "BBC News",
