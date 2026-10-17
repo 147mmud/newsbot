@@ -1,5 +1,670 @@
 [
  {
+  "id": "470da62f3b145014",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo",
+  "source": "BBC Sport",
+  "source_title": "Manzambi heads Villa to victory at Newcastle",
+  "source_summary": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb3/live/c78b6ee0-ca59-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-17T19:12:02+00:00",
+  "headline": "Manzambi Scores Late Header as Villa Beat Newcastle, Emery Notches 100th PL Win",
+  "body": [
+   {
+    "type": "p",
+    "text": "Aston Villa secured a 1-0 victory over Newcastle United at St James' Park after Johan Manzambi rose to meet a cross and headed the decisive goal past the goalkeeper. The win broke Newcastle's unbeaten run at home and gave Villa three points in the Premier League table."
+   },
+   {
+    "type": "p",
+    "text": "The triumph also marked manager Unai Emery's 100th win in England's top flight, a milestone he achieved in his third season with Villa. Emery praised his side's resilience and Manzambi's composure in the final third, saying the team showed the quality needed to compete for higher positions."
+   },
+   {
+    "type": "p",
+    "text": "Newcastle manager Eddie Howe expressed disappointment but noted that the team will regroup ahead of their next fixture, emphasizing the need to tighten up defensively after conceding the late goal."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Emery's 100th win underscores his growing reputation in the Premier League, while Villa's victory strengthens their push for a European spot."
+   }
+  ],
+  "key_points": [
+   "Johan Manzambi's header provided the only goal in Villa's 1-0 win over Newcastle.",
+   "Unai Emery celebrated his 100th Premier League victory as Villa manager.",
+   "The result ends Newcastle's recent unbeaten streak at home."
+  ],
+  "meta_description": "Johan Manzambi heads Aston Villa to a 1-0 win at Newcastle, giving manager Unai Emery his 100th Premier League victory.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Aston Villa",
+   "Newcastle United",
+   "Premier League",
+   "Unai Emery",
+   "Johan Manzambi"
+  ],
+  "slug": "manzambi-scores-late-header-villa-beat-newcastle-emery-notches-470da6",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:14:55Z"
+ },
+ {
+  "id": "071d6fc424760ac3",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo",
+  "source": "BBC Sport",
+  "source_title": "Liverpool come from behind to beat nine-man Brentford",
+  "source_summary": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2c2/live/26507ec0-ca50-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-17T19:00:13+00:00",
+  "headline": "Liverpool Rally Past Brentford 2-1 After Host Reduced to Nine",
+  "body": [
+   {
+    "type": "p",
+    "text": "Liverpool overturned a first‑half deficit to secure a 2-1 victory over Brentford at the Gtech Community Stadium. The English side found the net twice after conceding early, demonstrating resilience to claim all three points."
+   },
+   {
+    "type": "p",
+    "text": "Brentford's challenge was hampered when they were left with nine men following red cards for Yehor Yarmoliuk and Vitaly Janelt. The dismissals reduced the visitors' ability to defend and maintain pressure, contributing to Liverpool's comeback."
+   },
+   {
+    "type": "p",
+    "text": "The win adds three points to Liverpool's campaign, while Brentford will regroup after a costly loss compounded by the disciplinary setbacks."
+   }
+  ],
+  "key_points": [
+   "Liverpool came from behind to beat Brentford 2-1.",
+   "Brentford finished the match with nine players after two red cards."
+  ],
+  "meta_description": "Liverpool rallied to defeat Brentford 2-1 at the Gtech Community Stadium after the hosts were reduced to nine men.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Brentford",
+   "Premier League",
+   "red cards",
+   "comeback",
+   "football"
+  ],
+  "slug": "liverpool-rally-past-brentford-2-1-after-host-reduced-071d6f",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:15:03Z"
+ },
+ {
+  "id": "b17054b1766f84e1",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o",
+  "source": "BBC Sport",
+  "source_title": "Haaland nets double as Man City go six points clear at the top",
+  "source_summary": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbaa/live/7da0f8b0-ca4d-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-17T19:00:09+00:00",
+  "headline": "Haaland’s Brace Propels Man City Six Points Clear in Title Race",
+  "body": [
+   {
+    "type": "p",
+    "text": "Erling Haaland scored two goals as Manchester City secured a 3-2 victory over Ipswich Town at the Etihad Stadium, extending their winning streak to seven league matches. The win moved City six points clear at the top of the Premier League table, reinforcing the lead established under manager Enzo Maresca."
+   },
+   {
+    "type": "p",
+    "text": "Ipswich fought back to make the contest tight, but City’s attacking edge proved decisive. The result not only marked another successful outing for Haaland but also underscored City’s consistency as they chase another league title."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result widens Manchester City’s cushion in the Premier League title race, influencing European competition qualifications and the league’s overall dynamics."
+   }
+  ],
+  "key_points": [
+   "Haaland netted a double in Manchester City’s 3-2 win over Ipswich.",
+   "The victory gave City a six‑point lead at the top of the Premier League.",
+   "It was City’s seventh consecutive league win under Enzo Maresca."
+  ],
+  "meta_description": "Erling Haaland scores twice as Manchester City beat Ipswich 3-2, extending their winning run and moving six points clear at the top of the Premier League.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester City",
+   "Erling Haaland",
+   "Premier League",
+   "Ipswich Town",
+   "Enzo Maresca"
+  ],
+  "slug": "haalands-brace-propels-man-city-six-points-clear-title-b17054",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:15:16Z"
+ },
+ {
+  "id": "446204a95b92c623",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c6rmy7w1kdgeo",
+  "source": "BBC Sport",
+  "source_title": "Iwobi delivers Fulham's first win of season",
+  "source_summary": "Alex Iwobi fires Fulham to their first Premier League win of the season against Hull.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27f8/live/a1c88950-ca4e-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-17T19:00:06+00:00",
+  "headline": "Alex Iwobi Scores as Fulham Earn First Premier League Victory",
+  "body": [
+   {
+    "type": "p",
+    "text": "Fulham broke their winless start to the 2026-27 Premier League season with a 2-1 triumph over Hull City at Craven Cottage. Midfielder Alex Iwobi opened the scoring early in the first half, converting a well‑placed pass and giving the home side the lead."
+   },
+   {
+    "type": "p",
+    "text": "Hull City responded with an equaliser midway through the second half, but Fulham regained control when Iwobi assisted the decisive goal, set up by a swift counter‑attack. The victory lifted Fulham off the bottom of the table and provided much‑needed confidence for manager Marco Silva and his squad."
+   },
+   {
+    "type": "p",
+    "text": "The win marks Fulham's first points of the campaign and moves them out of the relegation zone, while Hull City remain in the lower half of the league. Both clubs will look to build on the result as the season progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result shifts the early‑season league table, giving Fulham a chance to avoid a relegation battle that could affect European competition spots."
+   }
+  ],
+  "key_points": [
+   "Alex Iwobi scored and assisted in Fulham's 2-1 win over Hull City.",
+   "The victory is Fulham's first Premier League win of the 2026-27 season.",
+   "Fulham climb out of the relegation zone after the win."
+  ],
+  "meta_description": "Alex Iwobi leads Fulham to a 2-1 win over Hull City, delivering the club's first Premier League victory of the season.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Fulham",
+   "Alex Iwobi",
+   "Premier League",
+   "Hull City",
+   "Football"
+  ],
+  "slug": "alex-iwobi-scores-fulham-earn-first-premier-league-victory-446204",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:15:32Z"
+ },
+ {
+  "id": "c8b4ffe80e6b3e7a",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o",
+  "source": "BBC Sport",
+  "source_title": "Neto scores twice as Chelsea win at Everton",
+  "source_summary": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d70/live/2edc6960-ca4f-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-17T19:00:03+00:00",
+  "headline": "Pedro Neto Scores Twice as Chelsea Beat Everton 2-0 at Everton",
+  "body": [
+   {
+    "type": "p",
+    "text": "Pedro Neto found the net twice to give Chelsea a 2-0 victory over Everton at the Hill Dickinson Stadium. The Portuguese winger opened the scoring before adding a second goal later in the match, securing all three points for the London side."
+   },
+   {
+    "type": "p",
+    "text": "The game was marred by a serious head injury to Everton goalkeeper Emiliano Martinez, who was forced to leave the field after a collision. Medical staff attended to him on the pitch before he was taken to a hospital for further assessment."
+   },
+   {
+    "type": "p",
+    "text": "Chelsea’s win moves them higher up the Premier League table, while Everton remain in the lower half of the standings. Both clubs will now turn their attention to upcoming fixtures as the season approaches its final stretch."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result impacts the Premier League race, with Chelsea gaining ground in the title chase and Everton seeking points to avoid relegation threats."
+   }
+  ],
+  "key_points": [
+   "Pedro Neto scored both goals in Chelsea's 2-0 win over Everton.",
+   "Everton goalkeeper Emiliano Martinez suffered a head injury during the match.",
+   "The result lifts Chelsea in the Premier League table."
+  ],
+  "meta_description": "Pedro Neto's brace leads Chelsea to a 2-0 win over Everton, a match overshadowed by goalkeeper Emiliano Martinez's head injury.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chelsea",
+   "Everton",
+   "Pedro Neto",
+   "Premier League",
+   "football",
+   "head injury"
+  ],
+  "slug": "pedro-neto-scores-twice-chelsea-beat-everton-2-0-c8b4ff",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:15:40Z"
+ },
+ {
+  "id": "87f321ddcc293169",
+  "source_url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+  "source": "The New York Times",
+  "source_title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+  "source_summary": "Riots broke out in several French cities alongside peaceful marches of tens of thousands of people demonstrating against rising living costs and poor school conditions.",
+  "source_tags": [
+   "France",
+   "Macron, Emmanuel (1977- )",
+   "Melenchon, Jean-Luc",
+   "Lecornu, Sebastien",
+   "France Unbowed (Political Party)",
+   "Demonstrations, Protests and Riots",
+   "Police",
+   "Attacks on Police"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-france-unrest-khmb/17int-france-unrest-khmb-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T18:47:02+00:00",
+  "headline": "France Sees Nationwide Student Protests and Riots Over Cost of Living",
+  "body": [
+   {
+    "type": "p",
+    "text": "Riots erupted in several French cities on Monday as a student movement expanded into a national protest. Tens of thousands marched peacefully, demanding action on rising living costs and inadequate school conditions."
+   },
+   {
+    "type": "p",
+    "text": "The demonstrations, organized by student groups, drew participants from across the country and sparked clashes with police in urban centers. Authorities reported property damage and arrests amid the unrest."
+   },
+   {
+    "type": "p",
+    "text": "Organizers said the protests aim to pressure the government into improving funding for education and addressing inflation that has strained household budgets."
+   }
+  ],
+  "key_points": [
+   "Student protests against high living costs and poor school conditions turned violent in multiple French cities.",
+   "Tens of thousands participated in peaceful marches while riots led to arrests and property damage."
+  ],
+  "meta_description": "French student protests against rising living costs and school conditions sparked riots in several cities, drawing tens of thousands.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "student movement",
+   "cost of living",
+   "riots"
+  ],
+  "slug": "france-sees-nationwide-student-protests-riots-over-cost-living-87f321",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:15:07Z"
+ },
+ {
+  "id": "7b03e19db9665330",
+  "source_url": "https://www.nytimes.com/2026/10/17/us/politics/russia-gas-trump.html",
+  "source": "The New York Times",
+  "source_title": "U.S. Floats Lifeline to Russia: Allowing More Gas Sales to Europe",
+  "source_summary": "The Trump administration is pitching the idea as part of a peace deal with Ukraine, but Europe is wary and critics say Russia would be strengthened.",
+  "source_tags": [
+   "Russian Invasion of Ukraine (2022)",
+   "United States Politics and Government",
+   "United States International Relations",
+   "Natural Gas",
+   "Peace Process",
+   "Prices (Fares, Fees and Rates)",
+   "Alternative for Germany",
+   "European Union",
+   "North Atlantic Treaty Organization",
+   "Treasury Department"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/00dc-trump-russia-gas-gtph/00dc-trump-russia-gas-gtph-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T18:00:45+00:00",
+  "headline": "U.S. Proposes Increased Russian Gas Sales to Europe Amid Ukraine Talks",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Trump administration has floated a proposal that would permit Russia to sell more natural gas to European markets as part of a broader peace initiative with Ukraine. Officials say the move is intended to ease energy shortages in Europe while encouraging Moscow to engage in diplomatic negotiations."
+   },
+   {
+    "type": "p",
+    "text": "European leaders have expressed caution, noting that greater reliance on Russian gas could undermine the bloc’s energy diversification goals. Critics argue the plan may inadvertently bolster Russia’s economy and reduce leverage in ongoing negotiations over the conflict in Ukraine."
+   },
+   {
+    "type": "p",
+    "text": "The proposal is still under review, and no formal agreement has been reached. Both U.S. and European policymakers are weighing the potential benefits of reduced gas prices against the strategic risks of deepening economic ties with Moscow."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The proposal could reshape European energy security and influence the diplomatic dynamics of the Ukraine conflict."
+   }
+  ],
+  "key_points": [
+   "The U.S. suggests allowing more Russian gas to flow to Europe as part of a Ukraine peace effort.",
+   "European officials warn the plan could increase dependence on Russia and strengthen its position.",
+   "The proposal remains under discussion with no final decision made."
+  ],
+  "meta_description": "The Trump administration proposes more Russian gas sales to Europe as a peace lever, sparking European caution over energy dependence.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US policy",
+   "Russia",
+   "Europe gas",
+   "Ukraine peace",
+   "energy security"
+  ],
+  "slug": "u-s-proposes-increased-russian-gas-sales-europe-amid-7b03e1",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:15:19Z"
+ },
+ {
+  "id": "9c1c8207c79892d2",
+  "source_url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
+  "source": "The New York Times",
+  "source_title": "Weak Links Start to Show in A.I. Borrowing",
+  "source_summary": "Debt trouble at CoreWeave, Oracle and SoftBank raises questions about whether there are broader problems with the data center build-out.",
+  "source_tags": [
+   "CoreWeave",
+   "Artificial Intelligence",
+   "Computers and the Internet",
+   "Credit and Debt"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/00biz-data-center-debt-kmwt/00biz-data-center-debt-kmwt-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T18:00:06+00:00",
+  "headline": "Debt Strains at CoreWeave, Oracle and SoftBank Signal Data Center Risks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Financial pressures are mounting for several major players in the data‑center industry, including cloud‑computing firm CoreWeave, technology giant Oracle and investment group SoftBank. Each is facing debt challenges that could affect their ability to fund new facilities."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the difficulties encountered by these companies may reflect deeper issues in the rapid expansion of data‑center capacity, a sector that has seen aggressive build‑out in recent years. The situation raises concerns about the sustainability of continued growth in the industry."
+   },
+   {
+    "type": "p",
+    "text": "While the specific outcomes for each firm remain uncertain, the emerging pattern suggests that investors and customers should monitor the financial health of data‑center operators as the market evolves."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European businesses rely heavily on data‑center services, so financial instability among major providers could impact cloud pricing and availability."
+   }
+  ],
+  "key_points": [
+   "CoreWeave, Oracle and SoftBank are all experiencing debt-related problems.",
+   "The financial strain may indicate broader challenges in the data‑center expansion boom.",
+   "Industry observers warn that continued aggressive building could be unsustainable."
+  ],
+  "meta_description": "Debt issues at CoreWeave, Oracle and SoftBank raise concerns about the sustainability of the data‑center build‑out.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "data centers",
+   "cloud computing",
+   "debt",
+   "CoreWeave",
+   "Oracle",
+   "SoftBank"
+  ],
+  "slug": "debt-strains-coreweave-oracle-softbank-signal-data-center-risks-9c1c82",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:14:59Z"
+ },
+ {
+  "id": "d205029d5a4f00f2",
+  "source_url": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Romanian fighter jets shoot down 2 drones over Black Sea",
+  "source_summary": "Romanian Air Force F-16s shot down drones over Romanian territorial waters. Earlier this week, two chemical tankers were hit by drones near Romania's Black Sea coast.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-17T17:51:00+00:00",
+  "headline": "Romanian F-16s Intercept Two Drones Over Black Sea Waters",
+  "body": [
+   {
+    "type": "p",
+    "text": "Romanian Air Force fighter jets equipped with F-16s engaged and destroyed two unmanned aerial vehicles that entered Romanian territorial waters in the Black Sea, officials said. The interception took place after the drones were detected approaching the coast, prompting a rapid military response."
+   },
+   {
+    "type": "p",
+    "text": "The incident follows a series of drone attacks earlier in the week that struck two chemical tankers near Romania's Black Sea shoreline. The tankers sustained damage from the unmanned aircraft, raising concerns about the safety of maritime commerce in the region."
+   },
+   {
+    "type": "p",
+    "text": "Romanian authorities highlighted the successful shoot‑down as a demonstration of the country's readiness to protect its airspace and maritime interests. The operation underscores ongoing security challenges in the Black Sea, a corridor that sees frequent military activity."
+   },
+   {
+    "type": "p",
+    "text": "No casualties were reported, and the Romanian government did not disclose further details about the drones' origin or the perpetrators behind the tanker attacks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incidents illustrate growing security risks in the Black Sea, a strategic area for NATO members and European trade routes."
+   }
+  ],
+  "key_points": [
+   "Romanian F-16s shot down two drones over the Black Sea.",
+   "Earlier in the week, drones damaged two chemical tankers near Romania's coast.",
+   "The events highlight heightened security concerns in the Black Sea region."
+  ],
+  "meta_description": "Romanian F-16s down two drones over Black Sea waters after earlier attacks on chemical tankers, raising regional security concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Romania",
+   "drones",
+   "Black Sea",
+   "F-16",
+   "chemical tankers",
+   "military"
+  ],
+  "slug": "romanian-f-16s-intercept-two-drones-over-black-sea-d20502",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:15:23Z"
+ },
+ {
+  "id": "c4c3730905e364a7",
+  "source_url": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
+  "source_summary": "The Egyptian president said his country was ready to defend Saudi Arabia \"if requested.\" The comments come amid escalating Houthi attacks.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-17T17:49:00+00:00",
+  "headline": "Egyptian President Says Cairo Will Defend Saudi Arabia If Requested",
+  "body": [
+   {
+    "type": "p",
+    "text": "Egyptian President Abdel Fattah al‑Sisi announced that Egypt stands ready to defend Saudi Arabia should the kingdom ask for assistance. The statement was made as the region experiences a surge in attacks by Yemen's Houthi rebels."
+   },
+   {
+    "type": "p",
+    "text": "Sisi's remarks underscore the close security ties between the two Gulf allies and reflect Cairo's willingness to intervene militarily if a formal request is received. No specific details about the nature or timing of any potential deployment were provided."
+   },
+   {
+    "type": "p",
+    "text": "The declaration comes amid heightened tensions in the Red Sea and the Gulf of Aden, where Houthi missile and drone strikes have disrupted shipping lanes and raised concerns about broader regional instability."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stability in the Red Sea affects global energy shipments and trade routes that are vital to the United States and European economies."
+   }
+  ],
+  "key_points": [
+   "Egypt says it would defend Saudi Arabia if formally asked.",
+   "The pledge is made against a backdrop of increasing Houthi attacks in the region."
+  ],
+  "meta_description": "Egypt's president says Cairo will defend Saudi Arabia if requested, amid rising Houthi attacks in the Red Sea.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Egypt",
+   "Saudi Arabia",
+   "Houthi attacks",
+   "Middle East security",
+   "regional defense",
+   "Red Sea"
+  ],
+  "slug": "egyptian-president-says-cairo-will-defend-saudi-arabia-if-c4c373",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:15:35Z"
+ },
+ {
+  "id": "3fc6af837124a895",
+  "source_url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+  "source": "The Verge",
+  "source_title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+  "source_summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks […]",
+  "source_tags": [
+   "Cars",
+   "Electric Cars",
+   "Mercedes-Benz",
+   "News",
+   "Transportation"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-17T17:00:00+00:00",
+  "headline": "Mercedes‑AMG Unveils 2028 GT SUV with 1,150 hp Electric Power",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mercedes‑AMG has expanded its electric lineup with the 2028 GT SUV, a ground‑up designed sport utility vehicle that delivers more than 1,150 horsepower. The model shares its powertrain concept with the brand’s earlier GT four‑door coupe, which uses three axial‑flux electric motors to achieve the same output."
+   },
+   {
+    "type": "p",
+    "text": "The new SUV is positioned as an ultra‑fast‑charging, high‑performance people‑hauler, offering the same raw acceleration as its sedan counterpart while providing the practicality of a larger vehicle. Mercedes‑AMG describes it as the brand’s “beefier cousin” to the GT coupe, emphasizing both speed and utility."
+   },
+   {
+    "type": "p",
+    "text": "Details on range, pricing or specific charging times were not disclosed, but the launch underscores AMG’s commitment to electrifying its performance portfolio ahead of broader market shifts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The model highlights the rapid move toward high‑performance electric vehicles in premium markets, a trend that will affect US and European consumers seeking both speed and sustainability."
+   }
+  ],
+  "key_points": [
+   "Mercedes‑AMG’s 2028 GT SUV packs over 1,150 hp from three axial‑flux electric motors.",
+   "The vehicle combines ultra‑fast charging with the practicality of an SUV.",
+   "It builds on the technology introduced in the GT four‑door coupe earlier this year."
+  ],
+  "meta_description": "Mercedes‑AMG launches the 2028 GT SUV, an electric vehicle delivering over 1,150 hp and ultra‑fast charging in a practical SUV body.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mercedes",
+   "AMG",
+   "electric SUV",
+   "high performance",
+   "automotive"
+  ],
+  "slug": "mercedesamg-unveils-2028-gt-suv-with-1-150-hp-3fc6af",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:15:12Z"
+ },
+ {
+  "id": "1b9b6ec3570990ca",
+  "source_url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+  "source": "The Verge",
+  "source_title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+  "source_summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in […]",
+  "source_tags": [
+   "Elon Musk",
+   "Law",
+   "News",
+   "Policy",
+   "Politics",
+   "Tech",
+   "US Elections"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-17T16:39:44+00:00",
+  "headline": "Elon Musk Settles Lawsuits Over $1 Million Voter Giveaway",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk has agreed to settle two lawsuits filed by Arizona residents who alleged that his 2024 promise to award $1 million a day to a randomly selected registered voter in a swing state was fraudulent. The lawsuits claimed the giveaway violated state election laws and constituted a lottery."
+   },
+   {
+    "type": "p",
+    "text": "The legal challenges emerged after Musk announced the daily prize in early 2024, prompting scrutiny from election officials and consumer‑protection advocates. While the settlement terms were not disclosed, the resolution ends the litigation that had kept the giveaway under court review."
+   },
+   {
+    "type": "p",
+    "text": "The settlement closes a chapter in a high‑profile dispute that raised questions about the intersection of private promotions and electoral processes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights how political promotions by high‑profile individuals can trigger legal scrutiny in the U.S. and abroad, underscoring the need for clear regulations on election‑related incentives."
+   }
+  ],
+  "key_points": [
+   "Musk settled two Arizona lawsuits alleging his voter‑lottery was illegal.",
+   "The lawsuits claimed the $1 million daily prize violated state election and lottery laws.",
+   "Settlement terms remain confidential, ending the court battle over the giveaway."
+  ],
+  "meta_description": "Elon Musk settles Arizona lawsuits claiming his $1 million daily voter giveaway was fraudulent, ending the legal dispute.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "lawsuits",
+   "voter giveaway",
+   "Arizona",
+   "election law"
+  ],
+  "slug": "elon-musk-settles-lawsuits-over-1-million-voter-giveaway-1b9b6e",
+  "reading_minutes": 1,
+  "added": "2026-10-17T19:15:27Z"
+ },
+ {
   "id": "ecae77816bab8aa8",
   "source_url": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats/a-79688819?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
