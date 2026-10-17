@@ -1,5 +1,645 @@
 [
  {
+  "id": "e749e3279aef02a0",
+  "source_url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do",
+  "source": "BBC News",
+  "source_title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+  "source_summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddb/live/6a9aa9b0-c97a-11f1-a64c-550be9e3c66b.png",
+  "published": "2026-10-16T23:54:35+00:00",
+  "headline": "Italian Defence Minister Says Trump’s Ukraine Aid Cut Is ‘Completely Wrong’",
+  "body": [
+   {
+    "type": "p",
+    "text": "Italy’s defence minister, Guido Crosetto, told the BBC that President Donald Trump’s move to limit U.S. support for Ukraine is \"completely wrong\". Crosetto warned that curbing assistance could extend Russia’s full‑scale invasion rather than bring it to an end."
+   },
+   {
+    "type": "p",
+    "text": "The minister argued that sustained military aid is essential to counter Moscow’s aggression and prevent a prolonged conflict on Europe’s eastern flank. He stressed that any reduction in help would undermine Ukraine’s ability to defend itself and could embolden Russian forces."
+   },
+   {
+    "type": "p",
+    "text": "Crosetto’s comments come as the United States debates its level of involvement in the war, with critics on both sides weighing the strategic and humanitarian implications of continued aid."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. decisions on Ukraine aid affect the security landscape across Europe, influencing the duration of the conflict and regional stability."
+   }
+  ],
+  "key_points": [
+   "Italian defence minister Guido Crosetto called Trump’s restriction on Ukraine aid \"completely wrong\".",
+   "He warned that limiting U.S. support could lengthen Russia’s invasion of Ukraine.",
+   "Crosetto emphasized the importance of sustained assistance for European security."
+  ],
+  "meta_description": "Italian defence minister says Trump's move to curb Ukraine aid risks prolonging Russia's invasion and threatens European security.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Trump",
+   "Italy",
+   "US aid",
+   "Russia invasion"
+  ],
+  "slug": "italian-defence-minister-says-trumps-ukraine-aid-cut-completely-e749e3",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:04Z"
+ },
+ {
+  "id": "596dd45e1e865a2e",
+  "source_url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+  "source": "The Verge",
+  "source_title": "All the news about the iPhone Duo",
+  "source_summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and […]",
+  "source_tags": [
+   "Apple",
+   "Foldable Phones",
+   "iPhone",
+   "Mobile",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-16T23:36:26+00:00",
+  "headline": "Apple Unveils iPhone Duo Foldable With Dual Displays and Touch ID",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple has introduced the iPhone Duo, its first foldable smartphone, featuring a 5.4‑inch outer screen that folds outward to reveal a 7.6‑inch inner display. The inner panel is treated with a “nano‑texture” finish that minimizes glare and makes the crease nearly invisible."
+   },
+   {
+    "type": "p",
+    "text": "The device replaces Face ID with a Touch ID sensor integrated into the power button, offering biometric authentication without the need for a front‑facing camera. It is equipped with a dual‑camera system comprising a primary lens and a secondary lens, though detailed specifications were not disclosed."
+   },
+   {
+    "type": "p",
+    "text": "Apple highlighted the Duo’s compact form factor when closed and its expansive screen real estate when opened, positioning it as a bridge between traditional smartphones and larger tablet‑like experiences."
+   }
+  ],
+  "key_points": [
+   "The iPhone Duo folds from a 5.4‑inch outer screen to a 7.6‑inch inner display with a near‑invisible crease.",
+   "Touch ID on the power button replaces Face ID for biometric unlocking.",
+   "A nano‑texture coating on the inner screen reduces glare and enhances durability."
+  ],
+  "meta_description": "Apple launches the iPhone Duo, a foldable phone with dual displays, nano‑texture screen and Touch ID, marking its entry into the foldable market.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "apple",
+   "iphone duo",
+   "foldable phone",
+   "touch id",
+   "nano-texture",
+   "dual display"
+  ],
+  "slug": "apple-unveils-iphone-duo-foldable-with-dual-displays-touch-596dd4",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:08Z"
+ },
+ {
+  "id": "c2c0f4b07e6f289a",
+  "source_url": "https://www.nytimes.com/2026/10/16/business/media/netflix-layoffs-bela-bajaria.html",
+  "source": "The New York Times",
+  "source_title": "Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing",
+  "source_summary": "Despite strong revenues and profits, the streaming service cut 1,000 jobs and jettisoned its chief content officer. Drops in the stock price and viewer engagement are to blame.",
+  "source_tags": [
+   "Movies",
+   "Television",
+   "Video Recordings, Downloads and Streaming",
+   "Web-Original Programming",
+   "Appointments and Executive Changes",
+   "Ratings (Audience Measurement)",
+   "Layoffs and Job Reductions",
+   "Media",
+   "Rice, Peter (1966- )",
+   "Bajaria, Bela"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/16biz-netflix-lkmh/16biz-netflix-lkmh-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T23:22:21+00:00",
+  "headline": "Netflix Cuts 1,000 Jobs and Fires Content Chief Amid Stock Slip",
+  "body": [
+   {
+    "type": "p",
+    "text": "Netflix announced a reduction of about 1,000 positions, representing a significant workforce cut despite the company's recent strong revenue and profit reports. The layoffs were part of a broader effort to control costs as the streaming giant faces declining viewer engagement."
+   },
+   {
+    "type": "p",
+    "text": "In a related move, the company terminated its chief content officer, a senior executive responsible for overseeing original programming. The sudden departure underscores the pressure on Netflix to improve its content strategy and retain subscribers."
+   },
+   {
+    "type": "p",
+    "text": "Analysts linked the staffing changes to a recent dip in Netflix's stock price, which fell after the firm disclosed weaker audience metrics. The company hopes the restructuring will stabilize its financial performance and restore investor confidence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The moves signal a shift in Netflix's strategy that could affect the broader streaming market and investor sentiment in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "Netflix eliminated roughly 1,000 jobs and dismissed its chief content officer.",
+   "The cuts come amid falling viewer engagement and a drop in the company's stock price.",
+   "Despite solid revenue and profit figures, Netflix is reshaping its cost structure."
+  ],
+  "meta_description": "Netflix cuts 1,000 jobs and fires its chief content officer as stock falls and viewer engagement declines.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Netflix",
+   "layoffs",
+   "streaming",
+   "stock market",
+   "content chief",
+   "media industry"
+  ],
+  "slug": "netflix-cuts-1-000-jobs-fires-content-chief-amid-c2c0f4",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:12Z"
+ },
+ {
+  "id": "9075db65e8ffa3bc",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/16/trump-administration-california-election-officials-noncitizen-voters",
+  "source": "The Guardian",
+  "source_title": "Trump administration threatens California officials if noncitizens vote in midterms",
+  "source_summary": "Justice department warns election officials of prosecution if they ‘knowingly tabulate ballots’ cast by noncitizens The Trump administration is escalating its fight with California ahead of next month’s midterm elections , warning that local officials who process and tabulate ballots submitted by suspected noncitizen voters are putting themselves at risk of criminal investigation and potential prosecution. The letter on Friday from senior justice department officials and obtained first by the Associated Press is the latest salvo in an ongoing tussle with heavily Democratic California, coming just a day after the Trump administration sued the state to prevent it from counting mail-in ballots from people the federal government has identified as “likely” noncitizens until their immigration status can be confirmed.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Trump administration",
+   "Donald Trump",
+   "Law (US)",
+   "US voting rights",
+   "US politics",
+   "California",
+   "West Coast",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/8a8dbce0be7f01b53762193a2684b1f3bc86dfd5/672_0_6724_5382/master/6724.jpg?width=700&quality=85&auto=format&fit=max&s=1d04a5eca4eef9ed174da2e940f53939",
+  "published": "2026-10-16T23:11:24+00:00",
+  "headline": "Trump Administration Warns California Officials Over Noncitizen Ballots",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Justice Department sent a letter to California election officials warning that anyone who \"knowingly tabulates\" ballots cast by noncitizens could face criminal investigation and possible prosecution. The warning, obtained by the Associated Press, was issued on Friday by senior DOJ officials as the state prepares for the November midterm elections."
+   },
+   {
+    "type": "p",
+    "text": "The notice follows a lawsuit filed by the Trump administration seeking to block California from counting mail‑in ballots submitted by individuals the federal government has flagged as \"likely\" noncitizens until their immigration status is verified. The administration has framed the action as a safeguard against illegal voting, while California officials argue it undermines voter participation in a heavily Democratic state."
+   },
+   {
+    "type": "p",
+    "text": "The dispute highlights a growing confrontation between the federal government and California over election administration, with the DOJ threatening enforcement actions against local officials who process the contested ballots."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute illustrates how federal immigration enforcement is being linked to election administration, raising concerns about voter access and legal conflicts between Washington and states like California."
+   }
+  ],
+  "key_points": [
+   "The DOJ warned California officials that knowingly counting noncitizen ballots could lead to criminal prosecution.",
+   "The warning comes after a federal lawsuit aimed at stopping the state from counting mail‑in ballots from people identified as likely noncitizens.",
+   "The clash underscores a broader federal‑state battle over election rules ahead of the 2026 midterms."
+  ],
+  "meta_description": "Justice Department warns California officials of prosecution for counting noncitizen ballots, intensifying a federal‑state clash ahead of the 2026…",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump administration",
+   "California elections",
+   "noncitizen voting",
+   "Justice Department",
+   "midterm elections"
+  ],
+  "slug": "trump-administration-warns-california-officials-over-noncitizen-ballots-9075db",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:20Z"
+ },
+ {
+  "id": "ff61d93f10142060",
+  "source_url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o",
+  "source": "BBC News",
+  "source_title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+  "source_summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
+  "published": "2026-10-16T23:07:38+00:00",
+  "headline": "Teacher Confronts School Attacker Before Armed Father Fires Multiple Shots",
+  "body": [
+   {
+    "type": "p",
+    "text": "Police said a 16-year-old former pupil entered a primary school in Oregon and targeted a special educational needs classroom. A teacher intervened, confronting the suspect as the attack unfolded."
+   },
+   {
+    "type": "p",
+    "text": "During the struggle, the suspect’s father, who was armed, arrived on the scene and discharged his weapon several times, striking the teenager. The incident ended with the suspect injured and authorities taking him into custody."
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights concerns about school safety and the role of armed individuals responding to active‑shooter situations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event underscores ongoing debates in the US and Europe about school security measures and the impact of armed civilians intervening in violent incidents."
+   }
+  ],
+  "key_points": [
+   "A former student targeted a special needs classroom at an Oregon primary school.",
+   "A teacher confronted the attacker before the suspect’s armed father shot him multiple times.",
+   "Police have taken the 16‑year‑old suspect into custody."
+  ],
+  "meta_description": "A teacher confronted a 16‑year‑old attacker at an Oregon primary school before the suspect's armed father shot him multiple times.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "school safety",
+   "Oregon",
+   "armed response",
+   "special needs education",
+   "police"
+  ],
+  "slug": "teacher-confronts-school-attacker-before-armed-father-fires-multiple-ff61d9",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:16Z"
+ },
+ {
+  "id": "c383407eb8b04b19",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo",
+  "source": "BBC News",
+  "source_title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+  "source_summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f50/live/e57d8d50-c8c1-11f1-bdfb-e3788aeae9ec.jpg",
+  "published": "2026-10-16T23:07:18+00:00",
+  "headline": "German Steakhouse Heiress Trial Over Child Abduction Allegations",
+  "body": [
+   {
+    "type": "p",
+    "text": "A high‑security courtroom in Hamburg has been the venue for a prolonged legal battle involving Christina Block, the heiress of a well‑known German steakhouse chain. For the past 15 months, the trial has focused on accusations that Block ordered the kidnapping of her own children."
+   },
+   {
+    "type": "p",
+    "text": "Prosecutors allege that Block orchestrated the abduction, while her defense has contested the charges. The case has drawn significant media attention in Germany, highlighting concerns about wealth, power, and the lengths some may go to protect personal interests."
+   },
+   {
+    "type": "p",
+    "text": "The proceedings remain ongoing, with the court expected to deliver a verdict after the extensive evidentiary hearings. Observers note that the trial underscores the challenges of investigating crimes that involve high‑profile individuals and complex family dynamics."
+   }
+  ],
+  "key_points": [
+   "Christina Block, a German steakhouse heiress, is on trial for allegedly ordering her children's abduction.",
+   "The case has been heard in a high‑security Hamburg courtroom for 15 months.",
+   "The trial highlights legal scrutiny of wealthy individuals in Germany."
+  ],
+  "meta_description": "German steakhouse heiress Christina Block faces trial in Hamburg for alleged child abduction, after 15 months of high‑security hearings.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Germany",
+   "legal trial",
+   "Christina Block",
+   "child abduction",
+   "Hamburg court"
+  ],
+  "slug": "german-steakhouse-heiress-trial-over-child-abduction-allegations-c38340",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:32Z"
+ },
+ {
+  "id": "ca576dc48786ea4b",
+  "source_url": "https://www.nytimes.com/2026/10/16/business/media/mlb-playoffs-commercials-sydney-sweeney-novig.html",
+  "source": "The New York Times",
+  "source_title": "M.L.B. Playoff Ads With Sydney Sweeney and Megan Fox Draw Backlash",
+  "source_summary": "Commercials with Sydney Sweeney promoting a gambling platform and Megan Fox endorsing male enhancement have rankled fans, and even athletes. Who is in charge?",
+  "source_tags": [
+   "Advertising and Marketing",
+   "Baseball",
+   "Television",
+   "Playoff Games",
+   "Social Media",
+   "Gambling",
+   "Online Advertising",
+   "Prediction Markets",
+   "Athletics and Sports",
+   "Fox Sports"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16xp-advertising-bwgm/16xp-advertising-bwgm-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T23:04:17+00:00",
+  "headline": "MLB Playoff Ads Featuring Sydney Sweeney and Megan Fox Spark Backlash",
+  "body": [
+   {
+    "type": "p",
+    "text": "During the 2026 Major League Baseball playoffs, two high‑profile commercials have drawn criticism. Actress Sydney Sweeney appears in a spot promoting a gambling platform, while Megan Fox fronts an advertisement for a male‑enhancement product. Both ads were aired alongside game coverage and quickly attracted attention on social media."
+   },
+   {
+    "type": "p",
+    "text": "Fans and several athletes have expressed disapproval, arguing that the promotions are inappropriate for a sports audience and could encourage risky behavior. The backlash has prompted discussions about the responsibility of leagues and advertisers in selecting endorsers for televised events."
+   },
+   {
+    "type": "p",
+    "text": "The controversy has also raised questions about who oversees the approval of such sponsorships within MLB’s marketing structure. While the league has not issued a formal statement, the debate highlights growing scrutiny of commercial partnerships in professional sports."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The backlash underscores increasing public concern about the influence of gambling and health‑related advertising in major sports events."
+   }
+  ],
+  "key_points": [
+   "Sydney Sweeney and Megan Fox starred in MLB playoff ads for a gambling platform and a male‑enhancement product, respectively.",
+   "Fans and athletes have criticized the ads as unsuitable for a sports broadcast.",
+   "The incident has sparked debate over MLB’s oversight of advertising partnerships."
+  ],
+  "meta_description": "MLB playoff commercials featuring Sydney Sweeney and Megan Fox face fan and athlete backlash over gambling and male‑enhancement ads.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "MLB",
+   "advertising",
+   "Sydney Sweeney",
+   "Megan Fox",
+   "backlash",
+   "gambling"
+  ],
+  "slug": "mlb-playoff-ads-featuring-sydney-sweeney-megan-fox-spark-ca576d",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:28Z"
+ },
+ {
+  "id": "4225c3f85c5336e6",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
+  "source": "The Guardian",
+  "source_title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
+  "source_summary": "President appears at rally for struggling Mike Collins, dismisses critics and touts ‘most successful’ two-year run At a rally in north Georgia, Donald Trump again claimed that the 2020 election in Georgia was fraudulent, alleging that the election of US senator Jon Ossoff was illegitimate. Ossoff, who faces US congressman Mike Collins in November, does not represent Georgia’s values, Trump said.",
+  "source_tags": [
+   "Donald Trump",
+   "US news",
+   "US politics",
+   "Jon Ossoff",
+   "World news",
+   "Georgia",
+   "US Senate",
+   "US Congress",
+   "Democrats",
+   "US midterm elections 2026"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/6e11f1a1e4436c44c59a6792b0742b141c7aca94/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=6a70141bd2ff29a60b41e306fdfffb84",
+  "published": "2026-10-16T22:59:37+00:00",
+  "headline": "Trump Declares Georgia Senate Election Illegitimate at Rally for Mike Collins, Targets Jon Ossoff",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a campaign event in northern Georgia, former president Donald Trump repeated his claim that the 2020 election in the state was fraudulent, saying the victory of Democratic Senate candidate Jon Ossoff was illegitimate. Trump framed the claim as part of his support for Republican Congressman Mike Collins, who is challenging Ossoff in the November race."
+   },
+   {
+    "type": "p",
+    "text": "Speaking to a crowd of supporters, Trump dismissed criticism of his allegations and praised his own two‑year tenure as “the most successful.” He argued that Ossoff does not reflect Georgia’s values and urged voters to back Collins as the alternative."
+   },
+   {
+    "type": "p",
+    "text": "The rally underscored the continued use of election‑integrity rhetoric by Trump and his allies as they seek to influence down‑ballot contests ahead of the 2026 midterm elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The statements reflect how former presidents can shape voter perceptions of election legitimacy, a concern for both U.S. and European observers of democratic processes."
+   }
+  ],
+  "key_points": [
+   "Donald Trump claimed the 2020 Georgia election was fraudulent and called Jon Ossoff’s Senate win illegitimate.",
+   "Trump used the rally to promote Republican challenger Mike Collins in the upcoming Senate race.",
+   "The remarks highlight ongoing election‑fraud narratives influencing upcoming elections."
+  ],
+  "meta_description": "Trump alleges Georgia's 2020 election was fraudulent and attacks Jon Ossoff while backing Mike Collins at a rally.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Georgia",
+   "Senate race",
+   "Jon Ossoff",
+   "Mike Collins",
+   "election fraud"
+  ],
+  "slug": "trump-declares-georgia-senate-election-illegitimate-rally-mike-collins-4225c3",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:36Z"
+ },
+ {
+  "id": "cb4458cafd2f99b5",
+  "source_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+  "source": "The Verge",
+  "source_title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+  "source_summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
+  "source_tags": [
+   "Apple",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-16T22:51:22+00:00",
+  "headline": "Apple Bans AI ‘Nudify’ Apps That Create Non‑Consensual Images",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple has updated its App Store guidelines to explicitly prohibit “nudify” applications that use artificial intelligence to generate intimate images of individuals without their consent. The new rule targets AI tools that can produce realistic sexualized depictions, including of minors, and adds them to the list of disallowed content."
+   },
+   {
+    "type": "p",
+    "text": "The change follows a wave of criticism after users on the social platform X employed the AI chatbot Grok earlier this year to create non‑consensual, sexualized deepfakes. While Apple faced pressure to act, it did not remove X or the Grok service from the App Store, prompting calls for stricter enforcement."
+   },
+   {
+    "type": "p",
+    "text": "Developers whose apps fall under the new definition will need to remove or redesign features that could be used for non‑consensual image generation, or risk having their apps rejected during review."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The policy aims to protect privacy and prevent the spread of non‑consensual deepfakes, a concern for users and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Apple now bans AI “nudify” apps that create non‑consensual intimate images.",
+   "The rule change responds to backlash over deepfake abuse using X’s Grok AI.",
+   "Apps violating the new policy will be rejected from the App Store."
+  ],
+  "meta_description": "Apple updates App Store rules to ban AI “nudify” apps that generate non‑consensual intimate images, after criticism over deepfake abuse.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "App Store",
+   "AI",
+   "deepfakes",
+   "privacy",
+   "regulation"
+  ],
+  "slug": "apple-bans-ai-nudify-apps-that-create-nonconsensual-images-cb4458",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:24Z"
+ },
+ {
+  "id": "92bfb7c64075a969",
+  "source_url": "https://www.nytimes.com/2026/10/16/us/politics/drones-border-restrictions.html",
+  "source": "The New York Times",
+  "source_title": "Trump Administration Restricts Drone Activity Along U.S.-Mexico Border",
+  "source_summary": "The new restrictions ban unauthorized drone flights within a nautical mile of the southern border, up to 400 feet in the air.",
+  "source_tags": [
+   "Drones (Pilotless Planes)",
+   "Illegal Immigration",
+   "United States Politics and Government",
+   "Airlines and Airplanes",
+   "Regulation and Deregulation of Industry",
+   "Airport Security",
+   "Drug Cartels",
+   "Politics and Government",
+   "Defense Department",
+   "Federal Aviation Administration"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16dc-drones-border-gthv/16dc-drones-border-gthv-mediumSquareAt3X.jpg",
+  "published": "2026-10-16T22:43:09+00:00",
+  "headline": "Trump Administration Bans Unauthorized Drones Near Mexico Border",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Biden administration announced new restrictions that prohibit any unauthorized drone flights within one nautical mile of the U.S.-Mexico southern border. The rule also limits altitude to 400 feet for any permitted operations in the zone."
+   },
+   {
+    "type": "p",
+    "text": "The measure is intended to prevent illegal surveillance and smuggling activities that have leveraged small unmanned aircraft. Enforcement will be carried out by Customs and Border Protection, which can seize or disable drones that violate the ban."
+   },
+   {
+    "type": "p",
+    "text": "The policy applies to all private and commercial drone operators, while law‑enforcement agencies may request exemptions through a formal approval process. Violators could face civil penalties and seizure of equipment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The restriction aims to strengthen border security by limiting aerial surveillance that could aid illegal crossings, a concern for both U.S. and neighboring countries."
+   }
+  ],
+  "key_points": [
+   "Unauthorized drones are now banned within one nautical mile of the U.S.-Mexico border and below 400 feet.",
+   "Customs and Border Protection will enforce the rule and may seize non‑compliant aircraft.",
+   "Law‑enforcement agencies can obtain exemptions via a formal request."
+  ],
+  "meta_description": "New U.S. rule bans unauthorized drones within a mile of the Mexico border and below 400 feet, boosting border security.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "drone",
+   "border security",
+   "Trump administration",
+   "Mexico",
+   "U.S. policy"
+  ],
+  "slug": "trump-administration-bans-unauthorized-drones-near-mexico-border-92bfb7",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:44Z"
+ },
+ {
+  "id": "7d47682a4803b926",
+  "source_url": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Brazil: Amazon deforestation lowest in nearly 40 years",
+  "source_summary": "The latest figures show that 3,335 square kilometers of the Amazon rainforest were cleared in the year ending in July, the lowest level since 1988. The drop has been described as an \"historic achievement.\"",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-16T22:30:00+00:00",
+  "headline": "Amazon Deforestation Hits Lowest Level Since 1988, Brazil Says",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazil's latest environmental data show that 3,335 square kilometres of the Amazon rainforest were cleared in the twelve‑month period ending in July. This figure represents the smallest amount of deforestation recorded since 1988, according to the government agency that monitors forest loss."
+   },
+   {
+    "type": "p",
+    "text": "Officials described the decline as an \"historic achievement\" and highlighted the role of recent enforcement actions and increased monitoring in curbing illegal logging. The reduction follows several years of heightened scrutiny and policy measures aimed at protecting the basin."
+   },
+   {
+    "type": "p",
+    "text": "While the numbers mark a significant improvement, experts caution that continued vigilance is needed to sustain the trend and prevent a rebound in forest clearing."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Amazon influences global climate patterns, and reduced forest loss can affect carbon emissions and biodiversity, issues of interest to the United States and European nations."
+   }
+  ],
+  "key_points": [
+   "Deforestation in the Amazon fell to 3,335 sq km in the year to July, the lowest since 1988.",
+   "Brazilian authorities called the drop an historic achievement linked to stronger enforcement.",
+   "Ongoing monitoring will be essential to maintain the downward trajectory."
+  ],
+  "meta_description": "Brazil reports Amazon deforestation at its lowest since 1988, calling the drop an historic achievement.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Amazon",
+   "deforestation",
+   "Brazil",
+   "environment",
+   "climate",
+   "forestry"
+  ],
+  "slug": "amazon-deforestation-hits-lowest-level-since-1988-brazil-says-7d4768",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:40Z"
+ },
+ {
   "id": "3395b49839809674",
   "source_url": "https://www.nytimes.com/2026/10/16/us/politics/appeals-court-trump-presidential-records.html",
   "source": "The New York Times",
@@ -1359,6 +1999,59 @@
   "slug": "manchester-city-faces-major-hurdles-financial-rules-appeal-7a3dcc",
   "reading_minutes": 1,
   "added": "2026-10-16T18:46:15Z"
+ },
+ {
+  "id": "e5731ffc9ee1d730",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o",
+  "source": "BBC Sport",
+  "source_title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
+  "source_summary": "Alex Scott's sudden departure from her Disney+ presenter role reveals a pressing challenge for broadcasters of women's football.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/198d/live/498a8450-c94f-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-16T15:49:55+00:00",
+  "headline": "Alex Scott's Disney+ Exit Shows Broadcaster Issues in Women's Football",
+  "body": [
+   {
+    "type": "p",
+    "text": "Alex Scott’s abrupt departure from her presenting role on Disney+ has sparked discussion about the broader difficulties faced by broadcasters when covering women’s football. The BBC Sport piece notes that her exit underscores a “pressing challenge” for networks seeking to invest in the sport’s growing audience."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers point to the need for consistent scheduling, adequate resources and a clear strategic vision to retain talent and attract viewers. Without these elements, broadcasters risk losing high‑profile presenters and undermining the credibility of women’s football coverage."
+   },
+   {
+    "type": "p",
+    "text": "The situation highlights a tension between the commercial ambitions of streaming platforms and the practical realities of delivering quality coverage for a sport that is rapidly gaining fans worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Strong media support is crucial as women’s football attracts increasing viewership and sponsorship in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Alex Scott left Disney+ abruptly, raising concerns about broadcaster commitment to women’s football.",
+   "The incident reflects wider industry challenges such as scheduling, funding and talent retention.",
+   "Improving coverage is seen as essential for sustaining the sport’s expanding global audience."
+  ],
+  "meta_description": "Alex Scott’s Disney+ exit highlights challenges broadcasters face in delivering consistent, well‑funded coverage of women's football.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alex Scott",
+   "Disney+",
+   "women's football",
+   "broadcasting",
+   "media coverage"
+  ],
+  "slug": "alex-scott-s-disney-exit-shows-broadcaster-issues-women-e5731f",
+  "reading_minutes": 1,
+  "added": "2026-10-17T00:20:49Z"
  },
  {
   "id": "b463f968d19d2749",
