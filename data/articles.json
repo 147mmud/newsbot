@@ -1,5 +1,694 @@
 [
  {
+  "id": "ecae77816bab8aa8",
+  "source_url": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats/a-79688819?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "West Bank: Israeli settlers attack EU diplomats",
+  "source_summary": "A group of Israeli settlers attacked vehicles carrying European diplomats in the West Bank. Belgium has condemned the attack.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-17T16:29:00+00:00",
+  "headline": "Israeli Settlers Assault Vehicles Carrying EU Diplomats in West Bank",
+  "body": [
+   {
+    "type": "p",
+    "text": "A group of Israeli settlers confronted and attacked vehicles transporting European Union diplomats in the occupied West Bank, according to the German news outlet DW. The incident occurred as the convoy was traveling through the area, and the settlers used stones and other objects to damage the cars and intimidate the officials."
+   },
+   {
+    "type": "p",
+    "text": "EU representatives were unharmed, but the attack prompted swift condemnation from several member states. Belgium publicly denounced the violence, calling it an unacceptable breach of diplomatic protection and urging Israeli authorities to investigate and hold those responsible accountable."
+   },
+   {
+    "type": "p",
+    "text": "The episode adds to a series of tensions surrounding settlement activity and the safety of foreign missions operating in the contested territory. Israeli security forces have been urged to increase protection for diplomatic convoys amid rising concerns over settler aggression."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack raises concerns about the safety of EU missions in the region and could strain diplomatic relations between the EU and Israel."
+   }
+  ],
+  "key_points": [
+   "Israeli settlers attacked EU diplomatic vehicles in the West Bank, causing property damage but no injuries.",
+   "Belgium condemned the assault and called for an investigation by Israeli authorities.",
+   "The incident highlights ongoing security risks for foreign diplomats in the occupied territories."
+  ],
+  "meta_description": "Israeli settlers attacked EU diplomats' convoy in the West Bank; Belgium condemned the assault, urging an investigation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "EU",
+   "West Bank",
+   "settlers",
+   "diplomacy",
+   "Belgium"
+  ],
+  "slug": "israeli-settlers-assault-vehicles-carrying-eu-diplomats-west-bank-ecae77",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:05Z"
+ },
+ {
+  "id": "d41e642a008a08d6",
+  "source_url": "https://www.nytimes.com/2026/10/17/us/politics/susan-collins-troy-jackson-shut-up-debate.html",
+  "source": "The New York Times",
+  "source_title": "Susan Collins Says Rival’s ‘Oh, Shut Up’ Comment Reflects How He Treats Women",
+  "source_summary": "Ms. Collins, a Republican running in a crucial race, called the debate remark by her opponent, Troy Jackson, “very telling.” Mr. Jackson has defended his comment, and his campaign said Ms. Collins had run a campaign based on personal attacks.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Collins, Susan M",
+   "Jackson, Troy D (1968- )",
+   "Maine",
+   "Debates (Political)",
+   "Elections, Senate"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17pol-collins-maine-debate-tgkj/17pol-collins-maine-debate-tgkj-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T16:23:36+00:00",
+  "headline": "Susan Collins Criticizes Rival’s ‘Oh, Shut Up’ Remark as Evidence of Misogyny",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republican Senate candidate Susan Collins described her opponent Troy Jackson's \"Oh, shut up\" remark during a recent debate as \"very telling\" of how he treats women. Collins said the comment underscored a broader pattern of disrespect toward female politicians."
+   },
+   {
+    "type": "p",
+    "text": "Jackson defended the comment, arguing it was taken out of context. His campaign responded to Collins's criticism by accusing her of running a campaign built on personal attacks rather than policy discussions."
+   },
+   {
+    "type": "p",
+    "text": "The exchange has intensified the rhetoric in a race that both parties view as pivotal for control of the Senate. Both candidates have pledged to focus on their legislative records, but the dispute over the debate remark highlights the role of gender dynamics in the campaign."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident reflects how gender issues are influencing a key U.S. Senate contest, with potential implications for voter perceptions in both America and Europe."
+   }
+  ],
+  "key_points": [
+   "Susan Collins labeled Troy Jackson's \"Oh, shut up\" comment as indicative of his treatment of women.",
+   "Jackson defended the remark and his campaign accused Collins of personal attacks.",
+   "The controversy adds tension to a closely watched Senate race."
+  ],
+  "meta_description": "Susan Collins calls Troy Jackson's debate remark \"very telling\" of his treatment of women, sparking a heated exchange in a crucial Senate race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Susan Collins",
+   "Troy Jackson",
+   "debate remark",
+   "misogyny",
+   "campaign rhetoric"
+  ],
+  "slug": "susan-collins-criticizes-rivals-oh-shut-up-remark-evidence-d41e64",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:09Z"
+ },
+ {
+  "id": "74b4e7223b011bda",
+  "source_url": "https://www.nytimes.com/2026/10/17/us/politics/trump-allies-grenell-mildon-congo.html",
+  "source": "The New York Times",
+  "source_title": "Dispute Between Trump Allies Centers on Payment From Congo",
+  "source_summary": "The White House inquiry is focused on diverging accounts from Richard Grenell and Alina Habba Mildon about a $17 million transfer from a government account in the African country to a Texas defense firm.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "Kennedy, John F, Center for the Performing Arts",
+   "Grenell, Richard",
+   "Habba, Alina",
+   "Mildon, Turhan",
+   "Scharf, William O",
+   "Trump, Donald J",
+   "Congo, Democratic Republic of (Congo-Kinshasa)",
+   "Venezuela"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17dc-investigate-jmkz/17dc-investigate-jmkz-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T16:20:42+00:00",
+  "headline": "Trump Allies Clash Over $17 Million Congo Transfer to Texas Firm",
+  "body": [
+   {
+    "type": "p",
+    "text": "A White House inquiry is examining conflicting statements from Richard Grenell and Alina Habba Mildon regarding a $17 million payment that moved from a Congolese government account to a defense contractor in Texas. The dispute centers on how the funds were authorized and whether proper protocols were followed."
+   },
+   {
+    "type": "p",
+    "text": "Grenell asserts that the transfer complied with all legal requirements, while Habba Mildon contends that the payment was irregular and lacked sufficient oversight. Both parties are prominent supporters of former President Donald Trump, adding a political dimension to the investigation."
+   },
+   {
+    "type": "p",
+    "text": "The White House has not yet released a definitive conclusion, but the probe highlights ongoing scrutiny of foreign money flows linked to U.S. defense firms and the political networks surrounding former administration figures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores concerns about foreign influence and financial oversight in U.S. defense contracts, issues of interest to American and European policymakers."
+   }
+  ],
+  "key_points": [
+   "The White House is investigating a $17 million transfer from Congo to a Texas defense firm.",
+   "Richard Grenell and Alina Habba Mildon provide opposing accounts of the payment’s legality.",
+   "The dispute involves prominent Trump allies, raising political implications."
+  ],
+  "meta_description": "White House probe examines $17 million Congo-to-Texas defense firm transfer amid clash between Trump allies Grenell and Habba Mildon.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump allies",
+   "foreign payments",
+   "defense contracts",
+   "White House investigation",
+   "Congo"
+  ],
+  "slug": "trump-allies-clash-over-17-million-congo-transfer-texas-74b4e7",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:24Z"
+ },
+ {
+  "id": "f76392c23980e2fc",
+  "source_url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
+  "source": "The New York Times",
+  "source_title": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
+  "source_summary": "Leo XIV had been treated for lung cancer at Gemelli Hospital in Rome.",
+  "source_tags": [
+   "Leo XIV",
+   "Roman Catholic Church",
+   "Gemelli Hospital (Rome, Italy)",
+   "Popes",
+   "Lungs",
+   "Lung Cancer",
+   "Hospitals"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T16:17:00+00:00",
+  "headline": "Pope Leo XIV Discharged From Rome Hospital After Lung Cancer Surgery",
+  "body": [
+   {
+    "type": "p",
+    "text": "Pope Leo XIV was released from Gemelli Hospital in Rome on Tuesday, a few days after undergoing surgery for lung cancer. Hospital officials confirmed that the pontiff’s condition was stable and that he was ready to resume his duties."
+   },
+   {
+    "type": "p",
+    "text": "The surgery, performed earlier in the week, was described by the medical team as successful, and the pope is expected to continue his recovery at the Vatican. No further details about the procedure or follow‑up treatment were provided."
+   },
+   {
+    "type": "p",
+    "text": "The Vatican has not issued a formal statement beyond confirming the pope’s discharge, and the Holy See’s press office said the pontiff will be back to his regular schedule as soon as his health permits."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The pope’s health is closely watched by Catholics worldwide, and his swift discharge signals a positive outlook for the Vatican’s leadership."
+   }
+  ],
+  "key_points": [
+   "Pope Leo XIV left Rome’s Gemelli Hospital after lung cancer surgery.",
+   "Hospital officials said his condition is stable and he will resume duties soon.",
+   "The Vatican confirmed the discharge but gave no further medical details."
+  ],
+  "meta_description": "Pope Leo XIV has been discharged from Rome's Gemelli Hospital following successful lung cancer surgery, officials say his condition is stable.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pope",
+   "Leo XIV",
+   "lung cancer",
+   "surgery",
+   "Rome",
+   "Catholic Church"
+  ],
+  "slug": "pope-leo-xiv-discharged-from-rome-hospital-after-lung-f76392",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:21Z"
+ },
+ {
+  "id": "1d48a568addde72b",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o",
+  "source": "BBC Sport",
+  "source_title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+  "source_summary": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3ff/live/157a6f70-ca3c-11f1-9ab2-b325ce61f9d2.jpg",
+  "published": "2026-10-17T16:02:31+00:00",
+  "headline": "Chelsea Keeper Martinez Hospitalised After First Clean Sheet",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chelsea goalkeeper Emiliano Martinez was taken to hospital on Saturday following the club's 2-0 victory over Everton. The medical move was described as precautionary, with club officials saying no serious injury was reported during the match."
+   },
+   {
+    "type": "p",
+    "text": "The win gave Chelsea their first clean sheet in nine months, ending a prolonged period without a shutout for the London side. Martinez made several key saves that helped preserve the lead and secure the three points at Goodison Park."
+   },
+   {
+    "type": "p",
+    "text": "Chelsea did not provide further details about the tests or the expected duration of Martinez's absence. The team will assess his fitness ahead of their upcoming fixtures in the Premier League schedule."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A clean sheet ends a long defensive slump for Chelsea, while Martinez's health status could affect the team's upcoming Premier League matches."
+   }
+  ],
+  "key_points": [
+   "Emiliano Martinez was taken to hospital after Chelsea's 2-0 win over Everton.",
+   "The match marked Chelsea's first clean sheet in nine months.",
+   "The club said the hospital visit was precautionary and gave no injury details."
+  ],
+  "meta_description": "Chelsea's Emiliano Martinez was hospitalized after the club's 2-0 win over Everton, their first clean sheet in nine months.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chelsea",
+   "Emiliano Martinez",
+   "Premier League",
+   "hospital",
+   "clean sheet"
+  ],
+  "slug": "chelsea-keeper-martinez-hospitalised-after-first-clean-sheet-1d48a5",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:13Z"
+ },
+ {
+  "id": "64d9772ffcd0bf72",
+  "source_url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+  "source": "The New York Times",
+  "source_title": "What to Know About the Violent Protests in Albania",
+  "source_summary": "Student demonstrations over education converged with broader protests against rising living costs and a luxury development linked to Jared Kushner, President Trump’s son-in-law.",
+  "source_tags": [
+   "Demonstrations, Protests and Riots",
+   "Police",
+   "Education (K-12)",
+   "Environment",
+   "Vandalism",
+   "Rama, Edi",
+   "Albania",
+   "Sazan (Albania)",
+   "Tirana (Albania)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-albania-protests-wtk-fbtm/17int-albania-protests-wtk-fbtm-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T16:00:58+00:00",
+  "headline": "Violent Student and Cost-of-Living Protests Erupt in Albania",
+  "body": [
+   {
+    "type": "p",
+    "text": "Student demonstrations demanding changes to the education system merged with wider protests over soaring living costs in Albania, turning violent in several cities on Saturday."
+   },
+   {
+    "type": "p",
+    "text": "The unrest was further inflamed by opposition to a luxury development project that local activists say is tied to Jared Kushner, the son‑in‑law of former President Donald Trump. Protesters allege the project benefits foreign interests while ignoring ordinary citizens' economic hardships."
+   },
+   {
+    "type": "p",
+    "text": "Police responded with tear gas and arrests as clashes intensified, prompting authorities to call for calm and a dialogue with student leaders and community representatives."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The involvement of a high‑profile U.S. political figure highlights how foreign business ties can spark domestic unrest, a concern for both American and European observers."
+   }
+  ],
+  "key_points": [
+   "Student protests over education joined broader anti‑cost‑of‑living demonstrations in Albania.",
+   "A luxury development linked to Jared Kushner became a flashpoint for the unrest.",
+   "Police used tear gas and made arrests as the protests turned violent."
+  ],
+  "meta_description": "Violent protests in Albania combine student education demands with anti‑cost‑of‑living anger over a Kushner‑linked luxury project.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Albania",
+   "protests",
+   "cost of living",
+   "education",
+   "Jared Kushner",
+   "development"
+  ],
+  "slug": "violent-student-cost-living-protests-erupt-albania-64d977",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:37Z"
+ },
+ {
+  "id": "9c715d5779cdec1b",
+  "source_url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+  "source": "TechCrunch",
+  "source_title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+  "source_summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+  "source_tags": [
+   "Hardware",
+   "Gadgets",
+   "Ember"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-17T15:30:00+00:00",
+  "headline": "Ember Launches App-Free Temperature‑Controlled Mug for Tea Lovers",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ember has introduced a new version of its temperature‑controlled mug that eliminates the need to open a smartphone app to set the drink’s heat. The updated design lets users adjust the temperature directly on the mug, streamlining the experience for daily tea or coffee drinkers."
+   },
+   {
+    "type": "p",
+    "text": "The change focuses on convenience, allowing users to fine‑tune their beverage temperature with a simple on‑device control. Ember says the new interface maintains the brand’s signature precision while removing a step that many found cumbersome."
+   },
+   {
+    "type": "p",
+    "text": "Early reviewers note that the mug’s ability to keep drinks at the desired warmth without app interaction enhances nightly rituals, making it easier to enjoy a perfectly heated cup before bed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For consumers in the US and Europe, the app‑free feature reduces reliance on smartphones, offering a more seamless smart‑home gadget experience."
+   }
+  ],
+  "key_points": [
+   "Ember’s new mug lets users set temperature without opening an app.",
+   "On‑device controls preserve precise heat management for beverages.",
+   "The redesign aims to simplify daily tea and coffee routines."
+  ],
+  "meta_description": "Ember's latest mug lets you adjust drink temperature directly on the device, removing the need for an app.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ember",
+   "smart mug",
+   "temperature control",
+   "tea",
+   "coffee",
+   "consumer tech"
+  ],
+  "slug": "ember-launches-app-free-temperaturecontrolled-mug-tea-lovers-9c715d",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:17Z"
+ },
+ {
+  "id": "0933dfbe3620c51b",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpvgj4837r1o",
+  "source": "BBC Sport",
+  "source_title": "Glasgow get bonus-point win at emotion-filled Sale",
+  "source_summary": "Glasgow Warriors pull away to record an impressive bonus-point victory over Sale Sharks in the Investec Champions Cup at an emotional CorpAcq Stadium.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcf5/live/bed838e0-ca28-11f1-a718-8f4bc8d2cdf5.jpg",
+  "published": "2026-10-17T15:13:21+00:00",
+  "headline": "Glasgow Warriors Secure Bonus-Point Victory Over Sale Sharks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Glasgow Warriors pulled away in the Investec Champions Cup to claim a bonus-point win against Sale Sharks at the CorpAcq Stadium. The match, described as emotion‑filled, saw Glasgow extend their lead in the latter stages to secure the decisive points."
+   },
+   {
+    "type": "p",
+    "text": "The victory not only gave Glasgow the full four points for the win but also an extra bonus point for scoring enough tries, strengthening their position in the competition. Sale Sharks were left to regroup after the spirited contest at the newly named venue."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result impacts the standings in one of Europe's premier club rugby tournaments, influencing qualification for later stages."
+   }
+  ],
+  "key_points": [
+   "Glasgow Warriors earned a bonus-point win over Sale Sharks in the Investec Champions Cup.",
+   "The match took place at the CorpAcq Stadium and was noted for its emotional atmosphere."
+  ],
+  "meta_description": "Glasgow Warriors claim a bonus-point win over Sale Sharks in the Investec Champions Cup at CorpAcq Stadium.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Glasgow Warriors",
+   "Sale Sharks",
+   "Investec Champions Cup",
+   "Rugby Union",
+   "CorpAcq Stadium"
+  ],
+  "slug": "glasgow-warriors-secure-bonus-point-victory-over-sale-sharks-0933df",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:28Z"
+ },
+ {
+  "id": "ce81f3c6c7b631a6",
+  "source_url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
+  "source": "The Verge",
+  "source_title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
+  "source_summary": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle formula […]",
+  "source_tags": [
+   "Deals",
+   "Gadgets",
+   "Gaming",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-17T15:00:00+00:00",
+  "headline": "Pikmin 4 Digital Edition Slashed to $39.88 at Walmart",
+  "body": [
+   {
+    "type": "p",
+    "text": "Walmart is offering the digital version of Nintendo's puzzle‑adventure game Pikmin 4 for $39.88, a discount of just over $20 from its regular price. The sale applies to the instant download for the Nintendo Switch platform."
+   },
+   {
+    "type": "p",
+    "text": "The price cut comes ahead of the upcoming $10 update for the Nintendo Switch 2, which is expected to boost the console's appeal among gamers. Pikmin 4 retains the series' signature blend of strategy and exploration, making it a popular choice for both new and returning players."
+   },
+   {
+    "type": "p",
+    "text": "Shoppers can purchase the discounted game directly through Walmart's online store, receiving a digital code that can be redeemed on the Nintendo eShop. The deal is available for a limited time, according to The Verge."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The discount provides a cost‑effective way for gamers in the US and Europe to add a popular Nintendo title to their libraries ahead of the Switch 2 price reduction."
+   }
+  ],
+  "key_points": [
+   "Walmart discounts Pikmin 4 digital copy to $39.88, over $20 off.",
+   "The sale coincides with a forthcoming $10 price update for the Nintendo Switch 2.",
+   "Buyers receive an instant digital download via Walmart’s website."
+  ],
+  "meta_description": "Walmart cuts Pikmin 4 digital price to $39.88, over $20 off, ahead of a $10 Nintendo Switch 2 update.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nintendo",
+   "Pikmin 4",
+   "video game discount",
+   "Walmart",
+   "Switch 2",
+   "digital games"
+  ],
+  "slug": "pikmin-4-digital-edition-slashed-39-88-walmart-ce81f3",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:32Z"
+ },
+ {
+  "id": "f4290472ac1a332c",
+  "source_url": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+  "source": "The Guardian",
+  "source_title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+  "source_summary": "Trump-boosting billionaire was sued over promise to give away $1m per day to random signatories of petition Elon Musk and his ⁠America Pac political action committee said recently that they agreed to settle two ⁠proposed class ⁠actions ​alleging the billionaire entrepreneur defrauded residents in closely contested states before the ⁠2024 US election by promising voters a lottery-style daily $1m giveaway. The plaintiffs, Musk and America Pac ​told the ‌judge overseeing the two ‌related lawsuits in federal court in Austin, Texas, ‌on Thursday that they have reached settlements subject to court approval.",
+  "source_tags": [
+   "Elon Musk",
+   "Arizona",
+   "US elections 2024",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/bf8bbd7f8b3b6d5bbc89131861bc5c6d7c1f51d2/159_0_1367_1093/master/1367.jpg?width=700&quality=85&auto=format&fit=max&s=2c7a62fab2e5483b2f245ae1c78660dd",
+  "published": "2026-10-17T14:42:11+00:00",
+  "headline": "Elon Musk Settles Lawsuits Over 2024 Election Lottery Giveaway Claims",
+  "body": [
+   {
+    "type": "p",
+    "text": "Billionaire entrepreneur Elon Musk and his political action committee, America Pac, have agreed to settle two proposed class‑action lawsuits in federal court in Austin, Texas. The suits alleged that Musk defrauded voters in closely contested states before the 2024 U.S. election by promising a daily $1 million lottery giveaway to anyone who signed a petition."
+   },
+   {
+    "type": "p",
+    "text": "In a filing on Thursday, Musk and America Pac told the presiding judge that the settlements have been reached and are now pending court approval. The lawsuits sought to hold the defendants accountable for what plaintiffs described as deceptive fundraising tactics aimed at influencing the election outcome."
+   },
+   {
+    "type": "p",
+    "text": "The settlements conclude the legal disputes without admission of wrongdoing, and the terms have not been disclosed. The cases highlighted concerns about the use of high‑profile promises to mobilize voters and raise funds during a pivotal election."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The settlement underscores heightened scrutiny of political fundraising tactics that use large‑scale promises to influence voters, a concern for both U.S. and European observers of election integrity."
+   }
+  ],
+  "key_points": [
+   "Elon Musk and his America Pac PAC have settled two class‑action suits alleging fraudulent $1 million daily lottery promises before the 2024 election.",
+   "The settlements were filed in federal court in Austin and await judicial approval.",
+   "The lawsuits focused on alleged deceptive fundraising targeting swing‑state voters."
+  ],
+  "meta_description": "Elon Musk and his America Pac PAC settle lawsuits alleging fraudulent $1 million daily lottery promises before the 2024 election.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "lawsuit",
+   "election",
+   "lottery giveaway",
+   "America Pac",
+   "class action"
+  ],
+  "slug": "elon-musk-settles-lawsuits-over-2024-election-lottery-giveaway-f42904",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:41Z"
+ },
+ {
+  "id": "99d3913c2c248474",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/videos/cw62ydry8kj2o",
+  "source": "BBC Sport",
+  "source_title": "Brown scores stunner as England thrash World Cup debutants Wales",
+  "source_summary": "England beat Women;s Rugby League World Cup debutants Wales 70-6 in their Group A opening game in Perth, Australia.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcf1/live/0284fa00-ca11-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-17T14:30:03+00:00",
+  "headline": "England Rout Wales 70-6 in Women’s Rugby League World Cup Opener",
+  "body": [
+   {
+    "type": "p",
+    "text": "England opened Group A of the Women’s Rugby League World Cup with a dominant 70-6 victory over debutants Wales in Perth, Australia. The match showcased England’s attacking depth, as they accumulated a series of tries throughout the first half."
+   },
+   {
+    "type": "p",
+    "text": "A highlight of the game came when England’s Brown scored a spectacular try that drew applause from the crowd, underscoring the skill level on display. Wales, playing their first World Cup match, struggled to contain the English side and were unable to mount a sustained challenge."
+   },
+   {
+    "type": "p",
+    "text": "The win positions England strongly for the remainder of the group stage, while Wales will look to regroup after a tough introduction to the tournament."
+   }
+  ],
+  "key_points": [
+   "England defeated Wales 70-6 in the opening Group A match of the Women’s Rugby League World Cup.",
+   "Brown delivered a standout try that was described as a ‘stunner’ by observers.",
+   "The game took place in Perth, Australia, marking Wales’ debut in the competition."
+  ],
+  "meta_description": "England thrashed World Cup debutants Wales 70-6 in Perth, with Brown scoring a spectacular try in the women's rugby league opener.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England",
+   "Wales",
+   "Women's Rugby League",
+   "World Cup",
+   "Brown",
+   "Perth"
+  ],
+  "slug": "england-rout-wales-70-6-womens-rugby-league-world-99d391",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:45Z"
+ },
+ {
+  "id": "79e800af7ff35628",
+  "source_url": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
+  "source": "The Verge",
+  "source_title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
+  "source_summary": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that, though, he created Radiolab, an experimental […]",
+  "source_tags": [
+   "Entertainment",
+   "Interview",
+   "Podcasts",
+   "Report"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Jad-WideEyedPortrait-14-Full.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-17T14:30:00+00:00",
+  "headline": "Jad Abumrad’s Podcast Legacy Includes Peabody Wins and New Shows",
+  "body": [
+   {
+    "type": "p",
+    "text": "Jad Abumrad has become a defining figure in modern podcasting, having created the groundbreaking series Radiolab before moving on to produce award‑winning documentaries. His recent work includes Dolly Parton's America and Fela Kuti: Fear No Man, both of which earned Peabody Awards for their deep cultural examinations."
+   },
+   {
+    "type": "p",
+    "text": "The two new series offer listeners unprecedented insight into the lives and influence of two iconic musicians, blending investigative storytelling with rich sound design. Abumrad’s approach continues to push the boundaries of audio journalism, setting a high bar for narrative podcasts."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that Abumrad’s blend of experimental format and rigorous research has reshaped expectations for what podcasts can achieve, influencing a generation of creators across the United States and abroad."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Abumrad’s acclaimed podcasts set new benchmarks for audio storytelling, influencing both U.S. and European media landscapes."
+   }
+  ],
+  "key_points": [
+   "Jad Abumrad created Radiolab and later produced two Peabody‑winning podcasts about Dolly Parton and Fela Kuti.",
+   "His shows are praised for innovative storytelling and deep cultural analysis.",
+   "Abumrad’s work is redefining standards for narrative podcasting worldwide."
+  ],
+  "meta_description": "Jad Abumrad’s podcasting impact grows with Peabody‑winning series on Dolly Parton and Fela Kuti, reshaping audio journalism.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "podcasting",
+   "Jad Abumrad",
+   "Radiolab",
+   "Peabody Awards",
+   "Dolly Parton's America",
+   "Fela Kuti"
+  ],
+  "slug": "jad-abumrads-podcast-legacy-includes-peabody-wins-new-shows-79e800",
+  "reading_minutes": 1,
+  "added": "2026-10-17T16:38:49Z"
+ },
+ {
   "id": "90c74339363b89b9",
   "source_url": "https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html",
   "source": "The New York Times",
