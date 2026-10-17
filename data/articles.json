@@ -1,5 +1,460 @@
 [
  {
+  "id": "dc86dee642716e09",
+  "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo",
+  "source": "BBC News",
+  "source_title": "European diplomats attacked by Israeli settlers in West Bank",
+  "source_summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+  "published": "2026-10-17T23:52:38+00:00",
+  "headline": "European Diplomats Assaulted by Israeli Settlers in West Bank",
+  "body": [
+   {
+    "type": "p",
+    "text": "A group of European diplomats was attacked by Israeli settlers during a visit to the West Bank, according to reports from the region. The incident involved physical aggression and has drawn condemnation from the Israeli military, which described the actions as unacceptable."
+   },
+   {
+    "type": "p",
+    "text": "Israel's prime minister's office responded by characterising the episode as part of a broader \"smear\" campaign against the country. Officials there suggested that the allegations were being used to tarnish Israel's image internationally."
+   },
+   {
+    "type": "p",
+    "text": "The clash has heightened concerns about the safety of foreign officials operating in contested territories and raised questions about the conduct of settlers in the area."
+   }
+  ],
+  "key_points": [
+   "European diplomats were physically assaulted by Israeli settlers in the West Bank.",
+   "The Israeli military condemned the violence, while the prime minister's office called it a smear campaign."
+  ],
+  "meta_description": "European diplomats were attacked by Israeli settlers in the West Bank, prompting military condemnation and a denial from Israel's prime minister's office.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "European diplomats",
+   "Israeli settlers",
+   "West Bank",
+   "violence",
+   "diplomatic incident"
+  ],
+  "slug": "european-diplomats-assaulted-israeli-settlers-west-bank-dc86de",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:57:49Z"
+ },
+ {
+  "id": "8cd3829ec39222c0",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/17/arizona-nevada-water-rights-colorado-river",
+  "source": "The Guardian",
+  "source_title": "Arizona joins Nevada to fight proposed cuts to their shares of Colorado River",
+  "source_summary": "Move comes after Trump administration announced restrictions that could slash water supplies Arizona has joined Nevada in its legal battle against the Trump administration’s proposed cuts to their shares of the shrinking Colorado River. The move comes after the interior department announced restrictions this summer that could slash the water supplied to lower basin states – Arizona, California and Nevada – over the next two years depending on the river’s condition.",
+  "source_tags": [
+   "Colorado river crisis",
+   "Arizona",
+   "Nevada",
+   "US news",
+   "Rivers",
+   "US politics",
+   "Trump administration",
+   "Environment",
+   "Water"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/f8fe947b0a00f1b3d03b455048ff132f2feafcf9/720_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=c1181147691b33a6b6d128b749bf4d5e",
+  "published": "2026-10-17T23:40:11+00:00",
+  "headline": "Arizona Teams With Nevada to Challenge Trump Water Cut Plans",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arizona has joined Nevada in a legal fight against the Trump administration’s proposal to reduce the states’ allocations from the Colorado River. The interior department announced summer restrictions that could sharply curtail water deliveries to the lower‑basin states—Arizona, California and Nevada—over the next two years, depending on river conditions."
+   },
+   {
+    "type": "p",
+    "text": "The proposed cuts would affect the already shrinking Colorado River, a vital source for agriculture, municipal supplies and industry across the Southwest. Both states argue that the administration’s plan exceeds its authority and threatens long‑standing water‑sharing agreements established under the 1922 Colorado River Compact."
+   },
+   {
+    "type": "p",
+    "text": "The lawsuit seeks to block the restrictions and preserve existing water rights, emphasizing the importance of reliable water supplies for the region’s growing populations and economies. Legal experts note that the case could set precedents for how federal agencies manage interstate water resources amid climate‑driven scarcity."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute highlights growing water scarcity in the American West and could influence how trans‑border water resources are managed globally."
+   }
+  ],
+  "key_points": [
+   "Arizona and Nevada have filed a lawsuit to stop the Trump administration’s proposed Colorado River water cuts.",
+   "The restrictions could dramatically reduce water deliveries to Arizona, California and Nevada over the next two years.",
+   "The case challenges the federal government’s authority to alter long‑standing interstate water‑allocation agreements."
+  ],
+  "meta_description": "Arizona and Nevada sue to block Trump administration cuts to Colorado River water supplies, citing threats to regional water security.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arizona",
+   "Nevada",
+   "Colorado River",
+   "water rights",
+   "Trump administration"
+  ],
+  "slug": "arizona-teams-with-nevada-challenge-trump-water-cut-plans-8cd382",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:57:53Z"
+ },
+ {
+  "id": "f267c9dcd271c189",
+  "source_url": "https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html",
+  "source": "The New York Times",
+  "source_title": "Bernie Sanders Visits Florida to Campaign With Angie Nixon",
+  "source_summary": "Senator Bernie Sanders of Vermont has made a point of investing in Republican-leaning states. He rallied in Tampa for Ms. Nixon, the underdog Democratic nominee for Florida Senate.",
+  "source_tags": [
+   "Florida",
+   "Midterm Elections (2026)",
+   "Elections",
+   "Elections, Senate",
+   "Trump, Donald J",
+   "Sanders, Bernard",
+   "Nixon, Angela (1984- )",
+   "Moody, Ashley Brooke"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17-sanders-nixon-florida-hands-pvfc/17-sanders-nixon-florida-hands-pvfc-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T22:54:25+00:00",
+  "headline": "Bernie Sanders Campaigns in Tampa for Democrat Angie Nixon",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senator Bernie Sanders of Vermont traveled to Tampa, Florida, on Tuesday to rally support for Angie Nixon, the Democratic challenger for the state Senate. The event marked another instance of Sanders focusing his outreach on states that traditionally lean Republican."
+   },
+   {
+    "type": "p",
+    "text": "At the rally, Sanders highlighted Nixon's campaign as an example of progressive candidates seeking to break through in a hostile political environment. Nixon, described in local reports as an underdog, thanked Sanders for his presence and urged voters to consider a change in representation."
+   },
+   {
+    "type": "p",
+    "text": "The visit underscores Sanders' broader strategy of investing time and resources in Republican‑leaning regions ahead of upcoming elections, aiming to expand the Democratic foothold beyond its usual strongholds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Sanders' outreach in a GOP‑dominant state signals the Democratic Party's effort to broaden its appeal ahead of the 2026 midterms."
+   }
+  ],
+  "key_points": [
+   "Senator Bernie Sanders campaigned in Tampa for Democratic Senate candidate Angie Nixon.",
+   "The rally emphasized Sanders' focus on Republican‑leaning states ahead of the election.",
+   "Nixon is positioned as an underdog in the Florida Senate race."
+  ],
+  "meta_description": "Bernie Sanders rallies in Tampa for underdog Democrat Angie Nixon, highlighting a push into Republican‑leaning Florida.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bernie Sanders",
+   "Angie Nixon",
+   "Florida Senate",
+   "Tampa rally",
+   "Democratic campaign"
+  ],
+  "slug": "bernie-sanders-campaigns-tampa-democrat-angie-nixon-f267c9",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:58:05Z"
+ },
+ {
+  "id": "8752684f1750eb68",
+  "source_url": "https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html",
+  "source": "The New York Times",
+  "source_title": "In Midterm Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies",
+  "source_summary": "As he stumps for midterm candidates, the president has been especially eager to talk about the physical appearance of some men.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Collins, Michael A Jr (1967- )",
+   "Husted, Jon A (1967- )",
+   "Jackson, Rick (1954- )",
+   "Ossoff, Jon",
+   "Trump, Donald J",
+   "Georgia",
+   "Ohio"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17pol-trump-men-gjwz/17pol-trump-men-gjwz-mediumSquareAt3X-v3.jpg",
+  "published": "2026-10-17T22:51:49+00:00",
+  "headline": "Trump Praises Male Physiques While Campaigning for Midterm Candidates",
+  "body": [
+   {
+    "type": "p",
+    "text": "During a series of campaign stops for Republican midterm candidates, President Donald Trump repeatedly complimented the physical appearance of several men, focusing on their bodies and fitness. The remarks were made in the context of rally speeches and informal interactions with supporters."
+   },
+   {
+    "type": "p",
+    "text": "Observers noted that the president’s comments on men’s physiques stood out from typical political messaging, drawing attention from media outlets covering the final stretch of the midterm race. The focus on male bodies came as Trump continues to endorse candidates and rally voters ahead of the November elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The president’s focus on personal appearance underscores a shift in campaign tactics that may influence voter perception in the upcoming midterms."
+   }
+  ],
+  "key_points": [
+   "President Trump highlighted men’s physical appearance while campaigning for midterm candidates.",
+   "The comments were noted as unusual political rhetoric during the final weeks before the election."
+  ],
+  "meta_description": "President Trump praised men's bodies while campaigning for midterm candidates, drawing media attention in the election's final weeks.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "midterm elections",
+   "campaign rhetoric",
+   "Republican Party",
+   "political messaging"
+  ],
+  "slug": "trump-praises-male-physiques-while-campaigning-midterm-candidates-875268",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:58:13Z"
+ },
+ {
+  "id": "46c13a3a3d739576",
+  "source_url": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo",
+  "source": "BBC Sport",
+  "source_title": "Dubois destroys Wardley in two rounds to retain title",
+  "source_summary": "WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3f/live/ab9ff830-ca78-11f1-aebd-051362f1d912.jpg",
+  "published": "2026-10-17T22:27:49+00:00",
+  "headline": "Dubois Stops Wardley in Round Two to Retain WBO Title, Reaffirms British Lead",
+  "body": [
+   {
+    "type": "p",
+    "text": "British heavyweight Daniel Dubois defended his WBO championship on Saturday, halting challenger Fabio Wardley in the second round. The bout ended with a decisive stoppage that left little doubt about Dubois’s dominance in the division."
+   },
+   {
+    "type": "p",
+    "text": "The victory underscores Dubois’s position as the foremost heavyweight boxer in the United Kingdom. By retaining his title with a swift and powerful performance, he reinforced his reputation on the international stage."
+   },
+   {
+    "type": "p",
+    "text": "Wardley, who entered the fight as the primary contender, was unable to recover from the early onslaught. The match concluded with Dubois’s corner signaling the end of the contest after just two rounds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Dubois’s dominant defense highlights the resurgence of British heavyweight boxing, a trend watched by fans and promoters across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Daniel Dubois retained his WBO heavyweight title with a second‑round stoppage of Fabio Wardley.",
+   "The win solidifies Dubois’s status as Britain’s leading heavyweight boxer."
+  ],
+  "meta_description": "Daniel Dubois stops Fabio Wardley in round two to keep his WBO heavyweight crown, cementing his lead in British boxing.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "boxing",
+   "heavyweight",
+   "WBO",
+   "Daniel Dubois",
+   "Fabio Wardley",
+   "UK sport"
+  ],
+  "slug": "dubois-stops-wardley-round-two-retain-wbo-title-reaffirms-46c13a",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:57:58Z"
+ },
+ {
+  "id": "a0b37a78c129788b",
+  "source_url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+  "source": "The New York Times",
+  "source_title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+  "source_summary": "Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest.",
+  "source_tags": [
+   "Israel-Gaza War (2023- )",
+   "Israeli Settlements",
+   "Palestinians",
+   "Human Rights and Human Rights Violations",
+   "Vandalism",
+   "Yesh Din",
+   "Washington Post",
+   "Netanyahu, Benjamin",
+   "Belgium",
+   "France"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-westbank-attacks-gzwq/17int-westbank-attacks-gzwq-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T22:15:45+00:00",
+  "headline": "Israeli Settlers Assault Palestinians, Damage EU Car in West Bank",
+  "body": [
+   {
+    "type": "p",
+    "text": "During the olive harvest in the occupied West Bank, a group of Israeli settlers attacked Palestinian residents, according to eyewitnesses. The assault involved physical violence and the throwing of stones, prompting fear among local villagers who were working in the fields."
+   },
+   {
+    "type": "p",
+    "text": "In a separate incident at the same location, the settlers shattered a window of a European diplomatic vehicle, damaging the car used by officials from the European Union. Witnesses said the vehicle was parked near the olive groves when the stone was thrown, and the incident was captured on nearby security cameras."
+   },
+   {
+    "type": "p",
+    "text": "Human rights groups have noted a surge in settler aggression in the territory over recent weeks, linking the rise to heightened tensions during the harvest season. Local authorities have not yet released details on arrests or investigations related to the attacks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attacks raise concerns for regional stability and the safety of European diplomatic staff operating in the contested area."
+   }
+  ],
+  "key_points": [
+   "Settlers attacked Palestinian olive harvesters and broke a European Union vehicle window in the West Bank.",
+   "The incidents occurred amid a reported increase in settler violence during the harvest period."
+  ],
+  "meta_description": "Israeli settlers attacked Palestinians and damaged an EU vehicle during the West Bank olive harvest, highlighting rising settler violence.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "West Bank",
+   "settlers",
+   "Palestinians",
+   "EU",
+   "violence"
+  ],
+  "slug": "israeli-settlers-assault-palestinians-damage-eu-car-west-bank-a0b37a",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:58:01Z"
+ },
+ {
+  "id": "e00f750b3c92de47",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo",
+  "source": "BBC News",
+  "source_title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+  "source_summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
+  "published": "2026-10-17T22:09:50+00:00",
+  "headline": "Luxury Boat With 50m Pool Spotted Near Kim Jong Un's Retreat",
+  "body": [
+   {
+    "type": "p",
+    "text": "Satellite imagery released by analysts shows a large luxury yacht anchored close to the coastal area where North Korean leader Kim Jong Un maintains his summer retreat. The vessel features a 50‑metre swimming pool and multiple water slides, amenities that are described as far beyond the reach of ordinary North Koreans."
+   },
+   {
+    "type": "p",
+    "text": "The photographs, taken from space, provide a rare visual clue about how the reclusive leader spends his holidays. While the exact ownership of the boat remains unconfirmed, its proximity to Kim's private compound suggests it is part of the elite leisure facilities used by the regime's inner circle."
+   },
+   {
+    "type": "p",
+    "text": "Experts note that such displays of opulence contrast sharply with the country's chronic economic hardships and ongoing international sanctions, highlighting the stark disparity between the ruling elite and the general population."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The images illustrate the extreme wealth of North Korea's ruling class, offering insight into the regime's priorities amid ongoing sanctions and economic challenges."
+   }
+  ],
+  "key_points": [
+   "Satellite photos reveal a yacht with a 50‑metre pool and water slides near Kim Jong Un's summer retreat.",
+   "The luxury vessel underscores the stark gap between North Korea's elite and its broader populace."
+  ],
+  "meta_description": "Satellite images show a luxury yacht with a 50m pool near Kim Jong Un's retreat, highlighting elite opulence in North Korea.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "North Korea",
+   "Kim Jong Un",
+   "luxury yacht",
+   "satellite imagery",
+   "wealth disparity"
+  ],
+  "slug": "luxury-boat-with-50m-pool-spotted-near-kim-jong-e00f75",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:58:09Z"
+ },
+ {
+  "id": "6e77ee804ab2ab8e",
+  "source_url": "https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html",
+  "source": "The New York Times",
+  "source_title": "17 Dead, Dozens Injured After Stampede at Indian Religious Event",
+  "source_summary": "Such deadly crowd events are relatively common in India, and it was unclear what caused this one. Authorities detained the event’s organizer and others involved.",
+  "source_tags": [
+   "Kolkata (India)",
+   "Stampedes",
+   "Deaths (Fatalities)",
+   "Hinduism",
+   "West Bengal (India)",
+   "India"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-stampede-qcjh/17int-india-stampede-qcjh-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T21:39:47+00:00",
+  "headline": "17 Killed and Dozens Injured in Stampede at Indian Religious Gathering",
+  "body": [
+   {
+    "type": "p",
+    "text": "A crowd crush at a religious event in India left 17 people dead and dozens more injured, according to local officials. The incident occurred during a large gathering, but authorities have not yet determined the exact cause of the stampede."
+   },
+   {
+    "type": "p",
+    "text": "Police detained the event’s organizer along with several other individuals as part of the investigation. Officials said the detention was a standard procedure to ascertain responsibility and gather information about safety lapses."
+   },
+   {
+    "type": "p",
+    "text": "Crowd disasters of this nature are relatively frequent in India, where large religious festivals often draw massive numbers of participants. The latest tragedy underscores ongoing concerns about crowd management and emergency response at such events."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights public safety challenges at large gatherings, a concern for international travelers and global event organizers."
+   }
+  ],
+  "key_points": [
+   "Seventeen people died and dozens were injured in a stampede at an Indian religious event.",
+   "Authorities detained the event’s organizer and others while investigating the cause.",
+   "Such deadly crowd incidents are a recurring issue in India."
+  ],
+  "meta_description": "Seventeen dead and dozens injured in a stampede at an Indian religious event; organizers detained as investigation continues.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "stampede",
+   "religious event",
+   "crowd safety",
+   "fatalities"
+  ],
+  "slug": "17-killed-dozens-injured-stampede-indian-religious-gathering-6e77ee",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:58:20Z"
+ },
+ {
   "id": "568162b981af2493",
   "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
   "source": "TechCrunch",
@@ -650,6 +1105,69 @@
   "added": "2026-10-17T21:41:58Z"
  },
  {
+  "id": "bb38f1891d1520bf",
+  "source_url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+  "source": "The Verge",
+  "source_title": "TikTok bans Musk documentary account",
+  "source_summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, was informed Friday afternoon that a \"permanent suspension\" was imminent. Bleecker Street has […]",
+  "source_tags": [
+   "Creators",
+   "Elon Musk",
+   "Entertainment",
+   "Film",
+   "News",
+   "Policy",
+   "Politics",
+   "Tech",
+   "TikTok"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-17T19:32:23+00:00",
+  "headline": "TikTok Permanently Suspends Account for Alex Gibney’s Musk Documentary Film",
+  "body": [
+   {
+    "type": "p",
+    "text": "TikTok has removed the official social media account for Alex Gibney’s upcoming documentary on Elon Musk, labeling the suspension as permanent. The ban came just before the film’s wider release, prompting concerns among the film’s promoters."
+   },
+   {
+    "type": "p",
+    "text": "The film’s distributor, Bleecker Street, said it was notified on Friday afternoon that TikTok would permanently suspend the account. The platform did not respond to a request for comment on the decision."
+   },
+   {
+    "type": "p",
+    "text": "The documentary, which examines Musk’s business ventures and public persona, was expected to use the TikTok account for marketing and audience engagement. The sudden removal leaves the promotional strategy in flux as the release date approaches."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ban highlights how social‑media platform policies can affect film marketing and the visibility of high‑profile documentaries in the U.S. and European markets."
+   }
+  ],
+  "key_points": [
+   "TikTok announced a permanent suspension of the official account for Alex Gibney’s Elon Musk documentary.",
+   "Bleecker Street, the film’s distributor, was informed of the ban on Friday afternoon.",
+   "TikTok has not provided a comment on the reason for the suspension."
+  ],
+  "meta_description": "TikTok permanently suspends the official account for Alex Gibney's Elon Musk documentary, prompting concerns over film promotion.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "TikTok",
+   "Elon Musk",
+   "Alex Gibney",
+   "Bleecker Street",
+   "film promotion"
+  ],
+  "slug": "tiktok-permanently-suspends-account-alex-gibneys-musk-documentary-film-bb38f1",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:58:29Z"
+ },
+ {
   "id": "470da62f3b145014",
   "source_url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo",
   "source": "BBC Sport",
@@ -701,6 +1219,60 @@
   "slug": "manzambi-scores-late-header-villa-beat-newcastle-emery-notches-470da6",
   "reading_minutes": 1,
   "added": "2026-10-17T19:14:55Z"
+ },
+ {
+  "id": "df9b483b068f34d8",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq5ynl4nvv5vo",
+  "source": "BBC Sport",
+  "source_title": "Tributes to Andrews before Champions Cup matches",
+  "source_summary": "Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f014/live/52f59ef0-ca4c-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-17T19:08:14+00:00",
+  "headline": "Lions and Sale Sharks Honor Late Hyron Andrews at Champions Cup",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rugby clubs across Europe are set to remember South African centre Hyron Andrews, who died at the age of 31, during Saturday's Champions Cup fixtures. The tribute comes as teams prepare for a crucial round of matches in the competition."
+   },
+   {
+    "type": "p",
+    "text": "Both the Lions and Sale Sharks have confirmed they will observe a moment of silence before kick‑off, joining other clubs that plan similar gestures. Organisers said the gestures aim to celebrate Andrews' contributions to the sport and acknowledge the loss felt by players and supporters alike."
+   },
+   {
+    "type": "p",
+    "text": "Andrews, a former Springbok and a respected figure in club rugby, was widely regarded for his skill on the field and his professionalism off it. His untimely death has prompted an outpouring of condolences from teammates, coaches and fans throughout the rugby community."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The tribute underscores the close‑knit nature of the rugby community and the impact of a player’s legacy on fans and clubs across Europe and beyond."
+   }
+  ],
+  "key_points": [
+   "Lions and Sale Sharks will hold moments of silence for Hyron Andrews before their Champions Cup games.",
+   "Andrews, a 31‑year‑old South African rugby player, died recently, prompting tributes across clubs.",
+   "The gestures highlight the respect Andrews earned within the European rugby circuit."
+  ],
+  "meta_description": "Lions and Sale Sharks will honor late South African rugby star Hyron Andrews with tributes before Champions Cup matches.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "Champions Cup",
+   "Hyron Andrews",
+   "Lions",
+   "Sale Sharks",
+   "tribute"
+  ],
+  "slug": "lions-sale-sharks-honor-late-hyron-andrews-champions-cup-df9b48",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:58:17Z"
  },
  {
   "id": "071d6fc424760ac3",
@@ -955,6 +1527,43 @@
   "slug": "france-sees-nationwide-student-protests-riots-over-cost-living-87f321",
   "reading_minutes": 1,
   "added": "2026-10-17T19:15:07Z"
+ },
+ {
+  "id": "2c54f61a9bfdf9be",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo",
+  "source": "BBC Sport",
+  "source_title": "Boos and bananas on day of defiance at Man City",
+  "source_summary": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecba/live/d20cec20-ca51-11f1-852c-2b93a8fc4799.png",
+  "published": "2026-10-17T18:02:39+00:00",
+  "headline": "Boos and Bananas on Day of Defiance at Man City",
+  "body": [
+   {
+    "type": "p",
+    "text": "In sports news, BBC Sport reports:"
+   },
+   {
+    "type": "quote",
+    "text": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+    "cite": "BBC Sport"
+   }
+  ],
+  "key_points": [],
+  "meta_description": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
+  "category": "sports",
+  "mode": "offline",
+  "index": false,
+  "tags": [
+   "Boos",
+   "Man City",
+   "Manchester City",
+   "Premier League"
+  ],
+  "slug": "boos-bananas-day-defiance-man-city-2c54f6",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:58:25Z"
  },
  {
   "id": "7b03e19db9665330",
@@ -3022,6 +3631,71 @@
   "slug": "pennsylvanias-four-battleground-districts-reveal-midterm-fault-lines-8bb459",
   "reading_minutes": 1,
   "added": "2026-10-17T09:13:02Z"
+ },
+ {
+  "id": "f9ea549ccd40ca6e",
+  "source_url": "https://www.nytimes.com/2026/10/17/business/medicare-coverage-retirement.html",
+  "source": "The New York Times",
+  "source_title": "It’s Time to Shop Medicare, and This Year, It’s Extra Important",
+  "source_summary": "Be sure to read your mail this fall — big changes to prescription drug plans and Medicare Advantage provider networks are coming, and could cost you more.",
+  "source_tags": [
+   "Medicare Advantage",
+   "Medicare",
+   "Health Insurance and Managed Care",
+   "Drugs (Pharmaceuticals)",
+   "United States Politics and Government",
+   "Prices (Fares, Fees and Rates)",
+   "Retirement",
+   "Content Type: Service",
+   "Personal Finances",
+   "Two Thousand Twenty Seven"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/18/business/18bizsun-retiring-illo/18bizsun-retiring-illo-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T09:01:28+00:00",
+  "headline": "Medicare Enrollment Opens With New Drug and Network Changes",
+  "body": [
+   {
+    "type": "p",
+    "text": "As the annual Medicare enrollment period begins, officials urge seniors to carefully review the mail they receive this fall. The Centers for Medicare & Medicaid Services has announced significant updates to prescription drug plans, including revised formularies and cost‑sharing structures that could affect out‑of‑pocket expenses."
+   },
+   {
+    "type": "p",
+    "text": "In addition, Medicare Advantage plans are set to modify their provider networks, potentially limiting which doctors and hospitals participants can use. These adjustments are part of a broader effort to control costs, but they may result in higher premiums or additional fees for some beneficiaries."
+   },
+   {
+    "type": "p",
+    "text": "Consumers are advised to compare plan options side‑by‑side and consider their medication needs and preferred providers before making a selection. Missing the enrollment window could lock seniors into less favorable coverage for the next year."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The changes could increase healthcare costs for millions of seniors in the U.S., influencing retirement budgeting and cross‑border health insurance considerations."
+   }
+  ],
+  "key_points": [
+   "Prescription drug plans will see new formularies and cost‑sharing rules this enrollment season.",
+   "Medicare Advantage networks are being reshaped, which may restrict provider choices.",
+   "Seniors should review all plan details now to avoid higher costs later."
+  ],
+  "meta_description": "Medicare enrollment starts with new drug plan rules and altered Advantage networks that may raise costs for seniors.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Medicare",
+   "health insurance",
+   "prescription drugs",
+   "Medicare Advantage",
+   "seniors",
+   "enrollment"
+  ],
+  "slug": "medicare-enrollment-opens-with-new-drug-network-changes-f9ea54",
+  "reading_minutes": 1,
+  "added": "2026-10-17T23:58:33Z"
  },
  {
   "id": "527b1ef2ed80979f",
