@@ -1,5 +1,687 @@
 [
  {
+  "id": "7cb0181a508a8091",
+  "source_url": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html",
+  "source": "The New York Times",
+  "source_title": "Trump Revives 2020 Election Conspiracies, With Help From the Federal Government",
+  "source_summary": "Voting rights advocates fear the Trump administration may use the federal government to cast doubt on the election, discourage participation or try to delegitimize results.",
+  "source_tags": [
+   "Voter Fraud (Election Fraud)",
+   "Voting Machines",
+   "Absentee Voting",
+   "Voting and Voters",
+   "Trump, Donald J",
+   "Postal Service and Post Offices",
+   "Midterm Elections (2026)",
+   "Elections"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17pol-conspiracy-redux-mblq/17pol-conspiracy-redux-mblq-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T09:02:18+00:00",
+  "headline": "Trump Revives 2020 Election Conspiracies Using Federal Resources",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump has begun promoting the false claim that the 2020 presidential election was stolen, this time invoking federal agencies to bolster the narrative. The renewed rhetoric follows a pattern of baseless allegations that have persisted since his defeat."
+   },
+   {
+    "type": "p",
+    "text": "Voting‑rights groups warn that the administration’s involvement could lend official weight to the conspiracy, potentially undermining confidence in the electoral process. Advocates fear that federal endorsement may discourage voter turnout and create doubts about the legitimacy of future elections."
+   },
+   {
+    "type": "p",
+    "text": "The effort comes amid heightened scrutiny of election integrity across the United States, with lawmakers and civil‑rights organizations calling for safeguards to prevent the misuse of government resources for partisan purposes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The use of federal institutions to spread election falsehoods threatens democratic legitimacy, a concern shared by both US and European observers."
+   }
+  ],
+  "key_points": [
+   "Trump is once again asserting that the 2020 election was fraudulent, now citing federal agencies.",
+   "Voting‑rights advocates warn the move could erode public trust and suppress voter participation.",
+   "The strategy raises concerns about the misuse of government authority to advance partisan claims."
+  ],
+  "meta_description": "Trump revives 2020 election fraud claims with federal backing, prompting voting‑rights groups to warn of eroded trust and voter suppression.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "election conspiracy",
+   "voting rights",
+   "federal government",
+   "democracy"
+  ],
+  "slug": "trump-revives-2020-election-conspiracies-using-federal-resources-7cb018",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:12:46Z"
+ },
+ {
+  "id": "0bda9656b1f3fc9f",
+  "source_url": "https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html",
+  "source": "The New York Times",
+  "source_title": "The Reporter Who Exposed Elizabeth Holmes on Nathan Fielder’s Documentary",
+  "source_summary": "Ms. Holmes handed the makers of “You Can See Everything” — and the rest of the world — a microscope with which to observe and dissect her lies.",
+  "source_tags": [
+   "Documentary Films and Programs",
+   "Lying",
+   "Frauds and Swindling",
+   "Theranos Inc",
+   "Evans, William \"Billy\"",
+   "Holmes, Elizabeth (1984- )",
+   "Oppenheim, Lance",
+   "Fielder, Nathan (1983- )"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/17Sunbiz-holmes-film-lede-gqlb/17Sunbiz-holmes-film-lede-gqlb-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T09:02:11+00:00",
+  "headline": "Reporter Uncovers Elizabeth Holmes Deceptions in Nathan Fielder Documentary",
+  "body": [
+   {
+    "type": "p",
+    "text": "A journalist who investigated Elizabeth Holmes played a central role in Nathan Fielder’s new documentary, \"You Can See Everything.\" The reporter’s work gave the film’s creators a detailed lens through which to examine Holmes’s false statements."
+   },
+   {
+    "type": "p",
+    "text": "According to the documentary’s premise, Holmes herself provided the filmmakers with a metaphorical microscope, allowing them and the global audience to scrutinize the inconsistencies in her narrative. The investigative reporting highlighted the extent of the misinformation surrounding her former company."
+   },
+   {
+    "type": "p",
+    "text": "The film uses the reporter’s findings to piece together a comprehensive picture of the deception, offering viewers a clear view of how Holmes’s claims were constructed and later dismantled."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The documentary underscores the importance of investigative journalism in exposing corporate fraud, a concern for investors and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "A reporter’s investigation formed the backbone of Nathan Fielder’s documentary on Elizabeth Holmes.",
+   "Holmes’s own disclosures gave the filmmakers a tool to closely examine her falsehoods."
+  ],
+  "meta_description": "A reporter's investigation fuels Nathan Fielder's documentary exposing Elizabeth Holmes's lies, highlighting the role of journalism in uncovering fraud.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elizabeth Holmes",
+   "Nathan Fielder",
+   "documentary",
+   "investigative reporting",
+   "Theranos",
+   "fraud"
+  ],
+  "slug": "reporter-uncovers-elizabeth-holmes-deceptions-nathan-fielder-documentary-0bda96",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:12:50Z"
+ },
+ {
+  "id": "4fbf621b2534b55f",
+  "source_url": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
+  "source": "The New York Times",
+  "source_title": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
+  "source_summary": "The annual decline was about $70 billion. Companies are writing off billions in A.I. investments, taking advantage of tax cuts that President Trump signed into law.",
+  "source_tags": [
+   "Corporate Taxes",
+   "Artificial Intelligence",
+   "Tax Credits, Deductions and Exemptions",
+   "Data Centers",
+   "National Debt (US)",
+   "United States Economy",
+   "One Big Beautiful Bill Act (2025)",
+   "Trump, Donald J",
+   "Wyden, Ron"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17dc-corporate-tax-fmhg/17dc-corporate-tax-fmhg-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T09:02:09+00:00",
+  "headline": "Corporate Tax Revenue Drops $70B as Profits Surge Under Trump",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal corporate tax collections fell by roughly $70 billion this year, even as corporate earnings reached record highs under President Trump’s tax reforms."
+   },
+   {
+    "type": "p",
+    "text": "Companies are leveraging the 2017 tax cuts to write off billions of dollars in artificial‑intelligence investments, reducing their taxable income and further shrinking revenue for the Treasury."
+   },
+   {
+    "type": "p",
+    "text": "The decline highlights a widening gap between corporate profitability and the government’s fiscal intake, prompting debate over the long‑term sustainability of the current tax framework."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The revenue gap could affect U.S. budget priorities and puts European governments on alert as they consider similar tax incentives for tech investment."
+   }
+  ],
+  "key_points": [
+   "Corporate tax receipts dropped about $70 billion despite soaring corporate profits.",
+   "Businesses are using the 2017 tax cuts to offset AI spending, cutting their tax bills.",
+   "The shortfall raises questions about the impact of the tax law on federal revenue."
+  ],
+  "meta_description": "Corporate tax revenue fell $70 billion as companies write off AI costs under Trump’s tax cuts, despite record profits.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "corporate tax",
+   "AI investment",
+   "tax cuts",
+   "Trump",
+   "revenue decline"
+  ],
+  "slug": "corporate-tax-revenue-drops-70b-profits-surge-under-trump-4fbf62",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:13:06Z"
+ },
+ {
+  "id": "e5c5ec273a706ffb",
+  "source_url": "https://www.nytimes.com/2026/10/17/dining/breakfast-cereal-healthy.html",
+  "source": "The New York Times",
+  "source_title": "Can Cereal Be Healthy? Big Companies Are Trying.",
+  "source_summary": "As more Americans turn away from the snap, crackle and sugar, the industry is trying to capitalize on our current obsession with wellness.",
+  "source_tags": [
+   "Cereals",
+   "Health Foods",
+   "Advertising and Marketing",
+   "Supermarkets and Grocery Stores",
+   "General Mills Inc",
+   "Kellogg Company",
+   "Instacart"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17FD-CEREAL-01-lgqv/17FD-CEREAL-01-lgqv-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T09:01:46+00:00",
+  "headline": "Cereal Makers Shift Toward Healthier Options Amid Wellness Craze",
+  "body": [
+   {
+    "type": "p",
+    "text": "As U.S. consumers increasingly reject sugary, highly processed breakfast cereals, major food manufacturers are redesigning their product lines to meet the growing demand for healthier choices. Companies are introducing whole‑grain formulas, reduced‑sugar variants, and added protein or fiber to appeal to shoppers focused on nutrition."
+   },
+   {
+    "type": "p",
+    "text": "The industry’s pivot reflects a broader cultural obsession with wellness, prompting brands to market new cereals as part of balanced diets rather than indulgent snacks. Executives say the strategy aims to retain market share as traditional cereal sales decline."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that this shift could reshape the breakfast aisle, with retailers expecting a rise in shelf space for products that tout clean‑label ingredients and lower sugar content."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trend influences food‑industry revenues and may affect dietary habits in the U.S. and Europe as similar health concerns rise."
+   }
+  ],
+  "key_points": [
+   "American consumers are moving away from sugary cereals, prompting manufacturers to develop healthier alternatives.",
+   "Big food companies are reformulating products with whole grains, less sugar, and added nutrients to align with wellness trends."
+  ],
+  "meta_description": "Cereal makers are launching healthier options as U.S. shoppers seek low‑sugar, nutrient‑rich breakfast choices.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cereal",
+   "health",
+   "wellness",
+   "food industry",
+   "consumer trends"
+  ],
+  "slug": "cereal-makers-shift-toward-healthier-options-amid-wellness-craze-e5c5ec",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:13:22Z"
+ },
+ {
+  "id": "8bb459bee4d9f4c6",
+  "source_url": "https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html",
+  "source": "The New York Times",
+  "source_title": "How Pennsylvania Explains the Forces Shaping the Midterms",
+  "source_summary": "Four battleground congressional districts in the state reveal fault lines that are echoing nationwide.",
+  "source_tags": [
+   "Pennsylvania",
+   "Midterm Elections (2026)",
+   "Elections",
+   "Elections, House of Representatives",
+   "Elections, Senate",
+   "Republican Party",
+   "Democratic Party"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17pol-pennsylvania-scrolly-01-kzhg/17pol-pennsylvania-scrolly-01-kzhg-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T09:01:35+00:00",
+  "headline": "Pennsylvania’s Four Battleground Districts Reveal Midterm Fault Lines",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent analysis of Pennsylvania’s congressional map highlights four battleground districts that are shaping the 2026 midterm outlook. These districts, situated in diverse regions of the state, illustrate the political divisions that are currently at play."
+   },
+   {
+    "type": "p",
+    "text": "The study finds that the electoral dynamics in these districts mirror broader national patterns, with competing forces influencing voter behavior across the country. Analysts note that the trends observed in Pennsylvania serve as a microcosm of the larger partisan landscape."
+   },
+   {
+    "type": "p",
+    "text": "Observers suggest that the outcomes in these key districts could provide early signals about the direction of the upcoming midterm elections, offering insight into how similar contests may unfold elsewhere."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The districts’ voting patterns could signal how national political forces are aligning ahead of the midterms, affecting policy directions in the US and abroad."
+   }
+  ],
+  "key_points": [
+   "Four Pennsylvania congressional districts are identified as pivotal in the 2026 midterms.",
+   "The political dynamics in these districts reflect nationwide partisan fault lines.",
+   "Results in these areas may foreshadow broader election trends across the United States."
+  ],
+  "meta_description": "Four Pennsylvania battleground districts expose fault lines that echo nationwide, offering early clues to the 2026 midterm election trends.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pennsylvania",
+   "midterms",
+   "congressional districts",
+   "battleground states",
+   "US politics"
+  ],
+  "slug": "pennsylvanias-four-battleground-districts-reveal-midterm-fault-lines-8bb459",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:13:02Z"
+ },
+ {
+  "id": "527b1ef2ed80979f",
+  "source_url": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html",
+  "source": "The New York Times",
+  "source_title": "What Pennsylvania Reveals About the Midterms",
+  "source_summary": "In Pennsylvania, four congressional districts exemplify the types of seats that Democrats are aiming to flip. Our national political correspondent Shane Goldmacher explains.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Democratic Party",
+   "Pennsylvania"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-17T09:00:55+00:00",
+  "headline": "Pennsylvania’s Four Districts Illustrate Democrats’ Midterm Flip Strategy",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent analysis, national political correspondent Shane Goldmacher outlines how four congressional districts in Pennsylvania serve as micro‑cosms of the seats Democrats hope to win in the upcoming midterm elections. The piece highlights the demographic and political characteristics that make these districts both vulnerable and pivotal for the party’s broader national goals."
+   },
+   {
+    "type": "p",
+    "text": "Goldmacher points to factors such as shifting suburban voter preferences, the impact of local economic concerns, and the role of candidate recruitment in shaping the competitive landscape. By focusing on these elements, the analysis suggests that success in Pennsylvania could signal broader trends that may influence races in other swing states."
+   },
+   {
+    "type": "p",
+    "text": "The article underscores that while each district has unique dynamics, they collectively represent the types of contests Democrats are targeting across the country. The insights offered aim to help readers understand the strategic calculations behind the party’s midterm campaign planning."
+   }
+  ],
+  "key_points": [
+   "Four Pennsylvania districts are highlighted as representative of the seats Democrats aim to flip in the midterms.",
+   "Shane Goldmacher emphasizes demographic shifts and local issues as key factors in these competitive races.",
+   "Success in these districts could indicate broader national trends for the upcoming elections."
+  ],
+  "meta_description": "Four Pennsylvania districts illustrate the seats Democrats target in the midterms, according to NYT correspondent Shane Goldmacher.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pennsylvania",
+   "midterm elections",
+   "Democratic strategy",
+   "congressional races",
+   "US politics"
+  ],
+  "slug": "pennsylvanias-four-districts-illustrate-democrats-midterm-flip-strategy-527b1e",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:13:18Z"
+ },
+ {
+  "id": "aa5023d79336e87a",
+  "source_url": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
+  "source": "NPR",
+  "source_title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+  "source_summary": "Patients travel miles to be treated at public hospitals in Delhi. Those in need get financial aid for their care. But for overnight accommodations, families are often on their own — and on the street.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5544x3696+0+0/resize/5544x3696!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F43%2F2c%2Fd3fd11634aa782ae90dbe430eb41%2Fsidewalk-sleepers-india-21.jpg",
+  "published": "2026-10-17T09:00:00+00:00",
+  "headline": "Delhi Hospital Families Forced to Sleep on Sidewalks Overnight",
+  "body": [
+   {
+    "type": "p",
+    "text": "Patients from distant regions travel to Delhi’s public hospitals seeking treatment, and many receive financial assistance for medical costs. However, the aid does not extend to overnight lodging for their relatives who accompany them."
+   },
+   {
+    "type": "p",
+    "text": "Without any provision for accommodation, families of patients are left to find shelter on the streets near the hospitals. Some set up makeshift sleeping areas on sidewalks, exposing them to harsh weather and safety risks while they wait for their loved ones’ care."
+   },
+   {
+    "type": "p",
+    "text": "The situation highlights a gap in the public health system, where the focus on medical subsidies overlooks the basic needs of caregivers who play a crucial role in patient recovery."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The issue underscores how gaps in hospital support services can create homelessness for caregivers, a challenge that resonates with healthcare systems worldwide."
+   }
+  ],
+  "key_points": [
+   "Families of patients at Delhi’s public hospitals often have no place to stay and resort to sleeping on sidewalks.",
+   "Financial aid covers medical treatment but does not provide accommodation for caregivers.",
+   "The lack of shelter exposes families to health and safety hazards while they support hospitalized relatives."
+  ],
+  "meta_description": "Families of patients at Delhi public hospitals lack overnight shelter, forcing many to sleep on sidewalks despite receiving medical aid.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Delhi",
+   "public hospitals",
+   "patient families",
+   "homelessness",
+   "healthcare access"
+  ],
+  "slug": "delhi-hospital-families-forced-sleep-sidewalks-overnight-aa5023",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:12:54Z"
+ },
+ {
+  "id": "863c6f1138a1ace5",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6djvxmx0z1po",
+  "source": "BBC Sport",
+  "source_title": "England crush Women's World Cup debutants Wales",
+  "source_summary": "England scored seven tries before the break, and 13 in total on their way to a comprehensive victory over Wales in their Group A opener.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d3/live/35721700-ca06-11f1-bd4e-1bb57c253812.jpg",
+  "published": "2026-10-17T08:39:22+00:00",
+  "headline": "England Dominates Wales with 13 Tries in Women's World Cup Opener",
+  "body": [
+   {
+    "type": "p",
+    "text": "England's women's rugby team launched their World Cup campaign with a resounding win over debutants Wales in the Group A opener. The English side crossed the try line seven times before halftime, setting the tone for a one‑sided contest."
+   },
+   {
+    "type": "p",
+    "text": "By the final whistle, England had amassed a total of 13 tries, underscoring their attacking depth and experience against a Welsh side making its first appearance at the tournament. The comprehensive victory highlighted England's status as a pre‑tournament favourite."
+   },
+   {
+    "type": "p",
+    "text": "Wales, while outmatched, gained valuable exposure to the high level of competition in the women's Rugby World Cup, marking a significant milestone for the nation's development program."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "England's emphatic win showcases the growing strength of women's rugby in Europe, a sport gaining increasing viewership and investment across the US and EU."
+   }
+  ],
+  "key_points": [
+   "England scored 13 tries, including seven before the break, to defeat Wales.",
+   "The match was Wales' debut in the women's Rugby World Cup.",
+   "England's dominant performance reinforces their position as a tournament favourite."
+  ],
+  "meta_description": "England's women's rugby team thrashed debutants Wales with 13 tries in their World Cup Group A opener.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "women's rugby",
+   "World Cup",
+   "England",
+   "Wales",
+   "sports results"
+  ],
+  "slug": "england-dominates-wales-with-13-tries-women-s-world-863c6f",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:12:58Z"
+ },
+ {
+  "id": "bba9d8fd58e13bd4",
+  "source_url": "https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Mexico sentences killers of US, Australian surfers to 158 years each in prison",
+  "source_summary": "Three Mexican men were found guilty last week of murdering foreign surfers in 2024. The case had drawn global condemnation, particularly in Australia, where two of the victims were from.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-17T08:19:00+00:00",
+  "headline": "Mexico Sentences Killers of US and Australian Surfers to 158 Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "A Mexican court sentenced three men to 158 years in prison each after finding them guilty of murdering three foreign surfers in 2024. The victims included two Australians and one American, and the case attracted international condemnation."
+   },
+   {
+    "type": "p",
+    "text": "The court’s verdict was delivered last week, concluding a high‑profile trial that highlighted concerns over violence against tourists in Mexico’s coastal regions. Prosecutors presented evidence linking the defendants to the fatal attacks, and the judges imposed the maximum penalty allowed under Mexican law."
+   },
+   {
+    "type": "p",
+    "text": "Australian officials and U.S. consular representatives praised the ruling, calling it a strong message that crimes against visitors will not be tolerated. The sentences are expected to influence future security measures for tourists in popular surf spots along Mexico’s Pacific coast."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The sentencing signals Mexico’s commitment to protecting foreign tourists, a key concern for U.S. and European travelers and diplomatic relations."
+   }
+  ],
+  "key_points": [
+   "Three Mexican men received 158‑year prison terms for killing two Australian and one American surfer in 2024.",
+   "The verdict was hailed by Australian and U.S. officials as a firm response to violence against tourists.",
+   "The case underscores growing concerns about safety for visitors to Mexico’s coastal areas."
+  ],
+  "meta_description": "Three men in Mexico were sentenced to 158 years each for killing US and Australian surfers, a verdict praised by foreign officials.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mexico",
+   "crime",
+   "sentencing",
+   "tourism",
+   "Australia",
+   "United States"
+  ],
+  "slug": "mexico-sentences-killers-us-australian-surfers-158-years-bba9d8",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:13:11Z"
+ },
+ {
+  "id": "acf78236a010438c",
+  "source_url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
+  "source": "The New York Times",
+  "source_title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
+  "source_summary": "By announcing his lung condition himself, Leo has been more forthcoming than many popes. But mysteries remain, prompting scrutiny of papal statements for hidden meaning.",
+  "source_tags": [
+   "Leo XIV",
+   "Parolin, Pietro",
+   "Prevost, Louis (1951- )",
+   "Roman Catholic Church",
+   "Navarro-Valls, Joaquin",
+   "John Paul II",
+   "Popes",
+   "Rumors and Misinformation",
+   "Cancer",
+   "Pilgrimages"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-tea-leaves-mjtq/17int-pope-tea-leaves-mjtq-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T08:18:15+00:00",
+  "headline": "Pope’s Self‑Disclosure of Lung Issue Sparks Debate Over Vatican Transparency",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a rare move, Pope Francis personally announced his lung condition, a step that observers say marks greater openness than many of his predecessors. The disclosure, made through a brief statement, has drawn attention to the pontiff’s health amid ongoing concerns about his ability to fulfill papal duties."
+   },
+   {
+    "type": "p",
+    "text": "Despite the direct announcement, analysts note that unanswered questions persist, fueling speculation about the Vatican’s communication practices. Critics argue that the lack of detailed medical information leaves room for interpretation and fuels a familiar debate over whether the Holy See is fully candid with the public."
+   },
+   {
+    "type": "p",
+    "text": "The episode underscores a broader pattern of scrutiny toward papal statements, with scholars and journalists alike examining the language for hidden meanings. As the Pope’s health remains a point of interest, the Vatican’s approach to transparency continues to be a focal point for both believers and observers worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Pope’s health influences the Catholic Church’s leadership and global diplomatic engagements, making transparency a concern for followers and international partners."
+   }
+  ],
+  "key_points": [
+   "Pope Francis announced his lung condition himself, showing unusual openness.",
+   "The limited details have sparked renewed debate over the Vatican’s transparency.",
+   "Analysts are closely reading papal statements for possible hidden implications."
+  ],
+  "meta_description": "Pope Francis publicly disclosed his lung condition, prompting debate over Vatican transparency and scrutiny of papal statements.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pope Francis",
+   "Vatican",
+   "health disclosure",
+   "transparency",
+   "religion"
+  ],
+  "slug": "popes-selfdisclosure-lung-issue-sparks-debate-over-vatican-transparency-acf782",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:13:26Z"
+ },
+ {
+  "id": "38032e8ddf06297b",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cxg5jz4epr1po",
+  "source": "BBC Sport",
+  "source_title": "Eight-try Australia send Scotland to eighth straight defeat",
+  "source_summary": "Scotland suffer a chastening eight-try defeat by Australia in their WXV Global Series match in Sydney.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb5/live/6183d0d0-ca02-11f1-82b2-d98eb8b82384.jpg",
+  "published": "2026-10-17T08:13:13+00:00",
+  "headline": "Australia's Eight-Try Victory Over Scotland Extends Losing Streak",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australia overwhelmed Scotland in the WXV Global Series match in Sydney, scoring eight tries to secure a dominant win. The Australian side displayed relentless attacking play, converting the majority of their opportunities and keeping the Scottish defence under constant pressure."
+   },
+   {
+    "type": "p",
+    "text": "Scotland suffered their eighth consecutive defeat in the competition, highlighting ongoing challenges for the team as they seek to improve their standing on the world stage. Despite a few moments of resistance, the Scots were unable to contain Australia's speed and precision on the wing."
+   },
+   {
+    "type": "p",
+    "text": "The result reinforces Australia's position as a leading force in women's rugby, while Scotland will look to regroup ahead of upcoming fixtures. Coaches from both camps emphasized the need for continued development and tactical adjustments as the series progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The match impacts world rankings and showcases the growing competitiveness of women's rugby ahead of future international tournaments."
+   }
+  ],
+  "key_points": [
+   "Australia scored eight tries to defeat Scotland in the WXV Global Series.",
+   "The loss marks Scotland's eighth straight defeat in the competition.",
+   "Australia's performance solidifies its status as a top contender in women's rugby."
+  ],
+  "meta_description": "Australia's eight-try win over Scotland extends the Scots' losing streak in the WXV Global Series, underscoring Australia's dominance in women's rugby.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "australia",
+   "scotland",
+   "WXV",
+   "women's rugby",
+   "sports"
+  ],
+  "slug": "australia-s-eight-try-victory-over-scotland-extends-losing-38032e",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:13:15Z"
+ },
+ {
+  "id": "2ac9ef75a92ba395",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cknv0m61l9e4o",
+  "source": "BBC Sport",
+  "source_title": "England's 41-match unbeaten run ended by Canada",
+  "source_summary": "England's 41-match unbeaten streak ends in dramatic fashion as Shoshanah Seumanutafa's late try hands Canada a thrilling 24-21 victory in Toronto.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac01/live/244f8370-c9f4-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-17T07:25:54+00:00",
+  "headline": "England's 41-Match Unbeaten Run Ends as Canada Wins 24-21",
+  "body": [
+   {
+    "type": "p",
+    "text": "England's remarkable 41‑match unbeaten streak in international rugby came to an abrupt halt on Saturday in Toronto. A late try by Shoshanah Seumanutafa gave the host nation a 24‑21 win over the defending champions."
+   },
+   {
+    "type": "p",
+    "text": "The match unfolded as a tightly contested battle, with both sides exchanging scores throughout the game. Canada’s decisive moment arrived in the closing minutes when Seumanutafa crossed the line, securing the three‑point margin that clinched the victory."
+   },
+   {
+    "type": "p",
+    "text": "The result marks a dramatic conclusion to England’s long‑running run of success and delivers a thrilling triumph for Canada on home soil, underscoring the competitive nature of the sport at the international level."
+   }
+  ],
+  "key_points": [
+   "England's 41‑match unbeaten run ended with a 24‑21 loss to Canada in Toronto.",
+   "Shoshanah Seumanutafa scored the late try that secured Canada's victory."
+  ],
+  "meta_description": "England's 41‑match unbeaten streak ends as Canada wins 24‑21 in Toronto, highlighted by Shoshanah Seumanutafa's late try.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "England",
+   "Canada",
+   "unbeaten streak",
+   "Toronto",
+   "World Rugby"
+  ],
+  "slug": "england-s-41-match-unbeaten-run-ends-canada-wins-2ac9ef",
+  "reading_minutes": 1,
+  "added": "2026-10-17T09:13:31Z"
+ },
+ {
   "id": "d724928da1805715",
   "source_url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo",
   "source": "BBC News",
