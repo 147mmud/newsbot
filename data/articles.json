@@ -1,5 +1,655 @@
 [
  {
+  "id": "568162b981af2493",
+  "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+  "source": "TechCrunch",
+  "source_title": "Meta removes language that raised scraping and AI training concerns",
+  "source_summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+  "source_tags": [
+   "AI",
+   "Social",
+   "Meta"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-17T21:31:32+00:00",
+  "headline": "Meta Strips Controversial Clause From Terms, Says Crawl Practices Unchanged",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta has revised its user terms to eliminate language that previously sparked debate over the company's web-scraping and artificial‑intelligence training methods. The change removes references that critics said gave Meta broad permission to harvest publicly available content for AI model development."
+   },
+   {
+    "type": "p",
+    "text": "A Meta spokesperson emphasized that the amendment does not signal a shift in how the firm indexes or extracts data from the internet. According to the company, its existing crawling operations will continue under the same technical and policy framework that governs its services."
+   },
+   {
+    "type": "p",
+    "text": "The update follows heightened scrutiny from regulators and privacy advocates who have warned that large‑scale data collection could infringe on user rights and fuel competitive advantages for AI developers. By deleting the contentious wording, Meta aims to address some of the public and legislative concerns while maintaining its core data‑gathering activities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The change is relevant for U.S. and European users as it touches on ongoing debates about privacy, data ownership, and the regulation of AI‑driven content harvesting."
+   }
+  ],
+  "key_points": [
+   "Meta removed a clause in its terms that had raised concerns about web scraping for AI training.",
+   "The company says the revision does not alter its existing web‑crawling practices.",
+   "The move comes amid increased regulatory focus on data collection and AI ethics."
+  ],
+  "meta_description": "Meta deletes controversial term about web scraping, says its crawling methods stay the same amid privacy and AI concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "terms of service",
+   "web scraping",
+   "AI training",
+   "privacy",
+   "regulation"
+  ],
+  "slug": "meta-strips-controversial-clause-from-terms-says-crawl-practices-568162",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:41:34Z"
+ },
+ {
+  "id": "ad207f8c622c9aa4",
+  "source_url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
+  "source": "NPR",
+  "source_title": "Student protests widen into greater social unrest in France",
+  "source_summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6006735",
+  "published": "2026-10-17T21:18:52+00:00",
+  "headline": "Student Protests Spread Across France, Sparking Wider Unrest as Some Turn Violent",
+  "body": [
+   {
+    "type": "p",
+    "text": "Hundreds of demonstrations erupted in cities throughout France this week, driven by student groups demanding reforms. The protests were coordinated across multiple urban centers, creating a visible wave of civic activity that stretched from Paris to Marseille and beyond."
+   },
+   {
+    "type": "p",
+    "text": "While the majority of the gatherings remained peaceful, a number of them escalated into chaotic scenes, with reports of confrontations and property damage. Authorities responded with a heightened police presence in several locations, aiming to contain the unrest without further inflaming tensions."
+   },
+   {
+    "type": "p",
+    "text": "The surge in student activism has broadened the scope of public dissent, prompting discussions about broader social issues beyond the original campus concerns. Observers note that the pattern mirrors previous periods of heightened unrest in France, though the current wave is distinguished by its scale and the involvement of young demonstrators across the country."
+   }
+  ],
+  "key_points": [
+   "Hundreds of student-led protests took place in cities across France.",
+   "Most demonstrations stayed peaceful, but some turned chaotic and violent.",
+   "The protests have expanded into a broader wave of social unrest."
+  ],
+  "meta_description": "Hundreds of student protests across France have largely remained peaceful, though some turned violent, sparking wider social unrest.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "student protests",
+   "France",
+   "social unrest",
+   "demonstrations",
+   "Europe"
+  ],
+  "slug": "student-protests-spread-across-france-sparking-wider-unrest-some-ad207f",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:41:38Z"
+ },
+ {
+  "id": "683343adcdfc7be7",
+  "source_url": "https://www.npr.org/2026/10/17/nx-s1-6001729/the-state-of-the-state-department-in-the-wake-of-the-kimberly-guilfoyle-scandal",
+  "source": "NPR",
+  "source_title": "The state of the State Department in the wake of the Kimberly Guilfoyle scandal",
+  "source_summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6001729",
+  "published": "2026-10-17T21:18:50+00:00",
+  "headline": "Former Ambassador James B. Story Assesses State Department After Guilfoyle Scandal",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent NPR interview, former U.S. ambassador to Venezuela James B. Story discussed the current condition of the State Department following the high‑profile Kimberly Guilfoyle scandal. Story, who served in Caracas during a period of heightened diplomatic tension, offered his perspective on how the controversy has impacted morale and operational focus within the agency."
+   },
+   {
+    "type": "p",
+    "text": "Story noted that the scandal has diverted senior officials’ attention from core diplomatic missions, creating challenges in managing overseas postings and policy initiatives. He emphasized that restoring confidence among career diplomats will require clear leadership and a reaffirmation of the department’s core values."
+   },
+   {
+    "type": "p",
+    "text": "The conversation also touched on the broader implications for U.S. foreign policy, with Story warning that prolonged internal distractions could hinder the United States’ ability to respond effectively to emerging global crises."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The State Department’s ability to manage foreign policy directly influences U.S. security and economic interests, making internal stability a concern for American and European audiences."
+   }
+  ],
+  "key_points": [
+   "James B. Story says the Guilfoyle scandal has strained State Department morale and focus.",
+   "He calls for decisive leadership to restore confidence among career diplomats.",
+   "Prolonged internal distractions could affect U.S. responsiveness to global issues."
+  ],
+  "meta_description": "Former ambassador James B. Story evaluates the State Department's challenges after the Kimberly Guilfoyle scandal, urging leadership to restore focus.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "State Department",
+   "Kimberly Guilfoyle",
+   "James B. Story",
+   "U.S. diplomacy",
+   "foreign policy"
+  ],
+  "slug": "former-ambassador-james-b-story-assesses-state-department-after-683343",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:41:54Z"
+ },
+ {
+  "id": "63ed2521c15dddc6",
+  "source_url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
+  "source": "The New York Times",
+  "source_title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
+  "source_summary": "The Trump administration is ignoring the will of Congress and waiving new Russia sanctions amid fears that high energy prices will cost Republicans in next month’s elections.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "Law and Legislation",
+   "Embargoes and Sanctions",
+   "Midterm Elections (2026)",
+   "Presidential Power (US)",
+   "Graham, Lindsey",
+   "Putin, Vladimir V",
+   "Trump, Donald J"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17DC-RUSSIA-SANX-qczf/17DC-RUSSIA-SANX-qczf-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T21:18:47+00:00",
+  "headline": "Trump Administration Waives New Russia Sanctions to Ease Energy Costs",
+  "body": [
+   {
+    "type": "p",
+    "text": "The White House has decided to bypass congressional authority by waiving newly proposed sanctions against Russia, according to officials familiar with the move. The administration says the step is intended to prevent a surge in energy prices that could hurt the Republican Party in the upcoming November elections."
+   },
+   {
+    "type": "p",
+    "text": "By offering economic relief to Moscow, the Trump administration hopes Russia will respond with measures that lower global oil and gas costs. The decision marks a departure from the bipartisan consensus in Congress that has called for a tougher stance on Russia following its recent actions."
+   },
+   {
+    "type": "p",
+    "text": "Critics argue the waiver undermines the legislative branch’s role in foreign policy and could weaken coordinated Western pressure on Moscow. Supporters contend that stabilizing energy markets is essential for the U.S. economy and for voters ahead of the election."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher energy prices impact both American consumers and European markets, and the waiver signals a shift in U.S. policy that could affect transatlantic coordination on Russia."
+   }
+  ],
+  "key_points": [
+   "The Trump administration is waiving new sanctions on Russia despite congressional opposition.",
+   "The move aims to curb rising energy prices that could affect Republican prospects in the November election.",
+   "Officials hope the relief will prompt Russia to take actions that lower global fuel costs."
+  ],
+  "meta_description": "Trump admin bypasses Congress, waiving Russia sanctions to curb energy costs ahead of the November election.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Russia",
+   "sanctions",
+   "energy prices",
+   "US politics",
+   "elections"
+  ],
+  "slug": "trump-administration-waives-new-russia-sanctions-ease-energy-costs-63ed25",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:41:42Z"
+ },
+ {
+  "id": "47c30bab6469745c",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o",
+  "source": "BBC Sport",
+  "source_title": "Villa's Manzambi shows Newcastle what they missed out on",
+  "source_summary": "Aston Villa are a side back in form, with Johan Manzambi scoring the winner against a Newcastle team he turned down to move to Villa Park.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/674bcbf0-ca6e-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-17T21:18:26+00:00",
+  "headline": "Manzambi Nets Winner as Villa Beat Newcastle, Who He Rejected",
+  "body": [
+   {
+    "type": "p",
+    "text": "Aston Villa returned to winning ways in the Premier League after Johan Manzambi scored the decisive goal against Newcastle United. The French forward, who declined Newcastle's earlier approach before signing for Villa, found the net in the closing stages to secure the victory."
+   },
+   {
+    "type": "p",
+    "text": "The win highlights Villa's resurgence after a period of mixed results, while Newcastle were left to reflect on a missed opportunity both on the pitch and in the transfer market. Manzambi's performance underscores the impact of his decision to join Villa Park over staying with the northern club."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The match illustrates how transfer decisions can influence team fortunes in the highly competitive Premier League, a league followed closely by fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Johan Manzambi scored the winning goal for Aston Villa against Newcastle United.",
+   "Manzambi had previously turned down Newcastle before moving to Villa.",
+   "The result marks a return to form for Villa in the Premier League."
+  ],
+  "meta_description": "Johan Manzambi scores winner for Aston Villa against Newcastle, a club he previously rejected, sparking Villa's return to form.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Aston Villa",
+   "Newcastle United",
+   "Johan Manzambi",
+   "Premier League",
+   "transfer",
+   "match result"
+  ],
+  "slug": "manzambi-nets-winner-villa-beat-newcastle-who-he-rejected-47c30b",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:41:46Z"
+ },
+ {
+  "id": "5c37b2406edd5a29",
+  "source_url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+  "source": "TechCrunch",
+  "source_title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+  "source_summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+  "source_tags": [
+   "Government & Policy",
+   "Media & Entertainment",
+   "Social",
+   "Alex Gibney",
+   "Elon Musk",
+   "TikTok"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-17T20:55:52+00:00",
+  "headline": "TikTok Permanently Bans Advertising Account for Elon Musk Documentary",
+  "body": [
+   {
+    "type": "p",
+    "text": "TikTok has removed the advertising account associated with a four‑hour documentary about Elon Musk, issuing a permanent ban on the profile. The platform cited violations of its advertising policies as the reason for the action."
+   },
+   {
+    "type": "p",
+    "text": "The ban adds to a series of obstacles the documentary has encountered across major social media services, where the film’s promotional content has repeatedly been restricted or removed. While the documentary itself remains available through other channels, its ability to reach audiences via paid promotion on TikTok is now blocked."
+   },
+   {
+    "type": "p",
+    "text": "The decision underscores TikTok’s ongoing enforcement of its ad guidelines, particularly for high‑profile subjects that attract significant public attention."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ban limits the documentary’s reach on a platform with a large U.S. and European user base, highlighting how content creators must navigate varying policy standards."
+   }
+  ],
+  "key_points": [
+   "TikTok permanently disabled the ad account promoting an Elon Musk documentary.",
+   "The documentary has faced repeated resistance from multiple social media platforms."
+  ],
+  "meta_description": "TikTok permanently bans the ad account for an Elon Musk documentary, adding to the film's challenges on social media platforms.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "TikTok",
+   "documentary",
+   "advertising",
+   "social media",
+   "platform policy"
+  ],
+  "slug": "tiktok-permanently-bans-advertising-account-elon-musk-documentary-5c37b2",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:41:50Z"
+ },
+ {
+  "id": "4ad96c026db61c9d",
+  "source_url": "https://www.bbc.co.uk/news/articles/crwydey50xeno",
+  "source": "BBC News",
+  "source_title": "Anti-government protesters battle with police in Albania",
+  "source_summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b85/live/bbc9c4f0-ca6b-11f1-b2e2-233efb1fd43c.jpg",
+  "published": "2026-10-17T20:53:00+00:00",
+  "headline": "Albanian Riot Police Clash With Anti‑Government Protesters in Tirana",
+  "body": [
+   {
+    "type": "p",
+    "text": "Violent confrontations erupted on Saturday in Albania's capital, Tirana, as anti‑government demonstrators faced off with riot police. The clashes spread across multiple streets, with police deploying crowd‑control measures to disperse the protesters."
+   },
+   {
+    "type": "p",
+    "text": "Witnesses reported that the unrest continued throughout the day, leading to numerous injuries among both demonstrators and officers. Authorities have not released an official casualty count, but the intensity of the fighting prompted a heightened police presence in the city center."
+   }
+  ],
+  "key_points": [
+   "Anti‑government protesters and riot police engaged in violent clashes across Tirana on Saturday.",
+   "The unrest persisted throughout the day, resulting in injuries on both sides.",
+   "Albanian authorities have not yet provided an official casualty figure."
+  ],
+  "meta_description": "Anti‑government protesters and riot police clashed violently in Tirana on Saturday, causing injuries and prompting a strong police response.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Albania",
+   "protests",
+   "police",
+   "Tirana",
+   "Europe"
+  ],
+  "slug": "albanian-riot-police-clash-with-antigovernment-protesters-tirana-4ad96c",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:42:06Z"
+ },
+ {
+  "id": "007e1a580ed84594",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo",
+  "source": "BBC News",
+  "source_title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+  "source_summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ac/live/03c510f0-ca5a-11f1-852c-2b93a8fc4799.jpg",
+  "published": "2026-10-17T20:52:17+00:00",
+  "headline": "Violent Clashes and Looting Sweep French Cities After Massive Protests",
+  "body": [
+   {
+    "type": "p",
+    "text": "On a day when more than half a million people took to the streets across France to protest rising living costs, disorder erupted in several cities. Demonstrators clashed with police, resulting in violent confrontations, looting and fires that engulfed multiple buildings."
+   },
+   {
+    "type": "p",
+    "text": "Law enforcement responded with a large-scale operation, arresting hundreds of individuals as they attempted to restore order. The unrest spread beyond the capital, affecting urban centers from Marseille to Lille, where windows were smashed and storefronts set ablaze."
+   },
+   {
+    "type": "p",
+    "text": "Authorities described the situation as the most serious disturbance in recent months, emphasizing the challenge of balancing public safety with the right to protest. Officials warned that the scale of the unrest could have broader implications for social stability and economic confidence in France."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The scale of the protests highlights growing economic pressure across Europe, which could affect markets and policy decisions that also impact the United States and its allies."
+   }
+  ],
+  "key_points": [
+   "More than 500,000 people joined cost‑of‑living protests in France, sparking violent clashes and looting.",
+   "Hundreds were arrested as police fought to contain fires and property damage in multiple cities.",
+   "The unrest marks one of the most severe episodes of civil disorder in France this year."
+  ],
+  "meta_description": "Violent clashes, looting and fires broke out in French cities after half‑a‑million protested cost‑of‑living hikes, leading to hundreds of arrests.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "cost of living",
+   "riots",
+   "arrests",
+   "civil unrest"
+  ],
+  "slug": "violent-clashes-looting-sweep-french-cities-after-massive-protests-007e1a",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:42:18Z"
+ },
+ {
+  "id": "610b2389dc841014",
+  "source_url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o",
+  "source": "BBC News",
+  "source_title": "No further action against government adviser's wife over Palestine Action post, police say",
+  "source_summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg",
+  "published": "2026-10-17T20:24:32+00:00",
+  "headline": "Police Close Investigation Into Adviser’s Wife Over Palestine Post",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Metropolitan Police announced that no further action will be taken against Sarah Helm, the wife of former government adviser Jonathan Powell, after she posted a comment relating to a Palestine‑related discussion. The decision follows an inquiry into whether the social‑media post breached any laws."
+   },
+   {
+    "type": "p",
+    "text": "Helm’s comment was made in response to an online conversation about author Sally Rooney, and authorities concluded that it did not constitute a criminal offence. Police spokespersons said the matter was reviewed in line with standard procedures for online content that could be deemed extremist or hateful."
+   },
+   {
+    "type": "p",
+    "text": "The closure of the case underscores the challenges faced by law enforcement in balancing free expression with concerns over extremist messaging, particularly in the context of heightened tensions surrounding the Israel‑Palestine conflict."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision illustrates how UK authorities handle social‑media posts about contentious geopolitical issues, a matter of interest for audiences monitoring free‑speech and security policies in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Police have decided not to pursue charges against Sarah Helm over her Palestine‑related social‑media comment.",
+   "The post was made in a discussion about author Sally Rooney and was deemed not to breach UK law.",
+   "The case highlights ongoing scrutiny of online speech linked to the Israel‑Palestine issue."
+  ],
+  "meta_description": "UK police close investigation into adviser Jonathan Powell's wife over a Palestine‑related social media comment.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Palestine",
+   "UK police",
+   "Jonathan Powell",
+   "social media",
+   "free speech",
+   "Israel-Palestine"
+  ],
+  "slug": "police-close-investigation-into-advisers-wife-over-palestine-post-610b23",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:42:02Z"
+ },
+ {
+  "id": "b769f5e984a396b0",
+  "source_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+  "source": "TechCrunch",
+  "source_title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+  "source_summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+  "source_tags": [
+   "AI",
+   "Anthropic"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-17T20:21:19+00:00",
+  "headline": "Anthropic Reports More Senior Staff and Increased Meeting Time",
+  "body": [
+   {
+    "type": "p",
+    "text": "Anthropic, the AI research firm behind Claude, disclosed that its employee composition has shifted over the past year, with a noticeable decline in junior hires. The company said a larger share of its workforce now holds senior or experienced roles, reflecting a strategic move toward deeper expertise in its projects."
+   },
+   {
+    "type": "p",
+    "text": "Alongside the staffing change, Anthropic noted that employees are spending a greater proportion of their workday in meetings. The firm attributed the rise in meeting time to the need for cross‑functional coordination as the organization tackles more complex AI initiatives."
+   },
+   {
+    "type": "p",
+    "text": "The company did not provide specific figures for the senior‑to‑junior ratio or the exact increase in meeting hours, but the statements suggest a broader industry trend toward experienced talent and collaborative processes in AI development."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift signals how leading AI firms are prioritizing seasoned talent and coordination, which could influence hiring and operational practices across the tech sector in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Anthropic's workforce now includes fewer junior employees and more senior staff.",
+   "Employees are devoting more time to meetings as projects become more complex."
+  ],
+  "meta_description": "Anthropic says its staff is now more senior and meeting time has risen, highlighting evolving AI industry work patterns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Anthropic",
+   "AI workforce",
+   "hiring trends",
+   "corporate culture",
+   "tech industry"
+  ],
+  "slug": "anthropic-reports-more-senior-staff-increased-meeting-time-b769f5",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:42:14Z"
+ },
+ {
+  "id": "bc1a0a29be5769e3",
+  "source_url": "https://www.nytimes.com/2026/10/17/us/politics/graham-trump-russia-sanctions-law.html",
+  "source": "The New York Times",
+  "source_title": "Graham Breaks With Trump Over Russia Sanctions Law Her Brother Championed",
+  "source_summary": "Senator Darline Graham, appointed to fill the Senate seat of her late brother, Lindsey, gently disagreed with the president’s decision to exempt Russia from the sanctions legislation.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Embargoes and Sanctions",
+   "Russian Invasion of Ukraine (2022)",
+   "Midterm Elections (2026)",
+   "Republican Party",
+   "Senate",
+   "Nordone, Darline Graham",
+   "Trump, Donald J",
+   "Graham, Lindsey",
+   "Russia"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17DC-GRAHAM-UKRAINE-2-zlcw/17DC-GRAHAM-UKRAINE-2-zlcw-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T20:14:00+00:00",
+  "headline": "Senator Darline Graham Opposes Trump's Russia Sanctions Exemption",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senator Darline Graham, who was appointed to fill the Senate seat left vacant by her late brother Lindsey Graham, has publicly expressed a gentle disagreement with President Trump's decision to exempt Russia from recently passed sanctions legislation."
+   },
+   {
+    "type": "p",
+    "text": "While acknowledging the administration's authority, Graham indicated that she believes the exemption could undermine the intended impact of the sanctions bill, which was designed to pressure Russia on various geopolitical issues."
+   },
+   {
+    "type": "p",
+    "text": "The senator's stance marks a rare public divergence within the Republican ranks, highlighting internal debate over the balance between diplomatic flexibility and firm economic measures against Russia."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disagreement underscores ongoing U.S. and European concerns about the effectiveness of sanctions as a tool to influence Russian policy."
+   }
+  ],
+  "key_points": [
+   "Senator Darline Graham was appointed to succeed her brother Lindsey Graham in the Senate.",
+   "She publicly disagreed with President Trump's exemption of Russia from new sanctions legislation."
+  ],
+  "meta_description": "Senator Darline Graham, appointed to replace her brother, opposes Trump's move to exempt Russia from new sanctions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US Senate",
+   "Russia sanctions",
+   "Trump administration",
+   "Darline Graham",
+   "Congress"
+  ],
+  "slug": "senator-darline-graham-opposes-trump-s-russia-sanctions-exemption-bc1a0a",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:42:10Z"
+ },
+ {
+  "id": "1bdfc9526fa86d48",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo",
+  "source": "BBC Sport",
+  "source_title": "Wirtz delivers but remains Liverpool's conundrum",
+  "source_summary": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8e/live/95495ef0-ca64-11f1-a8e8-d5fafa9ef723.jpg",
+  "published": "2026-10-17T20:07:40+00:00",
+  "headline": "Florian Wirtz Sparks Liverpool Win Yet Poses Tactical Puzzle",
+  "body": [
+   {
+    "type": "p",
+    "text": "Florian Wirtz played a decisive role as Liverpool snapped a recent slump and secured a Premier League victory, according to the BBC Sport report. His contributions on the pitch were highlighted as a key factor in the team's return to winning form."
+   },
+   {
+    "type": "p",
+    "text": "Despite the positive result, Liverpool manager Andoni Iraola faces a lingering dilemma over how best to integrate Wirtz into his system. The German midfielder’s impact has raised questions about his optimal position and role within the squad."
+   },
+   {
+    "type": "p",
+    "text": "The situation underscores the balance Liverpool must strike between capitalising on Wirtz’s talent and maintaining tactical coherence as the season progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Liverpool’s resurgence and the handling of a high‑profile talent like Wirtz are closely watched by fans across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Florian Wirtz was instrumental in Liverpool's recent Premier League win.",
+   "Manager Andoni Iraola still considers Wirtz a tactical conundrum for the team."
+  ],
+  "meta_description": "Florian Wirtz helps Liverpool win but leaves manager Andoni Iraola puzzling over his best role.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Florian Wirtz",
+   "Premier League",
+   "Andoni Iraola",
+   "football",
+   "England"
+  ],
+  "slug": "florian-wirtz-sparks-liverpool-win-yet-poses-tactical-puzzle-1bdfc9",
+  "reading_minutes": 1,
+  "added": "2026-10-17T21:41:58Z"
+ },
+ {
   "id": "470da62f3b145014",
   "source_url": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo",
   "source": "BBC Sport",
