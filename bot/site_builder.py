@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import re
 import logging
 import shutil
 from datetime import datetime, timedelta, timezone
@@ -56,6 +57,7 @@ def _env() -> Environment:
                        categories=config.CATEGORIES, year=datetime.now().year,
                        ver=datetime.now(timezone.utc).strftime('%Y%m%d%H%M'))
     env.filters["date"] = fmt_date
+    env.filters["bigimg"] = lambda u: re.sub(r"(ichef\.bbci\.co\.uk/(?:ace|news)/(?:standard|ws)/)\d+/", r"\g<1>800/", u or "")
     env.filters["tojson_safe"] = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
     return env
 
