@@ -2,7 +2,7 @@
 <div class="thumb cat-{{ a.category }}" style="aspect-ratio:{{ w }}/{{ h }}">
   <span class="thumb-ph" aria-hidden="true"><b>{{ categories[a.category] }}</b><small>{{ a.source }}</small></span>
   {% if site.USE_FEED_IMAGES and a.image %}
-  <img src="{{ a.image }}" alt="" width="{{ w }}" height="{{ h }}"
+  <img src="{{ a.image|bigimg }}" alt="" width="{{ w }}" height="{{ h }}"
        {% if eager %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async"
        referrerpolicy="no-referrer" onerror="this.remove()">
   {% endif %}

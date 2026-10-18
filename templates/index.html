@@ -8,9 +8,12 @@
 <h1 class="visually-hidden">{{ site.SITE_NAME }} – Latest News</h1>
 {% if articles %}
 <section class="hero">
-  {{ c.card(articles[0], 'lg', eager=True) }}
+  <div class="hero-main">
+    {{ c.card(articles[0], 'lg', eager=True) }}
+    {% if articles|length > 1 %}{{ c.card(articles[1], 'lg') }}{% endif %}
+  </div>
   <div class="hero-side">
-    {% for a in articles[1:5] %}{{ c.card(a, 'sm') }}{% endfor %}
+    {% for a in articles[2:7] %}{{ c.card(a, 'sm') }}{% endfor %}
   </div>
 </section>
 
@@ -19,7 +22,7 @@
 <section class="block">
   <h2 class="block-title">Latest News</h2>
   <div class="list">
-    {% for a in articles[5:17] %}
+    {% for a in articles[7:19] %}
       {{ c.card(a, 'row') }}
       {% if loop.index == 6 %}{{ ads.banner('infeed', 'rect_300', 300, 250) }}{% endif %}
     {% endfor %}
