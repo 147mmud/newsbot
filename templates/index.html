@@ -31,9 +31,9 @@
 
 {% for slug, name in categories.items() if by_cat[slug] %}
 <section class="block">
-  <h2 class="block-title"><a href="{{ url('category/' ~ slug ~ '/') }}">{{ name }} <span>More ›</span></a></h2>
-  <div class="grid">
-    {% for a in by_cat[slug][:4] %}{{ c.card(a, 'md') }}{% endfor %}
+  <h2 class="block-title bt-{{ slug }}"><a href="{{ url('category/' ~ slug ~ '/') }}">{{ name }} <span>More {{ name }} ›</span></a></h2>
+  <div class="grid grid-6">
+    {% for a in by_cat[slug][:6] %}{{ c.card(a, 'md') }}{% endfor %}
   </div>
 </section>
 {% if loop.index == 2 %}{{ ads.banner('mid', 'header_728', 728, 90, 'rect_300', 300, 250) }}{% endif %}

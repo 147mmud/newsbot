@@ -15,10 +15,10 @@
   <a href="{{ url('news/' ~ a.slug ~ '/') }}" class="card-link">
     {% if size == 'lg' %}{{ thumb(a, 800, 450, eager) }}{% elif size != 'txt' %}{{ thumb(a, 400, 225) }}{% endif %}
     <div class="card-body">
-      {% if size != 'lg' %}<span class="kicker">{{ categories[a.category] }}</span>{% endif %}
+      {% if size != 'lg' %}<span class="kicker k-{{ a.category }}">{{ a.source }}</span>{% endif %}
       <h3 class="card-title">{{ a.headline }}</h3>
       {% if size in ('lg', 'row') %}<p class="card-dek">{{ a.meta_description }}</p>{% endif %}
-      <span class="meta"><time datetime="{{ a.published }}">{{ a.published|date }}</time> · {{ a.source }}</span>
+      <span class="meta"><time datetime="{{ a.published }}">{{ a.published|date }}</time>{% if size == 'lg' %} · {{ a.source }}{% endif %}</span>
     </div>
   </a>
 </article>
