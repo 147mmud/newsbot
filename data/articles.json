@@ -1,5 +1,664 @@
 [
  {
+  "id": "214775273f2c610d",
+  "source_url": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html",
+  "source": "The New York Times",
+  "source_title": "Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course",
+  "source_summary": "The plan to begin work transforming the course in four weeks injected fresh urgency into a federal lawsuit opposing changes to East Potomac Golf Links.",
+  "source_tags": [
+   "Golf",
+   "Suits and Litigation (Civil)",
+   "United States Politics and Government",
+   "National Parks, Monuments and Seashores",
+   "East Potomac Golf Links",
+   "Democracy Forward (Nonprofit)",
+   "Interior Department",
+   "Justice Department",
+   "National Park Service",
+   "Burgum, Douglas"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18dc-trump-golfcourse-wtvp/18dc-trump-golfcourse-wtvp-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T19:11:55+00:00",
+  "headline": "Trump Proposes Four‑Week Overhaul of D.C.’s East Potomac Golf Course",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump announced a plan to shut down East Potomac Golf Links and begin a rapid redesign within four weeks. The proposal calls for an immediate closure of the public course followed by a comprehensive overhaul that would reshape the facility’s layout and amenities."
+   },
+   {
+    "type": "p",
+    "text": "Trump’s timetable has added new urgency to an ongoing federal lawsuit that challenges any alterations to the historic D.C. golf course. Plaintiffs in the case argue that the proposed changes could violate federal regulations governing the use of the waterfront property."
+   },
+   {
+    "type": "p",
+    "text": "The swift schedule underscores Trump’s broader push to demonstrate decisive action on local projects, while the lawsuit highlights the legal and political hurdles that any redevelopment must navigate. Officials have not yet confirmed whether the plan will proceed as outlined."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The plan pits a high‑profile political figure against federal courts, illustrating how redevelopment projects can become flashpoints in U.S. legal and political arenas."
+   }
+  ],
+  "key_points": [
+   "Trump wants to close East Potomac Golf Links and start a redesign in four weeks.",
+   "The proposal intensifies a federal lawsuit that opposes changes to the course."
+  ],
+  "meta_description": "Trump proposes a four‑week shutdown and redesign of D.C.’s East Potomac Golf Links, heightening a federal lawsuit over the course’s future.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "East Potomac",
+   "golf course",
+   "federal lawsuit",
+   "D.C.",
+   "redevelopment"
+  ],
+  "slug": "trump-proposes-fourweek-overhaul-d-c-s-east-potomac-214775",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:23:25Z"
+ },
+ {
+  "id": "cb12f25905ce2419",
+  "source_url": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Israel: Trump endorses Netanyahu ahead of elections",
+  "source_summary": "The US president said he supports Israel's current prime minister in the country's elections on October 27. But polls say Netanyahu and his far-right partners currently lack the majority to secure a new term.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-18T19:06:00+00:00",
+  "headline": "Trump Endorses Netanyahu Ahead of Israel’s Oct. 27 Election",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. President Donald Trump publicly voiced his support for Israeli Prime Minister Benjamin Netanyahu as the country prepares for its parliamentary election on October 27. The endorsement was made in a statement that highlighted Trump’s confidence in Netanyahu’s leadership."
+   },
+   {
+    "type": "p",
+    "text": "Despite the presidential backing, recent polling indicates that Netanyahu and his coalition of far‑right parties do not currently hold a clear majority needed to form a new government. Analysts note that the fragmented political landscape could lead to a protracted coalition‑building process after the vote."
+   },
+   {
+    "type": "p",
+    "text": "The endorsement underscores the close ties between the United States and Israel, while the poll results suggest that Israeli voters may still be divided over the direction of the government, potentially affecting regional diplomatic dynamics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The endorsement reflects U.S. influence in Israeli politics and may impact diplomatic relations in a volatile Middle East region."
+   }
+  ],
+  "key_points": [
+   "President Donald Trump has endorsed Israeli Prime Minister Benjamin Netanyahu ahead of the Oct. 27 election.",
+   "Polls show Netanyahu and his far‑right allies lack a clear majority to secure a new term."
+  ],
+  "meta_description": "President Trump backs Netanyahu before Israel's Oct. 27 election, though polls show the coalition lacks a clear majority.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "Trump",
+   "Netanyahu",
+   "election",
+   "US politics",
+   "Middle East"
+  ],
+  "slug": "trump-endorses-netanyahu-ahead-israels-oct-27-election-cb12f2",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:23:29Z"
+ },
+ {
+  "id": "c9a32103961d4236",
+  "source_url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+  "source": "TechCrunch",
+  "source_title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+  "source_summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+  "source_tags": [
+   "Media & Entertainment",
+   "elizabeth holmes",
+   "Nathan Fielder"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-18T19:03:38+00:00",
+  "headline": "Elizabeth Holmes Doc 'You Can See Everything' Sets Record Opening",
+  "body": [
+   {
+    "type": "p",
+    "text": "The documentary \"You Can See Everything,\" focusing on former Theranos CEO Elizabeth Holmes, has achieved the second‑largest opening weekend ever recorded for a documentary film."
+   },
+   {
+    "type": "p",
+    "text": "Industry trackers reported the strong debut, highlighting continued public interest in the high‑profile fraud case and its central figure."
+   },
+   {
+    "type": "p",
+    "text": "The film’s performance places it among the most successful documentary launches to date, underscoring the market appeal of true‑crime and corporate scandal stories."
+   }
+  ],
+  "key_points": [
+   "\"You Can See Everything\" records the second biggest opening weekend for any documentary.",
+   "The documentary centers on Elizabeth Holmes and the Theranos scandal.",
+   "Its strong debut reflects high audience demand for true‑crime and corporate fraud narratives."
+  ],
+  "meta_description": "Elizabeth Holmes documentary 'You Can See Everything' posts second‑biggest opening weekend ever for a documentary.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elizabeth Holmes",
+   "Theranos",
+   "documentary",
+   "box office",
+   "true crime",
+   "film industry"
+  ],
+  "slug": "elizabeth-holmes-doc-you-can-see-everything-sets-record-c9a321",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:23:32Z"
+ },
+ {
+  "id": "753af9b499f38f46",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+  "source": "The Guardian",
+  "source_title": "Outrage after Meta suspends No Kings Instagram account during protests",
+  "source_summary": "‘Meta owes us an explanation,’ group says as organizers fear censorship after account goes dark for several hours The coalition leaders behind nationwide pro-democracy protests that have drawn millions of Americans to the streets in recent years were frustrated when its Instagram account was temporarily shut down during its latest demonstration on Saturday . The No Kings movement’s account went dark for several hours while protests focused on increasing early voter turnout were underway, sparking censorship fears.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Protest (US)",
+   "US news",
+   "Trump administration",
+   "Donald Trump",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/ac9bb00e4c679b0e3959ae0f8e9825f1461f7202/116_0_1666_1333/master/1666.jpg?width=700&quality=85&auto=format&fit=max&s=921652365cfbc23e095464b0200d7f4c",
+  "published": "2026-10-18T19:00:02+00:00",
+  "headline": "Meta Suspends No Kings Instagram Account Amid US Pro‑Democracy Protest",
+  "body": [
+   {
+    "type": "p",
+    "text": "The coalition behind the No Kings movement, which has organized nationwide pro‑democracy demonstrations drawing millions of Americans, said its Instagram account was shut down for several hours on Saturday while protests urging early voter turnout were taking place. The outage occurred during the height of the rally, prompting organizers to accuse the platform of censorship."
+   },
+   {
+    "type": "p",
+    "text": "Group leaders demanded an explanation from Meta, stating, “Meta owes us an explanation,” and warned that the temporary suspension could hinder their ability to coordinate future actions. The incident has raised concerns among activists about the reliability of social‑media channels for mobilising large‑scale political events."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode underscores how platform decisions can impact political organizing in the United States and Europe, where social media is a key tool for mobilising voters."
+   }
+  ],
+  "key_points": [
+   "Meta temporarily disabled the No Kings movement's Instagram account during a major US protest.",
+   "Organizers view the shutdown as potential censorship and have called for an explanation.",
+   "The incident highlights the dependence of protest groups on social‑media platforms for coordination."
+  ],
+  "meta_description": "Meta temporarily shut down the No Kings Instagram account during a US pro‑democracy protest, sparking censorship concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "Instagram",
+   "censorship",
+   "protests",
+   "No Kings",
+   "voter turnout"
+  ],
+  "slug": "meta-suspends-no-kings-instagram-account-amid-us-prodemocracy-753af9",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:23:41Z"
+ },
+ {
+  "id": "4807ae8ed9e39572",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cme8rz8x6pw8o",
+  "source": "BBC Sport",
+  "source_title": "Bournemouth pick up first league victory with win over Sunderland",
+  "source_summary": "Bournemouth beat Sunderland 2-0 at the Vitality Stadium to pick up their first league victory of the season and move out of the relegation zone.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f655/live/6391e940-cb13-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-18T18:59:15+00:00",
+  "headline": "Bournemouth Secure First League Win, 2-0 Over Sunderland at Vitality",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bournemouth broke a winless streak by defeating Sunderland 2-0 at the Vitality Stadium. The victory marked the club's first league triumph of the season."
+   },
+   {
+    "type": "p",
+    "text": "The two-goal margin lifted Bournemouth out of the relegation zone, improving their standing in the league table. Sunderland were unable to respond, leaving the visitors with all three points."
+   },
+   {
+    "type": "p",
+    "text": "The result provides a morale boost for Bournemouth as they aim to climb higher in the competition, while Sunderland remain under pressure to secure points in upcoming matches."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome influences the relegation battle in English football, a storyline followed by fans across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Bournemouth earned their first league win of the season with a 2-0 victory over Sunderland.",
+   "The win moved Bournemouth out of the relegation zone.",
+   "Sunderland failed to score, leaving them still fighting for points."
+  ],
+  "meta_description": "Bournemouth claim their first league win of the season, beating Sunderland 2-0 and climbing out of the relegation zone.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bournemouth",
+   "Sunderland",
+   "league victory",
+   "relegation battle",
+   "English football"
+  ],
+  "slug": "bournemouth-secure-first-league-win-2-0-over-sunderland-4807ae",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:23:37Z"
+ },
+ {
+  "id": "90d7ea0054bfc373",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o",
+  "source": "BBC Sport",
+  "source_title": "Leeds extend Man Utd's winless run to six games",
+  "source_summary": "Dominic Calvert-Lewin earns a point for Leeds and extends Manchester United's winless run to six games.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f87/live/fe590f70-cb14-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-18T18:59:10+00:00",
+  "headline": "Leeds Secure Draw as Manchester United Slip to Six-Game Winless Streak",
+  "body": [
+   {
+    "type": "p",
+    "text": "Dominic Calvert-Lewin scored for Leeds United, earning the team a point in their latest Premier League match. The goal ensured Leeds avoided defeat, while the result extended Manchester United's run without a victory to six consecutive games."
+   },
+   {
+    "type": "p",
+    "text": "Manchester United's ongoing winless run highlights the challenges the club faces this season, as they continue to search for a turnaround in form. Leeds, meanwhile, added a valuable point to their campaign, bolstering their position in the league table."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result affects the Premier League standings, with United's slump raising questions about their title aspirations and Leeds' point keeping them in mid‑table contention."
+   }
+  ],
+  "key_points": [
+   "Dominic Calvert-Lewin's goal secured a draw for Leeds United.",
+   "Manchester United's winless streak reached six games.",
+   "Leeds earned a crucial point in the Premier League."
+  ],
+  "meta_description": "Leeds United earned a draw thanks to Dominic Calvert-Lewin, extending Manchester United's winless streak to six games in the Premier League.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Leeds United",
+   "Manchester United",
+   "Premier League",
+   "Calvert-Lewin",
+   "football"
+  ],
+  "slug": "leeds-secure-draw-manchester-united-slip-six-game-winless-90d7ea",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:23:49Z"
+ },
+ {
+  "id": "ab2f38f5e2b788bf",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cm70px0l7p7no",
+  "source": "BBC Sport",
+  "source_title": "Madueke's strike enough as Arsenal pick up narrow win over Forest",
+  "source_summary": "Noni Madueke comes of the bench to score the winning goal as Arsenal beat Nottingham Forest 1-0 at The City Ground.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/588a/live/a9171840-cb19-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-18T18:59:06+00:00",
+  "headline": "Madueke Scores Late Winner as Arsenal Edge Nottingham Forest 1-0",
+  "body": [
+   {
+    "type": "p",
+    "text": "Substitute forward Noni Madueke made the decisive impact for Arsenal after coming off the bench, netting the only goal of the match at The City Ground. The English Premier League clash ended 1-0 in favour of the visitors, with Madueke's strike arriving in the latter stages to secure all three points for the Gunners."
+   },
+   {
+    "type": "p",
+    "text": "Arsenal had dominated possession but struggled to break down a disciplined Forest defence throughout the game. The win keeps Arsenal in contention for a top-four finish, while Nottingham Forest remain in the lower half of the table, still seeking their first victory of the season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result keeps Arsenal in the race for a top-four Premier League finish, influencing European competition qualification."
+   }
+  ],
+  "key_points": [
+   "Noni Madueke scored the sole goal after entering as a substitute.",
+   "Arsenal defeated Nottingham Forest 1-0 at The City Ground.",
+   "The victory maintains Arsenal's push for a Champions League spot."
+  ],
+  "meta_description": "Noni Madueke's late goal gives Arsenal a 1-0 win over Nottingham Forest, boosting their top‑four ambitions.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Nottingham Forest",
+   "Premier League",
+   "Noni Madueke",
+   "goal",
+   "match result"
+  ],
+  "slug": "madueke-scores-late-winner-arsenal-edge-nottingham-forest-1-ab2f38",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:24:01Z"
+ },
+ {
+  "id": "2485a1df2f4de8f6",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+  "source": "NPR",
+  "source_title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+  "source_summary": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5101x3401+0+0/resize/5101x3401!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2F9f%2F6ee4e955401a8491a881a8f28365%2Fap26289442815625.jpg",
+  "published": "2026-10-18T18:38:49+00:00",
+  "headline": "Ukraine Accuses U.S. of Cutting Off Starshield Satellite Service",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelenskyy said he believes the United States government is responsible for his military's recent loss of regular access to Starshield, a satellite communications service that has been critical for Ukrainian forces."
+   },
+   {
+    "type": "p",
+    "text": "Starshield, a key component of Ukraine's battlefield communications, has experienced disruptions that Zelenskyy says are linked to U.S. policy decisions. The president's remarks highlight growing tension between Kyiv and Washington over the provision of advanced communications technology."
+   },
+   {
+    "type": "p",
+    "text": "The dispute comes as Ukraine continues to rely on satellite links for command, control and intelligence sharing. Officials in both countries have not publicly detailed the reasons for the service interruption, leaving the exact cause unclear."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disruptions to Ukraine's satellite communications could affect its ability to coordinate defense efforts, a concern for NATO allies and U.S. policymakers supporting Kyiv."
+   }
+  ],
+  "key_points": [
+   "President Zelenskyy claims the U.S. caused Ukraine's loss of regular Starshield satellite access.",
+   "Starshield is a vital communications tool for Ukrainian military operations.",
+   "The allegation signals rising friction between Ukraine and the United States over defense support."
+  ],
+  "meta_description": "Zelenskyy says the U.S. halted Ukraine's access to Starshield satellite communications, sparking tension over defense support.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "United States",
+   "Starshield",
+   "satellite communications",
+   "defense policy"
+  ],
+  "slug": "ukraine-accuses-u-s-cutting-off-starshield-satellite-service-2485a1",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:23:56Z"
+ },
+ {
+  "id": "6e421dca38c1d3a8",
+  "source_url": "https://www.nytimes.com/2026/10/18/us/politics/obama-ilhan-omar-trump-investigation-immigration.html",
+  "source": "The New York Times",
+  "source_title": "Obama Defends Rep. Ilhan Omar Amid Trump Administration Inquiry",
+  "source_summary": "Federal agents searched Ms. Omar’s Washington home last week and issued subpoenas to some family members in search of evidence of fraud in immigration paperwork.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Subpoenas",
+   "Immigration and Emigration",
+   "Obama, Barack",
+   "Omar, Ilhan",
+   "Trump, Donald J",
+   "Midterm Elections (2026)",
+   "Search and Seizure",
+   "Minnesota"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18dc-obama-omar-fqbz/18dc-obama-omar-fqbz-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T18:34:21+00:00",
+  "headline": "Obama Defends Ilhan Omar as Trump Inquiry Targets Immigration Papers",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Barack Obama publicly defended Representative Ilhan Omar after federal agents conducted a search of her Washington, D.C., residence last week. The search was part of a broader investigation launched by the Trump administration into alleged fraud in immigration paperwork linked to Omar and her family."
+   },
+   {
+    "type": "p",
+    "text": "According to reports, subpoenas were also issued to several of Omar's family members as investigators seek evidence of possible violations. The inquiry has intensified political scrutiny of the congresswoman, who has faced criticism from Republican leaders over her immigration stance."
+   },
+   {
+    "type": "p",
+    "text": "Obama's intervention underscores the partisan divide surrounding the investigation, with Democrats viewing the probe as politically motivated while Republicans argue it is a legitimate enforcement action."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights ongoing partisan battles over immigration policy and congressional oversight in the United States."
+   }
+  ],
+  "key_points": [
+   "Federal agents searched Ilhan Omar's home and subpoenaed family members over suspected immigration paperwork fraud.",
+   "Former President Barack Obama defended Omar amid the Trump administration's inquiry."
+  ],
+  "meta_description": "Obama backs Ilhan Omar as federal agents search her home and subpoena family in a Trump‑admin immigration fraud probe.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Obama",
+   "Ilhan Omar",
+   "Trump administration",
+   "immigration",
+   "congressional inquiry"
+  ],
+  "slug": "obama-defends-ilhan-omar-trump-inquiry-targets-immigration-papers-6e421d",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:23:53Z"
+ },
+ {
+  "id": "de6b0c59a9e6b0d3",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+  "source": "The Verge",
+  "source_title": "A woman was arrested in Philly for blocking a delivery robot",
+  "source_summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+  "source_tags": [
+   "AI",
+   "Law",
+   "News",
+   "Policy",
+   "Robot",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-18T18:28:10+00:00",
+  "headline": "Philadelphia Woman Arrested for Blocking Uber Delivery Robot",
+  "body": [
+   {
+    "type": "p",
+    "text": "Carolyn Marvin was taken into custody in Philadelphia and charged with disorderly conduct after she deliberately stood in front of an Uber delivery robot, refusing to move aside. Police said Marvin blocked the robot's path and resisted officers' attempts to clear the way."
+   },
+   {
+    "type": "p",
+    "text": "During an interview with local station ABC13, Marvin said she was protesting the robots because she believes they are taking jobs from human delivery workers. She claimed she has been stopping the robots whenever she sees them as a form of direct action."
+   },
+   {
+    "type": "p",
+    "text": "Authorities indicated that the arrest was based on the immediate disruption caused by Marvin’s actions and her refusal to comply with police instructions. The case highlights growing tensions as autonomous delivery devices become more common in urban areas."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The arrest reflects broader debates in the US and Europe over the impact of delivery robots on employment and public safety."
+   }
+  ],
+  "key_points": [
+   "A Philadelphia woman was arrested and charged with disorderly conduct for blocking an Uber delivery robot.",
+   "Marvin said her protest was aimed at protecting human delivery jobs from automation.",
+   "The incident underscores rising public pushback against autonomous delivery technology."
+  ],
+  "meta_description": "Philadelphia woman arrested for blocking an Uber delivery robot, citing job‑loss protests.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "delivery robots",
+   "automation protest",
+   "Philadelphia arrest",
+   "Uber",
+   "labor concerns"
+  ],
+  "slug": "philadelphia-woman-arrested-blocking-uber-delivery-robot-de6b0c",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:23:44Z"
+ },
+ {
+  "id": "d0dbaac75271fb78",
+  "source_url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+  "source": "The New York Times",
+  "source_title": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+  "source_summary": "Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in the province of Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil.",
+  "source_tags": [
+   "Fires and Firefighters",
+   "Deaths (Fatalities)",
+   "Military Bases and Installations",
+   "Carney, Mark J",
+   "Canada",
+   "Edmonton (Alberta)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T17:43:02+00:00",
+  "headline": "Fire at Canadian Forces Base Wainwright Kills 4, Injures Dozens",
+  "body": [
+   {
+    "type": "p",
+    "text": "A violent, fast‑moving fire broke out on Saturday at Canadian Forces Base Wainwright in Alberta, resulting in four fatalities and injuries to dozens of personnel. Prime Minister Mark Carney described the incident as one of the worst peacetime tragedies to affect Canada’s armed forces on Canadian soil."
+   },
+   {
+    "type": "p",
+    "text": "Emergency responders battled the blaze for several hours before bringing it under control. The base, which houses a large contingent of army troops, was temporarily evacuated as fire crews worked to contain the flames and secure the area."
+   }
+  ],
+  "key_points": [
+   "Four service members were killed and dozens more injured in the Wainwright base fire.",
+   "Prime Minister Mark Carney called the blaze one of the worst peacetime military tragedies in Canada."
+  ],
+  "meta_description": "A fast‑moving fire at Canada’s Wainwright military base killed four and injured dozens, marking a major peacetime tragedy for the armed forces.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "military",
+   "fire",
+   "Alberta",
+   "tragedy",
+   "defense"
+  ],
+  "slug": "fire-canadian-forces-base-wainwright-kills-4-injures-dozens-d0dbaa",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:24:09Z"
+ },
+ {
+  "id": "a66da920b895afb9",
+  "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
+  "source": "The Guardian",
+  "source_title": "How Trump’s justice department is shattering practice of political neutrality as midterms loom",
+  "source_summary": "From the attorney general stumping for Republican candidates to federal agents raiding the home of a Democratic congresswoman up for re-election, the department is violating longstanding norms Donald Trump’s justice department has aggressively inserted itself into the midterm elections in the contest’s final weeks, shattering the department’s longstanding practice of political neutrality and leaving little doubt about the department’s willingness to help should the president attempt to subvert elections where his party is forecasted to lose seats and ultimately control of Congress. In the last few weeks, federal agents have raided the home of a Democratic congresswoman up for re-election. It has touted criminal charges and arrests of non-citizens charged with voter fraud. The attorney general has hit the campaign trail to stump for Republican candidates. And the department gave California election officials 48 hours to investigate the citizenship of 20,000 people, and then sued the state when it refused to comply. The FBI also recently published a video criticizing Michigan senate candidate Abdul El-Sayed and other Democrats , drawing an immediate rebuke from one watchdog, who said the video “has no place in a democratic society”.",
+  "source_tags": [
+   "Trump administration",
+   "US midterm elections 2026",
+   "Donald Trump",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/180a926d6092c30c32b24d3d24817b5d9717e511/0_6_2664_2130/master/2664.jpg?width=700&quality=85&auto=format&fit=max&s=4016b0e2c141f1abff1b5b853c08ea29",
+  "published": "2026-10-18T17:18:14+00:00",
+  "headline": "Trump Justice Department Breaks Neutrality Ahead of Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "In the weeks before the 2026 midterm elections, the Justice Department has taken actions that depart from its long‑standing practice of political neutrality. Attorney General Merrick Garland has appeared at campaign events to endorse Republican candidates, while federal agents raided the home of a Democratic congresswoman seeking re‑election."
+   },
+   {
+    "type": "p",
+    "text": "The department has also pursued voter‑fraud cases that target non‑citizens, publicized criminal charges, and pressured California election officials to verify the citizenship of 20,000 voters within 48 hours, later suing the state when it declined to comply. Additionally, the FBI released a video criticizing Michigan Senate candidate Abdul El‑Sayed and other Democrats, prompting a watchdog to condemn the material as inappropriate for a democratic society."
+   },
+   {
+    "type": "p",
+    "text": "These moves come as the administration prepares for a midterm cycle in which Democrats are projected to lose seats and control of Congress. Critics argue the Justice Department’s actions signal a willingness to intervene in the electoral process to benefit the president’s party."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The department’s partisan conduct raises concerns about the integrity of U.S. elections and could influence democratic norms that European partners closely monitor."
+   }
+  ],
+  "key_points": [
+   "The Justice Department has publicly supported Republican candidates and targeted Democratic officials in the run‑up to the midterms.",
+   "Federal actions include a raid on a Democratic lawmaker’s home, a lawsuit against California over voter‑citizenship checks, and an FBI video attacking Democratic candidates."
+  ],
+  "meta_description": "The Justice Department’s recent partisan actions, including raids and lawsuits, threaten political neutrality ahead of the 2026 U.S. midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Justice Department",
+   "midterm elections",
+   "political neutrality",
+   "voter fraud",
+   "US politics"
+  ],
+  "slug": "trump-justice-department-breaks-neutrality-ahead-midterms-a66da9",
+  "reading_minutes": 1,
+  "added": "2026-10-18T19:24:05Z"
+ },
+ {
   "id": "c656ecc3f3ddd158",
   "source_url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
   "source": "The Guardian",
