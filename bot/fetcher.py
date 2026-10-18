@@ -8,7 +8,7 @@ import re
 import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
-from urllib.parse import urlsplit, urlunsplit
+from urllib.parse import urljoin, urlsplit, urlunsplit
 
 import feedparser
 import requests
@@ -77,6 +77,37 @@ def _image(entry) -> str | None:
         return None
     candidates.sort(key=lambda c: c[0], reverse=True)
     return candidates[0][1]
+
+
+def page_image(url: str) -> str | None:
+    """Fallback when the feed has no thumbnail: read the article page's own
+    share image (og:image / twitter:image), the picture publishers provide
+    for link previews. Only the <head> is read; nothing else is scraped."""
+    try:
+        r = requests.get(url, timeout=10, stream=True,
+                         headers={"User-Agent": config.USER_AGENT, "Accept": "text/html"})
+        if r.status_code != 200 or "html" not in r.headers.get("content-type", ""):
+            return None
+        head = b""
+        for chunk in r.iter_content(16384):
+            head += chunk
+            if b"</head>" in head.lower() or len(head) > 400_000:
+                break
+        r.close()
+        soup = BeautifulSoup(head.decode(r.encoding or "utf-8", "ignore"), "html.parser")
+        for attrs in ({"property": "og:image"}, {"property": "og:image:url"},
+                      {"name": "twitter:image"}, {"name": "twitter:image:src"}):
+            tag = soup.find("meta", attrs=attrs)
+            if tag and tag.get("content"):
+                img = urljoin(url, tag["content"].strip())
+                if img.startswith("http"):
+                    return img
+        link = soup.find("link", rel="image_src")
+        if link and link.get("href"):
+            return urljoin(url, link["href"])
+    except Exception as exc:
+        log.info("No page image for %s: %s", url, exc)
+    return None
 
 
 def fetch_feed(feed: tuple) -> list[dict]:
