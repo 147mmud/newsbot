@@ -48,7 +48,7 @@ def run(args) -> int:
                 continue
             dedupe.add(item)
             art = processor.process(item)
-            if not art.get("image") and config.USE_FEED_IMAGES:
+            if (not art.get("image") or fetcher.is_bad_image(art.get("image"))) and config.USE_FEED_IMAGES:
                 art["image"] = fetcher.page_image(art["source_url"])
                 art["img_checked"] = True
             art["added"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
@@ -68,6 +68,10 @@ def run(args) -> int:
 
     # Backfill: give older articles without a picture a try (a few per run)
     if not args.build_only and config.USE_FEED_IMAGES:
+        for a in articles:                      # drop tracking pixels saved earlier
+            if fetcher.is_bad_image(a.get("image")):
+                a["image"] = None
+                a.pop("img_checked", None)
         todo = [a for a in articles if not a.get("image") and not a.get("img_checked")][:60]
         for a in todo:
             a["image"] = fetcher.page_image(a["source_url"])
