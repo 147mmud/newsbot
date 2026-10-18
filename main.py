@@ -50,7 +50,7 @@ def run(args) -> int:
             art = processor.process(item)
             if (not art.get("image") or fetcher.is_bad_image(art.get("image"))) and config.USE_FEED_IMAGES:
                 art["image"] = fetcher.page_image(art["source_url"])
-                art["img_checked"] = True
+                art["img_checked"] = 2
             art["added"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
             new.append(art)
             log.info("[%s|%s] %s", art["category"], art["mode"], art["headline"])
@@ -72,10 +72,11 @@ def run(args) -> int:
             if fetcher.is_bad_image(a.get("image")):
                 a["image"] = None
                 a.pop("img_checked", None)
-        todo = [a for a in articles if not a.get("image") and not a.get("img_checked")][:60]
+        # img_checked: True = tried once (bot UA), 2 = also tried with a browser UA
+        todo = [a for a in articles if not a.get("image") and a.get("img_checked") != 2][:60]
         for a in todo:
             a["image"] = fetcher.page_image(a["source_url"])
-            a["img_checked"] = True
+            a["img_checked"] = 2
         if todo:
             log.info("Backfilled images: %d/%d found", sum(1 for a in todo if a["image"]), len(todo))
 
