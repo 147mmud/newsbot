@@ -53,7 +53,8 @@ def _env() -> Environment:
                       autoescape=select_autoescape(["html", "xml"]),
                       trim_blocks=True, lstrip_blocks=True)
     env.globals.update(url=url, abs_url=abs_url, ad=ad, site=config,
-                       categories=config.CATEGORIES, year=datetime.now().year)
+                       categories=config.CATEGORIES, year=datetime.now().year,
+                       ver=datetime.now(timezone.utc).strftime('%Y%m%d%H%M'))
     env.filters["date"] = fmt_date
     env.filters["tojson_safe"] = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
     return env
