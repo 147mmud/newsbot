@@ -13,6 +13,7 @@ from xml.sax.saxutils import escape
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import config
+from bot import fetcher
 from bot import scores
 
 log = logging.getLogger("builder")
@@ -79,12 +80,16 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
     OUT.mkdir()
     shutil.copytree(ROOT / "static", OUT / "static")
 
-    by_cat = {c: [a for a in articles if a["category"] == c] for c in config.CATEGORIES}
-    trending = articles[:6]
+    # Listings (home, sections, related, trending) only show stories that have
+    # a real photo; stories without one still get their own page + sitemap entry.
+    listed = [a for a in articles if a.get("image") and not fetcher.is_bad_image(a["image"])] \
+        if config.USE_FEED_IMAGES else list(articles)
+    by_cat = {c: [a for a in listed if a["category"] == c] for c in config.CATEGORIES}
+    trending = listed[:6]
 
     # --- Home ---------------------------------------------------------------
     _write(OUT / "index.html", env.get_template("index.html").render(
-        page="home", articles=articles[:40], by_cat=by_cat, trending=trending,
+        page="home", articles=listed[:40], by_cat=by_cat, trending=trending,
         canonical=abs_url(), title=f"{config.SITE_NAME} – {config.SITE_TAGLINE}",
         description=config.SITE_TAGLINE))
 
@@ -103,7 +108,7 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
     # --- Articles -----------------------------------------------------------
     tpl = env.get_template("article.html")
     for a in articles:
-        related = [r for r in by_cat[a["category"]] if r["id"] != a["id"]][:4]
+        related = [r for r in by_cat[a["category"]] if r["id"] != a["id"]][:6]
         path = f"news/{a['slug']}/"
         _write(OUT / path / "index.html", tpl.render(
             page=a["category"], a=a, related=related, trending=trending,

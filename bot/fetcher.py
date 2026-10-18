@@ -52,7 +52,7 @@ def _published(entry) -> datetime:
     return datetime.now(timezone.utc)
 
 
-_BAD_IMG = re.compile(r"(pixel|tracking|spacer|blank|1x1|feedburner|/stats\.)", re.I)
+_BAD_IMG = re.compile(r"(pixel|tracking|spacer|blank|1x1|feedburner|/stats\.|facebook-default|default-(?:wide|image|share|og)|placeholder|no[-_]?image)", re.I)
 
 
 def is_bad_image(url: str | None) -> bool:
@@ -91,13 +91,23 @@ def _image(entry) -> str | None:
     return candidates[0][1]
 
 
+BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/128.0 Safari/537.36")
+
+
 def page_image(url: str) -> str | None:
+    """Try the bot user agent first, then a browser one (some sites serve
+    a stripped page to bots)."""
+    return _page_image(url, config.USER_AGENT) or _page_image(url, BROWSER_UA)
+
+
+def _page_image(url: str, ua: str) -> str | None:
     """Fallback when the feed has no thumbnail: read the article page's own
     share image (og:image / twitter:image), the picture publishers provide
     for link previews. Only the <head> is read; nothing else is scraped."""
     try:
         r = requests.get(url, timeout=10, stream=True,
-                         headers={"User-Agent": config.USER_AGENT, "Accept": "text/html"})
+                         headers={"User-Agent": ua, "Accept": "text/html"})
         if r.status_code != 200 or "html" not in r.headers.get("content-type", ""):
             return None
         head = b""
@@ -115,7 +125,7 @@ def page_image(url: str) -> str | None:
                 if img.startswith("http") and not is_bad_image(img):
                     return img
         link = soup.find("link", rel="image_src")
-        if link and link.get("href"):
+        if link and link.get("href") and not is_bad_image(link["href"]):
             return urljoin(url, link["href"])
     except Exception as exc:
         log.info("No page image for %s: %s", url, exc)
