@@ -118,6 +118,16 @@ a.sb-card:hover{border-color:rgba(255,255,255,.3)}
 .card-sm .card-title{font-size:15px}
 .card-sm .card-body{padding:8px 10px}
 .card-sm .thumb-cat{display:none}
+.card-sm .card-link,.card-row .card-link{align-items:stretch}
+.card-sm .thumb,.card-row .thumb{aspect-ratio:auto!important;height:100%;min-height:96px}
+.thumb-ph{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;padding:8px;text-align:center;color:#fff;background-image:radial-gradient(circle at 20% 15%,rgba(255,255,255,.18),transparent 55%),repeating-linear-gradient(135deg,rgba(255,255,255,.05) 0 2px,transparent 2px 12px)}
+.thumb-ph b{font:700 15px/1.1 var(--serif);text-shadow:0 1px 2px rgba(0,0,0,.25)}
+.thumb-ph small{font:600 10px var(--font);letter-spacing:.06em;text-transform:uppercase;opacity:.85}
+.card-sm .thumb-ph b{font-size:12px}
+.card-lg .thumb-ph b{font-size:28px}
+.card-lg .thumb-ph small{font-size:12px}
+.thumb img{z-index:1}
+.thumb-cat{z-index:2}
 .card-row .card-link{display:grid;grid-template-columns:minmax(110px,32%) 1fr}
 @media (max-width:520px){.card-row .card-dek{display:none}.card-row .card-title{font-size:15px}}
 
