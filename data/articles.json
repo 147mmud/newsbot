@@ -1,5 +1,704 @@
 [
  {
+  "id": "c656ecc3f3ddd158",
+  "source_url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
+  "source": "The Guardian",
+  "source_title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
+  "source_summary": "Two people killed and at least 17 injured as Russia and Ukraine continue to trade strikes on power infrastructure Volodymyr Zelenskyy on Sunday thanked the Trump administration for resuming intelligence sharing between the two countries, but maintained the US had intentionally throttled its Starlink satellite internet access so that Donald Trump could send a “message” in his ongoing feud with the Ukrainian president. In an interview on NBC, Zelenskyy said the US had “unblocked” intelligence on impending Russian ballistic missile strikes, which have pounded the country’s energy infrastructure as winter draws in.",
+  "source_tags": [
+   "Ukraine",
+   "Russia",
+   "Europe",
+   "Donald Trump",
+   "Trump administration",
+   "Volodymyr Zelenskyy",
+   "Lithuania",
+   "Jared Kushner",
+   "World news",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/6ecbc6005fcdea363a01b880b148c2f7c49e0fc7/472_0_4721_3777/master/4721.jpg?width=700&quality=85&auto=format&fit=max&s=8c57aaac1a9d4ee27c51c9fa0c7f061e",
+  "published": "2026-10-18T16:37:52+00:00",
+  "headline": "Zelensky Thanks Trump for Resumed Intel Sharing After Starlink Dispute",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelenskyy thanked the Trump administration for restarting the flow of intelligence between Washington and Kyiv, saying the United States had \"unblocked\" data on upcoming Russian ballistic missile attacks that are targeting the country's energy grid."
+   },
+   {
+    "type": "p",
+    "text": "Zelenskyy also claimed the United States had deliberately limited Starlink satellite internet access as a way for former President Donald Trump to send a \"message\" amid their ongoing feud. The restriction, he said, was lifted only after the dispute escalated."
+   },
+   {
+    "type": "p",
+    "text": "The missile strikes have continued to hit power infrastructure, leaving two people dead and at least 17 injured as winter approaches."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Restored intelligence sharing could improve Ukraine's defense against missile attacks, while the Starlink dispute highlights how political tensions can affect critical wartime communications."
+   }
+  ],
+  "key_points": [
+   "Zelenskyy praised the Trump administration for restoring intelligence sharing on Russian missile threats.",
+   "He alleged the US had throttled Starlink service to pressure Ukraine, a claim tied to a personal conflict with Trump.",
+   "Russian missile attacks on Ukraine's power grid have caused casualties and heightened winter risks."
+  ],
+  "meta_description": "Zelensky thanks Trump for resuming intel sharing after a Starlink dispute, amid ongoing Russian missile strikes on Ukraine's power grid.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "United States",
+   "Intelligence Sharing",
+   "Starlink",
+   "Russian Missile Strikes"
+  ],
+  "slug": "zelensky-thanks-trump-resumed-intel-sharing-after-starlink-dispute-c656ec",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:31Z"
+ },
+ {
+  "id": "3d554af9f25325ae",
+  "source_url": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Saudi Arabia sends skyscraper employees home amid Houthi threats",
+  "source_summary": "Riyadh's Kingdom Center tower's management told the people employed there to work from home \"until further notice,\" without giving a reason. This comes as Houthi attacks escalate.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-18T16:34:00+00:00",
+  "headline": "Saudi Arabia Sends Kingdom Center Staff Home Over Houthi Threats",
+  "body": [
+   {
+    "type": "p",
+    "text": "Management of Riyadh's iconic Kingdom Center tower has instructed all employees to work from home until further notice. The directive was issued without an explicit explanation, but it follows a recent surge in attacks by Yemen's Houthi rebels."
+   },
+   {
+    "type": "p",
+    "text": "The decision affects thousands of staff who normally operate in the skyscraper's offices, retail spaces and observation deck. Authorities have not disclosed any specific security incidents at the building, only noting the broader escalation of Houthi strikes across the region."
+   },
+   {
+    "type": "p",
+    "text": "The move underscores growing concerns about safety for businesses in Saudi Arabia as the conflict in Yemen continues to spill over into neighboring territories, prompting companies to reassess on‑site operations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The precaution signals potential disruptions for multinational firms operating in the Gulf, affecting supply chains and investment decisions in a key oil‑producing region."
+   }
+  ],
+  "key_points": [
+   "Kingdom Center employees are told to work remotely amid heightened Houthi activity.",
+   "The directive was issued without a detailed reason, reflecting broader regional security worries.",
+   "The measure highlights how the Yemen conflict is influencing business continuity in Saudi Arabia."
+  ],
+  "meta_description": "Kingdom Center staff in Riyadh are ordered to work from home as Houthi attacks intensify, raising security concerns for businesses in the region.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "Kingdom Center",
+   "Houthi attacks",
+   "workplace safety",
+   "Middle East security"
+  ],
+  "slug": "saudi-arabia-sends-kingdom-center-staff-home-over-houthi-3d554a",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:15Z"
+ },
+ {
+  "id": "3cc43513e572921c",
+  "source_url": "https://www.nytimes.com/2026/10/18/world/middleeast/netanyahu-settler-attacks-west-bank-palestinians.html",
+  "source": "The New York Times",
+  "source_title": "U.S. Officials Condemn West Bank Attacks as Netanyahu Casts Doubt on Them",
+  "source_summary": "Prime Minister Benjamin Netanyahu of Israel has downplayed accounts of recent extremist attacks on Palestinians in the West Bank amid the annual olive harvest.",
+  "source_tags": [
+   "Israeli Settlements",
+   "Palestinians",
+   "International Relations",
+   "Human Rights and Human Rights Violations",
+   "Washington Post",
+   "European Union",
+   "Netanyahu, Benjamin",
+   "Ben-Gvir, Itamar",
+   "Eisenkot, Gadi",
+   "Herzog, Isaac"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-israel-violence-kcmp/18int-israel-violence-kcmp-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T16:31:20+00:00",
+  "headline": "US Officials Condemn West Bank Attacks as Netanyahu Questions Reports",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. officials publicly denounced recent extremist attacks on Palestinians in the West Bank, describing the incidents as unacceptable and calling for immediate accountability."
+   },
+   {
+    "type": "p",
+    "text": "Israeli Prime Minister Benjamin Netanyahu, speaking during the annual olive harvest, expressed skepticism about the reports of the attacks, suggesting that the accounts might be exaggerated or mischaracterized."
+   },
+   {
+    "type": "p",
+    "text": "The contrasting statements highlight a growing diplomatic tension as Washington and Jerusalem navigate differing narratives over security and civilian protection in the contested territory."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute reflects broader concerns in the U.S. and Europe about stability in the Israeli‑Palestinian conflict and its impact on regional security."
+   }
+  ],
+  "key_points": [
+   "U.S. officials condemned recent extremist attacks on Palestinians in the West Bank.",
+   "Prime Minister Netanyahu questioned the accuracy of the reported attacks.",
+   "The divergent views underscore diplomatic friction between the United States and Israel."
+  ],
+  "meta_description": "U.S. officials condemn West Bank attacks while Netanyahu doubts the reports, highlighting diplomatic tension.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "West Bank",
+   "Israel",
+   "US officials",
+   "Netanyahu",
+   "olive harvest",
+   "violence"
+  ],
+  "slug": "us-officials-condemn-west-bank-attacks-netanyahu-questions-reports-3cc435",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:35Z"
+ },
+ {
+  "id": "6a083a36de897bf0",
+  "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+  "source": "TechCrunch",
+  "source_title": "Disney agrees to hire the majority of Character.AI’s workforce",
+  "source_summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal […]",
+  "source_tags": [
+   "Startups",
+   "Media & Entertainment",
+   "AI",
+   "Disney",
+   "character.ai"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-18T16:30:00+00:00",
+  "headline": "Disney to Absorb Most of Character.AI Staff After Bankruptcy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chatbot startup Character.AI filed for bankruptcy earlier this week, and Disney has agreed to hire the majority of its workforce. The entertainment conglomerate will also acquire select assets from the company for a reported $20 million."
+   },
+   {
+    "type": "p",
+    "text": "Character.AI’s former chief executive, Karandeep Anand, has been appointed Disney’s first chief technology officer, signaling the media giant’s push into generative AI and interactive character technology. The move is expected to bolster Disney’s digital offerings across its streaming platforms and theme parks."
+   },
+   {
+    "type": "p",
+    "text": "The agreement provides displaced employees with new positions and integrates Character.AI’s technology into Disney’s broader ecosystem. Details of the acquisition remain limited, but the deal underscores Disney’s strategy to expand its AI capabilities amid growing competition in the tech‑driven entertainment space."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The deal highlights Disney’s effort to strengthen its AI and interactive content capabilities, a trend relevant to media and tech markets in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Disney will hire most of Character.AI’s staff following the startup’s bankruptcy filing.",
+   "Former Character.AI CEO Karandeep Anand becomes Disney’s first chief technology officer.",
+   "Disney plans to purchase select Character.AI assets for about $20 million."
+  ],
+  "meta_description": "Disney will hire most of Character.AI staff and buy assets for $20 million after the startup's bankruptcy, appointing its ex‑CEO as CTO.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Disney",
+   "Character.AI",
+   "Artificial Intelligence",
+   "Tech Acquisition",
+   "Bankruptcy"
+  ],
+  "slug": "disney-absorb-most-character-ai-staff-after-bankruptcy-6a083a",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:18Z"
+ },
+ {
+  "id": "7eec8c8d64eefae2",
+  "source_url": "https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html",
+  "source": "The New York Times",
+  "source_title": "Pope Leo Addresses the Faithful a Day After Leaving the Hospital",
+  "source_summary": "“This experience has made me feel a special closeness to all those who are battling illness and infirmity,” he said, in his first public appearance since his lung surgery.",
+  "source_tags": [
+   "Popes",
+   "Lung Cancer",
+   "Roman Catholic Church",
+   "Gemelli Hospital (Rome, Italy)",
+   "Leo XIV",
+   "St. Peters Square",
+   "Vatican City",
+   "Rome (Italy)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-pope-mqkc/18int-pope-mqkc-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T16:29:44+00:00",
+  "headline": "Pope Leo Addresses Faithful After Hospital Stay, Urges Compassion",
+  "body": [
+   {
+    "type": "p",
+    "text": "Pope Leo made his first public appearance on Tuesday, a day after being released from the hospital where he underwent lung surgery. Speaking to a gathering of clergy and laypeople, the pontiff reflected on his recent health ordeal."
+   },
+   {
+    "type": "p",
+    "text": "He told the audience that the experience had deepened his sense of connection with anyone facing illness or physical weakness. \"This experience has made me feel a special closeness to all those who are battling illness and infirmity,\" he said, emphasizing solidarity with the sick."
+   },
+   {
+    "type": "p",
+    "text": "The address, delivered in the Vatican’s audience hall, focused on the moral duty of compassion and support for the vulnerable. Pope Leo called on believers worldwide to extend empathy and practical assistance to those suffering from health challenges."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Pope’s message highlights a moral call for global solidarity with the ill, resonating with health‑care concerns in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Pope Leo spoke publicly for the first time after lung surgery.",
+   "He expressed a heightened empathy for people battling illness.",
+   "The Pope urged the faithful to show compassion toward the sick."
+  ],
+  "meta_description": "Pope Leo addresses the faithful after hospital release, urging compassion for the sick and sharing his newfound closeness to those battling illness.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pope Leo",
+   "Vatican",
+   "health",
+   "compassion",
+   "religion"
+  ],
+  "slug": "pope-leo-addresses-faithful-after-hospital-stay-urges-compassion-7eec8c",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:52Z"
+ },
+ {
+  "id": "13ae2790ff73703d",
+  "source_url": "https://www.theguardian.com/commentisfree/picture/2026/oct/18/nicola-jennings-donald-trump-new-white-house-press-secretary-cartoon",
+  "source": "The Guardian",
+  "source_title": "Nicola Jennings on Trump’s new White House press secretary – cartoon",
+  "source_summary": "",
+  "source_tags": [
+   "Donald Trump",
+   "Vladimir Putin",
+   "US politics",
+   "Russia",
+   "US news",
+   "Europe"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/e50def8ae8511ad75607422fb5c86c53a794db80/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=e38323ed4061e1e1651e82f6686a9e51",
+  "published": "2026-10-18T16:28:31+00:00",
+  "headline": "Cartoon Shows Nicola Jennings Reacting to Trump's New Press Secretary",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Guardian published a cartoon that portrays political commentator Nicola Jennings responding to the announcement of a new White House press secretary appointed by former President Donald Trump. The illustration captures Jennings' characteristic expression as she evaluates the development."
+   },
+   {
+    "type": "p",
+    "text": "The artwork places Jennings beside a stylised representation of the new press secretary, using visual cues to highlight the political tension surrounding the appointment. No accompanying text is provided beyond the caption identifying the figures."
+   },
+   {
+    "type": "p",
+    "text": "The cartoon reflects ongoing media interest in Trump's influence over White House communications and the reactions of established political analysts to his choices."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The image signals continued attention to how former President Trump shapes the narrative around White House messaging, a topic of interest for both US and European audiences."
+   }
+  ],
+  "key_points": [
+   "The Guardian released a cartoon featuring Nicola Jennings commenting on Trump's new press secretary.",
+   "The illustration underscores media scrutiny of Trump's appointments to key communication roles."
+  ],
+  "meta_description": "The Guardian cartoon shows Nicola Jennings reacting to Donald Trump's appointment of a new White House press secretary.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "White House",
+   "Press Secretary",
+   "Nicola Jennings",
+   "Political Cartoon"
+  ],
+  "slug": "cartoon-shows-nicola-jennings-reacting-trump-s-new-press-13ae27",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:47Z"
+ },
+ {
+  "id": "1dd35c909ebc4681",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvglwz05j6l4o",
+  "source": "BBC Sport",
+  "source_title": "Slade misses last-gasp kick as Toulouse deny Exeter famous win",
+  "source_summary": "Toulouse deny Exeter Chiefs a famous Champions Cup victory in France, fighting back to win a frenetic contest with 14 men following Rodrigue Neti's first-half red card.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8042/live/27223550-cb0e-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-18T16:27:51+00:00",
+  "headline": "Toulouse Stun Exeter Chiefs After Red Card, Win Champions Cup",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a dramatic European Champions Cup quarter‑final in France, Toulouse overcame Exeter Chiefs despite playing with 14 men after Rodrigue Neti was sent off in the first half. The French side rallied, turning a frenetic contest into a comeback that denied Exeter a historic victory."
+   },
+   {
+    "type": "p",
+    "text": "Exeter’s last‑minute chance fell short when fly‑half Jack Slade missed a crucial kick as the final whistle approached. The miss sealed Toulouse’s win, ending the Chiefs’ hopes of a famous triumph on French soil."
+   },
+   {
+    "type": "p",
+    "text": "The match highlighted the impact of disciplinary decisions in high‑stakes rugby, with Toulouse’s resilience after the red card proving decisive in the tightly contested encounter."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The game underscores the depth of European club rugby and the fine margins that decide advancement in the continent’s premier competition."
+   }
+  ],
+  "key_points": [
+   "Toulouse won the Champions Cup match after playing a man down following a first‑half red card.",
+   "Exeter’s final opportunity was wasted when Jack Slade missed a last‑gasp kick.",
+   "The result eliminates Exeter from the tournament and advances Toulouse."
+  ],
+  "meta_description": "Toulouse beat Exeter Chiefs after a red card and a missed final kick, advancing in the Champions Cup.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "champions cup",
+   "toulouse",
+   "exeter chiefs",
+   "red card",
+   "European rugby"
+  ],
+  "slug": "toulouse-stun-exeter-chiefs-after-red-card-win-champions-1dd35c",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:23Z"
+ },
+ {
+  "id": "4bd8f13ff5d68fce",
+  "source_url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+  "source": "The Verge",
+  "source_title": "Video game ownership bill introduced in Congress",
+  "source_summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's increasingly common for […]",
+  "source_tags": [
+   "Gaming",
+   "News",
+   "Policy",
+   "Politics"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-18T16:27:51+00:00",
+  "headline": "Congress Introduces Bill to Secure Consumer Game Ownership",
+  "body": [
+   {
+    "type": "p",
+    "text": "Representative Ritchie Torres, a Democrat from New York's 15th district, introduced the Power To The Players Act in the House this week. The proposal would task the Federal Trade Commission with creating rules that ensure gamers own the titles they purchase, rather than merely holding a limited license."
+   },
+   {
+    "type": "p",
+    "text": "Under the bill, the FTC would define clear standards for what constitutes ownership in digital game sales, addressing the growing practice of treating purchases as revocable licenses. Proponents argue that the measure would give consumers clearer rights and protect them from sudden loss of access to games they have paid for."
+   },
+   {
+    "type": "p",
+    "text": "If enacted, the legislation could reshape how publishers structure digital storefronts and subscription services, potentially prompting industry-wide adjustments to licensing language and consumer contracts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Clarifying digital ownership would affect millions of gamers in the US and Europe, influencing how they buy and retain access to video games."
+   }
+  ],
+  "key_points": [
+   "The Power To The Players Act would require the FTC to set ownership standards for digital game purchases.",
+   "The bill aims to replace current licensing agreements with clear consumer ownership rights.",
+   "Passage could force video game companies to revise how they sell and license games."
+  ],
+  "meta_description": "Congressional bill seeks FTC rules to guarantee gamers own purchased titles, ending license‑only agreements.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "legislation",
+   "video games",
+   "consumer rights",
+   "FTC",
+   "digital ownership"
+  ],
+  "slug": "congress-introduces-bill-secure-consumer-game-ownership-4bd8f1",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:39Z"
+ },
+ {
+  "id": "4f21f10df7a6c59d",
+  "source_url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+  "source": "TechCrunch",
+  "source_title": "TechCrunch Mobility: Rivian’s next act",
+  "source_summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+  "source_tags": [
+   "Transportation",
+   "Tesla",
+   "Rivian",
+   "RJ Scaringe",
+   "techcrunch mobility"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-18T16:05:00+00:00",
+  "headline": "TechCrunch Mobility Highlights AI's Growing Role in Transportation",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch Mobility returns as a dedicated platform for covering the future of transportation, emphasizing how artificial intelligence is increasingly influencing the sector. The outlet positions itself as a hub where developments in mobility, from vehicle design to logistics, are examined through the lens of emerging AI technologies."
+   },
+   {
+    "type": "p",
+    "text": "In its latest edition, the publication underscores the expanding integration of AI across various transportation modes, noting that advancements are reshaping everything from autonomous driving to predictive maintenance. By tracking these trends, TechCrunch Mobility aims to inform industry stakeholders and the broader public about the transformative potential of AI in mobility."
+   },
+   {
+    "type": "p",
+    "text": "The focus on AI reflects a broader industry shift, as manufacturers, service providers, and regulators alike explore how intelligent systems can improve safety, efficiency, and user experience. Readers can expect continued coverage of these themes, with insights into how AI-driven innovations are being adopted worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding AI's impact on transportation helps US and European audiences anticipate changes in mobility services, regulatory frameworks, and investment opportunities."
+   }
+  ],
+  "key_points": [
+   "TechCrunch Mobility positions itself as a central source for news on transportation and AI.",
+   "The latest coverage highlights AI's expanding influence on vehicle technology and logistics.",
+   "The platform aims to keep industry players and consumers informed about AI-driven mobility trends."
+  ],
+  "meta_description": "TechCrunch Mobility returns, focusing on AI's expanding role in transportation and its implications for the industry.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "transportation",
+   "mobility",
+   "innovation",
+   "TechCrunch"
+  ],
+  "slug": "techcrunch-mobility-highlights-ai-s-growing-role-transportation-4f21f1",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:55Z"
+ },
+ {
+  "id": "42c1d0a0bfaaf23a",
+  "source_url": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
+  "source": "The New York Times",
+  "source_title": "Elizabeth Holmes Documentary ‘You Can See Everything’ Opens to Over 2,000 Sold-Out Shows",
+  "source_summary": "“You Can See Everything,” a documentary about the Theranos founder, made a big splash for a movie not yet in wide release. And Netflix had a box office milestone.",
+  "source_tags": [
+   "Movies",
+   "Documentary Films and Programs",
+   "Box Office Sales",
+   "Video Recordings, Downloads and Streaming",
+   "Netflix Inc",
+   "Theranos Inc"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-18T15:45:49+00:00",
+  "headline": "Theranos Founder Documentary Draws Over 2,000 Sold‑Out Screenings",
+  "body": [
+   {
+    "type": "p",
+    "text": "The new documentary \"You Can See Everything,\" chronicling the rise and fall of Theranos founder Elizabeth Holmes, has generated unprecedented demand, with more than 2,000 sold‑out screenings reported since its debut. The film, which has not yet entered a wide theatrical release, is attracting audiences in both major cities and smaller markets."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the strong turnout is unusual for a limited‑run documentary, highlighting continued public fascination with the Theranos saga. The buzz around the film coincides with a separate Netflix achievement: the streaming platform reached a notable box‑office milestone, though details of the record were not disclosed in the source."
+   },
+   {
+    "type": "p",
+    "text": "Both events underscore the enduring interest in high‑profile tech scandals and the power of streaming services to amplify documentary exposure beyond traditional cinema channels."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The documentary’s popularity reflects ongoing public and investor scrutiny of tech startups, while Netflix’s milestone signals the growing financial impact of streaming‑driven releases."
+   }
+  ],
+  "key_points": [
+   "\"You Can See Everything\" has sold out over 2,000 screenings despite limited release.",
+   "Netflix reported a significant box‑office milestone alongside the documentary's success."
+  ],
+  "meta_description": "Elizabeth Holmes documentary sells out over 2,000 shows, while Netflix hits a box‑office milestone.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elizabeth Holmes",
+   "Theranos",
+   "documentary",
+   "Netflix",
+   "box office"
+  ],
+  "slug": "theranos-founder-documentary-draws-over-2-000-soldout-screenings-42c1d0",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:27Z"
+ },
+ {
+  "id": "8b1a0e5b1a50cffc",
+  "source_url": "https://www.bbc.co.uk/sport/golf/articles/cw98zlldrpj0o",
+  "source": "BBC Sport",
+  "source_title": "Chacarra wins in India to take Race to Dubai lead",
+  "source_summary": "Eugenio Chacarra wins the DP World India Championship by two strokes to move top of the Race to Dubai standings ahead of Patrick Reed and Rory McIlroy.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3c1/live/dadf33b0-cb02-11f1-acd8-5f0e740dfa92.jpg",
+  "published": "2026-10-18T15:11:51+00:00",
+  "headline": "Eugenio Chacarra Wins India Championship, Leads Race to Dubai",
+  "body": [
+   {
+    "type": "p",
+    "text": "Spanish golfer Eugenio Chacarra captured the DP World India Championship by finishing two strokes ahead of the field. The victory was secured at the tournament in New Delhi, where Chacarra displayed a steady final round to seal the win."
+   },
+   {
+    "type": "p",
+    "text": "The triumph moves Chacarra to the top of the Race to Dubai leaderboard, overtaking former major champion Patrick Reed and world No. 2 Rory McIlroy. Both Reed and McIlroy had been leading the points race before the Indian event."
+   },
+   {
+    "type": "p",
+    "text": "Chacarra's win adds a significant boost to his season on the European Tour, positioning him as a strong contender for the season‑ending Dubai title. The Race to Dubai points system rewards consistent performance across the tour’s global schedule."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Race to Dubai ranking determines the European Tour’s season champion, influencing prize money and world ranking points for top golfers worldwide."
+   }
+  ],
+  "key_points": [
+   "Eugenio Chacarra won the DP World India Championship by two strokes.",
+   "The victory puts Chacarra atop the Race to Dubai standings, ahead of Patrick Reed and Rory McIlroy."
+  ],
+  "meta_description": "Eugenio Chacarra wins the DP World India Championship, moving to the lead of the Race to Dubai standings ahead of Reed and McIlroy.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "golf",
+   "Race to Dubai",
+   "DP World India Championship",
+   "Eugenio Chacarra",
+   "European Tour"
+  ],
+  "slug": "eugenio-chacarra-wins-india-championship-leads-race-dubai-8b1a0e",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:43Z"
+ },
+ {
+  "id": "13ef523ebaae6975",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo",
+  "source": "BBC Sport",
+  "source_title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+  "source_summary": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win for the first time since 2019 - find out who rated highest at Elland Road.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52da/live/cdec1700-cb06-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-18T14:56:01+00:00",
+  "headline": "United Slip to Sixth Straight Winless Game After Leeds Draw",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United failed to secure a victory at Elland Road as Dominic Calvert-Lewin struck in the second half to level the match against Leeds United. The equaliser extended United's winless run to six games, a sequence not seen since 2019."
+   },
+   {
+    "type": "p",
+    "text": "The post‑match ratings highlighted Leeds' dominance, with the highest individual rating awarded to a Leeds player. United players occupied lower positions in the rating table, reflecting the team's struggles under manager Erik ten Hag."
+   },
+   {
+    "type": "p",
+    "text": "The result keeps United entrenched in the lower half of the Premier League table and adds pressure on the coaching staff as they seek to reverse the slump before the season's final stretch."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Manchester United's ongoing winless run could influence the Premier League title race and European qualification battles, affecting clubs and fans across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Dominic Calvert-Lewin's second‑half goal earned Leeds a draw with Manchester United.",
+   "United's six‑game winless streak is their longest since 2019.",
+   "Leeds players topped the match rating chart, underscoring United's poor performance."
+  ],
+  "meta_description": "Manchester United's six‑game winless streak continues after a draw with Leeds, with Leeds players topping the match ratings.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Leeds United",
+   "Premier League",
+   "match ratings",
+   "winless streak"
+  ],
+  "slug": "united-slip-sixth-straight-winless-game-after-leeds-draw-13ef52",
+  "reading_minutes": 1,
+  "added": "2026-10-18T16:49:59Z"
+ },
+ {
   "id": "07f5e8442486dc56",
   "source_url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
   "source": "The Verge",
