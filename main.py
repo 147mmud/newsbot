@@ -48,6 +48,9 @@ def run(args) -> int:
                 continue
             dedupe.add(item)
             art = processor.process(item)
+            if not art.get("image") and config.USE_FEED_IMAGES:
+                art["image"] = fetcher.page_image(art["source_url"])
+                art["img_checked"] = True
             art["added"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
             new.append(art)
             log.info("[%s|%s] %s", art["category"], art["mode"], art["headline"])
@@ -62,6 +65,15 @@ def run(args) -> int:
         if failed and config.PUBLISH_TARGET == "wordpress":
             new = [a for a in new if a.get("wp_id")]
             log.warning("%d WordPress posts failed, will retry next run", len(failed))
+
+    # Backfill: give older articles without a picture a try (a few per run)
+    if not args.build_only and config.USE_FEED_IMAGES:
+        todo = [a for a in articles if not a.get("image") and not a.get("img_checked")][:60]
+        for a in todo:
+            a["image"] = fetcher.page_image(a["source_url"])
+            a["img_checked"] = True
+        if todo:
+            log.info("Backfilled images: %d/%d found", sum(1 for a in todo if a["image"]), len(todo))
 
     articles = new + articles
     store.save(articles)
