@@ -10,7 +10,7 @@
   if (!track || !bar) return;
 
   var tabs = bar.querySelectorAll(".sb-tabs button");
-  var current = "football";
+  var current = "rugby";
   var timer = null;
   var snapshot = null;
   try { current = localStorage.getItem("nb-sport") || current; } catch (e) {}
