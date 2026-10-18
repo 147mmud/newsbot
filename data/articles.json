@@ -1,5 +1,284 @@
 [
  {
+  "id": "f7725e91497e4618",
+  "source_url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo",
+  "source": "BBC News",
+  "source_title": "Deadly fire breaks out at Canada military base",
+  "source_summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg",
+  "published": "2026-10-18T04:00:50+00:00",
+  "headline": "Deadly Fire Engulfs Canadian Military Base, Casualties Confirmed",
+  "body": [
+   {
+    "type": "p",
+    "text": "A large fire broke out at a Canadian military installation on Tuesday, prompting an emergency response from fire crews and military personnel. Defence Minister David McGuinty confirmed that there were casualties among those present at the base, though the exact number of injured or deceased has not been released."
+   },
+   {
+    "type": "p",
+    "text": "Prime Minister Justin Trudeau described the event as a \"serious incident\" and ordered a full investigation to determine the cause of the blaze. The fire, which quickly spread across several structures, was brought under control after several hours, but the damage to the facility is extensive."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have restricted access to the area while the investigation proceeds, and families of the affected service members have been notified. The incident has raised concerns about safety protocols at military sites across the country."
+   },
+   {
+    "type": "p",
+    "text": "Canada's defence ministry has pledged to provide support to the victims and their families and to review emergency response measures to prevent similar occurrences in the future."
+   }
+  ],
+  "key_points": [
+   "A fire at a Canadian military base resulted in casualties, according to Defence Minister David McGuinty.",
+   "Prime Minister Justin Trudeau labeled the event a \"serious incident\" and called for an investigation.",
+   "The blaze caused significant damage and prompted a review of safety procedures at military facilities."
+  ],
+  "meta_description": "A fire at a Canadian military base caused casualties, prompting a prime ministerial call for investigation and safety reviews.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "military",
+   "fire",
+   "defence",
+   "incident"
+  ],
+  "slug": "deadly-fire-engulfs-canadian-military-base-casualties-confirmed-f7725e",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:01Z"
+ },
+ {
+  "id": "cc04fc7e52c03a2e",
+  "source_url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+  "source": "The Guardian",
+  "source_title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+  "source_summary": "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly. Outside, it was a typically blowy early evening. It may nominally be spring in the south Atlantic, but Stanley harbour, with its dark grey water speckled with historical shipwrecks, was a cauldron of swells and churn. Six of the assembly’s eight members – five men, one woman – waited patiently at a row of desks and microphones. The heating had been turned up to just short of uncomfortable. Behind them, a portrait of King Charles. From the other walls, dusty photographs of governors, of varying popularity, gazed disinterestedly at the scene.",
+  "source_tags": [
+   "Falkland Islands",
+   "UK news",
+   "Americas",
+   "Argentina",
+   "World news"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=700&quality=85&auto=format&fit=max&s=113e4ed50b77edb9c712fa00abe7224f",
+  "published": "2026-10-18T04:00:49+00:00",
+  "headline": "Argentina Escalates Economic Pressure on Falkland Islands Oil Sector",
+  "body": [
+   {
+    "type": "p",
+    "text": "Argentina's president, facing declining poll numbers, has intensified economic attacks on the Falkland Islands, targeting the islands' oil industry and hinting that the vital fisheries sector could be next. The move comes as the islands' legislative assembly convened in its wood‑panelled courtroom, with eight members present alongside a uniformed military police officer."
+   },
+   {
+    "type": "p",
+    "text": "Inside the assembly, six of the eight elected officials waited at desks while a portrait of King Charles hung on the wall, underscoring the British overseas territory's ties to the United Kingdom. Outside, the Stanley harbour area experienced typical strong winds and choppy waters, reflecting the ongoing tension in the South Atlantic."
+   },
+   {
+    "type": "p",
+    "text": "The Argentine government's rhetoric marks a renewed hostile stance toward the Falklands after four decades of relative calm, reviving disputes over natural resources that have long been a point of contention between Buenos Aires and London."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute could affect global energy markets and fisheries, impacting trade and investment interests in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Argentina's president is using economic pressure on the Falklands' oil industry amid falling poll support.",
+   "The Falkland Islands' legislative assembly met under heightened political tension.",
+   "Potential threats to the islands' fisheries sector signal a broader escalation of the dispute."
+  ],
+  "meta_description": "Argentina's president ramps up economic pressure on Falkland Islands oil and fisheries amid poll slump, raising regional tensions.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Argentina",
+   "Falkland Islands",
+   "oil industry",
+   "fisheries",
+   "political tension"
+  ],
+  "slug": "argentina-escalates-economic-pressure-falkland-islands-oil-sector-cc04fc",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:09Z"
+ },
+ {
+  "id": "2d572f618571a3eb",
+  "source_url": "https://www.nytimes.com/2026/10/17/us/politics/no-kings-day-takeways.html",
+  "source": "The New York Times",
+  "source_title": "4 Takeaways From a Voting-Focused ‘No Kings’ Day",
+  "source_summary": "Saturday’s gatherings were more subdued than some past events, and many prominent Democrats skipped them.",
+  "source_tags": [
+   "Democratic Party",
+   "Republican Party",
+   "Midterm Elections (2026)",
+   "Demonstrations, Protests and Riots"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19no-kings-dallas-print1-wjbh-copy/19no-kings-dallas-print1-wjbh-copy-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T02:35:25+00:00",
+  "headline": "Subdued No Kings Day Gatherings See Fewer Prominent Democrats",
+  "body": [
+   {
+    "type": "p",
+    "text": "Saturday's \"No Kings\" Day events, organized around voting outreach, were notably more low‑key than in previous years, according to observers."
+   },
+   {
+    "type": "p",
+    "text": "Attendance figures suggest a drop in high‑profile participation, with many leading Democrats opting out of the gatherings."
+   },
+   {
+    "type": "p",
+    "text": "The reduced fanfare reflects a shift in the political calendar, as activists focus on voter mobilization rather than large‑scale rallies."
+   },
+   {
+    "type": "p",
+    "text": "Organizers remain hopeful that the quieter atmosphere will not hinder efforts to encourage turnout ahead of upcoming elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The change in participation may signal evolving strategies among U.S. political parties as they prioritize voter outreach over high‑visibility events."
+   }
+  ],
+  "key_points": [
+   "Saturday's No Kings Day events were more subdued than past iterations.",
+   "A number of prominent Democrats did not attend the gatherings."
+  ],
+  "meta_description": "No Kings Day gatherings were quieter on Saturday, with fewer prominent Democrats in attendance, signaling a shift toward voter‑focused activism.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "No Kings Day",
+   "voter outreach",
+   "Democratic Party",
+   "political events",
+   "election mobilization"
+  ],
+  "slug": "subdued-no-kings-day-gatherings-see-fewer-prominent-democrats-2d572f",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:05Z"
+ },
+ {
+  "id": "d0f743ed4b35719b",
+  "source_url": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Canada: Major fire reported at military base in Alberta",
+  "source_summary": "Canadian Prime Minister Mark Carney has said a \"serious incident\" sparked a major fire at a military base in Alberta. He did not provide details on the cause of the fire.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-18T02:08:00+00:00",
+  "headline": "Canada Military Base Fire Sparks Serious Incident, PM Says",
+  "body": [
+   {
+    "type": "p",
+    "text": "Canadian Prime Minister Mark Carney announced that a \"serious incident\" triggered a major fire at a military installation in Alberta. The blaze was described as extensive, but the prime minister did not disclose any specifics about its origin or the extent of damage."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have been dispatched to the site to contain the fire and assess the situation. No information was provided regarding injuries, evacuation orders, or the impact on operational capabilities of the base. The federal government is monitoring the incident closely."
+   },
+   {
+    "type": "p",
+    "text": "The incident comes amid ongoing discussions about the readiness of North American defense infrastructure. While details remain scarce, officials are expected to release further updates as the investigation proceeds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The fire could affect joint Canada‑U.S. defense operations and underscores the importance of infrastructure resilience for NATO allies."
+   }
+  ],
+  "key_points": [
+   "Prime Minister Mark Carney labeled the Alberta base fire a \"serious incident\" without giving cause details.",
+   "Emergency crews are working to control the blaze and evaluate damage at the military site.",
+   "The event highlights concerns about the security of defense facilities in Canada."
+  ],
+  "meta_description": "Canada's PM says a serious incident caused a major fire at an Alberta military base; details on cause remain unknown.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "Alberta",
+   "military base",
+   "fire",
+   "Mark Carney"
+  ],
+  "slug": "canada-military-base-fire-sparks-serious-incident-pm-says-d0f743",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:13Z"
+ },
+ {
+  "id": "b0fc972daf283fa1",
+  "source_url": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "'No Kings' rallies push early voting ahead of US midterm elections",
+  "source_summary": "Organizers of the \"No Kings\" protests, known for their anti-Trump sentiment, are urging Americans to vote early in the November 3 midterm elections, as Republicans face tough races to retain control of Congress.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-18T00:51:00+00:00",
+  "headline": "‘No Kings’ Protests Urge Early Voting Ahead of Midterm Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "Organizers of the anti‑Trump \"No Kings\" rallies are calling on Americans to cast their ballots early before the November 3 midterm elections. The protests, which have featured slogans opposing former President Donald Trump, aim to boost early‑voting turnout as Republicans confront difficult contests to keep control of Congress."
+   },
+   {
+    "type": "p",
+    "text": "The groups behind the demonstrations argue that early voting can help counteract what they see as a threat to democratic norms. They are mobilizing volunteers to assist voters with registration and transportation to polling sites, emphasizing the importance of participation ahead of Election Day."
+   },
+   {
+    "type": "p",
+    "text": "Republican candidates are facing competitive races in several swing districts, and the push for early voting reflects broader concerns about voter turnout and election integrity. The \"No Kings\" rallies are part of a larger wave of political activism ahead of the midterms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Early voting could influence the balance of power in Congress, affecting US policy and international relations."
+   }
+  ],
+  "key_points": [
+   "Anti‑Trump \"No Kings\" organizers are urging early voting before the November 3 midterms.",
+   "Republicans face challenging races to retain congressional majorities.",
+   "Protest groups are providing voter assistance to increase early turnout."
+  ],
+  "meta_description": "Anti‑Trump 'No Kings' rallies push early voting ahead of the November 3 midterm elections as Republicans face tough races.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterm elections",
+   "early voting",
+   "No Kings protests",
+   "Republican races",
+   "US politics"
+  ],
+  "slug": "no-kings-protests-urge-early-voting-ahead-midterm-elections-b0fc97",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:17Z"
+ },
+ {
   "id": "dc86dee642716e09",
   "source_url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo",
   "source": "BBC News",
@@ -1105,6 +1384,64 @@
   "added": "2026-10-17T21:41:58Z"
  },
  {
+  "id": "c07056fa1813c687",
+  "source_url": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html",
+  "source": "The New York Times",
+  "source_title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
+  "source_summary": "The men were charged in the murders of two Australians and an American who were on a camping and surf vacation in Mexico.",
+  "source_tags": [
+   "Murders, Attempted Murders and Homicides",
+   "Robberies and Thefts",
+   "Surfing",
+   "Baja California (Mexico)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-mexico-sentence-zqch/17int-mexico-sentence-zqch-mediumSquareAt3X.jpg",
+  "published": "2026-10-17T19:58:23+00:00",
+  "headline": "Mexican Judge Sentences Three Men to 159 Years for Tourist Murders",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge in Mexico sentenced three men to 159 years in prison each after they were found guilty of killing two Australian tourists and an American who were on a surfing and camping trip. The verdict follows a trial that concluded that the defendants were directly involved in the fatal attacks on the three vacationers."
+   },
+   {
+    "type": "p",
+    "text": "The three victims had been staying in a remote coastal area when they were attacked, prompting an international outcry and a joint investigation by Mexican authorities and foreign consulates. Prosecutors presented evidence linking the accused to the crime scene, leading to the lengthy sentences imposed by the court."
+   },
+   {
+    "type": "p",
+    "text": "The sentencing marks the conclusion of a high‑profile case that drew attention to safety concerns for travelers in popular surf destinations along Mexico’s Pacific coast."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores safety risks for North American and European tourists in popular Mexican surf spots and highlights cross‑border cooperation in criminal investigations."
+   }
+  ],
+  "key_points": [
+   "Three men received 159-year prison terms each for killing two Australians and an American on a surf vacation in Mexico.",
+   "The case involved a federal trial that concluded the defendants were directly responsible for the murders.",
+   "The verdict responds to international concerns about tourist safety in Mexican coastal regions."
+  ],
+  "meta_description": "Three men were sentenced to 159 years each in Mexico for murdering two Australian and one American tourist on a surf trip.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mexico",
+   "tourist safety",
+   "crime",
+   "surfing",
+   "international law"
+  ],
+  "slug": "mexican-judge-sentences-three-men-159-years-tourist-murders-c07056",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:45Z"
+ },
+ {
   "id": "bb38f1891d1520bf",
   "source_url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
   "source": "The Verge",
@@ -1273,6 +1610,65 @@
   "slug": "lions-sale-sharks-honor-late-hyron-andrews-champions-cup-df9b48",
   "reading_minutes": 1,
   "added": "2026-10-17T23:58:17Z"
+ },
+ {
+  "id": "6cb84ab1751f872c",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/17/ice-crash-houston",
+  "source": "The Guardian",
+  "source_title": "ICE agent who crashed into man in Texas was targeting suspect who died years ago, family says",
+  "source_summary": "Federal officer slammed vehicle into a construction worker while pursuing a man who died in similar circumstances A federal officer slammed a vehicle into a Houston construction worker and broke his leg , believing him to be a man who apparently died years ago, the dead man’s family said on Friday, further calling into question the account given by US Immigration and Customs Enforcement (ICE). The worker, 48-year-old Miguel Parra Hernandez of Mexico, remains hospitalized with multiple leg fractures and needs reconstructive ankle surgery, according to FIEL, a Houston-based immigration advocacy group. At a news conference on Friday, the group said the alleged suspect’s family had shared documentation proving his death.",
+  "source_tags": [
+   "ICE (US Immigration and Customs Enforcement)",
+   "Houston",
+   "US immigration",
+   "Trump administration",
+   "US news",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/567a271a1c0165c32f5f3a2c31432fcd861ea3a1/813_0_4087_3272/master/4087.jpg?width=700&quality=85&auto=format&fit=max&s=6922c8b3c4ef3884a2d45231f6dece3e",
+  "published": "2026-10-17T19:01:30+00:00",
+  "headline": "ICE Agent Slams Houston Worker, Mistaking Him for Dead Suspect",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal Immigration and Customs Enforcement (ICE) officer in Houston drove his vehicle into 48-year-old construction worker Miguel Parra Hernandez, breaking the man's leg. The officer said he was pursuing a suspect and believed Hernandez to be that individual."
+   },
+   {
+    "type": "p",
+    "text": "Parra Hernandez, a Mexican national, remains hospitalized with multiple leg fractures and is scheduled for reconstructive ankle surgery, according to the immigration advocacy group FIEL. The group said the family of the alleged suspect provided documentation confirming the suspect died years earlier in a similar incident."
+   },
+   {
+    "type": "p",
+    "text": "The incident raises questions about ICE's account of the pursuit and the use of force in immigration enforcement. FIEL called for a review of the officer’s actions and highlighted the need for clearer protocols to prevent misidentification."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores concerns about law‑enforcement misidentification and the use of aggressive tactics in U.S. immigration operations, relevant to both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "ICE officer collided with Houston construction worker, believing him to be a suspect who had died years earlier.",
+   "The worker suffers severe leg injuries and requires surgery; the suspect’s family presented proof of death."
+  ],
+  "meta_description": "ICE officer hits Houston worker, mistaking him for a dead suspect; worker injured, suspect's family says he died years ago.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "ICE",
+   "Houston",
+   "immigration enforcement",
+   "police misconduct",
+   "worker injury"
+  ],
+  "slug": "ice-agent-slams-houston-worker-mistaking-him-dead-suspect-6cb84a",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:26Z"
  },
  {
   "id": "071d6fc424760ac3",
@@ -1474,6 +1870,64 @@
   "slug": "pedro-neto-scores-twice-chelsea-beat-everton-2-0-c8b4ff",
   "reading_minutes": 1,
   "added": "2026-10-17T19:15:40Z"
+ },
+ {
+  "id": "51c1c9a5e48bf763",
+  "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+  "source": "TechCrunch",
+  "source_title": "Replit makes OpenAI its default over Anthropic, CEO says",
+  "source_summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+  "source_tags": [
+   "AI",
+   "Anthropic",
+   "Replit",
+   "TechCrunch Disrupt"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-17T18:48:08+00:00",
+  "headline": "Replit Switches Default AI Model Provider to OpenAI, Keeps Claude",
+  "body": [
+   {
+    "type": "p",
+    "text": "Replit announced that it will make OpenAI its default large‑language‑model provider, replacing Anthropic. The change was confirmed by CEO Amjad Masad over the weekend."
+   },
+   {
+    "type": "p",
+    "text": "Despite the shift, Replit said the Claude model from Anthropic will remain accessible to users who prefer it, ensuring continued choice on the platform."
+   },
+   {
+    "type": "p",
+    "text": "The move aligns Replit’s offering with OpenAI’s widely adopted models, which developers use for code generation, debugging, and other programming assistance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The switch could affect developers in the US and Europe who rely on Replit for AI‑assisted coding, as OpenAI’s models are broadly integrated across many tools."
+   }
+  ],
+  "key_points": [
+   "Replit will default to OpenAI models instead of Anthropic’s.",
+   "Anthropic’s Claude will still be available for users on the platform."
+  ],
+  "meta_description": "Replit will now default to OpenAI models, while still offering Anthropic's Claude to users.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "replit",
+   "openai",
+   "anthropic",
+   "claude",
+   "AI models",
+   "developer platforms"
+  ],
+  "slug": "replit-switches-default-ai-model-provider-openai-keeps-claude-51c1c9",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:21Z"
  },
  {
   "id": "87f321ddcc293169",
@@ -2389,6 +2843,64 @@
   "added": "2026-10-17T16:38:28Z"
  },
  {
+  "id": "ac0eba5f39915c21",
+  "source_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+  "source": "The Verge",
+  "source_title": "Meta removes language that may have allowed it to scrape news sites",
+  "source_summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]",
+  "source_tags": [
+   "AI",
+   "Meta",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-17T15:04:36+00:00",
+  "headline": "Meta Strips Clause Allowing Use of News Content for AI Training",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta has revised its commercial terms after criticism, removing language that implied the company could harvest content from websites, including news outlets, to train its artificial‑intelligence systems. The specific wording that suggested Meta could use any content from listed domains, web pages or URLs has been deleted from the terms page."
+   },
+   {
+    "type": "p",
+    "text": "The change follows backlash from publishers who argued that the clause gave Meta broad permission to scrape and repurpose their articles without compensation. By eliminating the reference, Meta aims to address concerns that its AI models were being built on unlicensed news material."
+   },
+   {
+    "type": "p",
+    "text": "The updated terms now omit the previously stated permission, signaling a shift in Meta’s approach to content use for AI development. The company has not disclosed any further details about how it will source data for its AI projects moving forward."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The amendment affects how major news organizations protect their content and reflects growing scrutiny of AI data practices in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Meta removed language that suggested it could scrape news sites for AI training.",
+   "The revision responds to publisher criticism over unlicensed use of content.",
+   "Future AI data sourcing methods by Meta remain unspecified."
+  ],
+  "meta_description": "Meta deletes clause allowing use of news site content for AI, after publisher backlash.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "AI",
+   "news content",
+   "terms of service",
+   "digital media"
+  ],
+  "slug": "meta-strips-clause-allowing-use-news-content-ai-training-ac0eba",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:33Z"
+ },
+ {
   "id": "ce81f3c6c7b631a6",
   "source_url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
   "source": "The Verge",
@@ -2611,6 +3123,68 @@
   "slug": "jad-abumrads-podcast-legacy-includes-peabody-wins-new-shows-79e800",
   "reading_minutes": 1,
   "added": "2026-10-17T16:38:49Z"
+ },
+ {
+  "id": "6b1d181805643120",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/17/ilhan-omar-search-seized-items",
+  "source": "The Guardian",
+  "source_title": "Ilhan Omar’s attorneys say federal search of her home was ‘neither justified nor lawful’",
+  "source_summary": "Minnesota lawmaker’s attorneys asked for return of seized items and the preservation of any recordings of search Ilhan Omar ’s attorneys have asked the US Department of Justice to return property that federal agents removed days earlier from her home during a search. The lawyers for the Minnesota Democrat contended that the seizure as “neither justified nor lawful”, according to a letter that the Associated Press reported on Friday.",
+  "source_tags": [
+   "Ilhan Omar",
+   "Trump administration",
+   "House of Representatives",
+   "Donald Trump",
+   "US Congress",
+   "US politics",
+   "Minnesota",
+   "Washington DC",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/86198b3c15465682adb6cc2b42274419233943bc/273_0_2722_2179/master/2722.jpg?width=700&quality=85&auto=format&fit=max&s=191b2a5319cac37159d5c1e052d3ea43",
+  "published": "2026-10-17T14:21:24+00:00",
+  "headline": "Omar's Lawyers Demand Return of Seized Items After Federal Home Search",
+  "body": [
+   {
+    "type": "p",
+    "text": "Attorneys for Minnesota Representative Ilhan Omar have written to the U.S. Department of Justice requesting the return of property taken during a recent federal search of her home. The lawyers argue that the seizure was \"neither justified nor lawful,\" according to a letter cited by the Associated Press."
+   },
+   {
+    "type": "p",
+    "text": "The legal team also asked that any recordings made during the search be preserved, emphasizing the need to protect evidence that could be relevant to their challenge. The request follows a search conducted by federal agents earlier in the week, which resulted in the removal of several items from the congresswoman's residence."
+   },
+   {
+    "type": "p",
+    "text": "Omar, a Democrat serving in the House of Representatives, has not publicly commented on the matter, and the Justice Department has not yet responded to the attorneys' demands."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute raises questions about the scope of federal authority in searches involving elected officials and could set precedents for future congressional privacy protections."
+   }
+  ],
+  "key_points": [
+   "Ilhan Omar's attorneys claim the federal home search was unlawful and seek the return of seized items.",
+   "The lawyers also request preservation of any recordings made during the search."
+  ],
+  "meta_description": "Ilhan Omar's lawyers say a federal home search was unlawful and demand the return of seized items and preservation of search recordings.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ilhan Omar",
+   "Department of Justice",
+   "federal search",
+   "legal dispute",
+   "Congress"
+  ],
+  "slug": "omar-s-lawyers-demand-return-seized-items-after-federal-6b1d18",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:30Z"
  },
  {
   "id": "90c74339363b89b9",
@@ -3217,6 +3791,60 @@
   "added": "2026-10-17T13:09:22Z"
  },
  {
+  "id": "3fb9e3b581a5b007",
+  "source_url": "https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california",
+  "source": "NPR",
+  "source_title": "Week in Politics: Trump's Russian diesel deal update; why the DOJ is suing California",
+  "source_summary": "We look at where things are in the deal President Trump says he made to import Russian diesel, plus the reason why the Justice Department is suing California.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5998079",
+  "published": "2026-10-17T11:43:08+00:00",
+  "headline": "Trump Claims Russian Diesel Deal Progresses as DOJ Sues California",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump reiterated his claim that a deal to import Russian diesel is moving forward, though details on the agreement's status remain limited. The announcement came as part of a weekly political roundup that highlighted ongoing developments in the former president's foreign trade initiatives."
+   },
+   {
+    "type": "p",
+    "text": "In a separate legal development, the U.S. Justice Department filed a lawsuit against the state of California. The filing marks a new federal challenge to the state's actions, though the specific grounds for the suit were not detailed in the briefing."
+   },
+   {
+    "type": "p",
+    "text": "Both stories underscore the administration's focus on energy trade and the federal government's willingness to contest state policies in court. Observers note that the outcomes could have implications for domestic energy markets and the balance of power between federal and state authorities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The diesel deal could affect global energy supplies, while the DOJ lawsuit reflects ongoing tensions over federal versus state regulatory authority."
+   }
+  ],
+  "key_points": [
+   "President Trump says a Russian diesel import deal is advancing.",
+   "The Justice Department has initiated a lawsuit against California.",
+   "These actions highlight federal involvement in energy and regulatory disputes."
+  ],
+  "meta_description": "Trump says a Russian diesel import deal is progressing, and the DOJ sues California, highlighting energy and legal battles.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Russian diesel",
+   "Justice Department",
+   "California lawsuit",
+   "energy trade",
+   "federal-state relations"
+  ],
+  "slug": "trump-claims-russian-diesel-deal-progresses-doj-sues-california-3fb9e3",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:38Z"
+ },
+ {
   "id": "c668fb0baba7a514",
   "source_url": "https://www.bbc.co.uk/sport/cycling/videos/c3pwgqel0er4o",
   "source": "BBC Sport",
@@ -3323,6 +3951,64 @@
   "slug": "england-shocked-tonga-upset-rugby-league-world-cup-opener-6425e3",
   "reading_minutes": 1,
   "added": "2026-10-17T13:09:26Z"
+ },
+ {
+  "id": "7c6af41d41306883",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher",
+  "source": "The Guardian",
+  "source_title": "Key player in false Talarico rumor has history of online posts invoking Nazi Germany",
+  "source_summary": "Ryan Amacher, who played role in bid to damage campaign, has also made antisemitic and racist posts on social media An influencer who played a key role in hoax claims that James Talarico was in a mental health facility has a long history of social media posts that favorably invoke Nazi Germany , express antisemitism and anti-Black racism , criticize miscegenation and call for “remigration” of refugees. On X, the Lake Oswego, Oregon, resident Ryan Amacher, known online as Rhein Amacher, has described Muslims as “sub-human” , claimed that Black Africans are “monkeys” with low IQ , characterized immigrants as “vermin” and expressed support for the far right, including Germany’s AfD and the UK’s Tommy Robinson .",
+  "source_tags": [
+   "Far right (US)",
+   "US midterm elections 2026",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/61df1dce979d19ec1bdeef15e0a75f5ea3b0522d/588_0_3334_2668/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=36dbff8fd59d924a66c1625d3553c96b",
+  "published": "2026-10-17T11:00:29+00:00",
+  "headline": "Influencer Behind Talarico Hoax Has History of Nazi‑Era Hate Posts",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ryan Amacher, an influencer from Lake Oswego, Oregon, played a central role in spreading false claims that Texas lawmaker James Talarico was confined to a mental‑health facility. The Guardian reports that Amacher, who uses the online name Rhein Amacher, has a long record of extremist posts on X."
+   },
+   {
+    "type": "p",
+    "text": "His social‑media history includes praising Nazi Germany, posting antisemitic and anti‑Black remarks, and describing Muslims as “sub‑human.” He has also called Black Africans “monkeys,” labeled immigrants “vermin,” and advocated for the “remigration” of refugees. Amacher expressed support for far‑right groups such as Germany’s AfD and the UK’s Tommy Robinson."
+   },
+   {
+    "type": "p",
+    "text": "These hateful statements were documented alongside his involvement in the Talarico rumor, indicating a pattern of extremist propaganda that extends beyond a single political stunt."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights how extremist online actors can influence political misinformation in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "Ryan Amacher helped circulate a false story about lawmaker James Talarico.",
+   "Amacher’s online posts repeatedly invoke Nazi imagery and promote antisemitic, anti‑Black and anti‑immigrant rhetoric.",
+   "He has voiced support for far‑right parties and figures in Europe, including Germany’s AfD and Tommy Robinson."
+  ],
+  "meta_description": "Influencer Ryan Amacher, behind a false Talarico claim, has a history of Nazi‑era hate posts and far‑right support.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "misinformation",
+   "extremism",
+   "online hate",
+   "James Talarico",
+   "far right"
+  ],
+  "slug": "influencer-behind-talarico-hoax-has-history-naziera-hate-posts-7c6af4",
+  "reading_minutes": 1,
+  "added": "2026-10-18T04:19:41Z"
  },
  {
   "id": "7cb0181a508a8091",
