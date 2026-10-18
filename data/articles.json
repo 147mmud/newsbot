@@ -45,6 +45,68 @@
   "added": "2026-10-18T21:20:31Z"
  },
  {
+  "id": "ab826f2c5be7c5f0",
+  "source_url": "https://www.theguardian.com/media/2026/oct/18/cbs-reporter-apologizes-abdul-el-sayed-post",
+  "source": "The Guardian",
+  "source_title": "CBS reporter apologizes and deletes post praising Abdul El-Sayed heckler",
+  "source_summary": "Jan Crawford had praised man who asked Democratic candidate whether he would disavow Muslim Brotherhood CBS ’s chief legal correspondent Jan Crawford has apologized for and deleted a social media post praising a man who questioned Democratic Michigan US Senate candidate Abdul El-Sayed about the Muslim Brotherhood during a town hall on Saturday. On Sunday, Crawford, who initially joined CBS in 2009, wrote on X: “Earlier, I tweeted a video from an Abdul El-Sayed town hall. I deleted that tweet because it was a violation of CBS News standards. I apologize.”",
+  "source_tags": [
+   "CBS",
+   "Media",
+   "US midterm elections 2026",
+   "US television industry",
+   "US politics",
+   "US news",
+   "Michigan",
+   "Islamophobia"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/7ba03938b1e04ec9513de537fd928c26fe0c8f40/253_0_3184_2548/master/3184.jpg?width=700&quality=85&auto=format&fit=max&s=dd94b404f93a025f50e12ec60b44655a",
+  "published": "2026-10-18T21:07:58+00:00",
+  "headline": "CBS Legal Correspondent Jan Crawford Deletes Post, Issues Apology",
+  "body": [
+   {
+    "type": "p",
+    "text": "CBS News’ chief legal correspondent Jan Crawford apologized on Sunday after removing a social‑media post that praised a man who challenged Democratic Senate candidate Abdul El‑Sayed about the Muslim Brotherhood at a Michigan town hall. The original tweet, posted on X, highlighted the heckler’s question and was later deleted as a breach of CBS News standards."
+   },
+   {
+    "type": "p",
+    "text": "In her apology, Crawford wrote that she had deleted the tweet because it violated the network’s policies and expressed regret for the mistake. Crawford, who has been with CBS since 2009, did not elaborate on the content of the original post beyond acknowledging the standards breach."
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores the scrutiny faced by journalists on personal platforms, especially when commentary intersects with politically sensitive topics such as alleged ties to extremist groups."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode illustrates how major news outlets enforce internal standards to maintain credibility, a concern for audiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "CBS legal correspondent Jan Crawford deleted a tweet praising a heckler of Senate candidate Abdul El‑Sayed.",
+   "She apologized, citing a violation of CBS News standards.",
+   "The episode highlights ongoing concerns about journalists’ use of social media."
+  ],
+  "meta_description": "CBS legal correspondent Jan Crawford apologizes and deletes a tweet praising a heckler of Michigan Senate candidate Abdul El‑Sayed.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "CBS",
+   "Jan Crawford",
+   "Abdul El‑Sayed",
+   "Michigan Senate",
+   "media standards"
+  ],
+  "slug": "cbs-legal-correspondent-jan-crawford-deletes-post-issues-apology-ab826f",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:35:32Z"
+ },
+ {
   "id": "fbab60fc894873c7",
   "source_url": "https://www.bbc.co.uk/news/videos/c84g166kz003o",
   "source": "BBC News",
@@ -266,7 +328,7 @@
    "Venture"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark2.jpg?w=799",
   "published": "2026-10-18T21:00:00+00:00",
   "headline": "Benchmark Partners Emphasize Cohesion Amid Fund Growth and Turnover",
   "body": [
@@ -309,7 +371,8 @@
   ],
   "slug": "benchmark-partners-emphasize-cohesion-amid-fund-growth-turnover-d2bbff",
   "reading_minutes": 1,
-  "added": "2026-10-18T21:20:39Z"
+  "added": "2026-10-18T21:20:39Z",
+  "img_checked": true
  },
  {
   "id": "cef1d05c75250eda",
@@ -322,7 +385,7 @@
    "Anthropic"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
   "published": "2026-10-18T20:37:40+00:00",
   "headline": "Anthropic Says It’s Committing 5% of Its Shares to a ‘Public Benefit Fund’",
   "body": [
@@ -346,7 +409,62 @@
   ],
   "slug": "anthropic-says-its-committing-5-its-shares-public-benefit-cef1d0",
   "reading_minutes": 1,
-  "added": "2026-10-18T21:20:52Z"
+  "added": "2026-10-18T21:20:52Z",
+  "img_checked": true
+ },
+ {
+  "id": "7d00624a183dd7ef",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o",
+  "source": "BBC News",
+  "source_title": "Macron calls for 'calm and order' after riots across France",
+  "source_summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3671/live/56f97410-cb35-11f1-9e57-a506a0943bb2.jpg",
+  "published": "2026-10-18T20:33:21+00:00",
+  "headline": "Macron Urges Calm and Order After Nationwide Riots Sweep France",
+  "body": [
+   {
+    "type": "p",
+    "text": "French President Emmanuel Macron addressed the nation on Tuesday, calling for \"calm and order\" as riots spread across the country. The unrest, which began earlier in the week, has affected multiple cities and prompted a heightened police presence."
+   },
+   {
+    "type": "p",
+    "text": "In his televised speech, Macron condemned the violence and looting that continued in parts of Paris, urging citizens to respect the rule of law while authorities work to restore safety. He emphasized that the government will take all necessary measures to protect public order."
+   },
+   {
+    "type": "p",
+    "text": "The president's appeal comes amid growing concerns about the scale of the disorder and its potential impact on daily life and commerce. Officials have not provided a timeline for when the situation will fully stabilize."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest highlights domestic instability in France, a key EU member, which could affect regional security and economic activity."
+   }
+  ],
+  "key_points": [
+   "Macron called for calm and order in a national address amid widespread riots.",
+   "Looting persisted in Paris even as police increased their presence.",
+   "The government pledged to take all necessary steps to restore public safety."
+  ],
+  "meta_description": "President Macron urges calm and order as riots and looting continue across France, including Paris.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "riots",
+   "Emmanuel Macron",
+   "public order",
+   "Paris",
+   "Europe"
+  ],
+  "slug": "macron-urges-calm-order-after-nationwide-riots-sweep-france-7d0062",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:35:47Z"
  },
  {
   "id": "3bd4a10ac85d6f64",
@@ -527,6 +645,59 @@
   "added": "2026-10-18T21:20:44Z"
  },
  {
+  "id": "c4a4c4e26a1816d5",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo",
+  "source": "BBC News",
+  "source_title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+  "source_summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg",
+  "published": "2026-10-18T19:53:27+00:00",
+  "headline": "Cindy Crawford Says She Is “Beyond Heartbroken” Over Son Presley’s Death",
+  "body": [
+   {
+    "type": "p",
+    "text": "Supermodel Cindy Crawford expressed profound grief after the death of her 27‑year‑old son, Presley Gerber, in September. Crawford described herself as “beyond heartbroken” in statements released to the media."
+   },
+   {
+    "type": "p",
+    "text": "Presley Gerber’s death is currently being investigated as a suspected overdose, according to authorities. No further details about the circumstances have been disclosed."
+   },
+   {
+    "type": "p",
+    "text": "The loss adds to a series of recent high‑profile tragedies in the entertainment industry, prompting public condolences and renewed discussion about substance‑related deaths."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Crawford’s prominence in fashion and media makes the loss a notable story for audiences in the US and Europe, highlighting ongoing concerns about drug‑related fatalities."
+   }
+  ],
+  "key_points": [
+   "Cindy Crawford called herself “beyond heartbroken” after her son Presley Gerber died at 27.",
+   "Police are treating Presley Gerber’s September death as a suspected overdose.",
+   "The tragedy has sparked widespread sympathy and conversation about substance abuse."
+  ],
+  "meta_description": "Cindy Crawford says she is “beyond heartbroken” after her 27‑year‑old son Presley Gerber’s death, investigated as a suspected overdose.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Cindy Crawford",
+   "Presley Gerber",
+   "celebrity death",
+   "overdose investigation",
+   "entertainment news"
+  ],
+  "slug": "cindy-crawford-says-she-beyond-heartbroken-over-son-presleys-c4a4c4",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:35:55Z"
+ },
+ {
   "id": "61a775e3e3e0dced",
   "source_url": "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html",
   "source": "The New York Times",
@@ -587,6 +758,54 @@
   "slug": "2028-shadow-primary-hits-midterms-new-hampshire-becomes-battleground-61a775",
   "reading_minutes": 1,
   "added": "2026-10-18T21:21:11Z"
+ },
+ {
+  "id": "3d1c5016dca70cad",
+  "source_url": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
+  "source_summary": "Anti-government protesters continued calls for Edi Rama to step down as violent clashes between demonstrators and police again took place.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79694054_6.jpg",
+  "published": "2026-10-18T19:47:00+00:00",
+  "headline": "Albania’s Prime Minister Edi Rama Faces Renewed Calls to Resign After Violent Clashes",
+  "body": [
+   {
+    "type": "p",
+    "text": "Anti‑government demonstrators in Albania continued to demand the resignation of Prime Minister Edi Rama on Tuesday, as confrontations with police turned violent again in the capital. Protesters gathered near key government buildings, chanting slogans and holding signs urging the premier to step down."
+   },
+   {
+    "type": "p",
+    "text": "Police responded with crowd‑control measures, and several clashes were reported, resulting in injuries among both demonstrators and law‑enforcement officers. The unrest follows weeks of mounting criticism of Rama’s administration over economic and governance issues."
+   },
+   {
+    "type": "p",
+    "text": "Despite the escalating tension, Rama has not addressed the resignation demands publicly, and authorities have called for calm while maintaining a visible police presence to prevent further disorder."
+   }
+  ],
+  "key_points": [
+   "Protesters in Albania repeatedly called for Prime Minister Edi Rama to resign.",
+   "Violent clashes between demonstrators and police occurred again, causing injuries.",
+   "Rama has not publicly responded to the resignation demands."
+  ],
+  "meta_description": "Albanian protesters again demand Prime Minister Edi Rama's resignation as violent clashes with police erupt in the capital.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Albania",
+   "Edi Rama",
+   "protests",
+   "resignation",
+   "police clashes"
+  ],
+  "slug": "albanias-prime-minister-edi-rama-faces-renewed-calls-resign-3d1c50",
+  "reading_minutes": 1,
+  "img_checked": true,
+  "added": "2026-10-18T21:36:00Z"
  },
  {
   "id": "c07d5421329f7f28",
@@ -721,7 +940,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/78157674_6.jpg",
   "published": "2026-10-18T19:06:00+00:00",
   "headline": "Trump Endorses Netanyahu Ahead of Israel’s Oct. 27 Election",
   "body": [
@@ -764,7 +983,8 @@
   ],
   "slug": "trump-endorses-netanyahu-ahead-israels-oct-27-election-cb12f2",
   "reading_minutes": 1,
-  "added": "2026-10-18T19:23:29Z"
+  "added": "2026-10-18T19:23:29Z",
+  "img_checked": true
  },
  {
   "id": "c9a32103961d4236",
@@ -778,7 +998,7 @@
    "Nathan Fielder"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
   "published": "2026-10-18T19:03:38+00:00",
   "headline": "Elizabeth Holmes Doc 'You Can See Everything' Sets Record Opening",
   "body": [
@@ -814,7 +1034,8 @@
   ],
   "slug": "elizabeth-holmes-doc-you-can-see-everything-sets-record-c9a321",
   "reading_minutes": 1,
-  "added": "2026-10-18T19:23:32Z"
+  "added": "2026-10-18T19:23:32Z",
+  "img_checked": true
  },
  {
   "id": "753af9b499f38f46",
@@ -1024,6 +1245,60 @@
   "slug": "madueke-scores-late-winner-arsenal-edge-nottingham-forest-1-ab2f38",
   "reading_minutes": 1,
   "added": "2026-10-18T19:24:01Z"
+ },
+ {
+  "id": "de696258f3de0d86",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/ckm23z2qem45o",
+  "source": "BBC Sport",
+  "source_title": "Gomez scores extraordinary goal as Brighton put five past Palace",
+  "source_summary": "Diego Gomez scores a sensational goal from the halfway line as Brighton hammer rivals Crystal Palace.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3561/live/e873db00-cb13-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-18T18:59:02+00:00",
+  "headline": "Diego Gomez Scores Halfway Goal as Brighton Thrashed Palace 5-0",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brighton secured a dominant 5-0 victory over Crystal Palace at Falmer Stadium, highlighted by a spectacular strike from Diego Gomez. The Argentine midfielder launched the ball from the halfway line, catching the Palace goalkeeper off guard and finding the back of the net."
+   },
+   {
+    "type": "p",
+    "text": "The goal came early in the second half and set the tone for the remainder of the match, with Brighton adding four more goals to complete a comprehensive win. Gomez's effort was described by commentators as extraordinary, showcasing both vision and technical skill."
+   },
+   {
+    "type": "p",
+    "text": "Palace were unable to respond, and the result leaves Brighton in a strong position in the Premier League table, while Palace must regroup after the heavy defeat."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result impacts the Premier League race, boosting Brighton's European ambitions while highlighting Palace's defensive vulnerabilities."
+   }
+  ],
+  "key_points": [
+   "Diego Gomez scored a goal from the halfway line for Brighton.",
+   "Brighton defeated Crystal Palace 5-0 at home.",
+   "The win strengthens Brighton's standing in the Premier League."
+  ],
+  "meta_description": "Diego Gomez's halfway-line strike helped Brighton beat Crystal Palace 5-0, a decisive win in the Premier League.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Premier League",
+   "Brighton",
+   "Crystal Palace",
+   "Diego Gomez",
+   "football",
+   "match highlights"
+  ],
+  "slug": "diego-gomez-scores-halfway-goal-brighton-thrashed-palace-5-de6962",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:35:35Z"
  },
  {
   "id": "2485a1df2f4de8f6",
@@ -1249,6 +1524,59 @@
   "added": "2026-10-18T19:24:09Z"
  },
  {
+  "id": "6cfdb5bf59d6d915",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo",
+  "source": "BBC Sport",
+  "source_title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+  "source_summary": "Michael Carrick said he had his headphones on this week so didn't hear the noise around Manchester United, but a 1-1 draw at Leeds means it is six games without a win.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f58/live/5e6a76a0-cb25-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-18T17:24:45+00:00",
+  "headline": "Carrick Says He Missed Noise as United Extend Winless Streak",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United midfielder Michael Carrick admitted he was listening to music with headphones during this week’s training, so he did not hear the criticism surrounding the club’s recent performances. The silence did not mask the reality on the pitch, as United were held to a 1-1 draw by Leeds United, extending their winless run to six consecutive games."
+   },
+   {
+    "type": "p",
+    "text": "Despite the stalemate, Christian Mbeumo provided a brief moment of optimism for the Red Devils, scoring United’s goal and offering a glimpse of attacking promise. Carrick, reflecting on the atmosphere at Old Trafford, said the team must focus on improving consistency and converting chances into victories."
+   },
+   {
+    "type": "p",
+    "text": "The draw leaves United still searching for their first win of the season, a situation that adds pressure on manager Erik ten Hag and his squad as they aim to climb out of the lower reaches of the Premier League table."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "United’s prolonged winless streak threatens their Premier League standing and could impact European qualification hopes, a concern for fans across the UK and Europe."
+   }
+  ],
+  "key_points": [
+   "Manchester United drew 1-1 with Leeds United, marking their sixth game without a win.",
+   "Midfielder Michael Carrick said he was wearing headphones and missed the surrounding noise.",
+   "Christian Mbeumo scored United’s goal, offering a brief uplift amid the slump."
+  ],
+  "meta_description": "Manchester United's six-game winless streak continues after a 1-1 draw at Leeds, with Carrick admitting he missed the surrounding noise.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Leeds United",
+   "Premier League",
+   "Christian Mbeumo"
+  ],
+  "slug": "carrick-says-he-missed-noise-united-extend-winless-streak-6cfdb5",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:35:43Z"
+ },
+ {
   "id": "a66da920b895afb9",
   "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
   "source": "The Guardian",
@@ -1305,6 +1633,133 @@
   "slug": "trump-justice-department-breaks-neutrality-ahead-midterms-a66da9",
   "reading_minutes": 1,
   "added": "2026-10-18T19:24:05Z"
+ },
+ {
+  "id": "c9c02875c2fe36b5",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+  "source": "The Guardian",
+  "source_title": "Trump ‘border czar’ says Ilhan Omar could be ‘of course’ denaturalized and deported",
+  "source_summary": "Officials allege congresswoman, whose home was raided by federal agents, or family violated law to obtain citizenship Tom Homan , Donald Trump’s “border czar”, has said that the Republican presidential administration could “of course” strip Democratic congresswoman Ilhan Omar of her citizenship and deport her. Homan’s comments during a Saturday appearance on Fox News were the first remarks explicitly mentioning denaturalization and deportation in connection with Omar that were attributed by name to a top Trump administration official since federal agents raided the Minnesota US House representative’s home on 12 October.",
+  "source_tags": [
+   "Trump administration",
+   "US immigration",
+   "US politics",
+   "US news",
+   "Ilhan Omar",
+   "US Congress",
+   "House of Representatives",
+   "Somalia",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/62774eed1226452588c991829bcceed1df9488f1/377_0_3213_2571/master/3213.jpg?width=700&quality=85&auto=format&fit=max&s=8d3446dd3c3a5a8547d484479a7dcd89",
+  "published": "2026-10-18T17:16:02+00:00",
+  "headline": "Trump Border Czar Says Administration Could Strip Ilhan Omar of Citizenship",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tom Homan, the official dubbed \"border czar\" by former President Donald Trump, told Fox News on Saturday that the administration could \"of course\" revoke Democratic congresswoman Ilhan Omar's U.S. citizenship and deport her."
+   },
+   {
+    "type": "p",
+    "text": "Homan's remarks are the first time a senior Trump administration figure has explicitly linked denaturalization and deportation to Omar by name, following a federal raid on the Minnesota lawmaker's home on Oct. 12."
+   },
+   {
+    "type": "p",
+    "text": "Officials allege that Omar or members of her family may have broken the law to obtain her citizenship, though no formal charges have been announced."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The statement raises concerns about political use of immigration enforcement in the United States and could influence debates on citizenship rights."
+   }
+  ],
+  "key_points": [
+   "Trump's border czar suggested the possibility of denaturalizing Ilhan Omar.",
+   "The comments came after a federal raid on Omar's home on Oct. 12.",
+   "No legal proceedings have been disclosed regarding the alleged citizenship violations."
+  ],
+  "meta_description": "Trump's border czar says the administration could strip Ilhan Omar of citizenship and deport her, citing alleged immigration violations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ilhan Omar",
+   "Tom Homan",
+   "denaturalization",
+   "US politics",
+   "immigration enforcement"
+  ],
+  "slug": "trump-border-czar-says-administration-could-strip-ilhan-omar-c9c028",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:36:07Z"
+ },
+ {
+  "id": "483726046d9905a1",
+  "source_url": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
+  "source": "The Guardian",
+  "source_title": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
+  "source_summary": "Mike Huckabee calls for arrest and prosecution of those responsible as Heidi Levine, 63, recovers in hospital in Israel The US ambassador to Israel, Mike Huckabee, has denounced the settler attack that left the Washington Post photojournalist Heidi Levine badly beaten and needing surgery as a “despicable act of terror” and called for the arrest and prosecution of those responsible. Levine, 63, an award-winning journalist who lives in Israel, was set upon last Friday by masked Israeli settlers who used clubs and other weapons to attack Palestinian people attempting to harvest their olives in occupied West Bank towns.",
+  "source_tags": [
+   "West Bank",
+   "Mike Huckabee",
+   "Palestine",
+   "Israel",
+   "Journalist safety",
+   "Trump administration",
+   "Benjamin Netanyahu",
+   "Donald Trump",
+   "Washington Post",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/b9d822eea77ce4604c690c4a52244f9602ac7b1f/195_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=77e9b4074e8518732936fdfa6343d7b9",
+  "published": "2026-10-18T17:02:13+00:00",
+  "headline": "US Ambassador Calls West Bank Settler Attack on Journalist Terror",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. Ambassador to Israel Mike Huckabee condemned a violent incident in the occupied West Bank as a “despicable act of terror.” The attack targeted Washington Post photojournalist Heidi Levine, 63, an award‑winning reporter who lives in Israel, when masked Israeli settlers assaulted her with clubs while she was covering Palestinians harvesting olives."
+   },
+   {
+    "type": "p",
+    "text": "Levine was left badly beaten and required surgery, and she remains in an Israeli hospital recovering from her injuries. Huckabee urged Israeli authorities to arrest and prosecute those responsible, emphasizing that such attacks threaten press freedom and the safety of journalists working in the region."
+   },
+   {
+    "type": "p",
+    "text": "The incident occurred last Friday in a West Bank town where settlers confronted Palestinian farmers. According to the ambassador’s statement, the use of weapons and the severity of the assault underscore a broader pattern of intimidation against media personnel in conflict zones."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ambassador’s response highlights U.S. concerns over press freedom and the safety of journalists in the Israeli‑Palestinian conflict, issues that resonate with European audiences monitoring human‑rights standards."
+   }
+  ],
+  "key_points": [
+   "U.S. Ambassador Mike Huckabee labeled the settler assault on journalist Heidi Levine as terrorism.",
+   "Levine, a 63‑year‑old Washington Post photographer, was hospitalized after being beaten with clubs.",
+   "Huckabee called for the arrest and prosecution of the attackers, citing concerns for press safety."
+  ],
+  "meta_description": "U.S. ambassador calls West Bank settler attack on Washington Post photographer terrorism, urges arrests as journalist recovers.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US Israel relations",
+   "press freedom",
+   "West Bank",
+   "settler violence",
+   "journalist safety"
+  ],
+  "slug": "us-ambassador-calls-west-bank-settler-attack-journalist-terror-483726",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:36:15Z"
  },
  {
   "id": "c656ecc3f3ddd158",
@@ -1380,7 +1835,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79693240_6.jpg",
   "published": "2026-10-18T16:34:00+00:00",
   "headline": "Saudi Arabia Sends Kingdom Center Staff Home Over Houthi Threats",
   "body": [
@@ -1423,7 +1878,8 @@
   ],
   "slug": "saudi-arabia-sends-kingdom-center-staff-home-over-houthi-3d554a",
   "reading_minutes": 1,
-  "added": "2026-10-18T16:49:15Z"
+  "added": "2026-10-18T16:49:15Z",
+  "img_checked": true
  },
  {
   "id": "3cc43513e572921c",
@@ -1504,7 +1960,7 @@
    "character.ai"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
   "published": "2026-10-18T16:30:00+00:00",
   "headline": "Disney to Absorb Most of Character.AI Staff After Bankruptcy",
   "body": [
@@ -1547,7 +2003,8 @@
   ],
   "slug": "disney-absorb-most-character-ai-staff-after-bankruptcy-6a083a",
   "reading_minutes": 1,
-  "added": "2026-10-18T16:49:18Z"
+  "added": "2026-10-18T16:49:18Z",
+  "img_checked": true
  },
  {
   "id": "7eec8c8d64eefae2",
@@ -1796,7 +2253,7 @@
    "techcrunch mobility"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Techcrunch-disrupt-RJ-Scaringe.jpg?resize=1200,801",
   "published": "2026-10-18T16:05:00+00:00",
   "headline": "TechCrunch Mobility Highlights AI's Growing Role in Transportation",
   "body": [
@@ -1839,7 +2296,8 @@
   ],
   "slug": "techcrunch-mobility-highlights-ai-s-growing-role-transportation-4f21f1",
   "reading_minutes": 1,
-  "added": "2026-10-18T16:49:55Z"
+  "added": "2026-10-18T16:49:55Z",
+  "img_checked": true
  },
  {
   "id": "42c1d0a0bfaaf23a",
@@ -1898,7 +2356,8 @@
   ],
   "slug": "theranos-founder-documentary-draws-over-2-000-soldout-screenings-42c1d0",
   "reading_minutes": 1,
-  "added": "2026-10-18T16:49:27Z"
+  "added": "2026-10-18T16:49:27Z",
+  "img_checked": true
  },
  {
   "id": "8b1a0e5b1a50cffc",
@@ -1953,6 +2412,65 @@
   "added": "2026-10-18T16:49:43Z"
  },
  {
+  "id": "4f5bd0962d74287d",
+  "source_url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+  "source": "The Verge",
+  "source_title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+  "source_summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage […]",
+  "source_tags": [
+   "Deals",
+   "Gadgets",
+   "Gaming",
+   "PC Gaming",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1224.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-18T15:00:00+00:00",
+  "headline": "Lenovo Legion Go S Handheld Beats Steam Deck OLED on Specs",
+  "body": [
+   {
+    "type": "p",
+    "text": "Lenovo’s new Legion Go S handheld runs SteamOS, offering the same software ecosystem as Valve’s Steam Deck OLED but with a number of hardware upgrades. The device features a two‑stage trigger system and an eight‑inch IPS display that delivers full‑HD resolution at up to 120 Hz, compared with the Deck OLED’s 800p panel limited to 90 Hz."
+   },
+   {
+    "type": "p",
+    "text": "In addition to the brighter, faster screen, the Legion Go S ships with twice the amount of RAM and storage found in the Deck OLED, giving it a clear performance edge. Lenovo markets the handheld as a “hundreds‑off” alternative to the $789 Steam Deck OLED, positioning it as a more affordable option for gamers seeking premium handheld performance."
+   },
+   {
+    "type": "p",
+    "text": "Both devices run identical SteamOS software, meaning users can access the same game library and features regardless of the hardware they choose. The Legion Go S’s enhanced triggers and higher‑refresh display aim to provide a smoother, more responsive gaming experience."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Legion Go S gives US and European gamers a high‑performance handheld at a lower price point, expanding options in a competitive market."
+   }
+  ],
+  "key_points": [
+   "Lenovo’s Legion Go S offers a larger 1080p, 120 Hz screen versus the Deck OLED’s 800p, 90 Hz panel.",
+   "The handheld includes double the RAM and storage of the Steam Deck OLED while being priced significantly lower.",
+   "It runs the same SteamOS software, ensuring full compatibility with the Steam game library."
+  ],
+  "meta_description": "Lenovo’s Legion Go S handheld matches Steam Deck OLED software but adds a bigger 1080p 120 Hz screen, double RAM/storage, and a lower price.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "gaming",
+   "handheld",
+   "Lenovo",
+   "SteamOS",
+   "hardware"
+  ],
+  "slug": "lenovo-legion-go-s-handheld-beats-steam-deck-oled-4f5bd0",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:36:03Z"
+ },
+ {
   "id": "13ef523ebaae6975",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo",
   "source": "BBC Sport",
@@ -2004,6 +2522,64 @@
   "slug": "united-slip-sixth-straight-winless-game-after-leeds-draw-13ef52",
   "reading_minutes": 1,
   "added": "2026-10-18T16:49:59Z"
+ },
+ {
+  "id": "c5996f1744523dd4",
+  "source_url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+  "source": "The Verge",
+  "source_title": "J Mascis has nothing better to do",
+  "source_summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview subject, quietly sitting and offering deft nonanswers. That's not to say that Mascis […]",
+  "source_tags": [
+   "Entertainment",
+   "Interview",
+   "Music",
+   "Report"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/J-Mascis-Dinosaur-Jr-interview-Babys-All-Right.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-18T14:00:00+00:00",
+  "headline": "J Mascis’s Stoic Stage Presence Mirrors His Interview Style",
+  "body": [
+   {
+    "type": "p",
+    "text": "Dinosaur Jr. frontman J Mascis is celebrated for his laid‑back stage demeanor, delivering intricate guitar solos while remaining almost motionless. Fans and critics alike note his ability to weave complex riffs with a seemingly effortless calm."
+   },
+   {
+    "type": "p",
+    "text": "The same composure extends to his off‑stage persona, where Mascas often provides terse, non‑committal answers in interviews. Observers describe his responses as deft nonanswers, reinforcing his reputation as a reluctant interview subject."
+   },
+   {
+    "type": "p",
+    "text": "Despite this reticence, Mascis’s influence on alternative rock remains significant, with his guitar work continuing to inspire new generations of musicians."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Mascis’s enduring influence on rock music highlights how artistic impact can persist even when artists maintain a low public profile."
+   }
+  ],
+  "key_points": [
+   "J Mascis is known for a stoic onstage presence while delivering intricate guitar work.",
+   "His interview style is similarly restrained, offering brief, non‑committal answers.",
+   "His guitar legacy continues to shape alternative rock despite his low‑key public persona."
+  ],
+  "meta_description": "Dinosaur Jr. frontman J Mascis is famed for his calm stage presence and equally restrained interview style, underscoring his lasting rock influence.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "J Mascis",
+   "Dinosaur Jr.",
+   "rock music",
+   "guitarists",
+   "interviews"
+  ],
+  "slug": "j-masciss-stoic-stage-presence-mirrors-his-interview-style-c5996f",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:36:11Z"
  },
  {
   "id": "07f5e8442486dc56",
@@ -2650,6 +3226,56 @@
   "added": "2026-10-18T13:11:20Z"
  },
  {
+  "id": "2ccffff31ca50619",
+  "source_url": "https://www.nytimes.com/2026/10/18/business/scott-kirby-united-airlines.html",
+  "source": "The New York Times",
+  "source_title": "United’s C.E.O. Says It Should Cost More Not to Sit in the Middle Seat",
+  "source_summary": "Scott Kirby of United Airlines said that “it’s expensive to fly airplanes” and that airfares may have further to rise.",
+  "source_tags": [
+   "Airlines and Airplanes",
+   "Prices (Fares, Fees and Rates)",
+   "Executives and Management (Theory)",
+   "Content Type: Personal Profile",
+   "Appointments and Executive Changes",
+   "Customer Relations",
+   "United Airlines",
+   "Kirby, Scott (1967- )"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18bizsun-corneroffice-united-lphc/18bizsun-corneroffice-united-lphc-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T09:00:17+00:00",
+  "headline": "United’s C.E.O. Says It Should Cost More Not to Sit in the Middle Seat",
+  "body": [
+   {
+    "type": "p",
+    "text": "In business and markets news, The New York Times reports:"
+   },
+   {
+    "type": "quote",
+    "text": "Scott Kirby of United Airlines said that “it’s expensive to fly airplanes” and that airfares may have further to rise.",
+    "cite": "The New York Times"
+   }
+  ],
+  "key_points": [],
+  "meta_description": "Scott Kirby of United Airlines said that “it’s expensive to fly airplanes” and that airfares may have further to rise.",
+  "category": "business",
+  "mode": "offline",
+  "index": false,
+  "tags": [
+   "Airlines and Airplanes",
+   "Customer Relations",
+   "United Airlines",
+   "Kirby, Scott (1967- )",
+   "United",
+   "Says It Should",
+   "Cost More Not",
+   "Middle Seat"
+  ],
+  "slug": "uniteds-c-e-o-says-it-should-cost-more-2ccfff",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:35:39Z"
+ },
+ {
   "id": "b615b2a69a1cb7c5",
   "source_url": "https://www.dw.com/en/why-starlink-is-so-important-for-ukraine/a-79689729?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
@@ -2659,7 +3285,7 @@
    "World"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/72776270_6.jpg",
   "published": "2026-10-18T08:58:00+00:00",
   "headline": "Starlink's Critical Role for Ukraine Amid Restrictions and Potential Outage",
   "body": [
@@ -2702,7 +3328,8 @@
   ],
   "slug": "starlink-s-critical-role-ukraine-amid-restrictions-potential-outage-b615b2",
   "reading_minutes": 1,
-  "added": "2026-10-18T09:01:51Z"
+  "added": "2026-10-18T09:01:51Z",
+  "img_checked": true
  },
  {
   "id": "3cefe810cd459dad",
@@ -2765,6 +3392,59 @@
   "slug": "france-faces-turmoil-antigovernment-protests-turn-violent-3cefe8",
   "reading_minutes": 1,
   "added": "2026-10-18T09:02:11Z"
+ },
+ {
+  "id": "ff60a66bba7b5eea",
+  "source_url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o",
+  "source": "BBC News",
+  "source_title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+  "source_summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb7f/live/223a12e0-c0de-11f1-8cf3-7dbc6a5861dd.jpg",
+  "published": "2026-10-18T08:12:24+00:00",
+  "headline": "Tidal Generator by Engineer Promises Power Boost for Coastal Towns",
+  "body": [
+   {
+    "type": "p",
+    "text": "Engineer David Mummery has unveiled a new tidal energy generator designed to harness the power of ocean currents. The device aims to provide a reliable source of electricity for communities situated along coastlines, where traditional grid connections can be costly or unreliable."
+   },
+   {
+    "type": "p",
+    "text": "Mummery argues that the technology could transform daily life in these areas by delivering affordable, clean power directly from the sea. The generator is intended to operate with minimal environmental impact, tapping into predictable tidal movements to produce electricity around the clock."
+   },
+   {
+    "type": "p",
+    "text": "If adopted widely, the system could reduce dependence on fossil fuels and support local economies by creating jobs in installation and maintenance. Coastal towns that struggle with high energy costs may see a shift toward greater energy independence, according to the engineer's projections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Renewable tidal power offers a steady energy source for coastal regions in the US and Europe, where many towns face high electricity costs and climate‑related challenges."
+   }
+  ],
+  "key_points": [
+   "David Mummery has developed a tidal generator targeting coastal communities.",
+   "The device promises affordable, clean electricity by exploiting predictable tides.",
+   "Widespread use could lower fossil‑fuel reliance and boost local economies."
+  ],
+  "meta_description": "Engineer David Mummery's tidal generator could deliver affordable, clean power to coastal towns, reducing reliance on fossil fuels.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tidal energy",
+   "renewable power",
+   "coastal towns",
+   "engineering",
+   "sustainability"
+  ],
+  "slug": "tidal-generator-engineer-promises-power-boost-coastal-towns-ff60a6",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:35:51Z"
  },
  {
   "id": "af81d41d58c8bee4",
@@ -3037,7 +3717,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/78144628_6.jpg",
   "published": "2026-10-18T07:03:00+00:00",
   "headline": "Czech Populist PM Babis Fails in Senate Vote, Opposition Holds Power",
   "body": [
@@ -3080,7 +3760,8 @@
   ],
   "slug": "czech-populist-pm-babis-fails-senate-vote-opposition-holds-cfeef2",
   "reading_minutes": 1,
-  "added": "2026-10-18T09:02:35Z"
+  "added": "2026-10-18T09:02:35Z",
+  "img_checked": true
  },
  {
   "id": "a464de5bf78a8416",
@@ -3131,7 +3812,8 @@
   ],
   "slug": "ice-arrests-surge-among-individuals-with-no-criminal-record-a464de",
   "reading_minutes": 1,
-  "added": "2026-10-18T09:01:59Z"
+  "added": "2026-10-18T09:01:59Z",
+  "img_checked": true
  },
  {
   "id": "4d10cd52060d9ca4",
@@ -3366,7 +4048,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79692055_6.jpg",
   "published": "2026-10-18T02:08:00+00:00",
   "headline": "Canada Military Base Fire Sparks Serious Incident, PM Says",
   "body": [
@@ -3409,7 +4091,8 @@
   ],
   "slug": "canada-military-base-fire-sparks-serious-incident-pm-says-d0f743",
   "reading_minutes": 1,
-  "added": "2026-10-18T04:19:13Z"
+  "added": "2026-10-18T04:19:13Z",
+  "img_checked": true
  },
  {
   "id": "b0fc972daf283fa1",
@@ -3421,7 +4104,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79690400_6.jpg",
   "published": "2026-10-18T00:51:00+00:00",
   "headline": "‘No Kings’ Protests Urge Early Voting Ahead of Midterm Elections",
   "body": [
@@ -3464,7 +4147,8 @@
   ],
   "slug": "no-kings-protests-urge-early-voting-ahead-midterm-elections-b0fc97",
   "reading_minutes": 1,
-  "added": "2026-10-18T04:19:17Z"
+  "added": "2026-10-18T04:19:17Z",
+  "img_checked": true
  },
  {
   "id": "11125da554cf8fc4",
@@ -4027,7 +4711,7 @@
    "Meta"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
   "published": "2026-10-17T21:31:32+00:00",
   "headline": "Meta Strips Controversial Clause From Terms, Says Crawl Practices Unchanged",
   "body": [
@@ -4071,7 +4755,8 @@
   ],
   "slug": "meta-strips-controversial-clause-from-terms-says-crawl-practices-568162",
   "reading_minutes": 1,
-  "added": "2026-10-17T21:41:34Z"
+  "added": "2026-10-17T21:41:34Z",
+  "img_checked": true
  },
  {
   "id": "ad207f8c622c9aa4",
@@ -4300,7 +4985,7 @@
    "TikTok"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
   "published": "2026-10-17T20:55:52+00:00",
   "headline": "TikTok Permanently Bans Advertising Account for Elon Musk Documentary",
   "body": [
@@ -4343,7 +5028,8 @@
   ],
   "slug": "tiktok-permanently-bans-advertising-account-elon-musk-documentary-5c37b2",
   "reading_minutes": 1,
-  "added": "2026-10-17T21:41:50Z"
+  "added": "2026-10-17T21:41:50Z",
+  "img_checked": true
  },
  {
   "id": "4ad96c026db61c9d",
@@ -4505,7 +5191,7 @@
    "Anthropic"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
   "published": "2026-10-17T20:21:19+00:00",
   "headline": "Anthropic Reports More Senior Staff and Increased Meeting Time",
   "body": [
@@ -4547,7 +5233,8 @@
   ],
   "slug": "anthropic-reports-more-senior-staff-increased-meeting-time-b769f5",
   "reading_minutes": 1,
-  "added": "2026-10-17T21:42:14Z"
+  "added": "2026-10-17T21:42:14Z",
+  "img_checked": true
  },
  {
   "id": "bc1a0a29be5769e3",
@@ -5166,7 +5853,7 @@
    "TechCrunch Disrupt"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
   "published": "2026-10-17T18:48:08+00:00",
   "headline": "Replit Switches Default AI Model Provider to OpenAI, Keeps Claude",
   "body": [
@@ -5209,7 +5896,8 @@
   ],
   "slug": "replit-switches-default-ai-model-provider-openai-keeps-claude-51c1c9",
   "reading_minutes": 1,
-  "added": "2026-10-18T04:19:21Z"
+  "added": "2026-10-18T04:19:21Z",
+  "img_checked": true
  },
  {
   "id": "87f321ddcc293169",
@@ -5434,7 +6122,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/78220437_6.jpg",
   "published": "2026-10-17T17:51:00+00:00",
   "headline": "Romanian F-16s Intercept Two Drones Over Black Sea Waters",
   "body": [
@@ -5482,7 +6170,8 @@
   ],
   "slug": "romanian-f-16s-intercept-two-drones-over-black-sea-d20502",
   "reading_minutes": 1,
-  "added": "2026-10-17T19:15:23Z"
+  "added": "2026-10-17T19:15:23Z",
+  "img_checked": true
  },
  {
   "id": "c4c3730905e364a7",
@@ -5494,7 +6183,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79689131_6.jpg",
   "published": "2026-10-17T17:49:00+00:00",
   "headline": "Egyptian President Says Cairo Will Defend Saudi Arabia If Requested",
   "body": [
@@ -5537,7 +6226,8 @@
   ],
   "slug": "egyptian-president-says-cairo-will-defend-saudi-arabia-if-c4c373",
   "reading_minutes": 1,
-  "added": "2026-10-17T19:15:35Z"
+  "added": "2026-10-17T19:15:35Z",
+  "img_checked": true
  },
  {
   "id": "3fc6af837124a895",
@@ -5669,7 +6359,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79688734_6.jpg",
   "published": "2026-10-17T16:29:00+00:00",
   "headline": "Israeli Settlers Assault Vehicles Carrying EU Diplomats in West Bank",
   "body": [
@@ -5713,7 +6403,8 @@
   ],
   "slug": "israeli-settlers-assault-vehicles-carrying-eu-diplomats-west-bank-ecae77",
   "reading_minutes": 1,
-  "added": "2026-10-17T16:38:05Z"
+  "added": "2026-10-17T16:38:05Z",
+  "img_checked": true
  },
  {
   "id": "d41e642a008a08d6",
@@ -6030,7 +6721,7 @@
    "Ember"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200",
   "published": "2026-10-17T15:30:00+00:00",
   "headline": "Ember Launches App-Free Temperature‑Controlled Mug for Tea Lovers",
   "body": [
@@ -6074,7 +6765,8 @@
   ],
   "slug": "ember-launches-app-free-temperaturecontrolled-mug-tea-lovers-9c715d",
   "reading_minutes": 1,
-  "added": "2026-10-17T16:38:17Z"
+  "added": "2026-10-17T16:38:17Z",
+  "img_checked": true
  },
  {
   "id": "0933dfbe3620c51b",
@@ -6835,7 +7527,8 @@
   ],
   "slug": "mayor-bally-bagayoko-becomes-prominent-face-france-youth-protests-3f2e65",
   "reading_minutes": 1,
-  "added": "2026-10-17T13:09:29Z"
+  "added": "2026-10-17T13:09:29Z",
+  "img_checked": true
  },
  {
   "id": "4fa1555f4370e3b5",
@@ -7712,7 +8405,8 @@
   ],
   "slug": "pennsylvanias-four-districts-illustrate-democrats-midterm-flip-strategy-527b1e",
   "reading_minutes": 1,
-  "added": "2026-10-17T09:13:18Z"
+  "added": "2026-10-17T09:13:18Z",
+  "img_checked": true
  },
  {
   "id": "aa5023d79336e87a",
@@ -7830,7 +8524,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/69003479_6.jpg",
   "published": "2026-10-17T08:19:00+00:00",
   "headline": "Mexico Sentences Killers of US and Australian Surfers to 158 Years",
   "body": [
@@ -7874,7 +8568,8 @@
   ],
   "slug": "mexico-sentences-killers-us-australian-surfers-158-years-bba9d8",
   "reading_minutes": 1,
-  "added": "2026-10-17T09:13:11Z"
+  "added": "2026-10-17T09:13:11Z",
+  "img_checked": true
  },
  {
   "id": "acf78236a010438c",
@@ -8338,7 +9033,7 @@
    "TC"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
   "published": "2026-10-17T02:36:18+00:00",
   "headline": "Mark Wahlberg Launches Affordable Gym With Health Perks",
   "body": [
@@ -8381,7 +9076,8 @@
   ],
   "slug": "mark-wahlberg-launches-affordable-gym-with-health-perks-8a848b",
   "reading_minutes": 1,
-  "added": "2026-10-17T04:56:20Z"
+  "added": "2026-10-17T04:56:20Z",
+  "img_checked": true
  },
  {
   "id": "a3c4f20ac4c1c958",
@@ -8510,7 +9206,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79625575_6.jpg",
   "published": "2026-10-17T02:09:00+00:00",
   "headline": "Trump Pauses New Russia Sanctions, Cites National Interests",
   "body": [
@@ -8553,7 +9249,8 @@
   ],
   "slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
   "reading_minutes": 1,
-  "added": "2026-10-17T04:56:52Z"
+  "added": "2026-10-17T04:56:52Z",
+  "img_checked": true
  },
  {
   "id": "d4f2dc4a3450981a",
@@ -9277,7 +9974,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79684767_6.jpg",
   "published": "2026-10-16T22:30:00+00:00",
   "headline": "Amazon Deforestation Hits Lowest Level Since 1988, Brazil Says",
   "body": [
@@ -9321,7 +10018,8 @@
   ],
   "slug": "amazon-deforestation-hits-lowest-level-since-1988-brazil-says-7d4768",
   "reading_minutes": 1,
-  "added": "2026-10-17T00:20:40Z"
+  "added": "2026-10-17T00:20:40Z",
+  "img_checked": true
  },
  {
   "id": "3395b49839809674",
@@ -9400,7 +10098,7 @@
    "TechCrunch Disrupt"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
   "published": "2026-10-16T21:22:28+00:00",
   "headline": "Replit Ends Anthropic Partnership Over Cost Concerns, Shifts Focus to OpenAI",
   "body": [
@@ -9444,7 +10142,8 @@
   ],
   "slug": "replit-ends-anthropic-partnership-over-cost-concerns-shifts-focus-d0f112",
   "reading_minutes": 1,
-  "added": "2026-10-16T22:01:40Z"
+  "added": "2026-10-16T22:01:40Z",
+  "img_checked": true
  },
  {
   "id": "2c8710dbe2adb760",
@@ -9860,7 +10559,7 @@
    "World"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79676751_6.jpg",
   "published": "2026-10-16T19:42:00+00:00",
   "headline": "Zelenskyy Calls for EU Backing as US Ties Strain Over Russia, Starlink",
   "body": [
@@ -9903,7 +10602,8 @@
   ],
   "slug": "zelenskyy-calls-eu-backing-us-ties-strain-over-russia-505d81",
   "reading_minutes": 1,
-  "added": "2026-10-16T22:02:00Z"
+  "added": "2026-10-16T22:02:00Z",
+  "img_checked": true
  },
  {
   "id": "f878b4f8fc00cdaf",
@@ -9913,7 +10613,7 @@
   "source_summary": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/107073528-1654800231246-rice.jpg?v=1711475524&w=1920&h=1080",
   "published": "2026-10-16T19:40:00+00:00",
   "headline": "Netflix Appoints Peter Rice to Lead Content Strategy Across All Formats",
   "body": [
@@ -9957,7 +10657,8 @@
   ],
   "slug": "netflix-appoints-peter-rice-lead-content-strategy-across-all-f878b4",
   "reading_minutes": 1,
-  "added": "2026-10-16T22:01:51Z"
+  "added": "2026-10-16T22:01:51Z",
+  "img_checked": true
  },
  {
   "id": "42c147a6a504cef7",
@@ -10189,7 +10890,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79658900_6.jpg",
   "published": "2026-10-16T18:29:00+00:00",
   "headline": "White House Press Secretary Zacharia Leaves After Five-Day Tenure",
   "body": [
@@ -10231,7 +10932,8 @@
   ],
   "slug": "white-house-press-secretary-zacharia-leaves-after-five-day-0e8c5a",
   "reading_minutes": 1,
-  "added": "2026-10-16T18:45:51Z"
+  "added": "2026-10-16T18:45:51Z",
+  "img_checked": true
  },
  {
   "id": "0983dd7b3a35ece4",
@@ -10487,7 +11189,7 @@
    "India"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
   "published": "2026-10-16T17:52:24+00:00",
   "headline": "India Reports Rogue AI Agents Exploiting Misconfigured Cloud Settings",
   "body": [
@@ -10530,7 +11232,8 @@
   ],
   "slug": "india-reports-rogue-ai-agents-exploiting-misconfigured-cloud-settings-bfa998",
   "reading_minutes": 1,
-  "added": "2026-10-16T18:46:19Z"
+  "added": "2026-10-16T18:46:19Z",
+  "img_checked": true
  },
  {
   "id": "b2ffb260ae37dbb9",
@@ -10586,7 +11289,7 @@
    "World"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79653106_6.jpg",
   "published": "2026-10-16T17:46:00+00:00",
   "headline": "Azerbaijan Schools Bar Hijab-Wearing Girls, Sparking Child-Led Protests",
   "body": [
@@ -10629,7 +11332,8 @@
   ],
   "slug": "azerbaijan-schools-bar-hijab-wearing-girls-sparking-child-led-751faf",
   "reading_minutes": 1,
-  "added": "2026-10-16T18:46:23Z"
+  "added": "2026-10-16T18:46:23Z",
+  "img_checked": true
  },
  {
   "id": "7a3dcc605d240ae3",
@@ -10747,7 +11451,7 @@
    "Germany"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79673243_6.jpg",
   "published": "2026-10-16T14:42:00+00:00",
   "headline": "German Parliament Debates Ovaherero and Nama Genocide After Opposition Push",
   "body": [
@@ -10791,7 +11495,8 @@
   ],
   "slug": "german-parliament-debates-ovaherero-nama-genocide-after-opposition-push-b463f9",
   "reading_minutes": 1,
-  "added": "2026-10-16T14:45:44Z"
+  "added": "2026-10-16T14:45:44Z",
+  "img_checked": true
  },
  {
   "id": "3b60328867ef11f7",
@@ -11043,7 +11748,7 @@
    "TechCrunch Disrupt"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
   "published": "2026-10-16T14:26:51+00:00",
   "headline": "Mark Wahlberg Says AI Can Be Used in Film If It Enhances the Craft",
   "body": [
@@ -11086,7 +11791,8 @@
   ],
   "slug": "mark-wahlberg-says-ai-can-be-used-film-if-9d3370",
   "reading_minutes": 1,
-  "added": "2026-10-16T14:45:40Z"
+  "added": "2026-10-16T14:45:40Z",
+  "img_checked": true
  },
  {
   "id": "83f3fffde75a4b9e",
@@ -11414,7 +12120,8 @@
   ],
   "slug": "bank-says-no-record-after-holding-cd-certificate-too-03465d",
   "reading_minutes": 1,
-  "added": "2026-10-16T14:46:16Z"
+  "added": "2026-10-16T14:46:16Z",
+  "img_checked": true
  },
  {
   "id": "19aaae501543f70a",
@@ -11647,7 +12354,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79675385_6.jpg",
   "published": "2026-10-16T09:26:00+00:00",
   "headline": "Argentine Students Clash with Police Over Milei Funding Freeze",
   "body": [
@@ -11691,7 +12398,8 @@
   ],
   "slug": "argentine-students-clash-with-police-over-milei-funding-freeze-f1e229",
   "reading_minutes": 1,
-  "added": "2026-10-16T09:41:33Z"
+  "added": "2026-10-16T09:41:33Z",
+  "img_checked": true
  },
  {
   "id": "3f1d45cba743e1d2",
@@ -11930,7 +12638,8 @@
   ],
   "slug": "lufthansa-retires-iconic-a346-after-decades-service-0f89b7",
   "reading_minutes": 1,
-  "added": "2026-10-16T09:41:36Z"
+  "added": "2026-10-16T09:41:36Z",
+  "img_checked": true
  },
  {
   "id": "540232d969d2df69",
@@ -12059,7 +12768,7 @@
    "Venture"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark.jpg?resize=1200,800",
   "published": "2026-10-16T05:16:46+00:00",
   "headline": "Benchmark Says Venture Pact Against Backing Rivals Is Eroding",
   "body": [
@@ -12103,7 +12812,8 @@
   ],
   "slug": "benchmark-says-venture-pact-against-backing-rivals-eroding-ac9242",
   "reading_minutes": 1,
-  "added": "2026-10-16T09:41:09Z"
+  "added": "2026-10-16T09:41:09Z",
+  "img_checked": true
  },
  {
   "id": "51a8267bb8798fa1",
@@ -12165,7 +12875,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79675695_6.jpg",
   "published": "2026-10-16T04:24:00+00:00",
   "headline": "Carney Claims U.S. Is Exploiting Alberta Independence Vote to Divide Canada",
   "body": [
@@ -12207,7 +12917,8 @@
   ],
   "slug": "carney-claims-u-s-exploiting-alberta-independence-vote-divide-666c64",
   "reading_minutes": 1,
-  "added": "2026-10-16T04:55:18Z"
+  "added": "2026-10-16T04:55:18Z",
+  "img_checked": true
  },
  {
   "id": "3bcd19347769cd67",
@@ -12623,7 +13334,7 @@
    "Tesla Roadster"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-roadster-2-fly.jpg?resize=1200,877",
   "published": "2026-10-16T01:17:43+00:00",
   "headline": "Tesla Unveils SpaceX-Powered Roadster That Leapt Over Fleet in Texas Demo",
   "body": [
@@ -12666,7 +13377,8 @@
   ],
   "slug": "tesla-unveils-spacex-powered-roadster-that-leapt-over-fleet-568aa4",
   "reading_minutes": 1,
-  "added": "2026-10-16T04:55:42Z"
+  "added": "2026-10-16T04:55:42Z",
+  "img_checked": true
  },
  {
   "id": "03d0810158f68c06",
@@ -12777,7 +13489,8 @@
   ],
   "slug": "houthi-missile-attack-kills-five-yemen-s-maashiq-palace-625bc7",
   "reading_minutes": 1,
-  "added": "2026-10-16T00:17:49Z"
+  "added": "2026-10-16T00:17:49Z",
+  "img_checked": true
  },
  {
   "id": "c9c43f1e32a507cc",
@@ -12790,7 +13503,7 @@
    "TC"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
   "published": "2026-10-15T23:44:56+00:00",
   "headline": "Cal AI’s Influencer Strategy Drives $30M Revenue Before MyFitness Deal",
   "body": [
@@ -12833,7 +13546,8 @@
   ],
   "slug": "cal-ais-influencer-strategy-drives-30m-revenue-before-myfitness-c9c43f",
   "reading_minutes": 1,
-  "added": "2026-10-16T00:17:53Z"
+  "added": "2026-10-16T00:17:53Z",
+  "img_checked": true
  },
  {
   "id": "60d1c61b53e19cce",
@@ -12848,7 +13562,7 @@
    "TechCrunch Disrupt"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55592280883_eb4cee0d80_k.jpg?resize=1200,800",
   "published": "2026-10-15T23:33:45+00:00",
   "headline": "Intero Biosystems Wins $100,000 Startup Battlefield at TechCrunch Disrupt 2026",
   "body": [
@@ -12891,7 +13605,8 @@
   ],
   "slug": "intero-biosystems-wins-100-000-startup-battlefield-techcrunch-disrupt-60d1c6",
   "reading_minutes": 1,
-  "added": "2026-10-16T00:18:09Z"
+  "added": "2026-10-16T00:18:09Z",
+  "img_checked": true
  },
  {
   "id": "964731d5d0129819",
@@ -13411,7 +14126,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79675080_6.jpg",
   "published": "2026-10-15T21:59:00+00:00",
   "headline": "Three Children and an Adult Killed in Oregon Elementary School Shooting",
   "body": [
@@ -13455,7 +14170,8 @@
   ],
   "slug": "three-children-adult-killed-oregon-elementary-school-shooting-a75559",
   "reading_minutes": 1,
-  "added": "2026-10-16T00:18:21Z"
+  "added": "2026-10-16T00:18:21Z",
+  "img_checked": true
  },
  {
   "id": "2cc31e1edcbf7f0d",
@@ -13890,7 +14606,7 @@
   "source_summary": "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/108004225-1720646729678-gettyimages-2161532031-js1_7834_axvogotf.jpeg?v=1792092510&w=1920&h=1080",
   "published": "2026-10-15T21:03:50+00:00",
   "headline": "KFC Switches to Coca‑Cola as U.S. Beverage Supplier After Decades",
   "body": [
@@ -13933,7 +14649,8 @@
   ],
   "slug": "kfc-switches-cocacola-u-s-beverage-supplier-after-decades-b0e465",
   "reading_minutes": 1,
-  "added": "2026-10-15T21:45:04Z"
+  "added": "2026-10-15T21:45:04Z",
+  "img_checked": true
  },
  {
   "id": "61b59749e908408b",
@@ -13945,7 +14662,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79674719_6.jpg",
   "published": "2026-10-15T20:42:00+00:00",
   "headline": "19 Injured as Minibus Collides with Freight Train Near Channel Tunnel",
   "body": [
@@ -13988,7 +14705,8 @@
   ],
   "slug": "19-injured-minibus-collides-with-freight-train-near-channel-61b597",
   "reading_minutes": 1,
-  "added": "2026-10-15T21:45:28Z"
+  "added": "2026-10-15T21:45:28Z",
+  "img_checked": true
  },
  {
   "id": "cf6f64f0e4c00aa1",
@@ -14004,7 +14722,7 @@
    "TechCrunch Disrupt"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800",
   "published": "2026-10-15T20:38:13+00:00",
   "headline": "Amazon Devices Chief Panos Panay Stresses Learning From Failure",
   "body": [
@@ -14043,7 +14761,8 @@
   ],
   "slug": "amazon-devices-chief-panos-panay-stresses-learning-from-failure-cf6f64",
   "reading_minutes": 1,
-  "added": "2026-10-15T21:45:32Z"
+  "added": "2026-10-15T21:45:32Z",
+  "img_checked": true
  },
  {
   "id": "c1b81952d03d32c5",
@@ -14053,7 +14772,7 @@
   "source_summary": "Porsche revealed a concept car called Mission S as part of a turnaround plan that includes efforts to boost profits through higher-end products and lower sales.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/108415341-1792086869282-CC27X05IX0005_sRGB_072dpi__RGB_OPI.jpg?v=1792095322&w=1920&h=1080",
   "published": "2026-10-15T20:30:01+00:00",
   "headline": "Porsche Unveils Mission S Concept, Aiming to Lift Profits",
   "body": [
@@ -14096,7 +14815,8 @@
   ],
   "slug": "porsche-unveils-mission-s-concept-aiming-lift-profits-c1b819",
   "reading_minutes": 1,
-  "added": "2026-10-15T21:45:24Z"
+  "added": "2026-10-15T21:45:24Z",
+  "img_checked": true
  },
  {
   "id": "0537f1059ccf6ad6",
@@ -14451,7 +15171,7 @@
    "TechCrunch Founder Summit"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
   "published": "2026-10-15T18:00:00+00:00",
   "headline": "Early‑Bird Discounts Up to $200 End Oct. 16 for TechCrunch Founder Summit",
   "body": [
@@ -14495,7 +15215,8 @@
   ],
   "slug": "earlybird-discounts-up-200-end-oct-16-techcrunch-founder-788e1a",
   "reading_minutes": 1,
-  "added": "2026-10-15T18:36:36Z"
+  "added": "2026-10-15T18:36:36Z",
+  "img_checked": true
  },
  {
   "id": "1a758cc6e0166c56",
@@ -14678,7 +15399,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79578112_6.jpg",
   "published": "2026-10-15T17:44:00+00:00",
   "headline": "Houthis Strike Yemen Government Palace in Aden, Target Saudi Assets",
   "body": [
@@ -14722,7 +15443,8 @@
   ],
   "slug": "houthis-strike-yemen-government-palace-aden-target-saudi-assets-9ec962",
   "reading_minutes": 1,
-  "added": "2026-10-15T18:36:52Z"
+  "added": "2026-10-15T18:36:52Z",
+  "img_checked": true
  },
  {
   "id": "f9936a0b30446874",
@@ -16379,7 +17101,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79645001_6.jpg",
   "published": "2026-10-15T03:29:00+00:00",
   "headline": "Brazil Senate Approves 40‑Hour Workweek, Boosting Lula Ahead of Runoff",
   "body": [
@@ -16422,7 +17144,8 @@
   ],
   "slug": "brazil-senate-approves-40hour-workweek-boosting-lula-ahead-runoff-6e73e0",
   "reading_minutes": 1,
-  "added": "2026-10-15T04:28:05Z"
+  "added": "2026-10-15T04:28:05Z",
+  "img_checked": true
  },
  {
   "id": "5a661ac011f7536f",
@@ -16788,7 +17511,7 @@
    "Ricursive Intelligence"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
   "published": "2026-10-15T01:01:32+00:00",
   "headline": "Ricursive Intelligence Uses AI to Design Chips, Easing Compute Crisis",
   "body": [
@@ -16831,7 +17554,8 @@
   ],
   "slug": "ricursive-intelligence-uses-ai-design-chips-easing-compute-crisis-f86858",
   "reading_minutes": 1,
-  "added": "2026-10-15T04:28:22Z"
+  "added": "2026-10-15T04:28:22Z",
+  "img_checked": true
  },
  {
   "id": "92b76e7255e3d679",
@@ -16847,7 +17571,7 @@
    "privacy"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024",
   "published": "2026-10-15T00:49:31+00:00",
   "headline": "Flock CEO Defends Surveillance Tech, Cites Crime‑Fighting Benefits",
   "body": [
@@ -16891,7 +17615,8 @@
   ],
   "slug": "flock-ceo-defends-surveillance-tech-cites-crimefighting-benefits-92b76e",
   "reading_minutes": 1,
-  "added": "2026-10-15T04:28:37Z"
+  "added": "2026-10-15T04:28:37Z",
+  "img_checked": true
  },
  {
   "id": "5abc04e05146a5cd",
@@ -16904,7 +17629,7 @@
    "AI"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
   "published": "2026-10-15T00:00:00+00:00",
   "headline": "Gudea Deploys AI to Detect Emerging Social Media Crises Before They Escalate for Brands and Agencies",
   "body": [
@@ -16943,7 +17668,8 @@
   ],
   "slug": "gudea-deploys-ai-detect-emerging-social-media-crises-before-5abc04",
   "reading_minutes": 1,
-  "added": "2026-10-15T00:04:39Z"
+  "added": "2026-10-15T00:04:39Z",
+  "img_checked": true
  },
  {
   "id": "589dbea38ab3433b",
@@ -17015,7 +17741,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79664856_6.jpg",
   "published": "2026-10-14T23:37:00+00:00",
   "headline": "North Korea Tests Submarine‑Launched Cruise Missiles in Latest Drill",
   "body": [
@@ -17057,7 +17783,8 @@
   ],
   "slug": "north-korea-tests-submarinelaunched-cruise-missiles-latest-drill-53b427",
   "reading_minutes": 1,
-  "added": "2026-10-15T00:04:43Z"
+  "added": "2026-10-15T00:04:43Z",
+  "img_checked": true
  },
  {
   "id": "3b0f2d67b55f77d3",
@@ -17113,7 +17840,8 @@
   ],
   "slug": "trump-administration-sees-rise-female-officials-leaving-top-posts-3b0f2d",
   "reading_minutes": 1,
-  "added": "2026-10-15T00:04:58Z"
+  "added": "2026-10-15T00:04:58Z",
+  "img_checked": true
  },
  {
   "id": "cc6fb35de0a3bad6",
@@ -17410,7 +18138,7 @@
    "Battlefield 200"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864",
   "published": "2026-10-14T23:00:00+00:00",
   "headline": "Intero Biosystems Offers Lab‑Grown Human Intestines to Replace Animal Testing",
   "body": [
@@ -17454,7 +18182,8 @@
   ],
   "slug": "intero-biosystems-offers-labgrown-human-intestines-replace-animal-testing-d11f18",
   "reading_minutes": 1,
-  "added": "2026-10-15T00:05:10Z"
+  "added": "2026-10-15T00:05:10Z",
+  "img_checked": true
  },
  {
   "id": "59e45d1980030e20",
@@ -17674,7 +18403,8 @@
   ],
   "slug": "s-p-500-slides-1-1-amid-inflation-fears-0c6c7d",
   "reading_minutes": 1,
-  "added": "2026-10-14T21:35:17Z"
+  "added": "2026-10-14T21:35:17Z",
+  "img_checked": true
  },
  {
   "id": "bd61b92171acdf66",
@@ -17688,7 +18418,7 @@
    "Flock"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
   "published": "2026-10-14T21:30:33+00:00",
   "headline": "Flock CEO Claims Mics Detect Only Gunshots Amid Privacy Scrutiny",
   "body": [
@@ -17731,7 +18461,8 @@
   ],
   "slug": "flock-ceo-claims-mics-detect-only-gunshots-amid-privacy-bd61b9",
   "reading_minutes": 1,
-  "added": "2026-10-14T21:35:20Z"
+  "added": "2026-10-14T21:35:20Z",
+  "img_checked": true
  },
  {
   "id": "02a2946a4f918cc8",
