@@ -167,7 +167,7 @@
   "source_summary": "NPR's Eric McDaniel reports on how Congress has reacted to President Trump's executive order exempting Russia from economic sanctions.",
   "source_tags": [],
   "category_hint": "politics",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6007363",
+  "image": null,
   "published": "2026-10-18T21:00:11+00:00",
   "headline": "Congress Pushes Back on Trump's Order Exempting Russia From Sanctions",
   "body": [
@@ -209,7 +209,8 @@
   ],
   "slug": "congress-pushes-back-trump-s-order-exempting-russia-from-cc7729",
   "reading_minutes": 1,
-  "added": "2026-10-18T21:20:35Z"
+  "added": "2026-10-18T21:20:35Z",
+  "img_checked": true
  },
  {
   "id": "9759730f8b52f135",
@@ -219,7 +220,7 @@
   "source_summary": "Pakistan's political showdown continues as more opposition figures are implicated under Pakistan's anti-terror law.",
   "source_tags": [],
   "category_hint": "world",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6004833",
+  "image": null,
   "published": "2026-10-18T21:00:11+00:00",
   "headline": "Pakistan Implicates More Opposition Leaders Under Anti‑Terror Law",
   "body": [
@@ -262,7 +263,8 @@
   ],
   "slug": "pakistan-implicates-more-opposition-leaders-under-antiterror-law-975973",
   "reading_minutes": 1,
-  "added": "2026-10-18T21:21:08Z"
+  "added": "2026-10-18T21:21:08Z",
+  "img_checked": true
  },
  {
   "id": "843e458e4e91ebd2",
@@ -272,7 +274,7 @@
   "source_summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
   "source_tags": [],
   "category_hint": "world",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6001709",
+  "image": null,
   "published": "2026-10-18T21:00:08+00:00",
   "headline": "World Food Programme Says 1.4 Million Gaza Residents Face Acute Food Shortages",
   "body": [
@@ -316,7 +318,8 @@
   ],
   "slug": "world-food-programme-says-1-4-million-gaza-residents-843e45",
   "reading_minutes": 1,
-  "added": "2026-10-18T21:21:16Z"
+  "added": "2026-10-18T21:21:16Z",
+  "img_checked": true
  },
  {
   "id": "d2bbffc6feaeca36",
@@ -1524,6 +1527,64 @@
   "added": "2026-10-18T19:24:09Z"
  },
  {
+  "id": "e55e7fdfe86dd710",
+  "source_url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+  "source": "The Guardian",
+  "source_title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+  "source_summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, Canada’s prime minister said on Sunday. Mark Carney called the incident “one of the worst tragedies for the forces on Canadian soil in peacetime”.",
+  "source_tags": [
+   "Canada",
+   "Americas",
+   "World news",
+   "Mark Carney"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=700&quality=85&auto=format&fit=max&s=ad299182fce6293218713ed25ec8eb43",
+  "published": "2026-10-18T17:34:53+00:00",
+  "headline": "Four Killed in Fast‑Moving Fire at Canada’s Largest Military Training Base",
+  "body": [
+   {
+    "type": "p",
+    "text": "A violent, fast‑moving blaze swept through one of Alberta's busiest military training facilities on Sunday, killing four people and leaving dozens seriously injured, Prime Minister Mark Carney said."
+   },
+   {
+    "type": "p",
+    "text": "Carney described the incident as \"one of the worst tragedies for the forces on Canadian soil in peacetime,\" emphasizing the severity of the loss for the Canadian Armed Forces."
+   },
+   {
+    "type": "p",
+    "text": "Emergency crews battled the flames while medical teams attended to the injured. The cause of the fire has not yet been disclosed, and investigations are underway."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights safety risks at large military installations, a concern for allied nations that host joint training exercises."
+   }
+  ],
+  "key_points": [
+   "Four people died and many were seriously injured in a rapid‑spreading fire at a major Canadian military base.",
+   "Prime Minister Mark Carney called the event one of the worst peacetime tragedies for Canada's forces.",
+   "The cause of the blaze remains under investigation."
+  ],
+  "meta_description": "Four killed and dozens injured in a fast‑moving fire at a Canadian military training base, described as a major peacetime tragedy.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "military",
+   "fire",
+   "casualties",
+   "Mark Carney"
+  ],
+  "slug": "four-killed-fastmoving-fire-canadas-largest-military-training-base-e55e7f",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:43:14Z"
+ },
+ {
   "id": "6cfdb5bf59d6d915",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo",
   "source": "BBC Sport",
@@ -2069,6 +2130,69 @@
   "added": "2026-10-18T16:49:52Z"
  },
  {
+  "id": "3084edb3422c8770",
+  "source_url": "https://www.nytimes.com/2026/10/18/world/france-limoges-fire-arson-protests.html",
+  "source": "The New York Times",
+  "source_title": "The French City of Limoges Wasn’t Known for Unrest. Then Rioters Set Fire to Its City Hall.",
+  "source_summary": "As unrest surged across France this weekend, the most surprising attack came in the quiet city of Limoges, where rioters set fire to the city hall.",
+  "source_tags": [
+   "Limoges (France)",
+   "Lecornu, Sebastien",
+   "Demonstrations, Protests and Riots",
+   "Fires and Firefighters",
+   "Arson",
+   "Vandalism",
+   "Monuments and Memorials (Structures)",
+   "Roofs",
+   "Historic Buildings and Sites",
+   "France"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-limoges-01-lgtq/18int-france-limoges-01-lgtq-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T16:29:22+00:00",
+  "headline": "Rioters Torched Limoges City Hall Amid France’s Widespread Unrest",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rioting swept across France over the weekend, reaching the relatively tranquil city of Limoges in central France. The disturbance surprised observers when a group of rioters set fire to the historic Limoges City Hall, a building that had not previously been a target of civil disorder."
+   },
+   {
+    "type": "p",
+    "text": "The blaze damaged the municipal headquarters and prompted an immediate response from local police and fire services. Authorities worked to contain the fire and secure the area while investigating the identities of those involved."
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores how the wave of unrest that has affected major French cities is now extending to smaller locales previously considered low‑risk for such violence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The spread of unrest to smaller French cities signals a broader national instability that could affect European security and economic confidence."
+   }
+  ],
+  "key_points": [
+   "Rioters ignited a fire at Limoges City Hall during a weekend of nationwide unrest in France.",
+   "The attack marked an unexpected escalation of violence in a city not previously known for disturbances."
+  ],
+  "meta_description": "Rioters set fire to Limoges City Hall as unrest spreads across France, marking an unexpected escalation in a quiet city.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "unrest",
+   "Limoges",
+   "city hall",
+   "riots"
+  ],
+  "slug": "rioters-torched-limoges-city-hall-amid-frances-widespread-unrest-3084ed",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:43:22Z"
+ },
+ {
   "id": "13ae2790ff73703d",
   "source_url": "https://www.theguardian.com/commentisfree/picture/2026/oct/18/nicola-jennings-donald-trump-new-white-house-press-secretary-cartoon",
   "source": "The Guardian",
@@ -2300,6 +2424,117 @@
   "img_checked": true
  },
  {
+  "id": "8634652d3d99c2b1",
+  "source_url": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
+  "source_summary": "Anger over living costs and low wages has brought Italians onto the streets. A major union has called a general strike for November 20.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79692752_6.jpg",
+  "published": "2026-10-18T16:02:00+00:00",
+  "headline": "Meloni Backs Police Amid Violent Cost‑of‑Living Protests, Union Calls General Strike for Nov 20",
+  "body": [
+   {
+    "type": "p",
+    "text": "Prime Minister Giorgia Meloni publicly supported police actions after demonstrations over rising living costs and stagnant wages turned violent in several Italian cities. The unrest saw clashes between protesters and law‑enforcement officers, prompting the government to reaffirm its backing of the police response."
+   },
+   {
+    "type": "p",
+    "text": "The protests reflect growing public frustration with inflation and low wages, issues that have sparked similar unrest across Europe. In reaction, the major trade union CGIL announced a nationwide general strike scheduled for November 20, aiming to pressure the government for stronger economic measures."
+   },
+   {
+    "type": "p",
+    "text": "Authorities warned that the upcoming strike could further disrupt public services and transport, while opposition parties called for dialogue to address the underlying economic grievances."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The protests highlight the economic pressure facing many European households, which could influence EU policy debates and affect markets that U.S. investors watch."
+   }
+  ],
+  "key_points": [
+   "Meloni endorsed police actions after cost‑of‑living protests turned violent in multiple Italian cities.",
+   "The CGIL union has called a general strike for November 20 to demand higher wages and price relief.",
+   "The unrest underscores broader European concerns about inflation and stagnant real incomes."
+  ],
+  "meta_description": "Italy's PM Meloni backs police after violent cost‑of‑living protests; major union plans a general strike for Nov 20.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Italy",
+   "Giorgia Meloni",
+   "protests",
+   "cost of living",
+   "general strike",
+   "police"
+  ],
+  "slug": "meloni-backs-police-amid-violent-costofliving-protests-union-calls-863465",
+  "reading_minutes": 1,
+  "img_checked": true,
+  "added": "2026-10-18T21:43:27Z"
+ },
+ {
+  "id": "4d2ff7a5473d6641",
+  "source_url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o",
+  "source": "BBC News",
+  "source_title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+  "source_summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-18T15:46:10+00:00",
+  "headline": "Overnight Attack Damages St Petersburg Oil Facilities, Kills One",
+  "body": [
+   {
+    "type": "p",
+    "text": "An overnight strike on St Petersburg targeted oil processing installations, causing significant damage to the facilities. Authorities confirmed that at least one person died as a result of the attack."
+   },
+   {
+    "type": "p",
+    "text": "The assault also hit a data centre that hosts the Russian equivalent of Facebook, disrupting the service used by millions of users. Local officials have not released details on the extent of the outage."
+   },
+   {
+    "type": "p",
+    "text": "Security forces are investigating the incident, and the Kremlin has warned of heightened vigilance against further attacks on critical infrastructure."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disruption to Russian oil assets can affect global energy markets, while the hit on a major social platform highlights vulnerabilities in digital infrastructure."
+   }
+  ],
+  "key_points": [
+   "Oil facilities in St Petersburg were damaged in an overnight attack that killed at least one person.",
+   "A data centre hosting Russia's version of Facebook was also struck, causing service disruptions.",
+   "Russian authorities are probing the incident amid concerns over infrastructure security."
+  ],
+  "meta_description": "An overnight attack on St Petersburg damaged oil facilities and a major data centre, killing at least one person and raising security concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "St Petersburg",
+   "oil facilities",
+   "attack",
+   "Russia",
+   "data centre",
+   "infrastructure"
+  ],
+  "slug": "overnight-attack-damages-st-petersburg-oil-facilities-kills-one-4d2ff7",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:43:42Z"
+ },
+ {
   "id": "42c1d0a0bfaaf23a",
   "source_url": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
   "source": "The New York Times",
@@ -2412,6 +2647,62 @@
   "added": "2026-10-18T16:49:43Z"
  },
  {
+  "id": "51e2c9b10e771565",
+  "source_url": "https://www.nytimes.com/2026/10/18/world/middleeast/egypt-saudi-defense-houthis.html",
+  "source": "The New York Times",
+  "source_title": "Egypt’s Defense Chiefs Pledge to Support Saudi Arabia After Houthi Attacks",
+  "source_summary": "President Abdel Fattah el-Sisi had called on Egyptian lawmakers to authorize military assistance to the kingdom, saying any support would be defensive.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "Defense and Military Forces",
+   "Foreign Aid",
+   "Ships and Shipping",
+   "Sisi, Abdel Fattah el-",
+   "Houthis",
+   "Egypt",
+   "Saudi Arabia",
+   "Yemen",
+   "Bab al-Mandab Strait"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-egypt-saudi-gjvh/18int-egypt-saudi-gjvh-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T15:00:02+00:00",
+  "headline": "Egyptian Defense Leaders Commit to Defensive Aid for Saudi Arabia",
+  "body": [
+   {
+    "type": "p",
+    "text": "Egyptian senior military officials announced they will back Saudi Arabia with defensive assistance following recent Houthi missile and drone attacks on the kingdom. The pledge came after President Abdel Fattah el‑Sisi urged parliamentarians to approve a formal request for military support."
+   },
+   {
+    "type": "p",
+    "text": "Sisi emphasized that any Egyptian involvement would be strictly defensive, aimed at protecting Saudi territory and infrastructure. He called on lawmakers to move quickly to authorize the assistance, framing it as a necessary response to the escalating regional threat."
+   },
+   {
+    "type": "p",
+    "text": "The commitment underscores the close security ties between Cairo and Riyadh and signals Egypt’s willingness to play a more active role in countering the Houthi campaign that has targeted Saudi oil facilities and civilian sites."
+   }
+  ],
+  "key_points": [
+   "Egyptian defense chiefs pledged defensive military aid to Saudi Arabia after Houthi attacks.",
+   "President el‑Sisi urged lawmakers to authorize the support, describing it as protective.",
+   "The move highlights the strategic partnership between Egypt and Saudi Arabia amid regional tensions."
+  ],
+  "meta_description": "Egyptian military leaders vow defensive aid to Saudi Arabia after Houthi attacks, following President Sisi's call for parliamentary approval.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Egypt",
+   "Saudi Arabia",
+   "defense",
+   "Houthi attacks",
+   "military aid"
+  ],
+  "slug": "egyptian-defense-leaders-commit-defensive-aid-saudi-arabia-51e2c9",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:43:57Z"
+ },
+ {
   "id": "4f5bd0962d74287d",
   "source_url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
   "source": "The Verge",
@@ -2471,6 +2762,60 @@
   "added": "2026-10-18T21:36:03Z"
  },
  {
+  "id": "f3ad38ae9d913bf9",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o",
+  "source": "BBC News",
+  "source_title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+  "source_summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1f/live/a4d8c560-cae4-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-18T14:57:19+00:00",
+  "headline": "Polanski Declares He Won’t Reverse Green Party’s Zionism Is Racism Motion",
+  "body": [
+   {
+    "type": "p",
+    "text": "Green Party leader Roman Polanski said he will not overturn the party’s motion that labels Zionism as racism. While he expressed a desire to amend the wording, he confirmed the motion will remain in effect until 2028."
+   },
+   {
+    "type": "p",
+    "text": "Polanski emphasized that the motion, adopted by the party’s governing body, reflects the Green Party’s current stance on the issue. He noted that any changes would require a formal amendment process within the party’s rules."
+   },
+   {
+    "type": "p",
+    "text": "The leader’s comments come as the motion continues to generate debate among party members and external observers. Polanski indicated that the party will revisit the motion after the 2028 deadline, leaving its future open to further discussion."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The motion highlights ongoing debates in European politics over definitions of Zionism and antisemitism, issues that also resonate in US political discourse."
+   }
+  ],
+  "key_points": [
+   "Polanski will not reverse the Green Party’s motion labeling Zionism as racism.",
+   "He wants to amend the motion, but it will stay in place until 2028.",
+   "The motion remains a point of contention within and outside the party."
+  ],
+  "meta_description": "Green Party leader Polanski says he will not overturn the motion calling Zionism racism, though he seeks amendments; the motion stays until 2028.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Polanski",
+   "Green Party",
+   "Zionism",
+   "racism",
+   "motion",
+   "2028"
+  ],
+  "slug": "polanski-declares-he-wont-reverse-green-partys-zionism-racism-f3ad38",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:43:18Z"
+ },
+ {
   "id": "13ef523ebaae6975",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo",
   "source": "BBC Sport",
@@ -2522,6 +2867,63 @@
   "slug": "united-slip-sixth-straight-winless-game-after-leeds-draw-13ef52",
   "reading_minutes": 1,
   "added": "2026-10-18T16:49:59Z"
+ },
+ {
+  "id": "712c6db847be2ee9",
+  "source_url": "https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.",
+  "source_summary": "Debris has damaged a moving car in Lithuania, where NATO jets were scrambled. Kyiv says Russian jamming may have diverted drones targeting Russia.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/78367568_6.jpg",
+  "published": "2026-10-18T14:20:00+00:00",
+  "headline": "Ukraine Apologizes After Suspected Drone Crash Damages Car in Lithuania",
+  "body": [
+   {
+    "type": "p",
+    "text": "A suspected drone that crashed in Lithuania damaged a moving car, prompting local authorities to scramble NATO fighter jets. The incident occurred as the unmanned aircraft fell, scattering debris onto the roadway and striking the vehicle."
+   },
+   {
+    "type": "p",
+    "text": "Kyiv issued an apology for the mishap, noting that Russian electronic jamming may have unintentionally redirected drones originally aimed at Russian targets. Ukrainian officials said the jamming interfered with the drones' navigation, leading to the unexpected crash on Lithuanian soil."
+   },
+   {
+    "type": "p",
+    "text": "Lithuanian officials confirmed the activation of NATO air defenses but reported no injuries. The event underscores the heightened tension in the region as both sides contend with the growing use of unmanned systems in the ongoing conflict."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident illustrates how the Ukraine‑Russia conflict can spill over into NATO member states, raising security concerns for Europe and its allies."
+   }
+  ],
+  "key_points": [
+   "A suspected drone crash in Lithuania damaged a moving car and triggered NATO jet scrambles.",
+   "Ukraine apologized, attributing the incident to Russian jamming that may have diverted drones aimed at Russia.",
+   "Lithuanian authorities reported no injuries, but the episode highlights regional security risks."
+  ],
+  "meta_description": "A suspected drone crash in Lithuania damaged a car, prompted NATO jets, and led Ukraine to apologize, citing Russian jamming.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Lithuania",
+   "drone",
+   "NATO",
+   "Russia",
+   "security"
+  ],
+  "slug": "ukraine-apologizes-after-suspected-drone-crash-damages-car-lithuania-712c6d",
+  "reading_minutes": 1,
+  "img_checked": true,
+  "added": "2026-10-18T21:44:05Z"
  },
  {
   "id": "c5996f1744523dd4",
@@ -2580,6 +2982,60 @@
   "slug": "j-masciss-stoic-stage-presence-mirrors-his-interview-style-c5996f",
   "reading_minutes": 1,
   "added": "2026-10-18T21:36:11Z"
+ },
+ {
+  "id": "c7fbcff09d02ab69",
+  "source_url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+  "source": "The Verge",
+  "source_title": "Trump says Google kisses his ass",
+  "source_summary": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. \"This is a much more powerful term. I can do […]",
+  "source_tags": [
+   "Google",
+   "Policy",
+   "Politics",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-18T13:25:01+00:00",
+  "headline": "Trump Claims Google Favors Him While Boasting Renaming Plans",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a rally in Highland Heights, Kentucky, on Saturday, former president Donald Trump told the crowd that Google \"kisses his ass,\" suggesting the tech giant shows him special treatment. He used the remark to underscore what he described as his heightened power and influence during a second term, a claim he made while listing various achievements."
+   },
+   {
+    "type": "p",
+    "text": "During the same speech, Trump said he had decided to rename the Gulf of Mexico and Lake Ontario, presenting the changes as evidence of his authority to reshape national symbols. The comments were delivered to an enthusiastic audience and were not accompanied by any official announcements or policy details."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remarks illustrate how Trump continues to use public events to promote personal influence and challenge established institutions, a pattern that shapes political discourse in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "Trump asserted that Google favors him during a Kentucky rally.",
+   "He claimed the authority to rename the Gulf of Mexico and Lake Ontario.",
+   "The statements were made without any accompanying policy actions."
+  ],
+  "meta_description": "Trump told a Kentucky rally that Google favors him and announced plans to rename the Gulf of Mexico and Lake Ontario.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Google",
+   "rally",
+   "renaming",
+   "politics"
+  ],
+  "slug": "trump-claims-google-favors-him-while-boasting-renaming-plans-c7fbcf",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:43:10Z"
  },
  {
   "id": "07f5e8442486dc56",
@@ -2922,7 +3378,7 @@
   "source_summary": "NPR's Ayesha Rascoe talks to North Carolina A&T student Shia Rozier about disappointment with early voting sites in Greensboro.",
   "source_tags": [],
   "category_hint": "politics",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6006791",
+  "image": null,
   "published": "2026-10-18T12:07:18+00:00",
   "headline": "North Carolina A&T Students Protest Lack of Early Voting Sites",
   "body": [
@@ -2965,7 +3421,8 @@
   ],
   "slug": "north-carolina-t-students-protest-lack-early-voting-sites-eacc19",
   "reading_minutes": 1,
-  "added": "2026-10-18T13:11:12Z"
+  "added": "2026-10-18T13:11:12Z",
+  "img_checked": true
  },
  {
   "id": "6979ac6f4e965f84",
@@ -2975,7 +3432,7 @@
   "source_summary": "NPR's Ayesha Rascoe asks Adm. John Kirby, who had spokesperson roles in the Obama and Biden administrations, about the utility of the role of the White House Press Secretary.",
   "source_tags": [],
   "category_hint": "politics",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6005279",
+  "image": null,
   "published": "2026-10-18T12:01:03+00:00",
   "headline": "John Kirby Discusses White House Press Secretary Role in Trump Years",
   "body": [
@@ -3018,7 +3475,108 @@
   ],
   "slug": "john-kirby-discusses-white-house-press-secretary-role-trump-6979ac",
   "reading_minutes": 1,
-  "added": "2026-10-18T13:11:24Z"
+  "added": "2026-10-18T13:11:24Z",
+  "img_checked": true
+ },
+ {
+  "id": "ed68c640a28435d8",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-6005192/politics-chat-zelenskyy-on-trump-democrats-bring-in-the-money-for-midterms",
+  "source": "NPR",
+  "source_title": "Politics chat: Zelenskyy on Trump, Democrats bring in the money for midterms",
+  "source_summary": "From Russia to AI to Iran, President Trump has taken political stances that put him at odds with much of the electorate.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-18T12:01:01+00:00",
+  "headline": "Zelenskyy Criticizes Trump as Democrats Raise Midterm Funds",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent political discussion, Ukrainian President Volodymyr Zelenskyy voiced criticism of former President Donald Trump, highlighting the former leader's controversial positions on issues ranging from Russia to artificial intelligence and Iran."
+   },
+   {
+    "type": "p",
+    "text": "The conversation also noted that Democratic candidates are actively fundraising for the upcoming midterm elections, seeking to bolster their campaign resources ahead of the November vote."
+   },
+   {
+    "type": "p",
+    "text": "Analysts suggest that Trump's stances continue to create friction with a broad segment of the electorate, while the influx of Democratic donations underscores the high stakes of the forthcoming congressional contests."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash between Trump’s policies and international leaders, coupled with heightened Democratic fundraising, signals a contentious political climate ahead of the midterm elections in the United States and its allies."
+   }
+  ],
+  "key_points": [
+   "Zelenskyy publicly rebuked Trump over his foreign policy positions.",
+   "Democrats are intensifying fundraising efforts for the 2026 midterms.",
+   "Trump's positions on Russia, AI and Iran remain divisive among voters."
+  ],
+  "meta_description": "Zelenskyy criticizes Trump while Democrats ramp up fundraising for the 2026 midterms, highlighting political tensions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Volodymyr Zelenskyy",
+   "midterm elections",
+   "fundraising",
+   "foreign policy"
+  ],
+  "slug": "zelenskyy-criticizes-trump-democrats-raise-midterm-funds-ed68c6",
+  "reading_minutes": 1,
+  "img_checked": true,
+  "added": "2026-10-18T21:43:40Z"
+ },
+ {
+  "id": "90e93dae573b4e5a",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
+  "source": "NPR",
+  "source_title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+  "source_summary": "President Trump's executive order deferring federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-18T12:00:57+00:00",
+  "headline": "Trump Defers Federal Diesel Taxes to Aid Farmers Amid State Warnings",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump issued an executive order that postpones the collection of federal diesel fuel taxes, a move presented as a relief for farmers facing high operating costs. The deferral is intended to lower fuel expenses for agricultural producers during a period of elevated prices."
+   },
+   {
+    "type": "p",
+    "text": "State transportation agencies, however, cautioned that the temporary suspension does not eliminate the tax liability. Drivers could be required to pay the deferred amounts later, potentially with interest or penalties, depending on state regulations."
+   },
+   {
+    "type": "p",
+    "text": "The policy’s impact is expected to vary across regions, with some states planning to enforce stricter compliance measures. Critics argue that the measure may create administrative burdens for both motorists and state tax authorities."
+   }
+  ],
+  "key_points": [
+   "Trump's executive order postpones federal diesel taxes to reduce costs for farmers.",
+   "States warn that drivers may still owe the deferred taxes later, possibly with added fees.",
+   "The deferral could lead to varied enforcement and compliance challenges across states."
+  ],
+  "meta_description": "Trump defers federal diesel taxes to help farmers; states warn drivers may still owe taxes later.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "diesel tax",
+   "farmers",
+   "executive order",
+   "state warnings",
+   "fuel costs"
+  ],
+  "slug": "trump-defers-federal-diesel-taxes-aid-farmers-amid-state-90e93d",
+  "reading_minutes": 1,
+  "img_checked": true,
+  "added": "2026-10-18T21:43:55Z"
  },
  {
   "id": "a4cfa48e5145892c",
@@ -3226,6 +3784,69 @@
   "added": "2026-10-18T13:11:20Z"
  },
  {
+  "id": "3175748799874755",
+  "source_url": "https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html",
+  "source": "The New York Times",
+  "source_title": "Across Farm Country, Economic Discontent Strains Republican Coalition",
+  "source_summary": "Farmers and ranchers have supported President Trump for a decade. But the war in Iran, tariffs and other administration policies have soured some on the G.O.P.",
+  "source_tags": [
+   "Agriculture and Farming",
+   "Midterm Elections (2026)",
+   "Trump, Donald J",
+   "Hinson, Ashley (1983- )",
+   "Hyde-Smith, Cindy",
+   "Marshall, Roger W (1960- )",
+   "Boebert, Lauren",
+   "Colorado",
+   "Kansas"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-18T09:00:47+00:00",
+  "headline": "Economic Strain on Rural Voters Tests Republican Unity",
+  "body": [
+   {
+    "type": "p",
+    "text": "For more than a decade, farmers and ranchers across the United States have been a reliable base for President Donald Trump, consistently backing his administration at the ballot box. Their support has been rooted in promises of deregulation, market access and a perception that the GOP championed agricultural interests."
+   },
+   {
+    "type": "p",
+    "text": "Recent developments, however, are eroding that loyalty. The ongoing war in Iran, a series of new tariffs and other policy choices by the Trump administration have raised production costs and limited export opportunities for many in the farming community. As a result, a growing number of rural voters are voicing frustration, fearing that the economic fallout could outweigh previous political alignments."
+   },
+   {
+    "type": "p",
+    "text": "Party leaders warn that the mounting discontent could fracture the Republican coalition ahead of upcoming elections. If the concerns of farm country are not addressed, the GOP may face challenges in maintaining its traditional stronghold in the Midwest and Plains states."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Rural voter backlash could reshape U.S. electoral dynamics and influence trade policies that affect both American and European agricultural markets."
+   }
+  ],
+  "key_points": [
+   "Long‑time rural support for Trump is weakening due to the Iran war and new tariffs.",
+   "Economic pressures on farmers risk splintering the Republican coalition before the next election."
+  ],
+  "meta_description": "Economic pressures from the Iran war and tariffs are souring farm support for Trump, threatening Republican unity ahead of elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "agriculture",
+   "Republican Party",
+   "Trump",
+   "trade policy",
+   "rural America"
+  ],
+  "slug": "economic-strain-rural-voters-tests-republican-unity-317574",
+  "reading_minutes": 1,
+  "img_checked": true,
+  "added": "2026-10-18T21:44:01Z"
+ },
+ {
   "id": "2ccffff31ca50619",
   "source_url": "https://www.nytimes.com/2026/10/18/business/scott-kirby-united-airlines.html",
   "source": "The New York Times",
@@ -3274,6 +3895,59 @@
   "slug": "uniteds-c-e-o-says-it-should-cost-more-2ccfff",
   "reading_minutes": 1,
   "added": "2026-10-18T21:35:39Z"
+ },
+ {
+  "id": "a6720e996ce70ef3",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-5978762/maria-elvira-salazar-immigration-trump",
+  "source": "NPR",
+  "source_title": "With an ad aimed at Trump, this Republican exposed GOP angst about Latino voters",
+  "source_summary": "Rep. María Elvira Salazar filmed an ad warning the president that he's \"gone too far\" on immigration. It reflected concern among some Republicans that their gains with Latino voters could be at risk.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7504x5005+0+0/resize/7504x5005!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2Fac%2Ffc3bbe93495fa44fe8b172314b5d%2Fgettyimages-2277340758.jpg",
+  "published": "2026-10-18T09:00:00+00:00",
+  "headline": "Rep. Salazar Ads Trump on Immigration, Cites Latino Vote Risk",
+  "body": [
+   {
+    "type": "p",
+    "text": "Representative María Elvira Salazar released a television ad that directly warns President Donald Trump that his immigration policies have \"gone too far.\" The spot, aimed at a national audience, portrays Salazar confronting the president and urging a shift in tone on the issue."
+   },
+   {
+    "type": "p",
+    "text": "The ad reflects growing unease among some Republicans that the party’s recent inroads with Latino voters could be jeopardized by hard‑line immigration rhetoric. Salazar, a Cuban‑American lawmaker from Florida, highlighted the potential loss of support if the administration continues its current approach."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts note that the message underscores an internal GOP debate: balancing the party’s traditional base with the need to appeal to a diversifying electorate. The ad is part of a broader effort by Republicans to recalibrate their outreach to Hispanic communities ahead of upcoming elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The GOP’s reliance on Latino voters could influence upcoming national elections in the United States and shape party strategies in Europe’s multicultural societies."
+   }
+  ],
+  "key_points": [
+   "Rep. María Elvira Salazar aired a TV ad warning Trump that his immigration stance may alienate Latino voters.",
+   "The ad signals concern within the GOP that its recent gains among Hispanic voters could be at risk.",
+   "Republicans are debating how to adjust immigration messaging to retain broader electoral support."
+  ],
+  "meta_description": "Rep. María Elvira Salazar's ad warns Trump on immigration, highlighting GOP worries about losing Latino voter support.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "immigration",
+   "Latino voters",
+   "Republican Party",
+   "Trump",
+   "campaign ads"
+  ],
+  "slug": "rep-salazar-ads-trump-immigration-cites-latino-vote-risk-a6720e",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:44:10Z"
  },
  {
   "id": "b615b2a69a1cb7c5",
@@ -4766,7 +5440,7 @@
   "source_summary": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
   "source_tags": [],
   "category_hint": "world",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6006735",
+  "image": null,
   "published": "2026-10-17T21:18:52+00:00",
   "headline": "Student Protests Spread Across France, Sparking Wider Unrest as Some Turn Violent",
   "body": [
@@ -4801,7 +5475,8 @@
   ],
   "slug": "student-protests-spread-across-france-sparking-wider-unrest-some-ad207f",
   "reading_minutes": 1,
-  "added": "2026-10-17T21:41:38Z"
+  "added": "2026-10-17T21:41:38Z",
+  "img_checked": true
  },
  {
   "id": "683343adcdfc7be7",
@@ -4811,7 +5486,7 @@
   "source_summary": "NPR's Joel Rose talks with James B. Story, former U.S. Ambassador to Venezuela, about the state of the State Department in the wake of the Kimberly Guilfoyle scandal.",
   "source_tags": [],
   "category_hint": "world",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6001729",
+  "image": null,
   "published": "2026-10-17T21:18:50+00:00",
   "headline": "Former Ambassador James B. Story Assesses State Department After Guilfoyle Scandal",
   "body": [
@@ -4854,7 +5529,8 @@
   ],
   "slug": "former-ambassador-james-b-story-assesses-state-department-after-683343",
   "reading_minutes": 1,
-  "added": "2026-10-17T21:41:54Z"
+  "added": "2026-10-17T21:41:54Z",
+  "img_checked": true
  },
  {
   "id": "63ed2521c15dddc6",
@@ -7720,7 +8396,7 @@
   "source_summary": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
   "source_tags": [],
   "category_hint": "politics",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6004910",
+  "image": null,
   "published": "2026-10-17T11:43:14+00:00",
   "headline": "Minnesota Senate Debate on Fraud, Affordability, Trump Fallout",
   "body": [
@@ -7763,7 +8439,8 @@
   ],
   "slug": "minnesota-senate-debate-fraud-affordability-trump-fallout-16c5c6",
   "reading_minutes": 1,
-  "added": "2026-10-17T13:09:22Z"
+  "added": "2026-10-17T13:09:22Z",
+  "img_checked": true
  },
  {
   "id": "3fb9e3b581a5b007",
@@ -7773,7 +8450,7 @@
   "source_summary": "We look at where things are in the deal President Trump says he made to import Russian diesel, plus the reason why the Justice Department is suing California.",
   "source_tags": [],
   "category_hint": "politics",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5998079",
+  "image": null,
   "published": "2026-10-17T11:43:08+00:00",
   "headline": "Trump Claims Russian Diesel Deal Progresses as DOJ Sues California",
   "body": [
@@ -7817,7 +8494,8 @@
   ],
   "slug": "trump-claims-russian-diesel-deal-progresses-doj-sues-california-3fb9e3",
   "reading_minutes": 1,
-  "added": "2026-10-18T04:19:38Z"
+  "added": "2026-10-18T04:19:38Z",
+  "img_checked": true
  },
  {
   "id": "c668fb0baba7a514",
@@ -10206,7 +10884,7 @@
   "source_summary": "An armed bystander stopped a shooting at a school in Bend, Ore. We talk with experts about how rarely an armed civilian ends an attack like this and how gun rights groups are responding.",
   "source_tags": [],
   "category_hint": "politics",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6005196",
+  "image": null,
   "published": "2026-10-16T21:11:44+00:00",
   "headline": "Armed Bystander Halts Bend, Oregon School Shooting, Experts Weigh In",
   "body": [
@@ -10249,7 +10927,8 @@
   ],
   "slug": "armed-bystander-halts-bend-oregon-school-shooting-experts-weigh-d928a6",
   "reading_minutes": 1,
-  "added": "2026-10-16T22:02:04Z"
+  "added": "2026-10-16T22:02:04Z",
+  "img_checked": true
  },
  {
   "id": "185d3185777d9961",
@@ -18819,7 +19498,7 @@
    "Colossal Biosciences"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691",
   "published": "2026-10-14T21:00:00+00:00",
   "headline": "Colossal Biosciences Unveils AI Platform to Speed De‑Extinction Projects",
   "body": [
@@ -18862,7 +19541,8 @@
   ],
   "slug": "colossal-biosciences-unveils-ai-platform-speed-deextinction-projects-13af89",
   "reading_minutes": 1,
-  "added": "2026-10-14T21:35:52Z"
+  "added": "2026-10-14T21:35:52Z",
+  "img_checked": true
  },
  {
   "id": "223e4b33c31ff3e1",
@@ -19189,7 +19869,8 @@
   ],
   "slug": "ai-bots-join-22-person-dinner-party-reveal-digital-d33b4c",
   "reading_minutes": 1,
-  "added": "2026-10-14T17:57:52Z"
+  "added": "2026-10-14T17:57:52Z",
+  "img_checked": true
  },
  {
   "id": "a5fccba80415475e",
@@ -19199,7 +19880,7 @@
   "source_summary": "His comments come after Merck officially opened its new 120,000-square-foot research facility in the Greater Philadelphia area.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/107370990-1707414387296-gettyimages-1995499516-247a0388_agtnstai.jpeg?v=1736898742&w=1920&h=1080",
   "published": "2026-10-14T17:33:57+00:00",
   "headline": "Merck CEO Says New Facility Will Speed Up Cancer Vaccine Production",
   "body": [
@@ -19243,7 +19924,8 @@
   ],
   "slug": "merck-ceo-says-new-facility-will-speed-up-cancer-a5fccb",
   "reading_minutes": 1,
-  "added": "2026-10-14T17:58:08Z"
+  "added": "2026-10-14T17:58:08Z",
+  "img_checked": true
  },
  {
   "id": "69a9ec80b5693da5",
@@ -19373,7 +20055,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79663445_6.jpg",
   "published": "2026-10-14T17:28:00+00:00",
   "headline": "Japanese Journalist Detained on Spy Suspicion Amid Russia‑Japan Island Dispute",
   "body": [
@@ -19416,7 +20098,8 @@
   ],
   "slug": "japanese-journalist-detained-spy-suspicion-amid-russiajapan-island-dispute-d0faf5",
   "reading_minutes": 1,
-  "added": "2026-10-14T17:58:00Z"
+  "added": "2026-10-14T17:58:00Z",
+  "img_checked": true
  },
  {
   "id": "006fb5835ce7963e",
@@ -19887,7 +20570,7 @@
   "source_summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/108250555-1767974377302-gettyimages-2201916861-_d6a3281_18br2qz5.jpeg?v=1767974405&w=1920&h=1080",
   "published": "2026-10-14T12:54:01+00:00",
   "headline": "Bank of America Shares Fall 7% After Q3 Revenue Miss and $1.2 Billion Fine",
   "body": [
@@ -19930,7 +20613,8 @@
   ],
   "slug": "bank-america-shares-fall-7-after-q3-revenue-miss-f39a16",
   "reading_minutes": 1,
-  "added": "2026-10-14T13:03:44Z"
+  "added": "2026-10-14T13:03:44Z",
+  "img_checked": true
  },
  {
   "id": "3ca96ac041961964",
@@ -19940,7 +20624,7 @@
   "source_summary": "Morgan Stanley is expected to benefit from robust investment banking and equities trading revenue.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/108091506-1737654883210-1U8A2251.JPG?v=1737655004&w=1920&h=1080",
   "published": "2026-10-14T12:49:45+00:00",
   "headline": "Morgan Stanley Beats Forecasts as Equities Trading Revenue Surges $909 Million",
   "body": [
@@ -19983,7 +20667,8 @@
   ],
   "slug": "morgan-stanley-beats-forecasts-equities-trading-revenue-surges-909-3ca96a",
   "reading_minutes": 1,
-  "added": "2026-10-14T13:04:00Z"
+  "added": "2026-10-14T13:04:00Z",
+  "img_checked": true
  },
  {
   "id": "901bdd4b0040f86e",
@@ -20433,7 +21118,7 @@
    "Environment"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79653654_6.jpg",
   "published": "2026-10-14T06:52:00+00:00",
   "headline": "Surging Sales of Disposable Tech Boost E‑Waste but Reveal Valuable Materials",
   "body": [
@@ -20476,7 +21161,8 @@
   ],
   "slug": "surging-sales-disposable-tech-boost-ewaste-but-reveal-valuable-c2d73b",
   "reading_minutes": 1,
-  "added": "2026-10-14T07:29:17Z"
+  "added": "2026-10-14T07:29:17Z",
+  "img_checked": true
  },
  {
   "id": "07f2350861a2b6b5",
@@ -20488,7 +21174,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79660469_6.jpg",
   "published": "2026-10-14T06:51:00+00:00",
   "headline": "German Court Begins Trial of Ukrainian Suspect in Nord Stream Sabotage",
   "body": [
@@ -20532,7 +21218,8 @@
   ],
   "slug": "german-court-begins-trial-ukrainian-suspect-nord-stream-sabotage-07f235",
   "reading_minutes": 1,
-  "added": "2026-10-14T07:29:25Z"
+  "added": "2026-10-14T07:29:25Z",
+  "img_checked": true
  },
  {
   "id": "47d9a565e1b0a77e",
@@ -21006,7 +21693,7 @@
    "North Korea"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299247760.jpg?resize=1200,787",
   "published": "2026-10-14T01:30:42+00:00",
   "headline": "Justice Dept. Says North Korean Hackers Infiltrated Dozens of U.S. Firms",
   "body": [
@@ -21036,7 +21723,8 @@
   ],
   "slug": "justice-dept-says-north-korean-hackers-infiltrated-dozens-u-018d1b",
   "reading_minutes": 1,
-  "added": "2026-10-14T01:50:48Z"
+  "added": "2026-10-14T01:50:48Z",
+  "img_checked": true
  },
  {
   "id": "99b7879a666a94a3",
@@ -21048,7 +21736,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/77744055_6.jpg",
   "published": "2026-10-14T00:50:00+00:00",
   "headline": "Houthis Fire New Missile Wave Over Saudi Arabia, Injuring Four in Riyadh",
   "body": [
@@ -21090,7 +21778,8 @@
   ],
   "slug": "houthis-fire-new-missile-wave-over-saudi-arabia-injuring-99b787",
   "reading_minutes": 1,
-  "added": "2026-10-14T01:50:52Z"
+  "added": "2026-10-14T01:50:52Z",
+  "img_checked": true
  },
  {
   "id": "f8d318e9b78fcf7a",
@@ -21328,7 +22017,7 @@
    "Science Corporation"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
   "published": "2026-10-13T23:13:31+00:00",
   "headline": "Science Corp Implants Vision Chip in First Stargardt Patient",
   "body": [
@@ -21371,7 +22060,8 @@
   ],
   "slug": "science-corp-implants-vision-chip-first-stargardt-patient-a2d00f",
   "reading_minutes": 1,
-  "added": "2026-10-14T01:51:00Z"
+  "added": "2026-10-14T01:51:00Z",
+  "img_checked": true
  },
  {
   "id": "314375845b17a428",
@@ -21384,7 +22074,7 @@
    "Cerebras"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
   "published": "2026-10-13T23:05:34+00:00",
   "headline": "Cerebras CEO Says Personal AI Assistants Will Soon Be Commonplace",
   "body": [
@@ -21427,7 +22117,8 @@
   ],
   "slug": "cerebras-ceo-says-personal-ai-assistants-will-soon-be-314375",
   "reading_minutes": 1,
-  "added": "2026-10-14T01:51:16Z"
+  "added": "2026-10-14T01:51:16Z",
+  "img_checked": true
  },
  {
   "id": "3d89883d5dcb7d6f",
@@ -21603,7 +22294,7 @@
    "Startup Battlefield 200"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
   "published": "2026-10-13T23:00:00+00:00",
   "headline": "Industrial Next Enables Factory Robots to Switch Tasks in Minutes",
   "body": [
@@ -21646,7 +22337,8 @@
   ],
   "slug": "industrial-next-enables-factory-robots-switch-tasks-minutes-3e50c6",
   "reading_minutes": 1,
-  "added": "2026-10-13T23:05:14Z"
+  "added": "2026-10-13T23:05:14Z",
+  "img_checked": true
  },
  {
   "id": "c3260478132e6434",
@@ -21658,7 +22350,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79472906_6.jpg",
   "published": "2026-10-13T22:58:00+00:00",
   "headline": "Cornell Bars Fraternity Parties Through End of Academic Year",
   "body": [
@@ -21701,7 +22393,8 @@
   ],
   "slug": "cornell-bars-fraternity-parties-through-end-academic-year-c32604",
   "reading_minutes": 1,
-  "added": "2026-10-13T23:05:18Z"
+  "added": "2026-10-13T23:05:18Z",
+  "img_checked": true
  },
  {
   "id": "9b2218756696f2a5",
@@ -21964,7 +22657,7 @@
    "andrew feldman"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800",
   "published": "2026-10-13T22:36:59+00:00",
   "headline": "Cerebras CEO Warns AI Doom Talk Drowns Out Benefits at Industry",
   "body": [
@@ -22008,7 +22701,8 @@
   ],
   "slug": "cerebras-ceo-warns-ai-doom-talk-drowns-out-benefits-8ffa52",
   "reading_minutes": 1,
-  "added": "2026-10-13T23:05:55Z"
+  "added": "2026-10-13T23:05:55Z",
+  "img_checked": true
  },
  {
   "id": "5cc2c6760be75c6e",
@@ -22387,7 +23081,7 @@
    "Facebook"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200",
   "published": "2026-10-13T18:05:24+00:00",
   "headline": "Facebook Introduces 'Your Algorithm' Tool for User Feed Control",
   "body": [
@@ -22430,7 +23124,8 @@
   ],
   "slug": "facebook-introduces-your-algorithm-tool-user-feed-control-5349b4",
   "reading_minutes": 1,
-  "added": "2026-10-13T18:08:38Z"
+  "added": "2026-10-13T18:08:38Z",
+  "img_checked": true
  },
  {
   "id": "01382b63972f8a6f",
@@ -22443,7 +23138,7 @@
    "TechCrunch Disrupt"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1104.jpg?resize=900,1200",
   "published": "2026-10-13T18:05:00+00:00",
   "headline": "Longshot Unveils Giant Space‑Gun to Launch Cargo at TechCrunch Disrupt",
   "body": [
@@ -22487,7 +23182,8 @@
   ],
   "slug": "longshot-unveils-giant-spacegun-launch-cargo-techcrunch-disrupt-01382b",
   "reading_minutes": 1,
-  "added": "2026-10-13T18:08:54Z"
+  "added": "2026-10-13T18:08:54Z",
+  "img_checked": true
  },
  {
   "id": "64be3d764257b9ff",
@@ -22845,7 +23541,7 @@
   "source_summary": "Walmart will offer Novo's Ozempic and Lilly's Mounjaro without charge for people with Type 2 diabetes after a new prior authorization.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/108348728-1786564871002-gettyimages-2289555028-golba-dailylif260803_npx6m.jpeg?v=1787168903&w=1920&h=1080",
   "published": "2026-10-13T17:07:19+00:00",
   "headline": "Walmart Expands Benefits to Cover GLP‑1 Drugs, Inhalers and Insulin for Employees",
   "body": [
@@ -22888,7 +23584,8 @@
   ],
   "slug": "walmart-expands-benefits-cover-glp1-drugs-inhalers-insulin-employees-9a31c9",
   "reading_minutes": 1,
-  "added": "2026-10-13T18:08:50Z"
+  "added": "2026-10-13T18:08:50Z",
+  "img_checked": true
  },
  {
   "id": "5ac4efbb58b1d59d",
@@ -23350,7 +24047,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79648138_6.jpg",
   "published": "2026-10-13T10:15:00+00:00",
   "headline": "Bulgaria Condemns Recent Black Sea Drone Strikes on Merchant Vessels",
   "body": [
@@ -23394,7 +24091,8 @@
   ],
   "slug": "bulgaria-condemns-recent-black-sea-drone-strikes-merchant-vessels-3b90f5",
   "reading_minutes": 1,
-  "added": "2026-10-13T11:01:38Z"
+  "added": "2026-10-13T11:01:38Z",
+  "img_checked": true
  },
  {
   "id": "852a27ea926bacc9",
@@ -23404,7 +24102,7 @@
   "source_summary": "UnitedHealth Group said it expects 2026 adjusted earnings of at least $20.50 per share, up from a previous outlook of $19.50 to $20.00 per share.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/108146030-1755268343131-108146030-1747316528172-gettyimages-2210767100-US_STOCKS.jpeg?v=1783017319&w=1920&h=1080",
   "published": "2026-10-13T10:01:37+00:00",
   "headline": "UnitedHealth Raises 2026 Earnings Forecast to $20.50 Per Share",
   "body": [
@@ -23447,7 +24145,8 @@
   ],
   "slug": "unitedhealth-raises-2026-earnings-forecast-20-50-per-share-852a27",
   "reading_minutes": 1,
-  "added": "2026-10-13T11:01:11Z"
+  "added": "2026-10-13T11:01:11Z",
+  "img_checked": true
  },
  {
   "id": "6d0cff5dc703ceec",
@@ -24111,7 +24810,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79646664_6.jpg",
   "published": "2026-10-13T01:00:00+00:00",
   "headline": "Actor RJ Mitte, Disability Advocate, 'Breaking Bad' Star, Dies at 48",
   "body": [
@@ -24154,7 +24853,8 @@
   ],
   "slug": "actor-rj-mitte-disability-advocate-breaking-bad-star-dies-e9d7b4",
   "reading_minutes": 1,
-  "added": "2026-10-13T03:10:07Z"
+  "added": "2026-10-13T03:10:07Z",
+  "img_checked": true
  },
  {
   "id": "bfc39967bcea6b95",
@@ -24651,7 +25351,8 @@
   ],
   "slug": "dozens-killed-airstrikes-near-sudan-egypt-border-gold-mine-4d8e31",
   "reading_minutes": 1,
-  "added": "2026-10-12T22:35:15Z"
+  "added": "2026-10-12T22:35:15Z",
+  "img_checked": true
  },
  {
   "id": "194dc1f5886d1cc8",
@@ -24661,7 +25362,7 @@
   "source_summary": "Ukraine's leader says Russia is continuing to attack Ukraine and is ignoring an \"energy ceasefire\" declared by President Trump.",
   "source_tags": [],
   "category_hint": "world",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5998808",
+  "image": null,
   "published": "2026-10-12T21:43:48+00:00",
   "headline": "Trump Announces Partial Russia-Ukraine Ceasefire Amid Ongoing Fighting",
   "body": [
@@ -24705,7 +25406,8 @@
   ],
   "slug": "trump-announces-partial-russia-ukraine-ceasefire-amid-ongoing-fighting-194dc1",
   "reading_minutes": 1,
-  "added": "2026-10-12T22:35:35Z"
+  "added": "2026-10-12T22:35:35Z",
+  "img_checked": true
  },
  {
   "id": "9391d4cd0093fb1d",
@@ -24997,7 +25699,7 @@
    "muse"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
   "published": "2026-10-12T17:56:56+00:00",
   "headline": "Meta Unveils Muse Wonder, Its First Large‑Scale Frontier AI Model",
   "body": [
@@ -25040,7 +25742,8 @@
   ],
   "slug": "meta-unveils-muse-wonder-its-first-largescale-frontier-ai-80d24e",
   "reading_minutes": 1,
-  "added": "2026-10-12T22:35:23Z"
+  "added": "2026-10-12T22:35:23Z",
+  "img_checked": true
  },
  {
   "id": "e288f767d754a4d2",
@@ -25056,7 +25759,7 @@
    "wearables"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4514.webp?w=1200",
   "published": "2026-10-12T15:11:19+00:00",
   "headline": "Google Launches Fitbit Edge Wearable at $179.99, Combining Air Look with Pixel",
   "body": [
@@ -25099,7 +25802,8 @@
   ],
   "slug": "google-launches-fitbit-edge-wearable-179-99-combining-air-e288f7",
   "reading_minutes": 1,
-  "added": "2026-10-12T15:12:30Z"
+  "added": "2026-10-12T15:12:30Z",
+  "img_checked": true
  },
  {
   "id": "36f95c29c20b59bb",
@@ -25398,7 +26102,7 @@
   "source_summary": "McDonald's is targeting growth in chicken and beverages, but Consumer Edge data shows Chick-fil-A and coffee chains gaining in customer spending.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/108382523-1791567898694-gettyimages-1316692189-dsc07975_2021050643341036.jpeg?v=1791579865&w=1920&h=1080",
   "published": "2026-10-12T14:56:42+00:00",
   "headline": "McDonald’s Pushes Chicken and Drink Sales Amid Rising Competition",
   "body": [
@@ -25440,7 +26144,8 @@
   ],
   "slug": "mcdonalds-pushes-chicken-drink-sales-amid-rising-competition-618f7a",
   "reading_minutes": 1,
-  "added": "2026-10-12T15:12:48Z"
+  "added": "2026-10-12T15:12:48Z",
+  "img_checked": true
  },
  {
   "id": "534b6588e21e85d3",
@@ -25561,7 +26266,7 @@
    "Science"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79464260_6.jpg",
   "published": "2026-10-12T14:41:00+00:00",
   "headline": "Pope Leo’s Lung Nodule Highlights Need for Early Treatment",
   "body": [
@@ -25604,7 +26309,8 @@
   ],
   "slug": "pope-leos-lung-nodule-highlights-need-early-treatment-b45505",
   "reading_minutes": 1,
-  "added": "2026-10-12T15:12:52Z"
+  "added": "2026-10-12T15:12:52Z",
+  "img_checked": true
  },
  {
   "id": "1997be6d24308df0",
@@ -25873,7 +26579,7 @@
    "TOP STORIES"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79610249_6.jpg",
   "published": "2026-10-12T05:00:00+00:00",
   "headline": "Iran’s Elite Forces Use Cadet Training to Shape Loyalty, Defectors Say",
   "body": [
@@ -25915,7 +26621,8 @@
   ],
   "slug": "irans-elite-forces-use-cadet-training-shape-loyalty-defectors-4e298f",
   "reading_minutes": 1,
-  "added": "2026-10-12T05:46:23Z"
+  "added": "2026-10-12T05:46:23Z",
+  "img_checked": true
  },
  {
   "id": "24914f67a36b672f",
@@ -25980,7 +26687,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79636204_6.jpg",
   "published": "2026-10-12T03:59:00+00:00",
   "headline": "New York Judge Blocks Taxpayer-Funded Trump Promotional Ads",
   "body": [
@@ -26023,7 +26730,8 @@
   ],
   "slug": "new-york-judge-blocks-taxpayer-funded-trump-promotional-ads-ed6c54",
   "reading_minutes": 1,
-  "added": "2026-10-12T05:46:31Z"
+  "added": "2026-10-12T05:46:31Z",
+  "img_checked": true
  },
  {
   "id": "c4e640b4ccfd77c4",
@@ -26035,7 +26743,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79636092_6.jpg",
   "published": "2026-10-12T03:24:00+00:00",
   "headline": "North Korea Launches Missiles in Show of Force After Seoul's Hypersonic Test",
   "body": [
@@ -26071,7 +26779,8 @@
   ],
   "slug": "north-korea-launches-missiles-show-force-after-seoul-s-c4e640",
   "reading_minutes": 1,
-  "added": "2026-10-12T05:46:36Z"
+  "added": "2026-10-12T05:46:36Z",
+  "img_checked": true
  },
  {
   "id": "d87dedb9076492e1",
@@ -26472,7 +27181,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79631917_6.jpg",
   "published": "2026-10-11T22:59:00+00:00",
   "headline": "Second Houthi Strike Hits Riyadh Airport, Killing at Least One",
   "body": [
@@ -26507,7 +27216,8 @@
   ],
   "slug": "second-houthi-strike-hits-riyadh-airport-killing-least-one-5611b9",
   "reading_minutes": 1,
-  "added": "2026-10-11T23:55:28Z"
+  "added": "2026-10-11T23:55:28Z",
+  "img_checked": true
  },
  {
   "id": "6b47233e66303f81",
@@ -26632,7 +27342,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/77663363_6.jpg",
   "published": "2026-10-11T22:18:00+00:00",
   "headline": "UK Prime Minister Burnham Blames Russia for Brexit Vote Interference",
   "body": [
@@ -26675,7 +27385,8 @@
   ],
   "slug": "uk-prime-minister-burnham-blames-russia-brexit-vote-interference-ff5d85",
   "reading_minutes": 1,
-  "added": "2026-10-11T23:56:03Z"
+  "added": "2026-10-11T23:56:03Z",
+  "img_checked": true
  },
  {
   "id": "55222c3b443496b3",
@@ -26744,7 +27455,7 @@
    "HomePod"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
   "published": "2026-10-11T21:14:40+00:00",
   "headline": "Apple Announces HomeView Smart Home Device, Launch Date Set",
   "body": [
@@ -26787,7 +27498,8 @@
   ],
   "slug": "apple-announces-homeview-smart-home-device-launch-date-set-2a599d",
   "reading_minutes": 1,
-  "added": "2026-10-11T23:55:44Z"
+  "added": "2026-10-11T23:55:44Z",
+  "img_checked": true
  },
  {
   "id": "46e54f4e03d8e4fe",
@@ -26802,7 +27514,7 @@
    "Meta"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/social-reckoning.jpg?resize=1200,800",
   "published": "2026-10-11T20:51:47+00:00",
   "headline": "Aaron Sorkin’s ‘Social Reckoning’ Falters in Opening Act",
   "body": [
@@ -26846,7 +27558,8 @@
   ],
   "slug": "aaron-sorkins-social-reckoning-falters-opening-act-46e54f",
   "reading_minutes": 1,
-  "added": "2026-10-11T23:55:59Z"
+  "added": "2026-10-11T23:55:59Z",
+  "img_checked": true
  },
  {
   "id": "d02e64454e8e963b",
@@ -27068,7 +27781,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79295541_6.jpg",
   "published": "2026-10-11T19:41:00+00:00",
   "headline": "Air Strikes Kill Dozens of Gold Miners on Sudan-Egypt Border",
   "body": [
@@ -27102,7 +27815,8 @@
   ],
   "slug": "air-strikes-kill-dozens-gold-miners-sudan-egypt-border-2d16d1",
   "reading_minutes": 1,
-  "added": "2026-10-11T20:11:09Z"
+  "added": "2026-10-11T20:11:09Z",
+  "img_checked": true
  },
  {
   "id": "b94964141ad64ca8",
@@ -27220,7 +27934,7 @@
    "Venture"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
   "published": "2026-10-11T19:00:00+00:00",
   "headline": "TechCrunch Disrupt 2026 Kicks Off in San Francisco with Pass Savings",
   "body": [
@@ -27255,7 +27969,8 @@
   ],
   "slug": "techcrunch-disrupt-2026-kicks-off-san-francisco-with-pass-e380f0",
   "reading_minutes": 1,
-  "added": "2026-10-11T20:11:06Z"
+  "added": "2026-10-11T20:11:06Z",
+  "img_checked": true
  },
  {
   "id": "9355c2a3df930b69",
@@ -27479,7 +28194,8 @@
   ],
   "slug": "new-york-times-names-victoria-jaggard-space-editor-eyes-9d2480",
   "reading_minutes": 1,
-  "added": "2026-10-11T20:11:18Z"
+  "added": "2026-10-11T20:11:18Z",
+  "img_checked": true
  },
  {
   "id": "e958c286c130e368",
@@ -27492,7 +28208,7 @@
    "TechCrunch Disrupt"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/54887557417_966f146916_k.jpg?resize=1200,800",
   "published": "2026-10-11T17:53:37+00:00",
   "headline": "Investors Urged to Attend TechCrunch Disrupt 2026 on Oct. 13",
   "body": [
@@ -27534,7 +28250,8 @@
   ],
   "slug": "investors-urged-attend-techcrunch-disrupt-2026-oct-13-e958c2",
   "reading_minutes": 1,
-  "added": "2026-10-11T20:11:37Z"
+  "added": "2026-10-11T20:11:37Z",
+  "img_checked": true
  },
  {
   "id": "09ef6a361776cc11",
@@ -27933,7 +28650,7 @@
    "Startup Battlefield 200"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/ambulances-2191226563.jpg?resize=1200,900",
   "published": "2026-10-11T15:00:00+00:00",
   "headline": "Efferon Unveils Blood‑Purification Device Targeting Pediatric Sepsis",
   "body": [
@@ -27976,7 +28693,8 @@
   ],
   "slug": "efferon-unveils-bloodpurification-device-targeting-pediatric-sepsis-46b3d6",
   "reading_minutes": 1,
-  "added": "2026-10-11T15:56:46Z"
+  "added": "2026-10-11T15:56:46Z",
+  "img_checked": true
  },
  {
   "id": "25f79e4f8fc08aa9",
@@ -28148,7 +28866,8 @@
   ],
   "slug": "democrats-demand-pentagon-probe-iran-civilian-deaths-440c57",
   "reading_minutes": 1,
-  "added": "2026-10-11T15:56:26Z"
+  "added": "2026-10-11T15:56:26Z",
+  "img_checked": true
  },
  {
   "id": "b0d09f06c293c405",
@@ -28323,7 +29042,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79634623_6.jpg",
   "published": "2026-10-11T09:13:00+00:00",
   "headline": "Germany Reaffirms Russia Sanctions Despite U.S. Diesel Pause",
   "body": [
@@ -28367,7 +29086,8 @@
   ],
   "slug": "germany-reaffirms-russia-sanctions-despite-u-s-diesel-pause-0f4ac4",
   "reading_minutes": 1,
-  "added": "2026-10-11T09:15:34Z"
+  "added": "2026-10-11T09:15:34Z",
+  "img_checked": true
  },
  {
   "id": "78c733a4f593b12c",
@@ -28957,7 +29677,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79630838_6.jpg",
   "published": "2026-10-11T01:52:00+00:00",
   "headline": "Shooter Kills Eight People at Erie Home, Police Say in Pennsylvania",
   "body": [
@@ -29000,7 +29720,8 @@
   ],
   "slug": "shooter-kills-eight-people-erie-home-police-say-pennsylvania-9cb808",
   "reading_minutes": 1,
-  "added": "2026-10-11T02:08:13Z"
+  "added": "2026-10-11T02:08:13Z",
+  "img_checked": true
  },
  {
   "id": "e3a9514e7d6fdaab",
@@ -29248,7 +29969,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79630160_6.jpg",
   "published": "2026-10-10T23:09:00+00:00",
   "headline": "Storm Isaias Leaves Four Dead as Post‑Tropical Cyclone Hits Gulf Coast",
   "body": [
@@ -29291,7 +30012,8 @@
   ],
   "slug": "storm-isaias-leaves-four-dead-posttropical-cyclone-hits-gulf-e5c81b",
   "reading_minutes": 1,
-  "added": "2026-10-10T23:27:48Z"
+  "added": "2026-10-10T23:27:48Z",
+  "img_checked": true
  },
  {
   "id": "7c5ac0dfb6ede7cf",
@@ -29303,7 +30025,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79630057_6.jpg",
   "published": "2026-10-10T22:54:00+00:00",
   "headline": "Palestinian President Delays Legislative Elections to Late 2027",
   "body": [
@@ -29346,7 +30068,8 @@
   ],
   "slug": "palestinian-president-delays-legislative-elections-late-2027-7c5ac0",
   "reading_minutes": 1,
-  "added": "2026-10-10T23:27:59Z"
+  "added": "2026-10-10T23:27:59Z",
+  "img_checked": true
  },
  {
   "id": "bd4cb90a20630270",
@@ -29585,7 +30308,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79629578_6.jpg",
   "published": "2026-10-10T22:07:00+00:00",
   "headline": "At Least 12 Killed and Hundreds Injured in Riyadh Airport Strike",
   "body": [
@@ -29620,7 +30343,8 @@
   ],
   "slug": "least-12-killed-hundreds-injured-riyadh-airport-strike-09ea0a",
   "reading_minutes": 1,
-  "added": "2026-10-10T23:28:15Z"
+  "added": "2026-10-10T23:28:15Z",
+  "img_checked": true
  },
  {
   "id": "d05facb80f7a8876",
@@ -29634,7 +30358,7 @@
    "Satya Nadella"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
   "published": "2026-10-10T21:47:51+00:00",
   "headline": "Microsoft CEO Urges ‘Emergency Brake’ for AI Trust Architecture",
   "body": [
@@ -29668,7 +30392,8 @@
   ],
   "slug": "microsoft-ceo-urges-emergency-brake-ai-trust-architecture-d05fac",
   "reading_minutes": 1,
-  "added": "2026-10-10T23:27:56Z"
+  "added": "2026-10-10T23:27:56Z",
+  "img_checked": true
  },
  {
   "id": "739b758eb78c5921",
@@ -29678,7 +30403,7 @@
   "source_summary": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
   "source_tags": [],
   "category_hint": "world",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5993847",
+  "image": null,
   "published": "2026-10-10T21:40:58+00:00",
   "headline": "London Tour of Bayeux Tapestry Sparks Battle of Hastings Reenactment",
   "body": [
@@ -29720,7 +30445,8 @@
   ],
   "slug": "london-tour-bayeux-tapestry-sparks-battle-hastings-reenactment-739b75",
   "reading_minutes": 1,
-  "added": "2026-10-11T02:08:49Z"
+  "added": "2026-10-11T02:08:49Z",
+  "img_checked": true
  },
  {
   "id": "d6c0a0860e6d3ffc",
@@ -29730,7 +30456,7 @@
   "source_summary": "Much of the Trump administration's economic policy has been inspired by successful industrial policies successful in East Asia, including those of competitor, China. Will those policies work in the U.S.?",
   "source_tags": [],
   "category_hint": "politics",
-  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5992884",
+  "image": null,
   "published": "2026-10-10T21:40:18+00:00",
   "headline": "Trump Administration Echoes East Asian Industrial Policies",
   "body": [
@@ -29773,7 +30499,8 @@
   ],
   "slug": "trump-administration-echoes-east-asian-industrial-policies-d6c0a0",
   "reading_minutes": 1,
-  "added": "2026-10-10T23:28:12Z"
+  "added": "2026-10-10T23:28:12Z",
+  "img_checked": true
  },
  {
   "id": "dcc48233c883fd3c",
@@ -30022,7 +30749,7 @@
    "Huxe"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
   "published": "2026-10-10T19:50:00+00:00",
   "headline": "Apple Signs Deal to Hire Huxe Team and License Its Podcast AI Technology",
   "body": [
@@ -30066,7 +30793,8 @@
   ],
   "slug": "apple-signs-deal-hire-huxe-team-license-its-podcast-9fe15a",
   "reading_minutes": 1,
-  "added": "2026-10-10T20:00:56Z"
+  "added": "2026-10-10T20:00:56Z",
+  "img_checked": true
  },
  {
   "id": "68c1e3ecc1d0be8c",
@@ -30177,7 +30905,7 @@
    "World"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/78436864_6.jpg",
   "published": "2026-10-10T19:16:00+00:00",
   "headline": "Women Face Barriers but Could Achieve Historic Wins in US Midterms",
   "body": [
@@ -30220,7 +30948,8 @@
   ],
   "slug": "women-face-barriers-but-could-achieve-historic-wins-us-1304eb",
   "reading_minutes": 1,
-  "added": "2026-10-10T20:01:12Z"
+  "added": "2026-10-10T20:01:12Z",
+  "img_checked": true
  },
  {
   "id": "56eb0ce4e3552852",
