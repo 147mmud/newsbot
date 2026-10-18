@@ -52,6 +52,14 @@ def _published(entry) -> datetime:
     return datetime.now(timezone.utc)
 
 
+_BAD_IMG = re.compile(r"(pixel|tracking|spacer|blank|1x1|feedburner|/stats\.)", re.I)
+
+
+def is_bad_image(url: str | None) -> bool:
+    """Tracking pixels and spacers some feeds embed instead of real photos."""
+    return bool(url) and bool(_BAD_IMG.search(url))
+
+
 def _image(entry) -> str | None:
     """Best thumbnail the feed itself provides (no page scraping)."""
     candidates = []
@@ -70,9 +78,13 @@ def _image(entry) -> str | None:
         if entry.get("content"):
             html = entry["content"][0].get("value", "")
         html = html or entry.get("summary", "")
-        img = BeautifulSoup(html, "html.parser").find("img") if html else None
-        if img and img.get("src", "").startswith("http"):
-            candidates.append((0, img["src"]))
+        for img in (BeautifulSoup(html, "html.parser").find_all("img") if html else []):
+            src = img.get("src", "")
+            small = any(str(img.get(k, "")).strip() in ("0", "1", "2") for k in ("width", "height"))
+            if src.startswith("http") and not small and not is_bad_image(src):
+                candidates.append((0, src))
+                break
+    candidates = [c for c in candidates if not is_bad_image(c[1])]
     if not candidates:
         return None
     candidates.sort(key=lambda c: c[0], reverse=True)
@@ -100,7 +112,7 @@ def page_image(url: str) -> str | None:
             tag = soup.find("meta", attrs=attrs)
             if tag and tag.get("content"):
                 img = urljoin(url, tag["content"].strip())
-                if img.startswith("http"):
+                if img.startswith("http") and not is_bad_image(img):
                     return img
         link = soup.find("link", rel="image_src")
         if link and link.get("href"):
