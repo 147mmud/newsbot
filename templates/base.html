@@ -19,7 +19,7 @@
 <link rel="alternate" type="application/rss+xml" title="{{ site.SITE_NAME }}" href="{{ url('feed.xml') }}">
 <link rel="icon" href="{{ url('static/img/favicon.svg') }}" type="image/svg+xml">
 <link rel="preconnect" href="https://site.api.espn.com" crossorigin>
-<link rel="stylesheet" href="{{ url('static/css/style.css') }}">
+<link rel="stylesheet" href="{{ url('static/css/style.css') }}?v={{ ver }}">
 <script>
   window.NB = {
     base: "{{ url() }}",
@@ -27,8 +27,8 @@
     scoreEndpoints: {{ site.SCORE_SPORTS|tojson_safe|safe }}
   };
 </script>
-<script src="{{ url('static/js/scores.js') }}" defer></script>
-<script src="{{ url('static/js/ads.js') }}" defer></script>
+<script src="{{ url('static/js/scores.js') }}?v={{ ver }}" defer></script>
+<script src="{{ url('static/js/ads.js') }}?v={{ ver }}" defer></script>
 {% if site.GA_MEASUREMENT_ID %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.GA_MEASUREMENT_ID }}"></script>
 <script>
