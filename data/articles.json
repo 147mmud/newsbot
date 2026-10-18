@@ -1,5 +1,543 @@
 [
  {
+  "id": "b615b2a69a1cb7c5",
+  "source_url": "https://www.dw.com/en/why-starlink-is-so-important-for-ukraine/a-79689729?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Why Starlink is so important for Ukraine",
+  "source_summary": "Kyiv keeps issuing warnings that the satellite internet system Starlink is being restricted in Ukraine. How dependent is the country on the system, and what would happen if it went down?",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-18T08:58:00+00:00",
+  "headline": "Starlink's Critical Role for Ukraine Amid Restrictions and Potential Outage",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukraine's government repeatedly warns that access to the Starlink satellite internet service is being limited within its borders. The country relies heavily on the system for both civilian communications and military coordination, especially in areas where ground-based networks have been damaged by the conflict."
+   },
+   {
+    "type": "p",
+    "text": "Starlink provides a resilient, quickly deployable broadband link that bypasses the need for traditional infrastructure. Its capacity to deliver high‑speed data to remote or contested zones has become a lifeline for journalists, NGOs, and the Ukrainian armed forces, enabling real‑time reporting and command‑and‑control functions."
+   },
+   {
+    "type": "p",
+    "text": "If the service were to be disrupted, Ukraine could face a severe communications blackout, hampering both civilian resilience and military effectiveness. The potential loss underscores the strategic importance of satellite connectivity in modern warfare and the vulnerability of nations that depend on a single provider."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European allies, the stability of Starlink in Ukraine affects regional security and the effectiveness of support to Kyiv."
+   }
+  ],
+  "key_points": [
+   "Ukraine depends on Starlink for essential civilian and military communications.",
+   "Restrictions on the service threaten to create a nationwide communications gap.",
+   "A disruption could weaken Ukraine's ability to coordinate defense and share information."
+  ],
+  "meta_description": "Ukraine's reliance on Starlink for civilian and military communications faces growing restrictions, risking a major outage.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Starlink",
+   "Ukraine",
+   "satellite internet",
+   "war communications",
+   "technology"
+  ],
+  "slug": "starlink-s-critical-role-ukraine-amid-restrictions-potential-outage-b615b2",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:01:51Z"
+ },
+ {
+  "id": "3cefe810cd459dad",
+  "source_url": "https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html",
+  "source": "The New York Times",
+  "source_title": "France in Shock After Protests Devolve Into Riots",
+  "source_summary": "Centrist and leftist leaders blamed each other after anti-government protests devolved into chaos.",
+  "source_tags": [
+   "France",
+   "Melenchon, Jean-Luc",
+   "Lecornu, Sebastien",
+   "France Unbowed (Political Party)",
+   "Demonstrations, Protests and Riots",
+   "Looting (Crime)",
+   "Police",
+   "Vandalism"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-france-shock-tkbl/18int-france-shock-tkbl-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T08:44:26+00:00",
+  "headline": "France Faces Turmoil as Anti‑Government Protests Turn Violent",
+  "body": [
+   {
+    "type": "p",
+    "text": "Centrist and left‑leaning politicians in France are trading accusations after nationwide anti‑government demonstrations escalated into riots. Demonstrators, initially voicing discontent with recent policies, clashed with police in several cities, leading to property damage and arrests."
+   },
+   {
+    "type": "p",
+    "text": "Government officials from the centrist camp blamed opposition leaders for inciting unrest, while leftist representatives argued that the administration's reforms provoked the public anger. Both sides cited the chaotic scenes to underscore their political narratives."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have deployed additional law‑enforcement units to restore order, and the interior ministry announced investigations into the causes of the violence. The unrest has prompted calls for dialogue, though political tensions appear to be deepening."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest highlights growing political polarization in France, a key EU member whose stability impacts European markets and transatlantic relations."
+   }
+  ],
+  "key_points": [
+   "Anti‑government protests in France escalated into riots across multiple cities.",
+   "Centrist and leftist leaders are blaming each other for the unrest.",
+   "Police deployed extra forces and launched investigations into the disturbances."
+  ],
+  "meta_description": "France's anti‑government protests turned violent, sparking a blame game between centrist and leftist leaders.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "riots",
+   "political tension",
+   "law enforcement"
+  ],
+  "slug": "france-faces-turmoil-antigovernment-protests-turn-violent-3cefe8",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:02:11Z"
+ },
+ {
+  "id": "af81d41d58c8bee4",
+  "source_url": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
+  "source": "The New York Times",
+  "source_title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
+  "source_summary": "Rahul Gandhi is the descendant of three prime ministers. A surge of protests could give him a springboard to take on the nation’s current leader.",
+  "source_tags": [
+   "Politics and Government",
+   "Generation Z",
+   "Demonstrations, Protests and Riots",
+   "Elections",
+   "Bharatiya Janata Party",
+   "Cockroach Janta Party (India)",
+   "Election Commission of India",
+   "Indian National Congress",
+   "Gandhi, Indira",
+   "Gandhi, Rahul"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/xxint-india-gandhi-01-mhvf/xxint-india-gandhi-01-mhvf-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T08:04:51+00:00",
+  "headline": "Rahul Gandhi Leverages Protests to Challenge India’s Current Leader",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rahul Gandhi, a scion of a family that has produced three Indian prime ministers, is seeking to turn a wave of public demonstrations into political momentum. The protests, which have surged across the country, are seen as a potential springboard for him to position himself against the nation’s incumbent leader."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that Gandhi’s lineage gives him a unique platform within the Indian political landscape, but his ability to convert the unrest into electoral advantage remains uncertain. The current climate of dissent provides him with an opportunity to rally support and present an alternative vision for the country."
+   },
+   {
+    "type": "p",
+    "text": "While the outcome of this strategic push is still unfolding, the situation underscores the interplay between historic political families and contemporary public sentiment in India’s democracy."
+   }
+  ],
+  "key_points": [
+   "Rahul Gandhi is descended from three former Indian prime ministers.",
+   "A recent surge in protests may give him a platform to challenge the current leader."
+  ],
+  "meta_description": "Rahul Gandhi, heir to a political dynasty, eyes protests as a chance to confront India's current leader.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rahul Gandhi",
+   "India politics",
+   "protests",
+   "political dynasty",
+   "opposition"
+  ],
+  "slug": "rahul-gandhi-leverages-protests-challenge-indias-current-leader-af81d4",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:02:19Z"
+ },
+ {
+  "id": "46ee43f3cce08e7e",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+  "source": "NPR",
+  "source_title": "Major fire breaks out in Alberta after deadly incident at military base",
+  "source_summary": "Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F2a%2Fa5e2242c4287be6dedf0da163a0b%2Fap26291249424490.jpg",
+  "published": "2026-10-18T07:56:08+00:00",
+  "headline": "Deadly Incident at Alberta Military Base Sparks Major Fire",
+  "body": [
+   {
+    "type": "p",
+    "text": "Canada's defence minister announced Saturday that a tragic incident at a military base in Alberta resulted in fatalities and injuries. The event triggered a large fire that quickly spread across the installation."
+   },
+   {
+    "type": "p",
+    "text": "Emergency responders were dispatched to contain the blaze and to provide medical assistance to those affected. Details about the cause of the incident or the number of casualties were not released at the time of the statement."
+   },
+   {
+    "type": "p",
+    "text": "Authorities are conducting an investigation to determine the circumstances that led to the fire and the loss of life. Updates are expected as officials gather more information."
+   }
+  ],
+  "key_points": [
+   "A deadly incident at an Alberta military base caused a major fire, according to Canada's defence minister.",
+   "The event left people killed and injured, prompting a large emergency response.",
+   "An investigation is underway to uncover the cause of the incident."
+  ],
+  "meta_description": "Canada's defence minister reports fatalities and injuries after a fire erupted at an Alberta military base.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "Alberta",
+   "military",
+   "fire",
+   "defence minister",
+   "incident"
+  ],
+  "slug": "deadly-incident-alberta-military-base-sparks-major-fire-46ee43",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:02:27Z"
+ },
+ {
+  "id": "e67f39522e81710b",
+  "source_url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
+  "source": "The New York Times",
+  "source_title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
+  "source_summary": "The defense minister said people were killed and injured at the base in Alberta, but officials did not offer details on the cause.",
+  "source_tags": [
+   "Fires and Firefighters",
+   "Military Bases and Installations",
+   "Canadian Armed Forces",
+   "Carney, Mark J",
+   "Smith, Danielle (1971- )",
+   "Deaths (Fatalities)",
+   "David McGuinty"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-chfb/18int-canada-alberta-fire-chfb-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T07:46:18+00:00",
+  "headline": "Deadly Incident at Canada’s CFB Wainwright Leaves Casualties",
+  "body": [
+   {
+    "type": "p",
+    "text": "Canada’s defence minister announced that a deadly incident at Canadian Forces Base Wainwright in Alberta resulted in both fatalities and injuries. The statement confirmed loss of life and wounded personnel but did not provide further specifics about the event."
+   },
+   {
+    "type": "p",
+    "text": "Officials at the base have not disclosed the cause of the incident, and no additional details on the number of victims or the nature of the injuries have been released. The lack of information has prompted calls for transparency from the public and media outlets."
+   },
+   {
+    "type": "p",
+    "text": "The incident occurs amid ongoing discussions about military readiness and safety protocols within Canada’s armed forces, highlighting the need for thorough investigations into such events."
+   }
+  ],
+  "key_points": [
+   "Canada’s defence minister confirmed deaths and injuries at CFB Wainwright.",
+   "Authorities have not released details about the cause or scale of the incident."
+  ],
+  "meta_description": "Canada's defence minister reports fatalities and injuries at CFB Wainwright, with officials withholding cause details.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "military",
+   "CFB Wainwright",
+   "incident",
+   "defence",
+   "Alberta"
+  ],
+  "slug": "deadly-incident-canadas-cfb-wainwright-leaves-casualties-e67f39",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:02:31Z"
+ },
+ {
+  "id": "5b9b057762a87b38",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmx2q94rppe9o",
+  "source": "BBC Sport",
+  "source_title": "New Zealand avoid World Cup shock against Fiji",
+  "source_summary": "New Zealand women are given a World Cup \"wake-up call\" after they are forced to come from behind to beat debutants Fiji in their opening game.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a63b/live/c7b10130-caba-11f1-84c6-4114668c8e74.jpg",
+  "published": "2026-10-18T07:38:11+00:00",
+  "headline": "New Zealand Women Rally to Beat Fiji in World Cup Opener",
+  "body": [
+   {
+    "type": "p",
+    "text": "The New Zealand women's rugby team faced a surprising challenge in their opening match of the 2026 Women's Rugby World Cup, needing to recover after falling behind against debutants Fiji. The early deficit forced the Black Ferns to adjust their tactics and intensify their play in the second half."
+   },
+   {
+    "type": "p",
+    "text": "A determined comeback saw New Zealand overturn the scoreline, ultimately securing a victory that officials described as a \"wake‑up call\" for the side. The win preserved their unbeaten start to the tournament but highlighted vulnerabilities that opponents may seek to exploit in future games."
+   },
+   {
+    "type": "p",
+    "text": "Fiji, making their first appearance at a women's World Cup, demonstrated that newcomers can compete fiercely with established powers, adding intrigue to the competition as it progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result signals that the women's Rugby World Cup is becoming more unpredictable, a trend that could attract broader international interest, including from US and European audiences."
+   }
+  ],
+  "key_points": [
+   "New Zealand rallied from behind to defeat Fiji in their World Cup debut match.",
+   "The narrow win was labeled a wake‑up call for the Black Ferns, exposing areas for improvement.",
+   "Fiji's strong showing underscores the growing competitiveness of women's rugby."
+  ],
+  "meta_description": "New Zealand women rallied to beat Fiji in their World Cup opener, a wake‑up call that highlights rising competition in women's rugby.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "women's rugby",
+   "world cup",
+   "New Zealand",
+   "Fiji",
+   "sports"
+  ],
+  "slug": "new-zealand-women-rally-beat-fiji-world-cup-opener-5b9b05",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:01:55Z"
+ },
+ {
+  "id": "38a191dab5fc9a89",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo",
+  "source": "BBC Sport",
+  "source_title": "Martinez 'back in a few weeks' after operation",
+  "source_summary": "Chelsea goalkeeper Emiliano Martinez says he will be fit in a few weeks after being injured in the win at Everton.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56d8/live/4dee7c90-cac1-11f1-b152-e3e2b94189a6.jpg",
+  "published": "2026-10-18T07:25:23+00:00",
+  "headline": "Chelsea Goalkeeper Emiliano Martinez Says He’ll Return in Weeks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chelsea’s first‑choice goalkeeper Emiliano Martinez confirmed he expects to be back on the pitch within a few weeks after sustaining an injury during the club’s recent victory over Everton."
+   },
+   {
+    "type": "p",
+    "text": "The Argentine keeper, who has been a key figure for the Blues this season, said the injury was not serious and that his recovery program is progressing well. He did not specify the exact nature of the injury but emphasized that he is following medical advice and training to regain full fitness."
+   },
+   {
+    "type": "p",
+    "text": "Martinez’s optimism comes as Chelsea continue their push in the Premier League, where a reliable goalkeeper is crucial for maintaining defensive stability and contesting for top‑four positions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Chelsea’s title challenge and European qualification hopes hinge on having a fit first‑choice goalkeeper."
+   }
+  ],
+  "key_points": [
+   "Emiliano Martinez expects to be fit in a few weeks after his injury at Everton.",
+   "The goalkeeper described his recovery as on track and not serious.",
+   "His return is important for Chelsea’s ongoing Premier League campaign."
+  ],
+  "meta_description": "Chelsea goalkeeper Emiliano Martinez says he will be fit in a few weeks after injury in the win over Everton.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chelsea",
+   "Emiliano Martinez",
+   "Premier League",
+   "injury update",
+   "football"
+  ],
+  "slug": "chelsea-goalkeeper-emiliano-martinez-says-hell-return-weeks-38a191",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:02:07Z"
+ },
+ {
+  "id": "cfeef28e303e5fd7",
+  "source_url": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Populist Czech PM Babis goes empty-handed in Senate elections",
+  "source_summary": "Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis' and his governing coalition.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-18T07:03:00+00:00",
+  "headline": "Czech Populist PM Babis Fails in Senate Vote, Opposition Holds Power",
+  "body": [
+   {
+    "type": "p",
+    "text": "Prime Minister Andrej Babis and his governing coalition suffered a setback in the recent Czech Senate elections, as opposition parties retained control of the upper house. The vote did not deliver any seats to Babis' populist movement, leaving the government without a foothold in the Senate."
+   },
+   {
+    "type": "p",
+    "text": "The result underscores the continued strength of opposition forces, which now hold a majority of the 81 Senate seats. Analysts note that the outcome limits the coalition's ability to advance its legislative agenda and may force greater negotiation with rival parties."
+   },
+   {
+    "type": "p",
+    "text": "Babis, who has faced criticism over his leadership style and policy direction, will have to rely on the lower house and coalition partners to push forward reforms. The Senate's composition remains a check on the prime minister's agenda ahead of upcoming EU discussions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Senate's opposition majority curtails the Czech government's ability to shape EU policy, affecting regional stability and trade negotiations."
+   }
+  ],
+  "key_points": [
+   "Andrej Babis' party failed to win any Senate seats in the latest Czech elections.",
+   "Opposition parties continue to control the Czech Senate, limiting the governing coalition's influence.",
+   "The result may force the prime minister to seek broader parliamentary support for his policies."
+  ],
+  "meta_description": "Czech PM Andrej Babis loses Senate election, leaving opposition in control of the upper house.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Czech Republic",
+   "Andrej Babis",
+   "Senate elections",
+   "opposition parties",
+   "European politics"
+  ],
+  "slug": "czech-populist-pm-babis-fails-senate-vote-opposition-holds-cfeef2",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:02:35Z"
+ },
+ {
+  "id": "a464de5bf78a8416",
+  "source_url": "https://www.nytimes.com/video/us/politics/100000011205812/are-ice-officers-really-targeting-the-worst-of-the-worst.html",
+  "source": "The New York Times",
+  "source_title": "Are ICE Officers Really Targeting the ‘Worst of the Worst’?",
+  "source_summary": "The homeland security secretary, Markwayne Mullin, has repeatedly said ICE agents are pursuing “the worst of the worst” criminals. But as Hamed Aleaziz, a reporter for The New York Times, explains, data shows that arrests of people with no criminal record have soared this summer.",
+  "source_tags": [
+   "Immigration and Emigration"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-18T07:00:11+00:00",
+  "headline": "ICE Arrests Surge Among Individuals With No Criminal Record This Summer",
+  "body": [
+   {
+    "type": "p",
+    "text": "Homeland Security Secretary Markwayne Mullin has repeatedly asserted that Immigration and Customs Enforcement agents are focused on apprehending \"the worst of the worst\" criminals. His remarks emphasize a policy of targeting individuals deemed most dangerous to public safety."
+   },
+   {
+    "type": "p",
+    "text": "However, a data analysis presented by New York Times reporter Hamed Aleaziz shows a sharp increase this summer in ICE arrests of people who have no prior criminal record. The figures indicate that the number of such arrests has risen markedly compared with previous months, contradicting the administration's narrative of exclusively pursuing high‑risk offenders."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The discrepancy between official statements and arrest data could influence ongoing debates over immigration enforcement in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "ICE arrests of individuals with no criminal history have risen sharply this summer.",
+   "Secretary Mullin continues to claim the agency targets only the most dangerous criminals.",
+   "The data challenges the administration's portrayal of ICE enforcement priorities."
+  ],
+  "meta_description": "ICE arrests of people with no criminal record have surged this summer, contradicting claims they target only the most dangerous offenders.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "ICE",
+   "immigration enforcement",
+   "arrests",
+   "criminal records",
+   "US policy"
+  ],
+  "slug": "ice-arrests-surge-among-individuals-with-no-criminal-record-a464de",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:01:59Z"
+ },
+ {
+  "id": "4d10cd52060d9ca4",
+  "source_url": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro",
+  "source": "BBC Sport",
+  "source_title": "After Dubois' dominant win, what's next for heavyweight boxing?",
+  "source_summary": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/587d/live/cc426aa0-ca82-11f1-8970-b5075080a16a.jpg",
+  "published": "2026-10-18T05:39:47+00:00",
+  "headline": "Dubois’s Dominant Victory Over Wardley Shapes Heavyweight Future",
+  "body": [
+   {
+    "type": "p",
+    "text": "World champion Daniel Dubois delivered an emphatic performance against Fabio Wardley, securing a decisive win that underscored his standing in the heavyweight division. The bout, highlighted by Dubois’s power and control, left little doubt about his current form and championship credentials."
+   },
+   {
+    "type": "p",
+    "text": "The victory has prompted immediate speculation about the next steps for the heavyweight landscape. Analysts note that Dubois’s triumph positions him as a focal point for upcoming title defenses and potential match‑ups that could redefine the hierarchy of the division."
+   },
+   {
+    "type": "p",
+    "text": "Stakeholders across the sport are watching closely, as the outcome may influence promotional strategies, broadcast interest, and fan engagement worldwide. The heavyweight class, long a marquee attraction, now looks to Dubois to lead its next chapter."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Dubois’s dominance could drive renewed interest and revenue in heavyweight boxing across the US and European markets."
+   }
+  ],
+  "key_points": [
+   "Daniel Dubois defeated Fabio Wardley in a dominant performance.",
+   "The win solidifies Dubois’s position as the leading heavyweight champion.",
+   "Future heavyweight match‑ups are expected to revolve around Dubois’s next defense."
+  ],
+  "meta_description": "Daniel Dubois’s emphatic win over Fabio Wardley cements his heavyweight champion status and sets the stage for future title fights.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "boxing",
+   "heavyweight",
+   "Daniel Dubois",
+   "Fabio Wardley",
+   "title fight",
+   "sports news"
+  ],
+  "slug": "duboiss-dominant-victory-over-wardley-shapes-heavyweight-future-4d10cd",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:02:15Z"
+ },
+ {
   "id": "f7725e91497e4618",
   "source_url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo",
   "source": "BBC News",
@@ -277,6 +815,60 @@
   "slug": "no-kings-protests-urge-early-voting-ahead-midterm-elections-b0fc97",
   "reading_minutes": 1,
   "added": "2026-10-18T04:19:17Z"
+ },
+ {
+  "id": "11125da554cf8fc4",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo",
+  "source": "BBC News",
+  "source_title": "There's a crackdown on sports piracy - but is it already out of control?",
+  "source_summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b79/live/6d035b30-c94c-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-18T00:11:09+00:00",
+  "headline": "Sports Industry Faces Crackdown on Illegal Streaming Devices",
+  "body": [
+   {
+    "type": "p",
+    "text": "The sports sector’s lucrative business model is being challenged by the rise of unauthorized TV sticks and illegal streaming links, according to a BBC report. These low‑cost devices allow viewers to bypass official broadcasters and watch live events without paying subscription fees."
+   },
+   {
+    "type": "p",
+    "text": "Regulators and rights holders have responded with a coordinated crackdown aimed at removing the offending hardware and shutting down the websites that host the pirated streams. The effort seeks to protect the revenue streams that fund professional leagues, clubs and broadcasters."
+   },
+   {
+    "type": "p",
+    "text": "While the crackdown targets clear violations, some observers warn that overly aggressive enforcement could impact legitimate users and raise questions about the balance between protecting intellectual property and preserving consumer choice."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The loss of legitimate sports broadcasting revenue affects league finances and could lead to higher subscription costs for fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Illegal TV sticks and streaming links are eroding revenue for the sports industry.",
+   "Authorities are launching a coordinated crackdown to remove pirated content sources.",
+   "Critics caution that enforcement must avoid unintended consequences for lawful viewers."
+  ],
+  "meta_description": "A BBC report details a crackdown on illegal TV sticks and streaming links threatening the sports industry's revenue.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "sports",
+   "piracy",
+   "streaming",
+   "TV sticks",
+   "illegal streaming",
+   "crackdown"
+  ],
+  "slug": "sports-industry-faces-crackdown-illegal-streaming-devices-11125d",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:02:03Z"
  },
  {
   "id": "dc86dee642716e09",
@@ -672,6 +1264,46 @@
   "slug": "luxury-boat-with-50m-pool-spotted-near-kim-jong-e00f75",
   "reading_minutes": 1,
   "added": "2026-10-17T23:58:09Z"
+ },
+ {
+  "id": "a4ffcd075aca7778",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o",
+  "source": "BBC Sport",
+  "source_title": "Can Hearts prove credentials at scene of title heartbreak?",
+  "source_summary": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space of 11 minutes. They return to face Celtic on Sunday refreshed and reshaped.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcd/live/5987f290-ca42-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-17T21:55:44+00:00",
+  "headline": "Hearts Seek Redemption at Celtic After 11‑Minute Title Collapse",
+  "body": [
+   {
+    "type": "p",
+    "text": "Hearts' previous visit to Celtic's Parkhead ended in disappointment, as their title aspirations were shattered within an 11‑minute spell. The defeat halted their momentum in the Scottish Premiership race."
+   },
+   {
+    "type": "p",
+    "text": "The team returns to Glasgow on Sunday with a refreshed squad and tactical adjustments, aiming to overturn the memory of that swift setback. Managerial changes and new player roles have reshaped the side ahead of the encounter."
+   }
+  ],
+  "key_points": [
+   "Hearts' last Parkhead match saw their title hopes end in just 11 minutes.",
+   "The club returns with a refreshed and reshaped lineup for the upcoming fixture."
+  ],
+  "meta_description": "Hearts aim to bounce back at Celtic after an 11‑minute title‑crushing loss, returning with a refreshed squad.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Hearts",
+   "Celtic",
+   "Scottish Premiership",
+   "Parkhead",
+   "title race"
+  ],
+  "slug": "hearts-seek-redemption-celtic-after-11minute-title-collapse-a4ffcd",
+  "reading_minutes": 1,
+  "added": "2026-10-18T09:02:23Z"
  },
  {
   "id": "6e77ee804ab2ab8e",
