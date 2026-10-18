@@ -1,5 +1,649 @@
 [
  {
+  "id": "07f5e8442486dc56",
+  "source_url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+  "source": "The Verge",
+  "source_title": "The best gadget I bought this year is a milk frother",
+  "source_summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their […]",
+  "source_tags": [
+   "Gadgets"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-18T13:00:00+00:00",
+  "headline": "Milk Frother Becomes Year’s Top Gadget After LA Coffee Find",
+  "body": [
+   {
+    "type": "p",
+    "text": "In February, the writer traveled to Los Angeles to explore the art scene and stayed in Koreatown. A short walk from the hotel led to Stagger, a modest coffee shop famed for its matcha drinks."
+   },
+   {
+    "type": "p",
+    "text": "While sampling the menu, the author discovered a milk frother that quickly turned into an unexpected obsession. The device proved versatile, delivering silky foam for coffee, tea, and even hot chocolate, and stood out for its compact design and ease of use."
+   },
+   {
+    "type": "p",
+    "text": "Since returning home, the frother has become the writer’s favorite purchase of the year, highlighting how a simple kitchen tool can elevate everyday beverages and inspire a new appreciation for home‑made drinks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The popularity of low‑cost, high‑performing kitchen tools reflects a broader consumer shift toward home‑crafted beverages in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "A milk frother purchased after a visit to LA’s Stagger coffee shop became the author’s top gadget of the year.",
+   "The device is praised for its compact size, ease of operation, and ability to create smooth foam for various drinks.",
+   "The experience underscores growing interest in affordable kitchen appliances that enhance home coffee culture."
+  ],
+  "meta_description": "A milk frother discovered at a Los Angeles coffee shop tops the author’s gadget list, showcasing the appeal of simple kitchen tools.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "milk frother",
+   "kitchen gadget",
+   "coffee culture",
+   "Los Angeles",
+   "consumer tech"
+  ],
+  "slug": "milk-frother-becomes-years-top-gadget-after-la-coffee-07f5e8",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:10:48Z"
+ },
+ {
+  "id": "e92138ec46d12fd1",
+  "source_url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+  "source": "NPR",
+  "source_title": "Pope Leo says he will gradually resume duties after cancer surgery",
+  "source_summary": "Pope Leo XIV thanked thousands of faithful in St. Peter's Square on Sunday for their prayers while he was hospitalized, and said he plans to gradually return to his usual duties.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1919x1279+0+0/resize/1919x1279!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2F4c%2F028622124a108d72e3827ab507f1%2Fap26291371602024.jpg",
+  "published": "2026-10-18T12:55:01+00:00",
+  "headline": "Pope Leo XIV Announces Gradual Return to Duties After Cancer Surgery",
+  "body": [
+   {
+    "type": "p",
+    "text": "Pope Leo XIV thanked the thousands gathered in St. Peter’s Square on Sunday, expressing gratitude for the prayers offered while he was hospitalized following cancer surgery. The pontiff addressed the crowd from the balcony, noting his improving health and the support of the faithful."
+   },
+   {
+    "type": "p",
+    "text": "He said he intends to resume his responsibilities in stages, beginning with limited public appearances and gradually expanding to his full schedule. The Pope emphasized that the transition will be measured, allowing him to recover fully while continuing to lead the Catholic Church."
+   },
+   {
+    "type": "p",
+    "text": "Vatican officials confirmed that the Pope’s medical team is monitoring his progress closely and that no further surgeries are planned at this time. The announcement marks the first public update on his condition since the operation earlier this month."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Pope’s health influences the leadership of the world’s largest Christian denomination, affecting millions of believers in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Pope Leo XIV thanked worshippers in St. Peter’s Square for prayers during his hospital stay.",
+   "He plans a phased return to his papal duties after recovering from cancer surgery.",
+   "Vatican doctors say his condition is stable and no additional procedures are expected."
+  ],
+  "meta_description": "Pope Leo XIV thanks crowds and outlines a phased return to duties after cancer surgery, saying his health is improving.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pope",
+   "Catholic Church",
+   "Health",
+   "Vatican",
+   "Religion"
+  ],
+  "slug": "pope-leo-xiv-announces-gradual-return-duties-after-cancer-e92138",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:10:52Z"
+ },
+ {
+  "id": "d789cafd835fa1df",
+  "source_url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+  "source": "The Verge",
+  "source_title": "How overhead projectors took over your classroom",
+  "source_summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students everywhere. […]",
+  "source_tags": [
+   "Gadgets",
+   "Podcasts",
+   "Tech",
+   "Version History"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-18T12:55:01+00:00",
+  "headline": "How Military‑Origin Overhead Projectors Reshaped Classrooms",
+  "body": [
+   {
+    "type": "p",
+    "text": "The overhead projector, originally developed for military training, entered schools in the mid‑20th century and quickly became a staple of classroom instruction. By projecting transparent sheets onto a screen, teachers could display diagrams, text and images to the entire class, reducing the need to write on chalkboards while they turned away."
+   },
+   {
+    "type": "p",
+    "text": "This shift altered classroom dynamics, giving students more visual material and changing how teachers managed discipline and attention. The technology also paved the way for later digital presentation tools, marking a key step in the evolution of educational equipment."
+   },
+   {
+    "type": "p",
+    "text": "While modern classrooms now rely on interactive whiteboards and projectors, the overhead projector’s legacy remains evident in today’s emphasis on visual learning and the integration of technology into everyday teaching."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the overhead projector’s origins highlights how military‑grade tech can reshape everyday learning, a pattern still seen as schools adopt new digital tools."
+   }
+  ],
+  "key_points": [
+   "Overhead projectors were adapted from military training equipment for school use.",
+   "Their adoption transformed classroom teaching methods and discipline practices.",
+   "They set the stage for later digital presentation technologies in education."
+  ],
+  "meta_description": "The overhead projector, a former military tool, changed classroom teaching and discipline, paving the way for modern educational tech.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "education",
+   "overhead projector",
+   "classroom technology",
+   "history",
+   "visual learning"
+  ],
+  "slug": "how-militaryorigin-overhead-projectors-reshaped-classrooms-d789ca",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:11:04Z"
+ },
+ {
+  "id": "aa90e25504d31b22",
+  "source_url": "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html",
+  "source": "The New York Times",
+  "source_title": "Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis",
+  "source_summary": "Record heat and a rising demand for electricity are closing in on Oklahoma families trying to keep the lights on and the AC running.",
+  "source_tags": [
+   "Data Centers",
+   "Electric Light and Power",
+   "Prices (Fares, Fees and Rates)",
+   "The Public Service Company of Oklahoma",
+   "Heat and Heat Waves"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/00oklahoma-electricity-01-jmfh/00oklahoma-electricity-01-jmfh-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T12:20:44+00:00",
+  "headline": "Oklahoma Families Grapple With Record Heat and Power Shortages",
+  "body": [
+   {
+    "type": "p",
+    "text": "Oklahoma is experiencing its hottest summer on record, pushing temperatures to unprecedented levels across the state. The extreme heat has driven a sharp increase in electricity usage as residents rely on air conditioning to stay safe and comfortable."
+   },
+   {
+    "type": "p",
+    "text": "Utility companies report that the surge in demand is straining the power grid, leading to concerns about rolling blackouts and higher electricity bills for households. Many families are struggling to keep lights on and cooling systems running amid the escalating crisis."
+   },
+   {
+    "type": "p",
+    "text": "State officials are monitoring the situation closely, urging consumers to conserve energy where possible and preparing contingency plans to address potential outages. The combination of record temperatures and limited power capacity underscores the growing vulnerability of the region’s energy infrastructure."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The crisis highlights how extreme weather can stress energy systems, a challenge increasingly relevant for both the United States and European nations facing similar climate impacts."
+   }
+  ],
+  "key_points": [
+   "Oklahoma is facing its hottest summer ever, driving record electricity demand.",
+   "The power grid is under strain, raising the risk of outages and higher bills for families.",
+   "State officials are urging energy conservation and preparing contingency measures."
+  ],
+  "meta_description": "Oklahoma's record heat is pushing electricity demand to the limit, threatening outages and higher bills for families.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Oklahoma",
+   "heat wave",
+   "electricity demand",
+   "energy crisis",
+   "power grid",
+   "climate impact"
+  ],
+  "slug": "oklahoma-families-grapple-with-record-heat-power-shortages-aa90e2",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:10:56Z"
+ },
+ {
+  "id": "a6c425b45f8a41f3",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo",
+  "source": "BBC News",
+  "source_title": "Ending corridor care in hospitals for children a priority, says health secretary",
+  "source_summary": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/072c/live/c5368950-cad0-11f1-b5ff-6fb710f59c84.jpg",
+  "published": "2026-10-18T12:09:04+00:00",
+  "headline": "UK Health Secretary Prioritises Ending Hospital Corridor Care for Children",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Health Secretary Yvette Cooper said the government will make ending the practice of treating children in hospital corridors a top priority. The move aims to ensure that paediatric patients receive care in appropriate, dedicated spaces rather than makeshift areas."
+   },
+   {
+    "type": "p",
+    "text": "Cooper also unveiled a £140 million investment in England’s urgent‑care system, timed to bolster services before the winter season. The funding is intended to expand capacity, reduce pressure on emergency departments and improve access to urgent care for families across the country."
+   },
+   {
+    "type": "p",
+    "text": "The initiatives form part of a broader effort to modernise the National Health Service and address longstanding concerns about the quality of child health services. Officials expect the changes to reduce waiting times and improve outcomes for young patients."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Improving child health services in the UK mirrors similar challenges faced by health systems in the US, Canada and Europe, highlighting the importance of dedicated paediatric care and winter preparedness."
+   }
+  ],
+  "key_points": [
+   "The UK government will focus on eliminating corridor care for children in hospitals.",
+   "A £140 million boost will be directed to England’s urgent‑care network ahead of winter.",
+   "The reforms aim to improve paediatric care quality and reduce pressure on emergency services."
+  ],
+  "meta_description": "UK Health Secretary Yvette Cooper pledges to end hospital corridor care for children and invest £140 m in urgent care ahead of winter.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "health",
+   "children",
+   "NHS",
+   "urgent care",
+   "UK government",
+   "winter"
+  ],
+  "slug": "uk-health-secretary-prioritises-ending-hospital-corridor-care-children-a6c425",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:11:00Z"
+ },
+ {
+  "id": "e72299f124a8f133",
+  "source_url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no",
+  "source": "BBC News",
+  "source_title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+  "source_summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d285/live/4704a830-cacd-11f1-b5ff-6fb710f59c84.jpg",
+  "published": "2026-10-18T12:07:31+00:00",
+  "headline": "Paris Streets Littered With Burnt Cars After Protests Escalate Into Riots",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nationwide demonstrations in France turned violent on Saturday, with scenes of burning vehicles and shattered glass reported on the streets of Paris. The unrest, which began as peaceful protests, quickly escalated into riots and looting across several cities."
+   },
+   {
+    "type": "p",
+    "text": "Police responded with a large-scale operation, resulting in the arrest of approximately 1,800 individuals. Authorities deployed additional forces to contain the disorder and restore order in affected neighborhoods."
+   },
+   {
+    "type": "p",
+    "text": "The incidents have prompted officials to condemn the vandalism and emphasize the need for calm, while urging citizens to cooperate with law‑enforcement efforts to prevent further damage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest highlights ongoing social tensions in France and may influence European security policies and travel advisories."
+   }
+  ],
+  "key_points": [
+   "Protests across France devolved into riots, leaving burnt cars and broken glass in Paris.",
+   "French police detained around 1,800 participants during the unrest.",
+   "Authorities are urging calm and cooperation to curb further violence."
+  ],
+  "meta_description": "Paris protests turned to riots, leaving burnt cars and shattered glass; about 1,800 arrests made across France.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "riots",
+   "arrests",
+   "public order"
+  ],
+  "slug": "paris-streets-littered-with-burnt-cars-after-protests-escalate-e72299",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:11:32Z"
+ },
+ {
+  "id": "eacc19697f65049b",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-6006791/greensboro-nc-students-protest-the-absence-of-early-voting-sites-on-campus",
+  "source": "NPR",
+  "source_title": "Greensboro, NC students protest the absence of early voting sites on campus",
+  "source_summary": "NPR's Ayesha Rascoe talks to North Carolina A&T student Shia Rozier about disappointment with early voting sites in Greensboro.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6006791",
+  "published": "2026-10-18T12:07:18+00:00",
+  "headline": "North Carolina A&T Students Protest Lack of Early Voting Sites",
+  "body": [
+   {
+    "type": "p",
+    "text": "Students at North Carolina Agricultural and Technical State University gathered in Greensboro to voice disappointment over the absence of early voting locations on their campus. The demonstration highlighted concerns that the limited number of sites forces voters to travel farther to cast ballots before Election Day."
+   },
+   {
+    "type": "p",
+    "text": "NPR reporter Ayesha Rascoe spoke with student Shia Rozier, who described the protest as a response to what many see as an unnecessary barrier to voter participation. Participants called on local officials to consider adding early‑voting facilities to the university grounds."
+   },
+   {
+    "type": "p",
+    "text": "The protest underscores a broader conversation about voting accessibility in North Carolina, a state that has seen recent legal battles over election rules. Organizers hope the demonstration will prompt policymakers to address the gap before upcoming elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Access to early voting sites can affect voter turnout, a concern for both U.S. and European observers of democratic participation."
+   }
+  ],
+  "key_points": [
+   "Students at North Carolina A&T staged a protest over the lack of on‑campus early voting sites.",
+   "The demonstration aims to pressure officials to add early‑voting locations at the university.",
+   "The issue reflects wider debates about voting access in North Carolina."
+  ],
+  "meta_description": "North Carolina A&T students protest the absence of early voting sites on campus, urging officials to improve voter access.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "voting",
+   "student protest",
+   "North Carolina",
+   "early voting",
+   "democracy"
+  ],
+  "slug": "north-carolina-t-students-protest-lack-early-voting-sites-eacc19",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:11:12Z"
+ },
+ {
+  "id": "6979ac6f4e965f84",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-6005279/what-role-does-the-white-house-press-secretary-play-in-the-trump-era",
+  "source": "NPR",
+  "source_title": "What role does the White House Press Secretary play in the Trump era?",
+  "source_summary": "NPR's Ayesha Rascoe asks Adm. John Kirby, who had spokesperson roles in the Obama and Biden administrations, about the utility of the role of the White House Press Secretary.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6005279",
+  "published": "2026-10-18T12:01:03+00:00",
+  "headline": "John Kirby Discusses White House Press Secretary Role in Trump Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent NPR interview, host Ayesha Rascoe questioned Admiral John Kirby, who previously served as a spokesperson in both the Obama and Biden administrations, about the function of the White House Press Secretary during former President Donald Trump's tenure."
+   },
+   {
+    "type": "p",
+    "text": "Kirby, drawing on his experience across three administrations, addressed how the press secretary’s duties were tested by the Trump era’s unconventional communication style and frequent media confrontations."
+   },
+   {
+    "type": "p",
+    "text": "The discussion highlighted the evolving expectations for the role, noting that the press secretary must balance delivering the administration’s message with managing a highly polarized press environment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding how the press secretary adapts to differing presidential communication styles informs expectations for future administrations in both the US and allied democracies."
+   }
+  ],
+  "key_points": [
+   "John Kirby, a former spokesperson for Obama and Biden, was asked to assess the press secretary’s utility under Trump.",
+   "He noted that the Trump administration’s communication approach posed unique challenges for the press secretary.",
+   "The role’s importance lies in navigating a divided media landscape while conveying official policy."
+  ],
+  "meta_description": "John Kirby reflects on the challenges faced by the White House Press Secretary during the Trump administration.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "White House",
+   "Press Secretary",
+   "John Kirby",
+   "Trump administration",
+   "media relations"
+  ],
+  "slug": "john-kirby-discusses-white-house-press-secretary-role-trump-6979ac",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:11:24Z"
+ },
+ {
+  "id": "a4cfa48e5145892c",
+  "source_url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+  "source": "The Verge",
+  "source_title": "Cities want to put the boot on robotaxis",
+  "source_summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The first state to pass a law […]",
+  "source_tags": [
+   "Autonomous Cars",
+   "Policy",
+   "Transportation"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-18T12:00:00+00:00",
+  "headline": "Cities Push New Restrictions on Robotaxi Operations",
+  "body": [
+   {
+    "type": "p",
+    "text": "Municipal leaders across the United States and Europe are moving to tighten regulations on autonomous ride‑hailing services, aiming to limit where and how robotaxis can operate. The effort follows the first state law that set baseline rules for driverless vehicles, prompting local governments to consider additional safeguards."
+   },
+   {
+    "type": "p",
+    "text": "City officials cite concerns about safety, traffic congestion, and the impact on public transit, and are drafting ordinances that could require permits, limit service zones, or impose caps on the number of robotaxi units on city streets. These measures are being discussed alongside broader debates on the integration of autonomous technology into existing transportation frameworks."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that while stricter local rules may slow the rollout of robotaxi fleets, they could also provide clearer standards for manufacturers and operators, potentially fostering public trust and smoother long‑term adoption."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European commuters, city-level limits could affect the availability and convenience of autonomous ride‑hailing services."
+   }
+  ],
+  "key_points": [
+   "Cities are drafting ordinances to restrict robotaxi service areas and numbers.",
+   "The push follows the first state law establishing baseline autonomous vehicle rules.",
+   "Regulators aim to balance safety and traffic concerns with the growth of driverless tech."
+  ],
+  "meta_description": "Cities are proposing new rules to limit robotaxi operations after the first state law sets baseline standards.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "robotaxis",
+   "autonomous vehicles",
+   "city regulation",
+   "transport policy",
+   "mobility"
+  ],
+  "slug": "cities-push-new-restrictions-robotaxi-operations-a4cfa4",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:11:16Z"
+ },
+ {
+  "id": "cccc77875e337510",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+  "source": "BBC News",
+  "source_title": "What is the Budget and what could be in it?",
+  "source_summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
+  "published": "2026-10-18T10:22:17+00:00",
+  "headline": "UK Chancellor John Healey to Unveil Tax Plans on Oct 28",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chancellor John Healey is set to present his tax proposals for the United Kingdom on 28 October. The announcement will outline the government's fiscal direction for the coming year."
+   },
+   {
+    "type": "p",
+    "text": "The upcoming briefing is expected to detail changes to tax rates and structures, providing insight into the Treasury's priorities. Stakeholders will be watching closely for the impact on businesses and individuals."
+   }
+  ],
+  "key_points": [
+   "Chancellor John Healey will announce UK tax plans on 28 October.",
+   "The briefing will reveal the government's fiscal priorities for the next year."
+  ],
+  "meta_description": "UK Chancellor John Healey will reveal his tax proposals on 28 October, outlining the government's fiscal agenda.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "budget",
+   "taxes",
+   "John Healey",
+   "finance"
+  ],
+  "slug": "uk-chancellor-john-healey-unveil-tax-plans-oct-28-cccc77",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:11:08Z"
+ },
+ {
+  "id": "fbefe16f07fd1e5b",
+  "source_url": "https://www.bbc.co.uk/sport/olympics/articles/cm0rl7504204o",
+  "source": "BBC Sport",
+  "source_title": "Finucane will 'come back fighting' after missing gold",
+  "source_summary": "Emma Finucane says she will \"come back fighting\" for gold medals after narrowly missing out on the top step in the Keirin.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a17/live/e8ce7230-cad3-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-18T09:24:40+00:00",
+  "headline": "Emma Finucane Vows to Return Fighting After Keirin Gold Miss",
+  "body": [
+   {
+    "type": "p",
+    "text": "British track cyclist Emma Finucane said she will \"come back fighting\" after narrowly missing the gold medal in the Keirin event. The statement came in the wake of her performance where she finished just off the top step."
+   },
+   {
+    "type": "p",
+    "text": "Finucane’s remarks underscore her determination to improve and aim for future podium finishes. She emphasized that the setback will fuel her preparation for upcoming competitions, though no specific events were mentioned."
+   },
+   {
+    "type": "p",
+    "text": "The cyclist’s resolve highlights the competitive nature of elite track cycling, where fractions of a second separate winners from runners‑up. Finucane’s commitment to bounce back reflects the broader drive among athletes to convert near‑misses into victories."
+   }
+  ],
+  "key_points": [
+   "Emma Finucane missed the gold medal in the Keirin.",
+   "She pledged to return fighting for future golds.",
+   "Her comments illustrate the fine margins in elite track cycling."
+  ],
+  "meta_description": "Emma Finucane vows to fight back after narrowly missing Keirin gold, promising future podium pursuits.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Emma Finucane",
+   "Keirin",
+   "track cycling",
+   "gold medal",
+   "athlete resilience"
+  ],
+  "slug": "emma-finucane-vows-return-fighting-after-keirin-gold-miss-fbefe1",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:11:28Z"
+ },
+ {
+  "id": "24b71d166ce82f0f",
+  "source_url": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
+  "source": "The New York Times",
+  "source_title": "3 Charts That Explain the Economy as Voters Head to the Polls",
+  "source_summary": "Inflation is high, consumer spending is strong and seemingly everything depends on what happens with artificial intelligence.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Inflation (Economics)",
+   "United States Economy",
+   "Consumer Behavior",
+   "Artificial Intelligence",
+   "Midterm Elections (2026)",
+   "American Enterprise Institute for Public Policy Research",
+   "CoreWeave",
+   "Trump, Donald J"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/2026-10-16-econ-elex-topper-index/2026-10-16-econ-elex-topper-index-mediumSquareAt3X-v5.png",
+  "published": "2026-10-18T09:00:50+00:00",
+  "headline": "Inflation High, Spending Strong as AI Shapes Election Outlook",
+  "body": [
+   {
+    "type": "p",
+    "text": "As voters head to the polls, three economic trends dominate the conversation: persistent high inflation, robust consumer spending, and the growing influence of artificial intelligence on policy debates. Data visualizations highlight that price pressures remain elevated across major categories, keeping household budgets tight despite wage gains."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, retail sales and online purchases continue to outpace pre‑pandemic levels, indicating that consumers are still confident enough to spend. Analysts point to low unemployment and steady disposable income as drivers of this resilience, even as inflation erodes purchasing power."
+   },
+   {
+    "type": "p",
+    "text": "The third chart underscores the central role of AI, with policymakers and candidates framing the technology as a decisive factor for future growth, job creation, and regulatory approaches. Voters are being asked to consider how AI will reshape industries and the broader economy as they cast their ballots."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European voters face similar economic pressures, and AI policy could affect transatlantic trade and investment."
+   }
+  ],
+  "key_points": [
+   "Inflation remains high, pressuring household budgets.",
+   "Consumer spending stays strong, buoyed by low unemployment.",
+   "Artificial intelligence is becoming a pivotal issue in election debates."
+  ],
+  "meta_description": "High inflation, strong spending and AI's election impact define the economic backdrop as voters head to the polls.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "inflation",
+   "consumer spending",
+   "artificial intelligence",
+   "elections",
+   "economy"
+  ],
+  "slug": "inflation-high-spending-strong-ai-shapes-election-outlook-24b71d",
+  "reading_minutes": 1,
+  "added": "2026-10-18T13:11:20Z"
+ },
+ {
   "id": "b615b2a69a1cb7c5",
   "source_url": "https://www.dw.com/en/why-starlink-is-so-important-for-ukraine/a-79689729?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
