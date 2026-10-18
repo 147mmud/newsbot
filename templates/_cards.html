@@ -1,5 +1,6 @@
 {% macro thumb(a, w, h, eager=False) %}
 <div class="thumb cat-{{ a.category }}" style="aspect-ratio:{{ w }}/{{ h }}">
+  <span class="thumb-ph" aria-hidden="true"><b>{{ categories[a.category] }}</b><small>{{ a.source }}</small></span>
   {% if site.USE_FEED_IMAGES and a.image %}
   <img src="{{ a.image }}" alt="" width="{{ w }}" height="{{ h }}"
        {% if eager %}fetchpriority="high"{% else %}loading="lazy"{% endif %} decoding="async"
