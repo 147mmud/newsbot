@@ -78,8 +78,15 @@
     var d = new Date(e.date);
     if (isNaN(d)) return e.detail || "";
     var today = new Date().toDateString() === d.toDateString();
-    return (today ? "" : d.toLocaleDateString([], { month: "short", day: "numeric" }) + " ") +
+    return (today ? "" : d.toLocaleDateString([], { weekday: "short" }) + " ") +
       d.toLocaleTimeString([], { hour: "numeric", minute: "2-digit" });
+  }
+
+  var PALETTE = ["#dc2626", "#2563eb", "#16a34a", "#d97706", "#7c3aed", "#0891b2", "#db2777", "#4b5563"];
+  function teamColor(name) {
+    var h = 0; name = String(name || "");
+    for (var i = 0; i < name.length; i++) h = (h * 31 + name.charCodeAt(i)) | 0;
+    return PALETTE[Math.abs(h) % PALETTE.length];
   }
 
   function render(events) {
@@ -90,22 +97,25 @@
     }
     track.innerHTML = events.map(function (e) {
       var a = e.teams[0], b = e.teams[1];
-      // ESPN lists home first for soccer header data; show away @ home style consistently
       if (a.home && !b.home) { var t = a; a = b; b = t; }
       var post = e.state === "post", sa = parseFloat(a.score), sb = parseFloat(b.score);
       var showScore = e.state !== "pre";
-      function row(x, win) {
-        return '<span class="t ' + (post ? (win ? "win" : "lose") : "") + '">' +
-          (x.logo ? '<img src="' + esc(x.logo) + '" alt="" loading="lazy" width="14" height="14">' : "") +
-          esc(x.abbr || x.name) + '</span><span class="s">' + (showScore ? esc(x.score) : "") + "</span>";
+      function row(x, win, lose) {
+        var label = x.abbr || x.name || "";
+        var badge = x.logo
+          ? '<span class="sb-badge"><img src="' + esc(x.logo) + '" alt="" loading="lazy" width="16" height="16"></span>'
+          : '<span class="sb-badge" style="background:' + teamColor(x.name || label) + '">' + esc(label.charAt(0)) + "</span>";
+        return '<div class="sb-team' + (post && win ? " win" : "") + (post && lose ? " lose" : "") + '">' + badge +
+          '<span class="t">' + esc(label) + '</span><span class="s">' + (showScore ? esc(x.score) : "–") + "</span></div>";
       }
+      var state = e.state === "in" ? "live" : (post ? "post" : "pre");
+      var chip = e.state === "in" ? (e.detail || "LIVE") : (post ? (e.detail && e.detail.length <= 6 ? e.detail : "FT") : timeLabel(e));
       var tag = e.link ? "a" : "div";
-      return "<" + tag + ' class="sb-card ' + (e.state === "in" ? "live" : "") + '"' +
+      return "<" + tag + ' class="sb-card ' + state + '"' +
         (e.link ? ' href="' + esc(e.link) + '" target="_blank" rel="noopener nofollow"' : "") +
         ' title="' + esc(a.name + " vs " + b.name) + '">' +
-        '<span class="sb-lg"><span>' + esc(e.league) + '</span><span class="sb-st">' +
-        esc(e.state === "in" ? (e.detail || "LIVE") : timeLabel(e)) + "</span></span>" +
-        row(a, sa > sb) + row(b, sb > sa) + "</" + tag + ">";
+        '<div class="sb-meta"><span class="sb-lg">' + esc(e.league) + '</span><span class="sb-chip">' + esc(chip) + "</span></div>" +
+        row(a, sa > sb, sa < sb) + row(b, sb > sa, sb < sa) + "</" + tag + ">";
     }).join("");
   }
 
@@ -153,6 +163,8 @@
   tabs.forEach(function (b) { b.addEventListener("click", function () { select(b.dataset.sport); }); });
   var next = bar.querySelector(".sb-next");
   if (next) next.addEventListener("click", function () { track.scrollLeft += track.clientWidth * 0.8; });
+  var prev = bar.querySelector(".sb-prev");
+  if (prev) prev.addEventListener("click", function () { track.scrollLeft -= track.clientWidth * 0.8; });
   document.addEventListener("visibilitychange", function () { if (!document.hidden) load(); });
 
   select(current);
