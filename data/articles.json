@@ -1,5 +1,653 @@
 [
  {
+  "id": "444e538032f96950",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do",
+  "source": "BBC News",
+  "source_title": "What we know so far about deadly fire at Canadian military base",
+  "source_summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
+  "published": "2026-10-18T21:16:42+00:00",
+  "headline": "Deadly Fire at Canadian Military Base Leaves At Least Four Dead",
+  "body": [
+   {
+    "type": "p",
+    "text": "A large blaze swept through a Canadian military installation, resulting in at least four confirmed fatalities."
+   },
+   {
+    "type": "p",
+    "text": "Emergency responders battled the flames as the fire spread across the base, but details about the cause or the extent of damage have not been released."
+   },
+   {
+    "type": "p",
+    "text": "Authorities are conducting investigations to determine the origins of the incident and to assess the impact on military operations."
+   }
+  ],
+  "key_points": [
+   "A major fire engulfed a Canadian military base.",
+   "At least four people have been confirmed dead.",
+   "Investigations are underway to establish the cause."
+  ],
+  "meta_description": "A deadly fire at a Canadian military base has killed at least four people, prompting investigations into its cause.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "military",
+   "fire",
+   "casualties",
+   "defense"
+  ],
+  "slug": "deadly-fire-canadian-military-base-leaves-least-four-dead-444e53",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:20:31Z"
+ },
+ {
+  "id": "fbab60fc894873c7",
+  "source_url": "https://www.bbc.co.uk/news/videos/c84g166kz003o",
+  "source": "BBC News",
+  "source_title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+  "source_summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2040/live/43727360-cb12-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-18T21:00:22+00:00",
+  "headline": "Chicago's South Side Confronts Surge of Synthetic Drugs Flooding City",
+  "body": [
+   {
+    "type": "p",
+    "text": "A fresh wave of synthetic substances is sweeping across the United States, intensifying concerns about an expanding drug crisis. In Chicago's South Side, residents and officials are confronting the rapid spread of these potent compounds, which have been linked to a rise in overdoses and community disruption."
+   },
+   {
+    "type": "p",
+    "text": "Local authorities report that the new synthetic drugs are easier to produce and distribute than traditional narcotics, complicating enforcement efforts. Community groups on the South Side are mobilising volunteers to raise awareness, distribute safety information, and support those affected by addiction."
+   },
+   {
+    "type": "p",
+    "text": "The situation in Chicago reflects a broader national trend, as law‑enforcement agencies in multiple states grapple with the influx of chemically engineered drugs. Health services are strained, and policymakers are urged to consider stronger regulatory and treatment measures to curb the growing threat."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rise of synthetic drugs in a major U.S. city signals a potential spillover risk for Europe, where similar substances could enter markets and strain health systems."
+   }
+  ],
+  "key_points": [
+   "Synthetic drugs are rapidly spreading across the U.S., with Chicago's South Side experiencing a sharp increase in use and related harms.",
+   "Local officials and community groups are intensifying outreach and enforcement to address the emerging crisis.",
+   "The surge mirrors a national pattern that is testing public‑health and law‑enforcement resources."
+  ],
+  "meta_description": "Chicago's South Side battles a surge of synthetic drugs, highlighting a growing U.S. crisis that may affect Europe.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "synthetic drugs",
+   "Chicago",
+   "drug crisis",
+   "South Side",
+   "public health"
+  ],
+  "slug": "chicago-s-south-side-confronts-surge-synthetic-drugs-flooding-fbab60",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:20:56Z"
+ },
+ {
+  "id": "cc7729738f3f655c",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-6007363/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
+  "source": "NPR",
+  "source_title": "Congress reacts to executive order exempting Russia from economic sanctions",
+  "source_summary": "NPR's Eric McDaniel reports on how Congress has reacted to President Trump's executive order exempting Russia from economic sanctions.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6007363",
+  "published": "2026-10-18T21:00:11+00:00",
+  "headline": "Congress Pushes Back on Trump's Order Exempting Russia From Sanctions",
+  "body": [
+   {
+    "type": "p",
+    "text": "Members of the House and Senate have voiced strong opposition to President Trump's recent executive order that lifts economic sanctions on Russia. Lawmakers argue the move undermines decades of diplomatic pressure and could reward behavior they deem hostile toward the United States and its allies."
+   },
+   {
+    "type": "p",
+    "text": "Several congressional leaders have announced plans to introduce legislation aimed at reinstating the sanctions or limiting the president's authority to alter them unilaterally. Hearings are expected in the coming weeks as committees examine the national security implications of the exemption."
+   },
+   {
+    "type": "p",
+    "text": "The debate highlights a growing partisan divide over foreign policy tools, with Republicans largely defending the president's discretion and Democrats urging a return to a coordinated sanctions strategy. The outcome may shape future U.S. leverage in negotiations with Moscow and affect allied coordination on Russia-related issues."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute signals a potential shift in U.S. foreign policy tools, affecting both American interests and transatlantic coordination on Russia."
+   }
+  ],
+  "key_points": [
+   "Congress is preparing legislative action to counter the president's sanction exemption for Russia.",
+   "Lawmakers claim the exemption weakens U.S. leverage and could embolden Russian aggression."
+  ],
+  "meta_description": "Congress moves to counter Trump's executive order that exempts Russia from sanctions, sparking a partisan debate over U.S. foreign policy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Russia",
+   "sanctions",
+   "Congress",
+   "executive order",
+   "US policy"
+  ],
+  "slug": "congress-pushes-back-trump-s-order-exempting-russia-from-cc7729",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:20:35Z"
+ },
+ {
+  "id": "9759730f8b52f135",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
+  "source": "NPR",
+  "source_title": "Political rivals implicated under Pakistan's anti-terror law",
+  "source_summary": "Pakistan's political showdown continues as more opposition figures are implicated under Pakistan's anti-terror law.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6004833",
+  "published": "2026-10-18T21:00:11+00:00",
+  "headline": "Pakistan Implicates More Opposition Leaders Under Anti‑Terror Law",
+  "body": [
+   {
+    "type": "p",
+    "text": "Pakistan's political landscape remains volatile as additional opposition figures have been named under the country's anti‑terror legislation. The move follows a series of high‑profile arrests that have intensified the rivalry between the ruling party and dissenting groups."
+   },
+   {
+    "type": "p",
+    "text": "Authorities say the individuals are linked to activities that threaten national security, though critics argue the law is being used to silence political opponents. The expanding list of implicated leaders underscores the government's broader crackdown on dissent ahead of upcoming elections."
+   },
+   {
+    "type": "p",
+    "text": "The developments have drawn attention from international observers who warn that the use of anti‑terror statutes in political disputes could undermine democratic norms and exacerbate regional instability."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The actions could affect regional stability and democratic standards, issues of interest to U.S. and European partners monitoring South Asian politics."
+   }
+  ],
+  "key_points": [
+   "More opposition leaders in Pakistan have been charged under the anti‑terror law.",
+   "Critics claim the law is being leveraged to suppress political dissent.",
+   "The crackdown raises concerns about democratic processes ahead of elections."
+  ],
+  "meta_description": "Pakistan expands anti‑terror law charges to additional opposition leaders, heightening political tensions ahead of elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pakistan",
+   "anti-terror law",
+   "opposition",
+   "political crackdown",
+   "democracy"
+  ],
+  "slug": "pakistan-implicates-more-opposition-leaders-under-antiterror-law-975973",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:21:08Z"
+ },
+ {
+  "id": "843e458e4e91ebd2",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-6001709/life-is-absolutely-brutal-in-gaza-says-world-food-programme-head",
+  "source": "NPR",
+  "source_title": "'Life is absolutely brutal in Gaza,' says World Food Programme head",
+  "source_summary": "The UN's World Food Programme says 1.4 million people in Gaza are suffering acute food shortages and that funding gaps are forcing cutbacks in critical aid, despite the U.S. brokered Hamas-Israel ceasefire.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6001709",
+  "published": "2026-10-18T21:00:08+00:00",
+  "headline": "World Food Programme Says 1.4 Million Gaza Residents Face Acute Food Shortages",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United Nations World Food Programme (WFP) reports that about 1.4 million people in Gaza are experiencing acute food shortages. The agency says the scarcity is severe enough to threaten basic survival for a large portion of the population."
+   },
+   {
+    "type": "p",
+    "text": "According to the WFP, funding shortfalls are forcing the organization to scale back critical assistance, even as a U.S.-brokered ceasefire between Hamas and Israel remains in place. The cuts affect the delivery of essential food supplies and nutrition programs that were intended to stabilize the humanitarian situation."
+   },
+   {
+    "type": "p",
+    "text": "The agency warned that without additional resources, the ability to meet urgent nutritional needs will deteriorate further, potentially expanding the crisis beyond the current estimates."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The worsening food crisis in Gaza could destabilize the region and increase pressure on international donors, including the United States and European nations, to provide additional humanitarian aid."
+   }
+  ],
+  "key_points": [
+   "The WFP says 1.4 million Gaza residents are in acute food shortage.",
+   "Funding gaps are causing the UN agency to reduce essential aid deliveries.",
+   "The cuts come despite a U.S.-mediated ceasefire between Hamas and Israel."
+  ],
+  "meta_description": "WFP warns 1.4 million Gaza residents face acute food shortages as funding gaps force aid cutbacks despite a U.S.-brokered ceasefire.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Gaza",
+   "World Food Programme",
+   "food aid",
+   "humanitarian crisis",
+   "ceasefire",
+   "funding gaps"
+  ],
+  "slug": "world-food-programme-says-1-4-million-gaza-residents-843e45",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:21:16Z"
+ },
+ {
+  "id": "d2bbffc6feaeca36",
+  "source_url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+  "source": "TechCrunch",
+  "source_title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+  "source_summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+  "source_tags": [
+   "Venture"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-18T21:00:00+00:00",
+  "headline": "Benchmark Partners Emphasize Cohesion Amid Fund Growth and Turnover",
+  "body": [
+   {
+    "type": "p",
+    "text": "Benchmark, one of Silicon Valley’s most storied venture firms, recently highlighted the continuity among its remaining partners despite recent fund expansion and partner changes. Onstage, the five partners present described their collaboration as a close‑knit group focused on steady investment activity rather than rapid exits."
+   },
+   {
+    "type": "p",
+    "text": "The firm’s latest fundraising efforts have increased the size of its capital pools, allowing it to back more startups across the technology sector. While some partners have departed, the current leadership stresses a deliberate, low‑pressure approach to deal‑making, aiming to support founders without imposing aggressive timelines."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that Benchmark’s emphasis on a calm, friend‑like dynamic among its partners may differentiate it from other venture firms that chase quick returns. The firm’s strategy appears rooted in long‑term partnership with portfolio companies, reflecting its historic reputation in the Valley."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Benchmark’s steady‑hand strategy offers a contrast to the high‑velocity venture climate, influencing how tech startups secure financing in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Benchmark has grown its funds while maintaining a small, cohesive partner team.",
+   "The remaining partners describe their collaboration as friendly and low‑pressure.",
+   "The firm’s approach focuses on steady support for startups rather than rapid exits."
+  ],
+  "meta_description": "Benchmark expands funds and retains a close‑knit partner team, emphasizing low‑pressure investment in a fast‑moving market.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "venture capital",
+   "Silicon Valley",
+   "Benchmark",
+   "startup funding",
+   "investment strategy"
+  ],
+  "slug": "benchmark-partners-emphasize-cohesion-amid-fund-growth-turnover-d2bbff",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:20:39Z"
+ },
+ {
+  "id": "cef1d05c75250eda",
+  "source_url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+  "source": "TechCrunch",
+  "source_title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+  "source_summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+  "source_tags": [
+   "AI",
+   "Anthropic"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-18T20:37:40+00:00",
+  "headline": "Anthropic Says It’s Committing 5% of Its Shares to a ‘Public Benefit Fund’",
+  "body": [
+   {
+    "type": "p",
+    "text": "In technology news, TechCrunch reports:"
+   },
+   {
+    "type": "quote",
+    "text": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "cite": "TechCrunch"
+   }
+  ],
+  "key_points": [],
+  "meta_description": "Anthropic said that it will commit 5% of its shares to the fund.",
+  "category": "tech",
+  "mode": "offline",
+  "index": false,
+  "tags": [
+   "Anthropic"
+  ],
+  "slug": "anthropic-says-its-committing-5-its-shares-public-benefit-cef1d0",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:20:52Z"
+ },
+ {
+  "id": "3bd4a10ac85d6f64",
+  "source_url": "https://www.nytimes.com/2026/10/18/us/politics/ukraine-sudan-tps-trump.html",
+  "source": "The New York Times",
+  "source_title": "Migrants From Ukraine and Sudan to Keep Deportation Protections for Now",
+  "source_summary": "Temporary Protected Status for the two countries was set to expire on Monday. The Trump administration said an announcement would be made “at the appropriate time.”",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "Temporary Protected Status (US Immigration)",
+   "Russian Invasion of Ukraine (2022)",
+   "Deportation",
+   "Homeland Security Department",
+   "Republican Party",
+   "Biden, Joseph R Jr",
+   "Trump, Donald J",
+   "Zelensky, Volodymyr"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18dc-tps-ukraine-zjpk/18dc-tps-ukraine-zjpk-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T20:14:32+00:00",
+  "headline": "Deportation Protections Remain for Ukrainian and Sudanese Migrants",
+  "body": [
+   {
+    "type": "p",
+    "text": "Temporary Protected Status for nationals of Ukraine and Sudan, which was slated to end on Monday, will continue for now. The U.S. government has not lifted the protections, leaving the legal shield against deportation in place for those groups."
+   },
+   {
+    "type": "p",
+    "text": "The Trump administration indicated that a formal announcement regarding the future of the program will be made \"at the appropriate time.\" No specific timeline or details were provided in the statement, and the status of the protections remains unchanged pending further guidance."
+   },
+   {
+    "type": "p",
+    "text": "The extension means that Ukrainian and Sudanese migrants currently residing in the United States can maintain their work authorization and remain protected from removal while officials determine the next steps for the program."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The continuation of TPS affects thousands of Ukrainian and Sudanese residents in the U.S., influencing immigration policy and labor markets."
+   }
+  ],
+  "key_points": [
+   "Temporary Protected Status for Ukraine and Sudan has not expired as originally scheduled.",
+   "The Trump administration will announce the program's future at a later date.",
+   "Migrants from both countries retain protection from deportation for now."
+  ],
+  "meta_description": "Ukrainian and Sudanese migrants keep deportation protection as TPS extension is delayed, pending a future announcement.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Temporary Protected Status",
+   "immigration",
+   "Ukraine",
+   "Sudan",
+   "deportation",
+   "U.S. policy"
+  ],
+  "slug": "deportation-protections-remain-ukrainian-sudanese-migrants-3bd4a1",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:20:47Z"
+ },
+ {
+  "id": "55b04642f35f6c77",
+  "source_url": "https://www.nytimes.com/2026/10/18/us/politics/trump-endorses-netanyahu-election-israel.html",
+  "source": "The New York Times",
+  "source_title": "Trump Endorses Netanyahu as Best U.S. Partner in Tight Israeli Election",
+  "source_summary": "The president praised the embattled prime minister for his endurance, saying any other candidate would be the “wrong Leader.”",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "Endorsements",
+   "Netanyahu, Benjamin",
+   "Trump, Donald J",
+   "Israel"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18dc-israel-elex-trump-gwkh/18dc-israel-elex-trump-gwkh-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T20:09:12+00:00",
+  "headline": "Trump Endorses Netanyahu as Israel’s Top U.S. Partner, Calls Others Wrong Leaders in Tight Election and Praises His Endurance",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump publicly backed Israeli Prime Minister Benjamin Netanyahu, describing him as the best partner the United States has in the current Israeli election. Trump highlighted Netanyahu’s endurance amid the political turmoil, saying the prime minister’s experience makes him the most reliable ally for Washington."
+   },
+   {
+    "type": "p",
+    "text": "The endorsement came as Israel heads toward a closely contested vote, with several candidates vying for leadership. Trump warned that any alternative to Netanyahu would be the “wrong leader,” implying that a change in Jerusalem could weaken the bilateral relationship."
+   },
+   {
+    "type": "p",
+    "text": "Trump’s comments reflect his ongoing involvement in foreign affairs and signal to U.S. policymakers that the administration views a stable, pro‑U.S. government in Israel as a strategic priority."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The endorsement underscores the United States’ interest in a stable, pro‑American government in Israel, a key ally in the Middle East."
+   }
+  ],
+  "key_points": [
+   "President Trump endorsed Benjamin Netanyahu as Israel’s best U.S. partner in a tight election.",
+   "Trump said any other candidate would be the “wrong leader.”",
+   "He praised Netanyahu’s endurance and experience."
+  ],
+  "meta_description": "President Trump backs Netanyahu as Israel’s top U.S. partner, calling other candidates wrong leaders amid a close election.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Benjamin Netanyahu",
+   "Israel election",
+   "U.S.-Israel relations",
+   "foreign policy"
+  ],
+  "slug": "trump-endorses-netanyahu-israels-top-u-s-partner-calls-55b046",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:21:00Z"
+ },
+ {
+  "id": "cdd5d0fe64cff999",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c3qjnyw8qe4do",
+  "source": "BBC Sport",
+  "source_title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
+  "source_summary": "Noni Madueke may not have the role he wants at Arsenal but his winning goal against Nottingham Forest showed why he is one of Mikel Arteta's valued players.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30fd/live/9dd03a10-cb1f-11f1-bfba-6f29101eb4a3.jpg",
+  "published": "2026-10-18T19:55:41+00:00",
+  "headline": "Madueke’s Conviction Powers Arsenal Past Nottingham Forest",
+  "body": [
+   {
+    "type": "p",
+    "text": "Noni Madueke delivered a decisive strike for Arsenal in their recent Premier League clash with Nottingham Forest, securing a 2-1 victory. The winger’s goal, described by observers as a product of “anger and conviction,” highlighted his determination on the pitch."
+   },
+   {
+    "type": "p",
+    "text": "While Madueke has hinted that his preferred role at the club remains unsettled, manager Mikel Arteta praised the performance, noting the player’s importance to the squad’s attacking options. The win adds three points to Arsenal’s league tally as they continue to chase a top‑four finish."
+   },
+   {
+    "type": "p",
+    "text": "The match underscored the depth of Arsenal’s roster, with Madueke’s contribution serving as a reminder that the team can rely on multiple creators beyond its established stars. His display may influence future selection decisions as the season progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Arsenal’s push for a top‑four finish impacts the Premier League’s European qualification race, affecting clubs and fans across the UK and Europe."
+   }
+  ],
+  "key_points": [
+   "Maduek​e scored the winning goal against Nottingham Forest, showcasing his intensity.",
+   "Arsenal manager Mikel Arteta highlighted the winger’s value despite role uncertainties.",
+   "The victory keeps Arsenal in contention for a Champions League spot."
+  ],
+  "meta_description": "Noni Madueke's winning goal and evident conviction helped Arsenal beat Nottingham Forest, reinforcing his value to Mikel Arteta's side.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Premier League",
+   "Noni Madueke",
+   "Nottingham Forest",
+   "Mikel Arteta"
+  ],
+  "slug": "maduekes-conviction-powers-arsenal-past-nottingham-forest-cdd5d0",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:20:44Z"
+ },
+ {
+  "id": "61a775e3e3e0dced",
+  "source_url": "https://www.nytimes.com/2026/10/18/us/politics/midterms-2028-presidential-race-democrats-republicans.html",
+  "source": "The New York Times",
+  "source_title": "2028 Presidential ‘Shadow Primary’ Descends on the Midterm Elections",
+  "source_summary": "The schedule is especially packed in New Hampshire, an early presidential nominating state where there is a competitive Senate race Democrats are flocking to this month.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Presidential Election of 2028",
+   "Democratic Party",
+   "Republican Party",
+   "Cruz, Ted",
+   "Newsom, Gavin",
+   "Harris, Kamala D",
+   "Vance, J D"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18pol-2028-midterms-kzpw/18pol-2028-midterms-kzpw-mediumSquareAt3X.jpg",
+  "published": "2026-10-18T19:47:09+00:00",
+  "headline": "2028 Shadow Primary Hits Midterms, New Hampshire Becomes Battleground",
+  "body": [
+   {
+    "type": "p",
+    "text": "The 2028 presidential ‘shadow primary’ is set to unfold alongside the 2026 midterm elections, creating a crowded political calendar. The term “shadow primary” refers to early-stage contests that allow candidates to gauge support before the official nomination process begins."
+   },
+   {
+    "type": "p",
+    "text": "New Hampshire, traditionally an early presidential nominating state, will host a particularly dense schedule of events this month. In addition to the shadow primary activities, the state is also witnessing a competitive Senate race that has drawn significant attention from Democratic operatives."
+   },
+   {
+    "type": "p",
+    "text": "Democrats are concentrating resources in New Hampshire during this period, aiming to influence both the emerging presidential field and the closely watched Senate contest. The overlap of these races is expected to intensify campaign activity and voter outreach in the Granite State."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The convergence of presidential and Senate contests in a key early‑state could shape party momentum heading into the 2028 election cycle."
+   }
+  ],
+  "key_points": [
+   "The 2028 shadow primary coincides with the 2026 midterm elections, adding complexity to the campaign timeline.",
+   "New Hampshire’s early nominating status and a tight Senate race make it a focal point for Democratic strategy."
+  ],
+  "meta_description": "2028 shadow primary overlaps midterms, making New Hampshire a hot spot for Democrats amid a tight Senate race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "2028 election",
+   "shadow primary",
+   "midterms",
+   "New Hampshire",
+   "Senate race",
+   "Democrats"
+  ],
+  "slug": "2028-shadow-primary-hits-midterms-new-hampshire-becomes-battleground-61a775",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:21:11Z"
+ },
+ {
+  "id": "c07d5421329f7f28",
+  "source_url": "https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review",
+  "source": "The Verge",
+  "source_title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
+  "source_summary": "Mister Organ doesn't reach the level of societal horror of The Act of Killing or the creepypasta-meets-true-crime gruesomeness of Beware the Slenderman, but there's something deeply unsettling about Michael Organ and his intimate campaign of terror against everyone who enters his life. Mister Organ is a documentary by David Farrier, an Auckland, New Zealand journalist. […]",
+  "source_tags": [
+   "Column",
+   "Entertainment",
+   "Film",
+   "Movie Review"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Mister-Organ-poster.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-18T19:30:00+00:00",
+  "headline": "Documentary “Mister Organ” Delivers an Unsettling Look at a Personal Terror Campaign",
+  "body": [
+   {
+    "type": "p",
+    "text": "David Farrier, an investigative journalist from Auckland, New Zealand, directs the new documentary “Mister Organ.” The film follows Michael Organ and his intimate campaign of terror against anyone who enters his life, presenting a portrait that many reviewers describe as deeply unsettling."
+   },
+   {
+    "type": "p",
+    "text": "While the documentary does not reach the societal horror of works like “The Act of Killing” or the creepypasta‑meets‑true‑crime intensity of “Beware the Slenderman,” it still manages to leave a lingering sense of dread. Farrier’s approach combines personal interviews and archival material to trace Organ’s pattern of intimidation and violence."
+   },
+   {
+    "type": "p",
+    "text": "The Verge’s review, published on October 18, 2026, notes that the film’s power lies in its focus on the ordinary‑looking perpetrator rather than graphic spectacle, making the story feel closer to home for viewers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The film adds to the growing true‑crime documentary genre, offering Western audiences insight into how personal terror can unfold in ordinary settings."
+   }
+  ],
+  "key_points": [
+   "“Mister Organ” is a documentary by New Zealand journalist David Farrier about Michael Organ’s personal terror campaign.",
+   "The film is described as unsettling but less graphically horrific than “The Act of Killing” or “Beware the Slenderman.”",
+   "Reviewers highlight the documentary’s intimate focus on the perpetrator’s everyday interactions."
+  ],
+  "meta_description": "David Farrier's documentary “Mister Organ” examines Michael Organ’s intimate terror campaign, delivering an unsettling true‑crime portrait.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "documentary",
+   "true crime",
+   "Michael Organ",
+   "David Farrier",
+   "film review",
+   "New Zealand"
+  ],
+  "slug": "documentary-mister-organ-delivers-unsettling-look-personal-terror-campaign-c07d54",
+  "reading_minutes": 1,
+  "added": "2026-10-18T21:21:04Z"
+ },
+ {
   "id": "214775273f2c610d",
   "source_url": "https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html",
   "source": "The New York Times",
