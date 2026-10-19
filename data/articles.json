@@ -1,5 +1,687 @@
 [
  {
+  "id": "550f6b595a9478c9",
+  "source_url": "https://www.nytimes.com/2026/10/19/business/electric-vw-bus-kindred-idbuzz.html",
+  "source": "The New York Times",
+  "source_title": "The VW Bus, Now Electrified, Keeps on Truckin’",
+  "source_summary": "A restored version of Volkswagen’s Flower Power-era Microbus, kitted out by Kindred Motorworks, is aiming for the affluent, while VW’s own E.V. is slow to get moving, much like its forebear.",
+  "source_tags": [
+   "Electric and Hybrid Vehicles",
+   "Shopping and Retail",
+   "Volkswagen AG",
+   "Kindred Motorworks"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/19/business/19wheels-microbus1/19wheels-microbus1-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T11:06:00+00:00",
+  "headline": "Electrified VW Microbus Revives Iconic Design for Luxury Market",
+  "body": [
+   {
+    "type": "p",
+    "text": "A newly restored Volkswagen Microbus from the Flower Power era has been upgraded with an electric drivetrain by boutique builder Kindred Motorworks. The conversion retains the classic silhouette while adding modern battery technology, positioning the vehicle as a premium offering for affluent buyers seeking nostalgic style with zero‑emission performance."
+   },
+   {
+    "type": "p",
+    "text": "Volkswagen’s own electric version of the Microbus, meanwhile, has experienced a slower rollout, echoing the delayed momentum of the original model’s early years. Industry observers note that the company’s cautious approach contrasts with Kindred’s rapid, custom‑focused development, highlighting divergent strategies within the legacy brand and independent converters."
+   },
+   {
+    "type": "p",
+    "text": "The Kindred‑modified bus aims to capture a niche market that values both heritage design and sustainable mobility, potentially setting a benchmark for luxury electric conversions of classic automobiles."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The revival of a cultural automotive icon in electric form reflects shifting consumer preferences toward sustainable luxury, a trend relevant to both U.S. and European markets."
+   }
+  ],
+  "key_points": [
+   "Kindred Motorworks has created an electric conversion of the iconic VW Flower Power Microbus for high‑end consumers.",
+   "Volkswagen’s official electric Microbus launch has been slower than expected, mirroring the original model’s early challenges.",
+   "The project underscores a growing demand for premium, retro‑styled electric vehicles."
+  ],
+  "meta_description": "Kindred Motorworks electrifies a classic VW Microbus for luxury buyers as VW's own EV version lags behind.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Volkswagen",
+   "electric vehicles",
+   "luxury market",
+   "retro design",
+   "automotive innovation"
+  ],
+  "slug": "electrified-vw-microbus-revives-iconic-design-luxury-market-550f6b",
+  "reading_minutes": 1,
+  "added": "2026-10-19T11:11:14Z"
+ },
+ {
+  "id": "794e7d46a700135d",
+  "source_url": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
+  "source": "The Verge",
+  "source_title": "The Maeving RM2 is high-style electric riding with a few compromises",
+  "source_summary": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly different attitudes. Among this class, the Maeving RM2 stands out. It has […]",
+  "source_tags": [
+   "Electric Bikes",
+   "Reviews",
+   "Rideables",
+   "Tech",
+   "Transportation"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-Maeving-RM2-013.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-19T11:00:00+00:00",
+  "headline": "Maeving RM2 Elevates Electric Two‑Wheeler Market With Premium Styling",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Maeving RM2 joins a rapidly expanding segment of electric two‑wheelers that bridge the gap between high‑end scooters and entry‑level motorcycles. The model offers avant‑garde design and a performance envelope aimed at riders seeking both style and practicality."
+   },
+   {
+    "type": "p",
+    "text": "Positioned alongside rivals such as the Infinite Machine P1 and BMW CE 02, the RM2 distinguishes itself with a focus on high‑style aesthetics, though reviewers note it carries certain compromises compared with its competitors."
+   },
+   {
+    "type": "p",
+    "text": "The growing popularity of these hybrid electric bikes reflects a broader shift toward urban mobility solutions that combine sleek looks with accessible performance, appealing to commuters and enthusiasts in major cities worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The RM2 illustrates how electric two‑wheelers are evolving to meet demand for fashionable, city‑friendly transport in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The Maeving RM2 targets the niche between premium scooters and entry‑level electric motorcycles.",
+   "Its design emphasizes high‑style, but reviewers point out performance trade‑offs.",
+   "The model is part of a wider trend of stylish, urban‑focused electric two‑wheelers."
+  ],
+  "meta_description": "Maeving RM2 brings premium styling to the growing electric scooter‑motorcycle hybrid market, though with noted compromises.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "electric vehicles",
+   "two-wheeler",
+   "urban mobility",
+   "Maeving",
+   "motorcycle"
+  ],
+  "slug": "maeving-rm2-elevates-electric-twowheeler-market-with-premium-styling-794e7d",
+  "reading_minutes": 1,
+  "added": "2026-10-19T11:11:18Z"
+ },
+ {
+  "id": "38266651f0fb0ce0",
+  "source_url": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
+  "source": "The New York Times",
+  "source_title": "How a Trillion-Dollar Industry Launders Illegal Gold",
+  "source_summary": "The line between dirty and clean gold is an industry fiction. Wall Street and governments profit off gold from criminals, gangsters and those who exploit children.",
+  "source_tags": [
+   "vis-photo",
+   "Metals and Minerals",
+   "Mines and Mining",
+   "Child Labor",
+   "Gold",
+   "Human Rights and Human Rights Violations",
+   "Madagascar",
+   "Refineries",
+   "Organized Crime"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/09/25/multimedia/00int-dirty-gold-promo-new-bfvg/00int-dirty-gold-promo-new-bfvg-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T10:57:34+00:00",
+  "headline": "Gold Trade Masks Criminal Origins in Trillion‑Dollar Industry",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new investigation reveals that the distinction between \"clean\" and \"dirty\" gold is largely a fiction created by the industry. Financial institutions and governments continue to profit from gold that originates with criminals, gangsters, and operations that exploit child labor."
+   },
+   {
+    "type": "p",
+    "text": "The report shows that gold extracted through illegal means is funneled into the global market, where it is mixed with legally sourced metal, making it difficult for regulators and consumers to trace its provenance. This laundering process allows illicit profits to be laundered alongside legitimate investments."
+   },
+   {
+    "type": "p",
+    "text": "Experts warn that the lack of transparent supply‑chain standards enables the continued flow of tainted gold, undermining efforts to combat organized crime and human rights abuses linked to mining operations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European investors, the hidden criminal origins of gold raise ethical and financial risks, highlighting the need for stricter supply‑chain transparency."
+   }
+  ],
+  "key_points": [
+   "The clean‑versus‑dirty gold distinction is an industry‑created myth.",
+   "Wall Street firms and governments profit from gold tied to criminal activity and child exploitation.",
+   "Lack of traceability lets illegal gold enter mainstream markets."
+  ],
+  "meta_description": "Investigation shows gold industry masks criminal origins, letting Wall Street and governments profit from illegal and child‑labour linked gold.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "gold laundering",
+   "illegal mining",
+   "financial crime",
+   "supply chain transparency",
+   "human rights"
+  ],
+  "slug": "gold-trade-masks-criminal-origins-trilliondollar-industry-382666",
+  "reading_minutes": 1,
+  "added": "2026-10-19T11:11:22Z"
+ },
+ {
+  "id": "6567a8265becb0ad",
+  "source_url": "https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "From delivery driver to global fame: A Korean writer's journey",
+  "source_summary": "You Yeong-Gwang's The Rainfall Market tells the story of a mysterious, hidden shop that only opens when it rains. For a debut novel by an unknown author, it was a massive success.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79698633_6.jpg",
+  "published": "2026-10-19T10:55:00+00:00",
+  "headline": "Korean Debut Novel 'The Rainfall Market' Becomes Global Sensation",
+  "body": [
+   {
+    "type": "p",
+    "text": "South Korean author You Yeong-Gwang has captured international attention with his first novel, \"The Rainfall Market.\" The story follows a secret shop that opens only when it rains, weaving mystery and intrigue that resonated with readers worldwide."
+   },
+   {
+    "type": "p",
+    "text": "Despite being an unknown writer before the book's release, the novel achieved massive commercial success, quickly climbing bestseller lists and drawing interest from foreign publishers. Critics have praised its imaginative premise and atmospheric storytelling, noting its appeal across cultural boundaries."
+   },
+   {
+    "type": "p",
+    "text": "The unexpected popularity of \"The Rainfall Market\" highlights the growing global appetite for contemporary Korean literature, following the recent wave of Korean cultural exports in film, music and television."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The novel's rapid rise reflects the expanding influence of Korean culture abroad, offering readers new literary voices from the region."
+   }
+  ],
+  "key_points": [
+   "You Yeong-Gwang's debut novel centers on a hidden shop that appears only during rain.",
+   "The book became a bestseller internationally despite the author's prior anonymity.",
+   "Its success underscores rising global interest in modern Korean fiction."
+  ],
+  "meta_description": "Korean debut novel 'The Rainfall Market' becomes a global bestseller, spotlighting rising interest in Korean literature.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Korean literature",
+   "debut novel",
+   "bestseller",
+   "cultural export",
+   "fiction"
+  ],
+  "slug": "korean-debut-novel-rainfall-market-becomes-global-sensation-6567a8",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-19T11:11:43Z"
+ },
+ {
+  "id": "f3deb8555cf117a0",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo",
+  "source": "BBC News",
+  "source_title": "Reform MSP quits party to sit as independent",
+  "source_summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/756b/live/81864d10-cba9-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-19T10:52:43+00:00",
+  "headline": "Reform MSP Amanda Bland Leaves Party, Becomes Independent",
+  "body": [
+   {
+    "type": "p",
+    "text": "Amanda Bland, a member of the Scottish Parliament for the Reform Party, announced she will resign from the party and sit as an independent MP. Her departure reduces the Reform Party's representation at Holyrood, moving it to the third‑largest group in the chamber."
+   },
+   {
+    "type": "p",
+    "text": "With Bland's exit, the Reform Party now has one fewer seat than Labour, narrowing the gap between the two opposition groups. The shift may affect voting dynamics on upcoming legislative debates, as the balance of power among smaller parties becomes more pronounced."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The change alters the composition of Scotland's parliament, potentially influencing legislative outcomes that affect UK and European policy areas."
+   }
+  ],
+  "key_points": [
+   "Amanda Bland quits the Reform Party to become an independent MSP.",
+   "The Reform Party falls to the third‑largest group at Holyrood, trailing Labour by one seat."
+  ],
+  "meta_description": "Reform MSP Amanda Bland leaves her party, becoming independent and dropping the Reform Party to third place at Holyrood.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Scotland",
+   "Holyrood",
+   "Reform Party",
+   "Independent",
+   "Party Switch"
+  ],
+  "slug": "reform-msp-amanda-bland-leaves-party-becomes-independent-f3deb8",
+  "reading_minutes": 1,
+  "added": "2026-10-19T11:11:26Z"
+ },
+ {
+  "id": "813fdc139e0bbeac",
+  "source_url": "https://www.nytimes.com/2026/10/19/us/politics/midterms-republican-spending-edge.html",
+  "source": "The New York Times",
+  "source_title": "That Huge Republican Cash Edge? It’s in Senate Races, Not House Races.",
+  "source_summary": "With Republicans seen as less likely to hold their majority in the House, the party is focusing more on the battle for the Senate, where it is vastly outspending Democrats on ads.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Elections, Senate",
+   "Elections, House of Representatives",
+   "Midterm Elections (2026)",
+   "Political Advertising",
+   "Campaign Finance",
+   "Democratic Party",
+   "Republican Party",
+   "House of Representatives",
+   "Senate"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-19T10:52:43+00:00",
+  "headline": "Republicans Pour Record Cash Into Senate Races, Outspending Democrats",
+  "body": [
+   {
+    "type": "p",
+    "text": "Facing a slim chance of retaining control of the House, the Republican Party is shifting its fundraising and advertising muscle to the Senate contests. Campaign finance data show GOP groups are spending dramatically more on Senate ads than their Democratic counterparts, a stark contrast to the relatively even spending seen in House races."
+   },
+   {
+    "type": "p",
+    "text": "Analysts say the strategy reflects the party’s calculation that a few pivotal Senate seats could shape the legislative agenda for the next two years, even if the House remains under Democratic control. The surge in Republican ad buys is concentrated in battleground states where Senate outcomes are still uncertain."
+   },
+   {
+    "type": "p",
+    "text": "Democrats, while still outspending Republicans in many House districts, are trailing in the Senate ad market, prompting both parties to intensify their messaging ahead of the November elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Senate control determines the ability to confirm judges and shape major legislation, making the funding gap a critical factor for voters in both the U.S. and allied democracies."
+   }
+  ],
+  "key_points": [
+   "Republicans are outspending Democrats on Senate ads by a wide margin.",
+   "The party is redirecting resources to Senate races as House control looks doubtful.",
+   "Campaign spending patterns suggest Senate outcomes will heavily influence the next Congress."
+  ],
+  "meta_description": "Republicans are outspending Democrats on Senate ads as they focus on key races, reflecting a strategic shift from the House.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Republicans",
+   "Senate",
+   "campaign finance",
+   "elections",
+   "advertising",
+   "House"
+  ],
+  "slug": "republicans-pour-record-cash-into-senate-races-outspending-democrats-813fdc",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-19T11:11:46Z"
+ },
+ {
+  "id": "bb9c2a4ab733ae2c",
+  "source_url": "https://www.nytimes.com/2026/10/19/world/australia/helen-haines-mp-attacked-wangaratta-australia.html",
+  "source": "The New York Times",
+  "source_title": "Australian Lawmaker Helen Haines Injured After Attack, Prime Minister Says",
+  "source_summary": "A suspect is in custody and the country’s counterterrorism team was activated after Helen Haines, 65, was struck by a car outside her office.",
+  "source_tags": [
+   "Politics and Government",
+   "Threats and Threatening Messages",
+   "Assaults",
+   "Police",
+   "Albanese, Anthony (1963- )",
+   "Australia",
+   "Victoria (Australia)",
+   "Wangaratta (Australia)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-oz-lawmaker-gktw/19int-oz-lawmaker-gktw-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T10:52:29+00:00",
+  "headline": "Australian Lawmaker Helen Haines Injured in Car Attack, Suspect Arrested",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australian federal lawmaker Helen Haines, 65, was seriously injured after a vehicle struck her outside her office, Prime Minister Anthony Albanese said on Wednesday. The incident prompted an immediate response from the nation's counterterrorism team, which was activated to investigate the motive and secure the area."
+   },
+   {
+    "type": "p",
+    "text": "Police quickly apprehended a suspect believed to be involved in the attack, and the individual is now in custody pending further investigation. Authorities have not released details about the suspect's identity or any potential links to extremist groups."
+   },
+   {
+    "type": "p",
+    "text": "Haines, a member of the House of Representatives, was transported to a local hospital for treatment. The Prime Minister expressed concern for her recovery and emphasized that the government will pursue a thorough inquiry into the circumstances surrounding the assault."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack on a senior Australian parliamentarian raises concerns about political security and potential extremist threats, issues also monitored by US and European governments."
+   }
+  ],
+  "key_points": [
+   "Helen Haines, a 65‑year‑old Australian MP, was injured when a car hit her outside her office.",
+   "A suspect has been arrested and the country's counterterrorism team was activated.",
+   "Prime Minister Albanese pledged a full investigation into the incident."
+  ],
+  "meta_description": "Australian MP Helen Haines injured in car attack; suspect arrested and counterterrorism team activated.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Australia",
+   "Helen Haines",
+   "political violence",
+   "counterterrorism",
+   "lawmaker attack"
+  ],
+  "slug": "australian-lawmaker-helen-haines-injured-car-attack-suspect-arrested-bb9c2a",
+  "reading_minutes": 1,
+  "added": "2026-10-19T11:11:58Z"
+ },
+ {
+  "id": "cd5d459fff313d29",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo",
+  "source": "BBC Sport",
+  "source_title": "England manager Wiegman signs contract extension",
+  "source_summary": "Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383f/live/75035850-cba2-11f1-9ee2-f74dfb8e54e5.jpg",
+  "published": "2026-10-19T10:08:01+00:00",
+  "headline": "England Women’s Coach Sarina Wiegman Extends Contract Through Euro 2029",
+  "body": [
+   {
+    "type": "p",
+    "text": "England’s women’s national team manager Sarina Wiegman has signed a new contract that will keep her in charge until after the Euro 2029 tournament. The extension was announced by the Football Association on Wednesday, confirming her commitment to the Lionesses for the next several years."
+   },
+   {
+    "type": "p",
+    "text": "Wiegman, who led England to the 2023 World Cup final, said she \"cannot think of a better job in football\" and expressed enthusiasm about building on the team’s recent successes. The deal ensures continuity for the squad as they prepare for upcoming qualifiers and major championships."
+   },
+   {
+    "type": "p",
+    "text": "The FA highlighted the importance of stability in the coaching role, noting that Wiegman's leadership has been instrumental in raising the profile of women’s football in England and abroad."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Continued leadership under Wiegman offers the England women’s team stability as they aim for success in upcoming international competitions, a point of interest for fans across Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Sarina Wiegman has extended her contract as England women’s coach through Euro 2029.",
+   "She described the role as the best job she could imagine in football.",
+   "The extension provides continuity for the Lionesses ahead of future tournaments."
+  ],
+  "meta_description": "England women’s coach Sarina Wiegman signs a new deal to stay on until after Euro 2029, citing the role as her ideal football job.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England",
+   "Lionesses",
+   "Sarina Wiegman",
+   "football",
+   "Euro 2029",
+   "contract extension"
+  ],
+  "slug": "england-womens-coach-sarina-wiegman-extends-contract-through-euro-cd5d45",
+  "reading_minutes": 1,
+  "added": "2026-10-19T11:11:30Z"
+ },
+ {
+  "id": "fc706ef9bb7560aa",
+  "source_url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+  "source": "CNBC",
+  "source_title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
+  "source_summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/106310265-1577120438176gettyimages-488164285.jpeg?v=1765554150&w=1920&h=1080",
+  "published": "2026-10-19T10:00:01+00:00",
+  "headline": "JPMorgan Chase Invests $5 Billion in Defense Tech, Robot Factories and Missiles",
+  "body": [
+   {
+    "type": "p",
+    "text": "JPMorgan Chase has allocated $5 billion to defense‑related projects outside its balance sheet, according to a recent CNBC report. The bank’s capital is flowing into a range of technologies, including robot‑enabled manufacturing facilities and components for hypersonic missile systems, as part of a broader push into defense hardware and supply‑chain resilience."
+   },
+   {
+    "type": "p",
+    "text": "The investment marks a significant private‑sector entry into areas traditionally dominated by government contracts. By targeting both advanced robotics and next‑generation weapons platforms, JPMorgan Chase aims to capture growth opportunities in the expanding global defense market while supporting the development of critical supply‑chain capabilities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The infusion of private capital into defense tech could accelerate U.S. and European capabilities in critical areas such as robotics and hypersonic weapons."
+   }
+  ],
+  "key_points": [
+   "JPMorgan Chase has deployed $5 billion off‑balance‑sheet into defense technology and hardware.",
+   "Funding targets robot‑driven factories and hypersonic missile components.",
+   "The move reflects growing private‑capital interest in the defense supply chain."
+  ],
+  "meta_description": "JPMorgan Chase commits $5 billion to defense tech, including robot factories and hypersonic missile components, signaling a major private‑sector push.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "JPMorgan Chase",
+   "defense investment",
+   "robotics",
+   "hypersonic missiles",
+   "defense tech",
+   "private capital"
+  ],
+  "slug": "jpmorgan-chase-invests-5-billion-defense-tech-robot-factories-fc706e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-19T11:11:34Z"
+ },
+ {
+  "id": "bec807856c71f037",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
+  "source": "BBC News",
+  "source_title": "Musk and Anthropic pledge public share giveaways",
+  "source_summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/075f/live/77a0d170-cba0-11f1-9ee2-f74dfb8e54e5.jpg",
+  "published": "2026-10-19T09:38:25+00:00",
+  "headline": "Musk and Anthropic Announce Public Share Giveaways Ahead of Listings",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk has announced a plan to distribute shares of his companies to the public, joining AI startup Anthropic in a similar initiative. Both entrepreneurs said the giveaways are intended to broaden ownership and involve a wider audience in their ventures."
+   },
+   {
+    "type": "p",
+    "text": "Anthropic's pledge includes the creation of a public benefit fund that will be established before its highly anticipated stock market debut. The fund is designed to support broader societal goals, although specific details were not disclosed."
+   },
+   {
+    "type": "p",
+    "text": "Musk’s announcement follows Anthropic’s move, signaling a trend among high‑profile tech firms to engage retail investors directly. The timing coincides with both companies preparing for major public listings that are expected to attract significant market attention."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The initiatives could increase retail investor participation in two of the year’s most watched tech listings, affecting market dynamics in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Elon Musk and AI firm Anthropic each plan public share giveaways.",
+   "Anthropic will set up a public benefit fund ahead of its stock market listing."
+  ],
+  "meta_description": "Elon Musk and Anthropic announce public share giveaways and a benefit fund ahead of major stock market listings.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "Anthropic",
+   "share giveaway",
+   "public benefit fund",
+   "stock market listing"
+  ],
+  "slug": "musk-anthropic-announce-public-share-giveaways-ahead-listings-bec807",
+  "reading_minutes": 1,
+  "added": "2026-10-19T11:11:38Z"
+ },
+ {
+  "id": "b1635b9ab8dbd2be",
+  "source_url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+  "source": "TechCrunch",
+  "source_title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+  "source_summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+  "source_tags": [
+   "Biotech & Health",
+   "Startups",
+   "Alpha Wave",
+   "Even Healthcare",
+   "Khosla Ventures"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?resize=1200,800",
+  "published": "2026-10-19T07:30:00+00:00",
+  "headline": "Khosla Ventures Backs Even Healthcare in $300M Funding Round",
+  "body": [
+   {
+    "type": "p",
+    "text": "Khosla Ventures led a financing round that valued India's Even Healthcare at $300 million. The capital infusion will support the company's plan to broaden its network of hospitals across the country."
+   },
+   {
+    "type": "p",
+    "text": "Even Healthcare, a digital health platform that partners with hospitals to improve pricing transparency and operational efficiency, aims to use the new funds to add more facilities and enhance its technology stack. The round underscores growing investor interest in India's healthcare infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "The investment marks Khosla Ventures' continued focus on health‑tech ventures that can reshape hospital economics in emerging markets. By backing Even Healthcare, the firm hopes to capture upside from the sector's rapid expansion."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The investment signals strong global interest in India's rapidly growing healthcare market, offering potential opportunities for investors and partners in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Khosla Ventures led a round that values Even Healthcare at $300 million.",
+   "The funding will be used to expand Even Healthcare's hospital network in India.",
+   "The deal highlights rising investor confidence in Indian health‑tech."
+  ],
+  "meta_description": "Khosla Ventures leads a $300M valuation round for Even Healthcare to expand its Indian hospital network.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Khosla Ventures",
+   "Even Healthcare",
+   "health tech",
+   "India",
+   "venture capital",
+   "hospital network"
+  ],
+  "slug": "khosla-ventures-backs-even-healthcare-300m-funding-round-b1635b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-19T11:11:53Z"
+ },
+ {
+  "id": "929c21963714f2ba",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cjr4yndrz1kro",
+  "source": "BBC Sport",
+  "source_title": "Beer & Blackpool beach was how British players bonded - Pulis",
+  "source_summary": "BBC Sport columnist Tony Pulis explains what Spurs will get from their team-bonding trip to Spain, and how differently managers built team morale in his day.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg",
+  "published": "2026-10-19T06:23:48+00:00",
+  "headline": "Tony Pulis Says Spurs Will Gain From Spain Team‑Bonding Trip",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former manager Tony Pulis wrote that Tottenham Hotspur's upcoming training camp in Spain should help build squad unity, drawing on his own experiences of team bonding in the 1990s. He recalled how his players would gather for a beer and a day at Blackpool beach, using informal settings to strengthen morale."
+   },
+   {
+    "type": "p",
+    "text": "Pulis contrasted those low‑key outings with the modern, structured trips that clubs now organise, noting that a change of scenery and focused activities can improve communication on the pitch. He suggested that Spurs' staff will use the Spanish environment to foster a similar sense of camaraderie among the current squad."
+   },
+   {
+    "type": "p",
+    "text": "The columnist emphasized that while the specifics of the itinerary remain private, the principle remains the same: shared experiences off the field can translate into better teamwork during matches."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding how clubs use off‑field activities to improve performance offers insight into team management trends across European football."
+   }
+  ],
+  "key_points": [
+   "Tony Pulis links past informal bonding methods to Spurs' planned Spain camp.",
+   "He believes a change of setting can boost squad cohesion and on‑field performance."
+  ],
+  "meta_description": "Tony Pulis says Tottenham's Spain camp aims to build squad unity, echoing his own past bonding tactics.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tottenham Hotspur",
+   "team bonding",
+   "Tony Pulis",
+   "football training camp",
+   "sports management"
+  ],
+  "slug": "tony-pulis-says-spurs-will-gain-from-spain-teambonding-929c21",
+  "reading_minutes": 1,
+  "added": "2026-10-19T11:11:50Z"
+ },
+ {
   "id": "173396ba431191a6",
   "source_url": "https://www.nytimes.com/2026/10/18/business/china-economy-gdp.html",
   "source": "The New York Times",
