@@ -1,5 +1,438 @@
 [
  {
+  "id": "a3a95069ed873918",
+  "source_url": "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html",
+  "source": "The New York Times",
+  "source_title": "Trump Defends Plans to Ease Russia Sanctions and Hints at a Hostage Deal",
+  "source_summary": "The president on Sunday justified his reversal of almost five years of sanctions against Russia as part of peace negotiations. He did not name any hostage.",
+  "source_tags": [
+   "United States International Relations",
+   "Russian Invasion of Ukraine (2022)",
+   "Kidnapping and Hostages",
+   "Embargoes and Sanctions",
+   "Oil (Petroleum) and Gasoline",
+   "Starlink Satellite Constellation (SpaceX)",
+   "Lukoil",
+   "Senate",
+   "Nordone, Darline Graham",
+   "Putin, Vladimir V"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18dc-prexy-sanger-gqcp/18dc-prexy-sanger-gqcp-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T00:05:08+00:00",
+  "headline": "Trump Defends Easing Russia Sanctions Amid Peace Talks",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump said on Sunday that his administration will roll back nearly five years of sanctions on Russia, framing the move as a step toward peace negotiations. He emphasized that the policy shift is intended to facilitate diplomatic progress, though he did not specify any details about a potential hostage release."
+   },
+   {
+    "type": "p",
+    "text": "The president’s remarks came as the United States continues to navigate strained relations with Moscow, with the sanction relief marking a significant reversal of previous U.S. policy. Trump did not identify any individual or group being held hostage, leaving the specifics of any such deal unclear."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the proposed easing could have wide‑ranging implications for U.S. and European economies, as well as for the broader geopolitical landscape, depending on how the negotiations develop."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Easing sanctions could affect global markets and alter the diplomatic balance between the U.S., Europe, and Russia."
+   }
+  ],
+  "key_points": [
+   "Trump announced plans to lift most sanctions imposed on Russia over the past five years.",
+   "He linked the sanction relief to ongoing peace negotiations, without naming any hostage.",
+   "The policy shift represents a major change in U.S. strategy toward Russia."
+  ],
+  "meta_description": "President Trump defends plans to roll back Russia sanctions as part of peace talks, without naming a hostage.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Russia",
+   "sanctions",
+   "peace negotiations",
+   "foreign policy"
+  ],
+  "slug": "trump-defends-easing-russia-sanctions-amid-peace-talks-a3a950",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:08:17Z"
+ },
+ {
+  "id": "fc2fd78fa19cf32d",
+  "source_url": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
+  "source_summary": "Canadian Prime Minister Mark Carney says a \"serious incident\" sparked a major fire at on Alberta military base. Four people have died, 39 are in hospital and at least 19 are in critical condition.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79692055_6.jpg",
+  "published": "2026-10-18T23:43:00+00:00",
+  "headline": "Canada Military Base Fire Kills Four, Injures 39, 19 Critical",
+  "body": [
+   {
+    "type": "p",
+    "text": "A major fire broke out at a Canadian military installation in Alberta, a situation Prime Minister Mark Carney described as a \"serious incident.\" The blaze resulted in four fatalities."
+   },
+   {
+    "type": "p",
+    "text": "Emergency responders transported 39 people to hospitals, with at least 19 of those patients listed in critical condition. Authorities are still investigating the cause of the fire."
+   },
+   {
+    "type": "p",
+    "text": "The incident has prompted a review of safety protocols at military facilities across the country as officials work to determine how the fire started and to support the victims and their families."
+   }
+  ],
+  "key_points": [
+   "Four people died in a fire at an Alberta military base.",
+   "Thirty‑nine individuals were hospitalized, including at least 19 in critical condition.",
+   "Prime Minister Mark Carney called the event a \"serious incident\" and ordered an investigation."
+  ],
+  "meta_description": "A fire at an Alberta military base kills four and leaves 19 critically injured, prompting a federal investigation.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "Alberta",
+   "military base",
+   "fire",
+   "casualties"
+  ],
+  "slug": "canada-military-base-fire-kills-four-injures-39-19-fc2fd7",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-19T00:08:38Z"
+ },
+ {
+  "id": "9f308b9c06a26bb1",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o",
+  "source": "BBC News",
+  "source_title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+  "source_summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg",
+  "published": "2026-10-18T23:28:45+00:00",
+  "headline": "EU Steel Tariffs on China Also Hurt Ukrainian Producer, Says Boss",
+  "body": [
+   {
+    "type": "p",
+    "text": "The chief executive of one of Ukraine's largest steel manufacturers warned that recent European Union duties targeting cheap Chinese steel imports are also affecting his country's industry. He said Ukraine has been \"bundled together\" with other nations in the EU's anti‑dumping measures, despite the firm’s reliance on higher‑priced domestic and regional supplies."
+   },
+   {
+    "type": "p",
+    "text": "According to the executive, the tariffs increase costs for Ukrainian steel producers and could limit their ability to compete in both local and export markets. He emphasized that the policy, intended to curb low‑cost Chinese imports, inadvertently creates a trade burden for Ukraine, a key ally of the EU."
+   },
+   {
+    "type": "p",
+    "text": "The company has not disclosed specific financial impacts, but the statement underscores concerns that broader trade actions may have unintended consequences for neighboring economies that depend on the European market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The comments highlight how EU trade policies aimed at China can have spill‑over effects on allied economies such as Ukraine, influencing regional supply chains and market dynamics."
+   }
+  ],
+  "key_points": [
+   "EU anti‑dumping duties on Chinese steel are also impacting Ukrainian steel producers.",
+   "The Ukrainian steel boss says his country is being treated the same as other importers under the EU measures.",
+   "The tariffs could raise production costs and affect Ukraine's competitiveness in regional markets."
+  ],
+  "meta_description": "EU tariffs on Chinese steel are also hitting Ukraine, says a top steel executive, raising concerns about broader trade impacts.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "EU tariffs",
+   "Ukraine steel",
+   "China imports",
+   "trade policy",
+   "steel industry"
+  ],
+  "slug": "eu-steel-tariffs-china-also-hurt-ukrainian-producer-says-9f308b",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:08:21Z"
+ },
+ {
+  "id": "4769e42c2133ce4c",
+  "source_url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o",
+  "source": "BBC News",
+  "source_title": "Don't fall for this - how to protect yourself from AI scams",
+  "source_summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg",
+  "published": "2026-10-18T23:24:59+00:00",
+  "headline": "AI Scams Surge as Fraudsters Use Cloned Sites and Deepfakes",
+  "body": [
+   {
+    "type": "p",
+    "text": "Trading standards officers warn that artificial intelligence is dramatically amplifying traditional scams. By generating realistic clones of legitimate websites and producing convincing fake content, fraudsters can lure victims more effectively than ever before."
+   },
+   {
+    "type": "p",
+    "text": "The new wave of AI‑driven fraud includes counterfeit online stores, bogus investment platforms and impersonated customer service chats. Officials say the technology enables rapid production of deceptive material, making it harder for consumers to spot the difference between genuine and fraudulent sites."
+   },
+   {
+    "type": "p",
+    "text": "Authorities advise shoppers to verify URLs, look for secure connection indicators and double‑check contact details before providing personal or payment information. Reporting suspicious sites to consumer protection agencies can help curb the spread of these sophisticated scams."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "US and European consumers face the same rise in AI‑powered scams, making vigilance and reporting essential to protect personal finances."
+   }
+  ],
+  "key_points": [
+   "AI tools are being used to create near‑identical copies of legitimate websites and fake communications.",
+   "Consumers should scrutinize web addresses and security cues before sharing personal data.",
+   "Reporting dubious sites to trading standards can help stop the growth of AI‑enhanced fraud."
+  ],
+  "meta_description": "Trading standards warn AI is super‑charging scams with cloned sites and deepfakes; learn how to spot and report them.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "scams",
+   "consumer protection",
+   "fraud",
+   "online safety"
+  ],
+  "slug": "ai-scams-surge-fraudsters-use-cloned-sites-deepfakes-4769e4",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:08:25Z"
+ },
+ {
+  "id": "be258209ba95f5f6",
+  "source_url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo",
+  "source": "BBC News",
+  "source_title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+  "source_summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
+  "published": "2026-10-18T23:20:15+00:00",
+  "headline": "Trump Suspends Pending Russia Sanctions to Aid Peace Talks",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump announced that the United States will hold off on a slate of sanctions against Russia that were scheduled to take effect in two days. The move, he said, is intended to create conditions conducive to ongoing peace negotiations between the two nations."
+   },
+   {
+    "type": "p",
+    "text": "The blocked measures included a range of economic penalties that had been prepared by the Treasury and State departments. By pausing these actions, the administration aims to signal flexibility and encourage diplomatic dialogue, according to the president’s statement."
+   },
+   {
+    "type": "p",
+    "text": "Critics have warned that delaying sanctions could undermine pressure on Moscow and embolden its foreign policy agenda. Supporters argue that a diplomatic breakthrough could yield a more lasting resolution to the conflict, reducing the need for further punitive steps."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The suspension affects the broader strategy of Western sanctions on Russia, influencing both US and European diplomatic efforts to resolve the conflict."
+   }
+  ],
+  "key_points": [
+   "President Trump halted upcoming Russia sanctions to support peace talks.",
+   "The sanctions were set to be implemented in two days before the suspension.",
+   "The decision has sparked debate over its impact on diplomatic leverage."
+  ],
+  "meta_description": "President Trump pauses pending Russia sanctions, saying the move supports ongoing peace negotiations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Russia",
+   "sanctions",
+   "peace negotiations",
+   "US foreign policy"
+  ],
+  "slug": "trump-suspends-pending-russia-sanctions-aid-peace-talks-be2582",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:08:57Z"
+ },
+ {
+  "id": "73ce7b1dab25a142",
+  "source_url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo",
+  "source": "BBC News",
+  "source_title": "Home sellers cut asking prices on 3,000 properties a day",
+  "source_summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/7786ae90-c712-11f1-9a5a-91141f7a4b0e.jpg",
+  "published": "2026-10-18T23:00:45+00:00",
+  "headline": "Home Sellers Slash Prices on 3,000 UK Homes Daily, 15‑Year High",
+  "body": [
+   {
+    "type": "p",
+    "text": "Data shared with the BBC shows that sellers in the United Kingdom are reducing asking prices on roughly 3,000 properties each day. This level of price cuts marks the most frequent adjustments in the past 15 years, indicating a notable shift in the housing market."
+   },
+   {
+    "type": "p",
+    "text": "The trend reflects growing pressure on homeowners to attract buyers amid a market where demand appears to be softening. Real‑estate agents report that lower listings are becoming common as sellers aim to stay competitive."
+   },
+   {
+    "type": "p",
+    "text": "Analysts suggest that the surge in price reductions could influence overall market activity, potentially leading to more transactions at reduced values if buyer interest stabilises."
+   }
+  ],
+  "key_points": [
+   "UK sellers are cutting asking prices on about 3,000 homes daily, the highest rate in 15 years.",
+   "The increase in price cuts signals heightened pressure on the housing market to attract buyers."
+  ],
+  "meta_description": "UK home sellers are lowering prices on 3,000 properties daily, the most frequent cuts in 15 years, signaling a shift in the housing market.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "housing",
+   "real estate",
+   "price cuts",
+   "UK market",
+   "property"
+  ],
+  "slug": "home-sellers-slash-prices-3-000-uk-homes-daily-73ce7b",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:08:41Z"
+ },
+ {
+  "id": "ccdc7bd1402248be",
+  "source_url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+  "source": "The Verge",
+  "source_title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+  "source_summary": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and said sharing access to the system violated the department's security protocols. While he […]",
+  "source_tags": [
+   "Law",
+   "News",
+   "Policy"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-18T22:20:53+00:00",
+  "headline": "Savannah Police Officer Fired for Giving ICE Agent Access to Flock System",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Savannah police officer Amber Harpe was terminated in August after an internal investigation revealed she provided her Flock login credentials to her husband, Tyler Harpe, an agent with U.S. Immigration and Customs Enforcement. The department said the action breached its security protocols."
+   },
+   {
+    "type": "p",
+    "text": "Savannah Police Department officials emphasized that the Flock platform, used for law‑enforcement data sharing, is not shared with ICE. By allowing an ICE agent to access the system, Harpe compromised the department’s policy that restricts external agencies from viewing its records."
+   },
+   {
+    "type": "p",
+    "text": "The investigation concluded that the unauthorized access could jeopardize the confidentiality of ongoing investigations and the privacy of individuals whose information is stored in the Flock database."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights tensions between local law‑enforcement agencies and federal immigration authorities, raising concerns about data security and inter‑agency cooperation."
+   }
+  ],
+  "key_points": [
+   "Amber Harpe was dismissed after giving her Flock login to ICE agent husband.",
+   "Savannah Police Department does not share Flock data with ICE, and the breach violated security rules."
+  ],
+  "meta_description": "Savannah police officer fired for sharing Flock login with ICE agent husband, violating department security rules.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "police",
+   "ICE",
+   "data security",
+   "Savannah",
+   "law enforcement"
+  ],
+  "slug": "savannah-police-officer-fired-giving-ice-agent-access-flock-ccdc7b",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:08:29Z"
+ },
+ {
+  "id": "944f39f3a671f7d8",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation",
+  "source": "The Guardian",
+  "source_title": "Trump says DC golf course ‘restoration’ to start despite judge’s order to pause plans",
+  "source_summary": "Judge orders government to notify her by 8pm ET Sunday whether its position changed from Friday’s court filing Donald Trump posted on Truth Social on Sunday that “restoration work will begin” on 15 November to a historic public golf course in Washington DC despite a federal judge’s court order to pause his plans over environmental and historic preservation concerns. US district judge Ana Reyes had ruled earlier this year that the federal government must give notice before any substantive construction work on the East Potomac golf course could proceed, and last week issued an order halting the removal of trees at the site, which she called “inexcusable”.",
+  "source_tags": [
+   "Donald Trump",
+   "Trump administration",
+   "US news",
+   "US politics",
+   "Washington DC",
+   "Golf",
+   "Logging and land-clearing"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/3ca631f85573f7d6dc2d7e98b67228c8b7f16fe0/1151_0_4715_3774/master/4715.jpg?width=700&quality=85&auto=format&fit=max&s=a34050869b01f535a01af3629c37e5e0",
+  "published": "2026-10-18T21:44:21+00:00",
+  "headline": "Trump Says DC Golf Restoration to Begin Nov 15 Despite Judge Order",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump announced on Truth Social that restoration work on the historic East Potomac golf course in Washington, D.C., will start on November 15. The post came despite a federal judge’s order that required the government to pause any substantive construction until further notice."
+   },
+   {
+    "type": "p",
+    "text": "U.S. District Judge Ana Reyes had earlier this year ruled that the federal government must provide notice before proceeding with any major work on the East Potomac site. Last week she issued an injunction halting the removal of trees, describing the action as “inexcusable.” The judge also set a deadline for the government to inform her by 8 p.m. ET on Sunday whether its position had changed from a Friday filing."
+   },
+   {
+    "type": "p",
+    "text": "Trump’s statement underscores the ongoing tension between the administration’s plans for the golf course and the court’s environmental and historic‑preservation concerns. The dispute highlights the broader challenges of managing public lands in the nation’s capital."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash illustrates how federal projects can be delayed by legal rulings on environmental and historic preservation, affecting public land use in the U.S. capital."
+   }
+  ],
+  "key_points": [
+   "Trump announced that restoration of the East Potomac golf course will begin on Nov. 15.",
+   "Judge Ana Reyes ordered a pause on construction and halted tree removal, calling it inexcusable.",
+   "The government must notify the judge by the set deadline about any change in its position."
+  ],
+  "meta_description": "Trump says DC's historic East Potomac golf course will be restored on Nov 15, despite a judge's order to pause work.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "East Potomac",
+   "court order",
+   "environment",
+   "historic preservation",
+   "Washington DC"
+  ],
+  "slug": "trump-says-dc-golf-restoration-begin-nov-15-despite-944f39",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:08:50Z"
+ },
+ {
   "id": "444e538032f96950",
   "source_url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do",
   "source": "BBC News",
@@ -210,7 +643,7 @@
   "slug": "congress-pushes-back-trump-s-order-exempting-russia-from-cc7729",
   "reading_minutes": 1,
   "added": "2026-10-18T21:20:35Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "9759730f8b52f135",
@@ -264,7 +697,7 @@
   "slug": "pakistan-implicates-more-opposition-leaders-under-antiterror-law-975973",
   "reading_minutes": 1,
   "added": "2026-10-18T21:21:08Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "843e458e4e91ebd2",
@@ -319,7 +752,7 @@
   "slug": "world-food-programme-says-1-4-million-gaza-residents-843e45",
   "reading_minutes": 1,
   "added": "2026-10-18T21:21:16Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "d2bbffc6feaeca36",
@@ -699,6 +1132,60 @@
   "slug": "cindy-crawford-says-she-beyond-heartbroken-over-son-presleys-c4a4c4",
   "reading_minutes": 1,
   "added": "2026-10-18T21:35:55Z"
+ },
+ {
+  "id": "b9b1b0964666aad2",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo",
+  "source": "BBC Sport",
+  "source_title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+  "source_summary": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a5/live/3cade3d0-cb2a-11f1-97d2-23d8daaba2e1.jpg",
+  "published": "2026-10-18T19:51:22+00:00",
+  "headline": "Crystal Palace Manager Pierre Sage Says He Feels Shame After 5-0 Defeat",
+  "body": [
+   {
+    "type": "p",
+    "text": "Crystal Palace boss Pierre Sage said he feels \"shame\" over his team's 5-0 loss to Brighton, describing the performance as a \"thrashing\" that left him questioning his future at the club. The heavy defeat highlighted defensive frailties and a lack of cohesion on the pitch, prompting Sage to reflect on the squad's shortcomings."
+   },
+   {
+    "type": "p",
+    "text": "Sage added that he is uncertain whether the club will give him the time needed to turn the situation around, leaving his job security in doubt. The manager did not provide specifics about any immediate changes but emphasized the emotional impact of the result on both players and staff."
+   },
+   {
+    "type": "p",
+    "text": "Brighton's dominant display underscored the widening gap between the two sides in the Premier League, with the Eagles struggling to recover after conceding early goals. Sage's comments come as Palace search for ways to halt a slide that could see them slip further down the table."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result affects the Premier League standings and raises questions about managerial stability at a historic London club."
+   }
+  ],
+  "key_points": [
+   "Pierre Sage called the 5-0 loss to Brighton a \"thrashing\" and said he feels shame over the performance.",
+   "The manager is unsure if he will be given sufficient time to improve the team's results.",
+   "Brighton's convincing win highlighted a growing disparity between the clubs in the Premier League."
+  ],
+  "meta_description": "Crystal Palace manager Pierre Sage says he feels shame after a 5-0 loss to Brighton and doubts his future at the club.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Crystal Palace",
+   "Brighton",
+   "Premier League",
+   "Pierre Sage",
+   "football",
+   "manager"
+  ],
+  "slug": "crystal-palace-manager-pierre-sage-says-he-feels-shame-b9b1b0",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:08:33Z"
  },
  {
   "id": "61a775e3e3e0dced",
@@ -1419,6 +1906,59 @@
   "added": "2026-10-18T19:23:53Z"
  },
  {
+  "id": "07bb6ae11a5dae7d",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmwyd05wj00do",
+  "source": "BBC Sport",
+  "source_title": "Shades of Barca and Beckham - Brighton aim to maintain superb start",
+  "source_summary": "With 23 goals in seven Premier League matches, including some stunning strikes, Brighton continue to delight their fans and get them dreaming of what might be.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d46/live/f82b45d0-cb25-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-18T18:33:29+00:00",
+  "headline": "Brighton’s Goal‑Frenzy Fuels Premier League Surge After Seven Wins",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brighton & Hove Albion have netted 23 goals across their first seven Premier League fixtures, a tally that places them among the most prolific attackers early in the 2026‑27 season. The striking output includes several spectacular finishes that have delighted supporters and sparked optimism about the club’s ambitions."
+   },
+   {
+    "type": "p",
+    "text": "The attacking flair has helped Brighton maintain an unbeaten run, keeping them in contention for European qualification spots. Fans at the Amex Stadium have responded with heightened enthusiasm, dreaming of a campaign that could rival the league’s traditional powerhouses."
+   },
+   {
+    "type": "p",
+    "text": "Manager Roberto De Zerbi’s emphasis on fluid, forward‑driving football appears to be paying dividends, as the team continues to blend creativity with clinical finishing. If the current form endures, Brighton could reshape the early‑season narrative of the Premier League."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Brighton's early surge highlights the growing competitiveness of the Premier League, a league followed closely by audiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Brighton have scored 23 goals in their first seven league matches.",
+   "The goal haul has kept the club unbeaten and in the hunt for European places.",
+   "Supporters are buoyed by the team's attacking style and early‑season success."
+  ],
+  "meta_description": "Brighton have scored 23 goals in seven Premier League games, fueling an unbeaten run and raising hopes for European competition.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brighton",
+   "Premier League",
+   "goals",
+   "season start",
+   "football"
+  ],
+  "slug": "brightons-goalfrenzy-fuels-premier-league-surge-after-seven-wins-07bb6a",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:08:45Z"
+ },
+ {
   "id": "de6b0c59a9e6b0d3",
   "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
   "source": "The Verge",
@@ -1477,6 +2017,113 @@
   "slug": "philadelphia-woman-arrested-blocking-uber-delivery-robot-de6b0c",
   "reading_minutes": 1,
   "added": "2026-10-18T19:23:44Z"
+ },
+ {
+  "id": "30b4d7b169eef46f",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62ynq8jz2no",
+  "source": "BBC Sport",
+  "source_title": "Northampton beat Cardiff for only English win of Champions Cup openers",
+  "source_summary": "Northampton edge to a nervy Champions Cup pool win against tenacious Cardiff at Franklin's Gardens.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9706/live/c0479f20-cb1f-11f1-bfba-6f29101eb4a3.jpg",
+  "published": "2026-10-18T18:23:30+00:00",
+  "headline": "Northampton Secure Only English Victory in Champions Cup Opening Round",
+  "body": [
+   {
+    "type": "p",
+    "text": "Northampton Saints edged a tense pool match against Cardiff Rugby at Franklin's Gardens, delivering the sole English win among the Champions Cup opening fixtures. The home side displayed resilience to claim a narrow advantage over a determined Cardiff side."
+   },
+   {
+    "type": "p",
+    "text": "The victory was described as nervy, with both teams showing tenacity throughout the encounter. Northampton's performance ensured they left the opening round on a positive note, while Cardiff were left to regroup for their next pool game."
+   },
+   {
+    "type": "p",
+    "text": "The result highlights the competitive nature of the early stages of the European Champions Cup, where clubs from across the continent vie for a place in the knockout phase."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The win gives Northampton a crucial early advantage in Europe's premier club rugby competition, while underscoring the challenges English teams face in the tournament."
+   }
+  ],
+  "key_points": [
+   "Northampton Saints beat Cardiff Rugby in a close Champions Cup pool match.",
+   "It was the only win by an English club in the opening round of the tournament.",
+   "The match was described as nervy and tightly contested."
+  ],
+  "meta_description": "Northampton Saints claim the only English win in the Champions Cup opening round, edging Cardiff in a nervy pool match at Franklin's Gardens.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Northampton Saints",
+   "Cardiff Rugby",
+   "Champions Cup",
+   "European rugby",
+   "pool stage",
+   "English clubs"
+  ],
+  "slug": "northampton-secure-only-english-victory-champions-cup-opening-round-30b4d7",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:08:53Z"
+ },
+ {
+  "id": "6ad9154f5d3904d9",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c62kezneyq8vo",
+  "source": "BBC Sport",
+  "source_title": "Hearts roll out red carpet ... and Celtic walk all over it",
+  "source_summary": "Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef9/live/38173b20-cb1e-11f1-bfba-6f29101eb4a3.jpg",
+  "published": "2026-10-18T18:22:50+00:00",
+  "headline": "Hearts' Red‑Carpet Welcome Falters as Celtic Dominate",
+  "body": [
+   {
+    "type": "p",
+    "text": "Hearts opened Celtic Park with a flamboyant display, rolling out a literal red carpet for the visitors. The gesture was intended to set a confident tone, but Celtic quickly turned the occasion into a showcase of their own attacking prowess."
+   },
+   {
+    "type": "p",
+    "text": "Tom English notes that Hearts seemed to believe an aggressive approach would serve as their best defence. The strategy backfired as Celtic's fluid offense overwhelmed the hosts, leaving Hearts struggling to keep pace throughout the match."
+   },
+   {
+    "type": "p",
+    "text": "The result highlighted the gap between the teams' recent form, with Celtic imposing their rhythm and capitalising on the space left by Hearts' forward‑leaning tactics. The defeat underscored the challenges Hearts face in matching the intensity of their Glasgow rivals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result reflects the ongoing power shift in Scottish football, where Celtic continues to assert dominance over traditional rivals, influencing league standings and European qualification prospects."
+   }
+  ],
+  "key_points": [
+   "Hearts' ceremonial red carpet did not translate into on‑field advantage.",
+   "Celtic's attacking play dominated the match, exposing Hearts' defensive vulnerabilities.",
+   "The game emphasized Celtic's current superiority in the Scottish league."
+  ],
+  "meta_description": "Hearts' red‑carpet welcome failed as Celtic's attack overwhelmed them, highlighting a widening gap in Scottish football.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Hearts",
+   "Celtic",
+   "Scottish Premiership",
+   "football rivalry",
+   "match analysis"
+  ],
+  "slug": "hearts-redcarpet-welcome-falters-celtic-dominate-6ad915",
+  "reading_minutes": 1,
+  "added": "2026-10-19T00:09:01Z"
  },
  {
   "id": "d0dbaac75271fb78",
@@ -2581,7 +3228,7 @@
   "slug": "theranos-founder-documentary-draws-over-2-000-soldout-screenings-42c1d0",
   "reading_minutes": 1,
   "added": "2026-10-18T16:49:27Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "8b1a0e5b1a50cffc",
@@ -3422,7 +4069,7 @@
   "slug": "north-carolina-t-students-protest-lack-early-voting-sites-eacc19",
   "reading_minutes": 1,
   "added": "2026-10-18T13:11:12Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "6979ac6f4e965f84",
@@ -3476,7 +4123,7 @@
   "slug": "john-kirby-discusses-white-house-press-secretary-role-trump-6979ac",
   "reading_minutes": 1,
   "added": "2026-10-18T13:11:24Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "ed68c640a28435d8",
@@ -3530,7 +4177,7 @@
   ],
   "slug": "npr-politics-chat-covers-zelenskyy-trump-stances-midterm-funding-ed68c6",
   "reading_minutes": 1,
-  "img_checked": true,
+  "img_checked": 2,
   "added": "2026-10-18T21:48:13Z"
  },
  {
@@ -3583,7 +4230,7 @@
   ],
   "slug": "trump-defers-federal-diesel-tax-help-farmers-states-warn-90e93d",
   "reading_minutes": 1,
-  "img_checked": true,
+  "img_checked": 2,
   "added": "2026-10-18T21:48:29Z"
  },
  {
@@ -3853,7 +4500,7 @@
   ],
   "slug": "economic-discontent-among-farmers-threatens-gop-unity-nationwide-317574",
   "reading_minutes": 1,
-  "img_checked": true,
+  "img_checked": 2,
   "added": "2026-10-18T21:48:35Z"
  },
  {
@@ -4496,7 +5143,7 @@
   "slug": "ice-arrests-surge-among-individuals-with-no-criminal-record-a464de",
   "reading_minutes": 1,
   "added": "2026-10-18T09:01:59Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "4d10cd52060d9ca4",
@@ -5485,7 +6132,7 @@
   "slug": "student-protests-spread-across-france-sparking-wider-unrest-some-ad207f",
   "reading_minutes": 1,
   "added": "2026-10-17T21:41:38Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "683343adcdfc7be7",
@@ -5539,7 +6186,7 @@
   "slug": "former-ambassador-james-b-story-assesses-state-department-after-683343",
   "reading_minutes": 1,
   "added": "2026-10-17T21:41:54Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "63ed2521c15dddc6",
@@ -8213,7 +8860,7 @@
   "slug": "mayor-bally-bagayoko-becomes-prominent-face-france-youth-protests-3f2e65",
   "reading_minutes": 1,
   "added": "2026-10-17T13:09:29Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "4fa1555f4370e3b5",
@@ -8449,7 +9096,7 @@
   "slug": "minnesota-senate-debate-fraud-affordability-trump-fallout-16c5c6",
   "reading_minutes": 1,
   "added": "2026-10-17T13:09:22Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "3fb9e3b581a5b007",
@@ -8504,7 +9151,7 @@
   "slug": "trump-claims-russian-diesel-deal-progresses-doj-sues-california-3fb9e3",
   "reading_minutes": 1,
   "added": "2026-10-18T04:19:38Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "c668fb0baba7a514",
@@ -9093,7 +9740,7 @@
   "slug": "pennsylvanias-four-districts-illustrate-democrats-midterm-flip-strategy-527b1e",
   "reading_minutes": 1,
   "added": "2026-10-17T09:13:18Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "aa5023d79336e87a",
@@ -10937,7 +11584,7 @@
   "slug": "armed-bystander-halts-bend-oregon-school-shooting-experts-weigh-d928a6",
   "reading_minutes": 1,
   "added": "2026-10-16T22:02:04Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "185d3185777d9961",
@@ -12809,7 +13456,7 @@
   "slug": "bank-says-no-record-after-holding-cd-certificate-too-03465d",
   "reading_minutes": 1,
   "added": "2026-10-16T14:46:16Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "19aaae501543f70a",
@@ -13327,7 +13974,7 @@
   "slug": "lufthansa-retires-iconic-a346-after-decades-service-0f89b7",
   "reading_minutes": 1,
   "added": "2026-10-16T09:41:36Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "540232d969d2df69",
@@ -14178,7 +14825,7 @@
   "slug": "houthi-missile-attack-kills-five-yemen-s-maashiq-palace-625bc7",
   "reading_minutes": 1,
   "added": "2026-10-16T00:17:49Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "c9c43f1e32a507cc",
@@ -18529,7 +19176,7 @@
   "slug": "trump-administration-sees-rise-female-officials-leaving-top-posts-3b0f2d",
   "reading_minutes": 1,
   "added": "2026-10-15T00:04:58Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "cc6fb35de0a3bad6",
@@ -19092,7 +19739,7 @@
   "slug": "s-p-500-slides-1-1-amid-inflation-fears-0c6c7d",
   "reading_minutes": 1,
   "added": "2026-10-14T21:35:17Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "bd61b92171acdf66",
@@ -19879,7 +20526,7 @@
   "slug": "ai-bots-join-22-person-dinner-party-reveal-digital-d33b4c",
   "reading_minutes": 1,
   "added": "2026-10-14T17:57:52Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "a5fccba80415475e",
@@ -25361,7 +26008,7 @@
   "slug": "dozens-killed-airstrikes-near-sudan-egypt-border-gold-mine-4d8e31",
   "reading_minutes": 1,
   "added": "2026-10-12T22:35:15Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "194dc1f5886d1cc8",
@@ -25416,7 +26063,7 @@
   "slug": "trump-announces-partial-russia-ukraine-ceasefire-amid-ongoing-fighting-194dc1",
   "reading_minutes": 1,
   "added": "2026-10-12T22:35:35Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "9391d4cd0093fb1d",
@@ -28204,7 +28851,7 @@
   "slug": "new-york-times-names-victoria-jaggard-space-editor-eyes-9d2480",
   "reading_minutes": 1,
   "added": "2026-10-11T20:11:18Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "e958c286c130e368",
@@ -28876,7 +29523,7 @@
   "slug": "democrats-demand-pentagon-probe-iran-civilian-deaths-440c57",
   "reading_minutes": 1,
   "added": "2026-10-11T15:56:26Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "b0d09f06c293c405",
@@ -30455,7 +31102,7 @@
   "slug": "london-tour-bayeux-tapestry-sparks-battle-hastings-reenactment-739b75",
   "reading_minutes": 1,
   "added": "2026-10-11T02:08:49Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "d6c0a0860e6d3ffc",
@@ -30509,7 +31156,7 @@
   "slug": "trump-administration-echoes-east-asian-industrial-policies-d6c0a0",
   "reading_minutes": 1,
   "added": "2026-10-10T23:28:12Z",
-  "img_checked": true
+  "img_checked": 2
  },
  {
   "id": "dcc48233c883fd3c",
@@ -31473,7 +32120,7 @@
    "energy"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6289.HEIC.jpg?resize=900,1200",
   "published": "2026-10-10T17:00:00+00:00",
   "headline": "Petra Power Introduces Efficient Fuel Cells for Data Centers and Defense Vehicles",
   "body": [
@@ -31516,7 +32163,8 @@
   ],
   "slug": "petra-power-introduces-efficient-fuel-cells-data-centers-defense-858e15",
   "reading_minutes": 1,
-  "added": "2026-10-10T20:01:40Z"
+  "added": "2026-10-10T20:01:40Z",
+  "img_checked": 2
  },
  {
   "id": "7549208eceec51b4",
@@ -31588,7 +32236,7 @@
    "Deno"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
   "published": "2026-10-10T16:25:42+00:00",
   "headline": "Cloudflare Acquires Deno to Enhance Workers Programming Model",
   "body": [
@@ -31632,7 +32280,8 @@
   ],
   "slug": "cloudflare-acquires-deno-enhance-workers-programming-model-df771d",
   "reading_minutes": 1,
-  "added": "2026-10-11T02:08:45Z"
+  "added": "2026-10-11T02:08:45Z",
+  "img_checked": 2
  },
  {
   "id": "159439cbc18120fd",
@@ -31962,7 +32611,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79629578_6.jpg",
   "published": "2026-10-10T15:01:00+00:00",
   "headline": "Blast Hits Riyadh’s King Khalid Airport Amid Houthi‑Coalition Fighting",
   "body": [
@@ -32006,7 +32655,8 @@
   ],
   "slug": "blast-hits-riyadhs-king-khalid-airport-amid-houthicoalition-fighting-15d34c",
   "reading_minutes": 1,
-  "added": "2026-10-10T15:51:24Z"
+  "added": "2026-10-10T15:51:24Z",
+  "img_checked": 2
  },
  {
   "id": "6801da099eadf383",
@@ -32026,7 +32676,7 @@
    "Startup Battlefield 200"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
   "published": "2026-10-10T15:00:00+00:00",
   "headline": "TechCrunch Disrupt 2026 Opens Oct 13-15 in San Francisco",
   "body": [
@@ -32069,7 +32719,8 @@
   ],
   "slug": "techcrunch-disrupt-2026-opens-oct-13-15-san-francisco-6801da",
   "reading_minutes": 1,
-  "added": "2026-10-10T15:51:00Z"
+  "added": "2026-10-10T15:51:00Z",
+  "img_checked": 2
  },
  {
   "id": "3292f7f8dac8bc8a",
@@ -32308,7 +32959,8 @@
   ],
   "slug": "verification-tax-slows-ai-efficiency-sparks-new-human-roles-3c268b",
   "reading_minutes": 1,
-  "added": "2026-10-10T15:51:04Z"
+  "added": "2026-10-10T15:51:04Z",
+  "img_checked": 2
  },
  {
   "id": "cf1a93f3e1af620e",
@@ -32364,7 +33016,7 @@
   "source_summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/108230084-1763749055769-gettyimages-2247816077-jr_12991_69qwhxj8.jpeg?v=1791579138&w=1920&h=1080",
   "published": "2026-10-10T12:00:01+00:00",
   "headline": "Retailers Trim Assortments From BJ’s to Lululemon to Spur Growth",
   "body": [
@@ -32408,7 +33060,8 @@
   ],
   "slug": "retailers-trim-assortments-from-bjs-lululemon-spur-growth-ae3074",
   "reading_minutes": 1,
-  "added": "2026-10-10T20:01:36Z"
+  "added": "2026-10-10T20:01:36Z",
+  "img_checked": 2
  },
  {
   "id": "5bec0443d4a2f532",
@@ -32420,7 +33073,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79626001_6.jpg",
   "published": "2026-10-10T09:38:00+00:00",
   "headline": "Taiwan Increases Defense Budget to Deter War With China",
   "body": [
@@ -32464,7 +33117,8 @@
   ],
   "slug": "taiwan-increases-defense-budget-deter-war-with-china-5bec04",
   "reading_minutes": 1,
-  "added": "2026-10-10T09:43:24Z"
+  "added": "2026-10-10T09:43:24Z",
+  "img_checked": 2
  },
  {
   "id": "26087cd8c84dd1d6",
@@ -33052,7 +33706,7 @@
    "Starlink"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
   "published": "2026-10-10T03:10:06+00:00",
   "headline": "Elon Musk Blames Mukesh Ambani for Starlink India Delay",
   "body": [
@@ -33096,7 +33750,8 @@
   ],
   "slug": "elon-musk-blames-mukesh-ambani-starlink-india-delay-467cf9",
   "reading_minutes": 1,
-  "added": "2026-10-10T09:44:00Z"
+  "added": "2026-10-10T09:44:00Z",
+  "img_checked": 2
  },
  {
   "id": "5ad5922e67159a68",
@@ -33108,7 +33763,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/69003479_6.jpg",
   "published": "2026-10-10T02:21:00+00:00",
   "headline": "Mexican Court Convicts Three for 2024 Murder of Australian and U.S. Surfers",
   "body": [
@@ -33143,7 +33798,8 @@
   ],
   "slug": "mexican-court-convicts-three-2024-murder-australian-u-s-5ad592",
   "reading_minutes": 1,
-  "added": "2026-10-10T02:40:36Z"
+  "added": "2026-10-10T02:40:36Z",
+  "img_checked": 2
  },
  {
   "id": "377e90e61976787a",
@@ -33155,7 +33811,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79624013_6.jpg",
   "published": "2026-10-10T02:15:00+00:00",
   "headline": "Hurricane Isaias Makes Landfall in Florida with Dangerous Storm Surge",
   "body": [
@@ -33197,7 +33853,8 @@
   ],
   "slug": "hurricane-isaias-makes-landfall-florida-with-dangerous-storm-surge-377e90",
   "reading_minutes": 1,
-  "added": "2026-10-10T02:40:48Z"
+  "added": "2026-10-10T02:40:48Z",
+  "img_checked": 2
  },
  {
   "id": "3743459460b380e9",
@@ -33209,7 +33866,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79625575_6.jpg",
   "published": "2026-10-10T01:59:00+00:00",
   "headline": "Trump Says No Decision on Livestreaming Fort Hood Shooter Execution",
   "body": [
@@ -33247,7 +33904,8 @@
   ],
   "slug": "trump-says-no-decision-livestreaming-fort-hood-shooter-execution-374345",
   "reading_minutes": 1,
-  "added": "2026-10-10T02:40:56Z"
+  "added": "2026-10-10T02:40:56Z",
+  "img_checked": 2
  },
  {
   "id": "dc6a6a6ea2f981fa",
@@ -33434,7 +34092,7 @@
    "AI"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
   "published": "2026-10-10T00:18:32+00:00",
   "headline": "Anthropic Halts Live Internet Access for Internal AI Evaluations",
   "body": [
@@ -33477,7 +34135,8 @@
   ],
   "slug": "anthropic-halts-live-internet-access-internal-ai-evaluations-cf5de6",
   "reading_minutes": 1,
-  "added": "2026-10-10T02:40:52Z"
+  "added": "2026-10-10T02:40:52Z",
+  "img_checked": 2
  },
  {
   "id": "21c7c903f39dab33",
@@ -34094,7 +34753,7 @@
    "mechanical keyboards"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4970.jpeg?resize=1200,900",
   "published": "2026-10-09T22:08:24+00:00",
   "headline": "Keychron Expands Mechanical Keyboard Line From Kickstarter Roots",
   "body": [
@@ -34129,7 +34788,8 @@
   ],
   "slug": "keychron-expands-mechanical-keyboard-line-from-kickstarter-roots-6adbdd",
   "reading_minutes": 1,
-  "added": "2026-10-09T23:10:50Z"
+  "added": "2026-10-09T23:10:50Z",
+  "img_checked": 2
  },
  {
   "id": "683225b7ee258f34",
@@ -34271,7 +34931,7 @@
    "typesafe"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
   "published": "2026-10-09T21:41:29+00:00",
   "headline": "TypeSafe’s Jev AI Model Valued at $7.5 B After Weeks on Market",
   "body": [
@@ -34315,7 +34975,8 @@
   ],
   "slug": "typesafes-jev-ai-model-valued-7-5-b-after-ac2c54",
   "reading_minutes": 1,
-  "added": "2026-10-10T02:41:12Z"
+  "added": "2026-10-10T02:41:12Z",
+  "img_checked": 2
  },
  {
   "id": "b21c6cac8d4afc34",
@@ -34545,7 +35206,7 @@
    "Anthropic"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
   "published": "2026-10-09T19:36:56+00:00",
   "headline": "Anthropic AI Model Sent False Homicide Tip to Philadelphia Police",
   "body": [
@@ -34589,7 +35250,8 @@
   ],
   "slug": "anthropic-ai-model-sent-false-homicide-tip-philadelphia-police-679481",
   "reading_minutes": 1,
-  "added": "2026-10-09T19:44:09Z"
+  "added": "2026-10-09T19:44:09Z",
+  "img_checked": 2
  },
  {
   "id": "ba8e8ba8f048c626",
@@ -34719,7 +35381,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/73662219_6.jpg",
   "published": "2026-10-09T19:29:00+00:00",
   "headline": "Trump and Putin Strike Deal to Supply Russian Diesel Globally",
   "body": [
@@ -34763,7 +35425,8 @@
   ],
   "slug": "trump-putin-strike-deal-supply-russian-diesel-globally-577253",
   "reading_minutes": 1,
-  "added": "2026-10-09T19:44:25Z"
+  "added": "2026-10-09T19:44:25Z",
+  "img_checked": 2
  },
  {
   "id": "2f1234a5860c6058",
@@ -35210,7 +35873,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79624147_6.jpg",
   "published": "2026-10-09T19:03:00+00:00",
   "headline": "Strong Panama Earthquake Triggers Tsunami Alert Across Region",
   "body": [
@@ -35246,7 +35909,8 @@
   ],
   "slug": "strong-panama-earthquake-triggers-tsunami-alert-across-region-b16ac3",
   "reading_minutes": 1,
-  "added": "2026-10-09T19:19:45Z"
+  "added": "2026-10-09T19:19:45Z",
+  "img_checked": 2
  },
  {
   "id": "075f92ad6b926725",
@@ -35260,7 +35924,7 @@
    "natural gas"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/moment-energy-luna-5.jpg?resize=1200,800",
   "published": "2026-10-09T18:57:58+00:00",
   "headline": "Batteries Overtake Natural Gas Turbines in Data Center Costs",
   "body": [
@@ -35303,7 +35967,8 @@
   ],
   "slug": "batteries-overtake-natural-gas-turbines-data-center-costs-075f92",
   "reading_minutes": 1,
-  "added": "2026-10-09T19:19:41Z"
+  "added": "2026-10-09T19:19:41Z",
+  "img_checked": 2
  },
  {
   "id": "1e4dca187621eb20",
@@ -35321,7 +35986,7 @@
    "TechCrunch Disrupt"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_3-Huang-Wallen-Lee_16x9-Dark.png?resize=1200,675",
   "published": "2026-10-09T18:57:06+00:00",
   "headline": "TechCrunch Disrupt 2026: Experts Reveal How to Land 1,000 Customers",
   "body": [
@@ -35363,7 +36028,8 @@
   ],
   "slug": "techcrunch-disrupt-2026-experts-reveal-how-land-1-000-1e4dca",
   "reading_minutes": 1,
-  "added": "2026-10-09T19:19:54Z"
+  "added": "2026-10-09T19:19:54Z",
+  "img_checked": 2
  },
  {
   "id": "a24f8a8ce412fbab",
@@ -35655,7 +36321,8 @@
   ],
   "slug": "democratic-super-pac-pours-5-million-into-kansas-senate-4cb0a3",
   "reading_minutes": 1,
-  "added": "2026-10-09T18:47:18Z"
+  "added": "2026-10-09T18:47:18Z",
+  "img_checked": 2
  },
  {
   "id": "ea0f55739e4304eb",
@@ -35766,7 +36433,8 @@
   ],
   "slug": "katie-zacharia-named-white-house-press-secretary-replacing-karoline-ded206",
   "reading_minutes": 1,
-  "added": "2026-10-09T18:47:38Z"
+  "added": "2026-10-09T18:47:38Z",
+  "img_checked": 2
  },
  {
   "id": "ab049856cf97f36b",
@@ -36603,7 +37271,7 @@
    "Culture"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79535741_6.jpg",
   "published": "2026-10-09T13:03:00+00:00",
   "headline": "Maria Kalesnikava Highlights Art’s Role at Beethovenfest Bonn",
   "body": [
@@ -36647,7 +37315,8 @@
   ],
   "slug": "maria-kalesnikava-highlights-arts-role-beethovenfest-bonn-fc0feb",
   "reading_minutes": 1,
-  "added": "2026-10-09T13:06:57Z"
+  "added": "2026-10-09T13:06:57Z",
+  "img_checked": 2
  },
  {
   "id": "a6e5f858d2bdefff",
@@ -36879,7 +37548,7 @@
    "World"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79610792_6.jpg",
   "published": "2026-10-09T12:50:00+00:00",
   "headline": "Refugee Aid Network Hits Funding Cuts as Anti‑Ukrainian Sentiment Rises",
   "body": [
@@ -36921,7 +37590,8 @@
   ],
   "slug": "refugee-aid-network-hits-funding-cuts-antiukrainian-sentiment-rises-fc6a4a",
   "reading_minutes": 1,
-  "added": "2026-10-09T13:07:17Z"
+  "added": "2026-10-09T13:07:17Z",
+  "img_checked": 2
  },
  {
   "id": "fbbc0778629d6f83",
@@ -37029,7 +37699,7 @@
   "source_summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/108251232-1791546255283-108251232-1768234850403-gettyimages-2252637555-desisto-adeltaai251222_npUsY.jpg?v=1791546264&w=1920&h=1080",
   "published": "2026-10-09T12:20:12+00:00",
   "headline": "Delta Air Lines Cuts 2026 Outlook Amid Fuel Price Surge, Says Demand Remains Strong",
   "body": [
@@ -37072,7 +37742,8 @@
   ],
   "slug": "delta-air-lines-cuts-2026-outlook-amid-fuel-price-30d949",
   "reading_minutes": 1,
-  "added": "2026-10-09T13:06:53Z"
+  "added": "2026-10-09T13:06:53Z",
+  "img_checked": 2
  },
  {
   "id": "db622c887bea06bd",
@@ -37250,7 +37921,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79609784_6.jpg",
   "published": "2026-10-09T05:40:00+00:00",
   "headline": "Two German Officials Killed in Bavaria Gun Inspection, Suspect Arrested",
   "body": [
@@ -37285,7 +37956,8 @@
   ],
   "slug": "two-german-officials-killed-bavaria-gun-inspection-suspect-arrested-ffb9f6",
   "reading_minutes": 1,
-  "added": "2026-10-09T05:57:55Z"
+  "added": "2026-10-09T05:57:55Z",
+  "img_checked": 2
  },
  {
   "id": "20dd32901c125557",
@@ -37840,7 +38512,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79606394_6.jpg",
   "published": "2026-10-08T23:25:00+00:00",
   "headline": "Man Injured in Bronx Shooting Involving DHS Agents During Afternoon",
   "body": [
@@ -37884,7 +38556,8 @@
   ],
   "slug": "man-injured-bronx-shooting-involving-dhs-agents-during-afternoon-b66002",
   "reading_minutes": 1,
-  "added": "2026-10-08T23:44:00Z"
+  "added": "2026-10-08T23:44:00Z",
+  "img_checked": 2
  },
  {
   "id": "11489dbd79dbca2f",
@@ -38232,7 +38905,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79605854_6.jpg",
   "published": "2026-10-08T22:53:00+00:00",
   "headline": "Former German Chancellor Schröder Attends Putin's Birthday Amid Ukraine War",
   "body": [
@@ -38275,7 +38948,8 @@
   ],
   "slug": "former-german-chancellor-schroder-attends-putin-s-birthday-amid-073321",
   "reading_minutes": 1,
-  "added": "2026-10-08T23:44:31Z"
+  "added": "2026-10-08T23:44:31Z",
+  "img_checked": 2
  },
  {
   "id": "e42a18df0e3f2eb4",
@@ -38353,7 +39027,7 @@
    "Trump Administration"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299252091.jpg?w=1024",
   "published": "2026-10-08T22:33:59+00:00",
   "headline": "President Trump Gives Top Science Awards to Big Tech Donors",
   "body": [
@@ -38395,7 +39069,8 @@
   ],
   "slug": "president-trump-gives-top-science-awards-big-tech-donors-702dc8",
   "reading_minutes": 1,
-  "added": "2026-10-08T23:44:27Z"
+  "added": "2026-10-08T23:44:27Z",
+  "img_checked": 2
  },
  {
   "id": "5363dcf39f23c05c",
@@ -38857,7 +39532,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79612610_6.jpg",
   "published": "2026-10-08T18:42:00+00:00",
   "headline": "Court Order to Resume Asylum Processing Sparks Violent Anti‑Migrant Protests in South Africa",
   "body": [
@@ -38901,7 +39576,8 @@
   ],
   "slug": "court-order-resume-asylum-processing-sparks-violent-antimigrant-protests-e76bd5",
   "reading_minutes": 1,
-  "added": "2026-10-08T19:13:21Z"
+  "added": "2026-10-08T19:13:21Z",
+  "img_checked": 2
  },
  {
   "id": "faaa26b20d907d9e",
@@ -38966,7 +39642,7 @@
   "source_summary": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.",
   "source_tags": [],
   "category_hint": "business",
-  "image": null,
+  "image": "https://image.cnbcfm.com/api/v1/image/108259099-17697117762026-01-29t172632z_126263610_rc20bjanasdi_rtrmadp_0_starbucks-investor-day.jpeg?v=1769711803&w=1920&h=1080",
   "published": "2026-10-08T18:37:46+00:00",
   "headline": "Why a Starbucks Takeover of Chipotle Would — and Wouldn't — Make Sense for Both Companies",
   "body": [
@@ -38991,7 +39667,8 @@
   ],
   "slug": "why-starbucks-takeover-chipotle-would-wouldn-t-make-sense-5cd0ea",
   "reading_minutes": 1,
-  "added": "2026-10-08T18:50:50Z"
+  "added": "2026-10-08T18:50:50Z",
+  "img_checked": 2
  },
  {
   "id": "8497911755b55bcc",
@@ -39109,7 +39786,7 @@
    "Sam Bankman-Fried"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1592854555-1.jpg?resize=1200,855",
   "published": "2026-10-08T18:30:00+00:00",
   "headline": "Watch the Trailer for ‘the Altruists,’ Netflix’s Show About the FTX Scandal",
   "body": [
@@ -39140,7 +39817,8 @@
   ],
   "slug": "watch-trailer-altruists-netflixs-show-about-ftx-scandal-91d21a",
   "reading_minutes": 1,
-  "added": "2026-10-08T18:50:50Z"
+  "added": "2026-10-08T18:50:50Z",
+  "img_checked": 2
  },
  {
   "id": "e546fe0276005145",
