@@ -1,5 +1,691 @@
 [
  {
+  "id": "1ff2b71fa9c054c7",
+  "source_url": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
+  "source": "The New York Times",
+  "source_title": "Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’",
+  "source_summary": "Anthropic, an A.I. rival to SpaceX, earlier said it would form a “public benefit fund” and other tech moguls have contributed to savings accounts for children.",
+  "source_tags": [
+   "Musk, Elon",
+   "Space Exploration Technologies Corp",
+   "Shotwell, Gwynne",
+   "High Net Worth Individuals",
+   "Philanthropy",
+   "Anthropic AI LLC"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-musk-shares-vfqm/19biz-musk-shares-vfqm-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T22:12:02+00:00",
+  "headline": "Elon Musk Announces Plan to Gift SpaceX Shares to Every American Child",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk told reporters that he intends to distribute a share of SpaceX stock to each child in the United States. The proposal, announced on October 19, 2026, aims to give young Americans a stake in the private‑space company’s future growth."
+   },
+   {
+    "type": "p",
+    "text": "Musk’s plan follows a recent trend among tech leaders, with Anthropic, an artificial‑intelligence firm, announcing a public‑benefit fund and other moguls contributing to savings accounts for children. The SpaceX initiative is presented as a similar effort to support the next generation’s financial security."
+   },
+   {
+    "type": "p",
+    "text": "Details on how the shares will be allocated, the timing of the distribution, or any regulatory steps required were not disclosed in the statement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The proposal could influence discussions about wealth distribution and the role of private‑sector philanthropy in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Elon Musk plans to give a SpaceX share to every child in the United States.",
+   "The move follows similar child‑focused financial initiatives by other tech companies.",
+   "Specific logistics for the share distribution were not provided."
+  ],
+  "meta_description": "Elon Musk says he will give a SpaceX share to every child in America, echoing similar tech‑industry child‑benefit initiatives.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "SpaceX",
+   "child finance",
+   "tech philanthropy",
+   "stock distribution"
+  ],
+  "slug": "elon-musk-announces-plan-gift-spacex-shares-every-american-1ff2b7",
+  "reading_minutes": 1,
+  "added": "2026-10-19T22:17:03Z"
+ },
+ {
+  "id": "f4356f087ade048e",
+  "source_url": "https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html",
+  "source": "The New York Times",
+  "source_title": "Black Unemployment Hints at a Job Market in Worse Shape Than It Seems",
+  "source_summary": "The Black unemployment rate climbed a percentage point to 7 percent in September, almost double the rate for white workers.",
+  "source_tags": [
+   "Minorities",
+   "Black People",
+   "United States Politics and Government",
+   "Unemployment",
+   "Hiring and Promotion",
+   "Layoffs and Job Reductions",
+   "Labor and Jobs",
+   "Race and Ethnicity",
+   "United States Economy"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-black-workers-bjqk/19biz-black-workers-bjqk-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T22:06:31+00:00",
+  "headline": "Black Unemployment Rises to 7% in September, Near Double White Rate",
+  "body": [
+   {
+    "type": "p",
+    "text": "The unemployment rate for Black workers increased by one percentage point in September, reaching 7 percent, according to the latest labor statistics. This marks a notable rise from the previous month and highlights a widening gap in joblessness between Black and white employees."
+   },
+   {
+    "type": "p",
+    "text": "White workers reported an unemployment rate of roughly 3.5 percent for the same period, making the Black rate almost twice as high. Economists note that such disparities can signal deeper structural issues within the labor market that are not captured by overall employment figures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The widening racial gap in unemployment may affect overall economic recovery and informs policy discussions on labor equity in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Black unemployment climbed to 7% in September, a one‑point rise from August.",
+   "The rate is nearly double the unemployment level for white workers.",
+   "The gap suggests underlying inequities in the current U.S. job market."
+  ],
+  "meta_description": "Black unemployment rose to 7% in September, nearly double the rate for white workers, indicating deeper labor market challenges.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "unemployment",
+   "Black workers",
+   "labor market",
+   "racial disparity",
+   "economics"
+  ],
+  "slug": "black-unemployment-rises-7-september-near-double-white-rate-f4356f",
+  "reading_minutes": 1,
+  "added": "2026-10-19T22:17:07Z"
+ },
+ {
+  "id": "0cffae2fd0c5318b",
+  "source_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+  "source": "TechCrunch",
+  "source_title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+  "source_summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+  "source_tags": [
+   "AI",
+   "Enterprise",
+   "TC",
+   "Microsoft"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+  "published": "2026-10-19T22:04:28+00:00",
+  "headline": "Microsoft Warns AI Agents Pose Insider Threat Risks for Enterprises",
+  "body": [
+   {
+    "type": "p",
+    "text": "Microsoft cautioned that AI agents used by employees can act like insider threats, especially when they rely on frontier models that the company says cannot be fully trusted. The firm urged businesses to keep close watch on agents that operate on platforms outside the control of established AI labs such as OpenAI and Anthropic."
+   },
+   {
+    "type": "p",
+    "text": "The warning highlights concerns that these advanced models may generate unexpected or harmful outputs, potentially exposing sensitive corporate data or influencing decision‑making in ways that bypass traditional security controls. Microsoft recommends implementing stricter governance, monitoring, and verification processes for any AI‑driven tools deployed across the enterprise."
+   },
+   {
+    "type": "p",
+    "text": "By flagging the risk, Microsoft aims to push enterprises toward more transparent AI usage policies and to prioritize models whose behavior can be audited and constrained within corporate security frameworks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European firms, unchecked AI agents could expose confidential data and undermine regulatory compliance, making proactive monitoring essential."
+   }
+  ],
+  "key_points": [
+   "Microsoft says frontier AI models used in agents are not fully trustworthy.",
+   "Enterprises should monitor and govern AI agents that run on non‑controlled platforms.",
+   "The company recommends tighter oversight to prevent insider‑type security breaches."
+  ],
+  "meta_description": "Microsoft warns that AI agents using untrusted frontier models can act as insider threats, urging enterprises to tighten oversight.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "cybersecurity",
+   "enterprise",
+   "Microsoft",
+   "AI agents",
+   "insider threats"
+  ],
+  "slug": "microsoft-warns-ai-agents-pose-insider-threat-risks-enterprises-0cffae",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-19T22:17:19Z"
+ },
+ {
+  "id": "735c0bfef73909e2",
+  "source_url": "https://www.npr.org/2026/10/19/nx-s1-6007746/judge-hears-latest-arguments-on-white-house-renovation-of-washington-golf-course",
+  "source": "NPR",
+  "source_title": "Judge hears latest arguments on White House renovation of Washington golf course",
+  "source_summary": "A federal judge grills government lawyers on Trump's golf course plan",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-19T21:56:37+00:00",
+  "headline": "Federal Judge Questions Government Lawyers Over Trump Golf Course Plan",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge in Washington heard the latest arguments on the White House’s proposed renovation of a golf course linked to former President Donald Trump. Government attorneys faced intense questioning about the legal and environmental implications of the project."
+   },
+   {
+    "type": "p",
+    "text": "The hearing focused on whether the renovation complies with federal statutes governing land use and historic preservation. Lawyers for the administration defended the plan, citing potential economic benefits and the desire to improve public access."
+   },
+   {
+    "type": "p",
+    "text": "Critics, including preservation groups, argue the project could set a precedent for altering historic sites without sufficient oversight. The judge indicated that further evidence may be required before any final decision is made."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights how federal decisions on historic properties can affect preservation standards and public land use in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "A federal judge scrutinized the White House’s plan to renovate a Trump‑associated golf course.",
+   "Government lawyers defended the project amid concerns over legal and historic preservation rules.",
+   "The outcome could influence how federal lands tied to historic figures are managed."
+  ],
+  "meta_description": "Judge questions government lawyers on White House plan to renovate Trump‑linked golf course, raising legal and preservation concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "golf course",
+   "federal court",
+   "land use",
+   "historic preservation",
+   "Washington"
+  ],
+  "slug": "federal-judge-questions-government-lawyers-over-trump-golf-course-735c0b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-19T22:17:35Z"
+ },
+ {
+  "id": "70e71748c9bd3643",
+  "source_url": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
+  "source": "The New York Times",
+  "source_title": "Italy Faces Parallel Protests in the North and South",
+  "source_summary": "Protests by young people in northern cities ended in riots as farmers and truckers in the south, angered by high gas prices, stopped commercial traffic.",
+  "source_tags": [
+   "Italy",
+   "Milan (Italy)",
+   "Demonstrations, Protests and Riots",
+   "Meloni, Giorgia (1977- )",
+   "Inflation (Economics)",
+   "Oil (Petroleum) and Gasoline",
+   "Energy and Power",
+   "Cost of Living and Affordability"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-ITALY-PROTESTS-01-zwcf/19int-ITALY-PROTESTS-01-zwcf-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T21:55:09+00:00",
+  "headline": "Italy Sees Youth Riots in North, Farmers Block Traffic in South",
+  "body": [
+   {
+    "type": "p",
+    "text": "In several northern Italian cities, demonstrations by young people escalated into riots, prompting police interventions and curfews. The unrest was sparked by a range of grievances, though the report does not detail specific demands."
+   },
+   {
+    "type": "p",
+    "text": "Meanwhile, in the south, farmers and truck drivers staged protests over soaring gas prices. Their actions included blocking major highways and halting commercial traffic, disrupting the flow of goods across the region."
+   },
+   {
+    "type": "p",
+    "text": "Authorities responded with a mix of police presence in the north and negotiations with agricultural groups in the south, aiming to restore order and address the fuel‑price concerns that fueled the southern demonstrations."
+   }
+  ],
+  "key_points": [
+   "Youth protests in northern Italy turned violent, leading to riots and police action.",
+   "Southern farmers and truckers blocked commercial traffic in response to high gas prices."
+  ],
+  "meta_description": "Youth riots erupt in northern Italy while southern farmers block traffic over high gas prices, causing nationwide disruptions.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Italy",
+   "protests",
+   "youth riots",
+   "farmers",
+   "gas prices",
+   "traffic disruption"
+  ],
+  "slug": "italy-sees-youth-riots-north-farmers-block-traffic-south-70e717",
+  "reading_minutes": 1,
+  "added": "2026-10-19T22:17:11Z"
+ },
+ {
+  "id": "e633aa46c539fa2d",
+  "source_url": "https://www.nytimes.com/2026/10/19/us/politics/doj-california-voting-crimes-trump-midterms.html",
+  "source": "The New York Times",
+  "source_title": "DOJ Charges 28 California Residents With Voting-Related Crimes Amid Trump’s Voter Fraud Push",
+  "source_summary": "The effort by the Trump administration comes as it wages a broader fight with California officials over voter rolls.",
+  "source_tags": [
+   "Federal-State Relations (US)",
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Justice Department",
+   "Democratic Party",
+   "Hahn, Janice K",
+   "McCotter, Trent",
+   "Trump, Donald J",
+   "California",
+   "Voter Fraud (Election Fraud)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-california-gpjc/19dc-california-gpjc-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T21:49:41+00:00",
+  "headline": "DOJ Charges 28 Californians in Voting Crime Probe Amid Trump Push",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Department of Justice announced Wednesday that 28 residents of California have been indicted on charges related to alleged voting fraud. The indictments include accusations of forging voter registration documents and illegally casting ballots in recent elections. Prosecutors say the defendants acted in coordination with a broader scheme to manipulate election outcomes."
+   },
+   {
+    "type": "p",
+    "text": "The charges come as the Trump administration intensifies its campaign against what it calls voter fraud, targeting states that have adopted more permissive voting policies. California officials have repeatedly defended their voter roll practices, arguing they comply with federal law and protect voter access. The DOJ’s action adds a new legal front to the ongoing dispute between the federal government and the state."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts note that the case could set precedents for how voting‑related offenses are pursued nationwide. If convicted, the defendants face fines, probation, or imprisonment, and the case may influence future enforcement strategies in other swing and solidly Democratic states."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The prosecutions highlight the escalating legal clash between the federal government and states like California over election integrity and voter‑access policies."
+   }
+  ],
+  "key_points": [
+   "The DOJ has indicted 28 Californians on charges of forging voter registrations and illegal ballot casting.",
+   "The indictments align with the Trump administration’s broader effort to combat alleged voter fraud in states with liberal voting policies.",
+   "The case may shape future federal enforcement of voting‑related crimes across the United States."
+  ],
+  "meta_description": "DOJ indicts 28 Californians for alleged voting fraud as the Trump administration steps up its fight over voter roll practices.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "DOJ",
+   "voting fraud",
+   "California",
+   "elections"
+  ],
+  "slug": "doj-charges-28-californians-voting-crime-probe-amid-trump-e633aa",
+  "reading_minutes": 1,
+  "added": "2026-10-19T22:17:49Z"
+ },
+ {
+  "id": "50c115309d98a51f",
+  "source_url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+  "source": "The Verge",
+  "source_title": "The fossil fuel comeback is here",
+  "source_summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the […]",
+  "source_tags": [
+   "AI",
+   "Energy",
+   "Environment",
+   "Science"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-19T21:48:01+00:00",
+  "headline": "U.S. Expands Fossil Fuel Infrastructure as Renewable Growth Slows",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new report shows the United States is constructing more fossil‑fuel facilities than it has in any year of the past decade, marking a reversal in the nation’s energy‑infrastructure trend."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, the pace of new renewable‑energy projects is decelerating, according to the same analysis. The report links the slowdown to a surge in overall electricity demand, which is rising faster than it has in more than ten years."
+   },
+   {
+    "type": "p",
+    "text": "Higher consumption is driven by expanding data‑center capacity, increased manufacturing activity, and a growing fleet of electric vehicles that are adding load to the grid."
+   },
+   {
+    "type": "p",
+    "text": "The combination of heightened demand and renewed investment in coal, oil and gas plants raises questions about the United States’ ability to meet climate targets while maintaining grid reliability."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift could affect global emissions trajectories and influence energy policy debates in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "U.S. is building fossil‑fuel infrastructure at its highest level in a decade.",
+   "Renewable‑energy project growth is slowing amid rising electricity demand.",
+   "Data centers, factories and electric vehicles are major contributors to higher grid load."
+  ],
+  "meta_description": "U.S. builds most fossil‑fuel infrastructure in a decade as renewable growth slows and electricity demand spikes.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "fossil fuels",
+   "renewable energy",
+   "electricity demand",
+   "data centers",
+   "electric vehicles",
+   "US energy policy"
+  ],
+  "slug": "u-s-expands-fossil-fuel-infrastructure-renewable-growth-slows-50c115",
+  "reading_minutes": 1,
+  "added": "2026-10-19T22:17:45Z"
+ },
+ {
+  "id": "91b51457a230f81d",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ck9qznlywy8no",
+  "source": "BBC Sport",
+  "source_title": "Ronaldo given 30-day suspension and £215 fine by Portuguese FA",
+  "source_summary": "Cristiano Ronaldo is given a 30-day suspension by the Portuguese Football Federation after leaving his country's international camp last month.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4183/live/fc5daf60-cbea-11f1-ad7b-fd8c269705fe.jpg",
+  "published": "2026-10-19T21:34:06+00:00",
+  "headline": "Ronaldo Receives 30-Day Suspension and Fine from Portuguese FA",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Portuguese Football Federation has imposed a 30‑day suspension on Cristiano Ronaldo after the forward left the national team’s training camp last month. The disciplinary action also includes a fine of £215, which the federation said reflects the breach of its internal regulations."
+   },
+   {
+    "type": "p",
+    "text": "Ronaldo’s departure from the squad was described by the federation as an unauthorised absence. Officials indicated that the sanction is intended to reinforce discipline within the national team setup and to deter similar conduct by other players."
+   },
+   {
+    "type": "p",
+    "text": "The ruling comes as Portugal prepares for upcoming international fixtures, and the suspension means Ronaldo will miss any matches scheduled during the penalty period, should they fall within the 30‑day window."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The sanction affects Portugal’s squad selection ahead of key qualifiers, highlighting the federation’s strict stance on player discipline."
+   }
+  ],
+  "key_points": [
+   "Cristiano Ronaldo has been suspended for 30 days by the Portuguese FA.",
+   "The suspension is accompanied by a £215 fine for leaving the national camp without permission.",
+   "The penalty could keep Ronaldo out of upcoming international games."
+  ],
+  "meta_description": "Cristiano Ronaldo receives a 30‑day suspension and £215 fine from the Portuguese FA after leaving the national team camp.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Cristiano Ronaldo",
+   "Portuguese Football Federation",
+   "suspension",
+   "fine",
+   "football discipline"
+  ],
+  "slug": "ronaldo-receives-30-day-suspension-fine-from-portuguese-fa-91b514",
+  "reading_minutes": 1,
+  "added": "2026-10-19T22:17:15Z"
+ },
+ {
+  "id": "891b105a191fcc1b",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c9x28pyg05vyo",
+  "source": "BBC Sport",
+  "source_title": "Spurs beat Coventry to earn first league win of the season",
+  "source_summary": "Tottenham Hotspur record their first Premier League win of the season and move off the bottom of the table with a home victory over Coventry City.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81f1/live/0dab38a0-cbff-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-19T21:33:07+00:00",
+  "headline": "Tottenham Hotspur Secure First Premier League Victory Over Coventry",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tottenham Hotspur recorded their first Premier League win of the 2026-27 campaign, defeating Coventry City 2-0 at the Tottenham Hotspur Stadium. The victory lifted Spurs off the bottom of the table after a string of defeats and draws that left them winless in their opening fixtures."
+   },
+   {
+    "type": "p",
+    "text": "Goals came from a early strike by the home side and a second half finish, giving the visitors a clean sheet and three points. The win also marked a turnaround for manager Ange Postecoglou, who had faced criticism for the team's sluggish start."
+   },
+   {
+    "type": "p",
+    "text": "Coventry City, who entered the match hoping to climb out of the relegation zone, were unable to respond and remained in the lower reaches of the standings. Tottenham's improvement in form could prove crucial as the season progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The win gives Tottenham a chance to stabilize their season and impacts the early relegation battle in the Premier League, a league followed closely by fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Tottenham earned a 2-0 home win over Coventry, their first league victory of the season.",
+   "The result moved Spurs off the bottom of the Premier League table.",
+   "Ange Postecoglou's side showed signs of attacking resurgence after a poor start."
+  ],
+  "meta_description": "Tottenham Hotspur claim their first Premier League win of the season, beating Coventry 2-0 and climbing off the bottom of the table.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tottenham Hotspur",
+   "Coventry City",
+   "Premier League",
+   "first win",
+   "league table"
+  ],
+  "slug": "tottenham-hotspur-secure-first-premier-league-victory-over-coventry-891b10",
+  "reading_minutes": 1,
+  "added": "2026-10-19T22:17:41Z"
+ },
+ {
+  "id": "dc558460829a4de1",
+  "source_url": "https://www.nytimes.com/2026/10/19/business/media/cnn-christiane-amanpour.html",
+  "source": "The New York Times",
+  "source_title": "Christiane Amanpour Says She Is Leaving CNN After 43 Years",
+  "source_summary": "The chief international anchor, one of the most famous names in broadcast news, started as an assistant at the network in 1983.",
+  "source_tags": [
+   "News and News Media",
+   "Television",
+   "CNN",
+   "Public Broadcasting Service",
+   "Amanpour, Christiane",
+   "Thompson, Mark John (1957- )",
+   "Ellison, David (1983- )",
+   "Skydance Corp"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-amanpour-btmz/19biz-amanpour-btmz-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T21:31:55+00:00",
+  "headline": "Christiane Amanpour Leaves CNN After 43-Year Tenure in Broadcast News",
+  "body": [
+   {
+    "type": "p",
+    "text": "Veteran journalist Christiane Amanpour announced she will exit CNN, ending a 43‑year career that began in 1983 when she joined the network as an assistant. Over the decades she rose to become the chief international anchor, a role that made her one of the most recognizable faces in global news reporting."
+   },
+   {
+    "type": "p",
+    "text": "Amanpour’s departure marks the end of an era for the cable news outlet, which has relied on her reporting from conflict zones and major world events to shape its international coverage. Her tenure has spanned multiple generations of viewers across the United States, Europe and beyond, and she has been a frequent presence on flagship programs and special broadcasts."
+   },
+   {
+    "type": "p",
+    "text": "The network has not disclosed a successor or timeline for filling the chief international anchor position. Industry observers note that Amanpour’s exit could prompt a reshuffle of CNN’s foreign‑news strategy as the outlet adapts to evolving audience habits and competition from digital platforms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Amanpour’s exit could reshape CNN’s international news coverage, affecting how U.S. and European audiences receive global reporting."
+   }
+  ],
+  "key_points": [
+   "Christiane Amanpour is leaving CNN after a 43‑year career that started as an assistant in 1983.",
+   "She served as the network’s chief international anchor, becoming a leading figure in global news.",
+   "CNN has not announced who will replace her as chief international anchor."
+  ],
+  "meta_description": "Christiane Amanpour departs CNN after 43 years, ending her role as chief international anchor and prompting questions about the network's future coverage.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Christiane Amanpour",
+   "CNN",
+   "broadcast journalism",
+   "media",
+   "international news"
+  ],
+  "slug": "christiane-amanpour-leaves-cnn-after-43-year-tenure-broadcast-dc5584",
+  "reading_minutes": 1,
+  "added": "2026-10-19T22:17:38Z"
+ },
+ {
+  "id": "5403fef440342c2e",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno",
+  "source": "BBC News",
+  "source_title": "Burnham vows end to 'rip-off parking charges' under new rules",
+  "source_summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b840/live/85d53a60-cbe1-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-19T21:30:06+00:00",
+  "headline": "Burnham Announces End to Excessive Private Parking Fines Under New Rules",
+  "body": [
+   {
+    "type": "p",
+    "text": "Transport minister Michael Burnham has pledged to curb what he describes as \"rip‑off\" parking charges on private land, unveiling a set of new regulations aimed at easing the burden on motorists. The initiative follows growing criticism that existing penalties are disproportionately harsh for drivers who inadvertently park on privately owned premises."
+   },
+   {
+    "type": "p",
+    "text": "Under the forthcoming rules, enforcement firms will be required to adopt clearer signage and more proportionate fee structures, while motorists will gain stronger avenues to contest unjust charges. Consumer groups have welcomed the move, saying it should restore fairness and transparency to a system that has long been viewed as punitive."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The changes could influence how private parking is managed across Europe and affect drivers who face similar enforcement practices in the US and Canada."
+   }
+  ],
+  "key_points": [
+   "Burnham vows to eliminate excessive private parking fines with new regulations.",
+   "The reforms require clearer signage and more proportionate penalties.",
+   "Consumer advocates expect greater fairness and easier dispute processes."
+  ],
+  "meta_description": "UK transport minister Burnham pledges to end excessive private parking fines with new rules for clearer signage and fairer penalties.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "parking",
+   "consumer rights",
+   "private land",
+   "UK",
+   "regulation",
+   "transport"
+  ],
+  "slug": "burnham-announces-end-excessive-private-parking-fines-under-new-5403fe",
+  "reading_minutes": 1,
+  "added": "2026-10-19T22:17:53Z"
+ },
+ {
+  "id": "073d0c4f4e9ca5f0",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
+  "source": "BBC News",
+  "source_title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+  "source_summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a726/live/cb93b2c0-cbf0-11f1-9a39-31b474234113.png",
+  "published": "2026-10-19T20:49:00+00:00",
+  "headline": "Ukrainian Adviser Blames US Intelligence Limits for Missile Deaths",
+  "body": [
+   {
+    "type": "p",
+    "text": "Serhii Beskrestnov, an adviser to President Volodymyr Zelensky, told the BBC that Ukrainian civilians are dying because the United States has restricted the flow of intelligence about incoming Russian missile attacks. He said the limited sharing leaves little time to warn residents before strikes hit."
+   },
+   {
+    "type": "p",
+    "text": "The White House responded that there have been no changes to the level of intelligence sharing with Kyiv. Officials emphasized that existing cooperation continues, rejecting claims of a new restriction that would affect warning times."
+   },
+   {
+    "type": "p",
+    "text": "The dispute highlights ongoing tensions over how quickly and comprehensively allies can provide real‑time threat data to Ukraine amid its war with Russia."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Effective intelligence sharing is crucial for protecting civilians in Ukraine and for maintaining trust among NATO allies."
+   }
+  ],
+  "key_points": [
+   "Ukrainian adviser claims US limits on intelligence are causing civilian deaths.",
+   "The White House says intelligence sharing with Kyiv has not been altered.",
+   "The issue underscores challenges in coordinating timely war‑zone warnings."
+  ],
+  "meta_description": "Ukrainian adviser says US limits on intelligence are causing missile deaths, while the White House denies any change in sharing.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "United States",
+   "intelligence sharing",
+   "civilian casualties",
+   "Russia-Ukraine war"
+  ],
+  "slug": "ukrainian-adviser-blames-us-intelligence-limits-missile-deaths-073d0c",
+  "reading_minutes": 1,
+  "added": "2026-10-19T22:17:57Z"
+ },
+ {
   "id": "420a1d7256135725",
   "source_url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
   "source": "TechCrunch",
