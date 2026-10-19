@@ -1,5 +1,533 @@
 [
  {
+  "id": "173396ba431191a6",
+  "source_url": "https://www.nytimes.com/2026/10/18/business/china-economy-gdp.html",
+  "source": "The New York Times",
+  "source_title": "Strong Exports Stabilize China’s Economic Growth in Official Statistics",
+  "source_summary": "A prolonged housing crash, sluggish consumer spending and plunging investment have left China dependent on exports to keep the economy growing.",
+  "source_tags": [
+   "Economic Conditions and Trends",
+   "China",
+   "International Trade and World Market",
+   "National Bureau of Statistics (China)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-china-gdp-01-hjlc/19biz-china-gdp-01-hjlc-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T04:21:14+00:00",
+  "headline": "China’s Export Gains Offset Weak Domestic Demand, Stats Show",
+  "body": [
+   {
+    "type": "p",
+    "text": "Official Chinese data indicate that a surge in exports is keeping the nation’s economy on a modest growth path despite a prolonged housing market collapse, tepid consumer spending and sharply falling investment. The latest statistics show that export volumes have risen enough to offset the domestic slowdown, allowing GDP growth to remain positive."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the housing sector’s downturn has persisted longer than expected, while household consumption has failed to rebound, and private investment has contracted sharply. In response, the government has leaned on overseas demand, with shipments of manufactured goods climbing in recent months."
+   },
+   {
+    "type": "p",
+    "text": "The reliance on external markets highlights the fragility of China’s internal demand base and suggests that future growth may continue to depend on global trade dynamics rather than domestic revitalisation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "China’s export‑driven growth affects global supply chains and trade balances, influencing markets in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "China’s exports have risen enough to sustain overall economic growth amid a housing crash and weak consumer spending.",
+   "Investment in the country has sharply declined, increasing reliance on foreign demand.",
+   "Official statistics show that export growth is the primary driver of the current GDP increase."
+  ],
+  "meta_description": "China’s rising exports are sustaining growth as housing, consumer spending, and investment slump, according to official data.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "China",
+   "exports",
+   "economic growth",
+   "housing market",
+   "investment",
+   "consumer spending"
+  ],
+  "slug": "chinas-export-gains-offset-weak-domestic-demand-stats-show-173396",
+  "reading_minutes": 1,
+  "added": "2026-10-19T05:13:10Z"
+ },
+ {
+  "id": "172f1677048c0ee3",
+  "source_url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo",
+  "source": "BBC News",
+  "source_title": "France's government under pressure after weekend of widespread violence",
+  "source_summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68dd/live/22d4e480-cb6c-11f1-a4ab-0f7a37e66bc1.jpg",
+  "published": "2026-10-19T04:16:46+00:00",
+  "headline": "France Government Under Pressure After Weekend of Widespread Violence",
+  "body": [
+   {
+    "type": "p",
+    "text": "France is facing a wave of political tension after a weekend of violent riots that erupted during protests over the rising cost of living and deteriorating public services. Demonstrators clashed with police in several cities, and the unrest spread quickly, prompting a strong law‑enforcement response."
+   },
+   {
+    "type": "p",
+    "text": "The disturbances have put the French government under intense scrutiny, with opposition parties and civic groups demanding clearer action on economic hardship and service cuts. Authorities have reported numerous arrests and injuries, while officials continue to assess the scale of the damage and the underlying grievances driving the unrest."
+   }
+  ],
+  "key_points": [
+   "Rioting broke out across French cities during protests about cost‑of‑living pressures and failing public services.",
+   "The violence has heightened political pressure on the French government to address economic and social concerns."
+  ],
+  "meta_description": "Violent protests over cost of living and public services have heightened political pressure on France's government.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "government",
+   "protests",
+   "violence",
+   "cost of living",
+   "public services"
+  ],
+  "slug": "france-government-under-pressure-after-weekend-widespread-violence-172f16",
+  "reading_minutes": 1,
+  "added": "2026-10-19T05:13:06Z"
+ },
+ {
+  "id": "312a8a94b2a0b59a",
+  "source_url": "https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Austrian Airlines flight from Tel Aviv makes emergency landing after bomb threat",
+  "source_summary": "An Austrian Airlines flight from Tel Aviv to Vienna made an emergency landing in Bulgaria after a bomb threat was reported near the Bulgarian-Romanian border. A MiG-29 fighter jet escorted the plane.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79694994_6.jpg",
+  "published": "2026-10-19T03:22:00+00:00",
+  "headline": "Austrian Airlines Flight Diverts to Bulgaria After Bomb Threat",
+  "body": [
+   {
+    "type": "p",
+    "text": "An Austrian Airlines aircraft operating from Tel Aviv to Vienna was forced to make an emergency landing in Bulgaria on Wednesday after a bomb threat was reported near the Bulgarian‑Romanian border. The crew followed protocol and sought the nearest suitable airport, landing safely without injuries."
+   },
+   {
+    "type": "p",
+    "text": "Bulgarian authorities responded promptly, deploying a MiG-29 fighter jet to escort the plane while security teams investigated the threat. The aircraft was inspected on the ground, and passengers were later transferred to another flight to continue to Vienna."
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the ongoing security challenges faced by airlines operating in regions with heightened tensions. No explosive device was found, and the flight resumed normal operations after the investigation was concluded."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event underscores the importance of rapid security responses for European air travel, a concern for passengers and airlines across the continent."
+   }
+  ],
+  "key_points": [
+   "A bomb threat near the Bulgarian‑Romanian border caused an Austrian Airlines flight to land in Bulgaria.",
+   "A Bulgarian MiG-29 fighter jet escorted the aircraft while authorities conducted a security sweep.",
+   "All passengers were unharmed and later continued to their destination."
+  ],
+  "meta_description": "Austrian Airlines diverts to Bulgaria after a bomb threat; MiG-29 escort ensures safety, no injuries reported.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Austrian Airlines",
+   "bomb threat",
+   "emergency landing",
+   "Bulgaria",
+   "aviation security"
+  ],
+  "slug": "austrian-airlines-flight-diverts-bulgaria-after-bomb-threat-312a8a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-19T05:13:22Z"
+ },
+ {
+  "id": "bed3356286007ad7",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
+  "source": "BBC News",
+  "source_title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+  "source_summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
+  "published": "2026-10-19T03:17:46+00:00",
+  "headline": "China's Economy Gains Speed as AI Exports Offset Domestic Slump",
+  "body": [
+   {
+    "type": "p",
+    "text": "China's economic growth accelerated in the latest quarter, driven primarily by a surge in artificial‑intelligence related exports. While consumer spending at home remains weak, the export sector has provided a vital boost to overall activity."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the AI export boom is helping to counterbalance domestic demand shortfalls, but they also warn that ongoing trade tensions and lingering doubts about the sustainability of AI demand could temper future momentum."
+   },
+   {
+    "type": "p",
+    "text": "The combination of strong overseas sales and internal consumption challenges highlights a mixed outlook for China, where external factors may increasingly shape the trajectory of its growth."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "China's AI export surge could affect global technology supply chains and competitive dynamics for US and European firms."
+   }
+  ],
+  "key_points": [
+   "AI‑related exports are now the main engine of China's recent growth acceleration.",
+   "Weak domestic spending and trade frictions remain risks to the country's economic outlook."
+  ],
+  "meta_description": "China's growth speeds up as AI exports offset weak domestic demand, but trade tensions and AI market doubts linger.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "China",
+   "AI",
+   "exports",
+   "economic growth",
+   "trade tensions",
+   "technology"
+  ],
+  "slug": "china-s-economy-gains-speed-ai-exports-offset-domestic-bed335",
+  "reading_minutes": 1,
+  "added": "2026-10-19T05:13:14Z"
+ },
+ {
+  "id": "0ffa3e2b31ddb45d",
+  "source_url": "https://www.nytimes.com/2026/10/18/us/politics/larry-david-dsa-satire.html",
+  "source": "The New York Times",
+  "source_title": "Larry David Mocks the D.S.A. Some Are Not Amused.",
+  "source_summary": "The comedian satirized the Democratic Socialists of America, its platform and its opposition to Israel in an essay that some did not LOL at.",
+  "source_tags": [
+   "United States Politics and Government",
+   "David, Larry",
+   "Comedy and Humor",
+   "Midterm Elections (2026)",
+   "Jews and Judaism",
+   "Democratic Socialists of America",
+   "Curb Your Enthusiasm (TV Program)",
+   "Seinfeld (TV Program)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18pol-david-dsa-vlwm/18pol-david-dsa-vlwm-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T03:09:48+00:00",
+  "headline": "Larry David Satirizes Democratic Socialists, Draws Criticism",
+  "body": [
+   {
+    "type": "p",
+    "text": "Comedian Larry David published an essay that lampooned the Democratic Socialists of America (DSA), targeting the group’s policy platform and its stance on Israel. In the piece, David used his trademark humor to question the organization’s ideological consistency and political tactics."
+   },
+   {
+    "type": "p",
+    "text": "The satire provoked a mixed reaction. While some readers appreciated the comedic critique, others expressed displeasure, arguing that the essay crossed a line into disrespecting a legitimate political movement. Social media commentary reflected both amusement and condemnation."
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the ongoing tension between political satire and partisan sensitivities in contemporary discourse. David’s commentary adds to a broader conversation about how public figures engage with activist groups and contentious foreign‑policy issues."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode illustrates how satire can influence public perception of left‑wing groups, a dynamic relevant to U.S. and European political debates."
+   }
+  ],
+  "key_points": [
+   "Larry David mocked the DSA’s platform and its opposition to Israel in a recent essay.",
+   "The satire received both laughs and criticism, underscoring polarized views on political humor."
+  ],
+  "meta_description": "Larry David’s essay satirizing the Democratic Socialists of America sparked both amusement and backlash, highlighting tensions in political humor.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Larry David",
+   "Democratic Socialists of America",
+   "satire",
+   "political humor",
+   "Israel",
+   "US politics"
+  ],
+  "slug": "larry-david-satirizes-democratic-socialists-draws-criticism-0ffa3e",
+  "reading_minutes": 1,
+  "added": "2026-10-19T05:13:18Z"
+ },
+ {
+  "id": "cd3959b5032f9400",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo",
+  "source": "BBC News",
+  "source_title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+  "source_summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a585/live/c0af3490-cb61-11f1-a812-d3be2dbc962d.jpg",
+  "published": "2026-10-19T01:50:48+00:00",
+  "headline": "Bollywood Star Tiger Shroff Escapes Mumbai Car Shooting",
+  "body": [
+   {
+    "type": "p",
+    "text": "A video released by several news outlets shows gunmen opening fire on a moving car in Mumbai, India. The vehicle was carrying Bollywood actor Tiger Shroff, who was unharmed after the incident."
+   },
+   {
+    "type": "p",
+    "text": "The footage captures multiple rounds being discharged as the car passed a crowd, prompting on‑lookers to flee the scene. Authorities have not yet released details about the motive or the identity of the attackers."
+   },
+   {
+    "type": "p",
+    "text": "Shroff, known for his action roles, confirmed his safety in a brief statement, while police investigations continue to determine whether the attack was targeted or part of broader criminal activity."
+   }
+  ],
+  "key_points": [
+   "Gunmen fired several shots at a car carrying actor Tiger Shroff in Mumbai.",
+   "The actor emerged from the incident unharmed, according to reports.",
+   "Police have not disclosed motives or suspects behind the shooting."
+  ],
+  "meta_description": "Bollywood actor Tiger Shroff survived a shooting in Mumbai as gunmen opened fire on his moving car, according to video evidence.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tiger Shroff",
+   "Bollywood",
+   "Mumbai",
+   "shooting",
+   "India",
+   "entertainment"
+  ],
+  "slug": "bollywood-star-tiger-shroff-escapes-mumbai-car-shooting-cd3959",
+  "reading_minutes": 1,
+  "added": "2026-10-19T05:13:34Z"
+ },
+ {
+  "id": "bfa150e117b7f557",
+  "source_url": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
+  "source": "NPR",
+  "source_title": "What does a White House press secretary do?",
+  "source_summary": "Katie Zacharia's short time as White House press secretary has brought renewed attention to the high-profile role.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4597x3065+0+0/resize/4597x3065!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F88%2Fe01714b14c92b04ca175755c5462%2Fap26286502696919.jpg",
+  "published": "2026-10-19T01:41:24+00:00",
+  "headline": "Inside the Role of the White House Press Secretary Amid Katie Zacharia's Brief Tenure",
+  "body": [
+   {
+    "type": "p",
+    "text": "NPR’s latest piece breaks down the core responsibilities of the White House press secretary, the senior official tasked with conveying the administration’s messages to the media and the public. The article outlines how the position functions as the primary conduit for daily briefings, policy explanations and crisis communication."
+   },
+   {
+    "type": "p",
+    "text": "The story highlights that Katie Zacharia’s short stint in the role has drawn fresh scrutiny to the job’s high visibility and pressure. Her brief time on the job sparked renewed discussion about the demands placed on the press secretary and the impact of turnover on the administration’s messaging strategy."
+   },
+   {
+    "type": "p",
+    "text": "By detailing the duties and challenges inherent to the post, the report provides readers with a clearer picture of why the press secretary remains a pivotal figure in the White House’s communication apparatus."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the press secretary’s function helps citizens and observers gauge how the administration communicates policies and responds to crises."
+   }
+  ],
+  "key_points": [
+   "The article explains the main duties of the White House press secretary as the administration’s chief spokesperson.",
+   "Katie Zacharia’s brief tenure has renewed public attention on the pressures of the role.",
+   "Turnover in the position can affect the consistency of presidential messaging."
+  ],
+  "meta_description": "NPR explains the duties of the White House press secretary and how Katie Zacharia's short tenure has spotlighted the role.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "White House",
+   "Press Secretary",
+   "Katie Zacharia",
+   "Government Communication",
+   "Politics"
+  ],
+  "slug": "inside-role-white-house-press-secretary-amid-katie-zacharia-bfa150",
+  "reading_minutes": 1,
+  "added": "2026-10-19T05:13:30Z"
+ },
+ {
+  "id": "64e163149c7b1f94",
+  "source_url": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'",
+  "source_summary": "US President Donald Trump again accused Ukrainian President Volodymyr Zelenskyy of not wanting to end the war. The remarks come amid renewed tensions over US policy toward Moscow including waiving some sanctions.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79686258_6.jpg",
+  "published": "2026-10-19T00:26:00+00:00",
+  "headline": "Trump Defends Russia Sanctions Waivers, Blames Zelenskyy",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump reiterated his criticism of Ukrainian President Volodymyr Zelenskyy, saying the Ukrainian leader does not want the war to end. Trump made the comments as the United States faces renewed debate over its approach to Russia, including recent waivers of certain sanctions aimed at Moscow."
+   },
+   {
+    "type": "p",
+    "text": "The president defended the decision to grant sanctions waivers, arguing they serve U.S. interests, while accusing Zelenskyy of actions that \"prolong the war.\" The remarks highlight growing tension within the administration and among allies about how to balance pressure on Russia with support for Ukraine."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute reflects broader U.S. and European challenges in coordinating sanctions and aid to Ukraine amid the ongoing war."
+   }
+  ],
+  "key_points": [
+   "Trump defended recent waivers of Russian sanctions while accusing Zelenskyy of extending the conflict.",
+   "The comments underscore internal U.S. disagreements over policy toward Russia and Ukraine."
+  ],
+  "meta_description": "Trump backs Russia sanctions waivers and blames Zelenskyy for prolonging the war, sparking policy tension.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Zelenskyy",
+   "sanctions",
+   "Russia",
+   "Ukraine",
+   "US policy"
+  ],
+  "slug": "trump-defends-russia-sanctions-waivers-blames-zelenskyy-64e163",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-19T05:13:39Z"
+ },
+ {
+  "id": "e2ccbff6cf02fec4",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo",
+  "source": "BBC News",
+  "source_title": "People playing loud music on buses could face £100 fine",
+  "source_summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db1b/live/55c58490-cb0c-11f1-8d4d-2553b65f173b.jpg",
+  "published": "2026-10-19T00:22:20+00:00",
+  "headline": "England to Fine Loud Bus Music Players Up to £100, Launches Rail Noise Campaign",
+  "body": [
+   {
+    "type": "p",
+    "text": "Transport operators in England are tightening rules on antisocial conduct aboard buses. Passengers who play music loudly enough to disturb others could now face fines of up to £100, according to the latest guidance from authorities."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, a nationwide campaign targeting train travellers has been introduced. The initiative urges commuters to \"share the carriage, not the noise,\" encouraging quieter behaviour in shared rail spaces."
+   },
+   {
+    "type": "p",
+    "text": "Both measures aim to improve the travel experience for the public by reducing disruptive noise on public transport. Enforcement will be carried out by transport staff and local police, who will issue penalties to those who ignore the new standards."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Similar noise‑related complaints affect commuters in many countries, making the English approach relevant for public‑transport policy discussions in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "England will impose fines of up to £100 for passengers playing loud music on buses.",
+   "A new rail campaign asks travellers to keep noise levels down, using the slogan \"share the carriage, not the noise\"."
+  ],
+  "meta_description": "England will fine loud bus music players up to £100 and launches a rail campaign urging quieter travel.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "public transport",
+   "noise regulations",
+   "England",
+   "bus fines",
+   "rail campaign"
+  ],
+  "slug": "england-fine-loud-bus-music-players-up-100-launches-e2ccbf",
+  "reading_minutes": 1,
+  "added": "2026-10-19T05:13:26Z"
+ },
+ {
+  "id": "da5547d2e60834ba",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo",
+  "source": "BBC News",
+  "source_title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+  "source_summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-19T00:06:25+00:00",
+  "headline": "Former Russian Operatives Describe Anti‑Putin Sabotage for Ukraine",
+  "body": [
+   {
+    "type": "p",
+    "text": "Two Russian men have spoken publicly about covert activities they say they carried out on behalf of Ukrainian intelligence during the ongoing war. According to their accounts, they operated inside Russia, targeting infrastructure and gathering information that could undermine President Vladimir Putin’s war effort."
+   },
+   {
+    "type": "p",
+    "text": "The men describe a network of small‑scale sabotage actions, ranging from disrupting communications to damaging logistical assets used by Russian forces. They say their work was coordinated with Ukrainian agencies and aimed at weakening the Russian military’s capacity without attracting large‑scale attention."
+   },
+   {
+    "type": "p",
+    "text": "Both individuals stress that their efforts were motivated by opposition to the war and a desire to support Ukraine’s defence. Their testimonies provide a rare glimpse into internal resistance within Russia and illustrate how foreign intelligence services may rely on local actors to conduct covert operations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The revelations show how the conflict extends into covert operations inside Russia, raising security concerns for Western allies supporting Ukraine."
+   }
+  ],
+  "key_points": [
+   "Two Russian insiders claim they performed sabotage for Ukrainian intelligence during the war.",
+   "Their reported actions focused on disrupting Russian military logistics and communications.",
+   "The accounts highlight an internal opposition network that aids Ukraine from within Russia."
+  ],
+  "meta_description": "Two Russian men detail sabotage work for Ukrainian intelligence, shedding light on internal resistance against Putin's war.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Russia",
+   "Ukraine",
+   "Sabotage",
+   "Intelligence",
+   "War",
+   "Opposition"
+  ],
+  "slug": "former-russian-operatives-describe-antiputin-sabotage-ukraine-da5547",
+  "reading_minutes": 1,
+  "added": "2026-10-19T05:13:42Z"
+ },
+ {
   "id": "a3a95069ed873918",
   "source_url": "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html",
   "source": "The New York Times",
@@ -269,6 +797,51 @@
   "slug": "trump-suspends-pending-russia-sanctions-aid-peace-talks-be2582",
   "reading_minutes": 1,
   "added": "2026-10-19T00:08:57Z"
+ },
+ {
+  "id": "8246dcf875909dbb",
+  "source_url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o",
+  "source": "BBC News",
+  "source_title": "Major fire at Canada military base leaves four dead, dozens injured",
+  "source_summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-18T23:06:09+00:00",
+  "headline": "Deadly Fire Ravages Canadian Military Base, Four Killed",
+  "body": [
+   {
+    "type": "p",
+    "text": "A major blaze broke out at a Canadian military installation on Saturday night, killing four people and leaving dozens more injured. The fire, described by officials as one of the most severe they have faced, engulfed several sections of the base before emergency crews were able to contain it."
+   },
+   {
+    "type": "p",
+    "text": "Prime Minister Justin Carney said that military personnel and emergency responders worked through the night to battle the flames, describing the conditions as \"some of the worst conditions imaginable.\" The effort involved coordinated actions from fire teams, medical units and base security to evacuate personnel and limit further damage."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have not released a full casualty count beyond the four fatalities, but reports confirm that many service members and civilian staff required medical attention. An investigation into the cause of the fire has been launched, with officials promising a thorough review of safety protocols at the facility."
+   }
+  ],
+  "key_points": [
+   "A fire at a Canadian military base killed four and injured dozens.",
+   "Prime Minister Carney praised the night‑long response by military and emergency crews.",
+   "The incident is under investigation to determine its cause."
+  ],
+  "meta_description": "A major fire at a Canadian military base killed four and injured dozens, prompting a night‑long response by troops and emergency crews.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "military",
+   "fire",
+   "casualties",
+   "emergency response"
+  ],
+  "slug": "deadly-fire-ravages-canadian-military-base-four-killed-8246dc",
+  "reading_minutes": 1,
+  "added": "2026-10-19T05:13:50Z"
  },
  {
   "id": "73ce7b1dab25a142",
@@ -2469,6 +3042,60 @@
   "slug": "us-ambassador-calls-west-bank-settler-attack-journalist-terror-483726",
   "reading_minutes": 1,
   "added": "2026-10-18T21:36:15Z"
+ },
+ {
+  "id": "6ce8d55f576332f7",
+  "source_url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo",
+  "source": "BBC News",
+  "source_title": "Microsoft pulls out of UK's largest AI data centre",
+  "source_summary": "Tech firm Nscale says it is still committed to building the site in Essex.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46c0/live/18b0c090-cb13-11f1-a9ef-8b4e735f71f0.jpg",
+  "published": "2026-10-18T16:46:42+00:00",
+  "headline": "Microsoft Withdraws From UK's Largest Planned AI Data Centre",
+  "body": [
+   {
+    "type": "p",
+    "text": "Microsoft announced it will no longer participate in the development of the United Kingdom's biggest artificial‑intelligence data centre, slated for construction in Essex. The decision marks a reversal from earlier plans that had positioned the tech giant as a key partner in the project."
+   },
+   {
+    "type": "p",
+    "text": "Despite Microsoft's exit, the project developer, Nscale, said it remains fully committed to building the facility. Nscale did not provide a timeline for the revised rollout but affirmed that the centre will still proceed under its own direction."
+   },
+   {
+    "type": "p",
+    "text": "The withdrawal comes as the UK seeks to expand its AI infrastructure to compete globally, though the specific reasons behind Microsoft's pull‑out were not disclosed in the statement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision could affect the pace of AI infrastructure development in Europe, influencing competition with US and Asian tech firms."
+   }
+  ],
+  "key_points": [
+   "Microsoft has pulled out of the planned AI data centre in Essex, UK.",
+   "Developer Nscale says the project will continue without Microsoft.",
+   "The move occurs amid broader UK efforts to grow AI capacity."
+  ],
+  "meta_description": "Microsoft exits the UK's largest AI data centre project in Essex, but developer Nscale vows to continue construction.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Microsoft",
+   "AI data centre",
+   "UK tech",
+   "Nscale",
+   "Essex",
+   "AI infrastructure"
+  ],
+  "slug": "microsoft-withdraws-from-uk-s-largest-planned-ai-data-6ce8d5",
+  "reading_minutes": 1,
+  "added": "2026-10-19T05:13:45Z"
  },
  {
   "id": "c656ecc3f3ddd158",
@@ -39992,7 +40619,7 @@
    "movies"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024",
   "published": "2026-10-08T18:20:32+00:00",
   "headline": "Ben Affleck Is an AI Nerd, and the Internet Is Impressed",
   "body": [
@@ -40024,7 +40651,8 @@
   ],
   "slug": "ben-affleck-ai-nerd-internet-impressed-7dcbf8",
   "reading_minutes": 1,
-  "added": "2026-10-08T18:50:50Z"
+  "added": "2026-10-08T18:50:50Z",
+  "img_checked": 2
  },
  {
   "id": "66a844307a25a338",
@@ -40039,7 +40667,7 @@
    "TC"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
   "published": "2026-10-08T18:19:45+00:00",
   "headline": "Popular AI Leaderboard Arena Nearly Doubles Valuation to $3.1B Valuation in 10 Months",
   "body": [
@@ -40068,7 +40696,8 @@
   ],
   "slug": "popular-ai-leaderboard-arena-nearly-doubles-valuation-3-1b-66a844",
   "reading_minutes": 1,
-  "added": "2026-10-08T18:50:50Z"
+  "added": "2026-10-08T18:50:50Z",
+  "img_checked": 2
  },
  {
   "id": "8dce6b889a93aede",
@@ -40082,7 +40711,7 @@
    "OpenAI"
   ],
   "category_hint": "tech",
-  "image": null,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
   "published": "2026-10-08T18:19:42+00:00",
   "headline": "OpenAI Revenue Revised Down by $20 Billion From Earlier Forecast",
   "body": [
@@ -40125,7 +40754,8 @@
   ],
   "slug": "openai-revenue-revised-down-20-billion-from-earlier-forecast-8dce6b",
   "reading_minutes": 1,
-  "added": "2026-10-08T19:13:53Z"
+  "added": "2026-10-08T19:13:53Z",
+  "img_checked": 2
  },
  {
   "id": "ebb9fcaf69c069f3",
@@ -40137,7 +40767,7 @@
    "News"
   ],
   "category_hint": "world",
-  "image": null,
+  "image": "https://static.dw.com/image/79306945_6.jpg",
   "published": "2026-10-08T18:18:00+00:00",
   "headline": "Trump Says US Won’t Resume Iran Strikes Before Midterms Amid Voter Concerns",
   "body": [
@@ -40181,7 +40811,8 @@
   ],
   "slug": "trump-says-us-wont-resume-iran-strikes-before-midterms-ebb9fc",
   "reading_minutes": 1,
-  "added": "2026-10-08T19:13:29Z"
+  "added": "2026-10-08T19:13:29Z",
+  "img_checked": 2
  },
  {
   "id": "99f761068afaf5c6",
@@ -40448,7 +41079,8 @@
   ],
   "slug": "oil-prices-surge-violence-escalates-around-strait-hormuz-7629cb",
   "reading_minutes": 1,
-  "added": "2026-10-08T19:13:37Z"
+  "added": "2026-10-08T19:13:37Z",
+  "img_checked": 2
  },
  {
   "id": "21983fe5ab5ec39f",
