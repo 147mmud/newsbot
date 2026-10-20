@@ -1,5 +1,642 @@
 [
  {
+  "id": "5098b8d540db52e8",
+  "source_url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+  "source": "TechCrunch",
+  "source_title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+  "source_summary": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
+  "source_tags": [
+   "Media & Entertainment",
+   "Apps",
+   "Spotify",
+   "podcasts",
+   "Creators",
+   "streaming service"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Memberships-1.jpg?resize=1200,675",
+  "published": "2026-10-20T12:00:00+00:00",
+  "headline": "Spotify Launches Paid Podcast Memberships With Perks and 90% Share",
+  "body": [
+   {
+    "type": "p",
+    "text": "Spotify announced a new paid‑membership model that lets podcasters sell exclusive perks to listeners. The offering includes ad‑free listening, early episode access and bonus content that goes beyond the standard free feed."
+   },
+   {
+    "type": "p",
+    "text": "Under the program, creators retain 90 percent of the subscription revenue, while Spotify takes the remaining 10 percent. The platform says the model is designed to give podcasters a sustainable way to monetize loyal audiences without relying solely on advertising."
+   },
+   {
+    "type": "p",
+    "text": "The service is now available to any podcaster on Spotify’s platform, and the company expects the feature to expand its podcast ecosystem as creators experiment with tiered fan experiences."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The model could reshape podcast monetization in the U.S. and Europe, offering creators a direct revenue stream beyond ads."
+   }
+  ],
+  "key_points": [
+   "Spotify’s paid podcast memberships give fans ad‑free, early‑access and bonus content.",
+   "Podcasters keep 90% of subscription revenue, with Spotify retaining a 10% cut."
+  ],
+  "meta_description": "Spotify rolls out paid podcast memberships, offering ad‑free listening and early access while letting creators keep 90% of revenue.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spotify",
+   "podcasts",
+   "paid memberships",
+   "creator revenue",
+   "streaming"
+  ],
+  "slug": "spotify-launches-paid-podcast-memberships-with-perks-90-share-5098b8",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T12:01:55Z"
+ },
+ {
+  "id": "3a62b233971a0b75",
+  "source_url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
+  "source": "TechCrunch",
+  "source_title": "Oura adds new fitness metrics to show how workouts impact your body",
+  "source_summary": "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to differentiate itself from competitors as the smart ring market gets more crowded.",
+  "source_tags": [
+   "Hardware",
+   "Gadgets",
+   "oura"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+  "published": "2026-10-20T12:00:00+00:00",
+  "headline": "Oura Introduces Advanced Workout Metrics Amid Growing Ring Competition",
+  "body": [
+   {
+    "type": "p",
+    "text": "Oura has rolled out a suite of new fitness metrics designed to detail how individual workouts affect the body. The enhancements expand the ring’s existing health tracking capabilities, offering users deeper insight into recovery, strain and physiological responses during exercise."
+   },
+   {
+    "type": "p",
+    "text": "The move comes as rivals such as RingConn and Ultrahuman intensify competition in the smart‑ring market. Both newcomers have launched features aimed at capturing health‑focused consumers, prompting Oura to differentiate its product through more sophisticated data analysis."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the added metrics could help Oura maintain its leadership position as the wearable sector becomes increasingly crowded. By focusing on granular workout analytics, the company aims to appeal to fitness enthusiasts seeking precise, actionable feedback from a discreet device."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For consumers in the US and Europe, the enhanced metrics mean more precise health data from a compact device, influencing buying decisions in a rapidly expanding wearable market."
+   }
+  ],
+  "key_points": [
+   "Oura adds detailed workout impact metrics to its smart ring.",
+   "New features aim to set Oura apart from emerging rivals RingConn and Ultrahuman.",
+   "The upgrade reflects growing competition in the wearable health market."
+  ],
+  "meta_description": "Oura launches advanced workout metrics to stay ahead of rivals RingConn and Ultrahuman in the crowded smart‑ring market.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Oura",
+   "smart ring",
+   "fitness metrics",
+   "wearables",
+   "competition"
+  ],
+  "slug": "oura-introduces-advanced-workout-metrics-amid-growing-ring-competition-3a62b2",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T12:02:11Z"
+ },
+ {
+  "id": "27981e79208d6534",
+  "source_url": "https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch",
+  "source": "The Verge",
+  "source_title": "Spotify’s new podcast memberships let you pay for extra perks",
+  "source_summary": "Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May, the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional content, early access, bonus episodes, […]",
+  "source_tags": [
+   "Entertainment",
+   "News",
+   "Spotify",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-Podcast-Memberships.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-20T12:00:00+00:00",
+  "headline": "Spotify Launches Podcast Memberships Across 34 Regions",
+  "body": [
+   {
+    "type": "p",
+    "text": "Spotify is expanding its new Memberships feature, letting podcast creators charge listeners for exclusive perks. The rollout begins today in 34 countries, following the initial announcement in May."
+   },
+   {
+    "type": "p",
+    "text": "Podcasters can now offer subscribers additional content such as bonus episodes, early access to shows, and other special benefits. The subscription model is designed to give creators a direct revenue stream beyond traditional advertising."
+   },
+   {
+    "type": "p",
+    "text": "The platform says the feature will help creators monetize their audiences more effectively, while giving fans a way to support their favorite shows and receive extra material."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move signals a shift toward subscription-based revenue for audio creators, impacting both U.S. and European podcast markets."
+   }
+  ],
+  "key_points": [
+   "Spotify's podcast Memberships are now available in 34 regions.",
+   "Creators can charge listeners for perks like bonus episodes and early access.",
+   "The subscription tool aims to boost creator earnings beyond ads."
+  ],
+  "meta_description": "Spotify expands its podcast Memberships to 34 regions, letting creators charge for exclusive content and perks.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spotify",
+   "podcasts",
+   "subscription",
+   "creator earnings",
+   "media"
+  ],
+  "slug": "spotify-launches-podcast-memberships-across-34-regions-27981e",
+  "reading_minutes": 1,
+  "added": "2026-10-20T12:02:22Z"
+ },
+ {
+  "id": "bfba6319bd21ee9e",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o",
+  "source": "BBC News",
+  "source_title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+  "source_summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a6/live/9cd3f910-cc7a-11f1-bed8-c51b95c602ec.jpg",
+  "published": "2026-10-20T11:59:50+00:00",
+  "headline": "Paddy Power Slashes 1,400 Jobs Citing New Betting Tax Increases",
+  "body": [
+   {
+    "type": "p",
+    "text": "Irish betting group Paddy Power has announced the elimination of 1,400 positions, representing a significant reduction in its workforce. The company said the cuts are a direct response to higher levies imposed on online casino and sports‑betting operators in the UK and Ireland."
+   },
+   {
+    "type": "p",
+    "text": "The tax hikes were introduced in the previous year’s Budget, raising the cost of running digital gambling platforms. Paddy Power argues that the increased fiscal burden makes its current business model unsustainable, prompting the restructuring."
+   },
+   {
+    "type": "p",
+    "text": "The job reductions will affect staff across several departments, though the firm did not disclose the exact locations or the timeline for the layoffs. Executives emphasized that the move is intended to preserve the company’s long‑term viability in a tighter regulatory environment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher gambling taxes in Europe are reshaping the profitability of betting firms, which could affect market competition and employment in the sector."
+   }
+  ],
+  "key_points": [
+   "Paddy Power is cutting 1,400 jobs after a recent increase in betting taxes.",
+   "The tax rise was part of last year’s Budget and targets online casino and sports betting revenues.",
+   "The layoffs are aimed at maintaining profitability amid tighter fiscal pressures."
+  ],
+  "meta_description": "Paddy Power cuts 1,400 jobs, blaming recent betting tax hikes introduced in last year's budget.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Paddy Power",
+   "job cuts",
+   "betting tax",
+   "gambling industry",
+   "Europe",
+   "employment"
+  ],
+  "slug": "paddy-power-slashes-1-400-jobs-citing-new-betting-bfba63",
+  "reading_minutes": 1,
+  "added": "2026-10-20T12:01:59Z"
+ },
+ {
+  "id": "b3e5a6a7d7dc673d",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo",
+  "source": "BBC News",
+  "source_title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+  "source_summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a4e/live/0b27de20-cc78-11f1-baeb-8d65d4bcd7ab.jpg",
+  "published": "2026-10-20T11:59:45+00:00",
+  "headline": "UK Sends Fighter Jets to Shield Saudi Arabia From Houthi Attacks",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United Kingdom announced it will deploy additional fighter jets to Saudi Arabia to provide defensive support as Houthi missile and drone attacks in the Red Sea region increase. The move is part of a broader effort to protect Saudi critical infrastructure and commercial shipping routes from the escalating threat."
+   },
+   {
+    "type": "p",
+    "text": "British officials said the aircraft will operate under a defensive posture, working alongside Saudi forces to intercept hostile projectiles. The deployment comes after a recent surge in Houthi strikes that have targeted oil facilities and vessels in the area."
+   },
+   {
+    "type": "p",
+    "text": "The decision underscores the UK’s commitment to regional security and its strategic partnership with Saudi Arabia, while also reflecting concerns among Western allies about the potential spill‑over effects of the conflict on global energy markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The reinforcement could help stabilize a key oil‑export route, limiting disruptions that affect energy prices in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "The UK will send fighter jets to Saudi Arabia for defensive operations against Houthi attacks.",
+   "The deployment aims to protect Saudi infrastructure and shipping lanes in the Red Sea.",
+   "It highlights the UK's ongoing security partnership with Saudi Arabia amid rising regional tensions."
+  ],
+  "meta_description": "The UK will deploy fighter jets to Saudi Arabia to defend against escalating Houthi attacks, aiming to protect regional shipping and infrastructure.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK defence",
+   "Saudi Arabia",
+   "Houthi attacks",
+   "Red Sea security",
+   "military cooperation"
+  ],
+  "slug": "uk-sends-fighter-jets-shield-saudi-arabia-from-houthi-b3e5a6",
+  "reading_minutes": 1,
+  "added": "2026-10-20T12:02:02Z"
+ },
+ {
+  "id": "a021a26c7dd7c3a4",
+  "source_url": "https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html",
+  "source": "The New York Times",
+  "source_title": "Rubio Visits India to Boost Economic Ties Amid Friction With Trump",
+  "source_summary": "The secretary of state will meet with Asia’s richest men as Washington seeks a trade deal.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "International Relations",
+   "International Trade and World Market",
+   "Politics and Government",
+   "Oil (Petroleum) and Gasoline",
+   "High Net Worth Individuals",
+   "Reliance Industries",
+   "State Department",
+   "Adani, Gautam S"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-rubio-india-fqjh/20int-rubio-india-fqjh-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T11:54:45+00:00",
+  "headline": "Rubio Visits India to Boost Ties Amid Trump Rift, Seeking Deal",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. Secretary of State Antony Rubio traveled to New Delhi this week to deepen economic cooperation with India. The visit comes as relations between the White House and former President Donald Trump remain strained, prompting Washington to look for new trade partners."
+   },
+   {
+    "type": "p",
+    "text": "During the trip, Rubio is scheduled to meet several of India’s wealthiest businessmen, a move aimed at laying groundwork for a broader trade agreement. Officials say the meetings are part of a concerted effort to expand market access for American firms and attract Indian investment."
+   },
+   {
+    "type": "p",
+    "text": "The outreach reflects a broader strategy by the Biden administration to diversify U.S. trade ties in Asia, especially as geopolitical tensions and domestic political dynamics reshape traditional partnerships."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European audiences, the visit signals a shift toward deeper economic engagement with India as political tensions at home drive a search for alternative trade allies."
+   }
+  ],
+  "key_points": [
+   "Secretary of State Antony Rubio visited India to strengthen economic ties amid friction with former President Trump.",
+   "Rubio will meet top Indian billionaires as part of efforts to negotiate a new trade deal.",
+   "The trip underscores Washington’s push to broaden Asian trade partnerships."
+  ],
+  "meta_description": "U.S. Secretary of State Rubio visits India to boost economic ties and meet top Indian businessmen amid Trump-related friction.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "trade",
+   "US foreign policy",
+   "economic ties",
+   "Rubio"
+  ],
+  "slug": "rubio-visits-india-boost-ties-amid-trump-rift-seeking-a021a2",
+  "reading_minutes": 1,
+  "added": "2026-10-20T12:02:08Z"
+ },
+ {
+  "id": "ebb25c71fbd771db",
+  "source_url": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html",
+  "source": "The New York Times",
+  "source_title": "Investors in Anticipation Over Musk’s Next Big SpaceX Deal",
+  "source_summary": "Ahead of SpaceX’s quarterly earnings report, many on Wall Street are wondering whether Elon Musk will combine it with Tesla.",
+  "source_tags": [
+   "internal-storyline-no",
+   "Musk, Elon",
+   "Tesla Motors Inc",
+   "Space Exploration Technologies Corp",
+   "Electric and Hybrid Vehicles",
+   "Artificial Intelligence",
+   "Anthropic AI LLC",
+   "Stocks and Bonds",
+   "Company Reports",
+   "Zelensky, Volodymyr"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20db-musk-wgvh/20db-musk-wgvh-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T11:52:17+00:00",
+  "headline": "Wall Street Awaits Musk’s Potential SpaceX‑Tesla Deal Ahead of Earnings",
+  "body": [
+   {
+    "type": "p",
+    "text": "Investors are closely watching SpaceX as the company approaches its quarterly earnings release, with many analysts speculating about a possible strategic move involving Tesla. The anticipation stems from Elon Musk’s dual leadership of both firms and recent market chatter suggesting a merger or deeper integration could be on the table."
+   },
+   {
+    "type": "p",
+    "text": "Wall Street analysts note that a combined SpaceX‑Tesla entity could reshape revenue streams and influence stock valuations across the technology and automotive sectors. While no official statements have been made, the prospect has prompted heightened trading activity and a surge in analyst coverage of both companies."
+   },
+   {
+    "type": "p",
+    "text": "The speculation comes at a time when both SpaceX and Tesla are navigating regulatory scrutiny and competitive pressures. Should Musk pursue a formal deal, the outcome could have significant implications for investors, suppliers, and the broader innovation landscape."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A merger would affect major U.S. and European investors and could alter competitive balances in aerospace and electric‑vehicle markets."
+   }
+  ],
+  "key_points": [
+   "Investors are speculating that Elon Musk may link SpaceX with Tesla ahead of SpaceX’s earnings report.",
+   "A potential SpaceX‑Tesla deal could impact stock valuations and market dynamics in tech and automotive sectors."
+  ],
+  "meta_description": "Investors anticipate a possible SpaceX‑Tesla deal as SpaceX prepares its earnings report, sparking market speculation.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "SpaceX",
+   "Tesla",
+   "Elon Musk",
+   "Wall Street",
+   "earnings",
+   "merger speculation"
+  ],
+  "slug": "wall-street-awaits-musks-potential-spacextesla-deal-ahead-earnings-ebb25c",
+  "reading_minutes": 1,
+  "added": "2026-10-20T12:02:15Z"
+ },
+ {
+  "id": "ee216b2578109a4c",
+  "source_url": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Germany: Google must have consent to publish property images",
+  "source_summary": "A court in the western German state of Hesse has said Google is \"spying\" on people and has no right to publish information about their property on its Maps and Earth sites. The case stems from images taken from the air.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79712251_6.jpg",
+  "published": "2026-10-20T11:46:00+00:00",
+  "headline": "German Court Rules Google Needs Consent to Publish Aerial Property Images",
+  "body": [
+   {
+    "type": "p",
+    "text": "A regional court in Hesse, western Germany, has ruled that Google lacks the legal right to display images of private property on its Maps and Earth platforms without owners’ consent. The court described the practice as \"spying\" on individuals, emphasizing that the aerial photographs were taken without permission."
+   },
+   {
+    "type": "p",
+    "text": "The decision stems from a case involving images captured from the air, which the court says constitute personal information about property owners. Google must now obtain explicit consent before publishing such imagery on its mapping services in Germany."
+   },
+   {
+    "type": "p",
+    "text": "The ruling underscores the growing scrutiny of digital mapping services and their handling of privacy-sensitive data in Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights how European privacy laws are being applied to digital mapping services, affecting how companies handle location data worldwide."
+   }
+  ],
+  "key_points": [
+   "A Hesse court says Google is \"spying\" and must get consent to show aerial photos of private property.",
+   "The judgment requires Google to obtain owners' permission before publishing such images on Maps and Earth."
+  ],
+  "meta_description": "German court orders Google to obtain consent before publishing aerial images of private property on Maps and Earth.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Google",
+   "privacy",
+   "Germany",
+   "court ruling",
+   "mapping",
+   "aerial imagery"
+  ],
+  "slug": "german-court-rules-google-needs-consent-publish-aerial-property-ee216b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T12:02:43Z"
+ },
+ {
+  "id": "8c9c53ded81e43a3",
+  "source_url": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
+  "source": "The New York Times",
+  "source_title": "Google Reports Cloud Disruptions in Europe Region",
+  "source_summary": "The disruptions began around 7 a.m. in London, the tech giant said. The cause of the outage was not immediately clear.",
+  "source_tags": [
+   "Computer Network Outages",
+   "Google Inc",
+   "Cloud Computing",
+   "Revolut Technologies Inc",
+   "London (England)"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20xp-cloudoutage-mpgb/20xp-cloudoutage-mpgb-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T11:34:52+00:00",
+  "headline": "Google Reports Cloud Disruptions Across Europe Region on Monday",
+  "body": [
+   {
+    "type": "p",
+    "text": "Google said its cloud services experienced disruptions in the Europe region starting around 7 a.m. London time on Monday. The outage affected multiple data centers, causing intermittent availability for customers using the platform."
+   },
+   {
+    "type": "p",
+    "text": "The company has not identified a specific cause for the incident, noting that investigations are ongoing. Google’s statement emphasized that it is working to restore full functionality and will provide updates as more information becomes available."
+   },
+   {
+    "type": "p",
+    "text": "Clients in the affected areas reported varying levels of impact, with some services experiencing slow response times while others were temporarily inaccessible. The disruption underscores the reliance of many businesses on cloud infrastructure for daily operations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outage highlights the vulnerability of businesses that depend on Google Cloud for critical operations in Europe and for U.S. firms with European operations."
+   }
+  ],
+  "key_points": [
+   "Google cloud services faced outages in Europe beginning at 7 a.m. London time on Monday.",
+   "The cause of the disruption remains unclear as Google investigates.",
+   "Customers reported intermittent access and performance issues across affected data centers."
+  ],
+  "meta_description": "Google reports cloud service disruptions across Europe starting at 7 a.m. London time on Monday, with cause still under investigation.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "google",
+   "cloud",
+   "outage",
+   "europe",
+   "services"
+  ],
+  "slug": "google-reports-cloud-disruptions-across-europe-region-monday-8c9c53",
+  "reading_minutes": 1,
+  "added": "2026-10-20T12:02:39Z"
+ },
+ {
+  "id": "b43780c23f729902",
+  "source_url": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+  "source": "NPR",
+  "source_title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+  "source_summary": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4896x2754+0+255/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F12%2Fb739bfa04d84a242397a152fc07e%2Fgettyimages-2298298119.jpg",
+  "published": "2026-10-20T11:04:49+00:00",
+  "headline": "DOJ Charges 28 Californians in Voting Crimes as TikTok Ignored Child Safety Alerts",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Department of Justice announced on Thursday that 28 individuals in California have been indicted on charges related to voting violations ahead of the upcoming Election Day, according to federal filings. The charges include allegations of illegal ballot handling and other infractions that could undermine election integrity."
+   },
+   {
+    "type": "p",
+    "text": "In a separate matter, court documents reveal that TikTok employees raised concerns about child safety with senior executives, but the company failed to take corrective action. The internal warnings, documented in recent legal filings, highlight alleged lapses in protecting minors on the platform."
+   },
+   {
+    "type": "p",
+    "text": "Both developments arrive as the United States and its allies intensify scrutiny of democratic processes and digital platform responsibilities. The DOJ case underscores ongoing federal efforts to enforce election laws, while the TikTok revelations add to global debates over online safety regulations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "These stories illustrate heightened enforcement of election integrity and growing regulatory focus on tech companies' duty to protect minors, issues of interest to both U.S. and European audiences."
+   }
+  ],
+  "key_points": [
+   "The DOJ has charged 28 Californians with voting-related offenses as the 2026 election approaches.",
+   "TikTok executives reportedly ignored internal warnings about child safety, according to court records."
+  ],
+  "meta_description": "DOJ charges 28 Californians with voting crimes and court records show TikTok ignored child safety concerns, highlighting election and tech oversight.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "DOJ",
+   "voting fraud",
+   "TikTok",
+   "child safety",
+   "election security",
+   "tech regulation"
+  ],
+  "slug": "doj-charges-28-californians-voting-crimes-tiktok-ignored-child-b43780",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T12:02:37Z"
+ },
+ {
+  "id": "33f72cf8b33fabf0",
+  "source_url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+  "source": "TechCrunch",
+  "source_title": "Yelp can now call on your behalf to check wait times at a restaurant",
+  "source_summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+  "source_tags": [
+   "TC",
+   "AI",
+   "Apps"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
+  "published": "2026-10-20T11:00:00+00:00",
+  "headline": "Yelp Adds AI Feature to Call Restaurants for Wait Times Now",
+  "body": [
+   {
+    "type": "p",
+    "text": "Yelp is rolling out a suite of new artificial‑intelligence tools inside its mobile app. One of the headline functions lets the service place a phone call on a user’s behalf to ask a restaurant about its current wait time, eliminating the need for diners to call themselves."
+   },
+   {
+    "type": "p",
+    "text": "The AI also powers personalized recommendation engines that remember individual taste preferences and dining history. Users can receive suggestions that align with past choices, making it easier to discover new spots that match their palate."
+   },
+   {
+    "type": "p",
+    "text": "These capabilities are integrated directly into Yelp’s existing platform, meaning the familiar search and review experience now includes automated assistance for both real‑time logistics and long‑term meal planning."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The features streamline restaurant planning for consumers in the U.S. and Europe, reducing phone‑call friction and offering more relevant dining options."
+   }
+  ],
+  "key_points": [
+   "Yelp’s AI can automatically call restaurants to report wait times for users.",
+   "The same AI remembers diners’ preferences to generate tailored restaurant suggestions."
+  ],
+  "meta_description": "Yelp introduces AI that calls restaurants for wait times and creates personalized dining recommendations within its app.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Yelp",
+   "AI",
+   "restaurant apps",
+   "wait times",
+   "personalization"
+  ],
+  "slug": "yelp-adds-ai-feature-call-restaurants-wait-times-now-33f72c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T12:02:47Z"
+ },
+ {
   "id": "52f95601e1f50bb9",
   "source_url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
   "source": "The Verge",
@@ -48,6 +685,58 @@
   "slug": "google-home-speakers-bug-triggers-hundreds-gb-data-downloads-52f956",
   "reading_minutes": 1,
   "added": "2026-10-20T10:18:13Z"
+ },
+ {
+  "id": "93cfa1ea75e42e67",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjn5vqq974epo",
+  "source": "BBC Sport",
+  "source_title": "Uncapped Dragons get Wales Nations Championship call",
+  "source_summary": "Wales include uncapped Dragons backs Aneurin Owen and Che Hope in the squad for November Nations Championship Tests but Taulupe Faletau misses out.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7804/live/a3ec25e0-cc6d-11f1-9a39-31b474234113.png",
+  "published": "2026-10-20T10:13:30+00:00",
+  "headline": "Wales Names Uncapped Dragons Backs Owen and Hope for Nations Tests",
+  "body": [
+   {
+    "type": "p",
+    "text": "Wales has added two uncapped backs from the Dragons, Aneurin Owen and Che Hope, to its squad for the upcoming November Nations Championship tests. Both players are making their first appearance in a senior Wales squad, reflecting the coaching staff's willingness to broaden the talent pool ahead of the tournament."
+   },
+   {
+    "type": "p",
+    "text": "The selections come as veteran forward Taulupe Faletau was omitted from the squad, marking a notable change in the lineup. Faletau's absence opens a spot for fresh faces in the forward pack, while the inclusion of Owen and Hope bolsters the backline options for the coaching team."
+   },
+   {
+    "type": "p",
+    "text": "The moves underline Wales' strategy to blend experience with emerging talent as they prepare for a series of high‑profile matches in the Nations Championship."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The selections signal Wales' intent to refresh its roster ahead of a major European competition, which could affect the team's performance in upcoming international fixtures."
+   }
+  ],
+  "key_points": [
+   "Wales has called up uncapped Dragons backs Aneurin Owen and Che Hope for the November Nations Championship.",
+   "Veteran Taulupe Faletau was left out of the squad, highlighting a shift toward new players."
+  ],
+  "meta_description": "Wales adds uncapped Dragons backs Owen and Hope to its Nations Championship squad while veteran Faletau is omitted.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Wales rugby",
+   "Nations Championship",
+   "Dragons",
+   "uncapped players",
+   "squad selection"
+  ],
+  "slug": "wales-names-uncapped-dragons-backs-owen-hope-nations-tests-93cfa1",
+  "reading_minutes": 1,
+  "added": "2026-10-20T12:02:19Z"
  },
  {
   "id": "e182a3facfde1b06",
