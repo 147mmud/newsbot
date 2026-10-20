@@ -1,0 +1,77 @@
+# Facebook Reels (result, match-day and news-in-60-seconds reels).
+# Hourly, one reel per run, max FB_REELS_MAX_PER_DAY a day. PREVIEW ONLY
+# (renders to the "reel-previews" artifact, nothing posted) until the repo
+# Variable FB_REELS_ENABLED is "true".
+name: Reels to Facebook
+
+on:
+  schedule:
+    - cron: "41 * * * *"      # every hour at :41
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Force a reel type now (result / matchday / news), or leave empty"
+        required: false
+        default: ""
+
+permissions:
+  contents: write              # commit data/fb_posted.json (shared posting record)
+
+concurrency:
+  group: fbreels
+  cancel-in-progress: false
+
+jobs:
+  reels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: |
+          sudo apt-get update -qq >/dev/null
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core >/dev/null
+          pip install -q -r requirements.txt pillow numpy piper-tts==1.8.0
+
+      - name: Cache voice model
+        id: voice
+        uses: actions/cache@v4
+        with:
+          path: voices
+          key: piper-en_US-lessac-medium-v1
+
+      - name: Download voice model
+        if: steps.voice.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p voices
+          curl -sSL --retry 3 -o /tmp/voice.tar.bz2 \
+            https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-en_US-lessac-medium.tar.bz2
+          tar -xjf /tmp/voice.tar.bz2 -C voices
+
+      - name: Reel
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          FB_REELS_ENABLED: ${{ vars.FB_REELS_ENABLED }}
+          FB_REELS_MAX_PER_DAY: ${{ vars.FB_REELS_MAX_PER_DAY || '3' }}
+          FB_REELS_FORCE: ${{ github.event.inputs.force }}
+          FB_PAGE_ID: ${{ vars.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+        run: |
+          git config user.name  "newsbot"
+          git config user.email "newsbot@users.noreply.github.com"
+          python -m bot.reels_fb
+
+      - name: Keep reel previews
+        if: ${{ always() && hashFiles('reels_out/*') != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: reel-previews
+          path: reels_out/
+          retention-days: 7
