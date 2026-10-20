@@ -1,5 +1,680 @@
 [
  {
+  "id": "9dabda8095fb9cae",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
+  "source": "BBC News",
+  "source_title": "Elon Musk says Tesla-SpaceX merger being considered",
+  "source_summary": "Musk says special committees within both companies have been formed to look a possible mega-merger.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+  "published": "2026-10-20T22:43:56+00:00",
+  "headline": "Elon Musk Announces Exploration of Tesla‑SpaceX Mega‑Merger",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk told reporters that both Tesla and SpaceX have set up special committees to examine the possibility of a large‑scale merger between the two companies. The internal groups are tasked with reviewing strategic, financial and operational considerations that could arise from combining the electric‑vehicle maker with the aerospace firm."
+   },
+   {
+    "type": "p",
+    "text": "Musk said the committees are still in the early stages of their work and have not reached any conclusions. He emphasized that any decision would depend on the findings of these teams and on regulatory approval where required."
+   }
+  ],
+  "key_points": [
+   "Tesla and SpaceX have created internal committees to study a potential mega‑merger.",
+   "Elon Musk says the review is in its initial phase and no decision has been made.",
+   "Any merger would require thorough strategic analysis and regulatory clearance."
+  ],
+  "meta_description": "Elon Musk says Tesla and SpaceX have formed committees to explore a possible mega‑merger, with reviews still in early stages.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "SpaceX",
+   "merger",
+   "Elon Musk",
+   "corporate strategy"
+  ],
+  "slug": "elon-musk-announces-exploration-teslaspacex-megamerger-9dabda",
+  "reading_minutes": 1,
+  "added": "2026-10-20T22:48:54Z"
+ },
+ {
+  "id": "2856d5c14e030ec6",
+  "source_url": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
+  "source": "The New York Times",
+  "source_title": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
+  "source_summary": "The streaming service reported a 12 percent increase in quarterly revenue, but acknowledged that stagnant viewership, particularly in the U.S. and Canada, was a major concern.",
+  "source_tags": [
+   "Movies",
+   "Reality Television",
+   "Appointments and Executive Changes",
+   "Layoffs and Job Reductions",
+   "Television",
+   "Web-Original Programming",
+   "Netflix Inc",
+   "Bajaria, Bela",
+   "Baumbach, Noah",
+   "Cuse, Carlton"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/NETFLIX-earnings-1-htvj/NETFLIX-earnings-1-htvj-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T22:39:40+00:00",
+  "headline": "Netflix Posts 12% Revenue Rise Amid Stagnant US‑Canada Viewership",
+  "body": [
+   {
+    "type": "p",
+    "text": "Netflix announced a 12 percent jump in quarterly revenue, underscoring the streaming giant's continued ability to generate cash flow despite a competitive market. The earnings report highlighted strong subscription fees and international growth as key drivers of the increase."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, the company flagged flat or declining viewership in its core North American markets, particularly the United States and Canada. Executives said the lack of growth in audience engagement could pose a longer‑term challenge to sustaining subscriber loyalty and advertising potential."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that while the revenue boost reflects effective pricing and content investment, the stagnant viewership signals that attracting and retaining viewers is becoming more difficult as rivals expand their libraries and pricing strategies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The contrast between revenue growth and stagnant North American viewership signals potential shifts in the streaming landscape that could affect advertisers, content creators, and investors in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "Netflix's quarterly revenue rose 12 percent, driven by higher subscription fees and overseas expansion.",
+   "Viewership in the United States and Canada remains flat, raising concerns about future growth.",
+   "The earnings gap highlights the tension between financial performance and audience engagement."
+  ],
+  "meta_description": "Netflix reports a 12% revenue increase but warns of stagnant US‑Canada viewership, highlighting a key challenge for the streaming leader.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Netflix",
+   "streaming",
+   "revenue",
+   "viewership",
+   "North America",
+   "earnings"
+  ],
+  "slug": "netflix-posts-12-revenue-rise-amid-stagnant-uscanada-viewership-2856d5",
+  "reading_minutes": 1,
+  "added": "2026-10-20T22:48:58Z"
+ },
+ {
+  "id": "7b5f1df1386923d4",
+  "source_url": "https://www.npr.org/2026/10/20/nx-s1-6008040/supreme-court-recusals-over-books-raise-questions-about-policy",
+  "source": "NPR",
+  "source_title": "Supreme Court recusals over books raise questions about policy",
+  "source_summary": "A publishing dispute has highlighted the issue of recusals by Supreme Court justices. We take a look at the court's policy and its impact.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-20T22:38:37+00:00",
+  "headline": "Publishing Dispute Highlights Supreme Court Recusal Policy Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent publishing dispute has drawn attention to the practice of recusals among Supreme Court justices, prompting renewed scrutiny of the court's internal policy. The disagreement, centered on the handling of a book, underscores how conflicts of interest can arise even at the highest judicial level."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the Supreme Court's recusal guidelines are designed to preserve impartiality, yet the dispute reveals ambiguities in how those rules are applied. Critics argue that clearer standards are needed to ensure that justices step aside when appropriate, while supporters maintain that existing protocols already provide sufficient safeguards."
+   },
+   {
+    "type": "p",
+    "text": "The conversation surrounding the case reflects broader concerns about transparency and public confidence in the judiciary. As the debate continues, lawmakers and legal scholars are watching closely to see whether reforms will be proposed to tighten recusal procedures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The issue affects public trust in judicial impartiality, a concern shared by readers in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "A publishing dispute has put Supreme Court recusal practices under the spotlight.",
+   "The case highlights potential gaps in the court's existing conflict‑of‑interest guidelines.",
+   "Calls for clearer recusal standards are growing among legal observers."
+  ],
+  "meta_description": "A publishing dispute raises questions about Supreme Court recusal policies and calls for clearer conflict‑of‑interest rules.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Supreme Court",
+   "recusals",
+   "publishing dispute",
+   "judicial ethics",
+   "court policy"
+  ],
+  "slug": "publishing-dispute-highlights-supreme-court-recusal-policy-concerns-7b5f1d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T22:49:20Z"
+ },
+ {
+  "id": "eae053c48e7f23fe",
+  "source_url": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+  "source": "The New York Times",
+  "source_title": "SpaceX Swings to a Profit, as A.I. Business Grows",
+  "source_summary": "Elon Musk’s rocket company said its artificial intelligence spending had soared, but revenue more than doubled from its Starlink internet satellite service and A.I. products.",
+  "source_tags": [
+   "Space Exploration Technologies Corp",
+   "Musk, Elon",
+   "Tesla Motors Inc",
+   "Shotwell, Gwynne",
+   "Artificial Intelligence",
+   "Private Spaceflight",
+   "Company Reports",
+   "Computers and the Internet"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20biz-spacex-earnings-khqm/20biz-spacex-earnings-khqm-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T22:37:38+00:00",
+  "headline": "SpaceX Posts Profit as AI Revenue Surges and Starlink Earnings Double",
+  "body": [
+   {
+    "type": "p",
+    "text": "SpaceX announced that it has turned a profit, driven by a sharp rise in spending on artificial‑intelligence initiatives. The company said its AI‑related expenses have climbed sharply, reflecting an expanding portfolio of AI products."
+   },
+   {
+    "type": "p",
+    "text": "Revenue from the Starlink satellite internet service more than doubled, contributing significantly to the profit margin alongside the growing AI business. The combined boost from Starlink and AI offerings marks a notable shift in the company's financial profile."
+   },
+   {
+    "type": "p",
+    "text": "The earnings report underscores SpaceX’s diversification beyond launch services, positioning it as a major player in both satellite broadband and emerging AI markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The profit signals that SpaceX’s expansion into AI and satellite broadband is gaining commercial traction, affecting investors and tech markets in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "SpaceX reported a profit for the first time, citing higher AI spending and revenue growth.",
+   "Starlink internet revenue more than doubled, supporting the profit alongside AI product sales."
+  ],
+  "meta_description": "SpaceX posts profit as AI spending rises and Starlink revenue more than doubles, highlighting growth in satellite internet and AI markets.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "SpaceX",
+   "AI",
+   "Starlink",
+   "profit",
+   "satellite internet",
+   "tech industry"
+  ],
+  "slug": "spacex-posts-profit-ai-revenue-surges-starlink-earnings-double-eae053",
+  "reading_minutes": 1,
+  "added": "2026-10-20T22:49:21Z"
+ },
+ {
+  "id": "4aa40e70d863c2fc",
+  "source_url": "https://www.npr.org/2026/10/20/nx-s1-6000194/beef-producers-could-play-a-big-role-in-this-years-midterm-elections",
+  "source": "NPR",
+  "source_title": "Beef producers could play a big role in this year's midterm elections",
+  "source_summary": "Trump's policies have complicated his support among beef producers, a key constituency in states where tight Senate races could sway control of the body.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-20T22:35:55+00:00",
+  "headline": "Beef Producers Become Crucial Factor in 2026 Midterm Senate Races",
+  "body": [
+   {
+    "type": "p",
+    "text": "Beef producers are emerging as a pivotal voting bloc in the 2026 midterm elections, especially in states where Senate contests are expected to be closely contested. Their economic influence and geographic concentration make them a target for campaign outreach on both sides of the aisle."
+   },
+   {
+    "type": "p",
+    "text": "Former President Donald Trump’s policies have created a mixed response among the cattle industry, complicating his traditional support among these voters. While some producers appreciate certain trade and regulatory moves, others are wary of recent environmental and labor initiatives linked to his administration."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts say that the alignment of beef producers could tip the balance in Senate races that determine which party controls the chamber. Campaigns are therefore tailoring messages to address the specific concerns of ranchers and meat packers, hoping to secure their endorsement and turnout."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The beef industry's voting power could shape Senate control, affecting legislation on trade, agriculture and environmental policy in the US and abroad."
+   }
+  ],
+  "key_points": [
+   "Beef producers are a key constituency in several swing states ahead of the 2026 Senate elections.",
+   "Donald Trump’s policies have created a split in support among the cattle industry.",
+   "Both parties are courting the beef sector to influence tightly contested Senate outcomes."
+  ],
+  "meta_description": "Beef producers' split support for Trump makes them a decisive factor in tight 2026 Senate races.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "beef",
+   "midterms",
+   "Senate races",
+   "Trump",
+   "agriculture",
+   "politics"
+  ],
+  "slug": "beef-producers-become-crucial-factor-2026-midterm-senate-races-4aa40e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T22:49:45Z"
+ },
+ {
+  "id": "244fb1d70d4dc24c",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo",
+  "source": "BBC Sport",
+  "source_title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
+  "source_summary": "Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d5/live/a5eba520-ccca-11f1-951b-8fbc7a9ea030.jpg",
+  "published": "2026-10-20T22:35:32+00:00",
+  "headline": "Foden Shines as City Beats AEK Athens, Shows Goal Threat Without Haaland",
+  "body": [
+   {
+    "type": "p",
+    "text": "Phil Foden earned the man‑of‑the‑match award in Manchester City’s Champions League victory over AEK Athens, delivering a performance that highlighted his scoring instinct and play‑making ability. The English midfielder was instrumental throughout the game, creating chances and threatening the opposition defence at every turn."
+   },
+   {
+    "type": "p",
+    "text": "With Erling Haaland absent, City’s attack relied heavily on Foden’s contributions. His movements off the ball and precise finishing reminded observers of his capacity to influence high‑stakes matches, offering a potential alternative source of goals for the club in Europe’s premier competition."
+   },
+   {
+    "type": "p",
+    "text": "The win keeps City’s campaign alive and underscores the depth of talent within the squad, suggesting that the team can remain competitive even when its primary striker is unavailable."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "City’s continued success in the Champions League highlights the growing importance of versatile midfield talent in European football, a trend that influences club strategies worldwide."
+   }
+  ],
+  "key_points": [
+   "Phil Foden was named man‑of‑the‑match in City’s Champions League win over AEK Athens.",
+   "His performance demonstrated his ability to create and score goals in Haaland’s absence.",
+   "City’s victory shows the squad’s depth and resilience in European competition."
+  ],
+  "meta_description": "Phil Foden stars as Manchester City beats AEK Athens, proving he can supply goals when Haaland is missing.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester City",
+   "Phil Foden",
+   "Champions League",
+   "AEK Athens",
+   "football"
+  ],
+  "slug": "foden-shines-city-beats-aek-athens-shows-goal-threat-244fb1",
+  "reading_minutes": 1,
+  "added": "2026-10-20T22:49:02Z"
+ },
+ {
+  "id": "3705451f80a80f9e",
+  "source_url": "https://www.nytimes.com/2026/10/20/us/politics/trump-maga-inc-super-pac.html",
+  "source": "The New York Times",
+  "source_title": "MAGA Inc. Unleashes Millions to Turn Out Republicans At the Polls",
+  "source_summary": "MAGA Inc. is now flooding Facebook and Instagram with targeted ads as it seeks to turn out Republicans amid the president’s historically low approval ratings.",
+  "source_tags": [
+   "Campaign Finance",
+   "Trump, Donald J",
+   "Midterm Elections (2026)",
+   "Political Action Committees",
+   "Political Advertising",
+   "Social Media",
+   "Online Advertising",
+   "Republican Party",
+   "Make America Great Again (MAGA) Inc",
+   "America PAC"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20-pol-TrumpSpend-jzqm/20-pol-TrumpSpend-jzqm-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T22:28:27+00:00",
+  "headline": "MAGA Inc. Sends Millions to Social Media Ads Aiming Republican Turnout",
+  "body": [
+   {
+    "type": "p",
+    "text": "The political group known as MAGA Inc. has begun a large‑scale advertising push on Facebook and Instagram, deploying targeted digital ads designed to mobilize Republican voters. The effort comes as the current president’s approval rating hits historically low levels, prompting the organization to intensify outreach ahead of upcoming elections."
+   },
+   {
+    "type": "p",
+    "text": "The campaign uses data‑driven targeting to reach likely Republican supporters, emphasizing messages that encourage voter participation. While the exact budget is not disclosed, the group describes the spend as “millions” aimed at influencing turnout in key battleground states."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the surge in social‑media advertising reflects a broader trend of political groups turning to digital platforms to shape electoral outcomes. The strategy underscores the growing importance of online channels in modern campaign tactics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The aggressive use of social‑media ads could affect voter behavior in upcoming U.S. elections, a development watched by European analysts monitoring democratic processes."
+   }
+  ],
+  "key_points": [
+   "MAGA Inc. is spending millions on targeted Facebook and Instagram ads to boost Republican voter turnout.",
+   "The push coincides with the president’s historically low approval ratings.",
+   "The campaign highlights the increasing role of digital advertising in political mobilization."
+  ],
+  "meta_description": "MAGA Inc. deploys millions in targeted Facebook and Instagram ads to increase Republican turnout as presidential approval falls.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "MAGA Inc",
+   "social media advertising",
+   "Republican turnout",
+   "political campaigns",
+   "digital politics"
+  ],
+  "slug": "maga-inc-sends-millions-social-media-ads-aiming-republican-370545",
+  "reading_minutes": 1,
+  "added": "2026-10-20T22:49:55Z"
+ },
+ {
+  "id": "5505a7336da32b50",
+  "source_url": "https://www.dw.com/en/afd-s-alice-weidel-to-unveil-plan-to-cut-eu-powers-report/a-79717944?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "AfD's Alice Weidel to unveil plan to cut EU powers — report",
+  "source_summary": "The far-right AfD will propose slashing powers of the European Union when it presents its policy paper on Wednesday, Politico reports.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/78477907_6.jpg",
+  "published": "2026-10-20T22:25:00+00:00",
+  "headline": "AfD Leader Alice Weidel to Propose Reducing EU Powers on Wednesday",
+  "body": [
+   {
+    "type": "p",
+    "text": "Germany's far‑right Alternative for Germany (AfD) party is set to present a new policy paper on Wednesday that calls for a substantial reduction of the European Union’s competences, according to a report by Politico. The document, to be unveiled by party co‑leader Alice Weidel, will outline the party’s vision for scaling back EU authority in areas that the AfD deems beyond national control."
+   },
+   {
+    "type": "p",
+    "text": "The proposal is expected to focus on curbing the EU’s regulatory reach and limiting its influence over member‑state legislation. While the exact measures have not been disclosed, the AfD’s stance reflects its long‑standing skepticism toward deeper European integration and its desire to return more sovereignty to national governments."
+   },
+   {
+    "type": "p",
+    "text": "The policy paper will be released ahead of the party’s upcoming parliamentary session, where AfD lawmakers plan to push for the adoption of the suggested reforms. Observers note that the move could intensify debates within the German Bundestag and across the EU about the future balance of power between Brussels and member states."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The AfD’s push to curb EU authority could reshape Germany’s role in Europe and affect transatlantic policy coordination."
+   }
+  ],
+  "key_points": [
+   "AfD co‑leader Alice Weidel will unveil a policy paper calling for a cut in EU powers.",
+   "The proposal aims to limit the EU’s regulatory and legislative influence over member states.",
+   "The plan is expected to fuel debate in Germany and the broader EU about sovereignty."
+  ],
+  "meta_description": "AfD leader Alice Weidel will present a policy paper proposing to reduce EU powers, sparking debate in Germany and across Europe.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AfD",
+   "Alice Weidel",
+   "EU reform",
+   "German politics",
+   "European Union"
+  ],
+  "slug": "afd-leader-alice-weidel-propose-reducing-eu-powers-wednesday-5505a7",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T22:49:07Z"
+ },
+ {
+  "id": "86eca914e9ea46e5",
+  "source_url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+  "source": "The New York Times",
+  "source_title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+  "source_summary": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
+  "source_tags": [
+   "DeepSeek Artificial Intelligence Co Ltd",
+   "China",
+   "United States International Relations",
+   "Artificial Intelligence",
+   "United States Defense and Military Forces",
+   "United States",
+   "Homeland Security Department",
+   "OpenAI Labs",
+   "Ministry of Commerce (China)",
+   "Huawei Technologies Co Ltd"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-DeepseekAI-China-cjqh/20int-DeepseekAI-China-cjqh-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T22:24:29+00:00",
+  "headline": "China Condemns U.S. Ban on DeepSeek AI in Government Use",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Chinese government has publicly criticized the United States after the Department of Homeland Security ordered the removal of DeepSeek artificial‑intelligence tools from all federal systems. DeepSeek, a Chinese‑developed AI platform, was singled out for exclusion on national‑security grounds."
+   },
+   {
+    "type": "p",
+    "text": "The Chinese statement framed the ban as an unjustified restriction on legitimate technology and warned that such measures could hinder cooperation in the emerging AI field. Officials emphasized that DeepSeek products meet international standards and that the decision reflects broader geopolitical tensions."
+   },
+   {
+    "type": "p",
+    "text": "U.S. officials have not commented on the Chinese reaction, but the ban remains in effect as part of a wider effort to limit the use of foreign‑origin software in sensitive government networks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute highlights growing friction over technology security and trade between the United States and China, affecting both governments and private sector AI development."
+   }
+  ],
+  "key_points": [
+   "Homeland Security ordered the removal of Chinese‑made DeepSeek AI from U.S. government systems.",
+   "China responded by condemning the ban as unwarranted and potentially harmful to AI collaboration."
+  ],
+  "meta_description": "China denounces the U.S. ban on DeepSeek AI in government systems, citing concerns over trade and tech cooperation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "China",
+   "United States",
+   "DeepSeek",
+   "AI",
+   "cybersecurity",
+   "government"
+  ],
+  "slug": "china-condemns-u-s-ban-deepseek-ai-government-use-86eca9",
+  "reading_minutes": 1,
+  "added": "2026-10-20T22:49:47Z"
+ },
+ {
+  "id": "14ef2e85f4c74e5e",
+  "source_url": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
+  "source": "The New York Times",
+  "source_title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
+  "source_summary": "The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.",
+  "source_tags": [
+   "Rwanda",
+   "Murders, Attempted Murders and Homicides",
+   "Uganda",
+   "Kagame, Paul",
+   "Human Rights and Human Rights Violations"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-20T22:22:08+00:00",
+  "headline": "Rwandan Government Critic Robert Kabera Beheaded in Uganda",
+  "body": [
+   {
+    "type": "p",
+    "text": "Robert Kabera, a former Rwandan soldier who became a vocal critic of the Rwandan government, was found beheaded in Uganda, according to reports published on October 20, 2026. Kabera had been living in exile since 2020 and had recently posted a TikTok video in which he expressed fear for his personal safety."
+   },
+   {
+    "type": "p",
+    "text": "The brutal killing underscores the peril faced by political dissidents who flee their home countries. Authorities in both Rwanda and Uganda have not yet released details about the investigation, and the incident has drawn attention from international human‑rights observers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The murder highlights the dangers confronting exiled political opponents in East Africa and may affect regional security and human‑rights monitoring."
+   }
+  ],
+  "key_points": [
+   "Robert Kabera, a Rwandan government critic, was beheaded in Uganda.",
+   "He had been living in exile since 2020 and recently warned of fearing for his life on TikTok."
+  ],
+  "meta_description": "Rwandan critic Robert Kabera, exiled since 2020, was beheaded in Uganda, raising concerns over safety of political dissidents.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rwanda",
+   "Uganda",
+   "exile",
+   "political dissent",
+   "human rights"
+  ],
+  "slug": "rwandan-government-critic-robert-kabera-beheaded-uganda-14ef2e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T22:49:30Z"
+ },
+ {
+  "id": "8a1435a0c6b30643",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o",
+  "source": "BBC Sport",
+  "source_title": "Carrick wants more clean sheets to turn season around",
+  "source_summary": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ca/live/8a1f7fa0-ccd0-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-20T21:27:35+00:00",
+  "headline": "Manchester United Coach Carrick Calls for More Clean Sheets Ahead of Como Clash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United manager Michael Carrick said the team must improve defensively as they prepare for their upcoming Champions League tie against Italian side Como. Carrick emphasized that increasing the number of clean sheets is essential to reversing the club's recent form."
+   },
+   {
+    "type": "p",
+    "text": "The Red Devils have struggled to keep opponents from scoring in recent league matches, prompting the former midfielder-turned‑coach to focus on defensive organization. He noted that a solid back line will give United a better chance of progressing in Europe and stabilising their domestic campaign."
+   },
+   {
+    "type": "p",
+    "text": "United will travel to face Como in the next round of the competition, with Carrick hoping the defensive adjustments will translate into a tighter performance on the pitch."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "United's performance in the Champions League impacts their European standing and revenue, which are of interest to fans and investors across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Manchester United manager Michael Carrick stresses the need for more clean sheets to improve results.",
+   "The focus on defence comes ahead of United's Champions League match against Como."
+  ],
+  "meta_description": "Manchester United boss Michael Carrick urges more clean sheets as the club prepares for a Champions League match against Como.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Champions League",
+   "clean sheets",
+   "Como",
+   "football"
+  ],
+  "slug": "manchester-united-coach-carrick-calls-more-clean-sheets-ahead-8a1435",
+  "reading_minutes": 1,
+  "added": "2026-10-20T22:49:26Z"
+ },
+ {
+  "id": "a7db14ab145036e7",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo",
+  "source": "BBC Sport",
+  "source_title": "Audit regulator looking into Manchester City accounting",
+  "source_summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/969d/live/e4786420-ccb8-11f1-b6d1-8953b372d724.jpg",
+  "published": "2026-10-20T20:56:53+00:00",
+  "headline": "Audit Regulator Initiates Inquiries Into Manchester City Finances",
+  "body": [
+   {
+    "type": "p",
+    "text": "The UK audit regulator has begun a series of inquiries into the accounting practices of Premier League club Manchester City, according to a BBC Sport report published on 20 October 2026. While no formal investigation has been launched, the regulator is gathering information to assess whether any breaches of financial reporting rules have occurred."
+   },
+   {
+    "type": "p",
+    "text": "The regulator’s approach involves requesting documents and explanations from the club’s finance department. Officials emphasized that the process is preliminary and that any decision to open a full investigation will depend on the findings of these initial inquiries."
+   },
+   {
+    "type": "p",
+    "text": "Manchester City has not commented publicly on the regulator’s actions. The club, which has been a dominant force in English football, faces heightened scrutiny as authorities seek to ensure transparency and compliance with accounting standards across the sport."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Financial oversight of major football clubs impacts investors, sponsors, and fans who rely on transparent accounting practices."
+   }
+  ],
+  "key_points": [
+   "The UK audit regulator is conducting preliminary inquiries into Manchester City’s accounting.",
+   "No formal investigation has been opened; further action will depend on the regulator’s findings.",
+   "The club has not issued a public response to the regulator’s inquiries."
+  ],
+  "meta_description": "UK audit regulator begins inquiries into Manchester City accounting, with no formal investigation yet launched.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester City",
+   "accounting",
+   "audit regulator",
+   "football finance",
+   "investigation"
+  ],
+  "slug": "audit-regulator-initiates-inquiries-into-manchester-city-finances-a7db14",
+  "reading_minutes": 1,
+  "added": "2026-10-20T22:49:51Z"
+ },
+ {
   "id": "f44baaa9161e1dfe",
   "source_url": "https://www.theverge.com/science/1014150/spacex-q3-2026-earnings",
   "source": "The Verge",
