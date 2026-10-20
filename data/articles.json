@@ -1,5 +1,177 @@
 [
  {
+  "id": "52f95601e1f50bb9",
+  "source_url": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+  "source": "The Verge",
+  "source_title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+  "source_summary": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update, […]",
+  "source_tags": [
+   "Google",
+   "News",
+   "Smart Home",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0010.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-20T10:16:47+00:00",
+  "headline": "Google Home Speakers Bug Triggers Hundreds of GB Data Downloads",
+  "body": [
+   {
+    "type": "p",
+    "text": "Owners of Google Home smart speakers are reporting an unexpected surge in background data traffic. The issue, first highlighted by 9to5Google and echoed by multiple Reddit users over the past week, involves the devices continuously pulling down hundreds of gigabytes of data."
+   },
+   {
+    "type": "p",
+    "text": "According to the reports, the abnormal downloads appear to stem from a failure to correctly retrieve and install a recent firmware update. When the update process stalls, the speaker repeatedly attempts to download the missing files, leading to massive data consumption."
+   },
+   {
+    "type": "p",
+    "text": "Google has not yet issued an official statement, but the pattern suggests a software‑level fault rather than a security breach. Users have noted that the problem persists across different models and network setups, indicating a widespread firmware handling error."
+   }
+  ],
+  "key_points": [
+   "Google Home speakers are unintentionally downloading hundreds of gigabytes of data.",
+   "The bug is linked to a faulty firmware update process, according to user reports.",
+   "No official comment from Google has been released yet."
+  ],
+  "meta_description": "Google Home speakers are downloading hundreds of GB due to a firmware update bug, causing unexpected data usage.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Google Home",
+   "firmware bug",
+   "data usage",
+   "smart speakers",
+   "tech news"
+  ],
+  "slug": "google-home-speakers-bug-triggers-hundreds-gb-data-downloads-52f956",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:18:13Z"
+ },
+ {
+  "id": "e182a3facfde1b06",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/20/kansas-senate-race-democrat-adam-hamilton",
+  "source": "The Guardian",
+  "source_title": "Kansas Senate race on a knife edge as Democrats aim to end 94 years of Republican dominance",
+  "source_summary": "Kansas has not sent a Democrat to the Senate since 1932 – does Adam Hamilton have the courage, brain and heart to cause an extraordinary upset? Just two years after Donald Trump won Kansas by 16 points in his fight to regain the White House, Republicans in the state are scrambling to retain their dominance. The battle for one of its two seats in the US Senate is too close to call, setting the stage for a potentially extraordinary upset. Some recent polls even put Democrat Adam Hamilton on course for a historic victory. Kansans have not sent a representative of the party to the US Senate since 1932.",
+  "source_tags": [
+   "Kansas",
+   "US news",
+   "World news",
+   "Democrats",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/eb2979a9b3fdfcc56cbe6661450a944c5a53d535/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=0f3aac924a5f86a7252a1f0bc7d6121b",
+  "published": "2026-10-20T10:00:34+00:00",
+  "headline": "Kansas Senate Race Tightens as Democrat Targets 94-Year GOP Hold",
+  "body": [
+   {
+    "type": "p",
+    "text": "The contest for one of Kansas's two U.S. Senate seats has become a toss‑up, with Democrats hoping to break a 94‑year streak of Republican representation. The last Democrat to win a Senate seat from the state did so in 1932."
+   },
+   {
+    "type": "p",
+    "text": "Republican incumbents are feeling pressure after former President Donald Trump carried Kansas by 16 points in the 2024 election, prompting a vigorous campaign to maintain the party’s dominance. Recent polling has placed Democratic candidate Adam Hamilton on a potential path to an historic victory."
+   },
+   {
+    "type": "p",
+    "text": "Political observers note that a Hamilton win would mark a dramatic shift in Kansas politics, challenging a long‑standing partisan pattern and potentially reshaping the Senate balance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A Democratic breakthrough in Kansas would alter a historic partisan landscape and could influence Senate dynamics ahead of upcoming legislative sessions."
+   }
+  ],
+  "key_points": [
+   "Kansas has not elected a Democrat to the U.S. Senate since 1932.",
+   "Polls suggest Democrat Adam Hamilton could win the tightly contested race.",
+   "The race follows a 16‑point Trump win in Kansas in the 2024 presidential election."
+  ],
+  "meta_description": "Democrat Adam Hamilton eyes a historic Senate win in Kansas, ending a 94‑year Republican streak, as polls show a tight race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kansas",
+   "U.S. Senate",
+   "Democrats",
+   "Republicans",
+   "election 2026"
+  ],
+  "slug": "kansas-senate-race-tightens-democrat-targets-94-year-gop-e182a3",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:18:17Z"
+ },
+ {
+  "id": "78dd3677f6b5d1f6",
+  "source_url": "https://www.theguardian.com/commentisfree/2026/oct/20/trump-icc-sanctions-opinion",
+  "source": "The Guardian",
+  "source_title": "We can stop Trump’s assault on the international criminal court | Kenneth Roth",
+  "source_summary": "Here’s what we need to do to stand up for international law Many applauded when Navi Pillay was awarded the Nobel peace prize. The South African human rights lawyer had chaired the UN commission of inquiry that found Israel to have committed genocide in Gaza and served for five years as a judge on the international criminal court (ICC). Donald Trump responded a few hours later by imposing sanctions on the ICC. He chose a moment for celebrating the rule of law to try to undermine it. Kenneth Roth is a Guardian US columnist, a senior fellow at Yale University and a former executive director of Human Rights Watch. He is the author of Righting Wrongs: Three Decades on the Front Lines Battling Abusive Governments",
+  "source_tags": [
+   "US news",
+   "Trump administration",
+   "US politics",
+   "Israel",
+   "Gaza",
+   "International criminal court",
+   "Law",
+   "Palestine"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/54db1eff8d394edb2f2f6897ca6489b4a549f350/289_0_4091_3273/master/4091.jpg?width=700&quality=85&auto=format&fit=max&s=6be953c2b1fce23130a1f8c17279b9f3",
+  "published": "2026-10-20T10:00:34+00:00",
+  "headline": "Trump’s Sanctions Target ICC After Pillay Nobel Win",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kenneth Roth, a Guardian columnist and former Human Rights Watch director, warned that former President Donald Trump retaliated against the International Criminal Court (ICC) by imposing sanctions shortly after South African jurist Navi Pillay received the Nobel Peace Prize. Pillay, who chaired a UN inquiry that concluded Israel committed genocide in Gaza and served five years as an ICC judge, was celebrated for her work on international law."
+   },
+   {
+    "type": "p",
+    "text": "Roth argues that Trump’s move was a calculated attempt to undermine the rule of law at a moment when the Nobel award highlighted the importance of global justice mechanisms. He calls on governments and civil society to resist the assault on the ICC and to reaffirm commitment to international legal standards."
+   },
+   {
+    "type": "p",
+    "text": "The column urges coordinated action to protect the ICC’s independence, suggesting that democratic nations must speak out against political interference and uphold the court’s mandate to investigate war crimes and crimes against humanity."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ICC’s ability to hold leaders accountable affects US and European interests in upholding global human‑rights norms."
+   }
+  ],
+  "key_points": [
+   "Trump imposed sanctions on the ICC shortly after Navi Pillay won the Nobel Peace Prize.",
+   "Roth says the sanctions are an effort to weaken international legal institutions.",
+   "He calls for democratic countries to defend the ICC’s independence."
+  ],
+  "meta_description": "Kenneth Roth warns that Trump's sanctions on the ICC aim to undermine international law after Navi Pillay's Nobel win.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "ICC",
+   "Nobel Peace Prize",
+   "international law",
+   "human rights",
+   "Navi Pillay"
+  ],
+  "slug": "trumps-sanctions-target-icc-after-pillay-nobel-win-78dd36",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:18:21Z"
+ },
+ {
   "id": "de6e5b0cb0b02853",
   "source_url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
   "source": "CNBC",
@@ -1119,6 +1291,63 @@
   "added": "2026-10-20T09:50:33Z"
  },
  {
+  "id": "a0bc8faf316295ae",
+  "source_url": "https://www.dw.com/en/germany-news-siemens-warns-on-ai-eliminating-entry-level-jobs/live-79709090?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Germany news: Siemens warns on AI eliminating entry-level jobs",
+  "source_summary": "Young people could lack essential capabilities if routine tasks are taken over by AI, industrial giant Siemens says. This comes Germany agrees to deepen cooperation on AI with US tech giant Nvidia. DW has more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79709911_6.jpg",
+  "published": "2026-10-20T08:21:00+00:00",
+  "headline": "Siemens Warns AI Could Erase Entry‑Level Jobs in Germany",
+  "body": [
+   {
+    "type": "p",
+    "text": "Siemens cautioned that the growing use of artificial intelligence to automate routine tasks may strip young workers of essential skills, as entry‑level positions disappear. The company highlighted concerns that reliance on AI could leave a generation without the practical experience needed for career development."
+   },
+   {
+    "type": "p",
+    "text": "The warning comes as Germany and U.S. chipmaker Nvidia deepen their cooperation on AI technologies. The partnership aims to boost Germany’s AI capabilities, but Siemens stresses the need to balance technological advancement with workforce development."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that while AI promises efficiency gains, the shift could reshape labor markets across Europe, prompting calls for education and training programs that keep pace with automation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trend highlights how AI adoption in Europe could affect employment patterns and skill gaps, relevant for U.S. and European policymakers and businesses navigating similar automation challenges."
+   }
+  ],
+  "key_points": [
+   "Siemens says AI-driven automation threatens entry‑level jobs and skill development for young workers.",
+   "Germany is expanding AI collaboration with Nvidia, intensifying the impact of automation on the labor market.",
+   "The company urges policies that combine AI adoption with training to preserve essential workplace experience."
+  ],
+  "meta_description": "Siemens warns AI could eliminate entry‑level jobs in Germany as the country deepens AI ties with Nvidia, raising concerns about skill loss.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "jobs",
+   "Siemens",
+   "Nvidia",
+   "Germany",
+   "automation"
+  ],
+  "slug": "siemens-warns-ai-could-erase-entrylevel-jobs-germany-a0bc8f",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T10:18:29Z"
+ },
+ {
   "id": "e7cda454729812ab",
   "source_url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo",
   "source": "BBC News",
@@ -1170,6 +1399,115 @@
   "slug": "hospital-detained-criminals-lose-state-benefits-after-campaign-e7cda4",
   "reading_minutes": 1,
   "added": "2026-10-20T10:02:11Z"
+ },
+ {
+  "id": "da36d105ca8695ac",
+  "source_url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Japan probe sets course for Mars moon",
+  "source_summary": "The MMX spacecraft is on its way to Mars' moon Phobos to collect surface samples that could help answer long-standing questions about the formation of the Solar System.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79707899_6.jpg",
+  "published": "2026-10-20T07:16:00+00:00",
+  "headline": "Japan’s MMX Mission Heads to Phobos to Retrieve Martian Moon Samples",
+  "body": [
+   {
+    "type": "p",
+    "text": "Japan’s Martian Moons eXploration (MMX) spacecraft has left Earth and is now en route to Phobos, the larger of Mars’ two moons. The probe is scheduled to enter orbit around Phobos later this year, where it will conduct detailed mapping before attempting to collect surface material."
+   },
+   {
+    "type": "p",
+    "text": "The mission’s primary goal is to retrieve and return samples from Phobos to Earth. Scientists hope the material will shed light on long‑standing questions about how the Solar System formed, including whether Phobos is a captured asteroid or the result of a giant impact on Mars."
+   },
+   {
+    "type": "p",
+    "text": "MMX will use a small lander to touch down on the moon’s surface, gather up to 10 grams of regolith, and store it in a sealed capsule. After the collection, the spacecraft will depart Phobos, head back toward Earth, and release the capsule for recovery in the Pacific Ocean."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding Phobos’ composition informs planetary science worldwide, offering insights that could benefit research programs in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Japan’s MMX spacecraft is on its way to Mars’ moon Phobos to collect surface samples.",
+   "Returned material could help resolve debates over Phobos’ origin and Solar System formation.",
+   "The mission plans to bring back up to 10 grams of regolith for analysis on Earth."
+  ],
+  "meta_description": "Japan’s MMX spacecraft heads to Mars' moon Phobos to collect samples that may clarify the moon's origin and Solar System history.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Japan",
+   "MMX",
+   "Phobos",
+   "Mars moon",
+   "space exploration",
+   "sample return"
+  ],
+  "slug": "japans-mmx-mission-heads-phobos-retrieve-martian-moon-samples-da36d1",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T10:18:33Z"
+ },
+ {
+  "id": "a87d30039cf0fd4d",
+  "source_url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+  "source": "The New York Times",
+  "source_title": "Voters in Oil-Rich Alberta Reject Leaving Canada",
+  "source_summary": "Residents of the province were asked if they wish to remain in Canada or to hold another vote on breaking away, in a referendum that left both sides unhappy.",
+  "source_tags": [
+   "Canada",
+   "Alberta (Canada)",
+   "Secession and Independence Movements",
+   "Referendums",
+   "Smith, Danielle (1971- )",
+   "Carney, Mark J"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-canada-alberta-vote-sub/20int-canada-alberta-vote-hp-zljc-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T07:07:17+00:00",
+  "headline": "Alberta Voters Reject Secession in Latest Referendum",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a province known for its oil production, Albertans voted against leaving Canada in a recent referendum. Voters were asked whether they wanted to remain part of the country or hold another vote on secession, and the majority chose to stay."
+   },
+   {
+    "type": "p",
+    "text": "The outcome disappointed advocates on both sides of the issue. Those pushing for independence hoped the vote would signal a path forward, while federal officials expressed relief that the province chose unity."
+   },
+   {
+    "type": "p",
+    "text": "The referendum highlighted ongoing tensions over resource management and provincial autonomy, but the result keeps Alberta within Canada’s political framework for the foreseeable future."
+   }
+  ],
+  "key_points": [
+   "Albertans voted to remain in Canada in a new secession referendum.",
+   "Both pro‑independence and federal supporters expressed dissatisfaction with the result.",
+   "The vote underscores continuing debates over resource control and provincial autonomy."
+  ],
+  "meta_description": "Alberta voters chose to stay in Canada in a recent referendum, disappointing both independence advocates and federal officials.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alberta",
+   "Canada",
+   "referendum",
+   "secession",
+   "oil industry"
+  ],
+  "slug": "alberta-voters-reject-secession-latest-referendum-a87d30",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:18:36Z"
  },
  {
   "id": "ca656d75d61907bb",
@@ -1275,6 +1613,70 @@
   "slug": "f1-fans-get-answers-lindblad-lawson-s-future-with-e8a6ab",
   "reading_minutes": 1,
   "added": "2026-10-20T09:51:04Z"
+ },
+ {
+  "id": "6af66fd74ce03b76",
+  "source_url": "https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump",
+  "source": "The Guardian",
+  "source_title": "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says",
+  "source_summary": "Ukrainian president accuses Washington of ‘denial of reality’ in continuing row with Trump over apparent support for Moscow Ukraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said, reviving concerns that Washington is withholding intelligence to bully Kyiv into capitulating to Moscow. Yuri Ihnat, a spokesperson for the Ukrainian air force, said on television on Monday morning that Ukraine had not received a warning before a Russian missile barrage hit power plants in Kyiv at about 11pm. Earlier, a Ukrainian government official had told the Guardian the US had not warned the capital about the impending missile strike.",
+  "source_tags": [
+   "Ukraine",
+   "Russia",
+   "Europe",
+   "World news",
+   "Trump administration",
+   "Volodymyr Zelenskyy",
+   "Donald Trump",
+   "Kyiv",
+   "US foreign policy",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/f0efe124ad4a75f1612be6e5eeb68f07d1ec3a34/629_0_4178_3342/master/4178.jpg?width=700&quality=85&auto=format&fit=max&s=5c2ae9545c1f3bfe7273e09c19b3e9e4",
+  "published": "2026-10-20T06:47:18+00:00",
+  "headline": "Zelensky Claims U.S. Gave No Warning Before Kyiv Power Plant Strike",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelensky said the United States did not alert Kyiv before a Russian missile barrage hit the city’s power plants on Sunday night. Air force spokesman Yuri Ihnat told television viewers that Ukraine received no warning prior to the attack that began around 11 p.m."
+   },
+   {
+    "type": "p",
+    "text": "The statement revives accusations that Washington is withholding intelligence to pressure Kyiv amid ongoing tensions with former President Donald Trump over perceived support for Moscow. A Ukrainian government official had previously informed the Guardian that the United States had not warned the capital about the impending strike."
+   },
+   {
+    "type": "p",
+    "text": "Zelensky described the lack of warning as a \"denial of reality\" and suggested it reflects a broader pattern of strained U.S.–Ukrainian relations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode raises concerns among NATO allies about the reliability of U.S. intelligence sharing with Ukraine during the ongoing conflict with Russia."
+   }
+  ],
+  "key_points": [
+   "Zelensky says the U.S. gave no advance warning before Russian missiles struck Kyiv’s power plants.",
+   "Ukrainian officials claim the lack of warning reflects a deteriorating intelligence-sharing relationship with Washington."
+  ],
+  "meta_description": "Zelensky alleges the United States failed to warn Kyiv before a Russian missile attack on power plants, sparking criticism of U.S. intelligence sharing.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "United States",
+   "Russia",
+   "Kyiv",
+   "missile strike",
+   "intelligence"
+  ],
+  "slug": "zelensky-claims-u-s-gave-no-warning-before-kyiv-6af66f",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:18:41Z"
  },
  {
   "id": "4d01c3f05fdce7e3",
@@ -1757,6 +2159,124 @@
   "added": "2026-10-20T06:32:02Z"
  },
  {
+  "id": "7a2e23274f6a6526",
+  "source_url": "https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html",
+  "source": "The New York Times",
+  "source_title": "The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England",
+  "source_summary": "Plans to build one of Europe’s largest data centers in Devon have been met by strong opposition from residents, as environmental concerns grow.",
+  "source_tags": [
+   "Data Centers",
+   "Politics and Government",
+   "Artificial Intelligence",
+   "Rural Areas",
+   "Infrastructure (Public Works)",
+   "Devon (England)",
+   "England",
+   "Europe",
+   "Great Britain"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-uk-data-01-fqvg/20int-uk-data-01-fqvg-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T04:01:08+00:00",
+  "headline": "Devon Residents Oppose Plans for One of Europe’s Largest AI Data Centers",
+  "body": [
+   {
+    "type": "p",
+    "text": "A proposal to construct a massive artificial‑intelligence data center in Devon, a sparsely populated area of rural England, has sparked fierce resistance from local residents. The project, touted as one of the continent’s largest, would bring extensive infrastructure and a high‑energy footprint to the quiet countryside."
+   },
+   {
+    "type": "p",
+    "text": "Opponents cite environmental worries, including the potential strain on regional power supplies and the impact on local wildlife habitats. Community groups have organized petitions and public meetings, urging planners to reconsider the site or adopt stricter sustainability measures."
+   },
+   {
+    "type": "p",
+    "text": "Developers argue the center will create jobs and position the UK as a hub for AI technology, but the debate highlights a growing tension between tech expansion and ecological preservation in Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash reflects broader concerns about the energy demands of AI infrastructure in Europe, a sector that also influences global tech supply chains and climate goals."
+   }
+  ],
+  "key_points": [
+   "Residents of Devon are rallying against a proposed AI data center, fearing environmental damage.",
+   "The project is promoted as a major AI hub but faces criticism over its energy and ecological impact."
+  ],
+  "meta_description": "Devon locals protest a planned AI data center, citing environmental risks and energy concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "data center",
+   "Devon",
+   "environment",
+   "protest",
+   "Europe"
+  ],
+  "slug": "devon-residents-oppose-plans-one-europes-largest-ai-data-7a2e23",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:18:56Z"
+ },
+ {
+  "id": "83412812302cf17b",
+  "source_url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+  "source": "CNBC",
+  "source_title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
+  "source_summary": "GM's 2025 third-quarter results included $48.59 billion in revenue, net income attributable to stockholders of $1.3 billion and adjusted EPS of $2.80.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108251655-1768310306409-gettyimages-2255454909-GM_BARRA.jpeg?v=1769119297&w=1920&h=1080",
+  "published": "2026-10-20T04:01:01+00:00",
+  "headline": "General Motors Forecasts $48.6B Revenue, $1.3B Net Income",
+  "body": [
+   {
+    "type": "p",
+    "text": "Wall Street analysts expect General Motors to post third‑quarter 2025 results before the market opens, with revenue projected at $48.59 billion. The automaker is also anticipated to earn $1.3 billion in net income attributable to shareholders."
+   },
+   {
+    "type": "p",
+    "text": "Adjusted earnings per share are forecast at $2.80, reflecting the company's continued focus on higher‑margin vehicles and cost‑saving initiatives. The estimates come as GM navigates a competitive landscape marked by electric‑vehicle rollouts and shifting consumer demand."
+   },
+   {
+    "type": "p",
+    "text": "Investors will be watching the report for clues on GM’s progress toward its electrification targets and its ability to sustain profitability amid supply‑chain pressures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "GM’s performance influences the broader automotive sector and stock markets in the US and Europe, where its shift to electric vehicles shapes industry trends."
+   }
+  ],
+  "key_points": [
+   "Analysts project GM’s Q3 2025 revenue at $48.59 billion.",
+   "Net income is expected to reach $1.3 billion, with adjusted EPS of $2.80.",
+   "The figures will signal how GM’s electrification strategy is impacting earnings."
+  ],
+  "meta_description": "Wall Street expects GM to report $48.6B revenue, $1.3B net income and $2.80 adjusted EPS for Q3 2025.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "General Motors",
+   "earnings",
+   "automotive",
+   "revenue",
+   "EPS",
+   "stocks"
+  ],
+  "slug": "general-motors-forecasts-48-6b-revenue-1-3b-net-834128",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T10:18:25Z"
+ },
+ {
   "id": "d71bd3427ddc73a9",
   "source_url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
   "source": "The Verge",
@@ -1937,6 +2457,71 @@
   "slug": "saudi-officials-help-engineer-accused-bugging-openai-court-says-d07b2e",
   "reading_minutes": 1,
   "added": "2026-10-20T06:31:58Z"
+ },
+ {
+  "id": "fe8618e7ca148fc4",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
+  "source": "The Guardian",
+  "source_title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
+  "source_summary": "President at Kansas rally tries to turn protests into cautionary tale for US as Republicans face midterm losses Explainer: why are people protesting across Europe? As Republicans confront mounting political headwinds ahead of November’s midterm elections, Donald Trump is attempting to turn unrest in France into a cautionary tale for American voters, recasting the demonstrations that began as student protests against crumbling schools and the soaring cost of living as evidence of the dangers of immigration and the erosion of western civilization. At a rally in Kansas on Monday evening, Trump described France as a once-great nation that had been “conquered, looted, and burned to the ground by migrants, jihadists, and communists”.",
+  "source_tags": [
+   "Donald Trump",
+   "US politics",
+   "US news",
+   "Trump administration",
+   "World news",
+   "France",
+   "US foreign policy",
+   "Emmanuel Macron",
+   "Protest",
+   "Europe"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/bb8acbeda5813061b047e083e0695bf1b83fae2a/632_0_6295_5039/master/6295.jpg?width=700&quality=85&auto=format&fit=max&s=a229fe469d6a6ed5dfa0c0923e9377ec",
+  "published": "2026-10-20T02:01:22+00:00",
+  "headline": "Trump Blames Migrants and Communists for France Unrest at Kansas Rally, Calls Nation 'Conquered'",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a campaign rally in Kansas on Monday evening, former President Donald Trump seized on the protests spreading across France to warn American voters about what he described as the dangers of immigration and left‑wing ideology. He said France, once a great nation, had been \"conquered, looted, and burned to the ground by migrants, jihadists, and communists,\" framing the European demonstrations as a cautionary tale for the United States."
+   },
+   {
+    "type": "p",
+    "text": "The French protests began as student demonstrations over deteriorating school conditions and rising living costs, but Trump used the unrest to argue that unchecked migration and socialist policies threaten Western civilization. His remarks came as Republicans face mounting challenges ahead of the November midterm elections, with the party seeking to rally its base by highlighting perceived threats abroad."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts noted that Trump’s strategy mirrors previous attempts to link foreign crises to domestic political narratives, aiming to energize voters who are concerned about immigration and cultural change. The comments have drawn criticism from some observers who say the former president is mischaracterizing the French demonstrations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remarks illustrate how US political figures are using European unrest to shape voter sentiment ahead of the 2026 midterm elections."
+   }
+  ],
+  "key_points": [
+   "Trump linked France's student‑led protests to migrants and communists at a Kansas rally.",
+   "He framed the unrest as evidence of broader threats to Western civilization ahead of US midterms.",
+   "Analysts say the remarks aim to mobilize Republican voters by tying foreign issues to domestic concerns."
+  ],
+  "meta_description": "Trump ties France protests to migrants and communists at Kansas rally, warning US voters of similar threats ahead of midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "France protests",
+   "immigration",
+   "midterm elections",
+   "Republicans",
+   "Europe"
+  ],
+  "slug": "trump-blames-migrants-communists-france-unrest-kansas-rally-calls-fe8618",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:18:53Z"
  },
  {
   "id": "f2ae11b0f5555fc1",
@@ -3379,6 +3964,69 @@
   "added": "2026-10-19T22:17:53Z"
  },
  {
+  "id": "073765c16b4994fd",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+  "source": "The Verge",
+  "source_title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+  "source_summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
+  "source_tags": [
+   "AI",
+   "Analysis",
+   "Business",
+   "Microsoft",
+   "Nvidia",
+   "OpenAI",
+   "Report",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-19T21:28:20+00:00",
+  "headline": "CoreWeave Bonds Slip Into Distressed Territory Amid AI Funding Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "CoreWeave's recently issued bonds fell into what investors commonly define as distressed debt, with yields demanding an extra 1,000 basis points over comparable government securities. The shift signals heightened risk perception for the cloud‑computing firm that has been expanding its AI infrastructure capacity."
+   },
+   {
+    "type": "p",
+    "text": "The development caught the attention of venture investor Chamath Palihapitiya, who highlighted the distressed status of CoreWeave's debt in a public comment. Palihapitiya also questioned whether the broader surge in private‑credit financing for AI projects might be forming a bubble."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that CoreWeave's bond market stress could have ripple effects across the AI sector, where many companies rely on similar private‑credit structures to fund rapid growth. The situation underscores the fine line between aggressive expansion and financial vulnerability in a market driven by high‑cost capital."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "US and European investors are increasingly exposed to AI‑related private credit, and CoreWeave's bond trouble highlights potential systemic risk in that financing model."
+   }
+  ],
+  "key_points": [
+   "CoreWeave's bonds entered distressed territory, requiring yields 1,000 basis points above government rates.",
+   "Investor Chamath Palihapitiya warned that the AI build‑out may be creating a private‑credit bubble.",
+   "The bond distress could signal broader financing risks for AI‑focused firms."
+  ],
+  "meta_description": "CoreWeave's bonds turned distressed, prompting concerns about a private‑credit bubble in the AI sector.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "CoreWeave",
+   "AI",
+   "debt",
+   "private credit",
+   "bonds",
+   "Chamath Palihapitiya"
+  ],
+  "slug": "coreweave-bonds-slip-into-distressed-territory-amid-ai-funding-073765",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:18:49Z"
+ },
+ {
   "id": "073d0c4f4e9ca5f0",
   "source_url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o",
   "source": "BBC News",
@@ -3430,6 +4078,70 @@
   "slug": "ukrainian-adviser-blames-us-intelligence-limits-missile-deaths-073d0c",
   "reading_minutes": 1,
   "added": "2026-10-19T22:17:57Z"
+ },
+ {
+  "id": "f8dfafb0b6e6b676",
+  "source_url": "https://www.nytimes.com/2026/10/19/business/media/jon-stewart-daily-show.html",
+  "source": "The New York Times",
+  "source_title": "Jon Stewart to Stay at ‘The Daily Show’ Through the 2028 Election",
+  "source_summary": "Ratings have surged since Mr. Stewart returned over two years ago to host the show on Monday nights.",
+  "source_tags": [
+   "Stewart, Jon",
+   "Television",
+   "Comedy and Humor",
+   "Cheeks, George A (1964- )",
+   "Kimmel, Jimmy",
+   "Trump, Donald J",
+   "Colbert, Stephen",
+   "Late Show with Stephen Colbert (TV Program)",
+   "The Daily Show with Jon Stewart (TV Program)",
+   "Presidential Election of 2028"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/19/business/19biz-stewart-daily/19biz-stewart-daily-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T18:30:05+00:00",
+  "headline": "Jon Stewart Extends 'The Daily Show' Tenure Through 2028 Election",
+  "body": [
+   {
+    "type": "p",
+    "text": "Jon Stewart announced that he will continue as host of Comedy Central’s ‘The Daily Show’ through the 2028 U.S. presidential election. The decision follows his return to the Monday‑night slot a little over two years ago, when the program revived its satirical news format under his leadership."
+   },
+   {
+    "type": "p",
+    "text": "Since Stewart’s comeback, the show’s ratings have risen sharply, drawing larger audiences than during the previous hosting period. Network executives cited the ratings surge as a key factor in securing his extended contract, underscoring the program’s renewed relevance in the current political climate."
+   },
+   {
+    "type": "p",
+    "text": "The extended run positions Stewart to shape the show’s coverage of the next two election cycles, offering his brand of commentary as voters navigate a rapidly changing media landscape."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stewart’s continued presence on a high‑profile satirical news program could affect public discourse and voter perception ahead of two U.S. presidential elections."
+   }
+  ],
+  "key_points": [
+   "Jon Stewart will remain host of ‘The Daily Show’ through the 2028 election.",
+   "Ratings have climbed significantly since his return over two years ago.",
+   "The extension secures his influence on political satire during upcoming election cycles."
+  ],
+  "meta_description": "Jon Stewart will stay on ‘The Daily Show’ through the 2028 election after ratings surged since his return over two years ago.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jon Stewart",
+   "The Daily Show",
+   "TV ratings",
+   "U.S. elections",
+   "political satire"
+  ],
+  "slug": "jon-stewart-extends-daily-show-tenure-through-2028-election-f8dfaf",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:18:44Z"
  },
  {
   "id": "420a1d7256135725",
