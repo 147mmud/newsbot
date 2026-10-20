@@ -1,5 +1,706 @@
 [
  {
+  "id": "1a4f5dab8b57df51",
+  "source_url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
+  "source": "The New York Times",
+  "source_title": "France to Extend Curfews After a Night of Calm, Prime Minister Says",
+  "source_summary": "The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the unrest face expedited trials.",
+  "source_tags": [
+   "Paris (France)",
+   "Lecornu, Sebastien",
+   "Demonstrations, Protests and Riots",
+   "Curfews",
+   "Arson",
+   "Looting (Crime)",
+   "France"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-france-riots-cpkz/20int-france-riots-cpkz-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T09:31:33+00:00",
+  "headline": "France Extends Nationwide Curfews After Calm Night, PM Says",
+  "body": [
+   {
+    "type": "p",
+    "text": "French Prime Minister Gabriel Attal announced on Thursday that the government will prolong the curfew restrictions that were imposed following the country’s largest riots in years. The decision comes after a night of relative calm in the streets, but officials say the measures remain necessary to reassert state control."
+   },
+   {
+    "type": "p",
+    "text": "The curfews, which cover major cities and several smaller towns, are part of a broader security push that includes expedited judicial proceedings for those arrested during the unrest. Authorities aim to process cases quickly in order to deter further violence and restore public order."
+   },
+   {
+    "type": "p",
+    "text": "Opposition parties have criticized the extensions as excessive, arguing that they infringe on civil liberties. Meanwhile, police unions welcomed the move, saying it provides needed time to investigate the incidents and prevent a resurgence of disorder."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The extension signals France’s determination to maintain public order amid social unrest, a development that could influence security policies across Europe and affect transatlantic diplomatic discussions on civil liberties."
+   }
+  ],
+  "key_points": [
+   "France will keep curfews in place after a night of reduced rioting, according to the prime minister.",
+   "The curfew extension is linked to fast‑track trials for individuals detained during the recent riots."
+  ],
+  "meta_description": "France prolongs curfews after a calm night, linking the move to fast‑track trials for riot participants, Prime Minister says.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "curfew",
+   "riots",
+   "expedited trials",
+   "public order"
+  ],
+  "slug": "france-extends-nationwide-curfews-after-calm-night-pm-says-1a4f5d",
+  "reading_minutes": 1,
+  "added": "2026-10-20T09:40:01Z"
+ },
+ {
+  "id": "7715c7bb799a3ce5",
+  "source_url": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+  "source": "The New York Times",
+  "source_title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+  "source_summary": "Under the Harvest Fuel Relief program, the Agriculture Department will provide economic aid for farmers hurt by high diesel prices.",
+  "source_tags": [
+   "Agriculture and Farming",
+   "Federal Aid (US)",
+   "Agriculture Department",
+   "Trump, Donald J",
+   "Kansas",
+   "United States",
+   "Prices (Fares, Fees and Rates)",
+   "Oil (Petroleum) and Gasoline",
+   "Diesel Power",
+   "United States Economy"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20biz-farmer-bailout-klvz/20biz-farmer-bailout-klvz-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T09:13:50+00:00",
+  "headline": "Trump Unveils $8 Billion Harvest Fuel Relief Plan for Farmers",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump announced a new $8 billion initiative aimed at easing the financial strain on American farmers facing soaring diesel costs. The program, called Harvest Fuel Relief, will be administered by the U.S. Department of Agriculture."
+   },
+   {
+    "type": "p",
+    "text": "Under the plan, the Agriculture Department will distribute economic assistance to eligible producers whose operations have been impacted by elevated fuel prices. The relief is intended to help maintain crop production and protect farm profitability during a period of heightened energy expenses."
+   },
+   {
+    "type": "p",
+    "text": "The announcement comes as diesel prices have risen sharply, prompting concerns that higher operating costs could reduce planting acreage and threaten the nation's food supply chain. Officials say the funding will be allocated through existing USDA channels to ensure rapid delivery to those most in need."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. farmers are a key source of food for both domestic and European markets, and fuel price spikes threaten supply stability."
+   }
+  ],
+  "key_points": [
+   "The Harvest Fuel Relief program allocates $8 billion to assist farmers hurt by high diesel prices.",
+   "The USDA will manage the distribution of economic aid to eligible agricultural producers.",
+   "The initiative seeks to safeguard crop production amid rising fuel costs."
+  ],
+  "meta_description": "Trump announces an $8 billion Harvest Fuel Relief program to aid U.S. farmers affected by high diesel prices.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "agriculture",
+   "diesel prices",
+   "farm aid",
+   "USDA",
+   "Harvest Fuel Relief"
+  ],
+  "slug": "trump-unveils-8-billion-harvest-fuel-relief-plan-farmers-7715c7",
+  "reading_minutes": 1,
+  "added": "2026-10-20T09:40:12Z"
+ },
+ {
+  "id": "8ace45e053b3a712",
+  "source_url": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Why US investors are snapping up Germany's famed Mittelstand",
+  "source_summary": "Increasing amounts of US capital are flowing into Germany's traditional industrial firms and family-owned businesses. As many business owners struggle to find successors, more companies are becoming acquisition targets.",
+  "source_tags": [
+   "Business"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/65990279_6.jpg",
+  "published": "2026-10-20T09:06:00+00:00",
+  "headline": "US Investors Accelerate Purchases of Germany's Mittelstand Firms",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. capital is flowing increasingly into Germany’s traditional industrial sector, known as the Mittelstand, where family‑owned firms dominate. Investors are drawn by the sector’s reputation for engineering excellence and steady cash flows."
+   },
+   {
+    "type": "p",
+    "text": "A growing number of German business owners are facing succession challenges, with few heirs willing or able to take over. This lack of successors is turning many Mittelstand companies into attractive acquisition targets for foreign buyers, especially from the United States."
+   },
+   {
+    "type": "p",
+    "text": "Dealmakers say the combination of strong brand value, high‑tech capabilities and a fragmented ownership landscape makes German mid‑size manufacturers a compelling entry point for U.S. capital seeking stable, long‑term returns in Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trend signals deeper financial ties between the U.S. and Europe and could reshape ownership of key manufacturing assets in Germany."
+   }
+  ],
+  "key_points": [
+   "U.S. investors are increasingly targeting Germany’s family‑run industrial firms.",
+   "Succession gaps among German owners are turning Mittelstand companies into acquisition opportunities.",
+   "The sector’s engineering reputation and stable earnings appeal to foreign capital."
+  ],
+  "meta_description": "U.S. investors are buying into Germany's Mittelstand as owners lack successors, boosting cross‑Atlantic capital flows.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US investment",
+   "German Mittelstand",
+   "family businesses",
+   "M&A",
+   "industrial sector",
+   "succession"
+  ],
+  "slug": "us-investors-accelerate-purchases-germany-s-mittelstand-firms-8ace45",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T09:40:09Z"
+ },
+ {
+  "id": "19ea2217606ad152",
+  "source_url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+  "source": "The Guardian",
+  "source_title": "Alberta voters reject plan for referendum to leave Canada",
+  "source_summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity. With more than 1.5m votes counted, 76% supported remaining in Canada, while close to 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta.",
+  "source_tags": [
+   "Canada",
+   "Mark Carney",
+   "Americas",
+   "World news"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=700&quality=85&auto=format&fit=max&s=458f9522816c5dbfea97433d97cbaee8",
+  "published": "2026-10-20T09:02:43+00:00",
+  "headline": "Alberta Voters Reject Independence Referendum, 76% Favor Unity",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a decisive vote, Albertans have turned down a proposal to start a process toward secession from Canada. Unofficial results released by Elections Alberta show that 76% of the more than 1.5 million ballots counted support remaining within the country, while roughly 24% favor beginning a separation process."
+   },
+   {
+    "type": "p",
+    "text": "The outcome is being hailed as a win for Prime Minister Mark Carney and advocates of Canadian unity. The referendum question, which would have triggered a formal independence debate, failed to gain traction despite a vocal minority campaigning for it."
+   },
+   {
+    "type": "p",
+    "text": "Election officials said the count is still provisional, but the margin is large enough to signal a clear preference for staying in Canada. The result underscores the strength of federal cohesion in a province that has previously seen periodic separatist sentiment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The vote highlights the resilience of Canadian federalism, a factor that influences North American trade and security partnerships relevant to the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Over three quarters of Albertan voters chose to remain part of Canada, rejecting a secession referendum.",
+   "Prime Minister Mark Carney and unity supporters view the vote as a reaffirmation of national cohesion.",
+   "The unofficial tally reflects more than 1.5 million votes cast, with a 76‑24 split."
+  ],
+  "meta_description": "Alberta voters reject a secession referendum, with 76% favoring unity, marking a win for Prime Minister Mark Carney.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alberta",
+   "Canada",
+   "referendum",
+   "independence",
+   "unity",
+   "Mark Carney"
+  ],
+  "slug": "alberta-voters-reject-independence-referendum-76-favor-unity-19ea22",
+  "reading_minutes": 1,
+  "added": "2026-10-20T09:40:24Z"
+ },
+ {
+  "id": "ec67d89b8b3ed971",
+  "source_url": "https://www.nytimes.com/2026/10/20/us/politics/republicans-midterm-election-cash-transfer.html",
+  "source": "The New York Times",
+  "source_title": "Republican National Committee Moves $50 Million to Help Midterm Candidates in Huge Cash Transfer",
+  "source_summary": "The party apparatus is taking advantage of its enormous war chest, as well as a Supreme Court campaign-finance ruling this year, to send tens of millions into congressional races.",
+  "source_tags": [
+   "Republican National Committee",
+   "Republican Party",
+   "Campaign Finance",
+   "Political Action Committees",
+   "Midterm Elections (2026)",
+   "Hinson, Ashley (1983- )",
+   "United States Politics and Government"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20pol-rnc-midterms-photo-mzkv/20pol-rnc-midterms-photo-mzkv-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T09:02:13+00:00",
+  "headline": "Republican National Committee Shifts $50 Million to Boost Midterm Campaigns",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Republican National Committee announced a $50 million transfer of funds to support its candidates in the upcoming midterm elections. The move channels a portion of the party’s sizable cash reserves into congressional races across the country."
+   },
+   {
+    "type": "p",
+    "text": "Committee officials said the allocation takes advantage of a Supreme Court decision earlier this year that loosened restrictions on how national party committees can spend money on candidate campaigns. By directing tens of millions directly to individual races, the RNC aims to strengthen its electoral prospects in a competitive political environment."
+   },
+   {
+    "type": "p",
+    "text": "The cash infusion is part of a broader strategy to leverage the party’s war chest ahead of the November vote, with the goal of influencing the balance of power in the House and Senate. Analysts note that such large-scale financial support could shape campaign dynamics and voter outreach efforts in key districts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The sizable cash boost could affect the composition of the U.S. Congress, influencing legislation that impacts both American and international partners."
+   }
+  ],
+  "key_points": [
+   "The RNC is moving $50 million to fund midterm congressional candidates.",
+   "The transfer follows a Supreme Court ruling that eases spending limits for national party committees.",
+   "The funding aims to boost Republican chances in closely contested House and Senate races."
+  ],
+  "meta_description": "The Republican National Committee transfers $50 million to midterm candidates, using a new Supreme Court ruling to enhance its war chest.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Republican National Committee",
+   "midterm elections",
+   "campaign finance",
+   "Supreme Court ruling",
+   "U.S. Congress"
+  ],
+  "slug": "republican-national-committee-shifts-50-million-boost-midterm-campaigns-ec67d8",
+  "reading_minutes": 1,
+  "added": "2026-10-20T09:40:28Z"
+ },
+ {
+  "id": "322e34d1716039d3",
+  "source_url": "https://www.nytimes.com/2026/10/20/business/knicks-tickets.html",
+  "source": "The New York Times",
+  "source_title": "Knicks Ticket Prices Are Soaring After Last Season’s Championship",
+  "source_summary": "Knicks tickets have never been cheap, but prices for the first game alone are soaring after last season’s championship — more than a trip to Paris.",
+  "source_tags": [
+   "Prices (Fares, Fees and Rates)",
+   "Basketball",
+   "NBA Championship",
+   "Madison Square Garden",
+   "New York Knicks"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20biz-knicks-tickets-1-pmlk/20biz-knicks-tickets-1-pmlk-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T09:02:00+00:00",
+  "headline": "Knicks Ticket Prices Surge After Championship, Outpacing Paris Trip Costs",
+  "body": [
+   {
+    "type": "p",
+    "text": "Following the New York Knicks' championship win last season, the cost of tickets for the team's opening game has risen sharply. The New York Times notes that the price now exceeds the expense of a typical trip to Paris, underscoring the premium fans are willing to pay for a championship team."
+   },
+   {
+    "type": "p",
+    "text": "Historically, Knicks tickets have been among the most expensive in the league, but the recent spike marks an unprecedented level. The surge reflects heightened demand as the franchise capitalizes on its newfound success and the excitement surrounding the championship celebration."
+   },
+   {
+    "type": "p",
+    "text": "While the exact figures were not disclosed, the comparison to international travel highlights the magnitude of the increase. Fans and potential buyers are now facing a market where attending a single game rivals the cost of an overseas vacation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The soaring ticket prices illustrate how championship success can dramatically affect sports market economics, impacting fans and local tourism."
+   }
+  ],
+  "key_points": [
+   "Knicks tickets for the season opener now cost more than a typical trip to Paris.",
+   "The price jump follows the team's championship win and reflects heightened fan demand.",
+   "Ticket prices have historically been high, but this surge sets a new benchmark."
+  ],
+  "meta_description": "Knicks season‑opening tickets now cost more than a trip to Paris after the team's championship win.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Knicks",
+   "ticket prices",
+   "championship",
+   "sports economics",
+   "fan demand"
+  ],
+  "slug": "knicks-ticket-prices-surge-after-championship-outpacing-paris-trip-322e34",
+  "reading_minutes": 1,
+  "added": "2026-10-20T09:40:32Z"
+ },
+ {
+  "id": "f836e3e238b95ffd",
+  "source_url": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
+  "source": "The New York Times",
+  "source_title": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote",
+  "source_summary": "The midterm elections appear to be a factor for both sides in the war as President Trump weighs his next steps.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "United States International Relations",
+   "Midterm Elections (2026)",
+   "Islamic Revolutionary Guards Corps",
+   "Trump, Donald J",
+   "Iran",
+   "United States Politics and Government",
+   "Oil (Petroleum) and Gasoline",
+   "United States Economy",
+   "Ghalibaf, Mohammad Baqer"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20dc-iran-midterms-03-vczt/20dc-iran-midterms-03-vczt-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T09:01:54+00:00",
+  "headline": "Iran Prepares for Fallout After U.S. Vote Amid Trump Gas‑Price Taunts",
+  "body": [
+   {
+    "type": "p",
+    "text": "Iran is reportedly bracing for the consequences of a recent United States congressional vote, as political leaders in Tehran assess how the outcome could affect the ongoing conflict with Israel. The Iranian response comes amid public criticism of President Donald Trump, who has faced taunts over rising gasoline prices in the United States."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the upcoming midterm elections are shaping strategies on both sides of the war, with U.S. lawmakers and Iranian officials each weighing how electoral pressures may influence their next moves. President Trump, still in office, is said to be considering his options in light of both domestic political dynamics and the regional tension."
+   },
+   {
+    "type": "p",
+    "text": "The interplay between domestic U.S. politics and Middle‑East conflict underscores how electoral cycles can ripple beyond national borders, potentially altering diplomatic and military calculations in the region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. voters and European observers are watching how domestic elections may affect Middle‑East stability and energy markets."
+   }
+  ],
+  "key_points": [
+   "Iran is preparing for the aftermath of a U.S. congressional vote that could impact the war with Israel.",
+   "President Trump faces public criticism over gas prices as midterm elections influence policy decisions.",
+   "Both U.S. and Iranian strategies are being shaped by the upcoming midterm elections."
+  ],
+  "meta_description": "Iran readies for fallout after a U.S. vote as Trump faces gas‑price taunts, with midterms influencing war strategies.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "U.S. politics",
+   "midterm elections",
+   "gas prices",
+   "Middle East conflict"
+  ],
+  "slug": "iran-prepares-fallout-after-u-s-vote-amid-trump-f836e3",
+  "reading_minutes": 1,
+  "added": "2026-10-20T09:40:44Z"
+ },
+ {
+  "id": "35844c0074212ce3",
+  "source_url": "https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html",
+  "source": "The New York Times",
+  "source_title": "France Protests Show Europe’s Shift Away From Centrist Politics",
+  "source_summary": "Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.",
+  "source_tags": [
+   "Right-Wing Extremism and Alt-Right",
+   "Layoffs and Job Reductions",
+   "Demonstrations, Protests and Riots",
+   "Democracy (Theory and Philosophy)",
+   "Legislatures and Parliaments",
+   "Populism (Theory and Philosophy)",
+   "Alternative for Germany",
+   "Christian Democratic Union (Germany)",
+   "European Union",
+   "France Unbowed (Political Party)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-europe-democracy-analysis-lvhw/20int-europe-democracy-analysis-lvhw-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T09:01:52+00:00",
+  "headline": "France Protests Highlight Youth Shift From Centrism to Populism Amid Growing Discontent",
+  "body": [
+   {
+    "type": "p",
+    "text": "Recent protests in France have underscored a broader trend across Europe, where centrist parties are losing appeal among younger voters and workers. Demonstrators are voicing frustration with established parties and are increasingly drawn to populist movements that promise sweeping reforms."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the shift reflects a growing skepticism toward moderate policies, with many young people and labor groups seeking more radical solutions to economic and social challenges. The momentum of these protests suggests that populist platforms are gaining traction as alternatives to the traditional political center."
+   },
+   {
+    "type": "p",
+    "text": "The phenomenon is not limited to France; similar patterns are emerging in other European nations, indicating a continental move away from centrist governance toward more extreme political options."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The erosion of centrist support could reshape European election outcomes and influence transatlantic policy coordination."
+   }
+  ],
+  "key_points": [
+   "Centrist parties in Europe are losing support among youth and workers.",
+   "Populist promises of radical change are attracting growing numbers of protesters.",
+   "France's protests exemplify a wider continental shift away from moderate politics."
+  ],
+  "meta_description": "France protests reveal a European shift as youth and workers turn from centrist parties to populist promises of radical change.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "populism",
+   "centrist parties",
+   "youth politics"
+  ],
+  "slug": "france-protests-highlight-youth-shift-from-centrism-populism-amid-35844c",
+  "reading_minutes": 1,
+  "added": "2026-10-20T09:40:41Z"
+ },
+ {
+  "id": "a69b5dee2c8d0cd0",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro",
+  "source": "BBC Sport",
+  "source_title": "PSG v Barcelona - Europe's most exciting match-up?",
+  "source_summary": "Paris St-Germain and Barcelona, the current top two in this season's Champions League, meet on Tuesday.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e053/live/2a307260-cba0-11f1-9ee2-f74dfb8e54e5.png",
+  "published": "2026-10-20T08:52:56+00:00",
+  "headline": "PSG and Barcelona Face Off as Champions League Leaders Clash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Paris St-Germain and Barcelona, the two clubs currently occupying the top spots in this season's Champions League, are set to meet on Tuesday. Both sides have demonstrated strong performances in the competition, positioning them as the leading contenders for the title."
+   },
+   {
+    "type": "p",
+    "text": "The encounter is being billed as one of the most exciting match‑ups in European football this year, pitting the French champions against the Spanish giants. Fans and analysts alike are anticipating a high‑quality contest that could shape the trajectory of the tournament."
+   },
+   {
+    "type": "p",
+    "text": "With the stakes high and the quality of play expected to be exceptional, the game promises to draw significant attention from supporters across the continent and beyond."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The match features two of Europe's most successful clubs, and its outcome may affect the Champions League title race, a competition followed closely by fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "PSG and Barcelona are the current top two teams in the Champions League.",
+   "Their Tuesday meeting is highlighted as a marquee clash in European football.",
+   "The result could influence the momentum of the competition's later stages."
+  ],
+  "meta_description": "PSG and Barcelona, the Champions League leaders, meet Tuesday in a highly anticipated European football clash.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "PSG",
+   "Barcelona",
+   "Champions League",
+   "football",
+   "Europe",
+   "match-up"
+  ],
+  "slug": "psg-barcelona-face-off-champions-league-leaders-clash-a69b5d",
+  "reading_minutes": 1,
+  "added": "2026-10-20T09:40:16Z"
+ },
+ {
+  "id": "fe3c4bd5e6db63db",
+  "source_url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo",
+  "source": "BBC News",
+  "source_title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+  "source_summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4333/live/71103e60-cc61-11f1-b1a3-5bda642ff934.jpg",
+  "published": "2026-10-20T08:46:00+00:00",
+  "headline": "Revolut Outage Disrupts Payments for Thousands of Users",
+  "body": [
+   {
+    "type": "p",
+    "text": "A technical failure at British neobank Revolut caused widespread disruption on Tuesday, with many customers reporting that they could not complete payments or retrieve funds through the app."
+   },
+   {
+    "type": "p",
+    "text": "The outage affected multiple services within the platform, leaving thousands of users unable to access their accounts or carry out transactions. Revolut has acknowledged the issue and is working to restore full functionality."
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the vulnerability of digital‑only banking services to system failures, prompting users to seek alternative methods for managing their money while the problem is resolved."
+   }
+  ],
+  "key_points": [
+   "Thousands of Revolut users reported being unable to make payments or access funds on Tuesday.",
+   "The outage impacted several services within the app, prompting the neobank to work on restoring functionality."
+  ],
+  "meta_description": "Revolut outage leaves thousands of users unable to make payments or access funds, affecting multiple app services.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Revolut",
+   "outage",
+   "payments",
+   "neobank",
+   "app issues"
+  ],
+  "slug": "revolut-outage-disrupts-payments-thousands-users-fe3c4b",
+  "reading_minutes": 1,
+  "added": "2026-10-20T09:40:04Z"
+ },
+ {
+  "id": "ca656d75d61907bb",
+  "source_url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+  "source": "TechCrunch",
+  "source_title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+  "source_summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+  "source_tags": [
+   "Enterprise",
+   "Security",
+   "Fundraising",
+   "Exclusive",
+   "Blackwall"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blackwall-co-founders-l-r-Denis-Prochko-and-Nik-Rozenberg.png?resize=1200,800",
+  "published": "2026-10-20T07:01:00+00:00",
+  "headline": "Blackwall Raises $100 Million, Valuation Hits $2.2 Billion",
+  "body": [
+   {
+    "type": "p",
+    "text": "Blackwall announced a $100 million financing round that lifts its post‑money valuation to $2.2 billion. The capital will be used to expand the company’s security and filtering platform, which helps website operators manage the surge in automated bot and AI‑generated traffic."
+   },
+   {
+    "type": "p",
+    "text": "The startup’s tools combine threat detection, traffic analysis, and content filtering to protect sites from malicious activity while preserving legitimate user experiences. As the internet becomes increasingly crowded with automated agents, Blackwall says its solutions are critical for businesses that rely on clean, trustworthy web traffic."
+   },
+   {
+    "type": "p",
+    "text": "Investors in the round were not disclosed, but the funding underscores growing market demand for advanced web‑security services. Blackwall plans to accelerate product development and broaden its global customer base, targeting enterprises across the United States, Europe, and other regions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European businesses, stronger web‑security tools are essential to safeguard online services against rising bot and AI threats."
+   }
+  ],
+  "key_points": [
+   "Blackwall secured $100 million, bringing its valuation to $2.2 billion.",
+   "The funds will support the rollout of enhanced security tools against bot and AI traffic.",
+   "Growing automated traffic is prompting websites to adopt more sophisticated filtering solutions."
+  ],
+  "meta_description": "Blackwall raises $100M, boosting its valuation to $2.2B to expand security tools that combat growing bot and AI web traffic.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cybersecurity",
+   "AI traffic",
+   "bot mitigation",
+   "funding",
+   "valuation",
+   "web infrastructure"
+  ],
+  "slug": "blackwall-raises-100-million-valuation-hits-2-2-billion-ca656d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T09:40:21Z"
+ },
+ {
+  "id": "e8a6abd3ca071ba5",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cx30ez4ge3z7o",
+  "source": "BBC Sport",
+  "source_title": "Will Lindblad and Lawson be retained by Racing Bulls? F1 QA",
+  "source_summary": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the United States Grand Prix.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ae8/live/a1c9a300-cbc8-11f1-aba9-2bb2608f11d9.jpg",
+  "published": "2026-10-20T06:59:17+00:00",
+  "headline": "F1 Reporter Answers Fan Queries on Racing Bulls Driver Retentions",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC Sport Formula One correspondent Andrew Benson fielded questions from fans ahead of the United States Grand Prix, focusing on the future of drivers Will Lindblad and Lawson with the Racing Bulls team."
+   },
+   {
+    "type": "p",
+    "text": "In the Q&A session, Benson clarified that the team’s decisions regarding driver contracts are pending and that no official announcements have been made at this stage. He noted that the team typically reviews performance and sponsorship considerations before confirming any roster changes."
+   },
+   {
+    "type": "p",
+    "text": "The discussion also touched on the timing of any potential announcements, with Benson indicating that teams often release such information closer to the start of the season or after key testing periods."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding driver line‑up decisions helps fans and sponsors gauge team stability ahead of the high‑profile US Grand Prix."
+   }
+  ],
+  "key_points": [
+   "Andrew Benson addressed fan questions about the possible retention of Will Lindblad and Lawson by Racing Bulls.",
+   "No official decision on the drivers' contracts has been announced yet.",
+   "Team decisions are expected to be communicated later in the season."
+  ],
+  "meta_description": "BBC Sport's Andrew Benson answers fan questions on whether Racing Bulls will keep drivers Will Lindblad and Lawson ahead of the US Grand Prix.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Racing Bulls",
+   "driver contracts",
+   "United States Grand Prix",
+   "BBC Sport"
+  ],
+  "slug": "f1-reporter-answers-fan-queries-racing-bulls-driver-retentions-e8a6ab",
+  "reading_minutes": 1,
+  "added": "2026-10-20T09:40:36Z"
+ },
+ {
   "id": "4d01c3f05fdce7e3",
   "source_url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo",
   "source": "BBC News",
