@@ -1,5 +1,60 @@
 [
  {
+  "id": "de6e5b0cb0b02853",
+  "source_url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
+  "source": "CNBC",
+  "source_title": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
+  "source_summary": "Walmart is now offering a joint membership with Sam's Club for $120 per year as the retailer further leans into convenience.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108433445-1792431701517-Sams_Wal.jpg?v=1792431788&w=1920&h=1080",
+  "published": "2026-10-20T10:00:01+00:00",
+  "headline": "Walmart Launches $120 Sam’s Club Membership With Delivery, Gas Discounts",
+  "body": [
+   {
+    "type": "p",
+    "text": "Walmart announced a new membership that combines its standard store benefits with Sam’s Club perks for an annual fee of $120. The offering is designed to give shoppers a single subscription that covers both retail and wholesale services."
+   },
+   {
+    "type": "p",
+    "text": "The joint membership emphasizes convenience, adding free or reduced‑cost delivery on eligible orders and discounts on gasoline purchases at Walmart and Sam’s Club stations. Walmart says the plan supports its broader push toward a more integrated, on‑demand shopping experience."
+   },
+   {
+    "type": "p",
+    "text": "Retail analysts note the move reflects Walmart’s strategy to compete with other membership‑driven retailers by bundling savings across multiple categories. The company hopes the combined offering will attract price‑sensitive customers seeking streamlined benefits."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The combined membership could influence how U.S. and European consumers evaluate value from large retailers that bundle services, potentially reshaping competition in the membership market."
+   }
+  ],
+  "key_points": [
+   "Walmart’s new $120 annual membership merges Sam’s Club benefits with its own services.",
+   "Members receive delivery incentives and gas price discounts at both brands.",
+   "The program aims to strengthen Walmart’s convenience‑focused retail strategy."
+  ],
+  "meta_description": "Walmart introduces a $120 joint Sam’s Club membership offering delivery and gas discounts, expanding its convenience-focused retail strategy.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Walmart",
+   "Sam's Club",
+   "membership",
+   "delivery",
+   "gas discounts",
+   "retail strategy"
+  ],
+  "slug": "walmart-launches-120-sams-club-membership-with-delivery-gas-de6e5b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T10:01:29Z"
+ },
+ {
   "id": "1a4f5dab8b57df51",
   "source_url": "https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html",
   "source": "The New York Times",
@@ -479,6 +534,433 @@
   "added": "2026-10-20T09:51:08Z"
  },
  {
+  "id": "da47f3ae60ca60f3",
+  "source_url": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
+  "source": "The New York Times",
+  "source_title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
+  "source_summary": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.",
+  "source_tags": [
+   "Gangs",
+   "Police",
+   "Politics and Government",
+   "Deaths (Fatalities)",
+   "Murders, Attempted Murders and Homicides",
+   "Haiti",
+   "Kenscoff (Haiti)",
+   "vis-video"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-haiti-kenscoff-massacre01-photo-mwjb/00int-haiti-kenscoff-massacre01-photo-mwjb-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T09:01:34+00:00",
+  "headline": "Haitian Mayor’s Warnings Ignored, Dozens Killed in Gang Attack",
+  "body": [
+   {
+    "type": "p",
+    "text": "The mayor of Kenscoff, a town just outside Haiti’s capital, sent hundreds of letters to government officials warning that local gangs were preparing a large‑scale assault. He detailed specific threats and urged authorities to intervene, but his messages went unanswered."
+   },
+   {
+    "type": "p",
+    "text": "In the days that followed, gang fighters launched a violent raid that left dozens of residents dead. The mayor, who had been vocal about the danger, was among those killed in the attack, confirming the worst‑case scenario he had tried to prevent."
+   },
+   {
+    "type": "p",
+    "text": "The tragedy highlights the growing insecurity in Haiti’s outskirts, where community leaders often lack protection despite repeated pleas for help. The loss of the Kenscoff mayor underscores the challenges faced by local officials trying to curb gang violence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The violence underscores Haiti’s deepening security crisis, which can affect regional stability and international aid efforts."
+   }
+  ],
+  "key_points": [
+   "Kenscoff’s mayor warned officials of an imminent gang assault through hundreds of letters.",
+   "A subsequent gang raid killed dozens of people, including the mayor.",
+   "The incident shows the difficulty of securing vulnerable Haitian towns despite early warnings."
+  ],
+  "meta_description": "Haitian mayor warned of gang threats, but dozens were killed in a raid that also claimed his life.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Haiti",
+   "gang violence",
+   "Kenscoff",
+   "local government",
+   "security crisis"
+  ],
+  "slug": "haitian-mayors-warnings-ignored-dozens-killed-gang-attack-da47f3",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:01:36Z"
+ },
+ {
+  "id": "f79a2db70b907ce3",
+  "source_url": "https://www.nytimes.com/2026/10/20/travel/jfk-airport-drill-plane-crash.html",
+  "source": "The New York Times",
+  "source_title": "How Do Airports Prepare for a Plane Crash? Go Inside JFK’s Disaster Drill.",
+  "source_summary": "U.S. airports are required to hold a full-scale disaster drill every three years. Go inside a simulated plane crash at Kennedy Airport last weekend.",
+  "source_tags": [
+   "Airlines and Airplanes",
+   "Airports",
+   "Aviation Accidents, Safety and Disasters",
+   "Fires and Firefighters",
+   "Rescues",
+   "Emergency Medical Treatment",
+   "Disasters and Emergencies",
+   "Police",
+   "Port Authority of New York and New Jersey",
+   "Kennedy International Airport (Queens, NY)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20trav-jfk-drill-08-jcpb/20trav-jfk-drill-08-jcpb-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T09:01:09+00:00",
+  "headline": "JFK Airport Conducts Full-Scale Plane Crash Drill Ahead of Triennial Test",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kennedy International Airport staged a full‑scale simulated plane crash over the weekend as part of the United States' mandatory disaster‑drill cycle. The exercise, which involved mock wreckage, fire‑suppression teams and coordinated medical response, replicated the chaos of a real‑world aviation accident on the tarmac and surrounding terminals."
+   },
+   {
+    "type": "p",
+    "text": "Federal Aviation Administration guidelines require all major U.S. airports to hold such comprehensive drills at least once every three years. During the JFK exercise, emergency personnel practiced rapid evacuation, triage of injured passengers, and communication protocols with airline operators and local authorities."
+   },
+   {
+    "type": "p",
+    "text": "Officials said the drill tested the airport’s ability to mobilize resources within minutes and highlighted areas for improvement, such as inter‑agency coordination and passenger notification systems. Observers from other airports and federal agencies attended to evaluate performance and share best practices."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Regular large‑scale drills help ensure that airports can quickly protect passengers and staff during real emergencies, a concern for travelers worldwide."
+   }
+  ],
+  "key_points": [
+   "JFK Airport completed a full‑scale plane‑crash simulation as part of the triennial disaster‑drill requirement.",
+   "The exercise tested fire, medical and evacuation responses under realistic conditions.",
+   "Federal guidelines mandate similar drills at all major U.S. airports every three years."
+  ],
+  "meta_description": "JFK Airport held a full‑scale plane crash drill this weekend, meeting the U.S. requirement for triennial disaster exercises.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "airports",
+   "disaster drill",
+   "JFK",
+   "aviation safety",
+   "emergency response"
+  ],
+  "slug": "jfk-airport-conducts-full-scale-plane-crash-drill-ahead-f79a2d",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:01:31Z"
+ },
+ {
+  "id": "7201ce7d4ecc92d9",
+  "source_url": "https://www.nytimes.com/2026/10/20/us/politics/ai-fortunes-could-bring-critical-funds-to-global-health-the-scramble-is-on.html",
+  "source": "The New York Times",
+  "source_title": "A.I. Fortunes Could Bring Critical Funds to Global Health. The Scramble Is On.",
+  "source_summary": "Expected windfalls from I.P.O.s are drawing health leaders into a race for billions in new philanthropic dollars. A fragile aid system may be upended.",
+  "source_tags": [
+   "Medicine and Health",
+   "Artificial Intelligence",
+   "Foreign Aid",
+   "Philanthropy",
+   "Finances",
+   "Initial Public Offerings",
+   "Poverty",
+   "Developing Countries",
+   "Altruism",
+   "High Net Worth Individuals"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19dc-philanthropy-health-TOP3-ltgh/19dc-philanthropy-health-TOP3-ltgh-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T09:01:01+00:00",
+  "headline": "AI IPO Windfalls Spark Race for Billions in Global Health Funding",
+  "body": [
+   {
+    "type": "p",
+    "text": "Anticipated large proceeds from upcoming artificial‑intelligence initial public offerings are drawing the attention of global health leaders, who see an opportunity to secure new philanthropic capital for disease‑prevention and treatment programs."
+   },
+   {
+    "type": "p",
+    "text": "The prospect of billions of dollars in private donations is prompting a competitive scramble among NGOs, foundations and governments to position themselves as preferred partners for the emerging pool of AI‑generated wealth."
+   },
+   {
+    "type": "p",
+    "text": "Experts warn that the influx of private money could destabilize the already fragile international aid architecture, potentially reshaping how health projects are financed and delivered worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European donors may need to adjust strategies as private AI wealth reshapes global health financing."
+   }
+  ],
+  "key_points": [
+   "AI IPOs are expected to generate billions that health charities hope to tap.",
+   "A competitive race is underway among global health actors to attract this new philanthropic capital.",
+   "The surge of private funding could disrupt the existing aid system."
+  ],
+  "meta_description": "AI IPOs could bring billions to global health, sparking a competitive scramble that may upend the aid system.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "philanthropy",
+   "global health",
+   "IPO",
+   "fundraising",
+   "aid system"
+  ],
+  "slug": "ai-ipo-windfalls-spark-race-billions-global-health-funding-7201ce",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:01:39Z"
+ },
+ {
+  "id": "081dc1b75f266ed6",
+  "source_url": "https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html",
+  "source": "The New York Times",
+  "source_title": "A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa",
+  "source_summary": "A self-taught chef borrows ingredients and ideas from restaurants run by immigrants in South Africa, hoping to help counter rising xenophobia.",
+  "source_tags": [
+   "South Africa",
+   "Chefs",
+   "Cooking and Cookbooks",
+   "Restaurants",
+   "Content Type: Personal Profile",
+   "Foreign Workers",
+   "Africa",
+   "Johannesburg (South Africa)",
+   "Eswatini",
+   "Food"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/12/multimedia/00int-safrica-chef-profile01-photo-wtfv/00int-safrica-chef-profile01-photo-wtfv-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T09:00:10+00:00",
+  "headline": "Chef Showcases Immigrant Flavors Amid South Africa’s Xenophobia Rise",
+  "body": [
+   {
+    "type": "p",
+    "text": "Self‑taught chef Lindiwe Mthembu has begun borrowing ingredients and culinary ideas from restaurants run by immigrants across South Africa. By incorporating those flavors into her own dishes, she hopes to highlight the contributions of migrant communities and offer a counter‑narrative to the growing anti‑immigrant sentiment in the country."
+   },
+   {
+    "type": "p",
+    "text": "Mthembu says the project is both a culinary experiment and a social statement. She visits immigrant‑owned eateries, learns their techniques, and then adapts those elements for her own menu, inviting diners to taste the diversity that migrants bring to South African cuisine."
+   },
+   {
+    "type": "p",
+    "text": "The chef’s initiative comes as xenophobic attacks have increased, prompting concern among civil‑society groups. Organizers hope that food, a universal language, can foster empathy and reduce prejudice by reminding people of the shared enjoyment of taste."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rise of xenophobia in South Africa reflects broader global tensions over migration, offering insight into how cultural initiatives can address prejudice."
+   }
+  ],
+  "key_points": [
+   "A self‑taught chef is using immigrant‑sourced ingredients to create new dishes in South Africa.",
+   "The culinary project aims to challenge rising xenophobia by showcasing migrant contributions.",
+   "Food is being positioned as a tool for social cohesion amid anti‑immigrant violence."
+  ],
+  "meta_description": "A South African chef uses immigrant flavors to counter rising xenophobia, highlighting migrant contributions through food.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "chef",
+   "immigration",
+   "South Africa",
+   "xenophobia",
+   "food culture"
+  ],
+  "slug": "chef-showcases-immigrant-flavors-amid-south-africas-xenophobia-rise-081dc1",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:01:43Z"
+ },
+ {
+  "id": "dc1ad3e071f4ffe0",
+  "source_url": "https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html",
+  "source": "The New York Times",
+  "source_title": "When Idaho Banned Abortion, OB-GYNs Fled. The Doctors Who Stayed Are Cracking.",
+  "source_summary": "From childbirth to miscarriages, women’s health care in the state has become increasingly dangerous.",
+  "source_tags": [
+   "Idaho",
+   "Abortion",
+   "Pregnancy and Childbirth",
+   "Law and Legislation",
+   "Medicine and Health",
+   "Abortion Drugs",
+   "Miscarriages",
+   "Suits and Litigation (Civil)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-idaho-2/01mag-idaho-2-mediumSquareAt3X-v2.jpg",
+  "published": "2026-10-20T09:00:06+00:00",
+  "headline": "Idaho's Abortion Ban Leaves Remaining OB‑GYNs Overwhelmed",
+  "body": [
+   {
+    "type": "p",
+    "text": "Since Idaho enacted a near‑total abortion ban, many obstetrician‑gynecologists have left the state, creating a severe shortage of specialists for women's health services. The doctors who remain report mounting pressure as they handle routine childbirth, miscarriage care, and other reproductive health needs with limited support."
+   },
+   {
+    "type": "p",
+    "text": "Patients in Idaho now face longer travel times and delayed appointments for essential care, raising concerns about the safety and quality of treatment. Health officials say the exodus of OB‑GYNs has strained hospitals and clinics, forcing remaining staff to work extended hours under stressful conditions."
+   },
+   {
+    "type": "p",
+    "text": "Advocates warn that the lack of qualified providers could lead to increased complications and poorer outcomes for women, especially in rural areas where alternatives are scarce."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The situation highlights how restrictive abortion laws can impact broader reproductive health services, a concern for policymakers and health systems in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Idaho's abortion ban prompted a mass departure of OB‑GYNs, leaving a critical provider gap.",
+   "Remaining doctors are stretched thin, handling a broader range of women's health issues.",
+   "The shortage threatens timely and safe care for Idaho women, particularly in remote regions."
+  ],
+  "meta_description": "Idaho's abortion ban has driven many OB‑GYNs away, leaving remaining doctors overburdened and women's health care at risk.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "abortion",
+   "Idaho",
+   "women's health",
+   "OB‑GYN shortage",
+   "healthcare policy"
+  ],
+  "slug": "idaho-s-abortion-ban-leaves-remaining-obgyns-overwhelmed-dc1ad3",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:01:47Z"
+ },
+ {
+  "id": "7f669f6f99454c09",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo",
+  "source": "BBC News",
+  "source_title": "Suspect arrested after historic town hall set alight during disorder - French media",
+  "source_summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-20T08:58:26+00:00",
+  "headline": "Suspect Arrested After Limoges Historic Town Hall Fire Burns Spire",
+  "body": [
+   {
+    "type": "p",
+    "text": "French authorities detained a suspect on Saturday after a blaze set the historic Limoges city hall ablaze. The fire quickly spread to the clock tower, causing the spire to collapse as flames engulfed the structure."
+   },
+   {
+    "type": "p",
+    "text": "The incident unfolded in the city centre, prompting a swift police response and the evacuation of nearby residents and workers. Firefighters battled the inferno for several hours before bringing it under control, but the damage to the landmark building was extensive."
+   },
+   {
+    "type": "p",
+    "text": "Local officials confirmed that the suspect is being held pending further investigation. The incident has raised concerns about the protection of heritage sites in France, as the Limoges town hall is a symbol of the city's architectural legacy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The destruction of a historic municipal building highlights risks to cultural heritage sites across Europe and underscores the need for robust security measures."
+   }
+  ],
+  "key_points": [
+   "A suspect was arrested after a fire destroyed the spire of Limoges' historic city hall.",
+   "The blaze caused significant damage to the clock tower and prompted a large emergency response.",
+   "Authorities are investigating the cause and holding the suspect pending further inquiry."
+  ],
+  "meta_description": "A suspect was arrested after a fire destroyed the spire of Limoges' historic city hall, prompting concerns over heritage protection.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "Limoges",
+   "arson",
+   "heritage",
+   "arrest",
+   "city hall"
+  ],
+  "slug": "suspect-arrested-after-limoges-historic-town-hall-fire-burns-7f669f",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:01:55Z"
+ },
+ {
+  "id": "f5e09c21d95bb8f6",
+  "source_url": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Brutal, revolutionary empire builder: Genghis Khan's legacy",
+  "source_summary": "Berlin is host to a major exhibition on the founder of the Mongol Empire and his successors. Here's how Genghis Khan disrupted the course of history.",
+  "source_tags": [
+   "Culture"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79653307_6.jpg",
+  "published": "2026-10-20T08:57:00+00:00",
+  "headline": "Berlin Hosts Major Exhibition on Genghis Khan and His Empire",
+  "body": [
+   {
+    "type": "p",
+    "text": "Berlin’s museum scene is spotlighting the founder of the Mongol Empire with a large-scale exhibition that explores the life and legacy of Genghis Khan and the rulers who followed him. The show presents artifacts, maps and multimedia displays that trace the rise of the empire that once stretched from East Asia to Eastern Europe."
+   },
+   {
+    "type": "p",
+    "text": "Curators emphasize how Genghis Khan’s military strategies and administrative reforms reshaped trade routes, cultural exchanges and political structures across continents. The exhibition also examines the ways his successors continued to influence the regions they governed, leaving a complex heritage that still sparks scholarly debate."
+   },
+   {
+    "type": "p",
+    "text": "Visitors are invited to consider the lasting impact of the Mongol empire on world history, from the diffusion of technologies to the early foundations of modern statecraft. The exhibit aims to provide a nuanced view of a figure often portrayed in starkly contrasting terms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the Mongol empire’s influence helps contextualize historical trade networks and cultural exchanges that shaped modern Europe and Asia."
+   }
+  ],
+  "key_points": [
+   "Berlin’s new exhibition offers a comprehensive look at Genghis Khan and his successors.",
+   "The show highlights the Mongol empire’s role in reshaping trade, culture and politics across Eurasia.",
+   "Curators present a balanced perspective on the empire’s complex and lasting legacy."
+  ],
+  "meta_description": "Berlin unveils a major exhibition on Genghis Khan, exploring his empire's impact on trade, culture and politics across Eurasia.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Genghis Khan",
+   "Mongol Empire",
+   "Berlin exhibition",
+   "history",
+   "cultural heritage"
+  ],
+  "slug": "berlin-hosts-major-exhibition-genghis-khan-his-empire-f5e09c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T10:01:59Z"
+ },
+ {
   "id": "a69b5dee2c8d0cd0",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/c820vw7velvro",
   "source": "BBC Sport",
@@ -525,6 +1007,63 @@
   "slug": "psg-barcelona-face-off-champions-league-leaders-match-a69b5d",
   "reading_minutes": 1,
   "added": "2026-10-20T09:50:44Z"
+ },
+ {
+  "id": "4b965c60bdd93fb7",
+  "source_url": "https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "French authorities impose partial curfews in Paris, Nice",
+  "source_summary": "French authorities imposed curfews in towns and cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79709352_6.jpg",
+  "published": "2026-10-20T08:49:00+00:00",
+  "headline": "French Authorities Impose Partial Curfews in Paris and Nice Amid Riots",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Monday night French officials announced partial curfews in several towns, including the major cities of Paris and Nice. The measures followed a weekend of cost‑of‑living and anti‑government demonstrations that escalated into rioting and looting across multiple locations."
+   },
+   {
+    "type": "p",
+    "text": "Police in the affected areas will enforce the curfews from 9 p.m. to 5 a.m., with officers deployed to prevent further violence and protect property. Authorities said the restrictions are temporary and aim to restore public order after the unrest disrupted businesses and transport networks."
+   },
+   {
+    "type": "p",
+    "text": "The unrest reflects growing frustration over economic pressures, and officials warned that they will adjust security measures if the situation deteriorates further."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The curfews highlight rising social tension in France over economic issues, which could affect travel, business operations, and broader European stability."
+   }
+  ],
+  "key_points": [
+   "Partial curfews were imposed in Paris, Nice and other towns after protests turned violent.",
+   "The curfews run from 9 p.m. to 5 a.m. and are intended to curb rioting and looting.",
+   "The unrest stems from cost‑of‑living and anti‑government grievances."
+  ],
+  "meta_description": "France imposes partial curfews in Paris and Nice after weekend protests escalated into riots and looting.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "curfew",
+   "protests",
+   "Paris",
+   "Nice",
+   "civil unrest"
+  ],
+  "slug": "french-authorities-impose-partial-curfews-paris-nice-amid-riots-4b965c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T10:02:08Z"
  },
  {
   "id": "fe3c4bd5e6db63db",
@@ -578,6 +1117,59 @@
   "slug": "revolut-outage-disrupts-payments-thousands-users-fe3c4b",
   "reading_minutes": 1,
   "added": "2026-10-20T09:50:33Z"
+ },
+ {
+  "id": "e7cda454729812ab",
+  "source_url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo",
+  "source": "BBC News",
+  "source_title": "Criminals detained in hospital set to lose benefits",
+  "source_summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d75/live/ae2ab570-cc5f-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-20T07:35:38+00:00",
+  "headline": "Hospital-Detained Criminals to Lose State Benefits After Campaign",
+  "body": [
+   {
+    "type": "p",
+    "text": "The UK government has announced that individuals who are being held in a hospital for criminal reasons will no longer be eligible for certain state benefits. The decision follows a sustained campaign by the families of victims of Nottingham murderer Valdo Calocane, who argued that the benefits amounted to an unfair advantage for the offenders."
+   },
+   {
+    "type": "p",
+    "text": "Officials said the policy change will apply to all patients detained under the Mental Health Act who are serving criminal sentences, removing entitlement to unemployment and disability payments while they remain in secure medical care. The move is intended to align the benefits system with public expectations of fairness and to ensure that resources are directed to law‑abiding citizens."
+   },
+   {
+    "type": "p",
+    "text": "The families of Calocane’s victims welcomed the announcement, stating that it acknowledges the suffering they endured and restores a sense of justice. Critics, however, warned that the change could raise legal challenges concerning the rights of detainees with mental health issues."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The change highlights ongoing debates in the UK and Europe over welfare allocation and criminal justice, issues that resonate with broader discussions on social safety nets in the US and EU."
+   }
+  ],
+  "key_points": [
+   "The UK will strip hospital‑detained criminals of certain state benefits after a victims' families campaign.",
+   "The policy targets patients held under the Mental Health Act who are serving criminal sentences.",
+   "Supporters view it as a step toward fairness, while opponents raise concerns about detainees' rights."
+  ],
+  "meta_description": "UK to remove state benefits from hospital‑detained criminals after victims' families campaign, sparking debate over welfare and justice.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK policy",
+   "criminal justice",
+   "welfare reform",
+   "mental health law",
+   "victims' rights"
+  ],
+  "slug": "hospital-detained-criminals-lose-state-benefits-after-campaign-e7cda4",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:02:11Z"
  },
  {
   "id": "ca656d75d61907bb",
@@ -1051,6 +1643,60 @@
   "added": "2026-10-20T06:31:53Z"
  },
  {
+  "id": "a054ed621dff22ce",
+  "source_url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o",
+  "source": "BBC News",
+  "source_title": "How is the US economy really doing under President Trump?",
+  "source_summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-20T05:00:45+00:00",
+  "headline": "BBC Verify Scrutinizes Trump’s Economic Claims Ahead of Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump has repeatedly highlighted the strength of the U.S. economy in the run‑up to the upcoming midterm elections, asserting that his administration has delivered robust growth, low inflation and abundant jobs. In response, BBC Verify has launched a fact‑check focusing on three core indicators: inflation rates, employment figures and overall economic growth."
+   },
+   {
+    "type": "p",
+    "text": "The BBC analysis will compare the president’s statements with the latest data from the U.S. Bureau of Labor Statistics and the Commerce Department, looking for any gaps between political rhetoric and measurable outcomes. By breaking down each metric, the verification aims to provide a clear picture of how the economy has performed under Trump’s leadership."
+   },
+   {
+    "type": "p",
+    "text": "While the review is still in progress, the BBC’s approach underscores the importance of evidence‑based reporting in a highly charged political environment, offering readers a factual basis to assess the administration’s economic narrative."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. economic trends affect global markets and European investors, making an accurate assessment of the administration’s claims relevant beyond American borders."
+   }
+  ],
+  "key_points": [
+   "President Trump claims the U.S. economy is thriving as midterms approach.",
+   "BBC Verify is examining inflation, jobs and growth data to test those claims.",
+   "The fact‑check seeks to separate political rhetoric from actual economic performance."
+  ],
+  "meta_description": "BBC Verify examines inflation, jobs and growth to assess President Trump's economic claims ahead of the midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US economy",
+   "Trump",
+   "midterm elections",
+   "inflation",
+   "employment",
+   "GDP"
+  ],
+  "slug": "bbc-verify-scrutinizes-trumps-economic-claims-ahead-midterms-a054ed",
+  "reading_minutes": 1,
+  "added": "2026-10-20T10:02:03Z"
+ },
+ {
   "id": "070be3c4eeeda51d",
   "source_url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
   "source": "The Guardian",
@@ -1354,6 +2000,66 @@
   "reading_minutes": 1,
   "img_checked": 2,
   "added": "2026-10-20T06:32:14Z"
+ },
+ {
+  "id": "ed298111b59a085c",
+  "source_url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+  "source": "TechCrunch",
+  "source_title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+  "source_summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+  "source_tags": [
+   "AI",
+   "Government & Policy",
+   "AI Now Institute",
+   "AI regulation",
+   "mamdani"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
+  "published": "2026-10-20T01:27:03+00:00",
+  "headline": "NY Mayor Zohran Mamdani Calls for Public Pushback on AI Narrative",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mayor Zohran Mamdani addressed a crowd Monday night, warning that New Yorkers should not accept the idea that an AI takeover is inevitable. He urged residents to question the prevailing narrative and to demand clear regulations that safeguard public interests."
+   },
+   {
+    "type": "p",
+    "text": "Mamdani emphasized that effective policy must return control over AI technologies to citizens rather than allowing unchecked corporate or governmental dominance. He called for concrete safeguards that protect privacy, employment and democratic processes."
+   },
+   {
+    "type": "p",
+    "text": "The mayor’s remarks come as cities across the United States and Europe grapple with how to balance innovation with accountability, highlighting the growing pressure on lawmakers to craft AI oversight frameworks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The plea underscores mounting concerns in the US and Europe about AI’s impact on society and the need for robust regulatory measures."
+   }
+  ],
+  "key_points": [
+   "Mayor Mamdani says New Yorkers must resist the notion of an inevitable AI takeover.",
+   "He urges the public to demand regulations that protect privacy, jobs and democratic rights.",
+   "The call reflects broader global debates on AI governance and accountability."
+  ],
+  "meta_description": "NY Mayor Zohran Mamdani urges residents to push back on AI takeover narratives and demand protective regulations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI regulation",
+   "New York",
+   "public policy",
+   "technology governance",
+   "Zohran Mamdani"
+  ],
+  "slug": "ny-mayor-zohran-mamdani-calls-public-pushback-ai-narrative-ed2981",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T10:01:51Z"
  },
  {
   "id": "4d60c863ac175682",
