@@ -1,5 +1,568 @@
 [
  {
+  "id": "0687bdac1819b968",
+  "source_url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
+  "source": "The New York Times",
+  "source_title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
+  "source_summary": "Julio Herrera Velutini, a prominent Venezuelan, was seeking clemency. He got it not long after his daughter gave Ms. Habba, a lawyer close to President Trump, an extraordinarily lucrative job.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Amnesties, Commutations and Pardons",
+   "Habba, Alina",
+   "Herrera Velutini, Julio",
+   "Trump, Donald J",
+   "Grenell, Richard",
+   "Mildon, Turhan",
+   "Kise, Christopher M"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/20/us/20dc-pardons-TOP/20dc-pardons-TOP-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T23:18:31+00:00",
+  "headline": "Venezuelan Billionaire Secures Trump Pardon After $50M Deal With Lawyer",
+  "body": [
+   {
+    "type": "p",
+    "text": "Julio Herrera Velutini, a well‑known Venezuelan billionaire, sought a presidential pardon from former President Donald Trump. The request was granted shortly after his daughter arranged a highly lucrative employment contract for Alina Habba, a lawyer with close ties to Trump."
+   },
+   {
+    "type": "p",
+    "text": "Habba received a $50 million deal to work for the Velutini family, a sum described as “extraordinarily lucrative” by sources familiar with the arrangement. The timing of the pardon, coming soon after the contract was signed, has drawn attention to the possible link between the financial agreement and the clemency decision."
+   },
+   {
+    "type": "p",
+    "text": "The case highlights concerns about the influence of wealthy foreign individuals on U.S. executive actions and raises questions about the transparency of the pardon process during Trump’s administration."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode underscores how affluent foreign actors may affect U.S. political decisions, a matter of interest for both American and European audiences concerned with governance and rule of law."
+   }
+  ],
+  "key_points": [
+   "Julio Herrera Velutini obtained a Trump pardon shortly after his daughter secured a $50 million deal for lawyer Alina Habba.",
+   "The deal’s size and timing suggest a possible connection between the financial arrangement and the clemency grant."
+  ],
+  "meta_description": "Venezuelan billionaire Julio Herrera Velutini got a Trump pardon after his daughter gave lawyer Alina Habba a $50 million deal.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "pardon",
+   "Venezuela",
+   "Alina Habba",
+   "corruption",
+   "US justice"
+  ],
+  "slug": "venezuelan-billionaire-secures-trump-pardon-after-50m-deal-with-0687bd",
+  "reading_minutes": 1,
+  "added": "2026-10-20T23:21:23Z"
+ },
+ {
+  "id": "03056d15ec872def",
+  "source_url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo",
+  "source": "BBC News",
+  "source_title": "The tech helping crack decades-old cold cases",
+  "source_summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d033/live/5b8c8300-c16c-11f1-babe-4199b0e7ccea.jpg",
+  "published": "2026-10-20T23:13:24+00:00",
+  "headline": "Genetic Genealogy Boosts Cold Case Solves Amid Privacy Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "Investigative genetic genealogy, which matches DNA from crime scenes with public genealogy databases, is increasingly being used to reopen and solve cold cases that have remained unsolved for decades. By constructing family trees from genetic matches, investigators can narrow down suspects and identify perpetrators who were previously beyond reach."
+   },
+   {
+    "type": "p",
+    "text": "The technique has already led to breakthroughs in several high-profile cases, providing closure for victims' families and adding new evidence to prosecutions. However, its expanding use has sparked debate over the balance between public safety and individual privacy, as DNA data originally submitted for ancestry research is repurposed for law‑enforcement investigations."
+   },
+   {
+    "type": "p",
+    "text": "Privacy advocates warn that without clear regulations, the practice could erode personal data protections and set precedents for broader surveillance. Lawmakers in various jurisdictions are now examining how to govern the intersection of genetic data and criminal justice while preserving the benefits of solving long‑standing crimes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The approach could influence privacy legislation and law‑enforcement practices in the US and Europe, where DNA data protection is a growing concern."
+   }
+  ],
+  "key_points": [
+   "Genetic genealogy is helping solve decades‑old cold cases by linking crime‑scene DNA to public genealogy databases.",
+   "The method raises significant privacy concerns as personal DNA information is used for criminal investigations.",
+   "Policymakers are reviewing regulations to balance law‑enforcement benefits with data‑privacy protections."
+  ],
+  "meta_description": "Genetic genealogy aids cold‑case investigations but sparks privacy debates as DNA data is used for policing.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "genetic genealogy",
+   "cold cases",
+   "forensic science",
+   "privacy",
+   "DNA",
+   "law enforcement"
+  ],
+  "slug": "genetic-genealogy-boosts-cold-case-solves-amid-privacy-concerns-03056d",
+  "reading_minutes": 1,
+  "added": "2026-10-20T23:21:27Z"
+ },
+ {
+  "id": "2c3280326b52676e",
+  "source_url": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Portugal housing protests continue after police clear camps",
+  "source_summary": "Demonstrators vow to continue their campaign to call for affordable housing in Portugal after police cleared tent camps and arrested at least 55 people.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79718009_6.jpg",
+  "published": "2026-10-20T23:11:00+00:00",
+  "headline": "Portugal Protests Continue After Police Clear Tent Camps, 55 Arrested",
+  "body": [
+   {
+    "type": "p",
+    "text": "Demonstrators in Portugal have vowed to keep up their campaign for affordable housing after police dismantled several tent camps across the country. The operation resulted in the arrest of at least 55 participants, according to local authorities."
+   },
+   {
+    "type": "p",
+    "text": "The protesters, many of whom are homeless or facing rising rents, set up the camps to draw attention to what they describe as a severe housing shortage. They say the government's response has been inadequate and that the clear‑out only deepens their hardship."
+   },
+   {
+    "type": "p",
+    "text": "Organisers announced plans to resume street actions and to seek legal avenues to pressure the government into expanding social‑housing programs. The protests have drawn solidarity from other European activist groups concerned about housing affordability."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest highlights a housing affordability issue that mirrors challenges in many Western cities, including those in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Police cleared tent camps in Portugal, arresting at least 55 protesters.",
+   "Demonstrators say the action underscores a growing affordable‑housing crisis.",
+   "Activists pledge to continue protests and pursue legal challenges."
+  ],
+  "meta_description": "Portugal protests over affordable housing persist after police clear tent camps, leading to 55 arrests.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "housing",
+   "protests",
+   "Portugal",
+   "affordable housing",
+   "police",
+   "Europe"
+  ],
+  "slug": "portugal-protests-continue-after-police-clear-tent-camps-55-2c3280",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T23:21:33Z"
+ },
+ {
+  "id": "79f1edce0d557975",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-antisemitic-slur-anti-defamation-league",
+  "source": "The Guardian",
+  "source_title": "ADL condemns Trump’s antisemitic slur but fails to mention him by name",
+  "source_summary": "Anti-Defamation League post decries ‘shylock’ slur but does not explain that president used it at Kansas rally on Monday The Anti-Defamation League (ADL) denounced the use of the term “shylock” as antisemitic on Tuesday, without explaining that the slur had been used a day earlier by Donald Trump in a speech in Kansas. Trump used the slur during a Monday night rally in support of Republican senator Roger Marshall, who is locked in a closer-than-expected re-election fight against Democratic challenger Adam Hamilton. Marshall, a doctor, as been criticized for filing lawsuits against more than 700 patients with outstanding bills, leading to 18 of them being arrested.",
+  "source_tags": [
+   "Donald Trump",
+   "US news",
+   "US politics",
+   "World news",
+   "Kansas",
+   "Democrats",
+   "Antisemitism"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/ff56adda8d2036864bd8acbab63b940473b58dca/415_0_4936_3950/master/4936.jpg?width=700&quality=85&auto=format&fit=max&s=fd6920894d5ea2a822841ae17cc2e4cb",
+  "published": "2026-10-20T23:06:41+00:00",
+  "headline": "ADL Condemns Trump’s Use of Antisemitic “Shylock” Slur at Kansas Rally",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Anti-Defamation League issued a statement on Tuesday denouncing the term “shylock” as an antisemitic slur. The organization’s post did not name former President Donald Trump, who had used the word the previous night while speaking at a campaign rally in Kansas."
+   },
+   {
+    "type": "p",
+    "text": "Trump’s remarks came during a rally backing Republican Senator Roger Marshall, who is facing a tighter-than-expected re‑election contest against Democratic challenger Adam Hamilton. Marshall, a physician, has drawn criticism for filing lawsuits against more than 700 patients with unpaid medical bills, a move that resulted in the arrest of 18 individuals."
+   },
+   {
+    "type": "p",
+    "text": "The ADL’s condemnation highlights ongoing concerns about hate‑filled language in American political discourse, especially as it intersects with contentious election battles and legal actions affecting vulnerable patients."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores how inflammatory rhetoric can influence high‑stakes elections and raise concerns about hate speech in U.S. politics."
+   }
+  ],
+  "key_points": [
+   "The ADL labeled the term “shylock” as antisemitic in a Tuesday statement.",
+   "Donald Trump used the slur at a Kansas rally supporting Senator Roger Marshall.",
+   "Marshall’s aggressive debt‑collection lawsuits have led to arrests of dozens of patients."
+  ],
+  "meta_description": "ADL condemns the antisemitic “shylock” slur used by Donald Trump at a Kansas rally supporting Senator Roger Marshall.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "ADL",
+   "antisemitism",
+   "Kansas rally",
+   "Roger Marshall",
+   "election"
+  ],
+  "slug": "adl-condemns-trumps-use-antisemitic-shylock-slur-kansas-rally-79f1ed",
+  "reading_minutes": 1,
+  "added": "2026-10-20T23:21:47Z"
+ },
+ {
+  "id": "6559d9cb2b558fef",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+  "source": "The Verge",
+  "source_title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+  "source_summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the last year, Ann had failed to appear for an independent medical examination or […]",
+  "source_tags": [
+   "AI",
+   "News",
+   "OpenAI",
+   "Policy"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-20T23:04:19+00:00",
+  "headline": "Judge Dismisses Sam Altman's Sister's Sexual Abuse Lawsuit",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. District Judge Zachary Bluestone ruled on Tuesday to dismiss the civil suit filed by Ann Altman, who had accused her brother, OpenAI chief executive Sam Altman, of sexually abusing her throughout her childhood. The case, originally lodged last year, sought damages for the alleged misconduct."
+   },
+   {
+    "type": "p",
+    "text": "The judge’s decision cited the plaintiff’s failure to comply with a court order requiring an independent medical examination. Over the past year, Ann Altman did not appear for the examination, a key step the court deemed necessary to substantiate her claims."
+   },
+   {
+    "type": "p",
+    "text": "Without the medical evaluation, the judge concluded there was insufficient evidence to proceed, leading to the dismissal of the lawsuit. No further legal action was noted in the ruling."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling ends a high‑profile legal claim involving the head of a leading AI company, highlighting procedural requirements in civil suits."
+   }
+  ],
+  "key_points": [
+   "U.S. District Judge Zachary Bluestone dismissed Ann Altman's lawsuit against Sam Altman.",
+   "The dismissal was based on the plaintiff’s failure to undergo an independent medical exam.",
+   "The case alleged childhood sexual abuse by the OpenAI CEO but lacked required evidence."
+  ],
+  "meta_description": "Judge Zachary Bluestone dismisses Ann Altman's lawsuit alleging childhood sexual abuse by OpenAI CEO Sam Altman due to lack of medical exam.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Sam Altman",
+   "OpenAI",
+   "lawsuit dismissal",
+   "court ruling",
+   "civil litigation"
+  ],
+  "slug": "judge-dismisses-sam-altman-s-sister-s-sexual-abuse-6559d9",
+  "reading_minutes": 1,
+  "added": "2026-10-20T23:21:43Z"
+ },
+ {
+  "id": "a561cd3ba39783a3",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o",
+  "source": "BBC Sport",
+  "source_title": "No jeopardy but loads of fun - Champions League sets new goals record",
+  "source_summary": "It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eff/live/5ab77310-cccd-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-20T23:03:11+00:00",
+  "headline": "Champions League Sets New Season Record for Goals Scored",
+  "body": [
+   {
+    "type": "p",
+    "text": "The UEFA Champions League delivered another night of high‑scoring action on Tuesday, with matches producing an abundance of goals across the competition."
+   },
+   {
+    "type": "p",
+    "text": "According to the tournament’s officials, the total number of goals this season has surpassed previous tallies, establishing a new record for the campaign. The surge in scoring has been described as entertaining rather than threatening to the integrity of the competition."
+   },
+   {
+    "type": "p",
+    "text": "Fans and commentators praised the spectacle, noting that the influx of goals adds excitement for viewers while maintaining the tournament’s traditional format and competitive balance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A record‑breaking goal tally highlights the growing offensive quality in European club football, offering fans more thrilling matches to follow."
+   }
+  ],
+  "key_points": [
+   "The Champions League set a new seasonal record for total goals scored.",
+   "The high‑scoring matches were celebrated for their entertainment value.",
+   "Officials say the record does not compromise the competition’s integrity."
+  ],
+  "meta_description": "Champions League hits a new season record for goals, delivering entertaining football without compromising competition integrity.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Champions League",
+   "football",
+   "goal record",
+   "UEFA",
+   "2026 season"
+  ],
+  "slug": "champions-league-sets-new-season-record-goals-scored-a561cd",
+  "reading_minutes": 1,
+  "added": "2026-10-20T23:21:35Z"
+ },
+ {
+  "id": "d4e57614c374e23f",
+  "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+  "source": "TechCrunch",
+  "source_title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+  "source_summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+  "source_tags": [
+   "AI",
+   "TC",
+   "Anthropic",
+   "policy"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+  "published": "2026-10-20T23:01:23+00:00",
+  "headline": "Anthropic Proposes AI Safety Bill That Limits Agency Power",
+  "body": [
+   {
+    "type": "p",
+    "text": "Anthropic has introduced a draft policy that would allow a model to be blocked only if it could potentially cause the deaths of more than 50 people. The bill frames the measure as a safeguard against runaway artificial intelligence."
+   },
+   {
+    "type": "p",
+    "text": "Critics note that the proposal also restricts federal agencies from halting a model's release without first obtaining a judge’s approval, effectively placing judicial oversight in front of agency action."
+   },
+   {
+    "type": "p",
+    "text": "The dual nature of the draft—offering a high‑threshold safety trigger while curbing agency authority—has sparked debate over how AI risks will be managed under U.S. law."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The proposal could shape how U.S. regulators intervene in high‑risk AI deployments, influencing global discussions on AI oversight."
+   }
+  ],
+  "key_points": [
+   "The bill would block AI models only if they could kill 50 or more people.",
+   "It prevents federal agencies from stopping a model's release without a judge’s permission."
+  ],
+  "meta_description": "Anthropic's AI safety bill sets a 50‑death threshold for model bans but limits agency action without judicial approval.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "safety",
+   "legislation",
+   "Anthropic",
+   "regulation"
+  ],
+  "slug": "anthropic-proposes-ai-safety-bill-that-limits-agency-power-d4e576",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T23:21:51Z"
+ },
+ {
+  "id": "954ba61da6d3c686",
+  "source_url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+  "source": "TechCrunch",
+  "source_title": "SpaceX and Tesla boards form special committees to review merger",
+  "source_summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+  "source_tags": [
+   "Space",
+   "Transportation",
+   "SpaceX",
+   "Tesla"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
+  "published": "2026-10-20T22:57:57+00:00",
+  "headline": "SpaceX and Tesla Boards Create Independent Review Committees",
+  "body": [
+   {
+    "type": "p",
+    "text": "The boards of SpaceX and Tesla have each established special committees to examine a potential merger between the two companies. Both committees are composed solely of independent directors, ensuring that the review process is detached from management influence."
+   },
+   {
+    "type": "p",
+    "text": "Elon Musk, who leads both firms, expressed support for the merger concept but clarified that he does not sit on either committee. The independent panels are tasked with evaluating strategic, financial and regulatory considerations before any deal can move forward."
+   },
+   {
+    "type": "p",
+    "text": "The formation of these committees signals a formal step toward a possible consolidation in the aerospace and automotive sectors, though no timeline or decision has been announced."
+   }
+  ],
+  "key_points": [
+   "SpaceX and Tesla boards have set up independent committees to review a merger.",
+   "Elon Musk supports the idea but is not a member of the review panels."
+  ],
+  "meta_description": "SpaceX and Tesla boards form independent committees to assess a merger, with Elon Musk supportive but not participating.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "SpaceX",
+   "Tesla",
+   "merger",
+   "board committees",
+   "independent directors"
+  ],
+  "slug": "spacex-tesla-boards-create-independent-review-committees-954ba6",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T23:21:59Z"
+ },
+ {
+  "id": "659a3f9b8e41cc93",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go",
+  "source": "BBC Sport",
+  "source_title": "The night 'ruthless' Ngumoha came of age for Liverpool",
+  "source_summary": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a154/live/ba9499f0-ccd4-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-20T22:56:55+00:00",
+  "headline": "Rio Ngumoha Leads Liverpool to Dramatic Comeback Win Over Villarreal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rio Ngumoha delivered a standout performance as Liverpool overturned a deficit to beat Villarreal, marking a pivotal moment in his young career. The forward's energy and decisive actions helped shift the momentum in Liverpool's favor during the second half."
+   },
+   {
+    "type": "p",
+    "text": "The comeback win highlighted Ngumoha's growing influence within the squad, with his contributions earning praise from teammates and supporters alike. His ability to create chances and press the opposition was a key factor in Liverpool's resurgence on the pitch."
+   },
+   {
+    "type": "p",
+    "text": "Liverpool's victory over the Spanish side underscores the team's resilience in European competition, while Ngumoha's emergence adds a fresh dimension to their attacking options moving forward."
+   }
+  ],
+  "key_points": [
+   "Rio Ngumoha played a decisive role in Liverpool's comeback win against Villarreal.",
+   "The performance signals Ngutoha's rising importance for Liverpool in European matches."
+  ],
+  "meta_description": "Rio Ngumoha shines as Liverpool stages a comeback win over Villarreal, highlighting his growing role in the team.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Rio Ngumoha",
+   "Villarreal",
+   "Champions League",
+   "comeback",
+   "football"
+  ],
+  "slug": "rio-ngumoha-leads-liverpool-dramatic-comeback-win-over-villarreal-659a3f",
+  "reading_minutes": 1,
+  "added": "2026-10-20T23:21:39Z"
+ },
+ {
+  "id": "80d0c7f44eed2be6",
+  "source_url": "https://www.nytimes.com/2026/10/20/us/politics/colorado-elections-ai.html",
+  "source": "The New York Times",
+  "source_title": "How Two Colorado House Candidates Are Thinking About AI",
+  "source_summary": "In Colorado, two millennial candidates are thinking about A.I.",
+  "source_tags": [
+   "Politics and Government",
+   "Elections",
+   "Artificial Intelligence",
+   "Midterm Elections (2026)",
+   "Regulation and Deregulation of Industry",
+   "Political Advertising",
+   "House of Representatives",
+   "Evans, Gabe (1986- )",
+   "Rutinel, Manny (1994- )",
+   "Colorado"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20pol-onpolitics-colorado-photo-zgqh/20pol-onpolitics-colorado-photo-zgqh-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T22:47:19+00:00",
+  "headline": "Colorado House Hopefuls, Both Millennials, Weigh AI Impact",
+  "body": [
+   {
+    "type": "p",
+    "text": "Two millennial candidates vying for seats in the Colorado House are giving AI a prominent place in their campaign discussions, according to a recent New York Times article. Both candidates acknowledge the rapid integration of artificial intelligence into everyday life and express a desire to shape state policy that addresses its benefits and challenges."
+   },
+   {
+    "type": "p",
+    "text": "The candidates stress the importance of preparing Colorado’s workforce for AI-driven changes, emphasizing education and training as key components. They also highlight concerns about data privacy and the need for transparent regulations to protect citizens while fostering innovation."
+   },
+   {
+    "type": "p",
+    "text": "While specific policy proposals were not detailed in the report, the candidates’ focus on AI reflects a broader trend of younger legislators prioritizing technology issues. Their approach suggests that upcoming state legislation may increasingly address the societal impacts of artificial intelligence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "AI policy decisions at the state level can influence national tech regulation and economic competitiveness, relevant to readers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Two millennial Colorado House candidates are prioritizing AI in their platforms.",
+   "They aim to balance workforce preparation with privacy and regulatory safeguards.",
+   "Their focus signals growing attention to AI policy at the state level."
+  ],
+  "meta_description": "Millennial Colorado House candidates spotlight AI, seeking policies on workforce training and privacy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Colorado",
+   "Artificial Intelligence",
+   "House Race",
+   "Millennials",
+   "Technology Policy"
+  ],
+  "slug": "colorado-house-hopefuls-both-millennials-weigh-ai-impact-80d0c7",
+  "reading_minutes": 1,
+  "added": "2026-10-20T23:21:55Z"
+ },
+ {
   "id": "9dabda8095fb9cae",
   "source_url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o",
   "source": "BBC News",
@@ -622,6 +1185,66 @@
   "added": "2026-10-20T22:49:26Z"
  },
  {
+  "id": "a349813288057116",
+  "source_url": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
+  "source": "The New York Times",
+  "source_title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
+  "source_summary": "“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.",
+  "source_tags": [
+   "France",
+   "Demonstrations, Protests and Riots",
+   "Education",
+   "Slogans and Mottoes",
+   "Muslims and Islam",
+   "Algeria"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20intfrance1-cmbp/20intfrance1-cmbp-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T21:21:15+00:00",
+  "headline": "French Student Demonstrations Feature New Slogan ‘Bismillah, C’est Les Ténèbres’",
+  "body": [
+   {
+    "type": "p",
+    "text": "At recent student protests in France, demonstrators have begun displaying the phrase “Bismillah, c’est les ténèbres” on placards. The French wording translates to “In the name of God, it’s the darkness,” a combination that confounds literal interpretation but has quickly become a rallying cry among participants."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the slogan functions as a shorthand for a perceived generational divide, encapsulating youthful frustration with established institutions and cultural norms. While the exact origins of the phrase remain unclear, its repeated appearance signals a growing desire among French students to articulate dissent through provocative, cryptic language."
+   },
+   {
+    "type": "p",
+    "text": "The phenomenon reflects broader trends of symbolic protest across Europe, where young activists increasingly employ unconventional slogans to capture media attention and convey complex grievances in a single, memorable line."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The slogan underscores rising generational tensions in France, a dynamic that could influence the country's political climate and resonate with youth movements across Europe."
+   }
+  ],
+  "key_points": [
+   "French student protesters are using the phrase “Bismillah, c’est les ténèbres” on signs.",
+   "The slogan, meaning “In the name of God, it’s the darkness,” is viewed as shorthand for a generational divide.",
+   "Its cryptic nature highlights a trend of symbolic language in contemporary European youth protests."
+  ],
+  "meta_description": "French student protests feature the cryptic slogan “Bismillah, c’est les ténèbres,” signaling a generational divide.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "student protests",
+   "slogan",
+   "generational divide",
+   "youth activism"
+  ],
+  "slug": "french-student-demonstrations-feature-new-slogan-bismillah-cest-les-a34981",
+  "reading_minutes": 1,
+  "added": "2026-10-20T23:22:03Z"
+ },
+ {
   "id": "a7db14ab145036e7",
   "source_url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo",
   "source": "BBC Sport",
@@ -673,6 +1296,71 @@
   "slug": "audit-regulator-initiates-inquiries-into-manchester-city-finances-a7db14",
   "reading_minutes": 1,
   "added": "2026-10-20T22:49:51Z"
+ },
+ {
+  "id": "9a24a58565b3504f",
+  "source_url": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
+  "source": "The New York Times",
+  "source_title": "Why Zelensky Took the Gloves Off This Time With Trump",
+  "source_summary": "Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russia’s interests.",
+  "source_tags": [
+   "Russian Invasion of Ukraine (2022)",
+   "United States Politics and Government",
+   "United States International Relations",
+   "Putin, Vladimir V",
+   "Rubio, Marco",
+   "Trump, Donald J",
+   "Witkoff, Steven",
+   "Zelensky, Volodymyr",
+   "Russia",
+   "Ukraine"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-ukraine-trump-01-mzqw/20int-ukraine-trump-01-mzqw-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T20:39:58+00:00",
+  "headline": "Zelensky Breaks Silence as Trump Deepens Pro‑Russia Stance",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian officials say President Volodymyr Zelensky has abandoned his usual restraint and openly challenged President Donald Trump, whose policies now appear to prioritize Russian interests more than ever. The shift comes after weeks of quiet diplomacy that Ukrainian leaders deemed increasingly risky."
+   },
+   {
+    "type": "p",
+    "text": "According to statements from Kyiv, staying silent while Trump advances a pro‑Russia agenda could undermine Ukraine’s security and diplomatic leverage. Zelensky’s direct approach signals a new tactic aimed at drawing attention to the perceived alignment between the U.S. administration and Moscow."
+   },
+   {
+    "type": "p",
+    "text": "The development underscores growing tension between the United States and Ukraine over how to respond to Russia’s ongoing actions in the region. Observers note that the president’s stance may affect aid flows and broader Western support for Kyiv."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European policymakers watch the rift closely, as it could reshape aid and coordination with Ukraine against Russian aggression."
+   }
+  ],
+  "key_points": [
+   "Zelensky has moved from quiet diplomacy to openly confronting President Trump.",
+   "Ukrainian officials warn that silence would be riskier as Trump favors Russian interests.",
+   "The change highlights mounting strain in U.S.–Ukraine relations amid the Russia conflict."
+  ],
+  "meta_description": "Zelensky abandons silence to confront Trump, whose pro‑Russia stance raises concerns for Ukraine and Western support.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Zelensky",
+   "Trump",
+   "Russia",
+   "US politics",
+   "Europe"
+  ],
+  "slug": "zelensky-breaks-silence-trump-deepens-prorussia-stance-9a24a5",
+  "reading_minutes": 1,
+  "added": "2026-10-20T23:22:07Z"
  },
  {
   "id": "f44baaa9161e1dfe",
