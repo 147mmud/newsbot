@@ -242,7 +242,8 @@ def run() -> int:
     # 2. reconcile reservations abandoned by a crashed/cancelled run
     changed = False
     for k, v in ledger.items():
-        if v.get("status") == "posting" and parse(v["ts"]) < t - timedelta(minutes=STALE_MIN):
+        if v.get("status") == "posting" and v.get("link") and not k.startswith("sc:") \
+                and parse(v["ts"]) < t - timedelta(minutes=STALE_MIN):
             try:
                 found = page_has_link(v["link"])
                 v.update(status="posted" if found else "failed", ts=iso(t), note="reconciled")
