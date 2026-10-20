@@ -254,7 +254,10 @@ def run() -> int:
         ledger = push_ledger(ledger, "fb: reconcile ledger") or ledger
 
     # 3. reserve -> post -> record, one story at a time
-    for a in pick(articles, ledger, t):
+    picks = pick(articles, ledger, t)
+    if not picks:
+        log.info("No new story to post this run (ledger: %d entries).", len(ledger))
+    for a in picks:
         link = article_url(a)
         ledger[a["id"]] = {"status": "posting", "ts": iso(now()), "link": link, "title": a["headline"]}
         merged = push_ledger(ledger, f"fb: reserve {a['id']}")
