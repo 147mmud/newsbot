@@ -135,7 +135,7 @@ a.sb-card:hover{border-color:rgba(255,255,255,.3)}
 .hero-main{display:grid;gap:16px;align-content:start}
 .hero-side{display:grid;gap:12px;align-content:start}
 .card-lg .card-title{font-size:clamp(22px,2.4vw,28px)}
-@media (min-width:760px){.hero{grid-template-columns:1.6fr 1fr}}
+@media (min-width:760px){.hero{grid-template-columns:1.6fr 1fr}.hero-side{position:relative;height:0;min-height:100%;overflow:hidden;align-content:space-between}}
 .block{margin-top:28px}
 .block-title{font:700 20px var(--serif);margin:0 0 14px;padding-bottom:8px;border-bottom:2px solid var(--ink)}
 .block-title a{display:flex;justify-content:space-between;align-items:baseline}
