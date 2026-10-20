@@ -318,12 +318,53 @@ def card_list(title, kicker, rows, foot, c1="#0b1d33", c2="#1b3a66") -> Image.Im
 
 
 # --------------------------------------------------------------------------- captions
-def tags(*events) -> str:
-    seen = []
+# Hashtags (owner's high-tier strategy): 4-5 per post, only tags that match the post.
+LEAGUE_TAGS = {
+    #        always            results            pre-match / news
+    "ucl":  (["#UCL", "#ChampionsLeague"], [], []),
+    "epl":  (["#PremierLeague", "#EPL"], ["#EPLScores"], ["#PLNews"]),
+    "nfl":  (["#NFL"], ["#NFLScores"], ["#NFLNews"]),
+    "six":  (["#SixNations"], [], []),
+    "prem": (["#PremRugby"], [], []),
+    "urc":  (["#URC"], [], []),
+}
+KIND_TAGS = {
+    "final": ["#ScoreUpdate", "#LiveScore"],
+    "pre":   ["#GameDay", "#LiveScore"],
+    "today": ["#GameDay", "#SportsNews"],
+    "week":  ["#SportsHighlights", "#ScoreUpdate"],
+    "reel":  ["#Reels"],
+}
+SUNDAY_NIGHT = "#SundayNightFootball"
+
+
+def hashtags(kind: str, *events, limit: int = 5, extra=()) -> str:
+    """League tags first (most specific), then the post-type tags, capped."""
+    out = []
+    leagues = []
     for e in events:
-        if e["tag"] not in seen:
-            seen.append(e["tag"])
-    return " ".join(seen[:3])
+        if e["league"] not in leagues:
+            leagues.append(e["league"])
+    multi = len(leagues) > 1
+    for lg in leagues:
+        base, res, pre = LEAGUE_TAGS.get(lg, ([], [], []))
+        pick = base[:1] if multi else base
+        if not multi:
+            pick = pick + (res if kind == "final" else pre if kind == "pre" else [])
+        out += [t for t in pick if t not in out]
+    # NFL primetime on Sunday night (US Eastern)
+    for e in events:
+        k = kickoff(e).astimezone(ET)
+        if e["league"] == "nfl" and k.weekday() == 6 and k.hour >= 19 and SUNDAY_NIGHT not in out:
+            out.append(SUNDAY_NIGHT)
+    for t in list(extra) + KIND_TAGS.get(kind, []):
+        if t not in out:
+            out.append(t)
+    return " ".join(out[:limit])
+
+
+def tags(*events) -> str:                       # kept for older callers
+    return hashtags("final", *events)
 
 
 def cap_final(e, v) -> str:
@@ -342,7 +383,7 @@ def cap_final(e, v) -> str:
          "HONOURS EVEN": "Fair result? Tell us below 👇"}.get(v.get("label"), "Rate this game out of 10 👇")
     line = f" {v['line']}." if v.get("line") else ""
     return (f"{head}\n{e['emoji']} {e['label'].title()}: {score}.{line}\n💬 {q}\n"
-            f"📊 Every score, live: {SITE.replace('https://', '')}\n{tags(e)}")
+            f"📊 Every score, live: {SITE.replace('https://', '')}\n{hashtags('final', e)}")
 
 
 def cap_prematch(e) -> str:
@@ -351,7 +392,7 @@ def cap_prematch(e) -> str:
     venue = f" at {e['venue']}" if e["venue"] else ""
     return (f"⏰ MATCH DAY | {e['label'].title()}\n{e['emoji']} {a['name']} vs {b['name']}{venue}\n"
             f"🕒 Kick-off {uk} / {et}\n🔮 Drop your score prediction below 👇\n"
-            f"📊 Follow it live: {SITE.replace('https://', '')}\n{tags(e)}")
+            f"📊 Follow it live: {SITE.replace('https://', '')}\n{hashtags('pre', e)}")
 
 
 # --------------------------------------------------------------------------- planning
@@ -388,7 +429,7 @@ def plan(events: list[dict], ledger: dict, t: datetime) -> list[dict]:
             rows = [(e["label"], f"{e['teams'][0]['name']} vs {e['teams'][1]['name']}", *times(e)) for e in top]
             cap = (f"📅 BIG GAMES TODAY\n{len(top)} huge fixtures for your {t.astimezone(ET).strftime('%A')}. Which one are you watching? 🍿\n"
                    + "\n".join(f"{e['emoji']} {e['teams'][0]['name']} vs {e['teams'][1]['name']} ({times(e)[0]} / {times(e)[1]})" for e in top)
-                   + f"\n🔮 Pick ONE game and predict the score below 👇\n📊 Live scores all day: {SITE.replace('https://', '')}\n{tags(*top)}")
+                   + f"\n🔮 Pick ONE game and predict the score below 👇\n📊 Live scores all day: {SITE.replace('https://', '')}\n{hashtags('today', *top)}")
             posts.append({"key": key, "kind": "today", "rank": 95,
                           "make": lambda rows=rows, cap=cap, d=t: (card_list("BIG GAMES TODAY", d.astimezone(UK).strftime("%A").upper(), rows,
                                                                        "PREDICT ONE SCORE BELOW"), cap), "title": "Big games today"})
@@ -403,7 +444,7 @@ def plan(events: list[dict], ledger: dict, t: datetime) -> list[dict]:
                       "GOAL FEST": "Goal fest", "HONOURS EVEN": "Draw"}.get(v.get("label"), "Full time"), "") for v, e in scored]
             cap = ("🗓️ YOUR WEEKEND IN " + str(len(rows)) + " SCORES\n"
                    + "\n".join(f"{e['emoji']} {r[1]}" for (v, e), r in zip(scored, rows))
-                   + f"\n🤯 Which result shocked you the most? 👇\n📊 Every result: {SITE.replace('https://', '')}\n{tags(*[e for _, e in scored])}")
+                   + f"\n🤯 Which result shocked you the most? 👇\n📊 Every result: {SITE.replace('https://', '')}\n{hashtags('week', *[e for _, e in scored])}")
             posts.append({"key": key, "kind": "week", "rank": 90,
                           "make": lambda rows=rows, cap=cap: (card_list(f"WEEKEND IN {len(rows)} SCORES", "SUNDAY ROUND-UP", rows,
                                                                        "WHICH RESULT SHOCKED YOU?", "#2a0a14", "#0b1d33"), cap), "title": "Weekend round-up"})
