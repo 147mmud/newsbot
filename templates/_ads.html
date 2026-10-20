@@ -23,12 +23,14 @@
 {% endmacro %}
 
 {% macro native(cls='native') %}
-{% if ad('native') or site.ADS_PREVIEW %}
+{% set ncode = ad('native') or '' %}
+{% if '<script' in ncode %}
 <div class="ad ad-{{ cls }}" data-ad-native>
   <span class="ad-label">Sponsored</span>
-  {% if ad('native') %}<template>{{ ad('native')|safe }}</template>
-  {% else %}<div class="ad-preview ad-preview-native">native (Adsterra Native Banner)</div>{% endif %}
+  <template>{{ ncode|safe }}</template>
 </div>
+{% else %}{# native disabled/empty -> normal banner in the same spot, never an empty box #}
+{{ banner(cls ~ '-fallback', 'header_728', 728, 90, 'rect_300', 300, 250) }}
 {% endif %}
 {% endmacro %}
 
