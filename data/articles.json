@@ -1,5 +1,676 @@
 [
  {
+  "id": "4d01c3f05fdce7e3",
+  "source_url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo",
+  "source": "BBC News",
+  "source_title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+  "source_summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg",
+  "published": "2026-10-20T06:25:39+00:00",
+  "headline": "Chancellor Rejects Labour Push to Raise Capital Gains Tax in Budget",
+  "body": [
+   {
+    "type": "p",
+    "text": "In the latest UK budget, the chancellor turned down proposals from senior Labour figures to increase the capital gains tax (CGT) rate and align it with income tax. Sources close to the Treasury said the decision was taken to avoid further tax complexity and to maintain the current fiscal stance."
+   },
+   {
+    "type": "p",
+    "text": "Labour officials had been advocating for a unified tax system, arguing that equalising CGT with income tax would improve fairness. However, critics warned that a higher CGT could encourage high‑net‑worth individuals to relocate abroad, potentially reducing investment in the British economy."
+   },
+   {
+    "type": "p",
+    "text": "The chancellor’s rejection signals that the government will keep the existing CGT rates for the upcoming fiscal year, focusing instead on other budgetary priorities. The move is expected to reassure investors who have been monitoring UK tax policy closely."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision affects the attractiveness of the UK for foreign investors and could influence cross‑border capital flows in Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "The chancellor refused Labour's call to raise capital gains tax in the new budget.",
+   "Critics argue a higher CGT could drive wealthy residents out of the UK.",
+   "Current CGT rates will remain unchanged for the next fiscal year."
+  ],
+  "meta_description": "UK chancellor rejects Labour's bid to raise capital gains tax, keeping rates unchanged amid concerns about wealth flight.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "capital gains tax",
+   "budget",
+   "chancellor",
+   "labour party",
+   "tax policy"
+  ],
+  "slug": "chancellor-rejects-labour-push-raise-capital-gains-tax-budget-4d01c3",
+  "reading_minutes": 1,
+  "added": "2026-10-20T06:31:46Z"
+ },
+ {
+  "id": "ca58b3eb5b1df698",
+  "source_url": "https://www.dw.com/en/india-news-rubio-set-to-hold-talks-with-s-jaishankar/live-79708492?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "India news: Rubio set to hold talks with S Jaishankar",
+  "source_summary": "Marco Rubio's talks with Indian FM S Jaishankar come as the two countries struggle to finalise a trade deal. Follow DW for more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79556599_6.jpg",
+  "published": "2026-10-20T06:22:00+00:00",
+  "headline": "Rubio Meets Indian Foreign Minister Jaishankar Amid Trade Deal Stalemate",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. Senator Marco Rubio is scheduled to hold talks with Indian Foreign Minister Subrahmanyam Jaishankar, according to a report from Deutsche Welle. The meeting comes at a time when Washington and New Delhi are still working to finalize a long‑awaited trade agreement that has faced several hurdles."
+   },
+   {
+    "type": "p",
+    "text": "Both officials are expected to discuss the remaining points of contention in the proposed deal, which aims to deepen economic ties and expand market access for a range of goods and services. While specific agenda items were not disclosed, the dialogue signals a continued diplomatic effort to move the negotiations forward."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that progress on the trade pact could have broader implications for the strategic partnership between the two democracies, especially as they seek to coordinate on supply‑chain resilience and regional security concerns."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A resolved trade agreement would deepen U.S. economic engagement with a key Asian market and could influence broader supply‑chain and geopolitical dynamics relevant to Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Senator Marco Rubio will meet Indian Foreign Minister S. Jaishankar to discuss a pending U.S.-India trade agreement.",
+   "The talks occur while both countries work to resolve outstanding issues in the trade deal.",
+   "Successful negotiations could strengthen economic and strategic ties between the United States and India."
+  ],
+  "meta_description": "Senator Marco Rubio meets India's foreign minister to discuss a stalled U.S.-India trade deal, highlighting ongoing diplomatic efforts.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Marco Rubio",
+   "S. Jaishankar",
+   "U.S.-India trade",
+   "bilateral talks",
+   "trade negotiations"
+  ],
+  "slug": "rubio-meets-indian-foreign-minister-jaishankar-amid-trade-deal-ca58b3",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T06:31:34Z"
+ },
+ {
+  "id": "99736ccf77a8f4c8",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o",
+  "source": "BBC News",
+  "source_title": "Job vacancies fall as small firms cut back on recruitment",
+  "source_summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c778/live/bb751480-cc48-11f1-9a30-cb277859b43a.jpg",
+  "published": "2026-10-20T06:19:52+00:00",
+  "headline": "Job Vacancies Drop as Small Firms Scale Back Hiring Over Labour Costs",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Office for National Statistics reports a decline in job vacancies, driven primarily by small businesses reducing recruitment efforts. These firms say rising labour costs are forcing them to limit new hires."
+   },
+   {
+    "type": "p",
+    "text": "The trend reflects a broader slowdown in hiring activity among the sector that employs a significant share of the workforce. While larger companies continue to post openings, the pullback by smaller enterprises is enough to lower overall vacancy numbers."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the reduction in recruitment could signal tighter labour markets for workers seeking entry‑level or part‑time positions, especially in regions where small firms dominate the economy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A slowdown in hiring by small firms may limit job opportunities for entry‑level workers in the US, UK, Canada, Germany and Switzerland, affecting labour market dynamics."
+   }
+  ],
+  "key_points": [
+   "Small firms are cutting back on hiring due to higher labour costs, according to the ONS.",
+   "Overall job vacancy numbers have fallen as a result of reduced recruitment by these businesses."
+  ],
+  "meta_description": "Job vacancies fall as small firms curb hiring over rising labour costs, says the Office for National Statistics.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "job vacancies",
+   "small businesses",
+   "labour costs",
+   "recruitment",
+   "employment trends"
+  ],
+  "slug": "job-vacancies-drop-small-firms-scale-back-hiring-over-99736c",
+  "reading_minutes": 1,
+  "added": "2026-10-20T06:32:05Z"
+ },
+ {
+  "id": "a21d4faa009e53a7",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo",
+  "source": "BBC Sport",
+  "source_title": "England unchanged to face France after Tonga defeat",
+  "source_summary": "Brian McDermott keeps faith with the England team beaten by Tonga as they bid to revive their Rugby League World Cup campaign against France in Perth this Saturday.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a440/live/6f009710-cc47-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-20T06:18:34+00:00",
+  "headline": "England Retain Squad After Tonga Loss Ahead of France Clash",
+  "body": [
+   {
+    "type": "p",
+    "text": "England head coach Brian McDermott has announced an unchanged lineup for the upcoming Rugby League World Cup match against France, despite the side's recent 28-24 defeat to Tonga. The decision underscores McDermott's confidence in the players who were on the field in the upset loss."
+   },
+   {
+    "type": "p",
+    "text": "The England team will travel to Perth on Saturday to face France, a fixture that offers a chance to revive their campaign and secure a vital win. Both sides are looking to build momentum as the tournament progresses, with England hoping to bounce back and France aiming to capitalize on the opportunity."
+   },
+   {
+    "type": "p",
+    "text": "McDermott's selection strategy signals continuity and a belief that the existing group can correct the shortcomings exposed by Tonga. The unchanged squad will seek to demonstrate resilience and improve their standing in the competition."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The World Cup match could reshape the tournament's knockout picture, affecting the chances of traditional powerhouses like England and France."
+   }
+  ],
+  "key_points": [
+   "England's coach keeps the same players after a loss to Tonga.",
+   "The team aims to rebound with a match against France in Perth on Saturday.",
+   "Continuity in selection reflects confidence in the squad's ability to improve."
+  ],
+  "meta_description": "England coach Brian McDermott sticks with the same squad after a Tonga defeat, seeking a win over France in Perth on Saturday.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby league",
+   "England",
+   "France",
+   "Tonga",
+   "World Cup",
+   "Perth"
+  ],
+  "slug": "england-retain-squad-after-tonga-loss-ahead-france-clash-a21d4f",
+  "reading_minutes": 1,
+  "added": "2026-10-20T06:31:38Z"
+ },
+ {
+  "id": "cea490dffe5d06ce",
+  "source_url": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Canada: Alberta rejects separation bid, CBC projects",
+  "source_summary": "Voters have decisively rejected a proposal to begin the legal process toward Alberta's independence, dealing a major blow to a movement driven largely by economic grievances.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79697001_6.jpg",
+  "published": "2026-10-20T06:13:00+00:00",
+  "headline": "Alberta Voters Reject Independence Initiative in Decisive Vote",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent referendum, voters in Alberta turned down a proposal to launch the legal steps toward the province’s separation from Canada. The outcome was described as a decisive rejection, signaling a clear lack of public support for the independence drive."
+   },
+   {
+    "type": "p",
+    "text": "The movement, which has been fueled largely by economic grievances, now faces a major setback after the vote. Analysts noted that the result curtails the momentum of separatist advocates who had been pushing for a formal breakaway process."
+   },
+   {
+    "type": "p",
+    "text": "Election officials confirmed that the majority of ballots were cast against the initiative, effectively ending the immediate push for a legal independence pathway. The decision is expected to influence the province’s political landscape and its relationship with the federal government moving forward."
+   }
+  ],
+  "key_points": [
+   "Alberta voters overwhelmingly rejected a proposal to begin legal steps toward independence.",
+   "The defeat deals a significant blow to a separatist movement driven by economic concerns.",
+   "Election officials confirmed the majority voted against the independence initiative."
+  ],
+  "meta_description": "Alberta voters decisively reject a bid to start legal steps toward independence, halting a movement rooted in economic grievances.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alberta",
+   "independence",
+   "Canada",
+   "referendum",
+   "politics"
+  ],
+  "slug": "alberta-voters-reject-independence-initiative-decisive-vote-cea490",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T06:31:50Z"
+ },
+ {
+  "id": "ba105382ed87b53b",
+  "source_url": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+  "source": "NPR",
+  "source_title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+  "source_summary": "Voters in Canada's oil-rich province of Alberta have rejected a proposal to begin a process toward independence, results showed early Tuesday, delivering a victory for supporters of Canadian unity.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6329x4219+0+0/resize/6329x4219!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2Fd3%2F07604eb44312b402a29642da0a3a%2Fap26292784967982.jpg",
+  "published": "2026-10-20T06:02:40+00:00",
+  "headline": "Alberta Voters Reject Independence Push, Uphold Canadian Unity",
+  "body": [
+   {
+    "type": "p",
+    "text": "Early Tuesday, voters in Alberta, Canada’s oil‑rich western province, turned down a referendum proposal to start a process toward provincial independence. The result was announced as a clear win for those advocating for continued Canadian unity."
+   },
+   {
+    "type": "p",
+    "text": "The defeat of the independence measure means Alberta will remain fully integrated within Canada’s federal system, preserving existing political and economic ties. Supporters of unity hailed the outcome as a reaffirmation of the province’s place in the country."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The vote signals political stability in Canada’s largest oil‑producing region, which can affect North American energy markets and bilateral trade relations."
+   }
+  ],
+  "key_points": [
+   "Alberta voters rejected a referendum to begin an independence process.",
+   "The outcome is seen as a victory for Canadian unity supporters.",
+   "The province will stay within Canada’s federal framework."
+  ],
+  "meta_description": "Alberta voters reject a referendum for independence, keeping the province within Canada and supporting national unity.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alberta",
+   "referendum",
+   "Canadian unity",
+   "independence",
+   "politics",
+   "energy"
+  ],
+  "slug": "alberta-voters-reject-independence-push-uphold-canadian-unity-ba1053",
+  "reading_minutes": 1,
+  "added": "2026-10-20T06:32:10Z"
+ },
+ {
+  "id": "dcafd8c13f08ad83",
+  "source_url": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o",
+  "source": "BBC Sport",
+  "source_title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
+  "source_summary": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eee/live/9ed65800-c975-11f1-80fc-ab418b149008.jpg",
+  "published": "2026-10-20T05:45:34+00:00",
+  "headline": "British Runner Jake Smith Reveals Hidden REDs Condition Amid Cycle of Illness",
+  "body": [
+   {
+    "type": "p",
+    "text": "British long-distance runner Jake Smith described a relentless cycle of racing, falling ill, sustaining injuries and then returning to competition, unaware of the underlying cause."
+   },
+   {
+    "type": "p",
+    "text": "Smith later discovered he was suffering from Relative Energy Deficiency in Sport (REDs), a condition linked to chronic under-fuelling and inadequate nutrition for athletic demands."
+   },
+   {
+    "type": "p",
+    "text": "The revelation highlights how athletes can unknowingly push their bodies beyond safe limits, leading to repeated health setbacks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding REDs is crucial for athletes and coaches in the US and Europe to prevent health crises and improve performance through proper fueling."
+   }
+  ],
+  "key_points": [
+   "Jake Smith experienced repeated illness and injury while competing.",
+   "He was later diagnosed with REDs, a condition caused by chronic under-fuelling.",
+   "The case underscores the risk of hidden nutritional deficiencies in endurance athletes."
+  ],
+  "meta_description": "British runner Jake Smith uncovers hidden REDs condition after a cycle of race, illness and injury, highlighting risks of under-fuelling.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "long-distance running",
+   "REDs",
+   "athlete health",
+   "nutrition",
+   "injury prevention"
+  ],
+  "slug": "british-runner-jake-smith-reveals-hidden-reds-condition-amid-dcafd8",
+  "reading_minutes": 1,
+  "added": "2026-10-20T06:31:53Z"
+ },
+ {
+  "id": "070be3c4eeeda51d",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/20/trump-kansas-rally-us-midterm-election-possibility-state-democratic-win",
+  "source": "The Guardian",
+  "source_title": "In ruby-red Kansas, Trump contemplates the possibility of a Democratic win in the state",
+  "source_summary": "The president came out in support of Senator Roger Marshall, who is facing and unexpectedly strong challenge from Democrat Adam Hamilton The fact that Donald Trump was here at all said more about a looming electoral disaster facing his Republican party next month than anything contained in his dark and discursive 98-minute stump speech. On Monday, amid raucous chants of “USA! USA!”, the president held his first campaign rally in Kansas for eight years. No Democrat has won a US Senate seat in this ruby-red state since 1932, the year Herbert Hoover was president, Amelia Earhart was the first woman to fly solo across the Atlantic and the Nazis became the biggest party in the German Reichstag.",
+  "source_tags": [
+   "Donald Trump",
+   "US midterm elections 2026",
+   "US news",
+   "Kansas",
+   "US Senate",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/24a01c091fcca1221e2a658f597563c975ca3b06/311_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=f8696de0397be90c71e8333b52da91ca",
+  "published": "2026-10-20T04:13:28+00:00",
+  "headline": "Trump rallies in Kansas, backs Marshall amid strong Dem challenge",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump held his first campaign rally in Kansas in eight years, delivering a 98‑minute speech to a crowd chanting \"USA! USA!\". He voiced support for Republican Senator Roger Marshall, who is confronting an unexpectedly vigorous contest from Democrat Adam Hamilton."
+   },
+   {
+    "type": "p",
+    "text": "The rally underscored concerns within the GOP about a potential electoral setback in the upcoming Senate race. Kansas has not elected a Democratic senator since 1932, a historic streak that the party hopes to break."
+   },
+   {
+    "type": "p",
+    "text": "Trump's appearance highlighted the high stakes for the Republican Party as it prepares for the November elections, with the Kansas race seen as a bellwether for broader national trends."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Kansas Senate race could signal shifting political dynamics ahead of the U.S. midterm elections, affecting both domestic policy and international perceptions of American politics."
+   }
+  ],
+  "key_points": [
+   "Trump campaigned in Kansas, endorsing Senator Roger Marshall against Democrat Adam Hamilton.",
+   "Marshall faces a surprisingly strong Democratic challenge in a state that hasn't elected a Democratic senator since 1932.",
+   "The rally marks Trump's first Kansas appearance in eight years and signals GOP anxiety ahead of the November elections."
+  ],
+  "meta_description": "Trump rallies in Kansas, backs Senator Roger Marshall as Democrat Adam Hamilton mounts a strong challenge in a historically red state.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Kansas Senate race",
+   "Roger Marshall",
+   "Adam Hamilton",
+   "U.S. elections"
+  ],
+  "slug": "trump-rallies-kansas-backs-marshall-amid-strong-dem-challenge-070be3",
+  "reading_minutes": 1,
+  "added": "2026-10-20T06:32:02Z"
+ },
+ {
+  "id": "d71bd3427ddc73a9",
+  "source_url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+  "source": "The Verge",
+  "source_title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+  "source_summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across […]",
+  "source_tags": [
+   "Cameras",
+   "Gadgets",
+   "News",
+   "Smart Home",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-20T04:00:00+00:00",
+  "headline": "Baseus Launches U2 Pro Outdoor Camera with AI‑Tracked Spotlight",
+  "body": [
+   {
+    "type": "p",
+    "text": "Baseus unveiled its latest AI‑assisted security device, the Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera. Unlike traditional cameras that only record and send alerts, the new model adds a motorized spotlight that follows moving subjects, shining directly on them even as they run across the field of view."
+   },
+   {
+    "type": "p",
+    "text": "The camera captures footage in 3K resolution using dual lenses and leverages artificial intelligence to identify motion and control the spotlight in real time. Designed for outdoor installation, the system aims to deter unwanted visitors by actively illuminating them rather than merely notifying the homeowner."
+   },
+   {
+    "type": "p",
+    "text": "Baseus positioned the PrimeSentinel U2 Pro as a proactive security solution for residential and small‑business users seeking smarter, more interactive surveillance equipment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The feature could appeal to consumers in the US and Europe looking for more active home‑security technology that can discourage intruders before a break‑in occurs."
+   }
+  ],
+  "key_points": [
+   "Baseus' new outdoor camera includes a motorized spotlight that tracks moving targets.",
+   "The device records in 3K resolution with dual lenses and uses AI to control the spotlight.",
+   "It is marketed as a proactive deterrent rather than a passive recording system."
+  ],
+  "meta_description": "Baseus introduces the U2 Pro Outdoor camera, a 3K AI‑driven system with a motorized spotlight that tracks and illuminates moving targets.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Baseus",
+   "security camera",
+   "AI",
+   "outdoor surveillance",
+   "smart home"
+  ],
+  "slug": "baseus-launches-u2-pro-outdoor-camera-with-aitracked-spotlight-d71bd3",
+  "reading_minutes": 1,
+  "added": "2026-10-20T06:31:42Z"
+ },
+ {
+  "id": "ca140ef0a8991707",
+  "source_url": "https://www.nytimes.com/2026/10/19/us/politics/trump-midterm-rally-red-states.html",
+  "source": "The New York Times",
+  "source_title": "Trump Rallies Red States Amid Fears About G.O.P. Voter Enthusiasm as Midterms Near",
+  "source_summary": "The president’s swing is taking him to states including South Carolina and Kansas that were not seen as competitive just a few months ago.",
+  "source_tags": [
+   "Elections",
+   "Midterm Elections (2026)",
+   "Trump, Donald J",
+   "Vance, J D"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19pol-trump-travel-01-hmfq/19pol-trump-travel-01-hmfq-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T02:37:48+00:00",
+  "headline": "Trump Targets South Carolina and Kansas as Midterm Enthusiasm Wanes",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump has begun a series of campaign stops in traditionally Republican strongholds such as South Carolina and Kansas, states that were not considered competitive in recent months. The rallies are part of a broader effort to energize the GOP base ahead of the upcoming midterm elections."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts have expressed concern that voter enthusiasm within the Republican Party may be slipping as the midterms approach. Trump’s presence in these red states is seen as an attempt to shore up support and counteract the perceived dip in enthusiasm."
+   },
+   {
+    "type": "p",
+    "text": "The president’s swing through these states underscores a strategic shift, focusing on areas that have historically delivered solid GOP votes but are now being closely watched for signs of voter fatigue. The campaign’s emphasis on rallying core supporters reflects the broader uncertainty surrounding the party’s prospects in the November contests."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Midterm outcomes will shape congressional control in the U.S., influencing policy directions that affect both American and European interests."
+   }
+  ],
+  "key_points": [
+   "Trump is holding rallies in South Carolina and Kansas, states previously viewed as safe for Republicans.",
+   "GOP officials worry about declining voter enthusiasm as the midterms near.",
+   "The president’s campaign aims to boost turnout in traditionally red states."
+  ],
+  "meta_description": "Trump rallies in South Carolina and Kansas as GOP worries about voter enthusiasm ahead of the midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "midterm elections",
+   "GOP",
+   "South Carolina",
+   "Kansas",
+   "voter enthusiasm"
+  ],
+  "slug": "trump-targets-south-carolina-kansas-midterm-enthusiasm-wanes-ca140e",
+  "reading_minutes": 1,
+  "added": "2026-10-20T06:32:18Z"
+ },
+ {
+  "id": "d07b2e38d5bb916c",
+  "source_url": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+  "source": "The New York Times",
+  "source_title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+  "source_summary": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Ethics and Official Misconduct",
+   "Politics and Government",
+   "International Relations",
+   "Royal Families",
+   "Computers and the Internet",
+   "OpenAI Labs",
+   "Alfozan, Abdulrahman",
+   "San Francisco (Calif)"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T02:27:46+00:00",
+  "headline": "Saudi Officials Help Engineer Accused of Bugging OpenAI, Court Says",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. court filings reveal that Saudi officials paid for the wife and son of a software engineer accused of installing surveillance devices on OpenAI systems to leave the United States. The same filings state that Saudi representatives also offered to cover the engineer's bail."
+   },
+   {
+    "type": "p",
+    "text": "Despite the financial assistance, a federal judge ordered the engineer to remain in custody while the case proceeds. The allegations center on the engineer's purported role in covertly accessing OpenAI's technology, prompting a high‑profile legal battle."
+   },
+   {
+    "type": "p",
+    "text": "The prosecutor’s office highlighted the foreign involvement as a factor in the decision to keep the defendant detained, underscoring concerns about external influence in sensitive technology sectors."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights potential foreign interference in critical AI research, a concern for U.S. and European policymakers overseeing technology security."
+   }
+  ],
+  "key_points": [
+   "Saudi officials funded travel for the engineer's family and offered bail in a case alleging he bugged OpenAI.",
+   "A judge denied the bail offer and kept the engineer in custody.",
+   "The case raises questions about foreign involvement in U.S. tech security investigations."
+  ],
+  "meta_description": "Saudi officials funded family travel and offered bail for an engineer accused of bugging OpenAI, but a judge kept him detained.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "OpenAI",
+   "espionage",
+   "legal case",
+   "US courts",
+   "foreign influence"
+  ],
+  "slug": "saudi-officials-help-engineer-accused-bugging-openai-court-says-d07b2e",
+  "reading_minutes": 1,
+  "added": "2026-10-20T06:31:58Z"
+ },
+ {
+  "id": "f2ae11b0f5555fc1",
+  "source_url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+  "source": "TechCrunch",
+  "source_title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+  "source_summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+  "source_tags": [
+   "Commerce",
+   "Amazon",
+   "Flipkart",
+   "food delivery",
+   "Walmart",
+   "zomato",
+   "Swiggy"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-649365936.jpg?resize=1200,800",
+  "published": "2026-10-20T02:00:00+00:00",
+  "headline": "Flipkart, Walmart’s Indian Arm, Pre‑launches Food Delivery Service to Employees",
+  "body": [
+   {
+    "type": "p",
+    "text": "Walmart-owned Flipkart has quietly rolled out its upcoming food‑delivery platform to thousands of its own staff in India. The internal trial gives employees early access to the service ahead of a broader public launch that the company has not yet dated."
+   },
+   {
+    "type": "p",
+    "text": "The move signals Flipkart’s intention to enter a market dominated by players such as Zomato and Swiggy. By testing the offering internally, the retailer can fine‑tune logistics, pricing and user experience before competing for customers across the country."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that Walmart’s backing provides Flipkart with significant financial and supply‑chain resources, potentially reshaping the competitive landscape of Indian food delivery."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "India’s food‑delivery market is one of the world’s fastest‑growing, and a new entrant backed by Walmart could affect global e‑commerce and logistics dynamics."
+   }
+  ],
+  "key_points": [
+   "Flipkart is testing its food‑delivery service with thousands of employees before a public rollout.",
+   "The initiative aims to position the Walmart‑owned platform against established Indian rivals.",
+   "Internal testing will help refine operations and pricing ahead of market entry."
+  ],
+  "meta_description": "Walmart-owned Flipkart is piloting a food‑delivery service with employees in India ahead of a public launch, aiming to challenge established rivals.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Flipkart",
+   "Walmart",
+   "Food Delivery",
+   "India",
+   "E‑commerce",
+   "Startup"
+  ],
+  "slug": "flipkart-walmarts-indian-arm-prelaunches-food-delivery-service-employees-f2ae11",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T06:32:14Z"
+ },
+ {
   "id": "4d60c863ac175682",
   "source_url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
   "source": "The New York Times",
