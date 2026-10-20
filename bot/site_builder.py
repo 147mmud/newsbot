@@ -58,7 +58,7 @@ def _env() -> Environment:
                        categories=config.CATEGORIES, year=datetime.now().year,
                        ver=datetime.now(timezone.utc).strftime('%Y%m%d%H%M'))
     env.filters["date"] = fmt_date
-    env.filters["bigimg"] = lambda u: re.sub(r"(ichef\.bbci\.co\.uk/(?:ace|news)/(?:standard|ws)/)\d+/", r"\g<1>800/", u or "")
+    env.filters["bigimg"] = bigimg
     env.filters["tojson_safe"] = lambda o: json.dumps(o, ensure_ascii=False).replace("</", "<\\/")
     return env
 
@@ -66,6 +66,26 @@ def _env() -> Environment:
 def _write(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8")
+
+
+_BBC_SIZE = re.compile(r"(ichef\.bbci\.co\.uk/(?:ace|news)/(?:standard|ws)/)\d+/")
+
+
+def bigimg(url: str | None) -> str:
+    """BBC feeds ship 240px thumbnails; their CDN serves the same picture at
+    800px (800x450) when the size segment is changed."""
+    return _BBC_SIZE.sub(r"\g<1>800/", url or "")
+
+
+def share_image(url: str | None) -> dict | None:
+    """og:image for Facebook/X previews: large version + known dimensions."""
+    if not url or fetcher.is_bad_image(url):
+        return None
+    big = bigimg(url)
+    img = {"url": big}
+    if big != url:                       # BBC upgraded to a known 16:9 size
+        img.update(width=800, height=450)
+    return img
 
 
 def _paginate(items, per_page):
@@ -113,7 +133,7 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
         _write(OUT / path / "index.html", tpl.render(
             page=a["category"], a=a, related=related, trending=trending,
             canonical=abs_url(path), title=f"{a['headline']} | {config.SITE_NAME}",
-            description=a["meta_description"], og_image=a.get("image") if config.USE_FEED_IMAGES else None))
+            description=a["meta_description"], og_image=share_image(a.get("image")) if config.USE_FEED_IMAGES else None))
 
     # --- Static pages -------------------------------------------------------
     for name in ("about", "privacy", "contact"):
@@ -166,8 +186,11 @@ def _build_feeds(articles: list[dict]) -> None:
         f"<category>{escape(config.CATEGORIES[a['category']])}</category>"
         f"<description>{escape(a['meta_description'])}</description></item>"
         for a in articles[:50])
-    _write(OUT / "feed.xml", '<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel>'
+    _write(OUT / "feed.xml", '<?xml version="1.0" encoding="UTF-8"?>'
+           '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
            f"<title>{escape(config.SITE_NAME)}</title><link>{escape(abs_url())}</link>"
+           f'<atom:link href="{escape(abs_url("feed.xml"))}" rel="self" type="application/rss+xml"/>'
+           f"<lastBuildDate>{now.strftime('%a, %d %b %Y %H:%M:%S +0000')}</lastBuildDate>"
            f"<description>{escape(config.SITE_TAGLINE)}</description><language>en-us</language>"
            f"{items}</channel></rss>")
 
