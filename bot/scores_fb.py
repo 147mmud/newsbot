@@ -39,8 +39,24 @@ ENABLED = os.getenv("FB_SCORES_ENABLED", "").strip().lower() == "true"
 MAX_PER_RUN = int(os.getenv("FB_SCORES_MAX_PER_RUN", "2"))
 MAX_PER_DAY = int(os.getenv("FB_SCORES_MAX_PER_DAY", "6"))
 UK, ET = ZoneInfo("Europe/London"), ZoneInfo("America/New_York")
-ESPN = "https://site.api.espn.com/apis/site/v2/sports/{path}/scoreboard?dates={day}"
-UA = {"User-Agent": "Mozilla/5.0 (compatible; PressAndScoreBot/1.0; +https://thepressandscore.com)"}
+ESPN_HOSTS = ["https://site.api.espn.com", "https://site.web.api.espn.com"]
+ESPN = "{host}/apis/site/v2/sports/{path}/scoreboard?dates={day}"
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                    "Chrome/128.0 Safari/537.36",
+      "Accept": "application/json, text/plain, */*", "Origin": "https://thepressandscore.com",
+      "Referer": "https://thepressandscore.com/"}
+
+
+def get_json(path: str, day: datetime) -> dict:
+    last = None
+    for host in ESPN_HOSTS:
+        try:
+            r = requests.get(ESPN.format(host=host, path=path, day=day.strftime("%Y%m%d")), headers=UA, timeout=15)
+            r.raise_for_status()
+            return r.json()
+        except Exception as exc:
+            last = exc
+    raise last
 
 # --------------------------------------------------------------------------- competitions
 # (key, ESPN path, label, sport, priority, emoji, hashtag)
@@ -70,9 +86,7 @@ def fetch_day(day: datetime) -> list[dict]:
     out = []
     for key, path, label, sport, prio, emo, tag in LEAGUES:
         try:
-            r = requests.get(ESPN.format(path=path, day=day.strftime("%Y%m%d")), headers=UA, timeout=15)
-            r.raise_for_status()
-            data = r.json()
+            data = get_json(path, day)
         except Exception as exc:
             log.warning("ESPN %s failed: %s", key, exc)
             continue
