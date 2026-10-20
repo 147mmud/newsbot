@@ -13,16 +13,22 @@
     {% if articles|length > 1 %}{{ c.card(articles[1], 'lg') }}{% endif %}
   </div>
   <div class="hero-side">
-    {% for a in articles[2:7] %}{{ c.card(a, 'sm') }}{% endfor %}
+    {% for a in articles[2:11] %}{{ c.card(a, 'sm') }}{% endfor %}
   </div>
 </section>
+<script>
+(function(){var s=document.querySelector('.hero-side');if(!s)return;
+function fit(){var k=[].slice.call(s.children);k.forEach(function(e){e.style.display=''});
+if(innerWidth<760)return;var h=s.clientHeight;k.forEach(function(e){if(e.offsetTop+e.offsetHeight>h+1)e.style.display='none'})}
+addEventListener('load',fit);addEventListener('resize',fit);fit()})();
+</script>
 
 {{ ads.native() }}
 
 <section class="block">
   <h2 class="block-title">Latest News</h2>
   <div class="list">
-    {% for a in articles[7:19] %}
+    {% for a in articles[11:23] %}
       {{ c.card(a, 'row') }}
       {% if loop.index == 6 %}{{ ads.banner('infeed', 'rect_300', 300, 250) }}{% endif %}
     {% endfor %}
