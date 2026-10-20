@@ -1,0 +1,54 @@
+# Facebook score posts (match-day list, kick-off alerts, results, Sunday round-up).
+# Runs hourly, separately from the news workflow. PREVIEW ONLY (nothing posted)
+# until the repo Variable FB_SCORES_ENABLED is "true".
+name: Scores to Facebook
+
+on:
+  schedule:
+    - cron: "17 * * * *"      # every hour at :17 (GitHub may start it a little late)
+  workflow_dispatch:
+
+permissions:
+  contents: write              # commit data/fb_posted.json (shared posting record)
+
+concurrency:
+  group: fbscores
+  cancel-in-progress: false
+
+jobs:
+  scores:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: |
+          sudo apt-get install -y -qq fonts-dejavu-core >/dev/null || true
+          pip install -q -r requirements.txt pillow
+
+      - name: Score posts
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          FB_SCORES_ENABLED: ${{ vars.FB_SCORES_ENABLED }}
+          FB_SCORES_MAX_PER_RUN: ${{ vars.FB_SCORES_MAX_PER_RUN || '2' }}
+          FB_SCORES_MAX_PER_DAY: ${{ vars.FB_SCORES_MAX_PER_DAY || '6' }}
+          FB_PAGE_ID: ${{ vars.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+        run: |
+          git config user.name  "newsbot"
+          git config user.email "newsbot@users.noreply.github.com"
+          python -m bot.scores_fb
+
+      - name: Keep preview cards
+        if: ${{ always() && hashFiles('previews/*') != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: score-previews
+          path: previews/
+          retention-days: 7
