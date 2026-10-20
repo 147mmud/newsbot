@@ -1,5 +1,689 @@
 [
  {
+  "id": "4d60c863ac175682",
+  "source_url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+  "source": "The New York Times",
+  "source_title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+  "source_summary": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "Russian Invasion of Ukraine (2022)",
+   "Trump, Donald J",
+   "Putin, Vladimir V",
+   "Zelensky, Volodymyr",
+   "Russia",
+   "Ukraine"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/1dc-prexy-gfmw/1dc-prexy-gfmw-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T01:00:18+00:00",
+  "headline": "Trump’s Russia Overtures Heighten Frustration Over Ukraine Policy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Recent actions by President Donald Trump have signaled a clear shift toward engaging with Russian President Vladimir Putin. The moves, which include diplomatic overtures and policy proposals, suggest an effort to normalize relations with Moscow despite ongoing tensions."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the president’s approach appears to prioritize a potential deal with Russia over continued support for Ukraine. By signaling openness to negotiations with Putin, Trump is perceived as willing to undercut the assistance that Western allies have provided to Kyiv since the conflict began."
+   },
+   {
+    "type": "p",
+    "text": "The strategy has sparked criticism from both domestic and international observers, who argue that it could weaken the unified front against Russian aggression and destabilize the existing security framework in Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The United States and its European partners rely on a coordinated stance to deter Russian expansion; any U.S. policy shift could reshape the strategic balance in Europe."
+   }
+  ],
+  "key_points": [
+   "Trump’s recent steps favor Russia, indicating a desire to normalize ties with Moscow.",
+   "The president’s approach risks further diminishing support for Ukraine.",
+   "Critics warn the shift could undermine Western unity against Russian aggression."
+  ],
+  "meta_description": "President Trump’s moves toward Russia signal a push to normalize ties, raising concerns about reduced support for Ukraine.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Russia",
+   "Ukraine",
+   "US foreign policy",
+   "Putin"
+  ],
+  "slug": "trumps-russia-overtures-heighten-frustration-over-ukraine-policy-4d60c8",
+  "reading_minutes": 1,
+  "added": "2026-10-20T01:13:13Z"
+ },
+ {
+  "id": "fd14f35c12ce044a",
+  "source_url": "https://www.nytimes.com/2026/10/19/world/americas/gilbert-bigio-dead.html",
+  "source": "The New York Times",
+  "source_title": "Gilbert Bigio, Haitian Tycoon Linked to Gangs, Dies at 91",
+  "source_summary": "Reportedly the wealthiest man in the poorest country in the Western Hemisphere, Gilbert Bigio was sanctioned for ties to criminal gangs. He was 91.",
+  "source_tags": [
+   "Bigio, Gilbert (1935-2026)",
+   "Deaths (Obituaries)",
+   "High Net Worth Individuals",
+   "Gangs",
+   "Embargoes and Sanctions",
+   "Ports",
+   "Steel and Iron",
+   "Pandora Papers",
+   "Haiti",
+   "Canada"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-20T00:34:01+00:00",
+  "headline": "Haitian Billionaire Gilbert Bigio, Sanctioned Gang Ally, Dies at 91",
+  "body": [
+   {
+    "type": "p",
+    "text": "Gilbert Bigio, a 91‑year‑old Haitian businessman who was widely reported as the wealthiest individual in Haiti, died earlier this week. Bigio built a diversified empire that spanned real estate, banking and import‑export operations, making him a prominent figure in the country’s fragile economy."
+   },
+   {
+    "type": "p",
+    "text": "The United States and other governments placed sanctions on Bigio because of alleged connections to armed criminal groups that have long plagued Haiti’s streets. Officials said the measures were intended to curb the flow of money that could fund gang activities and destabilize the nation."
+   },
+   {
+    "type": "p",
+    "text": "Bigio’s death marks the end of a controversial chapter in Haiti’s modern history, where his business influence intersected with the country’s ongoing security challenges. Observers note that his passing may prompt a reassessment of how foreign‑linked wealth interacts with local power structures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores how illicit financing can affect stability in a nation already facing humanitarian crises, a concern for U.S. and European policymakers engaged in Caribbean aid and security efforts."
+   }
+  ],
+  "key_points": [
+   "Gilbert Bigio, Haiti’s reported richest man, died at age 91.",
+   "He had been sanctioned by the U.S. for alleged ties to criminal gangs.",
+   "His death highlights the complex link between wealth and insecurity in Haiti."
+  ],
+  "meta_description": "Haitian billionaire Gilbert Bigio, sanctioned for gang ties, dies at 91, highlighting wealth and security issues in Haiti.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Haiti",
+   "Gilbert Bigio",
+   "sanctions",
+   "gangs",
+   "wealth",
+   "death"
+  ],
+  "slug": "haitian-billionaire-gilbert-bigio-sanctioned-gang-ally-dies-91-fd14f3",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T01:13:18Z"
+ },
+ {
+  "id": "9bd7aaeda7494e43",
+  "source_url": "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "At least four dead after flooding in eastern Spain",
+  "source_summary": "At least four people have died in Spain as torrential rain has battered the country's eastern Mediterranean coast. The severe flooding had left more than 450 people stranded on rooftops, in buildings or in cars.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79707645_6.jpg",
+  "published": "2026-10-20T00:32:00+00:00",
+  "headline": "Four Dead and Hundreds Stranded as Floods Hit Eastern Spain",
+  "body": [
+   {
+    "type": "p",
+    "text": "Torrential rain swept the eastern Mediterranean coast of Spain, triggering severe flooding that left at least four people dead. The deluge overwhelmed local drainage systems and caused water levels to rise rapidly in several coastal towns."
+   },
+   {
+    "type": "p",
+    "text": "Rescue teams reported more than 450 individuals forced to seek refuge on rooftops, inside buildings, or even inside their cars as floodwaters inundated streets and homes. Emergency services worked through the night to evacuate those trapped and to provide basic assistance."
+   },
+   {
+    "type": "p",
+    "text": "Authorities continue to assess the full extent of the damage, while communities grapple with the immediate aftermath of the storm. The incident underscores the vulnerability of the region to extreme weather events."
+   }
+  ],
+  "key_points": [
+   "At least four fatalities were confirmed after torrential rain caused severe flooding on Spain's eastern Mediterranean coast.",
+   "Over 450 people were stranded on rooftops, in buildings or cars as floodwaters surged.",
+   "Rescue operations are ongoing to evacuate and assist those affected."
+  ],
+  "meta_description": "Four dead and over 450 stranded as torrential rain floods Spain's eastern Mediterranean coast, prompting rescue efforts.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "flood",
+   "Spain",
+   "deaths",
+   "Mediterranean",
+   "weather"
+  ],
+  "slug": "four-dead-hundreds-stranded-floods-hit-eastern-spain-9bd7aa",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T01:13:22Z"
+ },
+ {
+  "id": "8bd2a96c80051c43",
+  "source_url": "https://www.nytimes.com/2026/10/19/us/politics/unc-trump-deal.html",
+  "source": "The New York Times",
+  "source_title": "U.N.C. Strikes Trump Deal to Keep Federal Funding",
+  "source_summary": "The University of North Carolina at Chapel Hill will not pay any financial penalties but agreed to abide by the Trump administration’s views on diversity and other matters.",
+  "source_tags": [
+   "Colleges and Universities",
+   "United States Politics and Government",
+   "Fines (Penalties)",
+   "Civil Rights and Liberties",
+   "Education Department (US)",
+   "University of North Carolina",
+   "Dhillon, Harmeet",
+   "Trump, Donald J",
+   "Academic Freedom",
+   "Suits and Litigation (Civil)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19nat-unc-wjvb/19nat-unc-wjvb-mediumSquareAt3X.jpg",
+  "published": "2026-10-19T23:59:20+00:00",
+  "headline": "UNC Chapel Hill Accepts Trump Diversity Policy, Avoids Penalties",
+  "body": [
+   {
+    "type": "p",
+    "text": "The University of North Carolina at Chapel Hill has reached an agreement with the Trump administration that eliminates any financial penalties for the institution. Under the deal, UNC will not be required to pay fines that were previously under discussion."
+   },
+   {
+    "type": "p",
+    "text": "In exchange, the university has pledged to follow the administration’s guidance on diversity and related issues. The agreement signals UNC’s willingness to align its policies with the current federal stance on campus inclusion."
+   },
+   {
+    "type": "p",
+    "text": "University officials said the settlement allows UNC to move forward without the burden of monetary sanctions while complying with the government's expectations. Critics, however, have expressed concern that the concession may affect the campus’s long‑standing commitment to diverse recruitment and programming."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The agreement illustrates how federal policy can directly shape university practices, a trend of interest to both American and European higher‑education observers."
+   }
+  ],
+  "key_points": [
+   "UNC Chapel Hill avoids financial penalties by signing a deal with the Trump administration.",
+   "The university agrees to implement the administration’s diversity guidelines.",
+   "The settlement draws both support for fiscal relief and criticism over potential impacts on campus inclusion."
+  ],
+  "meta_description": "UNC Chapel Hill avoids fines by agreeing to follow the Trump administration's diversity policies.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "University of North Carolina",
+   "Trump administration",
+   "higher education",
+   "diversity policy",
+   "federal funding"
+  ],
+  "slug": "unc-chapel-hill-accepts-trump-diversity-policy-avoids-penalties-8bd2a9",
+  "reading_minutes": 1,
+  "added": "2026-10-20T01:13:45Z"
+ },
+ {
+  "id": "b0fb4c0567199f7f",
+  "source_url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+  "source": "TechCrunch",
+  "source_title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+  "source_summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+  "source_tags": [
+   "AI",
+   "Anthropic",
+   "compute",
+   "data centers",
+   "nscale"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+  "published": "2026-10-19T23:39:38+00:00",
+  "headline": "Nscale and Anthropic in Talks for Second $45 Billion Compute Deal",
+  "body": [
+   {
+    "type": "p",
+    "text": "In August, cloud‑infrastructure provider Nscale and AI research firm Anthropic disclosed a $45 billion agreement to supply massive compute capacity for Anthropic’s models. The partnership marked one of the largest financial commitments in the artificial‑intelligence sector this year."
+   },
+   {
+    "type": "p",
+    "text": "Sources now say the two companies are negotiating a second deal of comparable size, aiming to lock in additional compute resources for Anthropic’s next generation of models. Details of the prospective agreement remain confidential, but the reported magnitude mirrors the earlier transaction."
+   },
+   {
+    "type": "p",
+    "text": "If finalized, the follow‑up deal would double the financial stakes between Nscale and Anthropic, underscoring the escalating demand for high‑performance AI infrastructure as firms race to scale their models."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Such large‑scale AI compute contracts highlight the growing investment in artificial‑intelligence capabilities that could shape technology markets in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Nscale and Anthropic announced a $45 billion compute deal in August.",
+   "The companies are reportedly negotiating a second deal of the same scale.",
+   "A repeat of this magnitude would further cement Nscale’s role in AI infrastructure."
+  ],
+  "meta_description": "Nscale and Anthropic are reportedly negotiating a second $45 billion compute deal, matching their August agreement.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "compute",
+   "Nscale",
+   "Anthropic",
+   "investment",
+   "technology"
+  ],
+  "slug": "nscale-anthropic-talks-second-45-billion-compute-deal-b0fb4c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T01:13:25Z"
+ },
+ {
+  "id": "4b8bd24eeff83de1",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cq398r1gxw02o",
+  "source": "BBC Sport",
+  "source_title": "England coach should be English, suggests Fleming",
+  "source_summary": "New Zealander Stephen Fleming, England’s new Test coach, suggests the national team should be led by someone from England.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5081/live/e3ae85b0-cc0e-11f1-a22e-1978bafc2e9d.jpg",
+  "published": "2026-10-19T23:29:19+00:00",
+  "headline": "England Test Team Should Have English Coach, Says Fleming",
+  "body": [
+   {
+    "type": "p",
+    "text": "New Zealand-born Stephen Fleming, appointed as England's new Test cricket coach, has publicly suggested that the role would be better filled by someone from England. Fleming made the comment shortly after taking up the position, emphasizing the symbolic importance of a home‑grown leader for the national side."
+   },
+   {
+    "type": "p",
+    "text": "Fleming, a former New Zealand captain and long‑time coach of the Chennai Super Kings, said the suggestion was not a criticism of his own appointment but a reflection on the cultural connection between a coach and the team they lead. He highlighted how an English coach could bring a deeper understanding of local conditions and traditions."
+   },
+   {
+    "type": "p",
+    "text": "The remarks have sparked discussion among cricket fans and officials about the criteria for coaching hires, with some noting that performance and experience should outweigh nationality, while others argue that a domestic coach could strengthen the team's identity and public support."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The debate touches on broader questions of national identity in sport and could influence future hiring practices for high‑profile teams in the UK and beyond."
+   }
+  ],
+  "key_points": [
+   "Stephen Fleming, England's new Test coach, says the role should be held by an English national.",
+   "He argues a domestic coach would better reflect the team's cultural identity.",
+   "The comments have ignited debate over the importance of nationality versus merit in coaching appointments."
+  ],
+  "meta_description": "England's new Test coach Stephen Fleming says the job should be held by an English national, sparking debate over coaching appointments.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England cricket",
+   "Stephen Fleming",
+   "coaching",
+   "Test cricket",
+   "sports leadership"
+  ],
+  "slug": "england-test-team-should-have-english-coach-says-fleming-4b8bd2",
+  "reading_minutes": 1,
+  "added": "2026-10-20T01:13:29Z"
+ },
+ {
+  "id": "6b455e34ac3716af",
+  "source_url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo",
+  "source": "BBC News",
+  "source_title": "Five ways El Niño is affecting the weather around the world",
+  "source_summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg",
+  "published": "2026-10-19T23:08:25+00:00",
+  "headline": "Strongest Recorded El Niño Intensifies, Triggering Global Weather Shifts",
+  "body": [
+   {
+    "type": "p",
+    "text": "The current El Niño has been identified as the strongest on record and is continuing to intensify, according to BBC Weather correspondent Sarah Keith‑Lucas. Meteorologists say the phenomenon is already influencing weather patterns across multiple continents."
+   },
+   {
+    "type": "p",
+    "text": "Early observations show a range of impacts, from unusually warm temperatures in some regions to altered precipitation levels elsewhere. The widespread nature of these changes underscores the global reach of the El Niño cycle."
+   },
+   {
+    "type": "p",
+    "text": "Experts caution that the ongoing intensification could sustain or amplify these anomalies throughout the coming months, affecting agriculture, water resources, and disaster preparedness worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The evolving El Niño could influence heatwaves, flood risks, and crop yields in the United States and Europe, affecting daily life and economic activity."
+   }
+  ],
+  "key_points": [
+   "The present El Niño is the strongest ever recorded and is still strengthening.",
+   "Weather patterns across the globe are already showing noticeable changes.",
+   "Continued intensification may prolong temperature and rainfall anomalies."
+  ],
+  "meta_description": "The strongest El Niño on record is intensifying, already altering weather worldwide and may impact temperature and rainfall patterns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "El Niño",
+   "climate",
+   "weather patterns",
+   "global warming",
+   "meteorology"
+  ],
+  "slug": "strongest-recorded-el-nino-intensifies-triggering-global-weather-shifts-6b455e",
+  "reading_minutes": 1,
+  "added": "2026-10-20T01:13:37Z"
+ },
+ {
+  "id": "e717e1eb5a82a868",
+  "source_url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo",
+  "source": "BBC News",
+  "source_title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+  "source_summary": "The BBC hears from people who think dating events are better value for money than dating apps.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca8/live/4a070320-cbc7-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-19T23:00:21+00:00",
+  "headline": "Singles Favor In‑Person Dating Events Over Apps for Better Value",
+  "body": [
+   {
+    "type": "p",
+    "text": "A growing number of single people are turning away from dating apps, saying they offer poor value compared with organised social events where participants can meet face‑to‑face. The BBC interviewed several individuals who described the swipe‑based model as frustrating and costly, preferring gatherings that provide a clearer sense of chemistry and a more enjoyable experience."
+   },
+   {
+    "type": "p",
+    "text": "Participants in these events highlighted the benefits of a structured setting, such as ice‑breaker activities and a shared purpose, which they feel reduce the time and money spent on endless scrolling. Many said the opportunity to interact in real life helps them gauge attraction more accurately than digital profiles."
+   },
+   {
+    "type": "p",
+    "text": "The shift reflects broader dissatisfaction with the algorithm‑driven dating market, prompting some to seek alternatives that feel more authentic and cost‑effective. Organisers of dating events report increased attendance, suggesting the trend may reshape how singles approach romance in the near future."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trend signals a potential shift in the dating industry, affecting app developers and event organisers across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Singles report dating apps are expensive and ineffective compared with in‑person events.",
+   "Face‑to‑face gatherings offer structured interaction that many find more enjoyable and efficient.",
+   "Attendance at organised dating events is rising as users seek authentic connections."
+  ],
+  "meta_description": "Singles say dating apps lack value, preferring in‑person events that offer better cost‑effectiveness and genuine connections.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "dating",
+   "singles",
+   "social events",
+   "apps",
+   "consumer behavior"
+  ],
+  "slug": "singles-favor-inperson-dating-events-over-apps-better-value-e717e1",
+  "reading_minutes": 1,
+  "added": "2026-10-20T01:13:33Z"
+ },
+ {
+  "id": "d45dacf783b2543c",
+  "source_url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+  "source": "TechCrunch",
+  "source_title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+  "source_summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]",
+  "source_tags": [
+   "AI",
+   "TC",
+   "Hugging Face"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+  "published": "2026-10-19T22:49:27+00:00",
+  "headline": "Hugging Face Policy Chief Says Embedded AI Evaluators Aren’t Simple",
+  "body": [
+   {
+    "type": "p",
+    "text": "During a TechCrunch discussion, Irene Solaiman, chief policy officer at Hugging Face, warned that embedding AI evaluators into products will not be a straightforward fix for the industry’s benchmarking challenges. She noted that AI labs have built their reputations on model benchmarking, a system intended to provide neutral, accurate comparisons of AI performance."
+   },
+   {
+    "type": "p",
+    "text": "Solaiman explained that the methods behind these evaluations are still evolving and involve considerable complexity. While benchmarking aims to show which model is superior, the underlying metrics, data sets, and testing protocols are not yet standardized, making it difficult to guarantee consistent results across different labs and use cases."
+   },
+   {
+    "type": "p",
+    "text": "The conversation highlighted that relying on current benchmarking practices without addressing their methodological gaps could lead to misleading claims about AI capabilities. Solaiman urged the community to invest in more robust, transparent evaluation frameworks before embedding them as definitive measures in commercial AI products."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Accurate AI benchmarking influences product claims and regulatory scrutiny in the US and Europe, affecting consumer trust and market competition."
+   }
+  ],
+  "key_points": [
+   "Hugging Face’s policy chief says embedded AI evaluators face significant methodological hurdles.",
+   "Current benchmarking methods are complex and still maturing, limiting their reliability.",
+   "The AI community needs more robust, transparent evaluation standards before widespread adoption."
+  ],
+  "meta_description": "Hugging Face policy chief warns that embedded AI evaluators are not a simple solution due to complex, still‑maturing benchmarking methods.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI evaluation",
+   "benchmarking",
+   "Hugging Face",
+   "policy",
+   "embedded AI"
+  ],
+  "slug": "hugging-face-policy-chief-says-embedded-ai-evaluators-arent-d45dac",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-20T01:13:42Z"
+ },
+ {
+  "id": "fc7807c9a61040db",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo",
+  "source": "BBC Sport",
+  "source_title": "Maddison's magic moment for Spurs - 18 months in the making",
+  "source_summary": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham were waiting for in their 3-1 victory against Coventry, writes Phil McNulty.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/611a/live/fdd65490-cc09-11f1-838e-3908c706e890.jpg",
+  "published": "2026-10-19T22:35:55+00:00",
+  "headline": "Maddison Sparks Tottenham’s 3-1 Win Over Coventry on First Start",
+  "body": [
+   {
+    "type": "p",
+    "text": "James Maddison returned to the Tottenham Hotspur starting lineup for the first time since May 2025 in the Premier League clash against Coventry City. The English midfielder made an immediate impact, delivering the decisive moment that tipped the match in Spurs' favour."
+   },
+   {
+    "type": "p",
+    "text": "Spurs secured a 3-1 victory, with Maddison’s contribution described as the “magic moment” that the team had been awaiting. His performance helped break a period of stagnation for the club, providing a lift to both players and supporters."
+   },
+   {
+    "type": "p",
+    "text": "The win against Coventry marked an important step forward for Tottenham as they aim to improve their standing in the league. Maddian’s resurgence could prove pivotal as the season progresses, offering a creative spark in midfield."
+   }
+  ],
+  "key_points": [
+   "James Maddison started for Tottenham for the first time since May 2025.",
+   "He provided the decisive moment in Spurs' 3-1 victory over Coventry City.",
+   "The win gives Tottenham momentum in their Premier League campaign."
+  ],
+  "meta_description": "James Maddison returned to Tottenham's lineup, delivering the key moment in a 3-1 win over Coventry City.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tottenham Hotspur",
+   "James Maddison",
+   "Premier League",
+   "Coventry City",
+   "football"
+  ],
+  "slug": "maddison-sparks-tottenhams-3-1-win-over-coventry-first-fc7807",
+  "reading_minutes": 1,
+  "added": "2026-10-20T01:13:57Z"
+ },
+ {
+  "id": "d11f9b56a00bec94",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+  "source": "The Guardian",
+  "source_title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+  "source_summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday. Temporary protected status was set to end on Monday for about 101,000 Ukrainians and 1,800 Sudanese. But the DHS said an announcement “will be made at the appropriate time”. Until then, the department said in a written statement, Ukrainians and Sudanese in the US covered by those temporary measures “retain protection”. The department did not indicate how long they could stay or when a final announcement would be made on their status.",
+  "source_tags": [
+   "US immigration",
+   "Ukraine",
+   "Sudan",
+   "World news",
+   "US news",
+   "Europe",
+   "Africa"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/9bd27b70fe701104ae96a61f3b5d9b87bdb4e4b4/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=0edede2a7860f4c4d9e5a9bf4f3467fb",
+  "published": "2026-10-19T22:34:43+00:00",
+  "headline": "US Grants Temporary Deportation Relief to 100,000 Ukrainians and Sudanese",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Department of Homeland Security announced that more than 100,000 migrants from Ukraine and Sudan will retain protection from deportation after their temporary protected status was scheduled to end on Monday. The agency said the individuals covered by the measures will continue to stay in the United States without immediate risk of removal, though it did not specify how long the protection will last."
+   },
+   {
+    "type": "p",
+    "text": "Temporary protected status for roughly 101,000 Ukrainians and 1,800 Sudanese was set to expire, prompting concerns about the legal standing of those residents. DHS indicated that a formal announcement regarding the future of the program will be made at a later date, leaving the exact timeline for a final decision unclear."
+   },
+   {
+    "type": "p",
+    "text": "The statement provides a short‑term reprieve for the affected communities, many of whom arrived in the United States fleeing conflict and humanitarian crises in their home countries. The department’s wording suggests that the protection is provisional pending a forthcoming policy decision."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The extension affects thousands of families in the US and highlights ongoing debates over immigration policy ahead of upcoming elections in both the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "DHS says Ukrainian and Sudanese migrants covered by temporary protected status will retain deportation protection for now.",
+   "The agency has not disclosed how long the reprieve will last or when a final decision will be announced."
+  ],
+  "meta_description": "US DHS says Ukrainian and Sudanese migrants retain deportation protection after temporary status expiry, pending a future announcement.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "immigration",
+   "temporary protected status",
+   "Ukraine",
+   "Sudan",
+   "DHS"
+  ],
+  "slug": "us-grants-temporary-deportation-relief-100-000-ukrainians-sudanese-d11f9b",
+  "reading_minutes": 1,
+  "added": "2026-10-20T01:13:49Z"
+ },
+ {
+  "id": "a0da66b5315021c3",
+  "source_url": "https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account",
+  "source": "The Verge",
+  "source_title": "Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’",
+  "source_summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in America\" sometime next year. Musk had thanked Trump Account booster Brad Gerstner for \"helping enable this,\" and Trump appeared […]",
+  "source_tags": [
+   "Elon Musk",
+   "News",
+   "Science",
+   "Space",
+   "SpaceX",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_L.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-19T22:30:42+00:00",
+  "headline": "Trump Announces Musk SpaceX Share Giveaway via Trump Accounts",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump said on Thursday that Elon Musk's plan to distribute SpaceX shares to children will be carried out through Trump Accounts, a platform associated with the former president."
+   },
+   {
+    "type": "p",
+    "text": "Musk earlier this week pledged to give one SpaceX share to every child in America sometime next year, thanking venture investor Brad Gerstner for helping make the distribution possible."
+   },
+   {
+    "type": "p",
+    "text": "The announcement links a high‑profile tech philanthropist’s initiative with a politically branded financial service, drawing attention to both the charitable promise and the role of Trump‑linked accounts in its execution."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The partnership ties a major tech founder's charitable pledge to a politically affiliated financial platform, highlighting the intersection of philanthropy, business, and politics."
+   }
+  ],
+  "key_points": [
+   "President Trump announced that Musk's SpaceX share giveaway will use Trump Accounts.",
+   "Elon Musk pledged to give one SpaceX share to each American child next year.",
+   "Musk credited Brad Gerstner for enabling the distribution."
+  ],
+  "meta_description": "President Trump says Elon Musk's SpaceX share giveaway for kids will be handled through Trump Accounts, with thanks to Brad Gerstner.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "SpaceX",
+   "Donald Trump",
+   "stock giveaway",
+   "Trump Accounts",
+   "Brad Gerstner"
+  ],
+  "slug": "trump-announces-musk-spacex-share-giveaway-via-trump-accounts-a0da66",
+  "reading_minutes": 1,
+  "added": "2026-10-20T01:13:53Z"
+ },
+ {
   "id": "1ff2b71fa9c054c7",
   "source_url": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
   "source": "The New York Times",
