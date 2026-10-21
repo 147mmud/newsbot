@@ -1,5 +1,698 @@
 [
  {
+  "id": "86bbef590f282368",
+  "source_url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+  "source": "The Verge",
+  "source_title": "Meta to create a new class of shares to fund AI push",
+  "source_summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, […]",
+  "source_tags": [
+   "AI",
+   "Meta",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-21T21:30:02+00:00",
+  "headline": "Meta Issues New Non‑Voting Shares to Finance AI, Acquisitions",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta Platforms announced that it will create a new class of non‑voting shares as part of its third‑quarter earnings release. The company said the additional equity will be used to fund its expanding artificial‑intelligence initiatives, including infrastructure upgrades and research projects."
+   },
+   {
+    "type": "p",
+    "text": "The proceeds from the new shares are also earmarked for potential acquisitions and to support employee compensation plans. Trading of the non‑voting stock is slated to begin in 2027, giving investors a way to back Meta’s AI strategy without affecting voting control."
+   },
+   {
+    "type": "p",
+    "text": "Meta described the move as necessary to match the scale of investment required to stay competitive in the fast‑moving AI sector. The company highlighted that the capital raise will help sustain growth and expand its technology ecosystem."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The funding plan could influence tech‑sector valuations and competition in AI, affecting investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Meta will issue non‑voting shares to raise capital for AI development and possible acquisitions.",
+   "The new shares will start trading in 2027 and are intended to fund employee compensation as well.",
+   "The initiative reflects Meta’s need for large‑scale investment to remain competitive in AI."
+  ],
+  "meta_description": "Meta will issue non‑voting shares to fund AI projects, acquisitions and employee pay, with trading set for 2027.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "AI",
+   "shares",
+   "stock",
+   "acquisitions",
+   "employee compensation"
+  ],
+  "slug": "meta-issues-new-nonvoting-shares-finance-ai-acquisitions-86bbef",
+  "reading_minutes": 1,
+  "added": "2026-10-21T21:57:17Z"
+ },
+ {
+  "id": "58fea97a0d5e6d19",
+  "source_url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+  "source": "The Guardian",
+  "source_title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+  "source_summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ US politics live – latest updates Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on Wednesday for fresh talks on ending the war in Ukraine, amid increasingly close relations between Moscow and Washington. Trump had previously asked Putin to free Stephen Hubbard, a 74-year-old former teacher who had spent more than four years in Russian jails on charges of fighting as a mercenary for Ukraine .",
+  "source_tags": [
+   "Russia",
+   "Ukraine",
+   "Vladimir Putin",
+   "US foreign policy",
+   "Trump administration",
+   "US news",
+   "Donald Trump",
+   "Europe",
+   "World news",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/3b6f9d48538efe71034a096db4868d7da488b502/460_0_4252_3402/master/4252.jpg?width=700&quality=85&auto=format&fit=max&s=dee286bf18b296c565836a82508333b6",
+  "published": "2026-10-21T21:23:37+00:00",
+  "headline": "Putin Frees American Prisoner During Meeting With Trump Envoy in St Petersburg",
+  "body": [
+   {
+    "type": "p",
+    "text": "Russian President Vladimir Putin ordered the release of Stephen Hubbard, a 74‑year‑old former teacher who had spent more than four years in Russian detention on accusations of serving as a mercenary for Ukraine. The decision came as Putin met Steve Witkoff, a Trump‑appointed envoy, in St Petersburg for fresh negotiations aimed at ending the war in Ukraine."
+   },
+   {
+    "type": "p",
+    "text": "The release followed a request from the United States, which had previously asked Putin to free Hubbard. During the meeting, Witkoff praised Putin, describing him as a humanitarian, despite being wanted by the International Criminal Court as a war criminal."
+   },
+   {
+    "type": "p",
+    "text": "The encounter highlights an increasingly close diplomatic interaction between Moscow and Washington, even as the broader conflict in Ukraine remains unresolved."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The release underscores shifting US‑Russia dynamics and may influence diplomatic efforts to resolve the Ukraine war."
+   }
+  ],
+  "key_points": [
+   "Putin ordered the release of American Stephen Hubbard after a US request.",
+   "The decision coincided with a meeting between Putin and Trump envoy Steve Witkoff in St Petersburg.",
+   "Witkoff, wanted by the ICC, praised Putin as a humanitarian during the talks."
+  ],
+  "meta_description": "Putin frees American Stephen Hubbard during a meeting with Trump envoy Steve Witkoff in St Petersburg, signaling closer US‑Russia ties.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Russia",
+   "United States",
+   "Ukraine war",
+   "Stephen Hubbard",
+   "Steve Witkoff",
+   "International diplomacy"
+  ],
+  "slug": "putin-frees-american-prisoner-during-meeting-with-trump-envoy-58fea9",
+  "reading_minutes": 1,
+  "added": "2026-10-21T21:57:29Z"
+ },
+ {
+  "id": "e4c3c5705a702780",
+  "source_url": "https://www.nytimes.com/2026/10/21/us/politics/neil-bush-talarico-paxton-texas-senate.html",
+  "source": "The New York Times",
+  "source_title": "George W. Bush’s Brother Neil Bush Breaks G.O.P. Ranks to Vote for James Talarico in Texas",
+  "source_summary": "Neil M. Bush, a brother of former President George W. Bush, expressed “deep concern about Ken Paxton’s record” and said he voted for James Talarico, the Democrat running for Senate in Texas.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Talarico, James"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/21/us/21midterms-bush-talarico-topart/21midterms-bush-talarico-topart-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T21:23:28+00:00",
+  "headline": "Neil Bush Breaks GOP Line, Votes for Democrat James Talarico",
+  "body": [
+   {
+    "type": "p",
+    "text": "Neil M. Bush, the brother of former President George W. Bush, announced that he voted for Democrat James Talarico in the Texas Senate race, diverging from the Republican Party’s usual support."
+   },
+   {
+    "type": "p",
+    "text": "Bush said his decision was driven by “deep concern about Ken Paxton’s record,” referring to the Texas Attorney General whose actions have drawn criticism from some conservatives."
+   },
+   {
+    "type": "p",
+    "text": "The former Bush family member’s endorsement of Talarico marks a rare public break from party ranks in a high‑profile statewide contest."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A member of the Bush political dynasty publicly supporting a Democrat highlights internal divisions within the GOP ahead of key elections."
+   }
+  ],
+  "key_points": [
+   "Neil Bush voted for Democrat James Talarico in the Texas Senate race.",
+   "He cited concerns about Attorney General Ken Paxton’s record as the reason.",
+   "The endorsement represents an unusual departure from GOP loyalty."
+  ],
+  "meta_description": "Neil Bush, brother of former President George W. Bush, says he voted for Democrat James Talarico, citing concerns about Ken Paxton.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Neil Bush",
+   "Texas Senate",
+   "James Talarico",
+   "Ken Paxton",
+   "GOP",
+   "party crossover"
+  ],
+  "slug": "neil-bush-breaks-gop-line-votes-democrat-james-talarico-e4c3c5",
+  "reading_minutes": 1,
+  "added": "2026-10-21T21:57:49Z"
+ },
+ {
+  "id": "a7d5bca05b2af3bc",
+  "source_url": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
+  "source": "The New York Times",
+  "source_title": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow",
+  "source_summary": "The spending has hurt the Silicon Valley giant’s cash flow, which turned negative. Meta said it would issue a new class of stock to help it raise more money.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Social Media",
+   "Mobile Applications",
+   "Online Advertising",
+   "Data Centers",
+   "Computers and the Internet",
+   "Company Reports",
+   "Facebook Inc",
+   "Instagram Inc",
+   "Meta Platforms Inc"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-meta-earnings-hfo-1-jzvc/21biz-meta-earnings-hfo-1-jzvc-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T21:18:19+00:00",
+  "headline": "Meta Reports Higher AI Spending, Negative Cash Flow, Plans New Stock Class",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta Platforms Inc. disclosed that its spending on artificial‑intelligence initiatives has risen sharply, contributing to a cash‑flow shortfall that turned negative in the latest quarter. The company said the higher outlays reflect its push to integrate AI across its products and services."
+   },
+   {
+    "type": "p",
+    "text": "To address the cash pressure, Meta announced it will create a new class of stock aimed at raising additional capital. The move is intended to give the firm more flexibility in financing its expanding AI investments while managing its balance sheet."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the combination of rising AI costs and a negative cash flow underscores the financial challenges facing large tech firms as they chase growth in emerging technologies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift highlights how major tech firms in the US and Europe are balancing rapid AI investment with cash‑flow sustainability, affecting shareholders and market dynamics."
+   }
+  ],
+  "key_points": [
+   "Meta's AI spending increased sharply, pushing cash flow into negative territory.",
+   "The company will issue a new class of stock to raise capital for its AI push.",
+   "Investors see the steps as a sign of both ambition and financial strain."
+  ],
+  "meta_description": "Meta's AI spending surge leads to negative cash flow; the firm plans a new stock class to raise capital.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "AI spending",
+   "cash flow",
+   "stock issuance",
+   "earnings",
+   "technology investment"
+  ],
+  "slug": "meta-reports-higher-ai-spending-negative-cash-flow-plans-a7d5bc",
+  "reading_minutes": 1,
+  "added": "2026-10-21T21:57:33Z"
+ },
+ {
+  "id": "063c29a16ff7723c",
+  "source_url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+  "source": "TechCrunch",
+  "source_title": "TechCrunch Founder Summit 2026: Everything you need to know",
+  "source_summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+  "source_tags": [
+   "AI",
+   "Startups",
+   "Venture",
+   "TechCrunch Founder Summit"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657603888_9ade234c98_k.jpg?resize=1200,800",
+  "published": "2026-10-21T21:16:20+00:00",
+  "headline": "TechCrunch Founder Summit 2026 Set for Boston on Nov 4",
+  "body": [
+   {
+    "type": "p",
+    "text": "The TechCrunch Founder Summit will take place in Boston on November 4, 2026. The full‑day event gathers startup founders at every stage of growth to interact with leading venture capitalists and seasoned entrepreneurs."
+   },
+   {
+    "type": "p",
+    "text": "Attendees can expect a series of tactical sessions that focus on practical strategies for building and scaling companies. Panels and workshops will cover topics such as fundraising, product development, market expansion, and team leadership."
+   },
+   {
+    "type": "p",
+    "text": "The summit also offers networking opportunities, allowing founders to forge connections with potential investors and peers. Organizers aim to create a collaborative environment where insights from top VCs translate into actionable advice for participants."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European entrepreneurs, the event provides direct access to leading VCs and practical guidance that can accelerate growth in competitive markets."
+   }
+  ],
+  "key_points": [
+   "The summit brings together founders and top venture capitalists for a day of tactical learning in Boston.",
+   "Sessions will address core scaling challenges, including fundraising, product strategy, and team building.",
+   "Networking slots are built into the agenda to facilitate investor‑founder connections."
+  ],
+  "meta_description": "TechCrunch Founder Summit 2026 gathers founders and top VCs in Boston on Nov 4 for tactical scaling insights and networking.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Founder Summit",
+   "Boston",
+   "Venture Capital",
+   "Entrepreneurship",
+   "TechCrunch",
+   "2026"
+  ],
+  "slug": "techcrunch-founder-summit-2026-set-boston-nov-4-063c29",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T21:57:53Z"
+ },
+ {
+  "id": "33c6899cb14de7ca",
+  "source_url": "https://www.nytimes.com/2026/10/21/business/tesla-earnings-ai-robots.html",
+  "source": "The New York Times",
+  "source_title": "Tesla Profit Slumps as Elon Musk’s Car Company Considers Merging With SpaceX",
+  "source_summary": "The carmaker, which is controlled by Elon Musk and is considering merging with another of his companies, SpaceX, spent heavily on artificial intelligence and other new technologies.",
+  "source_tags": [
+   "Electric and Hybrid Vehicles",
+   "Automobiles",
+   "Tesla Motors Inc",
+   "General Motors",
+   "Musk, Elon",
+   "Artificial Intelligence",
+   "Company Reports",
+   "Robots and Robotics",
+   "Driverless and Semiautonomous Vehicles",
+   "Space Exploration Technologies Corp"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-tesla-earnings-jgch/21biz-tesla-earnings-jgch-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T21:10:49+00:00",
+  "headline": "Tesla Reports Profit Drop Amid AI Spending and Possible SpaceX Merger",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tesla Inc., the electric‑vehicle maker controlled by Elon Musk, announced a sharp decline in quarterly profit. The company cited heavy expenditures on artificial‑intelligence initiatives and other emerging technologies as primary factors behind the earnings shortfall."
+   },
+   {
+    "type": "p",
+    "text": "In addition to the financial results, Tesla disclosed that it is evaluating a potential merger with SpaceX, another Musk‑led enterprise focused on aerospace and satellite services. The discussion of a combined entity reflects Musk’s broader strategy to integrate his transportation and space ventures."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the merger talk could reshape the competitive landscape for both the automotive and aerospace sectors, though no definitive timeline or terms have been disclosed. Tesla’s current focus on AI development includes advancements in autonomous driving software and manufacturing automation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A Tesla‑SpaceX merger would create a powerful cross‑industry player, affecting investors and technology markets in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Tesla’s profit fell sharply due to high AI and technology spending.",
+   "The company is exploring a merger with SpaceX, another Musk‑owned firm.",
+   "The potential combination could have significant industry implications."
+  ],
+  "meta_description": "Tesla’s profit drops as it spends on AI and weighs a merger with SpaceX, signaling possible industry shifts.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "SpaceX",
+   "Elon Musk",
+   "profit decline",
+   "AI investment",
+   "merger talks"
+  ],
+  "slug": "tesla-reports-profit-drop-amid-ai-spending-possible-spacex-33c689",
+  "reading_minutes": 1,
+  "added": "2026-10-21T21:57:25Z"
+ },
+ {
+  "id": "077101b507206f50",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo",
+  "source": "BBC Sport",
+  "source_title": "Rice strikes to earn Arsenal draw at Bayern",
+  "source_summary": "Declan Rice scores a late equaliser as Arsenal and Bayern Munich play out an entertaining draw in the league phase of the Champions League while Bukayo Saka limps off with an early injury.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6de1/live/e75a4c50-cd92-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-21T21:09:36+00:00",
+  "headline": "Rice Scores Late Equaliser as Arsenal Draw 1-1 with Bayern",
+  "body": [
+   {
+    "type": "p",
+    "text": "Declan Rice delivered a last‑minute equaliser for Arsenal, securing a 1-1 draw against Bayern Munich in the Champions League group stage. The English midfielder struck in the dying moments after both sides had created several chances, ensuring the match ended level."
+   },
+   {
+    "type": "p",
+    "text": "Arsenal had been forced to play much of the second half without winger Bukayo Saka, who limped off early with an injury. Despite the setback, the Gunners pressed forward and earned a penalty, which was converted by Gabriel Jesus before Rice's decisive goal."
+   },
+   {
+    "type": "p",
+    "text": "The result leaves both clubs level on points in their group, keeping the race for the knockout stages open. Bayern will look to recover lost ground, while Arsenal remain in contention for a top‑two finish."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The point keeps Arsenal in contention for a knockout‑stage berth and maintains Bayern's hopes of advancing, influencing the European competition landscape."
+   }
+  ],
+  "key_points": [
+   "Declan Rice scored a late goal to level the match at 1-1.",
+   "Bukayo Saka left the game early due to injury.",
+   "The draw leaves Arsenal and Bayern level in their Champions League group."
+  ],
+  "meta_description": "Declan Rice's late strike earns Arsenal a 1-1 draw with Bayern Munich as Saka exits injured in Champions League group play.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Bayern Munich",
+   "Champions League",
+   "Declan Rice",
+   "football",
+   "European competition"
+  ],
+  "slug": "rice-scores-late-equaliser-arsenal-draw-1-1-with-077101",
+  "reading_minutes": 1,
+  "added": "2026-10-21T21:57:21Z"
+ },
+ {
+  "id": "f640c5a32caf1e79",
+  "source_url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+  "source": "CNBC",
+  "source_title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+  "source_summary": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108313063-1779968970407-gettyimages-2277877363-260527_san_137.jpeg?v=1792016572&w=1920&h=1080",
+  "published": "2026-10-21T21:07:11+00:00",
+  "headline": "Southwest Airlines Lowers 2026 Profit Outlook Amid Rising Fuel Costs",
+  "body": [
+   {
+    "type": "p",
+    "text": "Southwest Airlines announced it is reducing its profit forecast for 2026 after fuel prices climbed higher than expected. The airline said the increase in fuel expenses forced a revision of its earnings projections for the upcoming fiscal year."
+   },
+   {
+    "type": "p",
+    "text": "This adjustment makes Southwest the third major U.S. carrier this month to cut its 2026 profit outlook, joining two other airlines that have faced similar pressure from rising energy costs. The airline did not disclose the exact amount of the forecast reduction."
+   },
+   {
+    "type": "p",
+    "text": "Southwest indicated that the higher fuel costs are a key factor affecting its profitability and that it will continue to monitor the situation as it plans its operations and pricing strategies for the next year."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher fuel prices strain airline margins, potentially leading to higher ticket prices and affecting investors in the aviation sector."
+   }
+  ],
+  "key_points": [
+   "Southwest Airlines cut its 2026 profit forecast due to higher fuel prices.",
+   "It is the third major U.S. airline this month to lower its earnings outlook.",
+   "The airline cited rising fuel costs as the primary driver of the forecast revision."
+  ],
+  "meta_description": "Southwest Airlines reduces its 2026 profit forecast as fuel costs rise, becoming the third major U.S. carrier to adjust earnings outlook this month.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Southwest Airlines",
+   "profit forecast",
+   "fuel prices",
+   "aviation industry",
+   "earnings outlook"
+  ],
+  "slug": "southwest-airlines-lowers-2026-profit-outlook-amid-rising-fuel-f640c5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T21:57:45Z"
+ },
+ {
+  "id": "44ccc961b1b60b48",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cmz7xr3z2vz7o",
+  "source": "BBC Sport",
+  "source_title": "Man Utd humbled by four-goal Como to pile pressure on Carrick",
+  "source_summary": "Manchester United suffer a heavy defeat to a Como side playing just their third ever game of Champions League football, as Nico Paz stars for the hosts to pile the pressure on Michael Carrick.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e9b/live/99b2e770-cd81-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-21T20:59:43+00:00",
+  "headline": "Man United Thrashed 4-0 by Como, Carrick’s Tenure Under Fire",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United suffered a 4-0 defeat at the hands of Como, a club playing only its third Champions League match ever. The Italian side dominated the game, with forward Nico Paz delivering a standout performance that helped secure the comprehensive win."
+   },
+   {
+    "type": "p",
+    "text": "The loss adds to growing scrutiny of United’s manager Michael Carrick, whose tenure has already been marked by inconsistent results. Critics argue the defeat highlights tactical shortcomings and raises questions about the squad’s readiness for Europe’s elite competition."
+   },
+   {
+    "type": "p",
+    "text": "Como’s victory marks a rare upset in the tournament, underscoring the unpredictable nature of the Champions League and the challenges faced by traditionally dominant clubs when confronting emerging opponents."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result intensifies scrutiny of United’s management and highlights the growing competitiveness of smaller clubs in Europe’s premier tournament."
+   }
+  ],
+  "key_points": [
+   "Manchester United were beaten 4-0 by Como in their Champions League group match.",
+   "Nico Paz starred for Como, contributing to the club’s first major European victory.",
+   "The defeat intensifies pressure on United manager Michael Carrick."
+  ],
+  "meta_description": "Manchester United lose 4-0 to Como as Nico Paz shines, increasing pressure on manager Michael Carrick.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Como",
+   "Champions League",
+   "Michael Carrick",
+   "Nico Paz"
+  ],
+  "slug": "man-united-thrashed-4-0-como-carricks-tenure-under-44ccc9",
+  "reading_minutes": 1,
+  "added": "2026-10-21T21:57:41Z"
+ },
+ {
+  "id": "59ddf2fd4d3541ff",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o",
+  "source": "BBC Sport",
+  "source_title": "Paz, Fabregas and Como teach Man Utd a lesson",
+  "source_summary": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8da1/live/0470f990-cd95-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-21T20:46:40+00:00",
+  "headline": "Como's Rise From Serie D to Champions League Stuns Manchester United",
+  "body": [
+   {
+    "type": "p",
+    "text": "Italian club Como, a remarkable Serie A success story, have completed an extraordinary climb from Serie D to the Champions League, showcasing the club's rapid development in recent years."
+   },
+   {
+    "type": "p",
+    "text": "In their latest European outing, Como delivered a performance that taught Manchester United a lesson, underscoring the gap that can exist between established giants and emerging teams."
+   },
+   {
+    "type": "p",
+    "text": "The encounter highlighted Como's growing confidence on the continental stage and served as a reminder that the Champions League can produce surprising results when ambitious clubs break through traditional hierarchies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For fans in the US and Europe, Como's ascent illustrates the dynamic nature of club football, where lower‑division teams can quickly become contenders on the biggest stage."
+   }
+  ],
+  "key_points": [
+   "Como have risen from Italy's fourth tier to competing in the Champions League.",
+   "The club's recent European match against Manchester United demonstrated their newfound competitiveness.",
+   "Their progress illustrates how rapid advancement is possible within European football."
+  ],
+  "meta_description": "Como's journey from Serie D to the Champions League culminates in a standout performance against Manchester United.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Como",
+   "Manchester United",
+   "Champions League",
+   "Serie A",
+   "football underdogs"
+  ],
+  "slug": "como-s-rise-from-serie-d-champions-league-stuns-59ddf2",
+  "reading_minutes": 1,
+  "added": "2026-10-21T21:58:01Z"
+ },
+ {
+  "id": "0846771c76415496",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo",
+  "source": "BBC News",
+  "source_title": "Pope does not need further treatment after lung cancer surgery",
+  "source_summary": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09d/live/89f335e0-cd88-11f1-b1e7-39558e114359.jpg",
+  "published": "2026-10-21T20:09:10+00:00",
+  "headline": "Pope Declared Cancer-Free After Successful Lung Surgery",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Vatican announced that the Pope will not require any further medical treatment following surgery to remove a localized lung adenocarcinoma. Post‑operative tests confirmed that the cancer was confined to the lung and has been fully excised."
+   },
+   {
+    "type": "p",
+    "text": "Doctors involved in the procedure said the operation was successful and that the Pope’s recovery is progressing well. No additional therapies, such as chemotherapy or radiation, are planned at this stage."
+   },
+   {
+    "type": "p",
+    "text": "The Pope’s health update comes after weeks of speculation about his condition. The Vatican’s medical team emphasized that the surgery addressed the entire tumor and that the Pope can resume his duties without interruption."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Pope’s health is closely watched worldwide, and his swift recovery reassures the global Catholic community and diplomatic circles."
+   }
+  ],
+  "key_points": [
+   "The Pope’s lung adenocarcinoma was localized and completely removed.",
+   "Post‑surgery tests show no need for further treatment.",
+   "The Vatican says the Pope can continue his responsibilities without delay."
+  ],
+  "meta_description": "The Pope is cancer‑free after successful surgery for a localized lung adenocarcinoma, with no further treatment required.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pope",
+   "health",
+   "lung cancer",
+   "surgery",
+   "Vatican",
+   "religion"
+  ],
+  "slug": "pope-declared-cancer-free-after-successful-lung-surgery-084677",
+  "reading_minutes": 1,
+  "added": "2026-10-21T21:57:37Z"
+ },
+ {
+  "id": "b5885142a9a25e3a",
+  "source_url": "https://www.npr.org/2026/10/21/nx-s1-5977837/climate-uk-usa-housing",
+  "source": "NPR",
+  "source_title": "Meet the people moving north to escape increasingly hot summers",
+  "source_summary": "As climate change fuels hotter summers, some Britons are moving north in search of cooler weather. Could a similar shift be on the horizon in the United States?",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7976x5978+0+0/resize/7976x5978!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fef%2Fe5%2Fe37893a9427995fa602ca1d21457%2Fgettyimages-2289997590.jpg",
+  "published": "2026-10-21T20:00:00+00:00",
+  "headline": "Britons Head North to Escape Sweltering Summers Amid Climate Change",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rising summer temperatures across the United Kingdom are prompting a growing number of residents to relocate to northern regions where the climate remains milder. The movement reflects a personal response to increasingly uncomfortable heat waves that have become a regular feature of British summers."
+   },
+   {
+    "type": "p",
+    "text": "Researchers note that this internal migration is driven by the desire for cooler weather and a higher quality of life, as well as concerns about health impacts associated with extreme heat. Communities in Scotland and northern England are seeing an influx of newcomers seeking relief from the heat that has made southern areas less livable during peak months."
+   },
+   {
+    "type": "p",
+    "text": "The trend has sparked discussion about whether a comparable shift could occur in the United States, where many regions are also experiencing hotter summers. Analysts suggest that similar patterns of climate‑driven relocation may emerge if heat conditions continue to intensify."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The pattern highlights how climate change can reshape internal migration, a dynamic that could also affect U.S. regions facing rising summer temperatures."
+   }
+  ],
+  "key_points": [
+   "Hotter UK summers are causing Britons to move north for cooler weather.",
+   "Northern English and Scottish towns are experiencing increased migration.",
+   "Experts wonder if the United States could see a similar climate‑driven shift."
+  ],
+  "meta_description": "Britons are moving north to escape hotter summers, raising questions about similar climate‑driven migration in the United States.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "climate change",
+   "migration",
+   "heat",
+   "United Kingdom",
+   "regional shift",
+   "population movement"
+  ],
+  "slug": "britons-head-north-escape-sweltering-summers-amid-climate-change-b58851",
+  "reading_minutes": 1,
+  "added": "2026-10-21T21:57:57Z"
+ },
+ {
   "id": "2e60e966c7c16c94",
   "source_url": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
   "source": "The New York Times",
