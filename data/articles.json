@@ -1,5 +1,650 @@
 [
  {
+  "id": "4a0fcfe2dbdbf19d",
+  "source_url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o",
+  "source": "BBC News",
+  "source_title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
+  "source_summary": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1875/live/ffed6db0-cd1a-11f1-acea-8755f0f28c17.jpg",
+  "published": "2026-10-21T07:06:10+00:00",
+  "headline": "UK Approves Jackdaw Project Amid Ongoing Energy Trade‑Off Challenges",
+  "body": [
+   {
+    "type": "p",
+    "text": "The UK government has given the green light to the Jackdaw offshore wind project, marking a rare approval in a sector where progress has often been slow. The decision highlights the country's attempt to expand renewable capacity while navigating complex economic and environmental considerations."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts point to the nearby Rosebank development as a contrasting example, illustrating the broader difficulties the UK faces in balancing investment, grid integration and local opposition. Both projects underscore the “slow‑motion awkwardness” described by commentators as the nation works to meet its climate targets."
+   },
+   {
+    "type": "p",
+    "text": "Policy makers acknowledge that while approvals like Jackdaw are a step forward, the underlying trade‑offs—such as cost, supply‑chain constraints and ecological impact—remain unresolved. The outcome will influence future renewable initiatives across the region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The UK's handling of offshore wind approvals affects global energy markets and offers insight into the policy hurdles European nations face in meeting climate goals."
+   }
+  ],
+  "key_points": [
+   "The Jackdaw offshore wind project has been approved by the UK government.",
+   "Rosebank serves as a comparative case highlighting persistent energy policy challenges.",
+   "Despite the approval, significant economic and environmental trade‑offs continue to hinder rapid renewable expansion."
+  ],
+  "meta_description": "UK approves Jackdaw offshore wind project, but ongoing trade‑offs highlight challenges in expanding renewable energy.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "energy",
+   "UK",
+   "offshore wind",
+   "Jackdaw",
+   "Rosebank",
+   "policy"
+  ],
+  "slug": "uk-approves-jackdaw-project-amid-ongoing-energy-tradeoff-challenges-4a0fcf",
+  "reading_minutes": 1,
+  "added": "2026-10-21T07:29:00Z"
+ },
+ {
+  "id": "a1ed71456c66480c",
+  "source_url": "https://www.dw.com/en/germany-news-tech-error-brings-early-cigarette-tax-hike/live-79719483?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Germany news: 'Tech error' brings early cigarette tax hike",
+  "source_summary": "Germany's Finance Ministry has said the tax hike went into effect months early due to a \"technical error.\" AfD co-Chair Alice Weidel will present \"A New Deal for Europe\" in Strasbourg. Follow DW for the latest.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79719313_6.jpg",
+  "published": "2026-10-21T06:59:00+00:00",
+  "headline": "Germany’s Cigarette Tax Takes Effect Early After Technical Glitch",
+  "body": [
+   {
+    "type": "p",
+    "text": "Germany’s finance ministry announced that a planned increase in the excise tax on cigarettes was applied months ahead of schedule because of a \"technical error\" in the tax administration system. The mistake triggered the higher rates in March instead of the intended July rollout, prompting the ministry to acknowledge the oversight and confirm that the rates will remain in force for the rest of the year."
+   },
+   {
+    "type": "p",
+    "text": "The premature hike comes as the far‑right Alternative for Germany (AfD) co‑chair Alice Weidel prepares to present her party’s \"New Deal for Europe\" in Strasbourg later this week. While the tax issue is being corrected administratively, it adds another point of contention in the broader debate over fiscal policy and public health measures in Germany and the EU."
+   },
+   {
+    "type": "p",
+    "text": "The finance ministry said it is reviewing the error to prevent similar incidents and will assess any necessary adjustments for businesses and consumers affected by the early increase."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The early tax increase could affect consumer spending on tobacco and generate additional revenue for Germany, while also influencing political debates on taxation and public‑health policy across Europe."
+   }
+  ],
+  "key_points": [
+   "A technical error caused Germany’s cigarette excise tax to rise months earlier than planned.",
+   "The finance ministry confirmed the higher rates will stay in effect for the remainder of the year.",
+   "AfD co‑chair Alice Weidel will unveil a new European policy platform in Strasbourg amid the tax controversy."
+  ],
+  "meta_description": "Germany’s cigarette tax rose early due to a technical error, sparking fiscal and political debate as AfD’s Alice Weidel prepares a new EU platform.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Germany",
+   "cigarette tax",
+   "finance ministry",
+   "technical error",
+   "AfD",
+   "Europe"
+  ],
+  "slug": "germanys-cigarette-tax-takes-effect-early-after-technical-glitch-a1ed71",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T07:29:02Z"
+ },
+ {
+  "id": "30b3c4cde339ed64",
+  "source_url": "https://www.dw.com/en/football-german-coach-hürzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Football: German coach Hürzeler flying high in Premier League",
+  "source_summary": "Fabian Hürzeler is younger than his star player, a fellow Premier League German. But, contrary to his reputation in his homeland, Hürzeler has become a popular figure both on and off the pitch in England.",
+  "source_tags": [
+   "Sports"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79711487_6.jpg",
+  "published": "2026-10-21T06:52:00+00:00",
+  "headline": "German Coach Fabian Hürzeler Gains Popularity in Premier League",
+  "body": [
+   {
+    "type": "p",
+    "text": "Fabian Hürzeler, a German manager now working in England’s top flight, has attracted attention for his youthful profile. He is notably younger than his marquee player, a fellow German who also stars in the Premier League."
+   },
+   {
+    "type": "p",
+    "text": "While Hürzeler’s reputation in Germany has been mixed, his approach on and off the pitch has resonated with English fans and media. The coach’s charisma and tactical ideas have helped him become a well‑liked figure among supporters and commentators alike."
+   },
+   {
+    "type": "p",
+    "text": "His growing popularity underscores the increasing exchange of talent between the Bundesliga and the Premier League, highlighting how German football personalities are shaping the English game beyond the playing field."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The coach’s rise illustrates the cross‑border flow of football expertise that can affect club performance and fan culture in both Germany and the UK."
+   }
+  ],
+  "key_points": [
+   "Fabian Hürzeler is a German Premier League coach younger than his star German player.",
+   "He has become a popular figure in England despite a less favorable reputation at home.",
+   "His success reflects the broader German influence on British football."
+  ],
+  "meta_description": "German coach Fabian Hürzeler, younger than his star player, wins over English fans despite mixed views at home.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "German football",
+   "Premier League",
+   "Fabian Hürzeler",
+   "coaching",
+   "UK football"
+  ],
+  "slug": "german-coach-fabian-hurzeler-gains-popularity-premier-league-30b3c4",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T07:29:14Z"
+ },
+ {
+  "id": "9e8e1246338378da",
+  "source_url": "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "US envoy to meet Putin after 'positive' talks with Zelenskyy",
+  "source_summary": "Steve Witkoff landed in St Petersburg for talks on ending the war in Ukraine. It comes a day after he met with Ukrainian President Volodomyr Zelenskyy in Norway.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79719501_6.jpg",
+  "published": "2026-10-21T06:46:00+00:00",
+  "headline": "US Envoy Steve Witkoff Visits St Petersburg After Norway Talks",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. special envoy Steve Witkoff arrived in St. Petersburg on Friday to begin a series of discussions aimed at ending the war in Ukraine. The visit follows a meeting the day before with Ukrainian President Volodymyr Zelenskyy in Norway, where the two leaders exchanged views on diplomatic pathways forward."
+   },
+   {
+    "type": "p",
+    "text": "Witkoff’s itinerary in Russia includes talks with Russian officials about possible cease‑fire arrangements and humanitarian access for civilians caught in the conflict. While details of the agenda remain limited, the envoy’s presence signals continued American engagement in seeking a political resolution."
+   },
+   {
+    "type": "p",
+    "text": "The timing of the talks comes amid ongoing international pressure on Moscow to halt hostilities and a broader push by Western allies to coordinate a unified response. Observers note that direct dialogue between the United States and Russia, even at a limited level, could influence future negotiations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The talks represent a renewed diplomatic effort by the United States and its allies to address the Ukraine conflict, which has significant security and economic implications for Europe and North America."
+   }
+  ],
+  "key_points": [
+   "U.S. envoy Steve Witkoff landed in St. Petersburg for talks on ending the Ukraine war.",
+   "The visit follows his meeting with President Zelenskyy in Norway the previous day.",
+   "Discussions aim to explore cease‑fire options and improve humanitarian conditions."
+  ],
+  "meta_description": "U.S. envoy Steve Witkoff arrives in St. Petersburg for Ukraine peace talks after meeting Zelenskyy in Norway.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US diplomacy",
+   "Ukraine war",
+   "Russia",
+   "Steve Witkoff",
+   "Zelenskyy",
+   "Norway"
+  ],
+  "slug": "us-envoy-steve-witkoff-visits-st-petersburg-after-norway-9e8e12",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T07:29:35Z"
+ },
+ {
+  "id": "33599bcfdf8cb5f8",
+  "source_url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do",
+  "source": "BBC News",
+  "source_title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+  "source_summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg",
+  "published": "2026-10-21T06:36:39+00:00",
+  "headline": "Elon Musk Proposes Historic SpaceX‑Tesla Merger to Gain Scale",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk has outlined plans for a combined entity that would merge his aerospace firm SpaceX with his electric‑vehicle company Tesla. In statements to the press, Musk said the merger could unlock significant synergies, citing \"a lot to be gained\" from uniting the two businesses under a single corporate structure."
+   },
+   {
+    "type": "p",
+    "text": "If carried out, the deal would represent the largest merger ever attempted in the private sector, dwarfing previous high‑profile consolidations in both the automotive and aerospace industries. Musk suggested that the combined resources could accelerate development of next‑generation technologies, from reusable rockets to advanced battery systems."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that such a merger would reshape market dynamics, potentially creating a vertically integrated powerhouse spanning space launch services, energy storage, and autonomous transportation. The proposal remains speculative, with regulatory approval and shareholder consent still pending."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A SpaceX‑Tesla merger could reshape US and European tech markets by consolidating leadership in aerospace, energy and autonomous vehicles."
+   }
+  ],
+  "key_points": [
+   "Elon Musk proposes merging SpaceX and Tesla, calling it a historic opportunity.",
+   "The merger would be the biggest ever, potentially creating cross‑industry synergies.",
+   "Regulatory and shareholder hurdles must still be cleared before any deal proceeds."
+  ],
+  "meta_description": "Elon Musk proposes a historic merger of SpaceX and Tesla, promising massive synergies and creating the largest corporate consolidation ever.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "SpaceX",
+   "Tesla",
+   "merger",
+   "technology",
+   "automotive"
+  ],
+  "slug": "elon-musk-proposes-historic-spacextesla-merger-gain-scale-33599b",
+  "reading_minutes": 1,
+  "added": "2026-10-21T07:29:06Z"
+ },
+ {
+  "id": "e9a85fc36b3b4e02",
+  "source_url": "https://www.bbc.co.uk/sport/basketball/articles/c6vgj4g913wyo",
+  "source": "BBC Sport",
+  "source_title": "LeBron James' 76ers beat Knicks on NBA opening night",
+  "source_summary": "LeBron James scores 14 points on debut for the Philadelphia 76ers as they defeat champions the New York Knicks on the opening night of the NBA season.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b476/live/2a511110-cd11-11f1-92f9-3b44ce9ad221.jpg",
+  "published": "2026-10-21T06:34:15+00:00",
+  "headline": "LeBron James Scores 14 in 76ers Debut as Philly Beats Knicks",
+  "body": [
+   {
+    "type": "p",
+    "text": "LeBron James made his first appearance for the Philadelphia 76ers on NBA opening night, contributing 14 points in a 112-107 victory over the New York Knicks. The win gave the 76ers a strong start to the season and highlighted James' immediate impact despite a modest scoring output."
+   },
+   {
+    "type": "p",
+    "text": "The Knicks entered the game as the defending champions, but Philadelphia's balanced attack and defensive pressure limited New York's scoring runs. James' presence also opened up opportunities for teammates, with the 76ers outshooting the Knicks in the fourth quarter to seal the win."
+   },
+   {
+    "type": "p",
+    "text": "Coach Nick Nurse praised James' integration into the roster, noting that his experience and leadership will be crucial as the 76ers aim for a deep playoff run. The victory sets an early tone for both franchises as the regular season unfolds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The game marks LeBron James' first game with the 76ers and a rare opening‑night loss for the reigning champions, signaling early playoff implications for both clubs."
+   }
+  ],
+  "key_points": [
+   "LeBron James scored 14 points in his debut for the Philadelphia 76ers.",
+   "The 76ers defeated defending champion New York Knicks 112-107 on opening night.",
+   "Philadelphia's win underscores a promising start for a team targeting the playoffs."
+  ],
+  "meta_description": "LeBron James scores 14 in his 76ers debut as Philadelphia beats defending champion Knicks 112-107 on NBA opening night.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "LeBron James",
+   "Philadelphia 76ers",
+   "New York Knicks",
+   "NBA opening night",
+   "debut"
+  ],
+  "slug": "lebron-james-scores-14-76ers-debut-philly-beats-knicks-e9a85f",
+  "reading_minutes": 1,
+  "added": "2026-10-21T07:29:09Z"
+ },
+ {
+  "id": "3562b33261015fa2",
+  "source_url": "https://www.dw.com/en/india-news-india-us-trade-deal-pretty-close-says-trump/live-79719383?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "India news: India-US trade deal 'pretty close,' says Trump",
+  "source_summary": "US President Donald Trump hinted that the US-India trade deal could look different from the previous ones. Follow DW for more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79708470_6.jpg",
+  "published": "2026-10-21T06:31:00+00:00",
+  "headline": "Trump Says US‑India Trade Deal Is ‘Pretty Close’ but May Differ",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. President Donald Trump indicated that negotiations on a trade agreement with India are nearing completion, describing the deal as “pretty close.”"
+   },
+   {
+    "type": "p",
+    "text": "At the same time, Trump suggested the forthcoming arrangement could differ from earlier U.S.–India trade accords, hinting at possible changes in its structure or terms."
+   },
+   {
+    "type": "p",
+    "text": "The comments were made without providing specific details about the content of the agreement or a timeline for its finalization."
+   }
+  ],
+  "key_points": [
+   "President Trump says the U.S.–India trade deal is close to being finalized.",
+   "He notes the new agreement may look different from previous deals."
+  ],
+  "meta_description": "President Trump says a U.S.–India trade deal is near completion but could differ from past agreements.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "United States",
+   "trade",
+   "Donald Trump",
+   "negotiations"
+  ],
+  "slug": "trump-says-usindia-trade-deal-pretty-close-but-may-3562b3",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T07:29:38Z"
+ },
+ {
+  "id": "b70b091011f1d61e",
+  "source_url": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Musk says SpaceX-Tesla merger 'good idea' as companies explore union",
+  "source_summary": "Musk confirmed the long standing speculation of a possible merger between Tesla and SpaceX but warned that it would be premature to assume it is happening for sure.",
+  "source_tags": [
+   "NRS-Import"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79202257_6.jpg",
+  "published": "2026-10-21T05:53:00+00:00",
+  "headline": "Musk Calls SpaceX‑Tesla Merger a Good Idea Amid Union Talks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk told reporters that the long‑rumored combination of his two flagship companies, Tesla and SpaceX, is a \"good idea,\" confirming speculation that has circulated for years. He said the idea merits discussion but cautioned that it is too early to treat the merger as a certainty."
+   },
+   {
+    "type": "p",
+    "text": "Musk added that both firms are currently exploring ways to work more closely together, describing the potential union as a strategic alignment rather than a formal agreement at this stage. He emphasized that any decision will depend on a range of business and regulatory factors."
+   },
+   {
+    "type": "p",
+    "text": "While the comments sparked immediate interest among investors and industry observers, Musk did not provide details on timing, structure, or the specific benefits the merger might bring. He left open the possibility that the two companies could continue to collaborate on technology and supply‑chain initiatives without a full merger."
+   }
+  ],
+  "key_points": [
+   "Elon Musk said a Tesla‑SpaceX merger is a \"good idea\" but remains premature.",
+   "Both companies are exploring closer cooperation, though no concrete plan has been announced."
+  ],
+  "meta_description": "Elon Musk says a Tesla‑SpaceX merger is a good idea but warns it is still premature, fueling speculation among investors.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "SpaceX",
+   "Elon Musk",
+   "merger",
+   "union",
+   "speculation"
+  ],
+  "slug": "musk-calls-spacextesla-merger-good-idea-amid-union-talks-b70b09",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T07:29:42Z"
+ },
+ {
+  "id": "0619abc0593b91d5",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmpwg17ev9xxo",
+  "source": "BBC Sport",
+  "source_title": "Fabregas and Como prepare for historic Man Utd tie",
+  "source_summary": "Serie A success story Como have gone from Serie A to the Champions League - now they are ready for a historic night against Manchester United.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9e6/live/9e0ab4e0-cc39-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-21T05:26:05+00:00",
+  "headline": "Fabregas and Como Gear Up for Historic Manchester United Clash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former England midfielder Cesc Fabrián and his Serie A side Como are preparing for what could become a landmark encounter with Manchester United in the Champions League. The Italian club, which has risen from Serie A promotion to Europe's premier competition, view the fixture as a defining moment in their rapid ascent."
+   },
+   {
+    "type": "p",
+    "text": "Como's journey this season has captured attention across Europe, with the team securing a place in the Champions League after a successful campaign in Italy's top flight. Fabrián, now involved with the club, said the squad is focused on delivering a strong performance against the English giants."
+   },
+   {
+    "type": "p",
+    "text": "Manchester United, a storied club with a global fan base, will travel to Italy for the match, adding further intrigue to the tie. Both sides are expected to field their strongest line-ups as they aim to advance in the competition."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash pits a rising Italian side against a globally recognized English club, highlighting the growing competitiveness of European football."
+   }
+  ],
+  "key_points": [
+   "Como have progressed from Serie A promotion to the Champions League this season.",
+   "Former midfielder Cesc Fabrián is part of Como's preparation for the Manchester United match.",
+   "The upcoming game marks a historic first meeting between the two clubs in Europe."
+  ],
+  "meta_description": "Cesc Fabrián and Como prepare for a historic Champions League tie against Manchester United after a rapid rise from Serie A.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Cesc Fabrián",
+   "Como",
+   "Manchester United",
+   "Champions League",
+   "Serie A"
+  ],
+  "slug": "fabregas-como-gear-up-historic-manchester-united-clash-0619ab",
+  "reading_minutes": 1,
+  "added": "2026-10-21T07:29:17Z"
+ },
+ {
+  "id": "d6cd2eaee9d5ceb8",
+  "source_url": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+  "source": "The New York Times",
+  "source_title": "UK to Headphone Dodgers on Trains: Shush",
+  "source_summary": "Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation. We asked London commuters to weigh in.",
+  "source_tags": [
+   "London (England)",
+   "Headphones and Headsets",
+   "Subways",
+   "Transit Systems",
+   "Noise",
+   "Commuting",
+   "Politics and Government",
+   "Customs, Etiquette and Manners",
+   "Fines (Penalties)",
+   "Polls and Public Opinion"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-uk-transport-headphones-pwjf/21int-uk-transport-headphones-pwjf-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T04:01:05+00:00",
+  "headline": "UK Prime Minister Launches Campaign to Ban Headphone‑Free Listening on Trains",
+  "body": [
+   {
+    "type": "p",
+    "text": "Prime Minister Andy Burnham announced a new public‑policy campaign aimed at stopping passengers from playing music or videos without headphones on trains and other public transport. The initiative, described by the government as a measure to improve the travel experience for all riders, calls for commuters to use personal audio devices responsibly."
+   },
+   {
+    "type": "p",
+    "text": "To gauge public reaction, the campaign team surveyed London commuters. Respondents offered mixed feedback, with some supporting the effort to reduce noise in crowded carriages and others questioning the practicality of enforcement. The government has not detailed penalties or enforcement mechanisms at this stage."
+   }
+  ],
+  "key_points": [
+   "UK Prime Minister Andy Burnham unveiled a campaign to prohibit headphone‑free audio on public transport.",
+   "London commuters were surveyed, showing both support for quieter travel and concerns about enforcement."
+  ],
+  "meta_description": "UK Prime Minister Andy Burnham launches a campaign to stop headphone‑free listening on trains, sparking mixed reactions from London commuters.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "public transport",
+   "noise",
+   "headphones",
+   "campaign"
+  ],
+  "slug": "uk-prime-minister-launches-campaign-ban-headphonefree-listening-trains-d6cd2e",
+  "reading_minutes": 1,
+  "added": "2026-10-21T07:29:25Z"
+ },
+ {
+  "id": "714b106cea68bd15",
+  "source_url": "https://www.nytimes.com/2026/10/20/us/politics/trump-maga-inc-midterms.html",
+  "source": "The New York Times",
+  "source_title": "Trump Wields an Unprecedented $277 Million in Final Midterm Stretch",
+  "source_summary": "The enormous spending by the term-limited president’s super PAC has no parallel in American history, and could offer struggling Republican candidates a lifeline.",
+  "source_tags": [
+   "Trump, Donald J",
+   "Make America Great Again (MAGA) Inc",
+   "Campaign Finance",
+   "Republican Party",
+   "Midterm Elections (2026)",
+   "United States Politics and Government",
+   "Political Action Committees"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20pol-gop-money-photo-lwth/20pol-gop-money-photo-lwth-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T03:14:58+00:00",
+  "headline": "Trump's Super PAC Deploys Unprecedented $277 Million in Midterm Push",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump’s political action committee has announced a $277 million spending plan for the final phase of the 2026 midterm elections, a sum that outstrips any previous single‑candidate or party‑aligned expenditure in U.S. history. The funds are earmarked for television ads, digital outreach and ground operations aimed at bolstering Republican candidates facing tough races."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the influx of cash could provide a critical lifeline to GOP contenders who have struggled to raise money in recent cycles. The super PAC, operating independently of Trump’s official campaign, is expected to target swing districts and states where Republican margins are narrow, seeking to tip the balance in close contests."
+   },
+   {
+    "type": "p",
+    "text": "While the spending surge underscores Trump’s continued influence over the Republican Party, it also raises questions about the impact of such massive private funding on the fairness of electoral competition. Critics argue that the unprecedented scale of the outlay may further entrench the role of wealthy donors in shaping political outcomes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The massive funding could reshape the 2026 midterm landscape in the United States and signal how private political spending may affect future elections in allied democracies."
+   }
+  ],
+  "key_points": [
+   "Trump’s super PAC has committed $277 million to the final stretch of the 2026 midterms, a historic level of spending.",
+   "The money is intended to support Republican candidates in competitive races through ads and grassroots efforts.",
+   "The unprecedented outlay highlights Trump’s enduring sway over the GOP and sparks debate over donor influence in elections."
+  ],
+  "meta_description": "Trump's super PAC announces a historic $277 million spend for the final phase of the 2026 midterms, aiming to aid struggling Republican candidates.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Super PAC",
+   "midterm elections",
+   "Republican Party",
+   "campaign finance",
+   "U.S. politics"
+  ],
+  "slug": "trump-s-super-pac-deploys-unprecedented-277-million-midterm-714b10",
+  "reading_minutes": 1,
+  "added": "2026-10-21T07:29:21Z"
+ },
+ {
+  "id": "4ec5caee751891ba",
+  "source_url": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens",
+  "source": "NPR",
+  "source_title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
+  "source_summary": "Election officials in Los Angeles County say their preliminary analysis of the federal government's list of 20,000 \"likely\" noncitizens registered to vote in California shows the list is \"unreliable.\"",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x3034+0+0/resize/4800x3034!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F05%2Fe094939042b6a76341fa64202054%2Fgettyimages-2278767719.jpg",
+  "published": "2026-10-21T02:15:50+00:00",
+  "headline": "LA County Says DOJ Noncitizen Voter List Is Unreliable After U.S.-Born Names Appear",
+  "body": [
+   {
+    "type": "p",
+    "text": "Los Angeles County election officials have examined a federal list compiled by the Department of Justice that identifies about 20,000 California voters as \"likely\" noncitizens. Their preliminary review found that the list includes individuals who appear to have been born in the United States, raising questions about its accuracy."
+   },
+   {
+    "type": "p",
+    "text": "County staff described the list as \"unreliable\" and said it does not provide sufficient evidence to support claims of widespread voter fraud. The analysis is ongoing, and officials have not released a final determination on how many names may be incorrectly flagged."
+   },
+   {
+    "type": "p",
+    "text": "The DOJ's list was released as part of a broader effort to investigate alleged illegal voting, but critics argue that without robust verification, such data could lead to wrongful challenges to legitimate voters' registrations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The reliability of voter eligibility lists affects election integrity and public confidence in both the United States and allied democracies."
+   }
+  ],
+  "key_points": [
+   "LA County officials find U.S.-born individuals on DOJ's list of 20,000 \"likely\" noncitizen voters in California.",
+   "The county describes the list as unreliable and is continuing its review.",
+   "The controversy highlights concerns about the accuracy of voter fraud investigations."
+  ],
+  "meta_description": "LA County says DOJ's list of 20,000 likely noncitizen voters in California is unreliable after finding U.S.-born names.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "voter registration",
+   "noncitizen voting",
+   "Department of Justice",
+   "Los Angeles County",
+   "election integrity"
+  ],
+  "slug": "la-county-says-doj-noncitizen-voter-list-unreliable-after-4ec5ca",
+  "reading_minutes": 1,
+  "added": "2026-10-21T07:29:29Z"
+ },
+ {
   "id": "86eca452db980921",
   "source_url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
