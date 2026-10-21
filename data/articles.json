@@ -1,5 +1,410 @@
 [
  {
+  "id": "86eca452db980921",
+  "source_url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+  "source_summary": "The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79718490_6.jpg",
+  "published": "2026-10-21T01:23:00+00:00",
+  "headline": "UK Deploys Fighter Jets to Shield Saudi Arabia From Houthi Attacks",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United Kingdom has announced the deployment of fighter jets to Saudi Arabia as part of a military support effort aimed at countering attacks by Iran‑aligned Houthi rebels."
+   },
+   {
+    "type": "p",
+    "text": "The Houthi group has been launching repeated strikes against the kingdom, prompting the UK to provide aerial protection to help safeguard Saudi territory and critical infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "British officials said the move demonstrates the UK's commitment to regional stability and its alliance with Saudi Arabia amid the ongoing conflict."
+   }
+  ],
+  "key_points": [
+   "The UK is sending fighter jets to assist Saudi Arabia against Houthi attacks.",
+   "The Houthi rebels are aligned with Iran and have intensified strikes on Saudi territory."
+  ],
+  "meta_description": "The UK deploys fighter jets to protect Saudi Arabia from Iran‑aligned Houthi attacks, underscoring its regional security role.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK defense",
+   "Saudi Arabia",
+   "Houthi rebels",
+   "Middle East security",
+   "military support"
+  ],
+  "slug": "uk-deploys-fighter-jets-shield-saudi-arabia-from-houthi-86eca4",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T01:57:50Z"
+ },
+ {
+  "id": "36337d9c612bb141",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o",
+  "source": "BBC News",
+  "source_title": "France is divided over who to blame for and what to learn from weekend riots",
+  "source_summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8fb/live/9d496cd0-cc9e-11f1-94e6-edd4c60b2e1d.jpg",
+  "published": "2026-10-21T01:22:51+00:00",
+  "headline": "France Divided Over Causes and Lessons From Major Weekend Riots",
+  "body": [
+   {
+    "type": "p",
+    "text": "France is experiencing a sharp split over who should be held responsible for the weekend riots that have been described as some of the worst unrest in the country’s modern history. Politicians, analysts and members of the public are voicing competing explanations, ranging from socio‑economic grievances to law‑and‑order failures."
+   },
+   {
+    "type": "p",
+    "text": "The debate also extends to what can be learned from the disturbances. Some argue that the events highlight the need for deeper social reforms, while others contend that stricter security measures are the priority. This disagreement reflects broader tensions within French society about how to address recurring episodes of civil disorder."
+   },
+   {
+    "type": "p",
+    "text": "The controversy is not confined to France; observers across Europe are watching the fallout, noting how the country’s response could influence approaches to public order and social policy elsewhere."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest tests France’s internal cohesion and may shape European approaches to managing civil disorder."
+   }
+  ],
+  "key_points": [
+   "French society is sharply divided on the causes of the recent weekend riots.",
+   "Debate continues over whether the unrest calls for social reforms or tougher security.",
+   "The riots are seen as among the most severe disturbances in modern French history."
+  ],
+  "meta_description": "France faces a deep split over the causes and lessons of the weekend riots, the worst unrest in recent French history.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "riots",
+   "civil unrest",
+   "political debate",
+   "public order"
+  ],
+  "slug": "france-divided-over-causes-lessons-from-major-weekend-riots-36337d",
+  "reading_minutes": 1,
+  "added": "2026-10-21T01:57:54Z"
+ },
+ {
+  "id": "bb887400c3723aad",
+  "source_url": "https://www.nytimes.com/2026/10/20/us/politics/cia-interview-reports-sept-11-torture.html",
+  "source": "The New York Times",
+  "source_title": "U.S. Begins Disclosing C.I.A. Interview Reports From Scrutiny of Post-9/11 Torture",
+  "source_summary": "The rolling release of long-secret files could add detail to the history of a legally disputed Bush-era counterterrorism program.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Classified Information and State Secrets",
+   "Torture",
+   "Detainees",
+   "Terrorism",
+   "September 11 (2001)",
+   "Interrogations",
+   "Waterboarding",
+   "Freedom of Information Act",
+   "Central Intelligence Agency"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/dc-torture-qtch/dc-torture-qtch-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T01:07:23+00:00",
+  "headline": "U.S. Begins Releasing CIA Interview Reports on Post‑9/11 Torture Program",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. government has started a rolling release of long‑secret CIA interview reports that examined the agency’s role in the post‑9/11 torture program. The documents, previously classified, are being made public in stages as part of a broader declassification effort."
+   },
+   {
+    "type": "p",
+    "text": "Officials say the newly disclosed files could provide additional detail about the legally contested counterterrorism measures implemented during the Bush administration. The release follows years of pressure from journalists and advocacy groups seeking greater transparency about the program’s scope and legal justification."
+   },
+   {
+    "type": "p",
+    "text": "The material includes interview transcripts with CIA personnel and contractors who were involved in the interrogation techniques that have been the subject of extensive debate and litigation. While the full impact of the disclosures remains to be seen, they are expected to inform ongoing historical and legal assessments of the United States’ post‑9/11 security policies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The release offers U.S. and European audiences clearer insight into the legal and ethical debates surrounding America’s post‑9/11 security measures."
+   }
+  ],
+  "key_points": [
+   "The U.S. is gradually publishing previously classified CIA interview reports on the post‑9/11 torture program.",
+   "The documents may add new detail to the contested history of Bush‑era counterterrorism tactics."
+  ],
+  "meta_description": "The U.S. begins a rolling release of secret CIA interview reports, shedding new light on the disputed Bush‑era torture program.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "CIA",
+   "torture",
+   "post‑9/11",
+   "declassification",
+   "counterterrorism",
+   "US politics"
+  ],
+  "slug": "u-s-begins-releasing-cia-interview-reports-post9-11-bb8874",
+  "reading_minutes": 1,
+  "added": "2026-10-21T01:58:02Z"
+ },
+ {
+  "id": "ea49117eda2c0512",
+  "source_url": "https://www.nytimes.com/video/us/politics/100000011225769/how-zelensky-is-trying-to-navigate-trumps-tilt-toward-russia.html",
+  "source": "The New York Times",
+  "source_title": "How Zelensky Is Trying to Navigate Trump’s Tilt Toward Russia",
+  "source_summary": "Peter Baker, our chief White House correspondent, reports from Oslo, where Ukraine’s President, Volodymyr Zelensky, met with President Trump’s special envoy, Steve Witkoff.",
+  "source_tags": [
+   "Ukraine",
+   "Zelensky, Volodymyr",
+   "Witkoff, Steven"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-21T00:41:44+00:00",
+  "headline": "Zelensky Meets Trump Envoy Witkoff in Oslo Amid U.S. Policy Shift",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelensky traveled to Oslo for a meeting with Steve Witkoff, the special envoy appointed by President Donald Trump. The talks took place as the Trump administration signals a more conciliatory stance toward Russia, a development that has raised concerns in Kyiv and among NATO allies."
+   },
+   {
+    "type": "p",
+    "text": "During the Oslo encounter, Zelensky sought to convey Ukraine’s security needs and to explore avenues for continued U.S. support despite the evolving political climate in Washington. Witkoff, representing the White House, listened to the Ukrainian leader’s priorities and indicated a willingness to maintain dialogue."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the meeting underscores Kyiv’s diplomatic effort to navigate a potentially shifting U.S. foreign‑policy landscape, aiming to preserve assistance while addressing the administration’s changing tone toward Moscow."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The talks highlight how Ukraine is trying to maintain U.S. support while the new administration reassesses its approach to Russia, a concern for both American and European security interests."
+   }
+  ],
+  "key_points": [
+   "Zelensky met with Trump’s special envoy Steve Witkoff in Oslo.",
+   "The discussion came as the Trump administration shows a tilt toward Russia.",
+   "Ukraine aims to secure continued U.S. backing despite policy shifts."
+  ],
+  "meta_description": "Zelensky meets Trump envoy Witkoff in Oslo as the U.S. shows a tilt toward Russia, seeking to keep Ukrainian support.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Zelensky",
+   "Steve Witkoff",
+   "Trump",
+   "US foreign policy",
+   "Europe"
+  ],
+  "slug": "zelensky-meets-trump-envoy-witkoff-oslo-amid-u-s-ea4911",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T01:58:10Z"
+ },
+ {
+  "id": "2d4da907ab82988e",
+  "source_url": "https://www.nytimes.com/2026/10/20/us/politics/kagan-supreme-court-rulings-polarization.html",
+  "source": "The New York Times",
+  "source_title": "Ahead of Midterms, Justice Kagan Says Rulings Have Intensified Polarization",
+  "source_summary": "The justice said during a discussion that recent Supreme Court decisions on voting rights, gerrymandering and campaign finance have deepened America’s divides.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Conservatism (US Politics)",
+   "Decisions and Verdicts",
+   "Campaign Finance",
+   "Midterm Elections (2026)",
+   "Elections, Courts and the Judiciary",
+   "Courts and the Judiciary",
+   "Voting Rights, Registration and Requirements",
+   "Catholic University of America",
+   "Supreme Court (US)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20dc-scotus-kagan-gkhc/20dc-scotus-kagan-gkhc-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T00:38:02+00:00",
+  "headline": "Justice Kagan Warns Supreme Court Rulings Heighten Political Polarization",
+  "body": [
+   {
+    "type": "p",
+    "text": "During a recent discussion, Justice Elena Kagan said that the Supreme Court’s recent decisions on voting rights, gerrymandering and campaign‑finance have deepened divisions across the United States."
+   },
+   {
+    "type": "p",
+    "text": "Kagan noted that the Court’s rulings have amplified partisan tensions at a time when the nation is preparing for the upcoming midterm elections, suggesting that the legal outcomes are influencing public perception of the electoral system."
+   },
+   {
+    "type": "p",
+    "text": "She emphasized that the Court’s role in shaping election law carries significant consequences for democratic stability, urging lawmakers and citizens to consider the broader impact of these decisions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remarks highlight how U.S. Supreme Court decisions on election rules can influence political climates in both America and allied democracies."
+   }
+  ],
+  "key_points": [
+   "Justice Kagan says recent Supreme Court rulings on voting rights, gerrymandering and campaign finance have increased political polarization.",
+   "The comments come as the United States heads toward the 2026 midterm elections.",
+   "Kagan warns that the Court’s election‑law decisions affect democratic stability."
+  ],
+  "meta_description": "Justice Kagan says recent Supreme Court rulings on voting rights, gerrymandering and campaign finance have intensified U.S. political polarization.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Supreme Court",
+   "Voting Rights",
+   "Gerrymandering",
+   "Campaign Finance",
+   "Midterm Elections"
+  ],
+  "slug": "justice-kagan-warns-supreme-court-rulings-heighten-political-polarization-2d4da9",
+  "reading_minutes": 1,
+  "added": "2026-10-21T01:58:14Z"
+ },
+ {
+  "id": "4031aa1963a507fa",
+  "source_url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+  "source": "The Guardian",
+  "source_title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+  "source_summary": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arrived in Nigeria, Africa’s most populous country.",
+  "source_tags": [
+   "Ebola",
+   "Nigeria",
+   "Kenya",
+   "Democratic Republic of the Congo",
+   "Global health",
+   "Africa"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=700&quality=85&auto=format&fit=max&s=ecc5e33aa498c931dfa43b07adab1b11",
+  "published": "2026-10-21T00:14:55+00:00",
+  "headline": "Nigeria Confirms First Ebola Case in Abuja Amid West Africa Outbreak",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nigeria's health ministry announced that a woman who arrived from Uganda has tested positive for Ebola, marking the first confirmed case in the country's capital, Abuja. The patient began showing symptoms on 7 October and was admitted to an Abuja hospital four days later, where the diagnosis was confirmed."
+   },
+   {
+    "type": "p",
+    "text": "The ministry did not disclose the exact date of the woman's arrival in Nigeria, but officials confirmed that she traveled from Uganda, where the virus is currently circulating. Health authorities are now monitoring contacts and implementing containment measures to prevent further spread."
+   },
+   {
+    "type": "p",
+    "text": "The case underscores the expanding reach of the Ebola outbreak into western Africa, a region already grappling with limited healthcare resources. Nigerian officials have urged vigilance and cooperation from the public as they work to contain the virus."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The emergence of Ebola in Nigeria raises concerns for neighboring countries and could impact travel and trade links with Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Nigeria confirmed its first Ebola case in Abuja in a woman who traveled from Uganda.",
+   "The patient showed symptoms on 7 October and was diagnosed after hospital admission four days later.",
+   "The case highlights the spread of the Ebola outbreak into western Africa."
+  ],
+  "meta_description": "Nigeria confirms its first Ebola case in Abuja, a woman arriving from Uganda, as the outbreak spreads into western Africa.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ebola",
+   "Nigeria",
+   "Uganda",
+   "outbreak",
+   "public health",
+   "West Africa"
+  ],
+  "slug": "nigeria-confirms-first-ebola-case-abuja-amid-west-africa-4031aa",
+  "reading_minutes": 1,
+  "added": "2026-10-21T01:58:06Z"
+ },
+ {
+  "id": "325360ba161d347e",
+  "source_url": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+  "source": "The Verge",
+  "source_title": "YouTube might be testing hiding the dislike button",
+  "source_summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, […]",
+  "source_tags": [
+   "News",
+   "Streaming",
+   "YouTube"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-21T00:00:56+00:00",
+  "headline": "YouTube Testing Hidden Dislike Button in Submenu, Users Report",
+  "body": [
+   {
+    "type": "p",
+    "text": "YouTube is reportedly experimenting with a new layout that removes the visible dislike count from video pages. According to screenshots shared on X and Reddit, the dislike icon has been moved into the three‑dot menu that houses other video options, or it disappears entirely for some users."
+   },
+   {
+    "type": "p",
+    "text": "The observations were first highlighted by 9to5Google, which noted that at least two X users posted images showing the dislike button nested under the submenu, while a Reddit user posted a screenshot where the button was missing altogether. The change appears to be part of an ongoing test rather than a permanent redesign."
+   },
+   {
+    "type": "p",
+    "text": "YouTube has not issued an official statement about the trial, and it is unclear how long the experiment will run or whether the dislike function will be restored to its original position for all viewers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The visibility of dislikes influences how creators gauge audience reaction, and a hidden button could alter feedback dynamics on a major global platform."
+   }
+  ],
+  "key_points": [
+   "YouTube is testing a UI change that hides the dislike button in a submenu or removes it from view.",
+   "Screenshots posted on X and Reddit provide the only evidence of the trial so far.",
+   "The platform has not confirmed the test or explained its purpose."
+  ],
+  "meta_description": "YouTube is testing a hidden dislike button, moving it to a submenu or removing it, as shown in user‑shared screenshots.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "YouTube",
+   "dislike button",
+   "UI test",
+   "social media",
+   "user feedback"
+  ],
+  "slug": "youtube-testing-hidden-dislike-button-submenu-users-report-325360",
+  "reading_minutes": 1,
+  "added": "2026-10-21T01:57:58Z"
+ },
+ {
   "id": "0687bdac1819b968",
   "source_url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
   "source": "The New York Times",
@@ -1077,6 +1482,118 @@
   "added": "2026-10-20T22:49:47Z"
  },
  {
+  "id": "fda7124672794d3f",
+  "source_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+  "source": "TechCrunch",
+  "source_title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+  "source_summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+  "source_tags": [
+   "AI",
+   "TC",
+   "Hugging Face",
+   "Netflix"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
+  "published": "2026-10-20T22:24:02+00:00",
+  "headline": "Hugging Face Co‑Founder Calls Netflix AI Documentary Inaccurate",
+  "body": [
+   {
+    "type": "p",
+    "text": "Clem Delangue, co‑founder and CEO of AI startup Hugging Face, appears in Netflix’s new documentary \"AI Gone Rogue\" but says the film does not reflect reality. In an interview, Delangue described the program as having gone \"full doomer mode,\" suggesting it emphasizes worst‑case scenarios rather than balanced coverage of artificial‑intelligence progress."
+   },
+   {
+    "type": "p",
+    "text": "Delangue’s criticism focuses on the documentary’s portrayal of recent AI developments, including a segment that links OpenAI’s technology to a hack narrative. He argues that the storyline oversimplifies complex technical work and misleads viewers about the state of the field."
+   },
+   {
+    "type": "p",
+    "text": "The warning comes as streaming platforms increasingly produce tech‑focused content, prompting industry leaders to call for more accurate representation. Viewers are encouraged to consider the source’s perspective before accepting the documentary’s conclusions as factual."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Misrepresentations of AI can shape public opinion and policy, making accurate reporting crucial for informed debate in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Hugging Face CEO Clem Delangue says Netflix’s \"AI Gone Rogue\" is not accurate.",
+   "He describes the documentary as adopting a \"full doomer\" tone toward AI.",
+   "The critique highlights concerns about sensationalized portrayals of AI in media."
+  ],
+  "meta_description": "Hugging Face CEO Clem Delangue calls Netflix's AI documentary inaccurate, warning it adopts a doomer narrative.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "Netflix",
+   "documentary",
+   "Hugging Face",
+   "misinformation"
+  ],
+  "slug": "hugging-face-cofounder-calls-netflix-ai-documentary-inaccurate-fda712",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T01:58:30Z"
+ },
+ {
+  "id": "2b422fb1ba210c56",
+  "source_url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo",
+  "source": "BBC News",
+  "source_title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+  "source_summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad57/live/10727dd0-cce2-11f1-b759-47986a462148.jpg",
+  "published": "2026-10-20T22:22:17+00:00",
+  "headline": "Alberta Vote Strengthens Carney’s Push for Economic Reform",
+  "body": [
+   {
+    "type": "p",
+    "text": "An overwhelming majority of Albertans voted to remain part of Canada, a result that political analyst Mark Carney says boosts his leverage to pursue a reshaping of the national economy."
+   },
+   {
+    "type": "p",
+    "text": "Carney, a former central bank governor, argues that the clear mandate from Alberta gives him the political capital needed to confront policies he associates with former U.S. President Donald Trump, particularly those he views as detrimental to climate and fiscal stability."
+   },
+   {
+    "type": "p",
+    "text": "The decision, reported by the BBC, underscores regional support for federal economic initiatives and signals a potential shift in Canada’s policy direction as Carney seeks to implement reforms aimed at sustainability and growth."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome may influence North American economic policies, affecting trade and climate initiatives relevant to the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Alberta’s vote to stay in Canada was decisive and widely reported.",
+   "Mark Carney says the result gives him political weight to advance economic reforms.",
+   "Carney links his agenda to countering policies linked to former U.S. President Donald Trump."
+  ],
+  "meta_description": "Alberta’s vote to remain in Canada bolsters Mark Carney’s push for economic reforms and his stance against Trump-era policies.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alberta",
+   "Mark Carney",
+   "Canada",
+   "Economic Reform",
+   "Trump"
+  ],
+  "slug": "alberta-vote-strengthens-carneys-push-economic-reform-2b422f",
+  "reading_minutes": 1,
+  "added": "2026-10-21T01:58:17Z"
+ },
+ {
   "id": "14ef2e85f4c74e5e",
   "source_url": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
   "source": "The New York Times",
@@ -1130,6 +1647,70 @@
   "reading_minutes": 1,
   "img_checked": 2,
   "added": "2026-10-20T22:49:30Z"
+ },
+ {
+  "id": "8a9d49cef4693af1",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/20/michael-bloomberg-donation-democrats-midterms",
+  "source": "The Guardian",
+  "source_title": "Michael Bloomberg spends $80m on Democrats as Trump moves $400m to Republican candidates",
+  "source_summary": "Billionaire ex-mayor of New York City is focusing funds on House races to help Democrats retake majority in midterms US politics live – latest updates The billionaire Michael Bloomberg will spend $80m to help Democratic candidates in the midterm elections , US media reported on Tuesday, a significant infusion of cash for a party that has recently struggled with fundraising as it seeks to win control of Congress . The reported donations came as Donald Trump announced on Tuesday he intended to spend a total of $400m to aid Republican candidates, with $300m already disbursed.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Mike Bloomberg",
+   "Donald Trump",
+   "Democrats",
+   "Republicans",
+   "House of Representatives",
+   "US Congress",
+   "New York",
+   "Super Pacs",
+   "US political financing"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/30feeeafd2e3bd0afa0ef0b00e1d3dd41e47619d/902_6_2112_1690/master/2112.jpg?width=700&quality=85&auto=format&fit=max&s=28c8a77197aa147303bb75f669c1d4bf",
+  "published": "2026-10-20T22:07:28+00:00",
+  "headline": "Bloomberg Pours $80M Into House Races as Trump Targets $400M for GOP",
+  "body": [
+   {
+    "type": "p",
+    "text": "Billionaire former New York mayor Michael Bloomberg announced a $80 million contribution to Democratic candidates ahead of the 2026 midterm elections. The funds are earmarked primarily for House contests, where Democrats aim to regain a majority after recent fundraising challenges."
+   },
+   {
+    "type": "p",
+    "text": "The announcement coincided with former President Donald Trump’s pledge to spend a total of $400 million supporting Republican candidates, with $300 million already allocated. Trump’s spending is intended to bolster GOP prospects across a range of races nationwide."
+   },
+   {
+    "type": "p",
+    "text": "Both donors are leveraging unprecedented personal wealth to influence the balance of power in Congress, underscoring the growing role of private money in U.S. electoral politics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The massive private spending could shape the composition of the U.S. Congress, affecting policy directions that impact both American and European interests."
+   }
+  ],
+  "key_points": [
+   "Michael Bloomberg is committing $80 million to Democratic House candidates.",
+   "Donald Trump has pledged $400 million for Republican candidates, $300 million of which is already spent.",
+   "The rival cash injections highlight the escalating financial arms race in the 2026 midterms."
+  ],
+  "meta_description": "Bloomberg pledges $80M for Democrats as Trump commits $400M for Republicans in the 2026 midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Michael Bloomberg",
+   "Donald Trump",
+   "midterm elections",
+   "campaign finance",
+   "U.S. House races"
+  ],
+  "slug": "bloomberg-pours-80m-into-house-races-trump-targets-400m-8a9d49",
+  "reading_minutes": 1,
+  "added": "2026-10-21T01:58:26Z"
  },
  {
   "id": "8a1435a0c6b30643",
@@ -1245,6 +1826,59 @@
   "added": "2026-10-20T23:22:03Z"
  },
  {
+  "id": "786f9512c55438f5",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o",
+  "source": "BBC News",
+  "source_title": "Second Labour MP suspended over Covid loan repayments",
+  "source_summary": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aba/live/0c34cc90-ccc0-11f1-b943-5f5800ec2246.png",
+  "published": "2026-10-20T21:20:28+00:00",
+  "headline": "Second Labour MP Suspended After Voluntary Covid Loan Probe",
+  "body": [
+   {
+    "type": "p",
+    "text": "Perran Moon, the Labour Member of Parliament for Camborne and Redruth, has been suspended from the party following a self‑referral for an investigation into his repayment of Covid‑era loans. The move marks the second instance of a Labour MP facing suspension over the same issue."
+   },
+   {
+    "type": "p",
+    "text": "Moon voluntarily referred himself to the party’s standards body, prompting an inquiry into whether the loan repayments complied with the rules governing parliamentary financial conduct. The suspension is a procedural step pending the outcome of that investigation."
+   },
+   {
+    "type": "p",
+    "text": "The Labour Party has not yet disclosed the specific findings of the probe, but the suspension underscores the party’s commitment to addressing potential breaches of its financial integrity standards."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights ongoing scrutiny of political financial conduct in the UK, a concern shared by democratic societies in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Perran Moon, Labour MP for Camborne and Redruth, has been suspended after referring himself for a Covid loan repayment investigation.",
+   "This is the second Labour MP to face suspension over the same financial issue.",
+   "The suspension is pending the results of the party’s standards investigation."
+  ],
+  "meta_description": "Labour MP Perran Moon suspended after voluntarily referring himself for a Covid loan repayment investigation, the second such case.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Labour Party",
+   "MP suspension",
+   "Covid loans",
+   "UK politics",
+   "financial conduct"
+  ],
+  "slug": "second-labour-mp-suspended-after-voluntary-covid-loan-probe-786f95",
+  "reading_minutes": 1,
+  "added": "2026-10-21T01:58:34Z"
+ },
+ {
   "id": "a7db14ab145036e7",
   "source_url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo",
   "source": "BBC Sport",
@@ -1296,6 +1930,67 @@
   "slug": "audit-regulator-initiates-inquiries-into-manchester-city-finances-a7db14",
   "reading_minutes": 1,
   "added": "2026-10-20T22:49:51Z"
+ },
+ {
+  "id": "af8168b8c3f847c0",
+  "source_url": "https://www.nytimes.com/2026/10/20/business/uk-north-sea-drilling-jackdaw.html",
+  "source": "The New York Times",
+  "source_title": "Britain Is Said to Approve New Gas Drilling in the North Sea",
+  "source_summary": "Jackdaw, a natural gas field off the coast of Scotland, would be the first new gas extraction project in the North Sea since a government moratorium in 2024.",
+  "source_tags": [
+   "Great Britain",
+   "Aberdeen (Scotland)",
+   "Offshore Drilling and Exploration",
+   "Oil (Petroleum) and Gasoline",
+   "Global Warming",
+   "Labour Party (Great Britain)",
+   "Burnham, Andrew M (1970- )"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20biz-jackdaw-cfvg/20biz-jackdaw-cfvg-mediumSquareAt3X.jpg",
+  "published": "2026-10-20T20:44:40+00:00",
+  "headline": "Britain Approves New North Sea Gas Drilling Project Jackdaw",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United Kingdom government has given the green light to develop Jackdaw, a natural gas field located off Scotland's coast. This marks the first new gas extraction venture in the North Sea since a moratorium on such projects was introduced in 2024."
+   },
+   {
+    "type": "p",
+    "text": "Jackdaw is slated to bring additional natural gas supplies to the UK market, potentially easing domestic energy demand. The approval follows a review of the field's economic viability and its compliance with existing environmental regulations."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the decision could signal a shift in the UK's energy strategy, balancing climate commitments with the need for reliable power sources. The project is expected to create jobs and generate revenue, though details on production timelines and output levels were not disclosed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move could affect European energy security and market dynamics as the UK seeks to balance climate goals with reliable power supplies."
+   }
+  ],
+  "key_points": [
+   "Britain has approved the Jackdaw gas field, the first new North Sea extraction since the 2024 moratorium.",
+   "The project aims to boost domestic gas supply and may influence the UK's broader energy policy."
+  ],
+  "meta_description": "Britain approves the Jackdaw gas field, the first new North Sea extraction since 2024, impacting UK energy supply and policy.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "north sea",
+   "gas drilling",
+   "uk energy",
+   "jackdaw field",
+   "scotland",
+   "energy policy"
+  ],
+  "slug": "britain-approves-new-north-sea-gas-drilling-project-jackdaw-af8168",
+  "reading_minutes": 1,
+  "added": "2026-10-21T01:58:22Z"
  },
  {
   "id": "9a24a58565b3504f",
