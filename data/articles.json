@@ -1,5 +1,695 @@
 [
  {
+  "id": "2e60e966c7c16c94",
+  "source_url": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+  "source": "The New York Times",
+  "source_title": "Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy",
+  "source_summary": "The penalty, one of the largest levied against the tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy.",
+  "source_tags": [
+   "Meta Platforms Inc",
+   "Decisions and Verdicts",
+   "Social Media",
+   "Privacy",
+   "Suits and Litigation (Civil)",
+   "Data-Mining and Database Marketing",
+   "Consumer Protection",
+   "Fines (Penalties)",
+   "States (US)",
+   "Mathew, Francis J"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01biz-meta-ruling-bgvc/01biz-meta-ruling-bgvc-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T18:05:27+00:00",
+  "headline": "Meta Ordered to Pay $25 Billion for Misleading Users on Privacy",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge has ordered Meta Platforms Inc. to pay $25 billion after a lawsuit filed by the state of New Mexico found the company deceived users about how their personal data is handled. The judgment, one of the largest ever imposed on a technology firm, stems from claims that Meta’s privacy statements were misleading and that the company failed to protect user information as promised."
+   },
+   {
+    "type": "p",
+    "text": "The New Mexico lawsuit argued that Meta’s practices violated state consumer‑protection laws by presenting inaccurate assurances about data security while continuing to monetize user data for advertising. The court’s decision requires Meta to compensate affected users and could trigger additional regulatory scrutiny across the United States."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts say the ruling underscores growing pressure on social‑media giants to be transparent about data collection and usage. The massive penalty may also influence ongoing debates in Europe about stricter privacy regulations and enforcement mechanisms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling signals tougher enforcement of privacy laws in the US and could shape future European regulatory approaches to data protection."
+   }
+  ],
+  "key_points": [
+   "Meta must pay $25 billion after a New Mexico court found it misled users about data privacy.",
+   "The judgment is among the largest fines ever levied on a tech company and may prompt broader regulatory action.",
+   "The case highlights heightened scrutiny of social‑media platforms’ privacy practices in the US and abroad."
+  ],
+  "meta_description": "Meta ordered to pay $25 billion for misleading users about privacy, marking a major penalty for the tech giant.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "privacy",
+   "lawsuit",
+   "New Mexico",
+   "fine",
+   "data protection"
+  ],
+  "slug": "meta-ordered-pay-25-billion-misleading-users-privacy-2e60e9",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:11Z"
+ },
+ {
+  "id": "3277c6dc05221a34",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo",
+  "source": "BBC News",
+  "source_title": "Meta fined $25bn for 'lies' over user data privacy",
+  "source_summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-21T18:01:11+00:00",
+  "headline": "Meta Hit With $25 Billion Fine Over User Data Privacy Lies",
+  "body": [
+   {
+    "type": "p",
+    "text": "The European Union has imposed a record $25 billion penalty on Meta Platforms after regulators concluded the company misled users about how their personal data is handled. The sanction surpasses the $18 billion settlement the firm reached with California last year, marking the largest data‑privacy fine ever levied."
+   },
+   {
+    "type": "p",
+    "text": "Authorities said Meta repeatedly provided false assurances about its data‑privacy practices, violating EU rules that require transparent and honest communication with users. The decision follows a lengthy investigation into the social‑media giant’s handling of personal information across its Facebook, Instagram and WhatsApp services."
+   },
+   {
+    "type": "p",
+    "text": "The fine underscores growing regulatory scrutiny of big tech firms and signals that authorities are prepared to use substantial financial penalties to enforce privacy standards. Meta has indicated it will appeal the ruling, but the case highlights the escalating cost of non‑compliance for global technology companies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unprecedented fine demonstrates how regulators in the US and Europe are willing to impose massive penalties on tech firms that fail to meet privacy standards."
+   }
+  ],
+  "key_points": [
+   "The EU fined Meta $25 billion for misleading users about data‑privacy practices.",
+   "The penalty exceeds the $18 billion California settlement, setting a new record.",
+   "The case reflects heightened regulatory pressure on big tech over privacy compliance."
+  ],
+  "meta_description": "EU imposes a record $25 billion fine on Meta for misleading users about data privacy, surpassing previous penalties.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "privacy",
+   "data protection",
+   "regulation",
+   "fine",
+   "tech"
+  ],
+  "slug": "meta-hit-with-25-billion-fine-over-user-data-3277c6",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:15Z"
+ },
+ {
+  "id": "75bbc9e75476185a",
+  "source_url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+  "source": "The New York Times",
+  "source_title": "G.M. Hopes to Design New Cars in as Little as 2 Years Using A.I.",
+  "source_summary": "General Motors is seeking help from artificial intelligence to keep up with Chinese companies that introduce vehicles very quickly.",
+  "source_tags": [
+   "Automobiles",
+   "Electric and Hybrid Vehicles",
+   "Artificial Intelligence",
+   "Batteries",
+   "Prices (Fares, Fees and Rates)",
+   "Fuel Efficiency",
+   "Innovation",
+   "Oil (Petroleum) and Gasoline",
+   "General Motors",
+   "Barra, Mary T"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/21/upshot/21biz-gm/21biz-gm-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T18:00:05+00:00",
+  "headline": "GM Aims to Cut Car Design Time to Two Years With AI",
+  "body": [
+   {
+    "type": "p",
+    "text": "General Motors announced a plan to use artificial intelligence to accelerate the development of new vehicle models, targeting a design cycle as short as two years. The automaker says AI tools will streamline concept creation, engineering simulations and styling iterations, allowing teams to move from idea to production far faster than traditional methods."
+   },
+   {
+    "type": "p",
+    "text": "The initiative is driven by pressure from Chinese competitors that are able to launch new cars in a matter of months. GM officials indicated that adopting AI could help the company keep pace with that speed while maintaining safety and quality standards. The company has not disclosed specific AI vendors or the exact technologies it will employ."
+   },
+   {
+    "type": "p",
+    "text": "If successful, the shortened timeline could reshape GM’s product pipeline and influence how other U.S. and European manufacturers approach vehicle development. The move underscores a broader industry shift toward digital design platforms to stay competitive in a rapidly evolving market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Accelerating design could help U.S. automakers retain market share against fast‑moving Chinese rivals and affect supply‑chain dynamics in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "GM plans to use AI to reduce car design cycles to as little as two years.",
+   "The effort aims to match the rapid model rollout pace of Chinese automakers."
+  ],
+  "meta_description": "GM seeks AI tools to cut car design time to two years, aiming to keep up with fast‑launching Chinese competitors.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "General Motors",
+   "Artificial Intelligence",
+   "Automotive Design",
+   "China Competition",
+   "Vehicle Development"
+  ],
+  "slug": "gm-aims-cut-car-design-time-two-years-with-75bbc9",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:19Z"
+ },
+ {
+  "id": "9a91589c001294ef",
+  "source_url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+  "source": "TechCrunch",
+  "source_title": "GM is giving OnStar an AI makeover",
+  "source_summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+  "source_tags": [
+   "Transportation",
+   "AI",
+   "GM"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624",
+  "published": "2026-10-21T18:00:00+00:00",
+  "headline": "GM Overhauls OnStar With Major AI Upgrade After 30 Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "General Motors announced a comprehensive AI-driven redesign of its OnStar connected‑car service, marking the most extensive update to the platform since its launch three decades ago. The overhaul will embed artificial‑intelligence capabilities throughout the system, aiming to enhance real‑time diagnostics, voice interaction, and safety features for drivers."
+   },
+   {
+    "type": "p",
+    "text": "The revamp reflects GM’s broader push toward advanced digital services in its vehicle lineup, positioning OnStar to compete with emerging in‑car AI solutions from other manufacturers. While specific rollout dates and feature details were not disclosed, the company indicated that the new AI architecture will be integrated across its current and future models."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts view the move as a pivotal step for GM to maintain relevance in the rapidly evolving automotive technology market, where consumers increasingly expect seamless, intelligent connectivity in their vehicles."
+   }
+  ],
+  "key_points": [
+   "GM is implementing a major AI redesign of its 30‑year‑old OnStar service.",
+   "The update aims to boost diagnostics, voice control, and safety via AI.",
+   "The overhaul positions GM to compete with newer in‑car AI platforms."
+  ],
+  "meta_description": "GM launches its biggest OnStar overhaul yet, adding AI to improve diagnostics, voice interaction and safety across its vehicle fleet.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "GM",
+   "OnStar",
+   "AI",
+   "connected cars",
+   "automotive technology"
+  ],
+  "slug": "gm-overhauls-onstar-with-major-ai-upgrade-after-30-9a9158",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-21T18:14:43Z"
+ },
+ {
+  "id": "93dcb9815e5d00e1",
+  "source_url": "https://www.theguardian.com/commentisfree/2026/oct/21/the-guardian-view-on-the-republicans-midterms-struggle-trump-has-circuses-but-voters-also-want-bread",
+  "source": "The Guardian",
+  "source_title": "The Guardian view on the Republicans’ midterms struggle: Trump has circuses, but voters also want bread | Editorial",
+  "source_summary": "As prices keep rising, more of the president’s supporters are asking what happened to the economic good times he promised It is no great revelation that Donald Trump is enriching himself as president. He raked in $2.2bn in 2025, with his position and his personal interests frequently overlapping. Yet this week’s poll finding that 34% of Republicans (and 66% of all American voters) think that he is using his position to make himself rich merits attention . Separately, voters in a Fox News poll last week put government corruption at the top of their list of concerns – just ahead of inflation and high prices. Mr Trump pledged that people would be better off if they voted for him. The billionaires are; not the rest. He promised to lower the costs of groceries (they have risen again) and to cut the price of gasoline to below $2 a gallon. It’s more than double that, thanks to his reckless and illegal war on Iran. Tariffs have bumped up the cost of living too. Incumbents will always struggle when the economy does. But the gulf between his own prosperity and the daily life of his base now looks less like an inspiration and more like an insult. Cash offers seem unlikely to help much.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Trump administration",
+   "Democrats",
+   "US politics",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/bfecc0122c5760f59133a9c542324385c9eeff10/398_0_4840_3872/master/4840.jpg?width=700&quality=85&auto=format&fit=max&s=760cd94dc7f55b177b853ad51101a318",
+  "published": "2026-10-21T17:54:16+00:00",
+  "headline": "Trump’s Wealth Gains and Voter Concerns Highlight Midterm Struggle",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent Fox News poll shows that 34% of Republicans and 66% of all American voters believe President Donald Trump is using his office to increase his personal wealth. The poll also placed government corruption as the top issue for voters, edging out inflation and high prices."
+   },
+   {
+    "type": "p",
+    "text": "According to the Guardian, Trump earned $2.2 billion in 2025, a figure that underscores the gap between his financial gains and the economic pressures faced by his supporters. He has repeatedly promised to lower grocery costs and cut gasoline prices to below $2 a gallon, but prices remain high, a situation the editorial attributes to the ongoing war on Iran and tariff policies."
+   },
+   {
+    "type": "p",
+    "text": "The editorial argues that incumbents traditionally struggle when the economy falters, and the contrast between Trump’s prosperity and the daily realities of his base is increasingly viewed as an insult rather than inspiration. The piece suggests that cash offers or personal enrichment are unlikely to sway voter sentiment ahead of the midterm elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The findings signal growing voter frustration with perceived corruption and economic hardship, factors that could shape the upcoming U.S. midterm elections and affect transatlantic economic policies."
+   }
+  ],
+  "key_points": [
+   "34% of Republicans say Trump is exploiting his office for personal gain, while 66% of all voters share that view.",
+   "Trump’s 2025 earnings of $2.2 billion contrast sharply with promises to cut grocery and gas prices amid rising costs."
+  ],
+  "meta_description": "Polls show many Republicans think Trump enriches himself, while voters rank corruption above inflation ahead of the midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Republicans",
+   "midterms",
+   "polls",
+   "economy",
+   "corruption"
+  ],
+  "slug": "trumps-wealth-gains-voter-concerns-highlight-midterm-struggle-93dcb9",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:31Z"
+ },
+ {
+  "id": "88dd6684d6f6ddf8",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
+  "source": "The Guardian",
+  "source_title": "Thousands of California public employees begin strike over contract",
+  "source_summary": "SEIU Local 1000, representing nurses and teachers, pushing for higher wages, telework and affordable healthcare Thousands of California state workers began a sweeping, one-day strike on Wednesday, with workers set to rally outside government buildings in several cities, as tensions boiled over lapsed contract negotiations with Governor Gavin Newsom’s administration. SEIU Local 1000, a union that represents roughly 100,000 public employees, including nurses and teachers, has been pushing for higher wages, flexible telework and affordable healthcare.",
+  "source_tags": [
+   "California",
+   "US unions",
+   "US news",
+   "West Coast",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/65316f0ff0fec8232b59beaefec273ff5c13843b/300_0_3001_2400/master/3001.jpg?width=700&quality=85&auto=format&fit=max&s=c5f9ced89b0ef8a43ea13330f9e7de5e",
+  "published": "2026-10-21T17:51:29+00:00",
+  "headline": "Thousands of California State Workers Strike Over Contract",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Wednesday, roughly 100,000 public employees in California walked off the job in a coordinated one‑day strike. The action, organized by SEIU Local 1000, included nurses, teachers and other state workers who gathered outside government buildings in several cities across the state."
+   },
+   {
+    "type": "p",
+    "text": "The union is demanding higher wages, expanded telework options and more affordable health‑care benefits as contract talks with Governor Gavin Newsom’s administration have stalled. Participants described the strike as a response to a lapsed contract and growing frustration over the lack of progress in negotiations."
+   },
+   {
+    "type": "p",
+    "text": "The walkout is expected to cause temporary disruptions to public services, though the union emphasized that essential functions such as emergency health care will remain operational. Officials have urged both sides to return to the bargaining table quickly to avoid further impact on Californians."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The strike underscores rising labor tensions in the U.S. public sector and could influence similar disputes in other states and countries."
+   }
+  ],
+  "key_points": [
+   "SEIU Local 1000 led a one‑day strike involving about 100,000 California public employees.",
+   "The union is pressing for higher pay, flexible telework and cheaper health‑care amid stalled contract talks.",
+   "The strike may temporarily affect state services, prompting calls for rapid negotiations."
+  ],
+  "meta_description": "California's SEIU Local 1000 union led a one‑day strike of 100,000 public workers demanding higher wages, telework and affordable health care.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "California",
+   "strike",
+   "public employees",
+   "SEIU Local 1000",
+   "labor",
+   "Gov Newsom"
+  ],
+  "slug": "thousands-california-state-workers-strike-over-contract-88dd66",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:51Z"
+ },
+ {
+  "id": "008d7322ad26dcaa",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o",
+  "source": "BBC News",
+  "source_title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+  "source_summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-21T17:42:34+00:00",
+  "headline": "Russia Says It Is Ready to Resume Talks With Ukraine and U.S.",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Russian government announced that it is prepared to restart diplomatic negotiations with both Ukraine and the United States aimed at ending the ongoing conflict. The statement was made public after President Vladimir Putin met with Steve Witkoff, the special envoy appointed by U.S. President Donald Trump, in St. Petersburg."
+   },
+   {
+    "type": "p",
+    "text": "Russian officials said the talks would focus on a cease‑fire and a framework for a lasting settlement, though no specific timetable was provided. The meeting in St. Petersburg marked the first high‑level contact between Moscow and the Trump administration since the war began, signaling a potential shift in diplomatic posture."
+   },
+   {
+    "type": "p",
+    "text": "Ukrainian authorities have not yet responded to the Russian declaration, and the United States has not confirmed any formal negotiation schedule. Observers note that any progress would depend on mutual concessions and the willingness of both sides to engage in sustained dialogue."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A restart of talks could affect the security landscape in Europe and influence U.S. foreign policy toward the region."
+   }
+  ],
+  "key_points": [
+   "Russia says it is prepared to resume peace talks with Ukraine and the United States.",
+   "The announcement followed a meeting between President Putin and U.S. special envoy Steve Witkoff in St. Petersburg.",
+   "No concrete timetable or details of the proposed negotiations have been disclosed."
+  ],
+  "meta_description": "Russia announces readiness to resume peace talks with Ukraine and the U.S. after a meeting in St. Petersburg, hinting at possible diplomatic shifts.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Russia",
+   "Ukraine",
+   "United States",
+   "diplomacy",
+   "peace talks",
+   "St Petersburg"
+  ],
+  "slug": "russia-says-it-ready-resume-talks-with-ukraine-u-008d73",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:23Z"
+ },
+ {
+  "id": "0c85670029573578",
+  "source_url": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
+  "source": "The New York Times",
+  "source_title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
+  "source_summary": "The Trump administration will release 315,000 barrels of heating oil, but analysts say the amount is too small to make much of a difference.",
+  "source_tags": [
+   "Oil (Petroleum) and Gasoline",
+   "Heating",
+   "Trump, Donald J",
+   "Prices (Fares, Fees and Rates)",
+   "Midterm Elections (2026)",
+   "Wright, Chris (1965- )",
+   "Energy Department",
+   "Collins, Susan M",
+   "Maine",
+   "Cost of Living and Affordability"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-heating-oil/21biz-heating-oil-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T17:37:21+00:00",
+  "headline": "U.S. Releases 315,000 Barrels of Heating Oil Ahead of Midterm Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Trump administration announced it will tap the Strategic Petroleum Reserve to release 315,000 barrels of heating oil. The move comes as the nation heads toward the upcoming midterm elections, prompting officials to highlight the action as a step toward stabilizing energy supplies."
+   },
+   {
+    "type": "p",
+    "text": "Energy analysts, however, caution that the quantity is modest and unlikely to significantly affect market prices or consumer costs. They note that the release represents only a fraction of the nation’s total reserves and may have limited impact on heating oil availability during the winter season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The limited release may have little effect on heating oil prices, a concern for voters facing higher energy costs as elections approach."
+   }
+  ],
+  "key_points": [
+   "The U.S. will release 315,000 barrels of heating oil from its strategic reserves.",
+   "Analysts say the amount is too small to noticeably influence market prices.",
+   "The decision is timed ahead of the midterm elections."
+  ],
+  "meta_description": "The Trump administration will release 315,000 barrels of heating oil, but analysts say the modest amount is unlikely to impact prices ahead of the…",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "heating oil",
+   "strategic petroleum reserve",
+   "Trump administration",
+   "midterm elections",
+   "energy policy"
+  ],
+  "slug": "u-s-releases-315-000-barrels-heating-oil-ahead-0c8567",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:47Z"
+ },
+ {
+  "id": "d2b5e9dcda470499",
+  "source_url": "https://www.nytimes.com/2026/10/21/world/asia/delhi-air-quality.html",
+  "source": "The New York Times",
+  "source_title": "Delhi’s Winter Season of Polluted Air Begins",
+  "source_summary": "As air quality plummeted in India’s largest city, the government said it would act to curtail the haze that blankets the capital every winter.",
+  "source_tags": [
+   "Air Pollution",
+   "Winter (Season)",
+   "Pollution",
+   "World Health Organization",
+   "Delhi (India)",
+   "India",
+   "New Delhi (India)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-india-kzvm/21int-india-kzvm-mediumSquareAt3X.jpg",
+  "published": "2026-10-21T17:32:03+00:00",
+  "headline": "Delhi Faces Severe Winter Smog as Pollution Levels Spike",
+  "body": [
+   {
+    "type": "p",
+    "text": "Air quality in Delhi has deteriorated sharply as the city entered its winter season, with particulate matter concentrations reaching hazardous levels. The smog, which blankets the capital each year, has intensified this month, prompting health warnings from local authorities."
+   },
+   {
+    "type": "p",
+    "text": "The Indian government announced plans to intervene, citing the need to reduce the haze that regularly engulfs the metropolis during winter. Officials said measures will focus on curbing emissions from vehicles, construction sites, and agricultural burning in surrounding regions."
+   },
+   {
+    "type": "p",
+    "text": "Residents have reported reduced visibility and a rise in respiratory complaints, echoing concerns raised in previous years. Schools and outdoor activities have been affected as authorities advise the public to limit exposure, especially for vulnerable groups such as children and the elderly."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Severe air pollution in major cities poses health risks that resonate globally, highlighting the need for coordinated environmental policies."
+   }
+  ],
+  "key_points": [
+   "Delhi's winter smog has surged, pushing air quality into hazardous territory.",
+   "The government pledged actions to cut emissions from traffic, construction and nearby farm fires.",
+   "Health officials warn of increased respiratory problems and advise limited outdoor exposure."
+  ],
+  "meta_description": "Delhi's winter air quality has plummeted, prompting government action to curb smog and protect public health.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Delhi",
+   "air pollution",
+   "winter smog",
+   "India",
+   "public health",
+   "environment"
+  ],
+  "slug": "delhi-faces-severe-winter-smog-pollution-levels-spike-d2b5e9",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:35Z"
+ },
+ {
+  "id": "37df3a7841b8219a",
+  "source_url": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+  "source": "The Guardian",
+  "source_title": "Controversial US-backed vaccine trial in African newborns halted",
+  "source_summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher, wrote on LinkedIn, adding, “we were not given the necessary governmental approval.”",
+  "source_tags": [
+   "Guinea-Bissau",
+   "Africa",
+   "World news",
+   "Hepatitis B",
+   "Vaccines and immunisation",
+   "Health",
+   "Children's health"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/344d52d116791a7470b0fa4bee4effb65774989e/298_0_3376_2700/master/3376.jpg?width=700&quality=85&auto=format&fit=max&s=443123fbf9e95d0ebfb86e5a3a4f2e49",
+  "published": "2026-10-21T17:18:56+00:00",
+  "headline": "US-Backed Hepatitis B Vaccine Trial in Guinea-Bissau Halted",
+  "body": [
+   {
+    "type": "p",
+    "text": "The hepatitis B vaccine study planned for newborns in Guinea-Bissau has been stopped, the lead researcher announced on Wednesday. Danish scientist Frederik Schaltz‑Buchholzer posted on LinkedIn that the trial will not proceed because the project did not receive the required governmental approval."
+   },
+   {
+    "type": "p",
+    "text": "The trial, which was to be funded by the U.S. Centers for Disease Control and Prevention, faced widespread criticism and backlash from international observers and advocacy groups. The lack of official clearance in Guinea‑Bissau has now made it clear that the study will not move forward in the country."
+   },
+   {
+    "type": "p",
+    "text": "Researchers had hoped the trial would provide data on protecting infants from hepatitis B, a disease that remains a public‑health concern in many low‑income regions. The cancellation underscores the challenges of conducting vaccine research abroad without full local consent."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The halt highlights the importance of securing host‑country approval for U.S.-backed health research and the sensitivity surrounding vaccine trials in low‑resource settings."
+   }
+  ],
+  "key_points": [
+   "The CDC‑funded hepatitis B vaccine trial for African newborns has been halted.",
+   "Lead researcher Frederik Schaltz‑Buchholzer said the study lacked necessary governmental approval.",
+   "Global backlash contributed to the decision to stop the trial in Guinea‑Bissau."
+  ],
+  "meta_description": "The CDC‑funded hepatitis B vaccine trial for newborns in Guinea-Bissau has been stopped after lacking governmental approval and facing global backlash.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "hepatitis B",
+   "vaccine trial",
+   "Guinea-Bissau",
+   "CDC",
+   "US funding",
+   "research ethics"
+  ],
+  "slug": "us-backed-hepatitis-b-vaccine-trial-guinea-bissau-halted-37df3a",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:55Z"
+ },
+ {
+  "id": "7bf42add1baba77c",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/ckzd6r577qvdo",
+  "source": "BBC Sport",
+  "source_title": "'Playing for their careers' - Australia reeling after extraordinary day",
+  "source_summary": "Australia are facing defeat in the second Test against South Africa with careers on the line after their shambolic performance on day four.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d585/live/d17d8380-cd69-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-21T16:52:25+00:00",
+  "headline": "Australia on Brink of Defeat in Second Test Against South Africa",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australia find themselves in a precarious position as the second Test against South Africa heads toward a possible loss. After a chaotic day four, the team's performance has been described as shambolic, leaving the outcome of the match hanging in the balance."
+   },
+   {
+    "type": "p",
+    "text": "The stakes are high for the Australian side, with several players facing the prospect that their international careers could be in jeopardy depending on the final result. The pressure mounts as the series continues, and the team's ability to recover will be closely watched by fans and analysts alike."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Test series is a key fixture in international cricket, influencing rankings and player selections that affect the sport worldwide."
+   }
+  ],
+  "key_points": [
+   "Australia risk defeat in the second Test after a poor day four performance.",
+   "The result could determine the future of several Australian players' careers."
+  ],
+  "meta_description": "Australia face possible defeat and career uncertainty after a shambolic day four in the second Test against South Africa.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cricket",
+   "Australia",
+   "South Africa",
+   "Test match",
+   "sports"
+  ],
+  "slug": "australia-brink-defeat-second-test-against-south-africa-7bf42a",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:27Z"
+ },
+ {
+  "id": "33c5d937e12b2d73",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cmy0ek8vnxzko",
+  "source": "BBC Sport",
+  "source_title": "Anderson, 44, not offered new Lancashire contract",
+  "source_summary": "James Anderson’s legendary career could be over after Lancashire opt against offering England’s all-time leading wicket-taker a new deal.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f69/live/208a7fc0-cd63-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-21T15:35:42+00:00",
+  "headline": "James Anderson, 44, Not Offered New Lancashire Contract",
+  "body": [
+   {
+    "type": "p",
+    "text": "Lancashire County Cricket Club has decided not to renew the contract of 44‑year‑old James Anderson, England’s all‑time leading wicket‑taker. The club’s statement said the decision was taken after a review of its playing staff, without providing further detail on Anderson’s future plans."
+   },
+   {
+    "type": "p",
+    "text": "Anderson, who has taken more than 1,300 Test wickets for England, has been a mainstay of Lancashire’s bowling attack for two decades. His career, which began in 2002, includes multiple County Championship titles and a reputation as one of the sport’s most durable fast bowlers."
+   },
+   {
+    "type": "p",
+    "text": "The move raises questions about the next steps for the veteran bowler, who could still be eligible for England selection but now faces uncertainty at the domestic level. Analysts suggest his experience could be valuable for mentoring younger players if he chooses to stay in the game in another capacity."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Anderson’s potential retirement would end a 24‑year era for one of cricket’s most celebrated bowlers, affecting England’s Test side and the sport’s fan base across the UK and Commonwealth nations."
+   }
+  ],
+  "key_points": [
+   "Lancashire has declined to offer James Anderson a new contract at age 44.",
+   "Anderson remains England’s record Test wicket‑taker with over 1,300 wickets.",
+   "His future in professional cricket is now uncertain, prompting speculation about retirement or a coaching role."
+  ],
+  "meta_description": "Lancashire has not offered a new contract to 44‑year‑old James Anderson, England's record Test wicket‑taker, leaving his future in cricket uncertain.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "James Anderson",
+   "Lancashire",
+   "cricket",
+   "England",
+   "wicket-taker"
+  ],
+  "slug": "james-anderson-44-not-offered-new-lancashire-contract-33c5d9",
+  "reading_minutes": 1,
+  "added": "2026-10-21T18:14:39Z"
+ },
+ {
   "id": "515279e278771c0f",
   "source_url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
   "source": "TechCrunch",
