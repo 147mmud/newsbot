@@ -1,5 +1,636 @@
 [
  {
+  "id": "5970a54614a3907d",
+  "source_url": "https://www.nytimes.com/video/business/100000011216716/why-many-voters-are-unhappy-with-the-economy.html",
+  "source": "The New York Times",
+  "source_title": "Why Many Voters Are Unhappy With the Economy",
+  "source_summary": "With the midterms approaching, the economy is a top concern for voters. Our chief economic correspondent, Ben Casselman, describes which aspects of the economy have voters so frustrated.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "United States Economy",
+   "Inflation (Economics)",
+   "Wages and Salaries",
+   "Unemployment"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-22T10:30:24+00:00",
+  "headline": "Voters Express Deep Economic Frustration Ahead of Midterm Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "As the 2026 midterm elections draw near, the state of the economy has risen to the top of voters' priority lists. Across the United States, many citizens report growing dissatisfaction with various economic conditions, influencing their political outlook."
+   },
+   {
+    "type": "p",
+    "text": "Chief economic correspondent Ben Casselman notes that voters are voicing concerns about the overall health of the economy, though the article does not detail specific metrics. This broad unease is shaping public sentiment as election day approaches."
+   },
+   {
+    "type": "p",
+    "text": "The heightened focus on economic issues is expected to play a significant role in shaping campaign narratives and voter turnout, underscoring the link between economic perceptions and political behavior."
+   }
+  ],
+  "key_points": [
+   "Economic concerns are the leading issue for voters ahead of the 2026 midterms.",
+   "Chief economic correspondent Ben Casselman highlights widespread voter frustration.",
+   "The economy's perceived weakness may influence election outcomes."
+  ],
+  "meta_description": "Voters cite economic worries as a top issue before the 2026 midterm elections, according to NYT analysis.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "economy",
+   "voters",
+   "midterms",
+   "public opinion",
+   "US politics"
+  ],
+  "slug": "voters-express-deep-economic-frustration-ahead-midterm-elections-5970a5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T10:34:21Z"
+ },
+ {
+  "id": "674131ed0a655079",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo",
+  "source": "BBC News",
+  "source_title": "Two European women held captive for more than a year in Niger freed in Libya",
+  "source_summary": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa6/live/1aa67a70-1416-11f1-9120-a910fc22c6ac.jpg",
+  "published": "2026-10-22T10:26:06+00:00",
+  "headline": "Swiss and Austrian Aid Workers Freed After Year in Niger, Heading Home",
+  "body": [
+   {
+    "type": "p",
+    "text": "Two aid workers, one from Switzerland and one from Austria, have been released after more than a year of captivity in Niger. Their freedom was secured in Libya, where they were transferred before being rescued."
+   },
+   {
+    "type": "p",
+    "text": "The women, who had been working for humanitarian organisations, are scheduled to fly back to Europe on Thursday, according to reports. Their release follows diplomatic efforts by multiple governments, though the exact details of the negotiations have not been disclosed."
+   },
+   {
+    "type": "p",
+    "text": "Both survivors are expected to receive medical and psychological support upon their return, and their ordeal highlights the ongoing risks faced by aid personnel operating in volatile regions of the Sahel."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident illustrates the security challenges for Western aid workers in conflict‑prone areas, prompting renewed scrutiny of evacuation protocols."
+   }
+  ],
+  "key_points": [
+   "Swiss and Austrian aid workers were freed after over a year of captivity in Niger.",
+   "The women were rescued in Libya and will depart for Europe on Thursday.",
+   "Their release underscores the dangers confronting humanitarian staff in the Sahel."
+  ],
+  "meta_description": "Swiss and Austrian aid workers freed after a year in Niger, set to fly home Thursday, highlighting risks for humanitarian staff.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "aid workers",
+   "hostage",
+   "Niger",
+   "Switzerland",
+   "Austria",
+   "Libya"
+  ],
+  "slug": "swiss-austrian-aid-workers-freed-after-year-niger-heading-674131",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:34:25Z"
+ },
+ {
+  "id": "6e9db18e8007f6db",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o",
+  "source": "BBC News",
+  "source_title": "El Salvador's president threatens Haitian gangs over military hostages",
+  "source_summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf6c/live/575f1410-cdf0-11f1-97f7-a7674fb562de.jpg",
+  "published": "2026-10-22T10:17:48+00:00",
+  "headline": "El Salvador President Warns Haitian Gangs Over Hostage Crisis",
+  "body": [
+   {
+    "type": "p",
+    "text": "El Salvador's president has issued a direct warning to Haitian criminal groups after members of the country's military were taken hostage. The statement signals a heightened stance by the government amid concerns that the gangs could leverage the captives for political or financial gain."
+   },
+   {
+    "type": "p",
+    "text": "The alert follows the disappearance of four operatives from the so‑called Gang Suppression Force, who have been missing since Sunday. Authorities have not disclosed details about the circumstances of their disappearance or the identity of the hostage‑takers."
+   },
+   {
+    "type": "p",
+    "text": "The president's remarks underscore the administration's broader campaign against organized crime, which has included deploying security forces to confront violent groups operating within the nation."
+   }
+  ],
+  "key_points": [
+   "El Salvador's president threatened Haitian gangs after military personnel were taken hostage.",
+   "Four members of the Gang Suppression Force have been missing since Sunday."
+  ],
+  "meta_description": "El Salvador's president warns Haitian gangs after military hostages are taken; four gang suppression officers missing since Sunday.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "el-salvador",
+   "haitian-gangs",
+   "hostages",
+   "gang-suppression-force",
+   "security"
+  ],
+  "slug": "el-salvador-president-warns-haitian-gangs-over-hostage-crisis-6e9db1",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:34:45Z"
+ },
+ {
+  "id": "53cb2b970434563e",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o",
+  "source": "BBC News",
+  "source_title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+  "source_summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d2a/live/56705500-cdf5-11f1-97f7-a7674fb562de.jpg",
+  "published": "2026-10-22T10:17:26+00:00",
+  "headline": "Zoe Kleinman Warns PHP Is Cyber Equivalent of Unexploded Bomb",
+  "body": [
+   {
+    "type": "p",
+    "text": "Cyber‑security commentator Zoe Kleinman has likened the PHP programming language to an unexploded bomb, suggesting it poses a latent threat to digital infrastructure. Her remarks have sparked a dramatic, worldwide reaction across the tech community, even though no specific cyber incident has yet occurred."
+   },
+   {
+    "type": "p",
+    "text": "The comparison underscores concerns that widely used but outdated code could become a catalyst for future attacks. Kleinman's warning has prompted discussions among developers, security firms and policymakers about the need to modernise legacy systems before a potential breach materialises."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "PHP underpins many websites and online services in the US and Europe, so any vulnerability could affect a broad user base."
+   }
+  ],
+  "key_points": [
+   "Zoe Kleinman describes PHP as a cyber‑equivalent of an unexploded bomb.",
+   "Her comments have triggered a global, public response despite no actual attack.",
+   "The warning highlights risks associated with legacy web‑development code."
+  ],
+  "meta_description": "Zoe Kleinman calls PHP a cyber equivalent of an unexploded bomb, prompting global concern over legacy code risks.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "PHP",
+   "cybersecurity",
+   "Zoe Kleinman",
+   "web development",
+   "legacy code"
+  ],
+  "slug": "zoe-kleinman-warns-php-cyber-equivalent-unexploded-bomb-53cb2b",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:34:29Z"
+ },
+ {
+  "id": "c93be1dd06d2f201",
+  "source_url": "https://www.bbc.co.uk/news/articles/cr3wv99614deo",
+  "source": "BBC News",
+  "source_title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+  "source_summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8eb/live/0ca70d20-cdc2-11f1-ae0b-3f5d64e6a869.jpg",
+  "published": "2026-10-22T10:16:35+00:00",
+  "headline": "Celebrity Shark Bukangi Guided Out of Busan Canal, Still Refuses Sea Exit",
+  "body": [
+   {
+    "type": "p",
+    "text": "A shark dubbed Bukangi captured public attention after being sighted in a canal in Busan, South Korea, earlier this month. Local authorities and marine experts worked together to coax the animal out of the waterway and back toward open water."
+   },
+   {
+    "type": "p",
+    "text": "Despite the coordinated effort, Bukangi repeatedly turned away from the canal mouth, opting instead to linger in the confined space. Observers reported the shark’s reluctance to swim out to sea, prompting further attempts to guide it safely."
+   },
+   {
+    "type": "p",
+    "text": "The incident has sparked widespread discussion on social media, with many users sharing photos and videos of the unusual rescue. Officials continue to monitor the situation, hoping the shark will eventually make the transition to its natural habitat."
+   }
+  ],
+  "key_points": [
+   "Bukangi the shark became a viral sensation after being found in a Busan canal.",
+   "Authorities guided the shark out of the canal, but it repeatedly refused to enter the sea."
+  ],
+  "meta_description": "Shark Bukangi, spotted in a Busan canal, was guided out but kept refusing to swim to sea, drawing viral attention.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "shark",
+   "marine wildlife",
+   "South Korea",
+   "Busan",
+   "animal rescue"
+  ],
+  "slug": "celebrity-shark-bukangi-guided-out-busan-canal-still-refuses-c93be1",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:35:05Z"
+ },
+ {
+  "id": "5e76ea46833730ff",
+  "source_url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+  "source": "The Guardian",
+  "source_title": "Russia bombards Kyiv with missiles – hours after agreeing to resume talks with Ukraine",
+  "source_summary": "Experts say Russia is trying to destroy energy infrastructure before winter, showing US ‘appeasement and flattery’ will not achieve peace Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just hours after Vladimir Putin said he had agreed to resume trilateral negotiations after talks with the US envoy Steve Witkoff. Overnight, Moscow pounded the Ukrainian capital, killing at least two people and wounding 22, including four children. Targets included the southern bridge over the Dnipro River, civilian houses, energy infrastructure, an ambulance station, office buildings and a monastery.",
+  "source_tags": [
+   "Ukraine",
+   "Russia",
+   "Trump administration",
+   "World news",
+   "US politics",
+   "Volodymyr Zelenskyy",
+   "Vladimir Putin"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/369ecb74e3157beaae2c4399ccb4727967eafd28/413_0_6786_5429/master/6786.jpg?width=700&quality=85&auto=format&fit=max&s=db9736f24e852d6e5bad6773dd83df6b",
+  "published": "2026-10-22T10:14:23+00:00",
+  "headline": "Russia Launches Missile Barrage on Kyiv Hours After Agreeing Talks",
+  "body": [
+   {
+    "type": "p",
+    "text": "In the early hours of Thursday, Russia fired a series of ballistic missiles at Kyiv, striking a bridge over the Dnipro River, civilian homes, an ambulance station, office buildings and a monastery. The overnight assault killed at least two people and injured 22, including four children, according to local officials."
+   },
+   {
+    "type": "p",
+    "text": "The attack came just hours after President Vladimir Putin announced that Moscow had agreed to resume trilateral negotiations with Ukraine following discussions with U.S. envoy Steve Witkoff. Experts described the strike as a “demonstrative” operation aimed at crippling Ukraine’s energy infrastructure before the onset of winter."
+   },
+   {
+    "type": "p",
+    "text": "Authorities in Kyiv reported damage to power facilities and other critical services, raising concerns about the city’s ability to maintain heating and electricity supplies during the coming cold season. The timing of the bombardment underscores the fragile state of the cease‑fire talks and the ongoing volatility on the front lines."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disrupting Ukraine’s energy infrastructure ahead of winter could exacerbate humanitarian needs and complicate diplomatic efforts to de‑escalate the conflict, affecting European security and energy markets."
+   }
+  ],
+  "key_points": [
+   "Russia bombarded Kyiv with ballistic missiles, killing two and wounding 22, including children.",
+   "The strike targeted bridges, homes, energy sites and a monastery just hours after Putin pledged to resume talks with Ukraine.",
+   "Experts warn the attack aims to undermine Ukraine’s energy grid before winter, threatening civilian supplies."
+  ],
+  "meta_description": "Russia hit Kyiv with missiles, killing two and injuring 22, hours after pledging to resume talks with Ukraine, targeting energy and civilian sites.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Russia",
+   "Ukraine",
+   "Kyiv",
+   "missiles",
+   "talks",
+   "energy infrastructure"
+  ],
+  "slug": "russia-launches-missile-barrage-kyiv-hours-after-agreeing-talks-5e76ea",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:34:33Z"
+ },
+ {
+  "id": "985e951ed9a901e0",
+  "source_url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po",
+  "source": "BBC News",
+  "source_title": "'500 new vulnerabilities' found in government, says AI minister",
+  "source_summary": "'500 new vulnerabilities' found in government, says AI minister",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db54/live/d468ebc0-cdfa-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-22T10:08:44+00:00",
+  "headline": "AI Minister Reports 500 New Vulnerabilities in Government Systems",
+  "body": [
+   {
+    "type": "p",
+    "text": "The country's AI minister announced that officials have identified 500 previously unknown security flaws across government digital infrastructure. The minister said the findings highlight a significant rise in potential cyber‑risk for public services."
+   },
+   {
+    "type": "p",
+    "text": "The vulnerabilities were uncovered during recent security reviews, prompting the minister to call for immediate remedial action. Authorities are reportedly prioritising patches and stronger safeguards to protect sensitive data and maintain public trust."
+   },
+   {
+    "type": "p",
+    "text": "While the exact nature of the flaws was not disclosed, the minister emphasized that addressing them is essential to safeguard national digital assets and to prevent exploitation by malicious actors."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The scale of the vulnerabilities signals heightened cyber‑security risks for public institutions, a concern for allied nations monitoring digital threats."
+   }
+  ],
+  "key_points": [
+   "The AI minister disclosed 500 new security vulnerabilities in government systems.",
+   "Officials plan to patch the flaws promptly to protect public data.",
+   "The discovery underscores growing cyber‑security challenges for governments."
+  ],
+  "meta_description": "AI minister reveals 500 new security flaws in government systems, urging swift remediation to protect public data.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cybersecurity",
+   "government",
+   "AI minister",
+   "vulnerabilities",
+   "digital infrastructure"
+  ],
+  "slug": "ai-minister-reports-500-new-vulnerabilities-government-systems-985e95",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:34:48Z"
+ },
+ {
+  "id": "b70ec7fbe087462f",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms",
+  "source": "The Guardian",
+  "source_title": "Trump’s war and tariffs have battered Alaska. A pro-oil Democrat could flip the key Senate seat",
+  "source_summary": "Democrats believe circumstances have aligned for them to win a slew of competitive elections in the state Mary Peltola’s campaign to represent Alaska in the US Senate has taken her to parts of the massive state’s interior that are inaccessible by road and on the frontlines of the cost-of-living crisis she hopes will make her the first Democrat to win the seat in nearly two decades. She has been to towns where paper towels retail for $40, a half gallon of oat milk goes for $21 and the cost of a new freezer can be quadruple what it is in the state’s largest city, Anchorage, simply because it’s so complicated to get there. Along the Arctic Ocean, she’s heard of communities where power bills have climbed to $1,500 a month because they rely on generators for power and the Iran war has pushed the cost of diesel to new heights .",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Alaska",
+   "US Senate",
+   "Democrats",
+   "Republicans",
+   "US Congress",
+   "US news",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/5cc9ae7f74ea429f7aae117828715650c38beb39/471_0_4585_3667/master/4585.jpg?width=700&quality=85&auto=format&fit=max&s=8f31ca129f1cce1086be52459dbc076f",
+  "published": "2026-10-22T10:00:39+00:00",
+  "headline": "Alaska Senate Democrat Peltola Highlights Cost‑of‑Living Crisis",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senator‑candidate Mary Peltola has been traveling to remote Alaskan communities where basic goods are dramatically more expensive than in Anchorage. In some villages, a pack of paper towels sells for $40, a half‑gallon of oat milk costs $21, and a new freezer can be four times the price found in the state’s largest city."
+   },
+   {
+    "type": "p",
+    "text": "Peltola also reports that power bills in coastal settlements have surged to about $1,500 a month because residents rely on diesel generators. The ongoing war in Iran has driven diesel prices higher, worsening the cost‑of‑living squeeze for many Alaskans."
+   },
+   {
+    "type": "p",
+    "text": "Democrats say these conditions create a favorable environment for Peltola to become the first Democrat to win this Senate seat in nearly twenty years, potentially shifting the balance of power in the U.S. Senate."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A Democratic win would affect the partisan composition of the U.S. Senate, influencing national policy decisions."
+   }
+  ],
+  "key_points": [
+   "Remote Alaskan towns face extreme price spikes for everyday items.",
+   "Diesel‑dependent power costs have risen sharply amid the Iran war.",
+   "The economic strain could help Democrat Mary Peltola win the Senate seat."
+  ],
+  "meta_description": "Alaska Senate candidate Mary Peltola highlights soaring costs for basic goods and power, a factor that could tip the race to Democrats.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "Senate race",
+   "cost of living",
+   "Democrats",
+   "energy prices"
+  ],
+  "slug": "alaska-senate-democrat-peltola-highlights-costofliving-crisis-b70ec7",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:34:53Z"
+ },
+ {
+  "id": "52e8775d890cc5f9",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo",
+  "source": "BBC News",
+  "source_title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+  "source_summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg",
+  "published": "2026-10-22T09:37:58+00:00",
+  "headline": "Barclays Slashes 5,000 Jobs, Citing AI‑Driven 5% Workforce Cut",
+  "body": [
+   {
+    "type": "p",
+    "text": "Barclays announced it will eliminate 5,000 positions, representing roughly a 5% reduction in its global workforce. The bank said the move reflects its growing reliance on artificial intelligence to streamline operations and cut costs."
+   },
+   {
+    "type": "p",
+    "text": "The job cuts are part of a broader strategy to embed AI tools across the organisation, from customer service to back‑office processes. Barclays expects the technology to boost efficiency and allow staff to focus on higher‑value tasks."
+   },
+   {
+    "type": "p",
+    "text": "The reduction will affect employees in several regions, though the bank did not specify which divisions will see the most impact. Barclays plans to support affected workers through redeployment and training programmes where possible."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The cuts highlight how major banks in Europe and the US are turning to AI to reshape their cost structures and workforce, signalling broader industry shifts."
+   }
+  ],
+  "key_points": [
+   "Barclays is cutting 5,000 jobs, about 5% of its workforce, to increase AI use.",
+   "The bank aims to improve efficiency and shift staff toward higher‑value work.",
+   "Support measures such as redeployment and training are promised for displaced staff."
+  ],
+  "meta_description": "Barclays will cut 5,000 jobs, a 5% workforce reduction, as it expands AI use to boost efficiency.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Barclays",
+   "job cuts",
+   "artificial intelligence",
+   "banking",
+   "workforce",
+   "automation"
+  ],
+  "slug": "barclays-slashes-5-000-jobs-citing-aidriven-5-workforce-52e877",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:34:41Z"
+ },
+ {
+  "id": "12f88bc508f0a992",
+  "source_url": "https://www.nytimes.com/2026/10/22/us/politics/iowa-farmers-republicans-trump.html",
+  "source": "The New York Times",
+  "source_title": "Reliably Red Iowa in Play as Economic Woes Mount",
+  "source_summary": "The Trump administration’s policies could cost Republicans in a state that is being hit hard by expensive diesel prices and uncertainty over trade.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Agriculture and Farming",
+   "Prices (Fares, Fees and Rates)",
+   "Midterm Elections (2026)",
+   "Oil (Petroleum) and Gasoline",
+   "Economic Conditions and Trends",
+   "American Farm Bureau Federation",
+   "Republican Party",
+   "Grassley, Charles E",
+   "Hinson, Ashley (1983- )"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-iowa-econ-02-tjhl/22dc-iowa-econ-02-tjhl-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T09:03:19+00:00",
+  "headline": "Trump Policies Threaten GOP Hold in Diesel‑Strained Iowa",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republican leaders in Iowa are confronting growing political risk as the Trump administration’s economic agenda clashes with the state’s pressing challenges. Rising diesel fuel costs are squeezing farmers and transportation firms, while lingering uncertainty over trade agreements adds to the strain on the agricultural economy."
+   },
+   {
+    "type": "p",
+    "text": "Analysts warn that the combination of high fuel expenses and trade volatility could erode voter support for the GOP in a state that has long been a bellwether in national elections. The administration’s policies, critics say, may backfire by alienating key constituencies that depend on affordable energy and stable export markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Iowa’s political swing status makes its economic woes a bellwether for upcoming elections in the United States and signals potential market impacts for European agricultural trade."
+   }
+  ],
+  "key_points": [
+   "Iowa faces soaring diesel prices that burden its agricultural sector.",
+   "Trade uncertainty compounds economic pressure on the state’s voters.",
+   "Trump‑era policies risk weakening Republican electoral prospects in Iowa."
+  ],
+  "meta_description": "Rising diesel costs and trade uncertainty in Iowa could undermine Republican support amid Trump administration policies.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iowa",
+   "Republicans",
+   "diesel prices",
+   "trade policy",
+   "Trump administration"
+  ],
+  "slug": "trump-policies-threaten-gop-hold-dieselstrained-iowa-12f88b",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:35:01Z"
+ },
+ {
+  "id": "8f33aef64deab1e3",
+  "source_url": "https://www.bbc.co.uk/sport/articles/c51kdwym8ej3o",
+  "source": "BBC Sport",
+  "source_title": "Weekly sports quiz: How much was Ronaldo fined by Portugal?",
+  "source_summary": "How much attention have you paid to what's happened in the world of sport over the past seven days?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0f2/live/36505680-ccce-11f1-9a39-31b474234113.png",
+  "published": "2026-10-22T07:29:51+00:00",
+  "headline": "Weekly Sports Quiz Asks How Much Portugal Fined Ronaldo Player",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC Sport’s weekly quiz challenges readers to recall recent sports headlines, with this edition focusing on a fine imposed on football legend Cristiano Ronaldo by Portuguese authorities. The question tests how closely fans have followed developments in the sport over the past seven days."
+   },
+   {
+    "type": "p",
+    "text": "The quiz format encourages engagement by prompting participants to remember details such as the amount of the fine, the circumstances surrounding it, and any official statements released. It serves as a quick recap of notable events without providing the answer directly, inviting readers to research or recall the news themselves."
+   },
+   {
+    "type": "p",
+    "text": "While the fine itself is not detailed in the quiz prompt, the feature highlights the ongoing scrutiny of high‑profile athletes and the regulatory actions that can affect their careers. It also reflects the broader trend of sports media using interactive content to maintain audience interest."
+   }
+  ],
+  "key_points": [
+   "BBC Sport’s weekly quiz asks readers to recall the amount of a fine imposed on Cristiano Ronaldo by Portugal.",
+   "The quiz serves as a concise review of major sports stories from the past week.",
+   "Interactive quizzes are increasingly used by sports outlets to boost reader engagement."
+  ],
+  "meta_description": "BBC Sport's weekly quiz tests knowledge of the fine imposed on Cristiano Ronaldo by Portugal, summarizing recent sports headlines.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Cristiano Ronaldo",
+   "Portugal",
+   "sports quiz",
+   "football fines",
+   "BBC Sport"
+  ],
+  "slug": "weekly-sports-quiz-asks-how-much-portugal-fined-ronaldo-8f33ae",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:34:37Z"
+ },
+ {
+  "id": "fbc78c37d1ea8cc1",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cq073zrgv8vvo",
+  "source": "BBC Sport",
+  "source_title": "Leicester hit their lowest ebb - but is Martin turning things around?",
+  "source_summary": "Leicester are 10th in League One, 10 years after winning the Premier League. After hitting their lowest ebb, are there now grounds for optimism?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a01d/live/93104bb0-cd81-11f1-b1e7-39558e114359.jpg",
+  "published": "2026-10-22T06:01:48+00:00",
+  "headline": "Leicester Sit Mid‑Table in League One Ten Years After Premier League Triumph",
+  "body": [
+   {
+    "type": "p",
+    "text": "Leicester City find themselves in 10th place in England's League One, a decade after their historic Premier League title win. The club has recently endured what has been described as its \"lowest ebb,\" prompting questions about its future direction."
+   },
+   {
+    "type": "p",
+    "text": "Despite the challenging season, there are signs that manager Martin may be steering the team toward a turnaround. Observers note that the club's recent performances suggest a potential shift in momentum, though concrete results remain pending."
+   },
+   {
+    "type": "p",
+    "text": "The situation highlights the stark contrast between Leicester's past glory and its current standing, underscoring the volatility of football fortunes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Leicester's decline from champions to a mid‑table third‑tier side illustrates the unpredictable nature of football success, a narrative that resonates with fans across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Leicester City are currently 10th in League One, ten years after winning the Premier League.",
+   "The club has hit a low point this season, but there are indications of possible improvement under manager Martin."
+  ],
+  "meta_description": "Leicester City sit 10th in League One, ten years after their Premier League win, as they seek a turnaround under manager Martin.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Leicester City",
+   "League One",
+   "football",
+   "Premier League",
+   "sports management"
+  ],
+  "slug": "leicester-sit-midtable-league-one-ten-years-after-premier-fbc78c",
+  "reading_minutes": 1,
+  "added": "2026-10-22T10:34:56Z"
+ },
+ {
   "id": "f7230852bfc8cdf9",
   "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckdd8re793zdo",
   "source": "BBC Sport",
