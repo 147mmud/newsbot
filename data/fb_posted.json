@@ -3383,9 +3383,10 @@
   "ts": "2026-10-20T09:41:16Z"
  },
  "pn:12dc3546964be27c": {
-  "status": "posting",
+  "note": "Pinterest 403 on POST /pins: code=29 Apps with Trial access may not create Pins in production https://api.pinterest.com - use API Sandbox https://api-",
+  "status": "failed",
   "title": "Mortgage Rates Hover Above 7% as Home Prices Slip in Some Markets",
-  "ts": "2026-10-22T21:08:58Z"
+  "ts": "2026-10-22T21:09:01Z"
  },
  "rl:final:401915391": {
   "post_id": "1059716187099804",
