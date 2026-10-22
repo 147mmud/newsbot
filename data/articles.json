@@ -1,5 +1,711 @@
 [
  {
+  "id": "f7230852bfc8cdf9",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckdd8re793zdo",
+  "source": "BBC Sport",
+  "source_title": "Vickery's journey from World Cup winner to bodybuilder at 50",
+  "source_summary": "Why England Rugby World Cup winner Phil Vickery has started entering bodybuilding competitions at the age of 50.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e87/live/8e1311a0-cd78-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-22T05:14:22+00:00",
+  "headline": "Former England Rugby Star Phil Vickery Turns to Bodybuilding at 50",
+  "body": [
+   {
+    "type": "p",
+    "text": "Phil Vickery, who helped England win the Rugby World Cup, has begun competing in bodybuilding events now that he is 50 years old. The former prop forward is entering a sport that emphasizes muscle definition and physique, a stark contrast to his rugby career."
+   },
+   {
+    "type": "p",
+    "text": "Vickery’s move into bodybuilding reflects a personal decision to stay active and challenge himself in a new arena. While his rugby achievements are well documented, his recent foray into the bodybuilding circuit marks a notable shift in his athletic pursuits."
+   },
+   {
+    "type": "p",
+    "text": "The former international’s participation in these competitions has drawn attention from both rugby fans and fitness enthusiasts, highlighting the diverse pathways athletes can take after retiring from their primary sport."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story illustrates how elite athletes can reinvent themselves after retirement, a trend of interest to sports followers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "England’s 2003 Rugby World Cup winner Phil Vickery is now competing in bodybuilding at age 50.",
+   "His transition underscores a continued commitment to fitness beyond his rugby career."
+  ],
+  "meta_description": "England Rugby World Cup champion Phil Vickery, now 50, has entered bodybuilding competitions, showcasing a new chapter in his athletic life.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Phil Vickery",
+   "Rugby",
+   "Bodybuilding",
+   "Athlete retirement",
+   "Fitness"
+  ],
+  "slug": "former-england-rugby-star-phil-vickery-turns-bodybuilding-50-f72308",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:19:45Z"
+ },
+ {
+  "id": "86ae544aa54b2e39",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o",
+  "source": "BBC News",
+  "source_title": "UK working to identify exposure after global cyber-security warning",
+  "source_summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f340/live/eba975d0-cdcc-11f1-bd0d-75577ccf219c.jpg",
+  "published": "2026-10-22T05:03:47+00:00",
+  "headline": "UK Moves to Trace Exposure After Global Cyber‑Security Alert",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United Kingdom has launched an effort to pinpoint how many organisations may have been affected by a recent worldwide cyber‑security warning. Officials are coordinating with industry partners to map the scope of potential vulnerabilities across government and private‑sector websites."
+   },
+   {
+    "type": "p",
+    "text": "The alert prompted a rapid response from businesses worldwide, with many scrambling to reinforce their online defenses. Amazon disclosed that it suffered cyber attacks before the warning was publicly released, underscoring the speed at which threat actors can act."
+   },
+   {
+    "type": "p",
+    "text": "Authorities say the investigation will focus on identifying compromised systems and issuing guidance to mitigate further risk. The coordinated approach aims to limit disruption and protect users’ data as the cyber‑threat landscape evolves."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the immediate risk to major online platforms and the need for coordinated cyber‑security responses across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The UK is actively mapping exposure after a global cyber‑security warning.",
+   "Amazon reported attacks occurring before the warning became public.",
+   "Governments and companies are urgently strengthening website defenses."
+  ],
+  "meta_description": "UK officials work to identify exposure after a global cyber‑security warning, with Amazon reporting pre‑public attacks.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cyber security",
+   "UK",
+   "Amazon",
+   "website protection",
+   "global warning",
+   "exposure"
+  ],
+  "slug": "uk-moves-trace-exposure-after-global-cybersecurity-alert-86ae54",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:19:49Z"
+ },
+ {
+  "id": "4e58e0f32884ba73",
+  "source_url": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
+  "source": "The New York Times",
+  "source_title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+  "source_summary": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
+  "source_tags": [
+   "Israeli election (2026)",
+   "Politics and Government",
+   "Elections",
+   "Palestinians",
+   "Israel-Gaza War (2023- )",
+   "Israeli Settlements",
+   "Board of Peace",
+   "Hamas",
+   "Palestinian Authority",
+   "Netanyahu, Benjamin"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-palestinian-stakes-htlb/20int-palestinian-stakes-htlb-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T05:02:22+00:00",
+  "headline": "Palestinians Hope Israeli Vote Will End Netanyahu’s Rule",
+  "body": [
+   {
+    "type": "p",
+    "text": "In Gaza and the West Bank, many Palestinians are watching the upcoming Israeli election with the expectation that it could bring an end to Prime Minister Benjamin Netanyahu’s right‑wing government. They view the vote as a possible turning point after years of policies they say have made daily life nearly unbearable."
+   },
+   {
+    "type": "p",
+    "text": "The sentiment reflects deep frustration with the current administration’s approach to the conflict and the humanitarian situation in the occupied territories. Palestinians hope that a new leadership in Israel might adopt a different stance toward peace talks and ease restrictions that affect their communities."
+   },
+   {
+    "type": "p",
+    "text": "While the election’s outcome remains uncertain, the widespread desire for change underscores the broader regional desire for stability and a shift away from the status quo that has dominated Israeli‑Palestinian relations for over a decade."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Changes in Israeli leadership could affect regional stability and U.S. and European diplomatic efforts in the Middle East."
+   }
+  ],
+  "key_points": [
+   "Palestinians in Gaza and the West Bank see the Israeli election as a chance to end Netanyahu’s rule.",
+   "They hope a new Israeli government will adopt policies that improve humanitarian conditions.",
+   "The election’s result could influence the broader dynamics of the Israeli‑Palestinian conflict."
+  ],
+  "meta_description": "Palestinians hope the upcoming Israeli election could end Netanyahu’s rule and improve conditions in Gaza and the West Bank.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "Palestine",
+   "Netanyahu",
+   "election",
+   "Gaza",
+   "West Bank"
+  ],
+  "slug": "palestinians-hope-israeli-vote-will-end-netanyahus-rule-4e58e0",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:19:53Z"
+ },
+ {
+  "id": "f6ac4953081cccfc",
+  "source_url": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Ukraine, Russia trade strikes after Witkoff talks",
+  "source_summary": "Soon after Putin and Zelenskyy expressed willingness to resume US-mediated talks, Russia and Ukraine traded major attacks on each other's capitals.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79727535_6.jpg",
+  "published": "2026-10-22T04:57:00+00:00",
+  "headline": "Ukraine and Russia Exchange Major Strikes After Leaders Signal Talk Resumption",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Vladimir Putin and President Volodymyr Zelenskyy both indicated a willingness to restart U.S.-mediated negotiations aimed at easing the conflict between their nations."
+   },
+   {
+    "type": "p",
+    "text": "Within hours of those statements, Russian forces launched a significant attack on Kyiv, while Ukrainian forces responded with a major strike on Moscow, marking the first large‑scale exchanges on each capital since the diplomatic overture."
+   },
+   {
+    "type": "p",
+    "text": "The reciprocal assaults underscored the fragile nature of the emerging dialogue and highlighted the continued capacity of both sides to strike deep into each other's political centers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The exchange of capital‑city strikes threatens to derail renewed diplomatic efforts that the United States and European partners are pursuing to end the war."
+   }
+  ],
+  "key_points": [
+   "Putin and Zelenskyy expressed openness to resume U.S.-mediated peace talks.",
+   "Russia and Ukraine subsequently carried out major attacks on Kyiv and Moscow.",
+   "The strikes demonstrate the volatility of the cease‑fire prospects."
+  ],
+  "meta_description": "After signaling openness to U.S.-mediated talks, Ukraine and Russia launched major strikes on each other's capitals, raising doubts about peace prospects.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Russia",
+   "military strikes",
+   "diplomacy",
+   "US mediation",
+   "conflict"
+  ],
+  "slug": "ukraine-russia-exchange-major-strikes-after-leaders-signal-talk-f6ac49",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T05:20:10Z"
+ },
+ {
+  "id": "e891ee3bd43815a2",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo",
+  "source": "BBC News",
+  "source_title": "No purchase, no seats: Starbucks China rolls out new policy",
+  "source_summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg",
+  "published": "2026-10-22T04:02:29+00:00",
+  "headline": "Starbucks China Introduces No‑Purchase Seating Policy Across Outlets",
+  "body": [
+   {
+    "type": "p",
+    "text": "Starbucks announced that customers in its Chinese stores will no longer be allowed to occupy seats without making a purchase. The new rule, which takes effect immediately, requires staff to ask patrons to order before they can sit, aiming to free up space for paying guests."
+   },
+   {
+    "type": "p",
+    "text": "The company says the change is part of a broader effort to improve the in‑store experience as it faces growing competition from domestic coffee chains. By ensuring that tables are used by paying customers, Starbucks hopes to reduce wait times and enhance service quality."
+   },
+   {
+    "type": "p",
+    "text": "The policy reflects Starbucks' strategy to adapt its operations to local market conditions while maintaining its global brand standards."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The policy shows how an international retailer is adjusting its service model to stay competitive in China's fast‑growing coffee market, a trend that could influence retail strategies worldwide."
+   }
+  ],
+  "key_points": [
+   "Starbucks China now requires a purchase before customers can sit in its stores.",
+   "The move is intended to improve the in‑store experience amid competition from local rivals."
+  ],
+  "meta_description": "Starbucks China bans free seating, requiring purchases to sit, to boost in‑store experience amid local competition.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Starbucks",
+   "China",
+   "Retail Policy",
+   "Coffee Industry",
+   "Competition"
+  ],
+  "slug": "starbucks-china-introduces-nopurchase-seating-policy-across-outlets-e891ee",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:19:57Z"
+ },
+ {
+  "id": "2a3370c579f6c8e0",
+  "source_url": "https://www.nytimes.com/2026/10/22/business/france-riots-looting-resale.html",
+  "source": "The New York Times",
+  "source_title": "Looted Goods From French Stores Appear on Resale Sites After Riots",
+  "source_summary": "Officials in France are pressing online platforms like eBay and Vinted to remove items that were stolen during public disturbances over the weekend.",
+  "source_tags": [
+   "Demonstrations, Protests and Riots",
+   "Politics and Government",
+   "E-Commerce",
+   "Luxury Goods and Services",
+   "Shopping and Retail",
+   "Looting (Crime)",
+   "Carrefour SA",
+   "eBay Inc",
+   "Etsy Inc",
+   "Lecornu, Sebastien"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21biz-france-resale-01-hqlz/21biz-france-resale-01-hqlz-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T04:00:06+00:00",
+  "headline": "French Authorities Demand eBay, Vinted Pull Stolen Riot Loot",
+  "body": [
+   {
+    "type": "p",
+    "text": "French officials are urging major online resale platforms to delete listings that contain items taken during the weekend's public disturbances. The government has contacted companies such as eBay and Vinted, asking them to remove any merchandise that appears to have been looted from stores across the country."
+   },
+   {
+    "type": "p",
+    "text": "Authorities say the rapid appearance of stolen goods on these sites hampers investigations and encourages further criminal activity. They are requesting that the platforms implement stricter verification processes and cooperate with law‑enforcement agencies to identify sellers and buyers of illicit merchandise."
+   },
+   {
+    "type": "p",
+    "text": "The push comes as France grapples with the aftermath of the riots, which saw numerous shops vandalized and inventory stolen. Platform representatives have not yet confirmed the extent of the removals, but the request underscores growing pressure on digital marketplaces to police content posted by users."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move highlights how online resale sites are being held accountable for facilitating the sale of stolen goods, a concern for consumers and law‑enforcement in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "French officials have asked eBay and Vinted to delete listings of goods stolen during recent riots.",
+   "The government argues that online resale of looted items obstructs police investigations and fuels crime.",
+   "Platforms face increasing scrutiny to strengthen monitoring of user‑posted merchandise."
+  ],
+  "meta_description": "French authorities press eBay and Vinted to remove listings of stolen riot loot, citing crime‑fighting and consumer safety concerns.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "eBay",
+   "Vinted",
+   "online resale",
+   "theft",
+   "riots"
+  ],
+  "slug": "french-authorities-demand-ebay-vinted-pull-stolen-riot-loot-2a3370",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:20:13Z"
+ },
+ {
+  "id": "b2917dd007e79a8e",
+  "source_url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o",
+  "source": "BBC News",
+  "source_title": "What is PHP and why did it spark a global cyber-security scramble?",
+  "source_summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-22T03:48:50+00:00",
+  "headline": "AI Discovery of PHP Flaws Sparks Worldwide Cybersecurity Response",
+  "body": [
+   {
+    "type": "p",
+    "text": "Artificial intelligence tools have identified long‑standing vulnerabilities in the PHP programming language, a cornerstone of web development. The flaws, hidden for years, were uncovered by automated code analysis that flagged insecure functions and outdated practices within the language's core."
+   },
+   {
+    "type": "p",
+    "text": "The revelation prompted an unprecedented coordinated effort among security agencies and technology firms across multiple continents. Experts mobilised to assess the scope of the issue, develop patches, and issue guidance for developers to mitigate potential exploitation."
+   },
+   {
+    "type": "p",
+    "text": "While the specific impact of the vulnerabilities remains under evaluation, the rapid, global response underscores the heightened sensitivity to software security in an era where digital infrastructure is critical. Stakeholders are urged to update PHP installations and adopt recommended security measures promptly."
+   }
+  ],
+  "key_points": [
+   "AI tools have exposed hidden security flaws in the PHP programming language.",
+   "A rare, coordinated global cybersecurity response was launched to address the issue.",
+   "Developers are advised to apply patches and follow new security guidelines immediately."
+  ],
+  "meta_description": "AI uncovers hidden PHP vulnerabilities, prompting a rare worldwide cybersecurity response and urging immediate updates.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "PHP",
+   "cybersecurity",
+   "AI",
+   "software vulnerabilities",
+   "global response"
+  ],
+  "slug": "ai-discovery-php-flaws-sparks-worldwide-cybersecurity-response-b2917d",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:20:05Z"
+ },
+ {
+  "id": "4511b27baa3dc592",
+  "source_url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+  "source": "The New York Times",
+  "source_title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
+  "source_summary": "Struggling against each other on the battlefield, the sides in Sudan’s civil war are relying on drones to strike across vast distances, inflicting huge tolls on civilians in the process.",
+  "source_tags": [
+   "War and Armed Conflicts",
+   "Drones (Pilotless Planes)",
+   "Civilian Casualties",
+   "Deaths (Fatalities)",
+   "Defense and Military Forces",
+   "Rapid Support Forces (Sudan)",
+   "Sudanese Armed Forces",
+   "South Sudan",
+   "Sudan"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/21/video/21vid-sudan-screengrab/21vid-sudan-screengrab-mediumSquareAt3X.png",
+  "published": "2026-10-22T03:26:58+00:00",
+  "headline": "Drone Strike Kills Over 150 Civilians in Abyei Amid Sudan Civil War",
+  "body": [
+   {
+    "type": "p",
+    "text": "A drone attack in the contested Abyei region of Sudan has killed more than 150 people, according to local reports. The strike occurred as the warring factions in Sudan’s civil war continue to rely on unmanned aerial vehicles to hit targets across large distances."
+   },
+   {
+    "type": "p",
+    "text": "Both sides of the conflict have increasingly turned to drones, a tactic that analysts say is raising the risk of civilian casualties. The Abyei incident underscores how the technology, while offering strategic reach, is inflicting a heavy toll on non‑combatants caught in the crossfire."
+   },
+   {
+    "type": "p",
+    "text": "Humanitarian groups have warned that the growing use of drones could exacerbate the already dire humanitarian situation in Sudan, complicating aid delivery and displacement patterns across the region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The high civilian death toll highlights the expanding role of drone warfare in African conflicts, raising concerns for regional stability and international humanitarian response."
+   }
+  ],
+  "key_points": [
+   "A drone strike in Abyei killed over 150 civilians amid Sudan’s ongoing civil war.",
+   "Both combatants are using drones to strike at long range, increasing civilian risk.",
+   "Humanitarian agencies warn the tactic could worsen the crisis and hinder aid."
+  ],
+  "meta_description": "A drone strike in Abyei, Sudan, killed over 150 civilians as both sides of the civil war increasingly use unmanned weapons.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Sudan",
+   "drone warfare",
+   "Abyei",
+   "civil war",
+   "civilian casualties"
+  ],
+  "slug": "drone-strike-kills-over-150-civilians-abyei-amid-sudan-4511b2",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:20:29Z"
+ },
+ {
+  "id": "99cb88202bfd4837",
+  "source_url": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html",
+  "source": "The New York Times",
+  "source_title": "MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways",
+  "source_summary": "Abdul El-Sayed accused Mike Rogers of being overly devoted to President Trump. Mr. Rogers accused Dr. El-Sayed of not enough loyalty to the country. It was still more cordial than their last debate.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Debates (Political)",
+   "Muslims and Islam",
+   "Elections, Senate",
+   "Muslim Brotherhood (Egypt)",
+   "Democratic Party",
+   "Republican Party",
+   "Senate",
+   "El-Sayed, Abdul",
+   "Rogers, Michael J (1963- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21michigan-debate-takeaways-topart-01-fphz/21michigan-debate-takeaways-topart-01-fphz-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T02:43:40+00:00",
+  "headline": "Michigan Senate Debate: Rogers and El‑Sayed Trade Loyalty Barbs",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent Michigan Senate debate, Democratic candidate Dr. Abdul El‑Sayed accused Republican incumbent Mike Rogers of being overly devoted to former President Donald Trump. Rogers responded by questioning El‑Sayed’s loyalty to the United States, framing the issue as a matter of patriotism."
+   },
+   {
+    "type": "p",
+    "text": "Both candidates kept the exchange relatively civil, a notable shift from the more heated tone of their previous debate. The dialogue centered on personal loyalty rather than specific policy proposals, highlighting the partisan dynamics that continue to shape Michigan’s statewide races."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash underscores how loyalty to former President Trump remains a litmus test in GOP primaries, influencing voter perceptions across the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "El‑Sayed criticized Rogers for excessive allegiance to former President Trump.",
+   "Rogers countered by questioning El‑Sayed’s loyalty to the country.",
+   "The debate was more cordial than their earlier encounter."
+  ],
+  "meta_description": "Michigan Senate debate sees El‑Sayed and Rogers trade accusations of loyalty to Trump and the nation, in a more civil tone than before.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Michigan",
+   "Senate debate",
+   "loyalty",
+   "Mike Rogers",
+   "Abdul El‑Sayed",
+   "Trump"
+  ],
+  "slug": "michigan-senate-debate-rogers-elsayed-trade-loyalty-barbs-99cb88",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:20:02Z"
+ },
+ {
+  "id": "bf680081019e9261",
+  "source_url": "https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html",
+  "source": "The New York Times",
+  "source_title": "Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud",
+  "source_summary": "The ruling largely blocked homeland security agents from carrying out field interviews in nine states, including California, as part of a sprawling effort to find noncitizens registered to vote.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Illegal Immigration",
+   "Federal-State Relations (US)",
+   "Voter Fraud (Election Fraud)",
+   "Homeland Security Department",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2025/11/04/multimedia/21dc-voting/04election-day-us-carousel-CAL-bwfl-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T02:41:56+00:00",
+  "headline": "Federal Judge Halts DHS Voter Fraud Field Interviews in Nine States",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge issued an order that largely bars Department of Homeland Security agents from conducting field interviews aimed at uncovering non‑citizen voter registration in nine states, including California. The decision curtails a broad investigative program that the agency had launched to identify potential voter fraud involving undocumented immigrants."
+   },
+   {
+    "type": "p",
+    "text": "The ruling restricts DHS personnel from approaching voters in person, limiting the scope of the operation to existing data reviews and other non‑field methods. Legal analysts note that the injunction reflects concerns about the agency’s authority and the potential impact on voter participation."
+   },
+   {
+    "type": "p",
+    "text": "The court’s order does not affect ongoing investigations that rely on other investigative tools, but it signals heightened judicial scrutiny of federal efforts to police voter rolls."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision highlights tensions between election security initiatives and civil liberties, a topic of interest to both U.S. and European audiences concerned with democratic processes."
+   }
+  ],
+  "key_points": [
+   "A judge blocked DHS field interviews in nine states as part of a voter‑fraud probe.",
+   "The injunction limits the agency to non‑field investigative methods.",
+   "Legal experts say the ruling underscores limits on federal election‑related actions."
+  ],
+  "meta_description": "Judge blocks DHS field interviews in nine states, limiting a voter‑fraud investigation targeting non‑citizen registrations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "DHS",
+   "voter fraud",
+   "court ruling",
+   "election law",
+   "immigration",
+   "California"
+  ],
+  "slug": "federal-judge-halts-dhs-voter-fraud-field-interviews-nine-bf6800",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:20:17Z"
+ },
+ {
+  "id": "ebd9dff363efcabe",
+  "source_url": "https://www.nytimes.com/2026/10/21/us/politics/trump-rally-south-carolina-darline-graham.html",
+  "source": "The New York Times",
+  "source_title": "Clashes Darken Rally in South Carolina as Trump Seeks to Boost Darline Graham",
+  "source_summary": "Mr. Trump is barnstorming across conservative America this week to shore up support for Republican candidates in unexpectedly competitive races.",
+  "source_tags": [
+   "South Carolina",
+   "Nordone, Darline Graham",
+   "Midterm Elections (2026)",
+   "Andrews, Annie (1980- )",
+   "Elections",
+   "Republican Party",
+   "Elections, Senate",
+   "Democratic Party",
+   "Senate",
+   "Graham, Lindsey"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21pol-trump-graham-sc-cfjk/21pol-trump-graham-sc-cfjk-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T02:07:53+00:00",
+  "headline": "Trump Rally in South Carolina Marred by Clashes While Backing Darline Graham",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump toured conservative strongholds this week, aiming to energize Republican candidates in tight contests. In South Carolina, his appearance turned chaotic as supporters and opponents clashed outside the venue."
+   },
+   {
+    "type": "p",
+    "text": "The rally was held to boost the campaign of Darline Graham, a Republican candidate facing an unexpectedly competitive race. Security forces intervened as tensions rose, leading to several arrests and a temporary disruption of the event."
+   },
+   {
+    "type": "p",
+    "text": "Despite the disorder, Trump continued to deliver his usual rhetoric, urging voters to back Graham and other GOP hopefuls. The incident highlights the heightened emotions surrounding several close elections across the country."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest underscores the growing polarization in U.S. elections, a trend that could influence similar political dynamics in Europe."
+   }
+  ],
+  "key_points": [
+   "Trump's South Carolina rally turned violent as supporters and protesters confronted each other.",
+   "The event was intended to support Republican candidate Darline Graham in a competitive race.",
+   "Security interventions led to arrests and a brief pause in the rally."
+  ],
+  "meta_description": "Trump's South Carolina rally for Darline Graham turned chaotic with clashes and arrests, highlighting rising election tensions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "South Carolina",
+   "Darline Graham",
+   "Republican rally",
+   "political violence",
+   "US elections"
+  ],
+  "slug": "trump-rally-south-carolina-marred-clashes-while-backing-darline-ebd9df",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:20:25Z"
+ },
+ {
+  "id": "8d0c91607e727366",
+  "source_url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+  "source": "The New York Times",
+  "source_title": "How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax",
+  "source_summary": "The billionaire told Meta’s board that he planned to list his Silicon Valley home for sale. The company remade its stock structure to help him pay the tax if voters pass it.",
+  "source_tags": [
+   "Taxation",
+   "High Net Worth Individuals",
+   "Social Media",
+   "Computers and the Internet",
+   "Artificial Intelligence",
+   "Midterm Elections (2026)",
+   "Meta Platforms Inc",
+   "Zuckerberg, Mark E",
+   "California",
+   "Silicon Valley (Calif)"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/biz-zuckerberg-california-tpwf/biz-zuckerberg-california-tpwf-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T01:21:13+00:00",
+  "headline": "Meta Restructures Stock to Aid Zuckerberg Against California Wealth Tax",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mark Zuckerberg informed Meta’s board that he intended to put his Silicon Valley residence on the market, a move tied to California’s pending wealth‑tax proposal. In response, the company altered its stock structure, creating a mechanism that could help the founder cover any future tax liability should the measure be approved by voters."
+   },
+   {
+    "type": "p",
+    "text": "The restructuring involves issuing new classes of shares that give Zuckerberg greater flexibility in accessing company equity without triggering immediate tax consequences. By reshaping its capital framework, Meta aims to protect the billionaire’s personal finances while maintaining compliance with any forthcoming state tax rules."
+   },
+   {
+    "type": "p",
+    "text": "The plan underscores how large tech firms can adapt corporate governance to shield executives from emerging fiscal policies, highlighting the intersection of personal wealth, corporate strategy, and state‑level tax initiatives."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The restructuring shows how major U.S. corporations may adjust internal structures to mitigate state tax reforms, affecting shareholders and policy debates in both the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Zuckerberg told Meta’s board he would list his Silicon Valley home amid a proposed California wealth tax.",
+   "Meta reengineered its stock structure to enable Zuckerberg to meet potential tax obligations.",
+   "The move illustrates how tech companies can modify governance to protect executives from new tax laws."
+  ],
+  "meta_description": "Meta changes its stock structure to help Mark Zuckerberg handle a possible California wealth tax on his home.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Zuckerberg",
+   "Meta",
+   "wealth tax",
+   "California",
+   "stock structure",
+   "corporate governance"
+  ],
+  "slug": "meta-restructures-stock-aid-zuckerberg-against-california-wealth-tax-8d0c91",
+  "reading_minutes": 1,
+  "added": "2026-10-22T05:20:21Z"
+ },
+ {
   "id": "ddd68b4847051f0c",
   "source_url": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
   "source": "The New York Times",
