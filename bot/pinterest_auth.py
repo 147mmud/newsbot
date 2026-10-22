@@ -9,7 +9,7 @@ import requests
 from cryptography.fernet import Fernet
 
 APP_ID = os.environ["PINTEREST_APP_ID"]
-SECRET = os.environ["PINTEREST_APP_SECRET"]
+SECRET = "".join(os.environ["PINTEREST_APP_SECRET"].split())
 CODE = os.environ["PINTEREST_CODE"].strip()
 REDIRECT = os.getenv("PINTEREST_REDIRECT", "https://thepressandscore.com/")
 OUT = "data/pinterest_auth.enc"
@@ -19,7 +19,22 @@ def fernet():
     return Fernet(base64.urlsafe_b64encode(hashlib.sha256(SECRET.encode()).digest()))
 
 
+def check():
+    """Credential check with a dummy code: tells bad credentials (401) from a bad code (400)."""
+    import re
+    kind = "hex" if re.fullmatch(r"[0-9a-f]+", SECRET) else "alnum" if SECRET.isalnum() else "has-symbols"
+    print("secret length:", len(SECRET), "| charset:", kind, "| dashes only:", set(SECRET) <= {"-"})
+    r = requests.post("https://api.pinterest.com/v5/oauth/token", auth=(APP_ID, SECRET), timeout=30,
+                      data={"grant_type": "authorization_code", "code": "dummy", "redirect_uri": REDIRECT})
+    b = r.json() if r.content else {}
+    print("Pinterest says:", r.status_code, b.get("code"), b.get("message"))
+    print("CREDENTIALS OK" if r.status_code != 401 else "CREDENTIALS REJECTED")
+    return 0
+
+
 def main():
+    if CODE == "check":
+        return check()
     r = requests.post("https://api.pinterest.com/v5/oauth/token", auth=(APP_ID, SECRET), timeout=30,
                       data={"grant_type": "authorization_code", "code": CODE,
                             "redirect_uri": REDIRECT, "continuous_refresh": "true"})
