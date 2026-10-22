@@ -3400,9 +3400,10 @@
   "ts": "2026-10-21T17:42:30Z"
  },
  "rl:news:2026-10-22": {
-  "status": "posting",
+  "post_id": "1093635673290497",
+  "status": "posted",
   "title": "Reel today in 60 seconds",
-  "ts": "2026-10-22T19:34:47Z"
+  "ts": "2026-10-22T19:34:56Z"
  },
  "rl:today:2026-10-21": {
   "post_id": "1845309716601488",
