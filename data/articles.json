@@ -1,5 +1,672 @@
 [
  {
+  "id": "ddd68b4847051f0c",
+  "source_url": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
+  "source": "The New York Times",
+  "source_title": "Trump Asks Supreme Court to Allow Border Wall Construction in Big Bend",
+  "source_summary": "A lower court judge had halted the administration’s plan to erect hundreds of miles of barriers in the Big Bend region of Texas.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Border Barriers",
+   "Environment",
+   "Courts and the Judiciary",
+   "Federal Courts (US)",
+   "Supreme Court (US)",
+   "Cardone, Kathleen",
+   "Trump, Donald J",
+   "Big Bend National Park (Tex)",
+   "Texas"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21dc-scotus-borderwall-kwvl/21dc-scotus-borderwall-kwvl-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T00:32:22+00:00",
+  "headline": "Trump Appeals to Supreme Court to Resume Big Bend Border Wall",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump has filed a petition with the U.S. Supreme Court seeking permission to continue construction of a border wall in Texas' Big Bend region. The request follows a district court ruling that stopped the administration's plan to erect hundreds of miles of barriers across the area."
+   },
+   {
+    "type": "p",
+    "text": "The lower‑court order halted the project after environmental and land‑use concerns were raised, leaving the wall's construction in limbo. Trump's appeal argues that the halt infringes on the executive branch's authority to secure the nation's borders."
+   },
+   {
+    "type": "p",
+    "text": "If the Supreme Court grants the petition, construction could resume pending further legal review. The case highlights ongoing disputes over immigration policy and federal powers to implement large‑scale infrastructure projects along the U.S.-Mexico border."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome will affect U.S. border‑security policy and set a precedent for executive authority over large infrastructure projects, topics of interest to both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "Trump has asked the Supreme Court to overturn a district court order that stopped the Big Bend border wall.",
+   "The lower court halted the project over environmental and land‑use objections.",
+   "A Supreme Court decision could determine whether the wall can be rebuilt while legal challenges continue."
+  ],
+  "meta_description": "Trump petitions the Supreme Court to lift a court halt on the Big Bend Texas border wall, raising questions about immigration policy and executive power.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Supreme Court",
+   "border wall",
+   "Texas",
+   "immigration",
+   "legal challenge"
+  ],
+  "slug": "trump-appeals-supreme-court-resume-big-bend-border-wall-ddd68b",
+  "reading_minutes": 1,
+  "added": "2026-10-22T00:36:45Z"
+ },
+ {
+  "id": "b0a6f5fee4d80f5d",
+  "source_url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+  "source": "NPR",
+  "source_title": "Citing 'challenges,' AIPAC halts endorsements and direct contributions to candidates",
+  "source_summary": "The pro-Israel lobbying group and influential political donor announced it would no longer endorse candidates or give directly to campaigns, instead mobilizing its members to give individually.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/5568x3712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2Fe6%2F985cf07241b6ae9eb89ad92cd0a6%2Fgettyimages-1731538579.jpg",
+  "published": "2026-10-22T00:22:48+00:00",
+  "headline": "AIPAC Stops Endorsing Candidates and Direct Campaign Donations",
+  "body": [
+   {
+    "type": "p",
+    "text": "The American Israel Public Affairs Committee announced it will no longer issue candidate endorsements or make direct contributions to political campaigns. Instead, the lobbying group plans to encourage its members to donate to candidates on an individual basis."
+   },
+   {
+    "type": "p",
+    "text": "AIPAC said the shift reflects \"challenges\" it faces in the current political environment, though it did not detail specific obstacles. The organization remains active in mobilizing its membership to support pro‑Israel policies through grassroots fundraising."
+   },
+   {
+    "type": "p",
+    "text": "The change marks a significant adjustment for a group that has historically wielded considerable influence in U.S. elections through coordinated financial support and public endorsements."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "AIPAC's new strategy could alter how pro‑Israel advocacy is funded and coordinated in U.S. politics, potentially affecting election dynamics and policy influence."
+   }
+  ],
+  "key_points": [
+   "AIPAC will cease endorsing political candidates and making direct campaign contributions.",
+   "The group will rely on individual member donations to support candidates aligned with its goals."
+  ],
+  "meta_description": "AIPAC stops endorsing candidates and direct donations, shifting to member‑driven fundraising amid reported challenges.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AIPAC",
+   "campaign finance",
+   "political endorsements",
+   "U.S. elections",
+   "Israel lobbying"
+  ],
+  "slug": "aipac-stops-endorsing-candidates-direct-campaign-donations-b0a6f5",
+  "reading_minutes": 1,
+  "added": "2026-10-22T00:36:49Z"
+ },
+ {
+  "id": "a0fe527cea7c1d14",
+  "source_url": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors",
+  "source": "NPR",
+  "source_title": "The Justice Department begins notifying counties where it wants to monitor elections",
+  "source_summary": "The department has long deployed election monitors, but the Trump administration's unprecedented steps to try to wrestle control over elections have led to new concerns about DOJ monitoring this year.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6588x4394+0+0/resize/6588x4394!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2Ffd%2Fa1fa97464ee0821043d09f47e117%2Fgettyimages-2283490165.jpg",
+  "published": "2026-10-22T00:18:47+00:00",
+  "headline": "Justice Department Notifies Counties of Election Monitoring",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Justice Department has begun sending notices to county officials indicating where it intends to place election monitors this year. The practice of deploying monitors is not new, but the current round follows heightened scrutiny after actions taken by the former Trump administration to influence election administration."
+   },
+   {
+    "type": "p",
+    "text": "Officials in several states reported receiving the department’s letters, which outline the scope of monitoring and request cooperation from local election staff. The DOJ says the monitors are meant to ensure compliance with federal voting laws and to address any irregularities that may arise during the voting process."
+   },
+   {
+    "type": "p",
+    "text": "Critics argue that increased federal oversight could politicize election administration, while supporters contend that monitoring helps protect the integrity of the ballot. The department has not disclosed the total number of counties targeted or the specific criteria used to select them."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Enhanced federal monitoring could affect how elections are run in the U.S., raising questions about the balance between oversight and local autonomy that also interest European observers of democratic processes."
+   }
+  ],
+  "key_points": [
+   "The Justice Department is notifying counties about planned election monitors for the 2026 elections.",
+   "Monitoring efforts follow concerns about previous attempts by the Trump administration to alter election control."
+  ],
+  "meta_description": "The Justice Department notifies counties of election monitoring plans amid concerns over recent attempts to influence U.S. elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "justice department",
+   "election monitoring",
+   "counties",
+   "trump administration",
+   "voting integrity"
+  ],
+  "slug": "justice-department-notifies-counties-election-monitoring-a0fe52",
+  "reading_minutes": 1,
+  "added": "2026-10-22T00:37:18Z"
+ },
+ {
+  "id": "78609f95fabc3911",
+  "source_url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+  "source": "TechCrunch",
+  "source_title": "Tesla says it will start selling Cybercabs by end of year",
+  "source_summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]",
+  "source_tags": [
+   "Transportation",
+   "cybercab",
+   "Tesla"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
+  "published": "2026-10-22T00:17:54+00:00",
+  "headline": "Tesla Plans to Sell Gold‑Hued Cybercab by Year‑End Amid Safety Probe",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tesla announced on Wednesday that it intends to begin selling its Cybercab, a gold‑colored autonomous two‑seater, to customers before the close of 2026. The vehicle is notable for lacking a steering wheel and other conventional driver controls, relying entirely on self‑driving technology."
+   },
+   {
+    "type": "p",
+    "text": "The rollout was disclosed during Tesla’s third‑quarter earnings call, where Lars Moravy, the company’s vice president of engineering, said the Cybercab would be available to the public by the end of the year. He emphasized that the model is designed for short‑range urban trips and will be offered without a traditional cockpit."
+   },
+   {
+    "type": "p",
+    "text": "Federal regulators have opened an investigation to determine whether the Cybercab complies with existing vehicle safety standards. The probe focuses on the absence of manual controls and how the autonomous system meets federal safety requirements."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The launch could accelerate adoption of driverless cars in the U.S. and Europe, while regulatory scrutiny highlights ongoing safety debates around autonomous vehicles."
+   }
+  ],
+  "key_points": [
+   "Tesla aims to start selling its steering‑wheel‑free Cybercab by the end of 2026.",
+   "The gold‑hued autonomous two‑seater is under a federal safety standards investigation.",
+   "Lars Moravy announced the timeline during Tesla’s Q3 earnings call."
+  ],
+  "meta_description": "Tesla will begin selling its gold‑hued, steering‑wheel‑free Cybercab by year‑end, even as regulators examine its safety compliance.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "Cybercab",
+   "autonomous vehicles",
+   "vehicle safety",
+   "electric cars"
+  ],
+  "slug": "tesla-plans-sell-goldhued-cybercab-yearend-amid-safety-probe-78609f",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T00:36:53Z"
+ },
+ {
+  "id": "cef5d3a9072dc5b8",
+  "source_url": "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Pope Leo will not need further cancer treatment — Vatican",
+  "source_summary": "Pope Leo's lung cancer surgery last week was a success, the Vatican said. The pope broke with traditions of secrecy around papal health issues after announcing he needed surgery to remove a nodule on his lung.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79720855_6.jpg",
+  "published": "2026-10-21T23:47:00+00:00",
+  "headline": "Vatican Announces Pope Leo Will Not Need Further Cancer Treatment After Successful Lung Surgery This Week, Doctors Confirm",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Vatican said on Friday that Pope Leo’s lung cancer operation performed last week was successful and that he will not require any additional cancer treatment. The pope disclosed the need for surgery to remove a nodule from his lung, breaking with the usual secrecy surrounding papal health issues."
+   },
+   {
+    "type": "p",
+    "text": "Medical officials attached to the Vatican confirmed that the procedure went as planned and that the pope’s recovery is proceeding well. No further oncological interventions are expected, and the pontiff is expected to resume his duties shortly."
+   },
+   {
+    "type": "p",
+    "text": "The announcement marks a rare moment of openness about the health of the leader of the Catholic Church, offering reassurance to the worldwide Catholic community and to observers of the Vatican’s internal affairs."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Vatican’s transparency on the pope’s health provides reassurance to millions of Catholics and signals a shift in how the Holy See communicates medical issues."
+   }
+  ],
+  "key_points": [
+   "The Vatican reports Pope Leo’s lung cancer surgery was successful and no further treatment is needed.",
+   "The pope’s disclosure of his health condition represents a break from traditional Vatican secrecy.",
+   "Doctors say the pope is recovering and will soon return to his regular responsibilities."
+  ],
+  "meta_description": "Vatican says Pope Leo’s lung cancer surgery succeeded and no further treatment is required, highlighting new openness about papal health.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "pope",
+   "vatican",
+   "health",
+   "cancer",
+   "surgery",
+   "religion"
+  ],
+  "slug": "vatican-announces-pope-leo-will-not-need-further-cancer-cef5d3",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T00:37:06Z"
+ },
+ {
+  "id": "8d0e217e826a7d5c",
+  "source_url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+  "source": "The Verge",
+  "source_title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+  "source_summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]",
+  "source_tags": [
+   "Autonomous Cars",
+   "Electric Cars",
+   "Elon Musk",
+   "News",
+   "Tech",
+   "Tesla",
+   "Transportation"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-21T23:36:31+00:00",
+  "headline": "Tesla Announces Owners Will Be Able to Add Their Cars to Robotaxi Fleet Starting 2027 After Quarterly Earnings Call, According to VP Ashok Elluswamy",
+  "body": [
+   {
+    "type": "p",
+    "text": "During Tesla's third‑quarter earnings call, the company set a clear timeline for a long‑promised feature: owners will be able to enroll their own vehicles in Tesla's robotaxi network beginning in 2027. The announcement came from Ashok Elluswamy, Tesla's vice president for autonomous driving, who said the rollout will follow the completion of the firm's full self‑driving software updates."
+   },
+   {
+    "type": "p",
+    "text": "The new capability would let qualifying Tesla cars operate as part of the company's driverless ride‑hailing service without direct supervision, expanding the fleet beyond company‑owned vehicles. Tesla has not disclosed specific eligibility criteria, pricing, or how revenue will be shared with participating owners."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the move could accelerate the adoption of autonomous mobility and provide an additional income stream for Tesla owners, while also increasing the utilization of the company's existing vehicle base."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "If implemented, the program could reshape urban transport in the US and Europe by expanding driverless ride‑hailing options and creating a new income source for Tesla owners."
+   }
+  ],
+  "key_points": [
+   "Tesla plans to let owners add their cars to the robotaxi fleet starting in 2027.",
+   "The feature will be enabled after the rollout of full self‑driving software, according to VP Ashok Elluswamy.",
+   "The program could boost autonomous ride‑hailing capacity and offer owners new revenue opportunities."
+  ],
+  "meta_description": "Tesla says owners can join its robotaxi fleet in 2027, expanding autonomous ride‑hailing after a Q3 earnings call.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "robotaxi",
+   "autonomous driving",
+   "electric vehicles",
+   "ride-hailing"
+  ],
+  "slug": "tesla-announces-owners-will-be-able-add-their-cars-8d0e21",
+  "reading_minutes": 1,
+  "added": "2026-10-22T00:37:26Z"
+ },
+ {
+  "id": "871671182ad8cea7",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo",
+  "source": "BBC News",
+  "source_title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+  "source_summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/219e/live/8e724170-cda0-11f1-9a39-31b474234113.jpg",
+  "published": "2026-10-21T23:27:05+00:00",
+  "headline": "UK Treasury Estimates Potential Trillion‑Pound Oil Fund",
+  "body": [
+   {
+    "type": "p",
+    "text": "For the first time, the UK Treasury has released a calculation of how much wealth the country could have accumulated by channeling revenues from North Sea oil and gas into a sovereign wealth fund. The analysis suggests that, had the government set aside proceeds over the decades, the fund could be worth around one trillion pounds today."
+   },
+   {
+    "type": "p",
+    "text": "The Treasury’s estimate is based on historical production data and the price of oil at the time the resources were extracted. It does not imply that such a fund exists, but rather illustrates the scale of missed investment opportunities. Officials noted that the figure is intended to inform future fiscal strategy rather than to critique past policy decisions."
+   },
+   {
+    "type": "p",
+    "text": "The report arrives amid ongoing debates about how best to manage natural resource revenues and whether the UK should establish a formal sovereign wealth fund to support long‑term economic stability and public spending."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the scale of missed investment highlights the importance of strategic resource management for economies reliant on natural commodities."
+   }
+  ],
+  "key_points": [
+   "The UK Treasury estimates a potential trillion‑pound sovereign fund from past North Sea oil revenues.",
+   "The calculation is based on historical production and oil prices, not on an existing fund.",
+   "Officials say the figure is meant to guide future fiscal policy on resource wealth."
+  ],
+  "meta_description": "UK Treasury estimates a potential trillion‑pound fund from historic North Sea oil revenues, sparking debate on sovereign wealth strategies.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "oil",
+   "sovereign wealth",
+   "Treasury",
+   "North Sea",
+   "finance"
+  ],
+  "slug": "uk-treasury-estimates-potential-trillionpound-oil-fund-871671",
+  "reading_minutes": 1,
+  "added": "2026-10-22T00:36:57Z"
+ },
+ {
+  "id": "0254576c8f2b402d",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo",
+  "source": "BBC News",
+  "source_title": "The grads ditching the UK for a fresh start abroad",
+  "source_summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70c/live/920779f0-cd4f-11f1-a64c-550be9e3c66b.png",
+  "published": "2026-10-21T23:12:06+00:00",
+  "headline": "UK Graduates Head Abroad as Job Market Falters, Seeking Work",
+  "body": [
+   {
+    "type": "p",
+    "text": "A growing number of recent university graduates in the United Kingdom are looking beyond the country for their first jobs, a trend highlighted by a BBC report on 21 October 2026. The scarcity of graduate‑level positions at home is prompting many young adults to consider emigration as a viable alternative."
+   },
+   {
+    "type": "p",
+    "text": "The report notes that the difficulty in securing entry‑level roles is not limited to a single sector, with graduates across disciplines reporting similar challenges. As a result, destinations such as the United States, Canada, Germany and Switzerland are attracting increasing interest from UK graduates seeking better employment prospects."
+   },
+   {
+    "type": "p",
+    "text": "While the BBC article does not provide exact figures, it underscores a broader concern about the long‑term impact of this talent outflow on the UK economy. Policymakers and employers are being urged to address the shortage of suitable graduate jobs to retain young talent."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The emigration of skilled graduates could weaken the UK’s economic competitiveness, a pattern that also resonates with other European nations facing similar talent shortages."
+   }
+  ],
+  "key_points": [
+   "UK graduate job shortages are driving more young adults to consider moving abroad.",
+   "Countries like the US, Canada, Germany and Switzerland are becoming popular destinations for UK graduates.",
+   "The trend raises concerns about a potential brain drain affecting the UK’s future workforce."
+  ],
+  "meta_description": "UK graduates are increasingly looking overseas for work as domestic graduate jobs remain scarce, sparking concerns over a brain drain.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "graduates",
+   "emigration",
+   "job market",
+   "brain drain"
+  ],
+  "slug": "uk-graduates-head-abroad-job-market-falters-seeking-work-025457",
+  "reading_minutes": 1,
+  "added": "2026-10-22T00:37:10Z"
+ },
+ {
+  "id": "aee1d32d93048a1b",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ck79p7qq1q9ro",
+  "source": "BBC Sport",
+  "source_title": "Goal, assist... goal-kick - Kane underlines Ballon d'Or credentials",
+  "source_summary": "Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e3/live/3ae218f0-cda5-11f1-b680-c76e6b70601a.jpg",
+  "published": "2026-10-21T23:11:06+00:00",
+  "headline": "Kane’s Goal, Assist and Goal‑Kick Highlight Ballon d’Or Bid",
+  "body": [
+   {
+    "type": "p",
+    "text": "Harry Kane demonstrated why he is a leading contender for the Ballon d’Or after Arsenal’s 2-2 draw with Bayern Munich in the Champions League. The England striker scored, set up a teammate and even took a decisive goal‑kick, showcasing the all‑round impact that has defined his season."
+   },
+   {
+    "type": "p",
+    "text": "Teammate Declan Rice publicly backed Kane’s chances of winning the prestigious award, citing the forward’s consistent performances on the European stage. Rice’s endorsement adds weight to the growing chorus of pundits and fans who see Kane as one of the year’s standout players."
+   },
+   {
+    "type": "p",
+    "text": "Arsenal’s ability to match Bayern in Munich underscores the club’s resurgence in continental competition, while Kane’s individual contributions continue to elevate his reputation beyond the Premier League."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Ballon d’Or is football’s highest individual honor, and Kane’s form could influence both club success and the global profile of English players."
+   }
+  ],
+  "key_points": [
+   "Kane scored, assisted and delivered a key goal‑kick in Arsenal’s Champions League draw with Bayern.",
+   "England midfielder Declan Rice publicly supports Kane’s Ballon d’Or candidacy.",
+   "Arsenal’s performance signals a strong European campaign for the club."
+  ],
+  "meta_description": "Harry Kane’s goal, assist and goal‑kick in Arsenal’s draw with Bayern boost his Ballon d’Or hopes, with Declan Rice backing him.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Harry Kane",
+   "Declan Rice",
+   "Arsenal",
+   "Bayern Munich",
+   "Ballon d'Or",
+   "Champions League"
+  ],
+  "slug": "kanes-goal-assist-goalkick-highlight-ballon-dor-bid-aee1d3",
+  "reading_minutes": 1,
+  "added": "2026-10-22T00:37:01Z"
+ },
+ {
+  "id": "92b96354ba66da5a",
+  "source_url": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "German youth plan France-style mass protests",
+  "source_summary": "A youth-led movement in Germany has called for demonstrations in major cities of the country on October 31.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/67678897_6.jpg",
+  "published": "2026-10-21T23:11:00+00:00",
+  "headline": "German Youth Call for Nationwide Demonstrations on Oct. 31",
+  "body": [
+   {
+    "type": "p",
+    "text": "A youth‑led movement in Germany announced plans to stage mass protests across the country on Monday, Oct. 31. Organisers said the actions are modeled after recent large‑scale demonstrations in France and aim to draw attention to their demands in major German cities."
+   },
+   {
+    "type": "p",
+    "text": "The call for rallies was issued on Oct. 21, urging participants to gather in urban centers throughout Germany. While specific grievances were not detailed in the announcement, the movement emphasizes a broad desire for change and seeks to mobilise young people nationwide."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have been alerted to the planned demonstrations, and security preparations are expected in the affected cities. The organizers stress that the protests will be peaceful and aim to amplify the voice of German youth on the political stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The planned protests could signal rising youth activism in Germany, potentially influencing national policy debates and European political dynamics."
+   }
+  ],
+  "key_points": [
+   "German youth activists plan coordinated protests in major cities on Oct. 31.",
+   "The demonstrations are inspired by recent mass protests in France.",
+   "Organisers call for peaceful, nationwide participation to highlight youth concerns."
+  ],
+  "meta_description": "German youth plan nationwide, France‑style protests on Oct. 31, urging peaceful rallies in major cities.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Germany",
+   "Youth protests",
+   "Demonstrations",
+   "France influence",
+   "Political activism"
+  ],
+  "slug": "german-youth-call-nationwide-demonstrations-oct-31-92b963",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T00:37:21Z"
+ },
+ {
+  "id": "d3dd8e84a087f16b",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o",
+  "source": "BBC Sport",
+  "source_title": "Saka injury 'does not look good' - how will Arsenal cope?",
+  "source_summary": "Mikel Arteta says the quadriceps injury Arsenal's Bukayo Saka picked up in the Champions League draw with Bayern Munich \"does not look good at all\".",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f158/live/7c215a80-cda3-11f1-a307-df5709f146ff.jpg",
+  "published": "2026-10-21T22:51:56+00:00",
+  "headline": "Arteta Warns Saka Quadriceps Injury Threatens Arsenal’s Bayern Clash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal manager Mikel Arteta said the quadriceps injury sustained by winger Bukayo Saka during the Champions League draw against Bayern Munich \"does not look good at all.\" The setback comes as the club prepares for a crucial knockout tie with the German side."
+   },
+   {
+    "type": "p",
+    "text": "Arteta acknowledged that Saka’s absence will force the team to adjust its attacking options. He hinted that other squad members will need to step up, but offered no specifics on replacements or the expected recovery timeline."
+   },
+   {
+    "type": "p",
+    "text": "The injury raises questions about Arsenal’s ability to maintain their momentum in Europe and domestically, as the club seeks to balance a demanding schedule while competing for titles."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Arsenal is a leading Premier League club, and Saka’s fitness will influence both the Champions League campaign and the league race, topics of interest to fans across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Bukayo Saka suffered a quadriceps injury in the Champions League draw with Bayern Munich.",
+   "Arsenal manager Mikel Arteta described the injury as looking \"not good at all\" and warned it could affect the team's upcoming fixtures."
+  ],
+  "meta_description": "Arsenal manager Mikel Arteta says Bukayo Saka's quadriceps injury looks serious ahead of the Bayern Munich clash.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Bukayo Saka",
+   "Champions League",
+   "Mikel Arteta",
+   "injury"
+  ],
+  "slug": "arteta-warns-saka-quadriceps-injury-threatens-arsenals-bayern-clash-d3dd8e",
+  "reading_minutes": 1,
+  "added": "2026-10-22T00:37:13Z"
+ },
+ {
+  "id": "f721a790285bf4b9",
+  "source_url": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison",
+  "source": "NPR",
+  "source_title": "Putin releases American Stephen Hubbard from Russian prison",
+  "source_summary": "Russian President Vladimir Putin has freed another American, 74-year-old Michigan native Stephen Hubbard, from a Russian prison following a request from President Trump.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-21T22:39:19+00:00",
+  "headline": "Putin Frees 74-Year-Old Michigan Man After Trump Request From Russia",
+  "body": [
+   {
+    "type": "p",
+    "text": "Russian President Vladimir Putin ordered the release of Stephen Hubbard, a 74‑year‑old native of Michigan, from a Russian prison. The decision came after a direct request from U.S. President Donald Trump, according to the announcement."
+   },
+   {
+    "type": "p",
+    "text": "Hubbard, who had been detained in Russia, was freed and is expected to return to the United States. The release marks the latest instance of an American citizen being liberated following diplomatic intervention by the American president."
+   },
+   {
+    "type": "p",
+    "text": "The Kremlin did not provide additional details about the circumstances of Hubbard’s imprisonment or the legal process that led to his release."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The release underscores ongoing diplomatic negotiations between the United States and Russia and may influence future consular assistance cases."
+   }
+  ],
+  "key_points": [
+   "President Putin freed 74‑year‑old American Stephen Hubbard after a request from President Trump.",
+   "Hubbard, a Michigan native, had been held in a Russian prison and is now slated to return to the U.S."
+  ],
+  "meta_description": "Putin releases 74‑year‑old Michigan man Stephen Hubbard from Russian prison after a request from President Trump.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Putin",
+   "Trump",
+   "US‑Russia relations",
+   "prisoner release",
+   "Stephen Hubbard"
+  ],
+  "slug": "putin-frees-74-year-old-michigan-man-after-trump-f721a7",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T00:37:40Z"
+ },
+ {
   "id": "86bbef590f282368",
   "source_url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
   "source": "The Verge",
