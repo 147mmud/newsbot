@@ -173,6 +173,55 @@ def pins_today(ledger, t):
                and str(v.get("ts", "")).startswith(day))
 
 
+# --------------------------------------------------------------------------- score results
+MAX_SCORE_PER_DAY = int(os.getenv("PINTEREST_MAX_SCORE_PER_DAY", "3"))
+
+
+def score_pick(ledger, t):
+    """Newest finished big game not yet pinned -> dict(key, title, desc, img) or None."""
+    try:
+        from bot import scores_fb as S
+        events = []
+        for off in (-1, 0):
+            events += S.fetch_day(t + timedelta(days=off))
+    except Exception as exc:
+        log.warning("score fetch failed: %s", exc)
+        return None
+    best = None
+    for e in events:
+        key = f"pn:sc:{e['league']}:{e['id']}"
+        if key in ledger or e["state"] != "post" or not e["completed"] or S.kickoff(e) < t - timedelta(hours=11):
+            continue
+        v = S.verdict(e)
+        if not v.get("label") and not S.is_big(e):
+            continue
+        rank = e["prio"] * 2 + v["excite"] * 3
+        if not best or rank > best[0]:
+            best = (rank, e, v, key)
+    if not best:
+        return None
+    _, e, v, key = best
+    a, b = e["teams"]
+    card = S.card_final(e, v).convert("RGB").resize((1000, 1000), Image.LANCZOS)
+    img = Image.new("RGB", (1000, 1500), (11, 29, 51))
+    img.paste(card, (0, 180))
+    d = ImageDraw.Draw(img)
+    d.text((60, 70), "FULL TIME  |  " + e["label"].upper(), font=R.font(44), fill=(255, 255, 255))
+    d.text((60, 1280), f"{a['name']} {a['score']}-{b['score']} {b['name']}", font=R.font(48, serif=True), fill=(255, 255, 255))
+    d.rectangle((0, 1404, 1000, 1500), fill=(6, 13, 24, 255))
+    d.text((60, 1430), "Live scores: thepressandscore.com", font=R.font(36), fill=(255, 255, 255))
+    buf = io.BytesIO(); img.save(buf, "JPEG", quality=88)
+    title = f"{e['label']}: {a['name']} {a['score']}-{b['score']} {b['name']}"
+    desc = f"Full-time result. {title}. Live scores for every game at thepressandscore.com #{e['label'].replace(' ', '').replace('.', '')} #LiveScores #Sports"
+    return {"key": key, "title": title[:100], "desc": desc[:780], "img": buf.getvalue()}
+
+
+def score_pins_today(ledger, t):
+    day = t.strftime("%Y-%m-%d")
+    return sum(1 for k, v in ledger.items() if k.startswith("pn:sc:") and v.get("status") in ("posted", "posting")
+               and str(v.get("ts", "")).startswith(day))
+
+
 # --------------------------------------------------------------------------- main
 def run() -> int:
     t = fb.now()
@@ -190,33 +239,42 @@ def run() -> int:
     if stale and live:
         ledger = fb.push_ledger(ledger, "pinterest: park stale pins") or ledger
 
-    a = None
-    img = None
-    for _ in range(6):                                          # skip stories whose image can't be used
-        a = pick(articles, ledger, t)
-        if not a:
-            break
-        img = pin_image(a)
-        if img:
-            break
-        ledger[f"pn:{a['id']}"] = {"status": "skipped", "ts": fb.iso(t), "note": "image unusable"}
+    item = None
+    if score_pins_today(ledger, t) < MAX_SCORE_PER_DAY:
+        item = score_pick(ledger, t)
+        if item:
+            item.update(cat="sports", link=SITE + "/")
+    if not item:
         a = None
-    if not a or not img:
+        img = None
+        for _ in range(6):                                      # skip stories whose image can't be used
+            a = pick(articles, ledger, t)
+            if not a:
+                break
+            img = pin_image(a)
+            if img:
+                break
+            ledger[f"pn:{a['id']}"] = {"status": "skipped", "ts": fb.iso(t), "note": "image unusable"}
+            a = None
+        if a and img:
+            item = {"key": f"pn:{a['id']}", "title": a["headline"][:100], "desc": description(a), "img": img,
+                    "cat": a.get("category"), "link": fb.article_url(a), "alt": a["headline"][:480]}
+    if not item:
         log.info("No story to pin this run.")
         return 0
 
-    log.info("%s Pin: %s", "LIVE" if live else "PREVIEW", a["headline"])
+    key, img = item["key"], item["img"]
+    log.info("%s Pin: %s", "LIVE" if live else "PREVIEW", item["title"])
     if not live:
         OUT.mkdir(exist_ok=True)
-        p = OUT / f"pin_{a['id']}.jpg"
-        p.write_bytes(img)
-        (OUT / f"pin_{a['id']}.txt").write_text(f"{a['headline']}\n\n{description(a)}\n{fb.article_url(a)}", encoding="utf-8")
-        log.info("PREVIEW rendered %s", p.name)
+        stem = key.replace("pn:", "pin_").replace(":", "_")
+        (OUT / f"{stem}.jpg").write_bytes(img)
+        (OUT / f"{stem}.txt").write_text(f"{item['title']}\n\n{item['desc']}\n{item['link']}", encoding="utf-8")
+        log.info("PREVIEW rendered %s", stem)
         return 0
 
-    key = f"pn:{a['id']}"
-    ledger[key] = {"status": "posting", "ts": fb.iso(fb.now()), "title": a["headline"]}
-    merged = fb.push_ledger(ledger, f"pinterest: reserve {a['id']}")
+    ledger[key] = {"status": "posting", "ts": fb.iso(fb.now()), "title": item["title"]}
+    merged = fb.push_ledger(ledger, f"pinterest: reserve {key}")
     if merged is None:
         log.error("Could not push reservation; NOT pinning")
         return 1
@@ -225,20 +283,20 @@ def run() -> int:
         return 0
     try:
         token = access_token()
-        bid = board_id(token, a.get("category"))
+        bid = board_id(token, item["cat"])
         res = api("POST", "/pins", token, json={
-            "board_id": bid, "title": a["headline"][:100], "description": description(a),
-            "alt_text": a["headline"][:480], "link": fb.article_url(a),
+            "board_id": bid, "title": item["title"], "description": item["desc"],
+            "alt_text": item.get("alt", item["title"])[:480], "link": item["link"],
             "media_source": {"source_type": "image_base64", "content_type": "image/jpeg",
                              "data": base64.b64encode(img).decode()}})
         ledger[key].update(status="posted", ts=fb.iso(fb.now()), post_id=res.get("id"))
-        log.info("PINNED %s -> %s", a["headline"], res.get("id"))
+        log.info("PINNED %s -> %s", item["title"], res.get("id"))
     except Exception as exc:
         log.error("Pin failed: %s", exc)
         ledger[key].update(status="failed", ts=fb.iso(fb.now()), note=str(exc)[:150])
-        fb.push_ledger(ledger, f"pinterest: failed {a['id']}")
+        fb.push_ledger(ledger, f"pinterest: failed {key}")
         return 1
-    return 0 if fb.push_ledger(ledger, f"pinterest: pinned {a['id']}") is not None else 1
+    return 0 if fb.push_ledger(ledger, f"pinterest: pinned {key}") is not None else 1
 
 
 if __name__ == "__main__":
