@@ -1,0 +1,50 @@
+# Pinterest Pins (news story photo + headline -> link to the article).
+# Hourly, one Pin per run, max PINTEREST_MAX_PER_DAY a day. PREVIEW ONLY
+# (renders to the "pin-previews" artifact, posts nothing) until the repo
+# Variable PINTEREST_ENABLED is "true".
+name: Pins to Pinterest
+
+on:
+  schedule:
+    - cron: "27 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pinterest
+  cancel-in-progress: false
+
+jobs:
+  pins:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          sudo apt-get install -y -qq fonts-dejavu-core >/dev/null || true
+          pip install -q -r requirements.txt pillow numpy cryptography
+      - name: Pin
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          PINTEREST_ENABLED: ${{ vars.PINTEREST_ENABLED }}
+          PINTEREST_MAX_PER_DAY: ${{ vars.PINTEREST_MAX_PER_DAY || '8' }}
+          PINTEREST_APP_ID: "1627850"
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+        run: |
+          git config user.name  "newsbot"
+          git config user.email "newsbot@users.noreply.github.com"
+          python -m bot.pinterest_fb
+      - name: Keep pin previews
+        if: ${{ always() && hashFiles('pins_out/*') != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: pin-previews
+          path: pins_out/
+          retention-days: 7
