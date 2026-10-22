@@ -1,0 +1,36 @@
+# One-time: turn a Pinterest authorisation code into an encrypted refresh token.
+name: Pinterest authorise
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "Pinterest authorisation code (from the redirect URL)"
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: pinterest-auth
+jobs:
+  auth:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q requests cryptography
+      - name: Exchange code
+        env:
+          PINTEREST_APP_ID: "1627850"
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+          PINTEREST_CODE: ${{ github.event.inputs.code }}
+        run: |
+          python -m bot.pinterest_auth
+          git config user.name "newsbot"
+          git config user.email "newsbot@users.noreply.github.com"
+          git add data/pinterest_auth.enc
+          git diff --cached --quiet || git commit -q -m "pinterest: store encrypted refresh token"
+          git pull -q --rebase origin main && git push -q origin HEAD:main
