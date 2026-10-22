@@ -1,5 +1,708 @@
 [
  {
+  "id": "e1ac4e45982b8ea0",
+  "source_url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+  "source": "TechCrunch",
+  "source_title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+  "source_summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+  "source_tags": [
+   "TC",
+   "Venture",
+   "a16z"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2022/10/tc-disrupt-2022-chris-dixon-8.jpg?resize=1200,800",
+  "published": "2026-10-22T22:34:54+00:00",
+  "headline": "a16z Crypto Rebrands as a16z Frontier Amid Slowing Blockchain Investment",
+  "body": [
+   {
+    "type": "p",
+    "text": "Andreessen Horowitz’s digital‑asset division announced it will operate under the new name a16z Frontier, signaling a shift beyond pure cryptocurrency focus. The unit, led by partner Chris Dixon, said the rebrand reflects a broader mandate that includes infrastructure, decentralized finance and emerging Web3 applications."
+   },
+   {
+    "type": "p",
+    "text": "The change comes as venture capital interest in pure blockchain tokens wanes, prompting the firm to diversify its portfolio. a16z Frontier plans to back projects that address scaling, governance and real‑world use cases, according to a statement from the firm."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the move underscores a broader trend among investors to seek sustainable revenue models in the crypto space rather than speculative token bets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European investors are watching how major VC firms adapt to a cooling crypto market, which could influence funding for emerging blockchain technologies."
+   }
+  ],
+  "key_points": [
+   "Andreessen Horowitz’s crypto arm is now called a16z Frontier.",
+   "The rebrand expands the unit’s focus to include broader Web3 infrastructure.",
+   "The shift responds to a slowdown in pure blockchain investing."
+  ],
+  "meta_description": "Andreessen Horowitz renames its crypto unit a16z Frontier, broadening its focus as blockchain investing loses momentum.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Andreessen Horowitz",
+   "crypto",
+   "blockchain",
+   "venture capital",
+   "Web3",
+   "rebranding"
+  ],
+  "slug": "a16z-crypto-rebrands-a16z-frontier-amid-slowing-blockchain-investment-e1ac4e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T22:42:03Z"
+ },
+ {
+  "id": "3ea186e1302585f1",
+  "source_url": "https://www.nytimes.com/2026/10/22/us/politics/supreme-court-new-hampshire-election-student-id.html",
+  "source": "The New York Times",
+  "source_title": "Supreme Court Allows Blanket Ban on Student IDs at Polls in New Hampshire",
+  "source_summary": "The justices had been asked to weigh in on a New Hampshire directive that prevented election officials from considering student IDs to prove a voter’s identity.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Voting Rights, Registration and Requirements",
+   "Voter Fraud (Election Fraud)",
+   "Elections, Senate",
+   "Ayotte, Kelly A",
+   "New Hampshire",
+   "Supreme Court (US)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-scotus-nhvote-tcfh/00dc-scotus-nhvote-tcfh-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T22:29:45+00:00",
+  "headline": "Supreme Court Upholds New Hampshire Ban on Student IDs at Polls",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Supreme Court ruled that a New Hampshire directive prohibiting election officials from accepting student identification as proof of voter identity will remain in effect. The justices declined to overturn the state’s policy, leaving the ban in place for upcoming elections."
+   },
+   {
+    "type": "p",
+    "text": "The case arose after challenges argued that the restriction disenfranchised college students who often rely on school IDs for identification. The Court’s decision means that New Hampshire election officials will continue to require alternative forms of ID, such as driver’s licenses or government‑issued cards, when verifying voter identity."
+   },
+   {
+    "type": "p",
+    "text": "Legal observers noted that the ruling reflects the Court’s broader approach to state‑level voting regulations, though no broader national precedent was set. The decision does not address similar student‑ID policies in other states."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision influences how student voters in New Hampshire can prove identity, highlighting ongoing debates over voter‑ID requirements in the United States."
+   }
+  ],
+  "key_points": [
+   "The Supreme Court let New Hampshire’s ban on using student IDs at polls stand.",
+   "Election officials must continue to require other forms of identification for voters.",
+   "The ruling does not create a nationwide precedent on student‑ID voting rules."
+  ],
+  "meta_description": "Supreme Court lets New Hampshire's ban on student IDs at polls remain, affecting voter ID requirements for college students.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Supreme Court",
+   "New Hampshire",
+   "voter ID",
+   "student IDs",
+   "elections"
+  ],
+  "slug": "supreme-court-upholds-new-hampshire-ban-student-ids-polls-3ea186",
+  "reading_minutes": 1,
+  "added": "2026-10-22T22:42:08Z"
+ },
+ {
+  "id": "2e02815d7a083c88",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c8r4y3gpwkl2o",
+  "source": "BBC Sport",
+  "source_title": "Austin track bumps out of control - Verstappen",
+  "source_summary": "Max Verstappen says the bumps on the track that hosts this weekend's United States Grand Prix are \"unacceptable\" and \"out of control\".",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cea/live/b12772c0-ce64-11f1-80b1-4139e26f5434.jpg",
+  "published": "2026-10-22T22:28:55+00:00",
+  "headline": "Verstappen Calls US Grand Prix Track Bumps Unacceptable Ahead of Race",
+  "body": [
+   {
+    "type": "p",
+    "text": "Formula One champion Max Verstappen has criticised the condition of the circuit slated to host this weekend's United States Grand Prix, describing the surface irregularities as \"unacceptable\" and \"out of control\"."
+   },
+   {
+    "type": "p",
+    "text": "The Dutch driver highlighted the severity of the bumps, suggesting they could compromise driver safety and the overall quality of the race. His comments come as teams prepare for final practice sessions on the troubled track."
+   },
+   {
+    "type": "p",
+    "text": "Verstappen's remarks add pressure on race organizers to address the issue before qualifying and the main event, with the potential for adjustments to the track layout or additional resurfacing work."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The safety of drivers and the fairness of competition are at stake, influencing fan expectations and the event's reputation in both the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Max Verstappen labeled the bumps on the US Grand Prix circuit unacceptable.",
+   "He warned the track condition could affect driver safety and race quality.",
+   "Organisers may need to take corrective action before the weekend's sessions."
+  ],
+  "meta_description": "Max Verstappen calls the bumps on the US Grand Prix track unacceptable, urging organizers to act before the race.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula One",
+   "Max Verstappen",
+   "United States Grand Prix",
+   "track safety",
+   "motorsport"
+  ],
+  "slug": "verstappen-calls-us-grand-prix-track-bumps-unacceptable-ahead-2e0281",
+  "reading_minutes": 1,
+  "added": "2026-10-22T22:42:11Z"
+ },
+ {
+  "id": "5a16b0d720398c98",
+  "source_url": "https://www.nytimes.com/2026/10/22/us/politics/maine-aoc-jackson-collins-manchin-senate.html",
+  "source": "The New York Times",
+  "source_title": "What Dueling Visits by Ocasio-Cortez and Manchin Say About Maine’s Senate Race",
+  "source_summary": "Senator Susan Collins, a Republican in a tight race, is keying her closing pitch to the middle, while her progressive challenger, Troy Jackson, is seeking to excite the left.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Republican Party",
+   "Democratic Party",
+   "Collins, Susan M",
+   "Jackson, Troy D (1968- )",
+   "Maine"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/22/us/22pol-aoc-jackson-maine2/22pol-aoc-jackson-maine2-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T22:27:48+00:00",
+  "headline": "Ocasio‑Cortez and Manchin Spotlight Maine Senate Race Dynamics",
+  "body": [
+   {
+    "type": "p",
+    "text": "In the final stretch of Maine’s 2026 Senate contest, progressive icon Alexandria Ocasio‑Cortez and moderate Democrat Joe Manchin each made high‑profile visits to the state. Their trips underscored the national interest in a race that pits incumbent Republican Senator Susan Collins against progressive challenger Troy Jackson, a former state Senate president."
+   },
+   {
+    "type": "p",
+    "text": "Collins, whose re‑election prospects have narrowed, is centering her closing campaign on a moderate message aimed at swing voters in the state’s rural and suburban districts. Jackson, meanwhile, is seeking to energize the Democratic base by emphasizing bold progressive policies and tying his campaign to the broader left‑wing agenda championed by Ocasio‑Cortez."
+   },
+   {
+    "type": "p",
+    "text": "The contrasting approaches highlight a broader strategic divide within the Democratic Party, as the party balances the need to appeal to centrist voters in a traditionally Republican‑leaning state while also mobilizing its progressive wing ahead of the November elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Maine’s Senate seat could tip the balance of power in the U.S. Senate, making the race a focal point for both moderate and progressive factions of the Democratic Party."
+   }
+  ],
+  "key_points": [
+   "Senator Susan Collins is focusing on a centrist pitch in a tight Maine Senate race.",
+   "Progressive challenger Troy Jackson is courting the left, boosted by Ocasio‑Cortez’s visit.",
+   "Joe Manchin’s appearance signals moderate Democrats’ interest in the contest."
+  ],
+  "meta_description": "Ocasio‑Cortez and Manchin visit Maine as Senate race tightens between Republican Susan Collins and progressive Troy Jackson.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Maine",
+   "Senate race",
+   "Susan Collins",
+   "Troy Jackson",
+   "Alexandria Ocasio-Cortez",
+   "Joe Manchin"
+  ],
+  "slug": "ocasiocortez-manchin-spotlight-maine-senate-race-dynamics-5a16b0",
+  "reading_minutes": 1,
+  "added": "2026-10-22T22:42:35Z"
+ },
+ {
+  "id": "877f0dceea8eeb6d",
+  "source_url": "https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html",
+  "source": "The New York Times",
+  "source_title": "Justice Dept. Opens Inquiry Into Corey Lewandowski",
+  "source_summary": "The details of the inquiry remain unclear, but it is one of the rare instances in which a Trump ally or appointee has been investigated for potential wrongdoing during the president’s second term.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Ethics and Official Misconduct",
+   "Government Contracts and Procurement",
+   "Homeland Security Department",
+   "Daedalus Aviation Corp",
+   "Border Patrol (US)",
+   "Justice Department",
+   "Lewandowski, Corey (1975- )",
+   "Bovino, Gregory",
+   "Noem, Kristi"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21DC-Lewandowski/21dc-corey-hp-ctmj-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T22:19:57+00:00",
+  "headline": "Justice Department Launches Inquiry Into Trump Ally Corey Lewandowski",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Justice Department has opened an inquiry concerning Corey Lewandowski, a longtime associate of former President Donald Trump. The announcement was made on Tuesday, though officials did not disclose the specific allegations or the scope of the investigation."
+   },
+   {
+    "type": "p",
+    "text": "Lewandowski, who served as a senior aide and campaign manager for Trump, is among the few members of the former president’s inner circle to face a federal probe for alleged misconduct during Trump’s second term in office. The lack of detail leaves observers uncertain about the potential legal ramifications."
+   },
+   {
+    "type": "p",
+    "text": "Lawyers for Lewandowski have declined to comment, and the Justice Department has indicated that the inquiry is ongoing. The development adds to a growing list of legal challenges confronting individuals linked to the Trump administration."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The probe highlights continued legal scrutiny of former Trump officials, a development of interest to both U.S. and European audiences monitoring American political accountability."
+   }
+  ],
+  "key_points": [
+   "The Justice Department has initiated an inquiry into Corey Lewandowski, a close Trump ally.",
+   "Details of the investigation remain undisclosed, marking a rare federal probe of a Trump appointee from his second term."
+  ],
+  "meta_description": "Justice Department opens an inquiry into Trump ally Corey Lewandowski, a rare investigation of a former administration official.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Corey Lewandowski",
+   "Justice Department",
+   "Trump administration",
+   "investigation",
+   "U.S. politics"
+  ],
+  "slug": "justice-department-launches-inquiry-into-trump-ally-corey-lewandowski-877f0d",
+  "reading_minutes": 1,
+  "added": "2026-10-22T22:42:51Z"
+ },
+ {
+  "id": "80f21d241088b1fe",
+  "source_url": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
+  "source": "NPR",
+  "source_title": "What we know about war plans that Trump and Netanyahu are drawing up",
+  "source_summary": "Could the U.S. and Israel be on the verge of launching a new attack on Iran? President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-22T22:17:04+00:00",
+  "headline": "Trump and Netanyahu Discuss Possible New U.S.-Israel Attack on Iran",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have recently hinted that a coordinated military strike against Iran is being considered. Both leaders have spoken publicly about the option, suggesting that the idea is moving beyond casual discussion."
+   },
+   {
+    "type": "p",
+    "text": "The remarks come amid heightened tensions in the Middle East, with Iran's nuclear program and regional activities remaining focal points of concern for Washington and Jerusalem. While no concrete operational details have been released, the suggestion of a joint attack signals a potential shift in diplomatic and security calculations."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that any move toward direct conflict would have wide‑ranging implications for regional stability and could draw in allied nations, including the United States' European partners."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A U.S.-Israel attack on Iran could destabilize the Middle East and affect security interests of the United States and its European allies."
+   }
+  ],
+  "key_points": [
+   "Trump and Netanyahu have signaled that a U.S.-Israel strike on Iran is being weighed.",
+   "No specific plans or timelines have been disclosed, only high‑level discussion.",
+   "The prospect of such an attack raises concerns about broader regional escalation."
+  ],
+  "meta_description": "Trump and Netanyahu hint at a possible joint U.S.-Israel attack on Iran, raising concerns about regional stability.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Netanyahu",
+   "Iran",
+   "US-Israel",
+   "war plans",
+   "Middle East"
+  ],
+  "slug": "trump-netanyahu-discuss-possible-new-u-s-israel-attack-80f21d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T22:42:25Z"
+ },
+ {
+  "id": "d73c3fbf5a8b67dc",
+  "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+  "source": "TechCrunch",
+  "source_title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+  "source_summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+  "source_tags": [
+   "AI",
+   "Fundraising",
+   "Startups",
+   "In Brief",
+   "OpenAI"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+  "published": "2026-10-22T22:08:24+00:00",
+  "headline": "OpenAI Seeks $30 Billion Funding at $1.25 Trillion Valuation",
+  "body": [
+   {
+    "type": "p",
+    "text": "OpenAI is reportedly preparing a new financing round that could bring in about $30 billion, pushing the company's post‑money valuation to roughly $1.25 trillion. The fundraising effort is being positioned as a precursor to a potential initial public offering later this year."
+   },
+   {
+    "type": "p",
+    "text": "If the valuation target is achieved, OpenAI would become the most highly valued private firm in history, surpassing previous records held by tech unicorns and other high‑growth startups. Sources familiar with the plan said the capital would support continued development of its generative‑AI models and expansion of cloud‑based services."
+   },
+   {
+    "type": "p",
+    "text": "The company has not disclosed a timeline for the IPO, but analysts note that such a massive valuation underscores the intense investor appetite for artificial‑intelligence capabilities and could set a benchmark for future AI‑focused listings."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The scale of the raise highlights the growing financial clout of AI firms and may influence valuation expectations for upcoming tech IPOs in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "OpenAI aims to raise $30 billion, targeting a $1.25 trillion valuation.",
+   "The raise would make OpenAI the most valuable private company ever.",
+   "Funding is intended to fuel AI model development ahead of a planned IPO."
+  ],
+  "meta_description": "OpenAI plans a $30 billion raise that could lift its valuation to $1.25 trillion, setting a new record for private companies ahead of an IPO.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "fundraising",
+   "valuation",
+   "IPO",
+   "artificial intelligence",
+   "tech investment"
+  ],
+  "slug": "openai-seeks-30-billion-funding-1-25-trillion-valuation-d73c3f",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T22:42:31Z"
+ },
+ {
+  "id": "db55da87d9a9b7d9",
+  "source_url": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+  "source": "The Guardian",
+  "source_title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+  "source_summary": "41-year-old set on ‘dream to be able to race in Africa’ Rwanda to host despite criticism of human rights record Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s , with the seven-time world champion also stating he believes it is right that F1 is to hold a race there despite criticism of the country’s human rights record. Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s. It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993.",
+  "source_tags": [
+   "Formula One 2026",
+   "Lewis Hamilton",
+   "Ferrari",
+   "Formula One",
+   "Motor sport",
+   "Rwanda",
+   "Africa",
+   "Sport"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/6b5476a019b20a202cbcac4ee1f83d662c43506f/426_0_4263_3410/master/4263.jpg?width=700&quality=85&auto=format&fit=max&s=167eac824c2507e87cb96e58b36893ab",
+  "published": "2026-10-22T21:53:28+00:00",
+  "headline": "Lewis Hamilton Targets Early 2030s African Grand Prix in Rwanda",
+  "body": [
+   {
+    "type": "p",
+    "text": "Seven‑time world champion Lewis Hamilton said he hopes to keep racing in Formula One long enough to compete in the African Grand Prix, which is slated for the early 2030s. The British driver described the prospect of racing in Africa as a personal dream and said he believes the event belongs on the F1 calendar despite criticism of Rwanda’s human‑rights record."
+   },
+   {
+    "type": "p",
+    "text": "Formula One confirmed a ten‑year deal to host the race in Rwanda, with a purpose‑built circuit planned for Bugesera, about 25 miles south of Kigali. The track has yet to be built, and the African Grand Prix will mark the sport’s return to the continent since South Africa’s Kyalami Grand Prix in 1993."
+   },
+   {
+    "type": "p",
+    "text": "Hamilton’s comments come as the sport expands into new markets, while also drawing attention to the political context of hosting events in countries facing international scrutiny."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The new African Grand Prix expands Formula One’s global footprint and raises questions about the sport’s role in countries with contested human‑rights records, a topic of interest for Western audiences."
+   }
+  ],
+  "key_points": [
+   "Lewis Hamilton wants to stay in F1 until the early 2030s to race in Rwanda’s African Grand Prix.",
+   "F1 signed a ten‑year agreement for a new circuit in Bugesera, the first African race since 1993.",
+   "Hamilton says the race is appropriate despite concerns over Rwanda’s human‑rights record."
+  ],
+  "meta_description": "Lewis Hamilton aims to race in Rwanda’s African Grand Prix in the early 2030s, as F1 signs a ten‑year deal for a new Bugesera circuit.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Lewis Hamilton",
+   "Formula One",
+   "African Grand Prix",
+   "Rwanda",
+   "motorsport"
+  ],
+  "slug": "lewis-hamilton-targets-early-2030s-african-grand-prix-rwanda-db55da",
+  "reading_minutes": 1,
+  "added": "2026-10-22T22:42:43Z"
+ },
+ {
+  "id": "89b4cbd7a721448a",
+  "source_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+  "source": "CNBC",
+  "source_title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
+  "source_summary": "Moderna released full data on its closely watched cancer vaccine developed with Merck.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108447865-1792693574300-gettyimages-2298258077-TSCHNEIDER_73727_Moderna_P8989578.jpeg?v=1792693614&w=1920&h=1080",
+  "published": "2026-10-22T21:52:02+00:00",
+  "headline": "Moderna Shares Drop After Cancer Vaccine Data Leak Despite Positive Results",
+  "body": [
+   {
+    "type": "p",
+    "text": "Moderna's stock fell sharply after a leak of detailed data on its experimental cancer vaccine, which it developed in partnership with Merck. The leak occurred shortly after the company released the full study results to investors and the public."
+   },
+   {
+    "type": "p",
+    "text": "The data showed encouraging immune responses and safety signals, prompting optimism among analysts about the vaccine's potential. However, the unauthorized disclosure raised concerns about confidentiality and could affect future collaborations."
+   },
+   {
+    "type": "p",
+    "text": "Investors reacted to the breach by selling shares, pushing the price down despite the favorable trial outcomes. Moderna reiterated its commitment to the program and said it would continue working with Merck to advance the vaccine toward regulatory review."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the financial impact of data security breaches on biotech firms and underscores the importance of cancer vaccine developments for U.S. and European healthcare markets."
+   }
+  ],
+  "key_points": [
+   "Moderna's shares fell after a data leak on its cancer vaccine with Merck.",
+   "The vaccine trial showed positive immune response and safety results.",
+   "The leak raised concerns about data security and could impact future partnerships."
+  ],
+  "meta_description": "Moderna's stock drops after a leak of positive cancer vaccine data developed with Merck, raising security concerns.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Moderna",
+   "Merck",
+   "cancer vaccine",
+   "stock market",
+   "data leak",
+   "biotech"
+  ],
+  "slug": "moderna-shares-drop-after-cancer-vaccine-data-leak-despite-89b4cb",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T22:42:27Z"
+ },
+ {
+  "id": "4ae0c64175c61202",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cm8xz10571lro",
+  "source": "BBC Sport",
+  "source_title": "Counties interested in Anderson after Lancashire exit",
+  "source_summary": "James Anderson will have options to extend his legendary playing career after being told he will not be given a new contract by Lancashire.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e85/live/667f1180-ce5d-11f1-a166-e30097724580.jpg",
+  "published": "2026-10-22T21:47:51+00:00",
+  "headline": "James Anderson Faces New County Options After Lancashire Contract End",
+  "body": [
+   {
+    "type": "p",
+    "text": "England fast‑bowling legend James Anderson has been informed that Lancashire will not offer him a new contract, opening the door for him to consider offers from other counties."
+   },
+   {
+    "type": "p",
+    "text": "Despite the setback, Anderson's extensive experience and reputation mean several county clubs have expressed interest in adding him to their squads, giving him a chance to extend his playing career."
+   },
+   {
+    "type": "p",
+    "text": "The former England captain, who has been a mainstay of Lancashire's bowling attack for many seasons, will now evaluate his options as the domestic season approaches."
+   },
+   {
+    "type": "p",
+    "text": "County officials say they value Anderson's skill and leadership, and his potential move could influence squad dynamics across the English County Championship."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Anderson's possible move could affect the competitive balance of England's county cricket league, a sport followed by fans in the US, UK, Canada, Germany and Switzerland."
+   }
+  ],
+  "key_points": [
+   "Lancashire will not renew James Anderson's contract.",
+   "Other counties have shown interest in signing the veteran fast bowler.",
+   "Anderson could continue his playing career with a new county team."
+  ],
+  "meta_description": "James Anderson seeks a new county after Lancashire declines to renew his contract, with several clubs showing interest.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "James Anderson",
+   "Lancashire County Cricket Club",
+   "County Cricket",
+   "player transfers",
+   "English cricket"
+  ],
+  "slug": "james-anderson-faces-new-county-options-after-lancashire-contract-4ae0c6",
+  "reading_minutes": 1,
+  "added": "2026-10-22T22:42:39Z"
+ },
+ {
+  "id": "399032daa4f5fae7",
+  "source_url": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+  "source": "The New York Times",
+  "source_title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+  "source_summary": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems.",
+  "source_tags": [
+   "Computers and the Internet",
+   "Computer Security",
+   "Cyberattacks and Hackers",
+   "Artificial Intelligence",
+   "OpenAI Labs",
+   "PHP Foundation",
+   "internal-eafs"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T21:31:29+00:00",
+  "headline": "Critical PHP Flaw Forces Government and Business Sites Offline Worldwide",
+  "body": [
+   {
+    "type": "p",
+    "text": "A severe security vulnerability in PHP, the programming language that powers a large portion of the internet, has triggered a worldwide scramble to secure affected systems. The flaw, identified this week, can be exploited to compromise websites that rely on PHP for their backend operations."
+   },
+   {
+    "type": "p",
+    "text": "Government agencies and commercial enterprises across multiple continents have reported outages as they work to apply emergency patches. The rapid response reflects the language's extensive use in public‑sector portals and corporate e‑commerce platforms."
+   },
+   {
+    "type": "p",
+    "text": "Security experts warn that the issue underscores the risks of relying on widely deployed open‑source software without timely updates. Organizations are urged to audit their codebases and ensure that the latest security fixes are installed to prevent further disruptions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disruption affects essential online services in the US and Europe, emphasizing the need for robust cybersecurity practices in public and private sectors."
+   }
+  ],
+  "key_points": [
+   "A critical security flaw in PHP has caused outages on government and business websites globally.",
+   "Authorities and companies are urgently deploying patches to mitigate the vulnerability.",
+   "The incident highlights the importance of prompt updates for widely used open‑source software."
+  ],
+  "meta_description": "A critical PHP security flaw forces government and business sites offline worldwide, prompting an urgent global patch effort.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "PHP",
+   "cybersecurity",
+   "government websites",
+   "business IT",
+   "software vulnerability",
+   "global patch"
+  ],
+  "slug": "critical-php-flaw-forces-government-business-sites-offline-worldwide-399032",
+  "reading_minutes": 1,
+  "added": "2026-10-22T22:42:47Z"
+ },
+ {
+  "id": "3ad012ee8126d9a7",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo",
+  "source": "BBC Sport",
+  "source_title": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+  "source_summary": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against their European counterparts.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c2/live/fcc4e790-ce59-11f1-a166-e30097724580.jpg",
+  "published": "2026-10-22T21:30:31+00:00",
+  "headline": "Bournemouth Thrash AC Milan 3-0, Highlighting Premier League Might",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bournemouth delivered a commanding 3-0 victory over AC Milan, underscoring the gap between English clubs and many of their European rivals. The win came as part of a friendly encounter that saw the south coast side dominate proceedings from start to finish."
+   },
+   {
+    "type": "p",
+    "text": "The result adds to a growing pattern of Premier League teams outperforming continental opponents, a trend analysts have noted across recent seasons. Bournemouth's performance, marked by clinical finishing and solid defending, reinforced the perception of English clubs as the benchmark in modern football."
+   },
+   {
+    "type": "p",
+    "text": "While the match was not part of a competitive tournament, the clear superiority displayed by Bournemouth serves as a reminder of the depth and quality within the Premier League, a league that continues to attract global viewership and talent."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result illustrates why the Premier League remains a premier destination for fans and investors worldwide, reflecting its competitive edge in European football."
+   }
+  ],
+  "key_points": [
+   "Bournemouth beat AC Milan 3-0 in a friendly match.",
+   "The win highlights the ongoing dominance of Premier League clubs over many European sides."
+  ],
+  "meta_description": "Bournemouth's 3-0 triumph over AC Milan showcases Premier League dominance in European football.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bournemouth",
+   "AC Milan",
+   "Premier League",
+   "European football",
+   "football dominance"
+  ],
+  "slug": "bournemouth-thrash-ac-milan-3-0-highlighting-premier-league-3ad012",
+  "reading_minutes": 1,
+  "added": "2026-10-22T22:42:56Z"
+ },
+ {
   "id": "12dc3546964be27c",
   "source_url": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
   "source": "The New York Times",
