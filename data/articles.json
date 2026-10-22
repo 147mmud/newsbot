@@ -1,5 +1,671 @@
 [
  {
+  "id": "12dc3546964be27c",
+  "source_url": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+  "source": "The New York Times",
+  "source_title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+  "source_summary": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
+  "source_tags": [
+   "Personal Finances",
+   "Mortgages",
+   "Real Estate and Housing (Residential)",
+   "Inflation (Economics)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22Biz-Mortgage-Rates-fjpg/22Biz-Mortgage-Rates-fjpg-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T19:18:58+00:00",
+  "headline": "Mortgage Rates Hover Above 7% as Home Prices Slip in Some Markets",
+  "body": [
+   {
+    "type": "p",
+    "text": "The average 30‑year fixed‑rate mortgage edged down to 7.32 percent, according to the latest data, but it remains above the 7 percent threshold that has been challenging prospective buyers across the United States. The modest decline offers little relief to those facing steep monthly payments, keeping affordability a central concern in the housing market."
+   },
+   {
+    "type": "p",
+    "text": "Even as rates stay high, early signs show home prices beginning to ease in certain regions. Analysts note that the combination of persistent rate pressure and limited buyer purchasing power is prompting sellers to adjust asking prices, leading to modest declines in markets that previously saw rapid price gains."
+   },
+   {
+    "type": "p",
+    "text": "The trend underscores a shift from the price‑inflationary environment that dominated much of the past decade. While the overall national price level remains elevated, the emerging softness in select areas suggests that the market may be entering a more balanced phase, albeit one still constrained by costly financing."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher mortgage costs affect both U.S. homebuyers and foreign investors watching the American housing market for stable returns."
+   }
+  ],
+  "key_points": [
+   "The 30‑year fixed mortgage rate fell slightly to 7.32 percent but stays above 7 percent.",
+   "Home prices are beginning to decline in some U.S. regions as high rates curb affordability.",
+   "The market may be moving toward a more balanced state after years of price growth."
+  ],
+  "meta_description": "Mortgage rates stay above 7% while home prices start to fall in some U.S. areas, signaling a shift in the housing market.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "mortgage",
+   "home prices",
+   "housing market",
+   "interest rates",
+   "affordability"
+  ],
+  "slug": "mortgage-rates-hover-above-7-home-prices-slip-some-12dc35",
+  "reading_minutes": 1,
+  "added": "2026-10-22T19:27:36Z"
+ },
+ {
+  "id": "5077e41de5dacafa",
+  "source_url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Albania's student protests are only getting bigger",
+  "source_summary": "As police try to suppress anti-corruption protests by young Albanians, Prime Minister Edi Rama is claiming that \"antifa\" is behind the unrest. Few are buying that explanation.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79713543_6.jpg",
+  "published": "2026-10-22T19:18:00+00:00",
+  "headline": "Albanian Student Anti‑Corruption Protests Grow as Govt Blames Antifa",
+  "body": [
+   {
+    "type": "p",
+    "text": "Young Albanians have intensified anti‑corruption demonstrations in the capital, drawing larger crowds despite police attempts to disperse them. The protests, led primarily by university students, have continued for several weeks and show no sign of abating."
+   },
+   {
+    "type": "p",
+    "text": "Prime Minister Edi Rama has responded by suggesting that the unrest is being orchestrated by “antifa” groups, a claim that many observers and participants have dismissed as unfounded. Officials have increased police presence, but the demonstrators remain resolute, demanding greater transparency and accountability from the government."
+   },
+   {
+    "type": "p",
+    "text": "The government’s narrative has sparked debate on social media and among political analysts, with critics arguing that the antifa allegation is an effort to delegitimize legitimate civic activism. So far, no evidence has been presented to substantiate the claim, and the protests appear to be driven by domestic concerns over corruption rather than external agitators."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest highlights challenges to governance and rule of law in a Balkan EU candidate, raising concerns for regional stability and reform efforts."
+   }
+  ],
+  "key_points": [
+   "Student‑led anti‑corruption protests in Albania are expanding despite police crackdowns.",
+   "Prime Minister Edi Rama alleges “antifa” involvement, a claim widely questioned.",
+   "Demonstrators continue to demand greater government transparency and accountability."
+  ],
+  "meta_description": "Albanian student anti‑corruption protests swell as the prime minister blames antifa, a claim many doubt.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Albania",
+   "protests",
+   "anti-corruption",
+   "students",
+   "government",
+   "antifa"
+  ],
+  "slug": "albanian-student-anticorruption-protests-grow-govt-blames-antifa-5077e4",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T19:27:40Z"
+ },
+ {
+  "id": "f4c4b951a98804ed",
+  "source_url": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Lina Attalah: Mada Masr journalist sent for trial in Egypt",
+  "source_summary": "Lina Attalah, who is accused of managing a website without a license, will go to court next week. Mada Masr has published reporting critical of Egyptian President Abdel-Fattah el-Sissi's government.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79736755_6.jpg",
+  "published": "2026-10-22T19:17:00+00:00",
+  "headline": "Egyptian Journalist Lina Attalah Sent to Trial Over Unlicensed Site",
+  "body": [
+   {
+    "type": "p",
+    "text": "Lina Attalah, a senior reporter for the independent Egyptian outlet Mada Masr, is scheduled to appear in court next week. Authorities have charged her with managing an online news platform without the required government licence, a violation that carries potential imprisonment."
+   },
+   {
+    "type": "p",
+    "text": "Mada Masr is known for publishing investigative pieces that criticize the policies and actions of President Abdel‑Fattah el‑Sissi’s administration. The trial follows a broader pattern of legal actions against journalists and media outlets deemed hostile to the government."
+   },
+   {
+    "type": "p",
+    "text": "Human‑rights groups have warned that the case could further erode press freedom in Egypt, where journalists already face arrests, travel bans and media shutdowns. The outcome may signal the state’s willingness to use licensing laws to suppress dissenting voices."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trial highlights ongoing concerns about media repression in Egypt, a key partner in regional security and trade for the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Lina Attalah faces trial in Egypt for allegedly running an unlicensed news website.",
+   "The case is part of a wider crackdown on independent media critical of President el‑Sissi.",
+   "International observers fear the proceedings could deepen restrictions on press freedom."
+  ],
+  "meta_description": "Egyptian journalist Lina Attalah is set for trial over an unlicensed news site, raising fresh concerns about press freedom.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Egypt",
+   "press freedom",
+   "Lina Attalah",
+   "Mada Masr",
+   "trial",
+   "media repression"
+  ],
+  "slug": "egyptian-journalist-lina-attalah-sent-trial-over-unlicensed-site-f4c4b9",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T19:28:01Z"
+ },
+ {
+  "id": "b381783ff7b956c9",
+  "source_url": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
+  "source": "NPR",
+  "source_title": "Federal judge restricts DHS field operations looking for noncitizen voters",
+  "source_summary": "The judge found the department's field operations to identify noncitizens who voted likely violated the Voting Rights Act, which bars voter intimidation.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2986+0+0/resize/4800x2986!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F62%2F92593bf2437cb45b7aa4fd9393d3%2Fgettyimages-2278767542.jpg",
+  "published": "2026-10-22T19:16:20+00:00",
+  "headline": "Federal Judge Limits DHS Voter‑Intimidation Field Operations",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge has ordered the Department of Homeland Security to scale back its field operations that aimed to identify noncitizens who may have voted. The ruling says the program likely violated the Voting Rights Act, which prohibits voter intimidation and coercion."
+   },
+   {
+    "type": "p",
+    "text": "The judge’s decision was based on evidence that DHS agents were conducting door‑to‑door inquiries and other outreach in ways that could chill lawful voting. The court noted that the agency’s tactics were not narrowly tailored to address any proven fraud and therefore ran afoul of federal law."
+   },
+   {
+    "type": "p",
+    "text": "The order does not completely halt DHS involvement in election‑related matters, but it requires the department to revise its methods to ensure compliance with the Voting Rights Act. Officials from DHS have indicated they will review the court’s findings and adjust their approach accordingly."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision underscores U.S. legal protections against voter intimidation and may influence how government agencies conduct election‑related outreach worldwide."
+   }
+  ],
+  "key_points": [
+   "A federal judge found DHS’s voter‑intimidation program likely violated the Voting Rights Act.",
+   "The ruling requires the department to modify its field operations to avoid chilling lawful voting.",
+   "DHS will reassess its election‑related activities to comply with the court’s order."
+  ],
+  "meta_description": "Judge rules DHS voter‑intimidation efforts likely breach the Voting Rights Act, ordering the agency to curb its field operations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "DHS",
+   "Voting Rights Act",
+   "noncitizen voting",
+   "court ruling",
+   "voter intimidation"
+  ],
+  "slug": "federal-judge-limits-dhs-voterintimidation-field-operations-b38178",
+  "reading_minutes": 1,
+  "added": "2026-10-22T19:27:43Z"
+ },
+ {
+  "id": "1b0ac5d8afd08637",
+  "source_url": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
+  "source": "The Verge",
+  "source_title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
+  "source_summary": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024. But this week, Bhatt did something unexpected: He voted […]",
+  "source_tags": [
+   "Policy",
+   "Politics",
+   "Report",
+   "Social Media",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-22T19:15:00+00:00",
+  "headline": "Republican Embrace of Anti-Indian Racism Hurts GOP Vote Totals",
+  "body": [
+   {
+    "type": "p",
+    "text": "University of Houston student Vasant Bhatt spent the 2024 election cycle canvassing for Sen. Ted Cruz and organizing support for Donald Trump, celebrating the Republican victories that year. Bhatt’s activism reflected a broader GOP strategy that, according to the source, has increasingly incorporated anti-Indian rhetoric."
+   },
+   {
+    "type": "p",
+    "text": "Recent reporting indicates that this turn toward anti-Indian sentiment is now costing Republican candidates votes, as Indian-American voters react against the hostility. Bhatt’s recent, unexpected decision to cast his ballot in a way that diverges from his earlier support underscores the shifting political calculations among this demographic."
+   },
+   {
+    "type": "p",
+    "text": "The article suggests that the Republican embrace of such racism is creating a backlash that could influence future elections, especially in districts with sizable South Asian populations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trend signals a potential loss of support for the GOP among a growing, influential voter group in the United States and Europe’s multicultural democracies."
+   }
+  ],
+  "key_points": [
+   "Republican politicians have adopted anti-Indian rhetoric, prompting voter backlash.",
+   "The shift is reported to be reducing GOP vote totals among Indian-American voters.",
+   "Former GOP activist Vasant Bhatt’s recent voting choice highlights the changing sentiment."
+  ],
+  "meta_description": "Anti-Indian racism embraced by Republicans is hurting their vote totals, as highlighted by a former activist's changed voting behavior.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Republican Party",
+   "Indian-American voters",
+   "racial politics",
+   "election 2024",
+   "Ted Cruz",
+   "Donald Trump"
+  ],
+  "slug": "republican-embrace-anti-indian-racism-hurts-gop-vote-totals-1b0ac5",
+  "reading_minutes": 1,
+  "added": "2026-10-22T19:27:48Z"
+ },
+ {
+  "id": "45513dc416eab529",
+  "source_url": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+  "source": "The Verge",
+  "source_title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+  "source_summary": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently switching to daylight saving this […]",
+  "source_tags": [
+   "Android",
+   "Google",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-22T19:13:42+00:00",
+  "headline": "Google Urges Android Users to Update Amid Canada’s Permanent Daylight Saving Shift",
+  "body": [
+   {
+    "type": "p",
+    "text": "Google has issued a notification urging Android device owners to install the latest software update after British Columbia and Manitoba announced they will remain on daylight saving time year‑round. The update is intended to ensure devices correctly display local time and schedule events under the new permanent‑DST arrangement."
+   },
+   {
+    "type": "p",
+    "text": "The move comes as the United States House of Representatives advanced the Sunshine Protection Act in July, a bill that could eventually make daylight saving time permanent across the country. While the legislation has not yet become law, the Canadian provinces’ decision highlights potential timing challenges for cross‑border digital services."
+   },
+   {
+    "type": "p",
+    "text": "Google’s advisory notes that the update will adjust time‑zone data and calendar functions to reflect the permanent‑DST status, preventing mismatches that could affect appointments, alarms, and app notifications for users in the affected regions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Accurate timekeeping is essential for personal scheduling and business operations, especially as North America debates permanent daylight saving time."
+   }
+  ],
+  "key_points": [
+   "Google prompts Android users to update software after BC and Manitoba adopt permanent daylight saving time.",
+   "The update fixes time‑zone data to keep calendars and notifications accurate under the new schedule.",
+   "US lawmakers are considering a similar permanent‑DST shift, which could create broader timing issues."
+  ],
+  "meta_description": "Google asks Android users to update software after parts of Canada adopt permanent daylight saving time, ensuring accurate time displays.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Android",
+   "daylight saving time",
+   "time zone update",
+   "Canada",
+   "US legislation"
+  ],
+  "slug": "google-urges-android-users-update-amid-canadas-permanent-daylight-45513d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T19:28:04Z"
+ },
+ {
+  "id": "bf0719f7efa21e5b",
+  "source_url": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
+  "source": "The New York Times",
+  "source_title": "In the Wake of Riots, the French Authorities Ban Some Protests",
+  "source_summary": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
+  "source_tags": [
+   "Demonstrations, Protests and Riots",
+   "Politics and Government",
+   "Macron, Emmanuel (1977- )",
+   "Louvre Museum",
+   "France",
+   "Melenchon, Jean-Luc",
+   "Le Pen, Marine",
+   "Lecornu, Sebastien"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22int-france-protests-qzmc/22int-france-protests-qzmc-mediumSquareAt3X-v2.jpg",
+  "published": "2026-10-22T19:02:04+00:00",
+  "headline": "France Bans Certain Protests After Recent Riots, Macron Says Calm Needed",
+  "body": [
+   {
+    "type": "p",
+    "text": "The French government announced a ban on some public demonstrations following a series of riots, according to officials. President Emmanuel Macron stated the restriction is required \"so that calm prevails\" amid the unrest."
+   },
+   {
+    "type": "p",
+    "text": "The decision targets specific protest activities, though details on which gatherings are affected were not disclosed in the announcement. Authorities indicated the measure aims to prevent further disturbances and maintain public order."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move reflects France's approach to balancing civil liberties with public safety, a topic of interest for European and North American audiences monitoring democratic responses to unrest."
+   }
+  ],
+  "key_points": [
+   "France imposes a ban on certain protests after recent riots.",
+   "President Macron says the ban is needed to ensure calm."
+  ],
+  "meta_description": "France bans specific protests after riots, with President Macron saying the step is needed for calm.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "riots",
+   "Emmanuel Macron",
+   "public order"
+  ],
+  "slug": "france-bans-certain-protests-after-recent-riots-macron-says-bf0719",
+  "reading_minutes": 1,
+  "added": "2026-10-22T19:28:15Z"
+ },
+ {
+  "id": "6e3c722eeabe4cdd",
+  "source_url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+  "source": "CNBC",
+  "source_title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+  "source_summary": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/107369751-1707244053108-gettyimages-1653048097-MJP_Taco_Bell_20230821_7844_SOPA.jpeg?v=1707244711&w=1920&h=1080",
+  "published": "2026-10-22T18:51:44+00:00",
+  "headline": "Pepsi Secures New Deal With Taco Bell After KFC Switches to Coke",
+  "body": [
+   {
+    "type": "p",
+    "text": "PepsiCo announced it has renewed its beverage supply contract with Taco Bell, keeping the fast‑food chain as a long‑time partner. The agreement was confirmed just days after KFC, a sister brand under Yum! Brands, announced a shift to Coca‑Cola for its U.S. locations."
+   },
+   {
+    "type": "p",
+    "text": "The renewed deal ensures that Taco Bell will continue to serve Pepsi‑branded sodas and other drinks across its U.S. restaurants. KFC’s move to Coke highlights a broader trend of beverage suppliers competing for placement in major quick‑service chains."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that such supplier switches can affect market share for the two soda giants, as well as influence promotional strategies and pricing within the fast‑food sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The contracts illustrate the ongoing competition between PepsiCo and Coca‑Cola for shelf space in major U.S. restaurant chains, which can impact pricing and product availability for consumers."
+   }
+  ],
+  "key_points": [
+   "PepsiCo has renewed its supply contract with Taco Bell, maintaining the partnership.",
+   "KFC recently changed its U.S. beverage supplier to Coca‑Cola, signaling a shift in the fast‑food beverage landscape."
+  ],
+  "meta_description": "PepsiCo renews its contract with Taco Bell as KFC switches to Coca‑Cola, underscoring the rivalry between the two soda giants in the fast‑food market.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "PepsiCo",
+   "Taco Bell",
+   "KFC",
+   "Coca-Cola",
+   "beverage contracts",
+   "fast food"
+  ],
+  "slug": "pepsi-secures-new-deal-with-taco-bell-after-kfc-6e3c72",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-22T19:27:58Z"
+ },
+ {
+  "id": "66b4937e7e1c582f",
+  "source_url": "https://www.nytimes.com/2026/10/22/us/politics/hakeem-jeffries-hudson-valley-campaign-midterms.html",
+  "source": "The New York Times",
+  "source_title": "Hakeem Jeffries Launches Final Midterm Sprint for House Majority",
+  "source_summary": "The minority leader plans to kick off campaigning in a Hudson Valley, New York, district that is one of the most competitive in the country.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Elections, House of Representatives",
+   "House of Representatives",
+   "Democratic Party",
+   "Republican Party",
+   "Conley, Cait",
+   "Jeffries, Hakeem",
+   "Lawler, Mike (1986- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-jeffries-01-fchl/22dc-jeffries-01-fchl-mediumSquareAt3X.jpg",
+  "published": "2026-10-22T18:49:51+00:00",
+  "headline": "Hakeem Jeffries Launches Final Midterm Sprint for House Majority",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a developing political story, The New York Times reports:"
+   },
+   {
+    "type": "quote",
+    "text": "The minority leader plans to kick off campaigning in a Hudson Valley, New York, district that is one of the most competitive in the country.",
+    "cite": "The New York Times"
+   }
+  ],
+  "key_points": [],
+  "meta_description": "The minority leader plans to kick off campaigning in a Hudson Valley, New York, district that is one of the most competitive in the country.",
+  "category": "politics",
+  "mode": "offline",
+  "index": false,
+  "tags": [
+   "Midterm Elections (2026)",
+   "House of Representatives",
+   "Democratic Party",
+   "Republican Party",
+   "Conley, Cait",
+   "Jeffries, Hakeem",
+   "Lawler, Mike (1986- )",
+   "Hakeem Jeffries Launches"
+  ],
+  "slug": "hakeem-jeffries-launches-final-midterm-sprint-house-majority-66b493",
+  "reading_minutes": 1,
+  "added": "2026-10-22T19:28:20Z"
+ },
+ {
+  "id": "cb64df832b58d1f4",
+  "source_url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno",
+  "source": "BBC News",
+  "source_title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+  "source_summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
+  "published": "2026-10-22T18:26:56+00:00",
+  "headline": "Zuckerberg Secures Meta Deal to Cover Potential California Billionaire Tax",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mark Zuckerberg has reached an agreement with California officials that would see Meta contribute to any future billionaire wealth tax the state may implement. The deal aims to offset the financial impact on the Facebook founder should the tax become law."
+   },
+   {
+    "type": "p",
+    "text": "Zuckerberg previously warned he would leave California if the wealth tax were enacted, but the new arrangement offers a compromise that keeps him and Meta in the state while addressing tax concerns."
+   },
+   {
+    "type": "p",
+    "text": "The agreement does not specify the amount Meta would pay, and the proposed tax has not yet been enacted. Officials said the deal reflects a collaborative approach to potential fiscal changes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The settlement highlights how tech leaders and state governments negotiate tax policies that could affect large corporations and local economies."
+   }
+  ],
+  "key_points": [
+   "Zuckerberg negotiated a deal for Meta to help cover a possible California billionaire tax.",
+   "The billionaire tax has not been enacted, and the agreement avoids a potential exodus from the state.",
+   "Details of the payment amount remain undisclosed."
+  ],
+  "meta_description": "Zuckerberg reaches a deal for Meta to help pay a possible California billionaire tax, avoiding a planned exit from the state.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mark Zuckerberg",
+   "Meta",
+   "California tax",
+   "wealth tax",
+   "tech industry",
+   "state policy"
+  ],
+  "slug": "zuckerberg-secures-meta-deal-cover-potential-california-billionaire-tax-cb64df",
+  "reading_minutes": 1,
+  "added": "2026-10-22T19:28:12Z"
+ },
+ {
+  "id": "7adabf8857b29b63",
+  "source_url": "https://www.bbc.co.uk/sport/boxing/articles/c34g1wenzg9jo",
+  "source": "BBC Sport",
+  "source_title": "Cordina agrees terms to fight Pacquiao, 47, on Fury-Joshua card",
+  "source_summary": "Promoter Eddie Hearn says former world champion Joe Cordina has agreed terms to face boxing great Manny Pacquiao on the Tyson Fury-Anthony Joshua undercard.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91f7/live/153113d0-ce41-11f1-9a39-31b474234113.png",
+  "published": "2026-10-22T18:04:02+00:00",
+  "headline": "Joe Cordina to Fight Manny Pacquiao on Fury-Joshua Undercard",
+  "body": [
+   {
+    "type": "p",
+    "text": "Promoter Eddie Hearn announced that former world champion Joe Cordina has reached an agreement to fight boxing legend Manny Pacquiao. The bout is slated for the undercard of the upcoming heavyweight clash between Tyson Fury and Anthony Joshua."
+   },
+   {
+    "type": "p",
+    "text": "Pacquiao, now 47 years old, will step into the ring against Cordina, who is seeking to add a high‑profile opponent to his résumé. Hearn confirmed the terms have been settled, but no further details about the fight date or venue were provided."
+   },
+   {
+    "type": "p",
+    "text": "The pairing places a seasoned former champion against one of the sport’s most celebrated figures, creating a notable attraction for fans attending the Fury‑Joshua event."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The fight adds a marquee name to a major heavyweight event, drawing interest from U.S. and European boxing audiences."
+   }
+  ],
+  "key_points": [
+   "Joe Cordina has agreed to fight Manny Pacquiao on the Fury‑Joshua undercard.",
+   "Promoter Eddie Hearn confirmed the terms are settled for the bout.",
+   "Pacquiao will be 47 years old when he steps into the ring against Cordina."
+  ],
+  "meta_description": "Joe Cordina will face 47‑year‑old Manny Pacquiao on the Tyson Fury‑Anthony Joshua undercard, promoter Eddie Hearn says.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "boxing",
+   "Manny Pacquiao",
+   "Joe Cordina",
+   "Eddie Hearn",
+   "Fury-Joshua",
+   "undercard"
+  ],
+  "slug": "joe-cordina-fight-manny-pacquiao-fury-joshua-undercard-7adabf",
+  "reading_minutes": 1,
+  "added": "2026-10-22T19:27:52Z"
+ },
+ {
+  "id": "9db9257d95cfe641",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cmd93kw9q5v3o",
+  "source": "BBC Sport",
+  "source_title": "Brook underlines status as world's best all-format batter in remarkable defeat",
+  "source_summary": "Once the disappointment of defeat dissipates, Harry Brook can reflect on another starring role with the bat which underlines his status as the world's best all-format batter, says Stephan Shemilt.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f1b/live/aad157e0-ce39-11f1-a86f-f78305ec9987.jpg",
+  "published": "2026-10-22T17:52:45+00:00",
+  "headline": "Harry Brook’s Batting Masterclass Reinforces Claim as Top All‑Format Batter",
+  "body": [
+   {
+    "type": "p",
+    "text": "Harry Brook delivered a standout batting performance in his latest match, prompting cricket analyst Stephan Shemilt to describe the innings as further proof of Brook’s standing as the world’s premier all‑format batter. The innings, described as a \"remarkable defeat\" for the opposition, highlighted Brook’s ability to dominate across formats."
+   },
+   {
+    "type": "p",
+    "text": "Shemilt’s assessment follows Brook’s consistent run‑scoring record, which has seen him excel in Tests, One‑Day Internationals and Twenty‑20 matches. The commentator noted that the quality of Brook’s stroke play and his composure under pressure set him apart from his peers."
+   },
+   {
+    "type": "p",
+    "text": "While the specific match details were not disclosed, the emphasis on Brook’s performance underscores his rising profile in international cricket and the growing interest in players who can adapt seamlessly between the sport’s varied formats."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Brook’s emergence as a dominant all‑format player highlights the evolving talent pool in cricket, a sport with a growing fan base in the US, UK, Canada, Germany and Switzerland."
+   }
+  ],
+  "key_points": [
+   "Harry Brook’s recent innings was hailed as evidence of his status as the leading all‑format batter.",
+   "Analyst Stephan Shemilt praised Brook’s versatility and impact across cricket formats."
+  ],
+  "meta_description": "Harry Brook’s latest batting display cements his reputation as the world’s top all‑format batter, according to analyst Stephan Shemilt.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Harry Brook",
+   "cricket",
+   "batting",
+   "all-format player",
+   "Stephan Shemilt"
+  ],
+  "slug": "harry-brooks-batting-masterclass-reinforces-claim-top-allformat-batter-9db925",
+  "reading_minutes": 1,
+  "added": "2026-10-22T19:28:08Z"
+ },
+ {
   "id": "914a6f5b3ff68efb",
   "source_url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
   "source": "TechCrunch",
