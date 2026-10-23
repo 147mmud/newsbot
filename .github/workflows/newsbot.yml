@@ -156,18 +156,21 @@ jobs:
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID: ${{ vars.TG_CHAT_ID }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_SENDER_EMAIL: ${{ vars.BREVO_SENDER_EMAIL }}
         run: |
           python -m bot.indexnow || true
           python -m bot.social || true
+          python -m bot.newsletter || true
           git config user.name  "newsbot"
           git config user.email "newsbot@users.noreply.github.com"
           mkdir -p /tmp/rec
-          cp data/indexnow.json data/social_posted.json /tmp/rec/ 2>/dev/null || true
+          cp data/indexnow.json data/social_posted.json data/newsletter.json /tmp/rec/ 2>/dev/null || true
           for attempt in 1 2 3 4 5; do
             git fetch -q origin main
             git reset -q --hard origin/main
             cp /tmp/rec/* data/ 2>/dev/null || true
-            git add data/indexnow.json data/social_posted.json 2>/dev/null || true
+            git add data/indexnow.json data/social_posted.json data/newsletter.json 2>/dev/null || true
             if git diff --cached --quiet; then echo "nothing to record"; break; fi
             git commit -q -m "distribute: $(date -u +'%Y-%m-%d %H:%M') UTC"
             if git push -q origin HEAD:main; then echo "Pushed"; break; fi
