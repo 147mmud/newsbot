@@ -15,6 +15,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 import config
 from bot import fetcher
 from bot import scores
+from bot import scores_hub
 
 log = logging.getLogger("builder")
 
@@ -99,6 +100,8 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
         shutil.rmtree(OUT)
     OUT.mkdir()
     shutil.copytree(ROOT / "static", OUT / "static")
+    for key_file in (ROOT / "static").glob("*.txt"):      # IndexNow key must live at the site root
+        shutil.copy(key_file, OUT / key_file.name)
 
     # Listings (home, sections, related, trending) only show stories that have
     # a real photo; stories without one still get their own page + sitemap entry.
@@ -136,13 +139,23 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
             description=a["meta_description"], og_image=share_image(a.get("image")) if config.USE_FEED_IMAGES else None))
 
     # --- Static pages -------------------------------------------------------
-    for name in ("about", "privacy", "contact"):
+    for name in ("about", "privacy", "contact", "editorial", "corrections"):
         _write(OUT / name / "index.html", env.get_template(f"{name}.html").render(
             page=name, trending=trending, canonical=abs_url(f"{name}/"),
             title=f"{name.title()} | {config.SITE_NAME}", description=config.SITE_TAGLINE))
     _write(OUT / "404.html", env.get_template("404.html").render(
         page="404", trending=trending, canonical=abs_url(), title="Page not found", description=""))
 
+    hub = []
+    if with_scores:
+        try:
+            hub = scores_hub.fetch_all()
+        except Exception as exc:                      # never break the news build
+            log.warning("score hub failed: %s", exc)
+    if not hub:
+        hub = [{"slug": s_, "name": n_, "sport": sp_, "blurb": b_, "games": [], "live": [], "results": [], "upcoming": []}
+               for s_, _p, n_, sp_, b_ in scores_hub.LEAGUES]
+    _build_scores(env, hub, listed, trending)
     _build_feeds(articles)
     if with_scores:
         scores.snapshot(OUT / "data" / "scores.json")
@@ -152,12 +165,35 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
     log.info("Built %d articles into %s", len(articles), OUT)
 
 
+def _build_scores(env, hub, listed, trending) -> None:
+    updated = datetime.now(DISPLAY_TZ).strftime("%b %-d, %-I:%M %p ET")
+    sports = [a for a in listed if a["category"] == "sports"]
+    _write(OUT / "scores" / "index.html", env.get_template("scores_index.html").render(
+        page="scores", leagues=hub, updated=updated, trending=trending, canonical=abs_url("scores/"),
+        title=f"Live Scores & Results Today – NFL, NBA, Premier League | {config.SITE_NAME}",
+        description="Live scores, results and fixtures for the NFL, NBA, MLB, NHL, Premier League, Champions League, La Liga, Bundesliga, Serie A, MLS and rugby."))
+    tpl = env.get_template("scores_league.html")
+    for lg in hub:
+        path = f"scores/{lg['slug']}/"
+        _write(OUT / path / "index.html", tpl.render(
+            page="scores", lg=lg, all_leagues=hub, updated=updated, sports_news=sports, trending=trending,
+            canonical=abs_url(path),
+            title=f"{lg['name']} Scores, Results & Fixtures Today | {config.SITE_NAME}",
+            description=f"{lg['blurb']} Live scores, latest results and upcoming fixtures in UK and US time."))
+    global SCORE_PATHS
+    SCORE_PATHS = ["scores/"] + [f"scores/{lg['slug']}/" for lg in hub]
+
+
+SCORE_PATHS: list[str] = []
+
+
 def _build_feeds(articles: list[dict]) -> None:
     now = datetime.now(timezone.utc)
     indexable = [a for a in articles if a.get("index", True)]
 
     # sitemap.xml
-    urls = [abs_url()] + [abs_url(f"category/{c}/") for c in config.CATEGORIES]
+    urls = [abs_url()] + [abs_url(f"category/{c}/") for c in config.CATEGORIES] \
+        + [abs_url(p) for p in SCORE_PATHS] + [abs_url(f"{n}/") for n in ("about", "editorial", "corrections", "contact")]
     rows = [f"<url><loc>{escape(u)}</loc><changefreq>hourly</changefreq></url>" for u in urls]
     rows += [f"<url><loc>{escape(abs_url('news/' + a['slug'] + '/'))}</loc>"
              f"<lastmod>{a['published'][:10]}</lastmod></url>" for a in indexable]
