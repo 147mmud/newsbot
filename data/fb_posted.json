@@ -3410,9 +3410,10 @@
   "ts": "2026-10-22T21:09:01Z"
  },
  "pn:c1113a7020d2867c": {
-  "status": "posting",
+  "note": "Pinterest 403 on POST /pins: code=29 Apps with Trial access may not create Pins in production https://api.pinterest.com - use API Sandbox https://api-",
+  "status": "failed",
   "title": "Manchester United’s Managerial Turmoil Deepens Under Michael Carrick",
-  "ts": "2026-10-23T10:18:42Z"
+  "ts": "2026-10-23T10:18:45Z"
  },
  "pn:e1ac4e45982b8ea0": {
   "note": "Pinterest 403 on POST /pins: code=29 Apps with Trial access may not create Pins in production https://api.pinterest.com - use API Sandbox https://api-",
