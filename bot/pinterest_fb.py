@@ -190,7 +190,7 @@ def score_pick(ledger, t):
     best = None
     for e in events:
         key = f"pn:sc:{e['league']}:{e['id']}"
-        if key in ledger or e["state"] != "post" or not e["completed"] or S.kickoff(e) < t - timedelta(hours=11):
+        if key in ledger or e["state"] != "post" or not e["completed"] or S.kickoff(e) < t - timedelta(hours=int(os.getenv('PIN_SCORE_HOURS','20'))):
             continue
         v = S.verdict(e)
         if not v.get("label") and not S.is_big(e):
