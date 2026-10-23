@@ -10,6 +10,9 @@ MAX_RUN = int(os.getenv("SOCIAL_MAX_PER_RUN", "2"))
 MAX_DAY = int(os.getenv("SOCIAL_MAX_PER_DAY", "10"))
 BSKY_H, BSKY_P = os.getenv("BSKY_HANDLE", ""), os.getenv("BSKY_APP_PASSWORD", "")
 TG_T, TG_C = os.getenv("TG_BOT_TOKEN", ""), os.getenv("TG_CHAT_ID", "")
+X_K, X_S = os.getenv("X_API_KEY", ""), os.getenv("X_API_SECRET", "")
+X_T, X_TS = os.getenv("X_ACCESS_TOKEN", ""), os.getenv("X_ACCESS_SECRET", "")
+DIRECT = os.getenv("ADSTERRA_DIRECT", "")          # shown to ~1 in 5 X posts
 TAGS = {"politics": "#Politics", "world": "#WorldNews", "business": "#Business", "tech": "#Tech", "sports": "#Sports"}
 
 
@@ -65,8 +68,20 @@ def telegram(a, link):
     r.raise_for_status()
 
 
+def xpost(a, link, n=0):
+    from requests_oauthlib import OAuth1
+    auth = OAuth1(X_K, X_S, X_T, X_TS)
+    tag = TAGS.get(a["category"], "")
+    if DIRECT and n % 5 == 4:                       # occasional "more stories" post with the direct link
+        text = f"More top stories and live scores today {tag}\n{DIRECT}"
+    else:
+        text = f"{a['headline']}"[:230] + f" {tag}\n{link}"
+    r = requests.post("https://api.x.com/2/tweets", auth=auth, json={"text": text}, timeout=20)
+    r.raise_for_status()
+
+
 def main() -> int:
-    if not ((BSKY_H and BSKY_P) or (TG_T and TG_C)):
+    if not ((BSKY_H and BSKY_P) or (TG_T and TG_C) or (X_K and X_S and X_T and X_TS)):
         print("no social secrets set - skipping"); return 0
     arts = json.loads(Path("data/articles.json").read_text())
     arts = arts["articles"] if isinstance(arts, dict) else arts
@@ -75,7 +90,8 @@ def main() -> int:
     for a in pick(arts, rec):
         link = f"{SITE}/news/{a['slug']}/"
         ok = False
-        for name, cond, fn in (("bluesky", BSKY_H and BSKY_P, bluesky), ("telegram", TG_T and TG_C, telegram)):
+        for name, cond, fn in (("bluesky", BSKY_H and BSKY_P, bluesky), ("telegram", TG_T and TG_C, telegram),
+                               ("x", X_K and X_S and X_T and X_TS, lambda a, l: xpost(a, l, len(rec)))):
             if cond:
                 try:
                     fn(a, link); ok = True; print("posted", name, a["slug"])
