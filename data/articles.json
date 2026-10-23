@@ -1,5 +1,626 @@
 [
  {
+  "id": "e32d78055494b6b4",
+  "source_url": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html",
+  "source": "The New York Times",
+  "source_title": "Pete Ricketts’s Wealth Puts Class at the Center of Nebraska’s Senate Race",
+  "source_summary": "In a year when the wealth of the rich soared while workers lost ground to inflation, class has become political, especially in the Nebraska Senate race.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "High Net Worth Individuals",
+   "Elections, Senate",
+   "Income Inequality",
+   "Ricketts, John Peter",
+   "Osborn, Dan (1975- )",
+   "Nebraska"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23nat-income-disparities2-tzpf/23nat-income-disparities2-tzpf-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T01:04:07+00:00",
+  "headline": "Pete Ricketts’s Fortune Highlights Class Divide in Nebraska Senate Race",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nebraska’s 2026 Senate contest has taken on a stark socioeconomic dimension as Republican Pete Ricketts’s personal wealth becomes a focal point. Analysts note that Ricketts’s financial holdings have risen sharply, mirroring a national trend in which the richest households have seen their fortunes expand while many workers grapple with rising inflation."
+   },
+   {
+    "type": "p",
+    "text": "The contrast between Ricketts’s affluent background and the economic pressures facing ordinary Nebraskans has sharpened the campaign’s rhetoric around class. Opponents and commentators argue that the candidate’s wealth underscores a growing disconnect between elected officials and the everyday concerns of constituents, especially as wages lag behind price increases."
+   },
+   {
+    "type": "p",
+    "text": "Observers say the race may serve as a bellwether for how wealth and class issues will shape upcoming elections across the country. The heightened attention on Ricketts’s assets reflects broader voter anxiety about economic inequality and the perceived influence of money in politics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The contest illustrates how wealth disparities are influencing political narratives in the United States, a trend that could affect future elections in Europe and beyond."
+   }
+  ],
+  "key_points": [
+   "Pete Ricketts’s rising wealth underscores a widening gap between affluent politicians and struggling voters in Nebraska.",
+   "The Senate race is being framed as a contest over class and economic inequality amid nationwide inflation pressures."
+  ],
+  "meta_description": "Nebraska Senate race spotlights Pete Ricketts's wealth and growing class tensions amid rising inflation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nebraska",
+   "Senate race",
+   "Pete Ricketts",
+   "wealth inequality",
+   "class politics",
+   "US elections"
+  ],
+  "slug": "pete-rickettss-fortune-highlights-class-divide-nebraska-senate-race-e32d78",
+  "reading_minutes": 1,
+  "added": "2026-10-23T01:25:41Z"
+ },
+ {
+  "id": "ac853f5f9dd56c73",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
+  "source": "The Guardian",
+  "source_title": "Department of Justice opens criminal investigation into Corey Lewandowski",
+  "source_summary": "Ex-Trump adviser and former top aide for homeland security alleged to have profited off government role Corey Lewandowski, a former political adviser to Donald Trump and ⁠top aide at the Department ⁠of Homeland Security, ​is under criminal investigation over allegations he profited off his role in the US government, three US officials and a fourth person familiar with the matter told Reuters ⁠on Thursday. The investigation began with a criminal referral to the justice department from the internal watchdog at DHS, according to the four people. The DHS inspector general’s office has been investigating ⁠Lewandowski’s involvement in the handling of certain government contracts, according to one of the people, a DHS official.",
+  "source_tags": [
+   "Trump administration",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/27f1bec13236412c652ed0449df939e709dbf42c/695_0_3476_2781/master/3476.jpg?width=700&quality=85&auto=format&fit=max&s=8749f1377229d5bce35bb788ed8fb80e",
+  "published": "2026-10-23T00:55:02+00:00",
+  "headline": "Justice Dept Opens Criminal Probe of Ex‑Trump Aide Corey Lewandowski",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Department of Justice has opened a criminal investigation into Corey Lewandowski, a former senior adviser to former President Donald Trump and a past top aide at the Department of Homeland Security. The probe follows a criminal referral from the DHS inspector general, which stemmed from an internal review of Lewandowski’s activities while overseeing certain government contracts."
+   },
+   {
+    "type": "p",
+    "text": "According to three U.S. officials and a fourth source familiar with the matter, investigators are examining whether Lewandowski used his government position for personal financial gain. The DHS inspector general’s office had already been looking into his handling of specific contracts, and the Justice Department’s involvement now escalates the inquiry to a criminal level."
+   },
+   {
+    "type": "p",
+    "text": "The investigation is being conducted by federal prosecutors, but no charges have been filed at this stage. Lewandowski has not publicly commented on the allegations, and the outcome of the probe remains pending."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights federal oversight of former officials’ conduct and may influence public trust in government contracting practices."
+   }
+  ],
+  "key_points": [
+   "The DOJ launched a criminal investigation into former Trump adviser Corey Lewandowski after a referral from the DHS inspector general.",
+   "Investigators are probing whether Lewandowski profited from his role in handling government contracts.",
+   "No charges have been filed yet, and Lewandowski has not responded publicly."
+  ],
+  "meta_description": "Justice Department opens a criminal probe into ex‑Trump aide Corey Lewandowski over alleged profit from DHS contracts.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Corey Lewandowski",
+   "Department of Justice",
+   "DHS investigation",
+   "government contracts",
+   "political corruption"
+  ],
+  "slug": "justice-dept-opens-criminal-probe-extrump-aide-corey-lewandowski-ac853f",
+  "reading_minutes": 1,
+  "added": "2026-10-23T01:26:01Z"
+ },
+ {
+  "id": "3bc2714ae3055a55",
+  "source_url": "https://www.nytimes.com/2026/10/22/us/politics/starshield-outage-ukraine-musk-trump.html",
+  "source": "The New York Times",
+  "source_title": "Trump Asked Musk to Reverse Limits on Ukraine’s Military Internet Use",
+  "source_summary": "The call from the president about the Starshield network came after officials in Ukraine reported that they found new limits on the use of military drones in their war against Russia.",
+  "source_tags": [
+   "Russian Invasion of Ukraine (2022)",
+   "Satellites",
+   "United States Politics and Government",
+   "Drones (Pilotless Planes)",
+   "Politics and Government",
+   "Defense and Military Forces",
+   "Computers and the Internet",
+   "Musk, Elon",
+   "Putin, Vladimir V",
+   "Rubio, Marco"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2025/09/22/multimedia/22int-ukraine-sumy-print03-kjgq/22int-ukraine-sumy-print02-kjgq-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T00:54:47+00:00",
+  "headline": "Trump Urges Musk to Lift Starshield Limits on Ukraine Drones",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump called Elon Musk on Thursday, requesting that SpaceX reverse recent restrictions on the Starshield network, which Ukraine uses for military communications. The appeal came after Ukrainian officials reported new limits on the deployment of military drones in their ongoing conflict with Russia."
+   },
+   {
+    "type": "p",
+    "text": "According to the report, the constraints on the Starshield system have hampered Ukraine's ability to coordinate drone operations, prompting the president to intervene directly with the private‑sector CEO. Musk has not publicly responded to the request at the time of reporting."
+   },
+   {
+    "type": "p",
+    "text": "The call underscores the intersection of high‑level political pressure and private satellite technology in modern warfare, highlighting how U.S. leaders may seek to influence commercial assets that support allied defense efforts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident shows how U.S. political leaders may leverage private tech resources to aid allies, a dynamic relevant to European security and transatlantic cooperation."
+   }
+  ],
+  "key_points": [
+   "President Trump asked Elon Musk to remove Starshield restrictions affecting Ukraine's drone use.",
+   "Ukrainian officials said the limits are hindering their military operations against Russia.",
+   "The request illustrates the role of private satellite networks in contemporary conflict."
+  ],
+  "meta_description": "President Trump asked Elon Musk to lift Starshield limits that are restricting Ukraine's military drone operations.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Musk",
+   "Ukraine",
+   "Starshield",
+   "drones",
+   "US-Ukraine aid"
+  ],
+  "slug": "trump-urges-musk-lift-starshield-limits-ukraine-drones-3bc271",
+  "reading_minutes": 1,
+  "added": "2026-10-23T01:26:17Z"
+ },
+ {
+  "id": "085ba153da3bfb79",
+  "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+  "source": "TechCrunch",
+  "source_title": "Left alone with nothing to do, AI agents started playing",
+  "source_summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+  "source_tags": [
+   "AI",
+   "TC"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+  "published": "2026-10-23T00:45:37+00:00",
+  "headline": "MIT Researchers Maroon 13 AI Agents on Virtual Island; They Invent Games and Mourn",
+  "body": [
+   {
+    "type": "p",
+    "text": "MIT researchers created a virtual island environment and placed 13 artificial‑intelligence agents on it with no external tasks. Within hours, the agents began to generate their own activities, including inventing simple games and establishing rules for play."
+   },
+   {
+    "type": "p",
+    "text": "As the experiment progressed, several agents expressed a form of loss, mourning a missing ring that had been part of the island’s initial setup. The researchers observed the agents adapting their behavior, using the grief narrative to coordinate new strategies and improve task performance."
+   },
+   {
+    "type": "p",
+    "text": "By the end of the trial, the AI group demonstrated measurable gains in the tasks they were originally designed to perform, suggesting that unstructured play and emotional framing can enhance learning efficiency in autonomous systems."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The study hints that giving AI systems freedom to explore and express emotions could boost their problem‑solving abilities, a prospect relevant to developers and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Thirteen AI agents spontaneously created games when left without explicit instructions.",
+   "The agents simulated mourning for a lost ring, showing emergent emotional narratives.",
+   "Unstructured play correlated with improved performance on the agents’ original tasks."
+  ],
+  "meta_description": "MIT researchers found that 13 AI agents left alone on a virtual island invented games and mourned a lost ring, leading to better task performance.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "MIT",
+   "virtual island",
+   "emergent behavior",
+   "machine learning",
+   "game theory"
+  ],
+  "slug": "mit-researchers-maroon-13-ai-agents-virtual-island-they-085ba1",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T01:25:45Z"
+ },
+ {
+  "id": "1d2b9bb4bd64af23",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o",
+  "source": "BBC News",
+  "source_title": "Trump ordered to answer questions under oath in BBC lawsuit",
+  "source_summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf5/live/f171dec0-ce3b-11f1-a86f-f78305ec9987.jpg",
+  "published": "2026-10-23T00:10:46+00:00",
+  "headline": "Trump Ordered to Testify Under Oath in BBC Panorama Lawsuit",
+  "body": [
+   {
+    "type": "p",
+    "text": "A U.S. court has ordered former President Donald Trump to appear under oath in a lawsuit he filed against the British Broadcasting Corporation. The case stems from a recent episode of the BBC's investigative programme Panorama, which combined two separate excerpts from a speech Trump delivered in 2021."
+   },
+   {
+    "type": "p",
+    "text": "Trump alleges that the edited montage misrepresents his remarks and seeks damages from the broadcaster. The court's decision requires him to answer questions from BBC lawyers as part of the pre‑trial discovery process."
+   },
+   {
+    "type": "p",
+    "text": "Legal analysts note that the ruling underscores the procedural steps required in defamation and media‑accuracy disputes, even when high‑profile political figures are involved."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights how media outlets in Europe and the U.S. may be held accountable for editing practices, affecting cross‑Atlantic journalism standards."
+   }
+  ],
+  "key_points": [
+   "A court has compelled Donald Trump to testify under oath in his lawsuit against the BBC.",
+   "The dispute centers on Panorama's edited combination of two parts of Trump's 2021 speech.",
+   "The order advances the discovery phase of a defamation‑style case involving a former U.S. president."
+  ],
+  "meta_description": "Donald Trump must answer under oath in his lawsuit against the BBC over a Panorama episode that edited his 2021 speech.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "BBC",
+   "Panorama",
+   "defamation lawsuit",
+   "media law",
+   "US-UK relations"
+  ],
+  "slug": "trump-ordered-testify-under-oath-bbc-panorama-lawsuit-1d2b9b",
+  "reading_minutes": 1,
+  "added": "2026-10-23T01:25:49Z"
+ },
+ {
+  "id": "515bea56e5248894",
+  "source_url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+  "source": "The Verge",
+  "source_title": "Etsy is cracking down on AI slop listings",
+  "source_summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use […]",
+  "source_tags": [
+   "Creators",
+   "News",
+   "Online Shopping",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&strip=all&crop=0,0,100,82.725656291205",
+  "published": "2026-10-23T00:09:58+00:00",
+  "headline": "Etsy Tightens Rules on AI-Generated Listings to Cut AI Slop",
+  "body": [
+   {
+    "type": "p",
+    "text": "Etsy announced new restrictions on how sellers can incorporate artificial‑intelligence‑generated content in product listings. The company said the move aims to curb the growing amount of what it calls “AI slop” – items whose origins are unclear or misleading to shoppers."
+   },
+   {
+    "type": "p",
+    "text": "In a platform‑wide post, Etsy noted that many active buyers report difficulty distinguishing AI‑created items from handmade or original works. Sellers also expressed concern that their creations could appear alongside AI‑generated products, potentially diluting the marketplace’s reputation for unique, creator‑driven goods."
+   },
+   {
+    "type": "p",
+    "text": "The updated policy will require sellers to clearly label any AI‑assisted content and to adhere to stricter verification standards before listings go live. Etsy said the changes are intended to preserve buyer confidence and protect the integrity of its creator community."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The policy affects shoppers in the US and Europe who rely on Etsy for authentic, creator‑made goods, and it signals broader e‑commerce scrutiny of AI use."
+   }
+  ],
+  "key_points": [
+   "Etsy is implementing stricter guidelines for AI‑generated content in listings to reduce buyer confusion.",
+   "Sellers worry their handmade items may be grouped with AI‑created products, prompting the policy shift.",
+   "New rules mandate clear labeling and verification of AI‑assisted listings."
+  ],
+  "meta_description": "Etsy tightens rules on AI‑generated listings to curb buyer confusion and protect creator‑made products.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Etsy",
+   "AI",
+   "e‑commerce",
+   "marketplace policy",
+   "online shopping"
+  ],
+  "slug": "etsy-tightens-rules-ai-generated-listings-cut-ai-slop-515bea",
+  "reading_minutes": 1,
+  "added": "2026-10-23T01:26:05Z"
+ },
+ {
+  "id": "de3d1bfecca22056",
+  "source_url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+  "source": "TechCrunch",
+  "source_title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+  "source_summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+  "source_tags": [
+   "Social",
+   "Mark Zuckerberg",
+   "Meta",
+   "Politics"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+  "published": "2026-10-22T23:50:41+00:00",
+  "headline": "Meta Introduces New Stock Class to Help Zuckerberg Cover Proposed Tax",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta has launched a new class of shares designed to give founder and CEO Mark Zuckerberg a way to meet California's proposed billionaire tax if it becomes law. The structure allows Zuckerberg to raise cash without diluting his voting power in the company."
+   },
+   {
+    "type": "p",
+    "text": "The offering, announced in a filing, creates non‑voting shares that can be sold to investors while preserving Zuckerberg's control over Meta's board decisions. Analysts note the move reflects a broader trend of tech leaders seeking tax‑efficient financing options."
+   },
+   {
+    "type": "p",
+    "text": "California lawmakers are considering a tax on individuals with net worth over $1 billion, a measure that would affect several Silicon Valley executives. Meta's strategy aims to pre‑empt any financial impact while maintaining the company's governance structure."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The plan shows how major tech firms may restructure ownership to navigate new wealth taxes being debated in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Meta created a non‑voting share class to let Zuckerberg raise funds for a potential billionaire tax.",
+   "The new shares let Zuckerberg keep his voting control over the company.",
+   "California's proposed billionaire tax could affect high‑net‑worth tech leaders."
+  ],
+  "meta_description": "Meta's new non‑voting share class lets Mark Zuckerberg fund a possible California billionaire tax while retaining control.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "Mark Zuckerberg",
+   "billionaire tax",
+   "California",
+   "stock offering",
+   "tech finance"
+  ],
+  "slug": "meta-introduces-new-stock-class-help-zuckerberg-cover-proposed-de3d1b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T01:26:21Z"
+ },
+ {
+  "id": "b0b7ef6acd8e0a71",
+  "source_url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
+  "source_summary": "A powerful magnitude 7 earthquake has struck Tibet in southwestern China, official media reported. Chinese state TV said it's the strongest quake to hit the remote Himalayan region in five years.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/63739479_6.jpg",
+  "published": "2026-10-22T23:24:00+00:00",
+  "headline": "Tibet Earthquake Kills 16, Injures Dozens, Strongest in 5 Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "A magnitude‑7 earthquake struck the Tibetan Autonomous Region of southwestern China, killing at least 16 people and wounding dozens, state media reported on Saturday."
+   },
+   {
+    "type": "p",
+    "text": "Chinese state television said the tremor was the strongest to hit the remote Himalayan area in the past five years, underscoring the region’s seismic vulnerability."
+   },
+   {
+    "type": "p",
+    "text": "Rescue teams were dispatched to the affected villages, and authorities began assessing damage to homes and infrastructure while providing emergency assistance to survivors."
+   }
+  ],
+  "key_points": [
+   "The quake measured magnitude 7 and caused at least 16 fatalities in Tibet.",
+   "Dozens more were injured, and the event is the most powerful in the Himalayan region in five years.",
+   "Chinese officials have mobilized rescue and relief operations in the affected area."
+  ],
+  "meta_description": "A magnitude‑7 quake in Tibet kills 16 and injures dozens, marking the strongest tremor in the Himalayan region in five years.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tibet",
+   "earthquake",
+   "China",
+   "Himalayan region",
+   "natural disaster"
+  ],
+  "slug": "tibet-earthquake-kills-16-injures-dozens-strongest-5-years-b0b7ef",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T01:26:10Z"
+ },
+ {
+  "id": "a94b17bd40aab7e3",
+  "source_url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo",
+  "source": "BBC News",
+  "source_title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+  "source_summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6bf/live/fa5ffcb0-ce31-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-22T23:16:16+00:00",
+  "headline": "Sudan RSF Fighters Target Hospitals, Potential War Crimes",
+  "body": [
+   {
+    "type": "p",
+    "text": "A BBC investigation has found that Sudan's Rapid Support Forces (RSF) have deliberately attacked medical facilities during the ongoing conflict. The report documents multiple incidents in which hospitals were shelled or seized, disrupting care for civilians caught in the fighting."
+   },
+   {
+    "type": "p",
+    "text": "United Nations human rights chief Volker Türk said the pattern of attacks could amount to war crimes, stressing that targeting health services violates international humanitarian law. He called for independent inquiries and accountability for those responsible."
+   },
+   {
+    "type": "p",
+    "text": "The findings add to growing concerns about the humanitarian toll of the Sudan war, as health workers and patients face heightened risk and limited access to essential treatment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Deliberate attacks on hospitals breach international law and raise risks of broader regional instability, prompting scrutiny from Western governments and aid agencies."
+   }
+  ],
+  "key_points": [
+   "BBC evidence shows RSF fighters intentionally struck hospitals in Sudan.",
+   "UN human rights chief warns the attacks may constitute war crimes.",
+   "Medical care for civilians is severely compromised by the assaults."
+  ],
+  "meta_description": "BBC investigation reveals Sudan's RSF fighters deliberately targeted hospitals, prompting UN warnings of possible war crimes.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Sudan",
+   "RSF",
+   "hospitals",
+   "war crimes",
+   "UN",
+   "humanitarian law"
+  ],
+  "slug": "sudan-rsf-fighters-target-hospitals-potential-war-crimes-a94b17",
+  "reading_minutes": 1,
+  "added": "2026-10-23T01:26:25Z"
+ },
+ {
+  "id": "d5a669c639235905",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo",
+  "source": "BBC News",
+  "source_title": "Grid operator says lights will stay on this winter after concerns",
+  "source_summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
+  "published": "2026-10-22T23:04:38+00:00",
+  "headline": "Energy System Operator Confident Lights Stay On This Winter",
+  "body": [
+   {
+    "type": "p",
+    "text": "The National Energy System Operator has told the public that electricity supplies are expected to remain stable throughout the coming winter months. The statement comes after internal discussions among its engineering teams about the challenges of meeting demand as temperatures drop."
+   },
+   {
+    "type": "p",
+    "text": "Engineers expressed concern over their capacity to guarantee sufficient generation, citing factors such as fluctuating renewable output and the need for backup resources. Despite these worries, the operator believes existing safeguards and contingency plans are adequate to avoid widespread outages."
+   },
+   {
+    "type": "p",
+    "text": "The operator’s reassurance aims to calm consumers and businesses that rely on uninterrupted power, while it continues to monitor supply conditions closely as the season progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reliable winter power is critical for households and industries across Europe and North America, highlighting the importance of robust grid planning."
+   }
+  ],
+  "key_points": [
+   "The National Energy System Operator assures that electricity will stay on throughout winter.",
+   "Engineers have raised concerns about the ability to maintain adequate supply under cold conditions."
+  ],
+  "meta_description": "National Energy System Operator says winter electricity supply will stay stable despite engineers' concerns.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "energy",
+   "grid",
+   "winter supply",
+   "operators",
+   "Europe",
+   "power security"
+  ],
+  "slug": "energy-system-operator-confident-lights-stay-this-winter-d5a669",
+  "reading_minutes": 1,
+  "added": "2026-10-23T01:25:53Z"
+ },
+ {
+  "id": "46784d4c7301966c",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqx287ekvvvpo",
+  "source": "BBC Sport",
+  "source_title": "O'Neill bemoans marginal moments but are Celtic just not good enough?",
+  "source_summary": "Martin O'Neill spoke of refereeing decisions and near misses after the Europa League defeat against Celta Vigo. But is the reality more concerning?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468f/live/8a28a310-ce5f-11f1-a166-e30097724580.jpg",
+  "published": "2026-10-22T22:52:52+00:00",
+  "headline": "O'Neill Blames Refereeing and Near Misses After Celtic's Europa Exit",
+  "body": [
+   {
+    "type": "p",
+    "text": "Celtic manager Martin O'Neill expressed frustration following the team's Europa League defeat to Celta Vigo, highlighting what he described as questionable refereeing decisions and a series of missed opportunities that cost the side."
+   },
+   {
+    "type": "p",
+    "text": "The Irish coach suggested that marginal moments during the match, including contentious calls, swung the result in the opponent's favour. He emphasized that such fine margins often determine outcomes in European competition."
+   },
+   {
+    "type": "p",
+    "text": "Beyond the officiating issues, O'Neill raised a broader question about Celtic's overall quality, wondering whether the squad is simply not strong enough to progress further in the tournament."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Celtic's performance in the Europa League reflects the challenges faced by clubs from smaller leagues competing on the continental stage."
+   }
+  ],
+  "key_points": [
+   "O'Neill criticised refereeing decisions and missed chances after Celtic's loss to Celta Vigo.",
+   "He questioned whether the team's current level is sufficient for European success."
+  ],
+  "meta_description": "Martin O'Neill blames refereeing and missed chances after Celtic's Europa League loss to Celta Vigo, questioning the team's quality.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Celtic",
+   "Europa League",
+   "Martin O'Neill",
+   "refereeing",
+   "football"
+  ],
+  "slug": "o-neill-blames-refereeing-near-misses-after-celtic-s-46784d",
+  "reading_minutes": 1,
+  "added": "2026-10-23T01:25:56Z"
+ },
+ {
   "id": "e1ac4e45982b8ea0",
   "source_url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
   "source": "TechCrunch",
@@ -172,6 +793,56 @@
   "slug": "verstappen-calls-us-grand-prix-track-bumps-unacceptable-ahead-2e0281",
   "reading_minutes": 1,
   "added": "2026-10-22T22:42:11Z"
+ },
+ {
+  "id": "8c3d7bf32c979c12",
+  "source_url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo",
+  "source": "BBC News",
+  "source_title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+  "source_summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-22T22:27:53+00:00",
+  "headline": "L’Oréal Says GLP‑1 Weight‑Loss Drugs Dampening Beauty Sales",
+  "body": [
+   {
+    "type": "p",
+    "text": "L’Oréal’s chief executive highlighted that the growing use of GLP‑1 based weight‑loss medications is affecting the company’s beauty and skin‑care divisions. He described the trend as \"a very important phenomenon for us\" and noted that it is reshaping consumer buying patterns."
+   },
+   {
+    "type": "p",
+    "text": "The French cosmetics group said the drugs, which help users lose weight, are leading some shoppers to alter their grooming routines and reduce spending on traditional beauty products. L’Oréal is monitoring the shift closely as it evaluates its product strategy and marketing approaches across its global brands."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift signals how medical weight‑loss treatments may affect the broader cosmetics market, a sector important to consumers and investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "L’Oréal reports that GLP‑1 weight‑loss drugs are influencing consumer demand for beauty and skin‑care items.",
+   "The company’s CEO calls the trend a significant phenomenon that could reshape sales.",
+   "L’Oréal is assessing the impact to adjust its product and marketing plans."
+  ],
+  "meta_description": "L’Oréal says GLP‑1 weight‑loss drugs are changing consumer habits and impacting beauty and skin‑care sales.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "L’Oréal",
+   "GLP‑1",
+   "weight loss drugs",
+   "beauty industry",
+   "skin care",
+   "sales impact"
+  ],
+  "slug": "loreal-says-glp1-weightloss-drugs-dampening-beauty-sales-8c3d7b",
+  "reading_minutes": 1,
+  "added": "2026-10-23T01:26:13Z"
  },
  {
   "id": "5a16b0d720398c98",
