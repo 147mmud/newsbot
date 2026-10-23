@@ -186,6 +186,13 @@ def _hex(h, d=(19, 41, 75)):
         return d
 
 
+
+def _fit_font(d, text, maxw, size=32, minsize=20):
+    while size > minsize and d.textlength(text, font=R.font(size)) > maxw:
+        size -= 1
+    return R.font(size)
+
+
 def _vivid(rgb):
     """Lift very dark team colours so the panel stays visible on the navy background."""
     lum = (0.299 * rgb[0] + 0.587 * rgb[1] + 0.114 * rgb[2]) / 255
@@ -252,9 +259,11 @@ def score_pin_image(e, v, others, upcoming=()) -> bytes:
             sf = f(38)
             sw = d.textlength(sc, font=sf)
             d.text((W / 2 - sw / 2, y + 18), sc, font=sf, fill=GOLD)
-            hn = oa["name"][:14]
-            d.text((W / 2 - sw / 2 - 24 - d.textlength(hn, font=rf), y + 22), hn, font=rf, fill=(255, 255, 255))
-            d.text((W / 2 + sw / 2 + 24, y + 22), ob["name"][:14], font=rf, fill=(255, 255, 255))
+            hn, an = oa["name"], ob["name"]
+            hf = _fit_font(d, hn, W / 2 - sw / 2 - 24 - 80)
+            af = _fit_font(d, an, W / 2 - sw / 2 - 24 - 80)
+            d.text((W / 2 - sw / 2 - 24 - d.textlength(hn, font=hf), y + 22), hn, font=hf, fill=(255, 255, 255))
+            d.text((W / 2 + sw / 2 + 24, y + 22), an, font=af, fill=(255, 255, 255))
             y += 96
     if upcoming:
         y += 20
@@ -267,9 +276,13 @@ def score_pin_image(e, v, others, upcoming=()) -> bytes:
             ko = o.get("ko", "")
             tf = f(26)
             d.text((W / 2 - d.textlength(ko, font=tf) / 2, y + 20), ko, font=tf, fill=GOLD)
-            hn = oa["name"][:14]
-            d.text((W / 2 - d.textlength(ko, font=tf) / 2 - 24 - d.textlength(hn, font=rf), y + 22), hn, font=rf, fill=(255, 255, 255))
-            d.text((W / 2 + d.textlength(ko, font=tf) / 2 + 24, y + 22), ob["name"][:14], font=rf, fill=(255, 255, 255))
+            kw = d.textlength(ko, font=tf)
+            hn, an = oa["name"], ob["name"]
+            room = W / 2 - kw / 2 - 24 - 80
+            hf = _fit_font(d, hn, room)
+            af = _fit_font(d, an, room)
+            d.text((W / 2 - kw / 2 - 24 - d.textlength(hn, font=hf), y + 22), hn, font=hf, fill=(255, 255, 255))
+            d.text((W / 2 + kw / 2 + 24, y + 22), an, font=af, fill=(255, 255, 255))
             y += 96
     # footer
     d.rectangle((0, H - 114, W, H), fill=(6, 13, 24))
