@@ -1,5 +1,119 @@
 [
  {
+  "id": "a732864d1bbe80e9",
+  "source_url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
+  "source": "BBC News",
+  "source_title": "White House says the US is lifting tariffs on some Canadian goods",
+  "source_summary": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a245/live/89a529e0-cf1d-11f1-9796-954775b3a434.jpg",
+  "published": "2026-10-23T20:09:45+00:00",
+  "headline": "White House Announces Lifting of U.S. Tariffs on Select Canadian Products",
+  "body": [
+   {
+    "type": "p",
+    "text": "The White House confirmed that the United States is removing tariffs on a range of Canadian goods, a move aimed at easing trade tensions between the two countries. Officials said the relief will apply to specific product categories, though the announcement did not list every item affected."
+   },
+   {
+    "type": "p",
+    "text": "Republican Senator Susan Collins, who is facing a competitive re‑election campaign, said she had been coordinating with the White House to secure the tariff reductions. Collins highlighted the effort as part of broader economic cooperation with Canada."
+   },
+   {
+    "type": "p",
+    "text": "The tariff rollback is expected to benefit businesses that rely on cross‑border supply chains and could lower prices for American consumers. Trade officials indicated that the decision aligns with ongoing discussions to strengthen North American trade relations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reducing tariffs can boost North American trade, affecting markets and consumers in both the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "The U.S. is lifting tariffs on certain Canadian goods, easing trade barriers.",
+   "Senator Susan Collins worked with the White House to achieve the tariff relief.",
+   "The change aims to support businesses and lower costs for U.S. consumers."
+  ],
+  "meta_description": "The White House lifts tariffs on select Canadian goods, with Senator Susan Collins helping secure the relief.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US-Canada trade",
+   "tariffs",
+   "Susan Collins",
+   "economic policy",
+   "North America"
+  ],
+  "slug": "white-house-announces-lifting-u-s-tariffs-select-canadian-a73286",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:10Z"
+ },
+ {
+  "id": "a64d51764e73ad74",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+  "source": "The Guardian",
+  "source_title": "Embattled Susan Collins announces exemptions for Maine from Trump Canada tariffs",
+  "source_summary": "Republican facing tough re-election battle in state where Trump’s trade war with neighbor has stirred outrage Susan Collins, the embattled Republican senator for Maine, announced that several industries crucial to her state would be exempted from American tariffs on Canada, a notable win for her as she faces a tight re-election campaign that will help determine whether Democrats can flip control of Congress. In a statement on X, Collins said that the exemptions would apply to nine agricultural products, including blueberries, potatoes, apples and seaweed. She added that many of the state’s farmers rely on specialized equipment and materials from across the border that are “unavailable from American suppliers or cannot be replaced without incurring significant expense”.",
+  "source_tags": [
+   "US politics",
+   "Trump tariffs",
+   "US midterm elections 2026",
+   "Business",
+   "Maine",
+   "US news",
+   "Tariffs",
+   "Republicans",
+   "World news",
+   "Canada"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=700&quality=85&auto=format&fit=max&s=bc92a2ee13be75ad2335c6e613f01a42",
+  "published": "2026-10-23T20:07:52+00:00",
+  "headline": "Senator Collins Wins Tariff Exemptions for Maine’s Key Farm Products",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republican Senator Susan Collins announced that nine agricultural items – including blueberries, potatoes, apples and seaweed – will be exempt from the United States’ tariffs on Canadian goods. The exemption was detailed in a statement posted on X, where Collins said the move addresses the needs of Maine farmers who depend on cross‑border equipment and materials that are not available domestically or would be costly to replace."
+   },
+   {
+    "type": "p",
+    "text": "Collins, who is facing a competitive re‑election campaign in a state where President Trump’s trade dispute with Canada has sparked anger, called the exemption a \"notable win\" for her constituents. The decision is expected to ease pressure on Maine’s agricultural sector and could influence voter sentiment as the race unfolds, with control of Congress also at stake."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The exemption eases economic strain on Maine’s farm sector and illustrates how trade policy can become a pivotal issue in U.S. elections."
+   }
+  ],
+  "key_points": [
+   "Nine Maine agricultural products, such as blueberries and potatoes, are exempt from U.S. tariffs on Canada.",
+   "Collins highlighted the reliance of state farmers on specialized cross‑border supplies that cannot be sourced domestically.",
+   "The exemption comes amid Collins’s tight re‑election battle and broader political implications for congressional control."
+  ],
+  "meta_description": "Senator Susan Collins secures tariff exemptions for nine Maine farm products, a boost for local agriculture amid a heated re‑election race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Susan Collins",
+   "Maine",
+   "tariffs",
+   "Canada",
+   "agriculture",
+   "US trade"
+  ],
+  "slug": "senator-collins-wins-tariff-exemptions-maines-key-farm-products-a64d51",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:15Z"
+ },
+ {
   "id": "5589793920531c42",
   "source_url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
   "source": "TechCrunch",
@@ -583,6 +697,172 @@
   "added": "2026-10-23T20:08:49Z"
  },
  {
+  "id": "895da49a496ad5ec",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o",
+  "source": "BBC News",
+  "source_title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+  "source_summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-23T18:52:17+00:00",
+  "headline": "Ukraine Reports Starlink Still Limited Despite Trump Claim",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian officials say the Starlink satellite internet service remains restricted for their military, even after former U.S. President Donald Trump announced that the limits had been lifted. The statement reflects ongoing concerns in Kyiv about the reliability of the communications network used by its armed forces."
+   },
+   {
+    "type": "p",
+    "text": "Trump responded to the reports by saying, \"if there is a problem, I'll get it straightened out,\" indicating a willingness to intervene if the restrictions persist. No further details were provided about the nature of the limitations or any steps being taken to resolve them."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reliable communications are critical for Ukraine's defence, and U.S. policy decisions on satellite services can influence the conflict's dynamics."
+   }
+  ],
+  "key_points": [
+   "Ukraine says Starlink access for its military is still constrained.",
+   "Donald Trump claims the limits have been removed and offers to address any issues.",
+   "The dispute highlights the strategic importance of satellite internet in the conflict."
+  ],
+  "meta_description": "Ukraine says Starlink remains restricted for its military despite Trump's claim the limits are lifted, urging prompt resolution.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Starlink",
+   "Donald Trump",
+   "military communications",
+   "satellite internet"
+  ],
+  "slug": "ukraine-reports-starlink-still-limited-despite-trump-claim-895da4",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:27Z"
+ },
+ {
+  "id": "2541c014fd926b33",
+  "source_url": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
+  "source": "The Guardian",
+  "source_title": "Mysterious ‘black triangles’ spotted over sensitive US site, new Pentagon UFO files reveal",
+  "source_summary": "Unidentified object vanished suddenly and silently, anonymous senior military observers claim Two senior military observers say they watched a mysterious black triangular object flying at an extraordinarily high speed over a sensitive site in the western US earlier this year, in the latest tranche of reported UFO sightings released on Friday by the Trump administration. The unidentified object showed none of the characteristics of a conventional military aircraft, their report to the defense department said, and it vanished suddenly and silently within seconds, leaving no exhaust trail or other evidence of its existence.",
+  "source_tags": [
+   "UFOs",
+   "US military",
+   "Trump administration",
+   "World news",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/c255e45cbb5a92b35df29ef8b5f694912d96dfaa/177_0_1379_1104/master/1379.jpg?width=700&quality=85&auto=format&fit=max&s=e2e48db7fb28a840084f46786c2eb04a",
+  "published": "2026-10-23T18:45:43+00:00",
+  "headline": "Senior Military Observers Report Black Triangular UFO Over Western US Site",
+  "body": [
+   {
+    "type": "p",
+    "text": "Two senior military observers told the Defense Department they witnessed a black, triangular-shaped object traveling at an exceptionally high speed over a sensitive location in the western United States earlier this year. The observers said the craft did not match any known military aircraft and left no visible exhaust or other trace."
+   },
+   {
+    "type": "p",
+    "text": "According to the observers' report, the object vanished abruptly and silently within seconds, offering no evidence of its presence after the sighting. The incident was included in a new batch of UFO reports released by the Pentagon on Friday under the Trump administration."
+   },
+   {
+    "type": "p",
+    "text": "The Pentagon’s disclosure adds to a growing number of unexplained aerial phenomena documented by U.S. officials, prompting renewed scrutiny of national security implications and the need for further investigation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The report highlights ongoing concerns about unidentified aerial phenomena near critical infrastructure, a topic of interest for both U.S. security agencies and European observers monitoring airspace safety."
+   }
+  ],
+  "key_points": [
+   "Senior military observers reported a fast-moving black triangular object over a sensitive western US site.",
+   "The object displayed no characteristics of conventional aircraft and disappeared silently within seconds.",
+   "The sighting was part of a recent Pentagon UFO file release by the Trump administration."
+  ],
+  "meta_description": "Senior military observers report a high‑speed black triangular UFO over a sensitive western US site, vanishing silently, in new Pentagon files.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UFO",
+   "unidentified aerial phenomena",
+   "Pentagon",
+   "military observation",
+   "national security"
+  ],
+  "slug": "senior-military-observers-report-black-triangular-ufo-over-western-2541c0",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:34Z"
+ },
+ {
+  "id": "983391649d5abc79",
+  "source_url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+  "source": "The Verge",
+  "source_title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+  "source_summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart […]",
+  "source_tags": [
+   "Deals",
+   "Gadgets",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T18:43:30+00:00",
+  "headline": "Soundcore Space 2 Headphones On Sale at Amazon, Best Buy, Walmart",
+  "body": [
+   {
+    "type": "p",
+    "text": "Soundcore’s newest budget noise‑canceling headphones, the Space 2, have arrived on sale across major U.S. retailers. The model follows the 2023 Space One, which was praised by reviewers as one of the best affordable options for active noise cancellation."
+   },
+   {
+    "type": "p",
+    "text": "According to the latest report, the Space 2 builds on its predecessor’s strengths with incremental upgrades, though it carries a $30 price increase over the original. The current discounts at Amazon, Best Buy and Walmart bring the cost back toward the original price point, making the headphones an attractive option for cost‑conscious shoppers seeking improved performance."
+   },
+   {
+    "type": "p",
+    "text": "The sale highlights Soundcore’s strategy of positioning premium‑grade features in a budget segment, a trend that continues to reshape the competitive landscape for consumer audio devices."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The price‑adjusted sale gives U.S. and European consumers access to higher‑quality noise‑canceling headphones without a premium cost, reflecting broader market shifts toward affordable premium audio."
+   }
+  ],
+  "key_points": [
+   "Soundcore Space 2 improves on the 2023 Space One while adding a $30 price bump.",
+   "The headphones are currently discounted at Amazon, Best Buy and Walmart.",
+   "They remain among the top budget choices for active noise cancellation."
+  ],
+  "meta_description": "Soundcore Space 2 headphones, an upgraded budget noise‑canceling model, are on sale at Amazon, Best Buy and Walmart.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "headphones",
+   "noise cancelling",
+   "Soundcore",
+   "sales",
+   "budget audio"
+  ],
+  "slug": "soundcore-space-2-headphones-sale-amazon-best-buy-walmart-983391",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:23Z"
+ },
+ {
   "id": "ec62699efa398af0",
   "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o",
   "source": "BBC Sport",
@@ -635,6 +915,179 @@
   "slug": "leclerc-tops-first-practice-us-grand-prix-ahead-verstappen-ec6269",
   "reading_minutes": 1,
   "added": "2026-10-23T20:08:22Z"
+ },
+ {
+  "id": "57c8f42920b5125d",
+  "source_url": "https://www.nytimes.com/2026/10/23/world/europe/france-police-protests.html",
+  "source": "The New York Times",
+  "source_title": "France Plans to Bolster Police Presence, Expecting New Protests",
+  "source_summary": "Government officials are trying to avoid a repeat of last weekend’s unrest across the country, which injured police officers and damaged stores.",
+  "source_tags": [
+   "Demonstrations, Protests and Riots",
+   "Politics and Government",
+   "Organized Labor",
+   "France",
+   "Police",
+   "Looting (Crime)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-france-protests-01-ltbp/23int-france-protests-01-ltbp-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T18:31:39+00:00",
+  "headline": "France to Increase Police Deployment Ahead of Anticipated Protests",
+  "body": [
+   {
+    "type": "p",
+    "text": "French authorities announced plans to strengthen police presence in cities across the country as they prepare for a new wave of demonstrations. The move follows violent unrest last weekend that left several officers injured and caused damage to retail establishments."
+   },
+   {
+    "type": "p",
+    "text": "Officials say the heightened security measures aim to prevent a repeat of the previous disturbances, which saw clashes between demonstrators and law‑enforcement personnel. The government has not disclosed the exact number of additional officers or the specific locations where they will be deployed."
+   },
+   {
+    "type": "p",
+    "text": "While the precise triggers of the upcoming protests have not been detailed, the authorities' proactive stance reflects a broader effort to maintain public order and protect commercial districts amid growing social tensions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The heightened police presence underscores France's challenge in balancing public safety with civil liberties, a concern for European partners and businesses operating in the region."
+   }
+  ],
+  "key_points": [
+   "France will boost police numbers in anticipation of new protests.",
+   "The decision follows weekend unrest that injured officers and damaged stores.",
+   "Authorities seek to avoid a repeat of last weekend's violence."
+  ],
+  "meta_description": "France plans to increase police deployment to deter new protests after recent unrest injured officers and harmed stores.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "police",
+   "protests",
+   "public order",
+   "security"
+  ],
+  "slug": "france-increase-police-deployment-ahead-anticipated-protests-57c8f4",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:47Z"
+ },
+ {
+  "id": "bf8f2e4726c1462b",
+  "source_url": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
+  "source": "NPR",
+  "source_title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+  "source_summary": "Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2Ffa%2F435be5024106ae3ca19a04e44f45%2Fchrisgibbs-selects-kc-3-edit.jpg",
+  "published": "2026-10-23T18:30:00+00:00",
+  "headline": "Ohio’s Rural Voters Could Tip Senate Control in 2026 Election",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ohio, long considered a reliably Republican state, has emerged as a pivotal battleground in this year’s Senate races. While urban areas continue to lean Democratic, the state’s overall political balance hinges on the voting behavior of its rural electorate."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that if Democrats hope to secure a Senate majority, they must attract voters who have traditionally supported Republican candidates in Ohio’s countryside. Campaign strategies are increasingly focused on issues that resonate with these communities, from agricultural policy to broadband access."
+   },
+   {
+    "type": "p",
+    "text": "The outcome in Ohio could prove decisive for Senate control, influencing the legislative agenda in Washington for the next two years. Both parties are intensifying outreach efforts as the election approaches, recognizing the state’s potential to swing the balance of power."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Control of the U.S. Senate shapes federal policy on trade, security, and climate, affecting both American and European interests."
+   }
+  ],
+  "key_points": [
+   "Ohio’s rural voters are now a key target for Democrats seeking Senate control.",
+   "The state’s shift from a solid red stronghold could determine the Senate majority.",
+   "Both parties are tailoring messages to address rural concerns ahead of the election."
+  ],
+  "meta_description": "Ohio’s rural electorate may decide Senate control in 2026, making the state a critical battleground for both parties.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ohio",
+   "Senate race",
+   "rural voters",
+   "2026 election",
+   "U.S. politics"
+  ],
+  "slug": "ohios-rural-voters-could-tip-senate-control-2026-election-bf8f2e",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:39Z"
+ },
+ {
+  "id": "a495b78ccf9391d9",
+  "source_url": "https://www.nytimes.com/2026/10/23/us/politics/senators-trump-nominees-ukraine-starlink.html",
+  "source": "The New York Times",
+  "source_title": "Lawmakers Plan to Block Trump Nominees Over Ukraine Satellite Network Restrictions",
+  "source_summary": "Senators have warned the White House they will withhold confirmation votes until the administration ensures the restoration of communications capabilities used by Ukraine’s military.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Russian Invasion of Ukraine (2022)",
+   "United States International Relations",
+   "Satellites",
+   "Drones (Pilotless Planes)",
+   "Defense and Military Forces",
+   "Appointments and Executive Changes",
+   "Senate",
+   "Starlink Satellite Constellation (SpaceX)",
+   "Blumenthal, Richard"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-cong-ukraine-01-qmlt/23dc-cong-ukraine-01-qmlt-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T18:18:46+00:00",
+  "headline": "Senators Threaten to Block Trump Picks Over Ukraine Sat Net Limits",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senators have warned the White House that they will withhold confirmation votes for President Trump’s nominees unless the administration restores the satellite communications capabilities used by Ukraine’s military. The concern centers on recent restrictions that have limited Ukraine’s access to a critical satellite network supporting its defense operations."
+   },
+   {
+    "type": "p",
+    "text": "Lawmakers say the restrictions jeopardize Ukraine’s ability to coordinate on the battlefield and could undermine broader U.S. support for the country. They are pressing the administration to reverse the limits and ensure the communications infrastructure remains fully operational for Kyiv’s forces."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The standoff highlights how U.S. political dynamics can affect support for Ukraine, a key NATO ally, and may influence transatlantic security cooperation."
+   }
+  ],
+  "key_points": [
+   "Senators will block Trump nominees until satellite communications for Ukraine are restored.",
+   "The dispute focuses on recent limits placed on a satellite network used by Ukraine’s military.",
+   "Lawmakers argue the restrictions threaten U.S. support for Ukraine’s defense."
+  ],
+  "meta_description": "Senators say they will withhold votes on Trump nominees until satellite communications for Ukraine's military are restored.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump nominees",
+   "Ukraine communications",
+   "Senate confirmation",
+   "satellite network",
+   "US foreign policy"
+  ],
+  "slug": "senators-threaten-block-trump-picks-over-ukraine-sat-net-a495b7",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:50Z"
  },
  {
   "id": "b91e3bcb4c9987ed",
@@ -1902,6 +2355,132 @@
   "added": "2026-10-23T20:09:02Z"
  },
  {
+  "id": "b82fa21d29cdfcae",
+  "source_url": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
+  "source": "The New York Times",
+  "source_title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
+  "source_summary": "President Trump’s novel deal-making is on display in upstate New York, where the administration is funneling Japanese funds into a government-owned chip factory.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Computer Chips",
+   "Factories and Manufacturing",
+   "GlobalFoundries",
+   "Commerce Department",
+   "Lutnick, Howard W",
+   "Foreign Investments"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-japan-invest-vmpl/23dc-japan-invest-vmpl-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T15:59:45+00:00",
+  "headline": "Trump Administration Channels Japanese Money Into NY State Chip Plant",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Biden administration announced that a government-owned semiconductor facility in upstate New York will receive financing from Japanese investors, with the U.S. government taking a share of the proceeds. The arrangement is part of a broader effort to boost domestic chip production and reduce reliance on foreign supply chains."
+   },
+   {
+    "type": "p",
+    "text": "Officials said the deal will involve Japanese capital being directed into the plant, while the U.S. government secures a percentage of the revenue generated. The move aims to strengthen the strategic chip sector and create jobs in the region."
+   },
+   {
+    "type": "p",
+    "text": "Critics have raised questions about the transparency of the agreement and the extent of government involvement in private industry. The administration, however, maintains that the partnership aligns with national security and economic goals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Securing a reliable chip supply is critical for U.S. technology and defense sectors, and the deal reflects growing government involvement in strategic industries."
+   }
+  ],
+  "key_points": [
+   "Japanese investors will fund a government-owned chip factory in upstate New York.",
+   "The U.S. government will receive a cut of the plant's revenue under the deal.",
+   "The partnership is intended to bolster domestic semiconductor production and create jobs."
+  ],
+  "meta_description": "The U.S. government secures a revenue share in a Japanese‑funded chip plant in upstate New York to boost domestic semiconductor production.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "semiconductors",
+   "Japan",
+   "U.S. government",
+   "investment",
+   "technology",
+   "manufacturing"
+  ],
+  "slug": "trump-administration-channels-japanese-money-into-ny-state-chip-b82fa2",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:42Z"
+ },
+ {
+  "id": "e1562fb9a692be81",
+  "source_url": "https://www.nytimes.com/2026/10/23/business/media/election-disinformation-laws-minnesota.html",
+  "source": "The New York Times",
+  "source_title": "A Fight Over Felon Voting Prompts a Free Speech Debate",
+  "source_summary": "A Minnesota group worried that its opposition could expose it to prosecution under the state’s deceptive-practices law. Its lawsuit could have wide implications for limiting speech around elections.",
+  "source_tags": [
+   "internal-open-access-from-nl",
+   "Voting Rights, Registration and Requirements",
+   "Ex-Convicts",
+   "Suits and Litigation (Civil)",
+   "Decisions and Verdicts",
+   "Freedom of Speech and Expression",
+   "First Amendment (US Constitution)",
+   "Rumors and Misinformation",
+   "Midterm Elections (2026)",
+   "State Legislatures"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19BIZ-MINNESOTA-DISINFO-1-zhtl/19BIZ-MINNESOTA-DISINFO-1-zhtl-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T15:44:52+00:00",
+  "headline": "Minnesota Group's Lawsuit Over Felon Voting Sparks Free Speech Debate",
+  "body": [
+   {
+    "type": "p",
+    "text": "A Minnesota organization that opposes felon voting rights has filed a lawsuit claiming that the state's deceptive‑practices law could be used to prosecute its opponents. The group argues that the law, intended to curb misleading political tactics, may instead chill speech surrounding election issues."
+   },
+   {
+    "type": "p",
+    "text": "The case could set a precedent for how far states can regulate advocacy around voting reforms. Legal experts note that the outcome may affect not only Minnesota but also other jurisdictions where similar statutes exist, potentially limiting public debate on election policies."
+   },
+   {
+    "type": "p",
+    "text": "Both civil liberties advocates and election reformers are watching the lawsuit closely, as it raises questions about the balance between preventing deceptive campaigning and protecting First Amendment rights."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute touches on fundamental voting‑rights debates in the US and may inform European discussions on election integrity and free expression."
+   }
+  ],
+  "key_points": [
+   "A Minnesota group alleges the deceptive‑practices law threatens its opposition to felon voting reforms.",
+   "The lawsuit could influence how states regulate speech about election issues.",
+   "The case highlights tension between anti‑deception statutes and free‑speech protections."
+  ],
+  "meta_description": "Minnesota group's lawsuit over felon voting raises free‑speech concerns and could reshape election‑law advocacy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "felon voting",
+   "free speech",
+   "Minnesota",
+   "deceptive practices law",
+   "election law"
+  ],
+  "slug": "minnesota-group-s-lawsuit-over-felon-voting-sparks-free-e1562f",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:54Z"
+ },
+ {
   "id": "a231e48538340414",
   "source_url": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo",
   "source": "BBC Sport",
@@ -2060,6 +2639,113 @@
   "slug": "arsenal-warn-saka-may-miss-up-two-months-with-be41da",
   "reading_minutes": 1,
   "added": "2026-10-23T18:22:19Z"
+ },
+ {
+  "id": "097a198d5d4af185",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo",
+  "source": "BBC Sport",
+  "source_title": "Carrick refuses to rule out dropping Fernandes in emotional address",
+  "source_summary": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-23T13:55:37+00:00",
+  "headline": "Carrick Says He May Bench Fernandes After Emotional United Talk",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United assistant manager Michael Carrick delivered a five‑minute, uninterrupted address to the media, describing the club’s significance to him and outlining his personal connection to the team’s history and values."
+   },
+   {
+    "type": "p",
+    "text": "During the briefing, Carrick spoke candidly about the squad’s recent performances and hinted that tactical changes could be forthcoming, refusing to rule out the possibility of dropping midfielder Bruno Fernandes from the starting lineup."
+   },
+   {
+    "type": "p",
+    "text": "The former United captain emphasized that any decision would be driven by the need to improve results, while also acknowledging the emotional weight of making such a call on a player who has been a key figure for the club."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "United’s decisions on star players like Fernandes can affect Premier League standings and have ripple effects for fans and broadcasters in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Carrick gave a continuous five‑minute media briefing about United’s importance to him.",
+   "He did not dismiss the option of benching Bruno Fernandes amid recent form concerns.",
+   "Any lineup change would be aimed at boosting the team’s performance."
+  ],
+  "meta_description": "Manchester United's Michael Carrick hints at benching Bruno Fernandes after an emotional media briefing.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Bruno Fernandes",
+   "Premier League",
+   "coaching decisions"
+  ],
+  "slug": "carrick-says-he-may-bench-fernandes-after-emotional-united-097a19",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:19Z"
+ },
+ {
+  "id": "10a4557315d64ff6",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck9qzewgz1g3o",
+  "source": "BBC Sport",
+  "source_title": "England balancing points chase and discipline at World Cup",
+  "source_summary": "England winger Matty Ashton stresses the need to balance the chase for points with retaining their discipline when they face France in Perth on Saturday in their second Rugby League World Cup group fixture.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b91/live/b3e7c8a0-cecf-11f1-8507-45cb00a1c41c.jpg",
+  "published": "2026-10-23T13:53:02+00:00",
+  "headline": "England Must Balance Points Chase and Discipline Against France",
+  "body": [
+   {
+    "type": "p",
+    "text": "England winger Matty Ashton highlighted the dual challenge his team faces ahead of their World Cup group match in Perth on Saturday. The side must pursue a win over France while maintaining the discipline that has underpinned their campaign so far."
+   },
+   {
+    "type": "p",
+    "text": "Ashton said the squad cannot afford to sacrifice composure for aggression, noting that penalties and sin‑bins could cost crucial points against a technically strong French side. He emphasized that a measured approach will be key to securing the needed result without jeopardising future fixtures."
+   },
+   {
+    "type": "p",
+    "text": "The match marks England's second group fixture in the Rugby League World Cup, and a disciplined performance could keep them on track for the knockout stages while preserving their reputation on the international stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The game influences England's chances to advance in a major global tournament, affecting the sport's profile in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "England faces France in Perth, needing both points and discipline.",
+   "Winger Matty Ashton warns against losing composure in the match.",
+   "A disciplined approach is crucial for England's World Cup progression."
+  ],
+  "meta_description": "England winger Matty Ashton stresses balancing a points chase with discipline ahead of the World Cup clash with France in Perth.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby league",
+   "world cup",
+   "england",
+   "france",
+   "matty ashton",
+   "discipline"
+  ],
+  "slug": "england-must-balance-points-chase-discipline-against-france-10a455",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:20:30Z"
  },
  {
   "id": "47320051fdf53f31",
