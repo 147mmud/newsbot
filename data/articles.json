@@ -1,5 +1,589 @@
 [
  {
+  "id": "b91e3bcb4c9987ed",
+  "source_url": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
+  "source": "The New York Times",
+  "source_title": "Two Former F.B.I. Officials Charged With False Statements About Hunter Biden",
+  "source_summary": "The charges intensified the administration’s efforts to go after the law enforcement and intelligence personnel who cast doubt on unsubstantiated claims that Joseph R. Biden Jr. engaged in corrupt dealings in Ukraine.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Ukraine",
+   "Biden, Hunter",
+   "Biden, Joseph R Jr",
+   "Grassley, Charles E",
+   "Johnson, Ron (1955- )",
+   "Trump, Donald J",
+   "Burisma Holdings Ltd",
+   "House Committee on the Judiciary",
+   "House of Representatives"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-fbi-bglz/23dc-fbi-bglz-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T18:18:05+00:00",
+  "headline": "Two Former FBI Officials Charged Over False Hunter Biden Statements",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Department of Justice announced that two former Federal Bureau of Investigation officials have been indicted for making false statements concerning Hunter Biden, the son of President Joseph R. Biden Jr. The charges allege that the officials knowingly provided inaccurate information to investigators about the senior Biden’s alleged involvement in Ukrainian business dealings."
+   },
+   {
+    "type": "p",
+    "text": "The indictment comes as part of a broader effort by the current administration to pursue individuals who have promoted unsubstantiated claims that President Biden engaged in corrupt activities abroad. Prosecutors say the false statements were intended to undermine confidence in ongoing investigations and to cast doubt on the credibility of official inquiries."
+   },
+   {
+    "type": "p",
+    "text": "If convicted, the former officials could face penalties including fines and imprisonment. The case underscores the Justice Department’s focus on holding law‑enforcement and intelligence personnel accountable for disseminating misinformation that influences public perception of high‑profile political figures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights the U.S. government's stance on protecting the integrity of investigations and may influence how political misinformation is handled in both the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Two ex‑FBI officials have been charged with knowingly giving false statements about Hunter Biden.",
+   "The indictment is part of a wider push to address misinformation surrounding alleged Biden corruption in Ukraine.",
+   "Potential penalties include fines and imprisonment if the defendants are found guilty."
+  ],
+  "meta_description": "Two former FBI officials face charges for false statements about Hunter Biden, reflecting a broader crackdown on misinformation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FBI",
+   "Hunter Biden",
+   "false statements",
+   "legal action",
+   "US politics"
+  ],
+  "slug": "two-former-fbi-officials-charged-over-false-hunter-biden-b91e3b",
+  "reading_minutes": 1,
+  "added": "2026-10-23T18:21:36Z"
+ },
+ {
+  "id": "8b7ca507e98d6fa3",
+  "source_url": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
+  "source_summary": "The Ukrainian city of Oleshky, occupied by Russia and on the frontline, faces a humanitarian crisis. The localized truce comes as Ukrainian President Zelenskyy said negotiators would meet for wider talks next month.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79746776_6.jpg",
+  "published": "2026-10-23T18:17:00+00:00",
+  "headline": "Russia and Ukraine Accept US‑Brokered Ceasefire in Oleshky City",
+  "body": [
+   {
+    "type": "p",
+    "text": "Russia and Ukraine have agreed to a localized cease‑fire in the frontline town of Oleshky, a settlement currently under Russian occupation. The truce, facilitated by the United States, aims to halt hostilities in the city, which has been facing a severe humanitarian crisis as combat continues nearby."
+   },
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelenskyy announced that the agreement will allow aid to reach civilians trapped in Oleshky and reduce the risk of further civilian casualties. He also indicated that negotiators from both sides are scheduled to convene next month to discuss a broader cease‑fire that could extend beyond the single city."
+   },
+   {
+    "type": "p",
+    "text": "The development marks the first concrete step toward de‑escalation in the region since the conflict intensified last year. While the cease‑fire is limited to Oleshky, officials hope it could serve as a confidence‑building measure for more extensive peace talks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The agreement shows U.S. diplomatic involvement and could signal a shift toward broader peace efforts that affect European security and humanitarian aid flows."
+   }
+  ],
+  "key_points": [
+   "Russia and Ukraine have accepted a US‑mediated cease‑fire limited to the occupied city of Oleshky.",
+   "The truce is intended to ease the humanitarian crisis and pave the way for wider negotiations next month."
+  ],
+  "meta_description": "Russia and Ukraine agree to a U.S.-brokered cease‑fire in Oleshky, aiming to ease the humanitarian crisis and set the stage for wider talks.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Russia",
+   "Ukraine",
+   "ceasefire",
+   "Oleshky",
+   "US diplomacy",
+   "humanitarian"
+  ],
+  "slug": "russia-ukraine-accept-usbrokered-ceasefire-oleshky-city-8b7ca5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T18:21:40Z"
+ },
+ {
+  "id": "d889bdf4ec850c7a",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan",
+  "source": "The Guardian",
+  "source_title": "DoJ sues to block certification of Alaska Senate results if Republican incumbent loses",
+  "source_summary": "Trump justice department claims there could be ‘confusion’ about two Republicans on the ballot named Dan Sullivan The US Department of Justice on Thursday filed a pre-emptive lawsuit in federal court to block the certification of Alaska’s US Senate results if the Republican incumbent on the ballot does not win. The justice department claimed there could be “voter confusion” about the two Republican candidates on the ballot named Dan Sullivan, which it claims might influence the race’s outcome in favor of the Democratic nominee, Mary Peltola.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Alaska",
+   "US news",
+   "Republicans",
+   "Democrats",
+   "Trump administration",
+   "Law (US)",
+   "US Congress",
+   "US Senate",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/bdee892d1dc584f42952f78df20925461a3cbd97/617_0_4577_3663/master/4577.jpg?width=700&quality=85&auto=format&fit=max&s=1d6dc6e17635d6f2232fbeae8a21c0b6",
+  "published": "2026-10-23T18:06:57+00:00",
+  "headline": "DOJ Sues to Block Alaska Senate Certification If Incumbent Loses",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Department of Justice filed a pre‑emptive lawsuit on Thursday in federal court seeking to halt the certification of Alaska’s U.S. Senate election results if the Republican incumbent does not win. The filing argues that the presence of two Republican candidates named Dan Sullivan on the ballot could cause voter confusion, potentially affecting the outcome."
+   },
+   {
+    "type": "p",
+    "text": "The Justice Department contends that this confusion might benefit Democratic nominee Mary Peltola, who is currently leading in the race. The lawsuit aims to prevent the state from certifying the results until the issue is resolved, though no court decision has yet been issued."
+   },
+   {
+    "type": "p",
+    "text": "The case underscores heightened scrutiny of election procedures ahead of the 2026 midterms, with federal officials intervening in a state contest to address alleged ballot design problems."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The action reflects growing federal involvement in state elections and could set precedents for handling ballot confusion in future U.S. contests."
+   }
+  ],
+  "key_points": [
+   "The DOJ has sued to block certification of Alaska’s Senate race if the Republican incumbent loses.",
+   "The lawsuit claims two candidates named Dan Sullivan could confuse voters and influence the result."
+  ],
+  "meta_description": "DOJ files lawsuit to block Alaska Senate certification over potential voter confusion with two Dan Sullivans on the ballot.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "DOJ",
+   "Alaska",
+   "Senate election",
+   "voter confusion",
+   "Mary Peltola",
+   "Dan Sullivan"
+  ],
+  "slug": "doj-sues-block-alaska-senate-certification-if-incumbent-loses-d889bd",
+  "reading_minutes": 1,
+  "added": "2026-10-23T18:21:59Z"
+ },
+ {
+  "id": "07c813bdfe47637c",
+  "source_url": "https://www.nytimes.com/2026/10/23/world/middleeast/jordan-church-shooting.html",
+  "source": "The New York Times",
+  "source_title": "Gunmen Open Fire at Church in Jordan, Killing at Least Seven",
+  "source_summary": "The shooting took place during a funeral in the southern province of Karak, home to a longstanding Christian community, according to Jordan’s police chief.",
+  "source_tags": [
+   "Churches (Buildings)",
+   "US and Israeli Attack on Iran (2026)",
+   "Deaths (Fatalities)",
+   "Jordan",
+   "Karak (Jordan)",
+   "Terrorism",
+   "Mass Shootings"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-jordan-shooting-mkph/23int-jordan-shooting-mkph-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T18:03:16+00:00",
+  "headline": "Gunmen Open Fire at Jordan Church Funeral, Killing Seven in Karak",
+  "body": [
+   {
+    "type": "p",
+    "text": "Gunmen opened fire during a funeral service at a church in the southern Jordanian province of Karak, killing at least seven people, police officials said. The attack occurred as mourners gathered to honor a deceased member of the region’s long‑standing Christian community."
+   },
+   {
+    "type": "p",
+    "text": "Jordan’s police chief confirmed that the shooters targeted the congregation, but he did not provide details about the perpetrators or their motives. Emergency responders transported the injured to nearby hospitals, and authorities have launched an investigation into the incident."
+   },
+   {
+    "type": "p",
+    "text": "The incident marks one of the deadliest attacks on Jordan’s Christian minority in recent years, raising concerns about religious tolerance and security in a country that has traditionally been seen as stable in a volatile region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shooting highlights the vulnerability of religious minorities in the Middle East and could affect regional stability, a concern for Western governments and diaspora communities."
+   }
+  ],
+  "key_points": [
+   "Gunmen attacked a church funeral in Karak, Jordan, killing at least seven.",
+   "The victims were members of Jordan’s historic Christian community.",
+   "Jordanian police have opened an investigation but have not identified the attackers."
+  ],
+  "meta_description": "Gunmen opened fire at a church funeral in Karak, Jordan, killing at least seven members of the Christian community, prompting a police investigation.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jordan",
+   "shooting",
+   "church",
+   "funeral",
+   "religious violence",
+   "Karak"
+  ],
+  "slug": "gunmen-open-fire-jordan-church-funeral-killing-seven-karak-07c813",
+  "reading_minutes": 1,
+  "added": "2026-10-23T18:22:04Z"
+ },
+ {
+  "id": "caf375cd95fcd00f",
+  "source_url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Jordan: Karak church shooting leaves 7 dead, dozens injured",
+  "source_summary": "A shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to local authorities. Two unidentified men opened fire on the procession.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79747018_6.jpg",
+  "published": "2026-10-23T18:03:00+00:00",
+  "headline": "Jordan Funeral Shooting at Greek Orthodox Church Kills Seven",
+  "body": [
+   {
+    "type": "p",
+    "text": "A gun attack on a Greek Orthodox church in southern Jordan left seven people dead and dozens more wounded, local authorities said. The shooting occurred as mourners were processing a funeral, when two unidentified men opened fire on the crowd."
+   },
+   {
+    "type": "p",
+    "text": "Emergency services rushed to the scene and transported the injured to nearby hospitals. Officials have not yet identified the shooters or disclosed a motive for the attack. The incident has prompted heightened security measures at religious sites across the country."
+   },
+   {
+    "type": "p",
+    "text": "Jordanian officials condemned the violence and called for an investigation. The tragedy adds to a series of recent attacks in the region that have targeted civilians during public gatherings."
+   }
+  ],
+  "key_points": [
+   "A shooting at a Greek Orthodox church funeral in southern Jordan killed seven and injured dozens.",
+   "Two unknown gunmen opened fire on the procession, and authorities have not disclosed a motive.",
+   "The attack has led to increased security at religious venues in Jordan."
+  ],
+  "meta_description": "Seven killed and dozens injured in a shooting at a Greek Orthodox church funeral in southern Jordan, authorities say.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jordan",
+   "shooting",
+   "Greek Orthodox",
+   "funeral",
+   "casualties"
+  ],
+  "slug": "jordan-funeral-shooting-greek-orthodox-church-kills-seven-caf375",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T18:22:12Z"
+ },
+ {
+  "id": "e7bd4854be58ab3c",
+  "source_url": "https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale",
+  "source": "The Verge",
+  "source_title": "Fi’s GPS-equipped dog trackers are on sale for 30 percent off",
+  "source_summary": "If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down to […]",
+  "source_tags": [
+   "Deals",
+   "Gadgets",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fi-Ultra-Dog-Collar-roundup.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T17:55:03+00:00",
+  "headline": "Fi Pet Trackers Offer 30% Discount Through October 25 With Coupon Code",
+  "body": [
+   {
+    "type": "p",
+    "text": "Fi is running a limited-time promotion on its GPS-enabled pet trackers, giving shoppers a 30 percent discount when they use the coupon code SCARY at checkout. The sale, which runs until October 25, applies to several satellite‑connected devices, including the Fi Ultra GPS model that was previously reviewed by The Verge."
+   },
+   {
+    "type": "p",
+    "text": "The discounted trackers are designed for dogs and cats that tend to wander or for owners who enjoy outdoor adventures with their pets. By leveraging satellite networks, the devices provide real‑time location data even in areas without cellular coverage, helping owners locate lost animals more quickly."
+   },
+   {
+    "type": "p",
+    "text": "Customers can take advantage of the offer by entering the code during the online purchase process. The promotion is part of Fi’s broader effort to make pet safety technology more accessible to a wider audience."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Affordable GPS pet trackers can help owners in the US and Europe quickly locate lost animals, reducing stress and potential costs associated with lost pets."
+   }
+  ],
+  "key_points": [
+   "Fi pet trackers are 30% off until October 25 with coupon code SCARY.",
+   "The discount applies to satellite‑connected models such as the Fi Ultra GPS.",
+   "The trackers provide real‑time location for pets in areas lacking cellular service."
+  ],
+  "meta_description": "Fi pet trackers are 30% off until Oct. 25 with coupon code SCARY, covering satellite‑connected models like the Fi Ultra GPS.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "pet safety",
+   "GPS trackers",
+   "discount",
+   "Fi",
+   "satellite technology"
+  ],
+  "slug": "fi-pet-trackers-offer-30-discount-through-october-25-e7bd48",
+  "reading_minutes": 1,
+  "added": "2026-10-23T18:21:43Z"
+ },
+ {
+  "id": "f540ef589884430d",
+  "source_url": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
+  "source": "The New York Times",
+  "source_title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
+  "source_summary": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues.",
+  "source_tags": [
+   "Subprime Mortgage Crisis",
+   "Artificial Intelligence",
+   "Stocks and Bonds",
+   "United States Economy"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/25/business/25bizsun-Crash-Again-illo/25bizsun-Crash-Again-illo-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T17:41:27+00:00",
+  "headline": "Assessing Today's Economy Through the Lens of the 2008 Crisis",
+  "body": [
+   {
+    "type": "p",
+    "text": "Economists say the signs of a potential financial downturn can often be identified before markets tumble, and they point to the 2008 recession as a reference point for current analysts. By examining the patterns that preceded the 2008 collapse—such as rising debt levels, inflated asset prices and tightening credit conditions—experts aim to gauge whether similar dynamics are emerging now."
+   },
+   {
+    "type": "p",
+    "text": "The article notes that while no single indicator guarantees a crisis, a combination of warning signs can signal heightened risk. Observers highlight that today's financial environment shows some parallels, though differences in policy responses and market structures also play a role in shaping outcomes."
+   },
+   {
+    "type": "p",
+    "text": "Analysts caution that interpreting these signals requires careful judgment, as false alarms are possible. They stress that understanding the 2008 experience helps policymakers and investors weigh the likelihood of a repeat scenario and consider preventive measures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European readers, recognizing early economic risks can inform investment decisions and policy debates aimed at averting another severe recession."
+   }
+  ],
+  "key_points": [
+   "Financial warning signs often appear before a crisis, with 2008 serving as a key case study.",
+   "Current market conditions share some traits with the pre‑2008 environment, but policy and structural changes matter.",
+   "Experts urge cautious interpretation of indicators to avoid premature panic."
+  ],
+  "meta_description": "Economists compare today's financial signs to the 2008 crisis to assess the risk of a new downturn.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "economy",
+   "financial crisis",
+   "2008 recession",
+   "market risk",
+   "policy response"
+  ],
+  "slug": "assessing-today-s-economy-through-lens-2008-crisis-f540ef",
+  "reading_minutes": 1,
+  "added": "2026-10-23T18:21:47Z"
+ },
+ {
+  "id": "a63af213fc148fb4",
+  "source_url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly",
+  "source": "The Verge",
+  "source_title": "Elon Musk’s dangerous grip on outer space",
+  "source_summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure […]",
+  "source_tags": [
+   "Elon Musk",
+   "Policy",
+   "Science",
+   "Space",
+   "SpaceX",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T17:35:15+00:00",
+  "headline": "Musk’s Starshield Service Throttled, Hindering Ukrainian Defenses",
+  "body": [
+   {
+    "type": "p",
+    "text": "SpaceX’s military‑grade version of its Starlink network, known as Starshield, was deliberately throttled last week, preventing terminals moving above a set speed from connecting. The restriction was applied to the Ukrainian army’s communications system that supports its anti‑drone interceptors."
+   },
+   {
+    "type": "p",
+    "text": "According to reports, the speed‑based block caused the interceptors, which are used to shoot down Russian drones carrying explosives, to cease functioning when operating at higher velocities. This loss of capability made it easier for Russian forces to target Ukraine’s energy infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "The move highlights concerns over Elon Musk’s control of critical satellite communications used in conflict zones, raising questions about the reliability of privately owned space assets for national defense."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode illustrates how private satellite networks can affect the security of U.S. and European allies in ongoing conflicts."
+   }
+  ],
+  "key_points": [
+   "Starshield was throttled to block high‑speed terminals, disrupting Ukrainian interceptor operations.",
+   "The slowdown allowed Russian drones to more easily strike Ukraine’s energy grid.",
+   "The incident underscores the strategic risks of private control over satellite communications."
+  ],
+  "meta_description": "Starshield throttling halted Ukrainian anti‑drone interceptors, easing Russian attacks on energy sites and raising concerns over private satellite control.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "Starshield",
+   "Ukraine",
+   "SpaceX",
+   "military communications",
+   "drone warfare"
+  ],
+  "slug": "musks-starshield-service-throttled-hindering-ukrainian-defenses-a63af2",
+  "reading_minutes": 1,
+  "added": "2026-10-23T18:21:51Z"
+ },
+ {
+  "id": "5302ca6ad515626b",
+  "source_url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+  "source": "CNBC",
+  "source_title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+  "source_summary": "Amex, which reported third-quarter results earlier Friday, is taking a $336 million restructuring charge in the quarter, CEO Stephen Squeri said Friday.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108451661-1792761669966-108451661-1792761599620-gettyimages-1244667204-AMEX_SQUERI.jpg?v=1792761737&w=1920&h=1080",
+  "published": "2026-10-23T17:21:10+00:00",
+  "headline": "American Express Cuts 5% of Staff, Takes $336M Restructuring Charge",
+  "body": [
+   {
+    "type": "p",
+    "text": "American Express announced it will reduce its workforce by about 5 percent as part of a broader effort to integrate artificial intelligence into its operations. The move, disclosed by CEO Stephen Squeri on Friday, follows the company’s third‑quarter earnings release earlier in the day."
+   },
+   {
+    "type": "p",
+    "text": "The restructuring will incur a one‑time charge of $336 million, which the firm said will be reflected in its current quarter’s financial results. Executives described the layoffs as a necessary step to streamline the business and position it for future technology‑driven growth."
+   },
+   {
+    "type": "p",
+    "text": "While the exact number of jobs affected was not disclosed, the reduction represents a significant shift for the financial services giant, which employs tens of thousands worldwide. The company emphasized that the changes are aimed at improving efficiency and enhancing customer experiences through AI‑enabled tools."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The cuts highlight how major financial firms are reshaping staff levels to adopt AI, a trend that could affect job markets and service delivery in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "American Express will cut roughly 5% of its workforce to prepare for AI integration.",
+   "The restructuring carries a $336 million charge that will appear in the current quarter’s results.",
+   "CEO Stephen Squeri framed the layoffs as essential for long‑term efficiency and growth."
+  ],
+  "meta_description": "American Express to cut 5% of staff and record a $336M restructuring charge as it prepares for AI integration.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "American Express",
+   "workforce reduction",
+   "AI adoption",
+   "restructuring charge",
+   "financial services"
+  ],
+  "slug": "american-express-cuts-5-staff-takes-336m-restructuring-charge-5302ca",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T18:21:55Z"
+ },
+ {
+  "id": "9ecaeb5e863007f7",
+  "source_url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+  "source": "The Verge",
+  "source_title": "The iPhone Duo should have been an iPad",
+  "source_summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast, David and Nilay […]",
+  "source_tags": [
+   "AI",
+   "Apple",
+   "iPhone",
+   "Podcasts",
+   "Tech",
+   "Vergecast"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_102326_Site_attempt.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T17:00:18+00:00",
+  "headline": "The Verge Rates iPhone Duo 7/10, Highlights Review Challenges",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Verge’s latest review gave Apple’s iPhone Duo a score of 7 out of 10. Reviewers David and Nilay discussed how the rating evolved during the evaluation process, noting that the device’s concept sparked ongoing debate about its place in the market."
+   },
+   {
+    "type": "p",
+    "text": "According to the podcast episode, the iPhone Duo’s performance and design prompted the team to reconsider their initial expectations. While the score reflects a solid but not outstanding product, the reviewers emphasized that assessing such a novel form factor presents unique difficulties."
+   },
+   {
+    "type": "p",
+    "text": "The discussion also touched on broader implications for future smartphone designs, suggesting that the Duo might have been better positioned as an iPad‑style device. The conversation underscores the challenges journalists face when judging innovative hardware that blurs traditional categories."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the review’s context helps US and European consumers gauge whether the iPhone Duo meets their expectations amid evolving smartphone designs."
+   }
+  ],
+  "key_points": [
+   "The Verge assigned the iPhone Duo a 7/10 rating after a nuanced review process.",
+   "Reviewers noted the device’s hybrid nature made it harder to evaluate against standard smartphones.",
+   "They suggested the Duo could have succeeded more as an iPad‑like product."
+  ],
+  "meta_description": "The Verge gives the iPhone Duo a 7/10 rating, explaining the review challenges and its hybrid design implications.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "iPhone Duo",
+   "Apple",
+   "smartphone review",
+   "tech news",
+   "device rating"
+  ],
+  "slug": "verge-rates-iphone-duo-7-10-highlights-review-challenges-9ecaeb",
+  "reading_minutes": 1,
+  "added": "2026-10-23T18:22:15Z"
+ },
+ {
   "id": "f2017d1aaeb84ddc",
   "source_url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo",
   "source": "BBC News",
@@ -668,6 +1252,113 @@
   "slug": "ian-poulter-departs-liv-golf-focus-family-youtube-a231e4",
   "reading_minutes": 1,
   "added": "2026-10-23T16:58:43Z"
+ },
+ {
+  "id": "e89eb87148b7c104",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po",
+  "source": "BBC Sport",
+  "source_title": "PSG v Lyon moved as Paris prepares for more protests",
+  "source_summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e74/live/35aca470-cee7-11f1-bdca-23c64447299f.jpg",
+  "published": "2026-10-23T14:18:41+00:00",
+  "headline": "PSG Match vs Lyon Delayed 24 Hours Amid Paris Protest Preparations",
+  "body": [
+   {
+    "type": "p",
+    "text": "Paris Saint‑Germain's Ligue 1 fixture against Olympique Lyonnais at the Parc des Princes has been postponed by one day. The French football authorities shifted the game 24 hours later as the capital readies for another weekend of demonstrations."
+   },
+   {
+    "type": "p",
+    "text": "The decision aims to reduce the risk of disruptions to the match and ensure the safety of supporters, players and staff. Both clubs will now adjust their training and travel plans to accommodate the new kickoff time."
+   },
+   {
+    "type": "p",
+    "text": "The rescheduling reflects ongoing tensions in Paris, where authorities anticipate large‑scale protests that could affect public transport and crowd control around major events."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The delay highlights how civil unrest can impact major sporting events across Europe, affecting travel plans for fans and broadcasting schedules."
+   }
+  ],
+  "key_points": [
+   "PSG vs Lyon has been moved back by 24 hours due to expected protests in Paris.",
+   "The match will still be played at the Parc des Princes under the revised schedule.",
+   "Authorities cite safety concerns for fans and participants as the reason for the change."
+  ],
+  "meta_description": "PSG's Ligue 1 clash with Lyon is postponed 24 hours as Paris prepares for further protests, affecting fans and scheduling.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "PSG",
+   "Lyon",
+   "Ligue 1",
+   "protests",
+   "Paris",
+   "football"
+  ],
+  "slug": "psg-match-vs-lyon-delayed-24-hours-amid-paris-e89eb8",
+  "reading_minutes": 1,
+  "added": "2026-10-23T18:22:07Z"
+ },
+ {
+  "id": "be41da5f546d59a1",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o",
+  "source": "BBC Sport",
+  "source_title": "Arsenal fear Saka could be out for two months",
+  "source_summary": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64fd/live/22c475a0-cee1-11f1-bdca-23c64447299f.jpg",
+  "published": "2026-10-23T14:09:36+00:00",
+  "headline": "Arsenal Warn Saka May Miss Up To Two Months With Quad Injury",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal forward Bukayo Saka suffered a quadriceps injury during the club's recent match against Bayern Munich, according to the BBC. Medical staff have assessed the damage and estimate that the recovery period could extend to eight weeks, potentially keeping him out of action for two months."
+   },
+   {
+    "type": "p",
+    "text": "The club's medical team will monitor Saka's progress closely, with the aim of returning him to full training as soon as it is safe. In the meantime, Arsenal will need to adjust their attacking options for upcoming Premier League fixtures and European commitments."
+   },
+   {
+    "type": "p",
+    "text": "Saka's absence would be a significant blow to Arsenal's offensive lineup, as he has been a key contributor in both goals and assists this season. The team will look to other squad members to fill the void while the young winger works on rehabilitation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Saka is a pivotal player for Arsenal, and his prolonged absence could affect the club's title challenge and European campaign."
+   }
+  ],
+  "key_points": [
+   "Bukayo Saka injured his quadriceps against Bayern Munich.",
+   "Recovery could take up to eight weeks, sidelining him for two months.",
+   "Arsenal must find alternatives in attack during his absence."
+  ],
+  "meta_description": "Arsenal's Bukayo Saka faces up to two months out after a quadriceps injury sustained versus Bayern Munich.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Bukayo Saka",
+   "injury",
+   "Premier League",
+   "quad injury"
+  ],
+  "slug": "arsenal-warn-saka-may-miss-up-two-months-with-be41da",
+  "reading_minutes": 1,
+  "added": "2026-10-23T18:22:19Z"
  },
  {
   "id": "47320051fdf53f31",
