@@ -139,7 +139,7 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
             description=a["meta_description"], og_image=share_image(a.get("image")) if config.USE_FEED_IMAGES else None))
 
     # --- Static pages -------------------------------------------------------
-    for name in ("about", "privacy", "contact", "editorial", "corrections", "terms"):
+    for name in ("about", "privacy", "contact", "editorial", "corrections", "terms", "newsletter"):
         _write(OUT / name / "index.html", env.get_template(f"{name}.html").render(
             page=name, trending=trending, canonical=abs_url(f"{name}/"),
             title=f"{name.title()} | {config.SITE_NAME}", description=config.SITE_TAGLINE))
@@ -193,7 +193,7 @@ def _build_feeds(articles: list[dict]) -> None:
 
     # sitemap.xml
     urls = [abs_url()] + [abs_url(f"category/{c}/") for c in config.CATEGORIES] \
-        + [abs_url(p) for p in SCORE_PATHS] + [abs_url(f"{n}/") for n in ("about", "editorial", "corrections", "contact", "terms")]
+        + [abs_url(p) for p in SCORE_PATHS] + [abs_url(f"{n}/") for n in ("about", "editorial", "corrections", "contact", "terms", "newsletter")]
     rows = [f"<url><loc>{escape(u)}</loc><changefreq>hourly</changefreq></url>" for u in urls]
     rows += [f"<url><loc>{escape(abs_url('news/' + a['slug'] + '/'))}</loc>"
              f"<lastmod>{a['published'][:10]}</lastmod></url>" for a in indexable]
