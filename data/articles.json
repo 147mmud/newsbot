@@ -1,5 +1,685 @@
 [
  {
+  "id": "47320051fdf53f31",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo",
+  "source": "BBC News",
+  "source_title": "Burnham suggests stocking up on tinned food and bottled water",
+  "source_summary": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c972/live/d689a070-cecc-11f1-8507-45cb00a1c41c.png",
+  "published": "2026-10-23T11:57:31+00:00",
+  "headline": "UK Prime Minister Burnham Urges Stockpiling Tinned Food and Water",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Prime Minister Rishi Burnham warned that unexpected events are occurring more frequently and advised citizens to be ready for emergencies. In a televised address, he highlighted the importance of keeping a supply of non‑perishable food and bottled water at home."
+   },
+   {
+    "type": "p",
+    "text": "Burnham said the guidance applies to a range of scenarios, from severe weather to supply chain disruptions, and urged people to store enough provisions to last several days. He emphasized that personal preparedness complements government response efforts and can reduce strain on public services during crises."
+   },
+   {
+    "type": "p",
+    "text": "The prime minister’s remarks come amid growing concerns about climate‑related incidents and global supply challenges. He encouraged households to review existing emergency kits and update them as needed, noting that simple steps can improve resilience across the nation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For US and European readers, the call mirrors broader concerns about climate‑driven emergencies and underscores the value of household readiness in mitigating societal impacts."
+   }
+  ],
+  "key_points": [
+   "Prime Minister Burnham highlighted the rise of unexpected events and urged citizens to keep tinned food and bottled water on hand.",
+   "He stressed that personal preparedness supports national emergency response and eases pressure on public resources.",
+   "The advice targets a range of potential disruptions, including severe weather and supply chain issues."
+  ],
+  "meta_description": "UK Prime Minister Burnham advises citizens to stock up on tinned food and bottled water as unexpected events become more common.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "Burnham",
+   "emergency preparedness",
+   "food security",
+   "water supply"
+  ],
+  "slug": "uk-prime-minister-burnham-urges-stockpiling-tinned-food-water-473200",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:00:30Z"
+ },
+ {
+  "id": "682388b9603190ad",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o",
+  "source": "BBC News",
+  "source_title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+  "source_summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1887/live/ab960500-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
+  "published": "2026-10-23T11:48:04+00:00",
+  "headline": "UK Introduces £140,000 Earnings Cap for First‑Time Buyer Loans",
+  "body": [
+   {
+    "type": "p",
+    "text": "The British government’s Your First Home scheme will provide loans backed by the state to first‑time purchasers of new‑build properties in England. To qualify, applicants must have an annual income of no more than £140,000, a ceiling set to target the programme at middle‑income buyers."
+   },
+   {
+    "type": "p",
+    "text": "The loans are intended to bridge the gap between deposit requirements and mortgage availability, helping newcomers enter the property market without needing to meet the full price upfront. By focusing on new‑build homes, the scheme also aims to stimulate construction activity and increase the supply of modern housing."
+   },
+   {
+    "type": "p",
+    "text": "Details on the loan size, repayment terms and the exact rollout schedule have not been disclosed, but officials say the initiative will complement existing affordable‑housing measures and support the government’s broader goal of boosting home ownership."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The scheme reflects a policy push to improve housing affordability and stimulate construction, trends that are closely watched by housing markets in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The Your First Home scheme caps eligible earnings at £140,000 for first‑time buyers of new‑build homes in England.",
+   "Government‑backed loans will help buyers cover the cost of new properties, easing entry into the housing market.",
+   "The programme is designed to stimulate construction of new homes while expanding home‑ownership opportunities."
+  ],
+  "meta_description": "UK's Your First Home scheme offers government‑backed loans for new‑build homes, with an earnings limit of £140,000 for first‑time buyers.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "first-time buyers",
+   "UK housing",
+   "government loans",
+   "new-build homes",
+   "earnings cap"
+  ],
+  "slug": "uk-introduces-140-000-earnings-cap-firsttime-buyer-loans-682388",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:00:34Z"
+ },
+ {
+  "id": "ac5e98862ed52dfe",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo",
+  "source": "BBC News",
+  "source_title": "At least one dead and four injured in Paris suburb shooting",
+  "source_summary": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ff/live/d6558960-ced2-11f1-8507-45cb00a1c41c.jpg",
+  "published": "2026-10-23T11:44:12+00:00",
+  "headline": "One Killed, Four Injured in Shooting Near Paris, Anti‑Terror Police Investigate",
+  "body": [
+   {
+    "type": "p",
+    "text": "A shooting in the western Paris suburb of Trappes left at least one person dead and four others wounded, according to French authorities. Emergency services responded to the incident, which occurred on Tuesday, and transported the victims to local hospitals."
+   },
+   {
+    "type": "p",
+    "text": "Anti‑terrorism police have taken over the investigation, indicating the possibility of a terrorist motive, though details about the shooter or the circumstances remain unclear. Officials have not released further information about the weapon used or any potential links to extremist groups."
+   },
+   {
+    "type": "p",
+    "text": "The incident adds to a series of recent violent episodes across France, prompting heightened security measures in the region. Local residents were advised to avoid the area while police continue their inquiries."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack underscores ongoing security concerns in France and may influence broader European counter‑terrorism policies."
+   }
+  ],
+  "key_points": [
+   "A shooting in Trappes, west of Paris, resulted in one death and four injuries.",
+   "Anti‑terrorism police are now leading the investigation into the incident."
+  ],
+  "meta_description": "One dead and four injured in a shooting in Trappes, France, with anti‑terror police now investigating.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "shooting",
+   "France",
+   "Trappes",
+   "anti‑terror",
+   "casualties",
+   "security"
+  ],
+  "slug": "one-killed-four-injured-shooting-near-paris-antiterror-police-ac5e98",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:00:37Z"
+ },
+ {
+  "id": "53fa6b639c725b08",
+  "source_url": "https://www.dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+  "source_summary": "After two years of protests, Serbia faces a pivotal election on Sunday, with a student-led challenge to Aleksandar Vucic's lengthy rule. Allegations of electoral irregularities and fears of a post-election crisis abound.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79737265_6.jpg",
+  "published": "2026-10-23T11:43:00+00:00",
+  "headline": "Serbia Prepares for Pivotal Parliamentary Vote Amid Protests",
+  "body": [
+   {
+    "type": "p",
+    "text": "Serbia is set to hold a national parliamentary election on Sunday, a vote that comes after two years of widespread protests. The demonstrations have been driven largely by students and other opposition groups who seek to end the long tenure of President Aleksandar Vučić and his ruling party."
+   },
+   {
+    "type": "p",
+    "text": "Opposition leaders have warned of possible electoral irregularities and have called for heightened scrutiny of the voting process. They argue that the integrity of the election is essential to avoid a post‑election crisis that could destabilise the country."
+   },
+   {
+    "type": "p",
+    "text": "International observers are expected to monitor the poll, while domestic authorities have pledged to ensure a smooth and transparent count. The outcome will determine whether Vučić’s party retains its dominance or if a new parliamentary coalition emerges."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stability in Serbia is crucial for EU enlargement prospects and for maintaining security in the volatile Balkans region."
+   }
+  ],
+  "key_points": [
+   "Serbia’s Sunday parliamentary election follows two years of student‑led protests against President Aleksandar Vučić.",
+   "Opposition groups warn of possible voting irregularities and a risk of post‑election instability.",
+   "International observers will monitor the vote as the result could reshape Serbia’s political landscape."
+  ],
+  "meta_description": "Serbia heads to a pivotal parliamentary election amid student protests, with concerns over irregularities and potential post‑vote unrest.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Serbia",
+   "election",
+   "Vučić",
+   "protests",
+   "Europe",
+   "parliament"
+  ],
+  "slug": "serbia-prepares-pivotal-parliamentary-vote-amid-protests-53fa6b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T12:00:54Z"
+ },
+ {
+  "id": "6a312cc23b4b1b61",
+  "source_url": "https://www.nytimes.com/2026/10/23/business/dealbook/tech-rotation-nasdaq-ai.html",
+  "source": "The New York Times",
+  "source_title": "A Tech Rotation Roils the Markets, Again",
+  "source_summary": "Investors are bracing for a one-two punch: rising oil prices and concerns about the soaring costs of the artificial intelligence buildout.",
+  "source_tags": [
+   "internal-storyline-no",
+   "CoreWeave",
+   "Meta Platforms Inc",
+   "Artificial Intelligence",
+   "Nasdaq Composite Index",
+   "Stocks and Bonds",
+   "Interest Rates",
+   "Federal Reserve System",
+   "Oil (Petroleum) and Gasoline",
+   "US and Israeli Attack on Iran (2026)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23db-nasdaq-wclt/23db-nasdaq-wclt-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T11:42:50+00:00",
+  "headline": "Tech Rotation and Higher Oil Prices Shake Global Markets",
+  "body": [
+   {
+    "type": "p",
+    "text": "Investors are confronting a dual challenge as oil prices climb and the cost of building artificial‑intelligence capabilities spikes. The simultaneous pressure from energy markets and the expanding AI spend is prompting a shift in sector allocations, with technology stocks losing ground to more defensive holdings."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the rising price of crude has added a layer of inflationary risk, while companies racing to deploy AI hardware and software are reporting higher capital expenditures than anticipated. This combination is unsettling market sentiment and driving a rotation away from high‑growth tech names toward sectors perceived as more stable."
+   },
+   {
+    "type": "p",
+    "text": "The trend reflects broader concerns that the AI buildout could strain corporate balance sheets at a time when energy costs are also on the rise, creating a volatile environment for equity investors worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The twin pressures on energy and technology costs could affect portfolio performance for U.S. and European investors, influencing asset allocation decisions."
+   }
+  ],
+  "key_points": [
+   "Oil price increases and soaring AI investment costs are pressuring equity markets.",
+   "Investors are rotating out of high‑growth tech stocks toward defensive sectors.",
+   "Higher energy and AI spending may tighten corporate budgets and boost market volatility."
+  ],
+  "meta_description": "Rising oil prices and escalating AI buildout costs trigger a market rotation away from tech, unsettling investors worldwide.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "oil prices",
+   "artificial intelligence",
+   "market rotation",
+   "tech stocks",
+   "investor sentiment"
+  ],
+  "slug": "tech-rotation-higher-oil-prices-shake-global-markets-6a312c",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:00:50Z"
+ },
+ {
+  "id": "e2e7a237f2a1e3ff",
+  "source_url": "https://www.nytimes.com/2026/10/23/business/dealbook/pennylane-ai-accounting-france.html",
+  "source": "The New York Times",
+  "source_title": "A.I. and New Rules for Accounting Are an Opportunity for Start-Ups",
+  "source_summary": "Pennylane, a French company, has gained market share in its home country by helping accountants work with clients. It’s aiming to expand internationally.",
+  "source_tags": [
+   "Accounting and Accountants",
+   "Artificial Intelligence",
+   "Start-ups",
+   "BDO International",
+   "Pennylane",
+   "France"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23db-pennylane-wpqc/23db-pennylane-wpqc-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T11:39:37+00:00",
+  "headline": "French FinTech Pennylane Leverages AI and New Accounting Rules to Expand Abroad",
+  "body": [
+   {
+    "type": "p",
+    "text": "Pennylane, a French financial‑technology firm, has increased its share of the domestic market by offering tools that let accountants collaborate more efficiently with their clients. The company’s platform integrates artificial intelligence to automate routine bookkeeping tasks and streamline reporting."
+   },
+   {
+    "type": "p",
+    "text": "Recent changes to accounting regulations in Europe have opened new opportunities for technology providers, and Pennylane is positioning itself to benefit from the shift. The firm plans to roll out its services beyond France, targeting other European markets where similar regulatory reforms are taking hold."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the combination of AI capabilities and evolving compliance requirements is creating a fertile environment for start‑ups focused on the accounting sector. Pennylane’s growth strategy reflects a broader trend of fintech firms seeking to capitalize on the demand for digital solutions among professional service providers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move illustrates how regulatory updates can spur fintech expansion, a pattern relevant to U.S. and European firms adapting to similar accounting reforms."
+   }
+  ],
+  "key_points": [
+   "Pennylane has grown its French market share by using AI to aid accountants.",
+   "New European accounting rules are driving demand for fintech solutions.",
+   "The company aims to expand its platform to other European countries."
+  ],
+  "meta_description": "French fintech Pennylane uses AI and new accounting rules to grow domestically and plans European expansion.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "accounting",
+   "fintech",
+   "startups",
+   "expansion",
+   "France"
+  ],
+  "slug": "french-fintech-pennylane-leverages-ai-new-accounting-rules-expand-e2e7a2",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:01:09Z"
+ },
+ {
+  "id": "462bd9a0f845990b",
+  "source_url": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
+  "source": "The New York Times",
+  "source_title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
+  "source_summary": "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election.",
+  "source_tags": [
+   "Politics and Government",
+   "Agriculture and Farming",
+   "Elections",
+   "Evangelical Movement",
+   "Bolsonaro, Flavio",
+   "Bolsonaro, Jair (1955- )",
+   "Da Silva, Luiz Inacio Lula",
+   "Brazil",
+   "Minas Gerais (Brazil)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/20/world/00int-brazil-minas-02/00int-brazil-minas-02-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T11:38:12+00:00",
+  "headline": "Brazil Election Runoff Highlights Evangelical Stronghold’s Role",
+  "body": [
+   {
+    "type": "p",
+    "text": "As Brazil heads toward a runoff election on Sunday, a small town in the nation’s cattle country is drawing attention for its overwhelmingly evangelical voter base. Residents there express strong support for former President Jair Bolsonaro, offering a micro‑cosm of the religious fervor that has propelled his political resurgence."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the town’s sentiments help explain why Brazil’s current left‑leaning president faces an uphill battle. While the national campaign remains fiercely contested, the evangelical community’s alignment with Bolsonaro underscores a broader cultural divide that is shaping voter preferences across the country."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts suggest that the town’s example may be indicative of a larger pattern in rural Brazil, where traditional values and religious identity intersect with political choices. This dynamic is contributing to the leftist incumbent’s status as the underdog in the upcoming runoff."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Brazil’s election outcome could affect regional trade and diplomatic relations, making the evangelical influence relevant to U.S. and European interests."
+   }
+  ],
+  "key_points": [
+   "A rural evangelical town in Brazil is showing strong support for Jair Bolsonaro ahead of the runoff election.",
+   "The town’s voter sentiment illustrates the cultural and religious factors influencing Brazil’s political landscape.",
+   "Brazil’s leftist president is considered the underdog as evangelical backing bolsters Bolsonaro’s campaign."
+  ],
+  "meta_description": "A Brazilian evangelical town's support for Bolsonaro sheds light on the leftist president's underdog status in the upcoming runoff.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "election",
+   "Bolsonaro",
+   "evangelical",
+   "runoff",
+   "politics"
+  ],
+  "slug": "brazil-election-runoff-highlights-evangelical-strongholds-role-462bd9",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:01:13Z"
+ },
+ {
+  "id": "a580c2639aed4b4f",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+  "source": "The Guardian",
+  "source_title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
+  "source_summary": "Trump to campaign for gubernatorial candidate Byron Donalds, who has distanced himself from president; Trump doubled down on support for Ramaswamy Good morning and welcome to our live coverage of US politics. Donald Trump is travelling to Florida today to speak at another rally as midterm election day races nearer. The president will stump for gubernatorial candidate Byron Donalds. Whether Donalds regards this as helpful remains to be seen after he removed mentions of the president from his website and has barely uttered his name during the race for governor.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Donald Trump",
+   "US politics",
+   "Trump administration",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/5ceda75255b508823a729df26fcba1619b60d996/575_0_5726_4583/master/5726.jpg?width=700&quality=85&auto=format&fit=max&s=824a1f8a46c26704f478768033d624b5",
+  "published": "2026-10-23T11:35:16+00:00",
+  "headline": "Trump Rallies in Florida to Back Gubernatorial Candidate Byron Donalds",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump traveled to Florida on Tuesday to headline a rally as the midterm election season intensifies. The event was billed as a show of support for Republican gubernatorial hopeful Byron Donalds, who is running for governor in the state."
+   },
+   {
+    "type": "p",
+    "text": "Donald’s endorsement comes despite Donalds’ recent attempts to distance himself from the former president, including removing references to Trump from his campaign website and limiting mentions of him in public statements. Trump, however, doubled down on his backing, also defending the controversial political ad featuring fellow Republican Vivek Ramaswamy that has sparked criticism."
+   },
+   {
+    "type": "p",
+    "text": "The rally underscores the ongoing influence of Trump within the Republican Party, even as some candidates seek to chart a more independent path. Observers note that the president’s presence could boost Donalds’ visibility, though it remains uncertain how the candidate’s own distancing strategy will affect voter perception."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rally highlights Trump’s continued sway over Republican races, a factor that could shape upcoming U.S. elections and influence party dynamics in Europe."
+   }
+  ],
+  "key_points": [
+   "Trump campaigned in Florida for gubernatorial candidate Byron Donalds despite the latter’s recent distancing from the former president.",
+   "Donald has removed references to Trump from his website and rarely mentions him in the race.",
+   "Trump also defended a contentious Ramaswamy ad during the rally."
+  ],
+  "meta_description": "Trump rallies in Florida to support gubernatorial candidate Byron Donalds, who has recently distanced himself from the former president.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Byron Donalds",
+   "Florida rally",
+   "Republican Party",
+   "midterm elections"
+  ],
+  "slug": "trump-rallies-florida-back-gubernatorial-candidate-byron-donalds-a580c2",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:01:05Z"
+ },
+ {
+  "id": "ec1f9ba7d89ceda4",
+  "source_url": "https://www.nytimes.com/2026/10/23/podcasts/hardfork-billy-evans-holmes.html",
+  "source": "The New York Times",
+  "source_title": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
+  "source_summary": "“You shouldn’t overbeat scrambled eggs.”",
+  "source_tags": [
+   "Theranos Inc",
+   "Holmes, Elizabeth (1984- )",
+   "Evans, William (Billy)",
+   "Haemanthus Inc",
+   "Start-ups",
+   "You Can See Everything (Movie)",
+   "internal-open-access-audio",
+   "Tests (Medical)",
+   "Blood",
+   "Documentary Films and Programs"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/23/podcasts/23hardfork-billy-evans-holmes/23hardfork-billy-evans-holmes-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T11:00:05+00:00",
+  "headline": "What’s the Deal with Billy Evans? a Spoiler-Filled Guide to ‘You Can See Everything’",
+  "body": [
+   {
+    "type": "p",
+    "text": "In technology news, The New York Times reports:"
+   },
+   {
+    "type": "quote",
+    "text": "“You shouldn’t overbeat scrambled eggs.”",
+    "cite": "The New York Times"
+   }
+  ],
+  "key_points": [],
+  "meta_description": "“You shouldn’t overbeat scrambled eggs.”",
+  "category": "tech",
+  "mode": "offline",
+  "index": false,
+  "tags": [
+   "Theranos Inc",
+   "Holmes, Elizabeth (1984- )",
+   "Evans, William (Billy)",
+   "Haemanthus Inc",
+   "Start-ups",
+   "internal-open-access-audio",
+   "Tests (Medical)",
+   "Blood"
+  ],
+  "slug": "whats-deal-with-billy-evans-spoiler-filled-guide-you-ec1f9b",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:00:41Z"
+ },
+ {
+  "id": "10b1e6c4d14e0a80",
+  "source_url": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+  "source": "The Verge",
+  "source_title": "Startup equips genetically enhanced dogs with Palmer Luckey’s military tech",
+  "source_summary": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, co-founder of Colossal Biosciences (the company that says it's trying to resurrect extinct animals), […]",
+  "source_tags": [
+   "News",
+   "Science",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Warhound-Palmer-Luckey-startup-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T10:58:03+00:00",
+  "headline": "Warhound Startup to Genetically Enhance US Police Dogs with Anduril Tech",
+  "body": [
+   {
+    "type": "p",
+    "text": "A Texas‑based defense startup called Warhound announced plans to create genetically modified dogs for use by the U.S. military and police forces. The company intends to combine DNA editing techniques with Anduril Industries' battlefield technology, aiming to produce canines with heightened physical abilities and integrated sensor systems."
+   },
+   {
+    "type": "p",
+    "text": "Warhound was founded by Palmer Luckey, the creator of Oculus and current head of Anduril, together with Ben Lamm, co‑founder of Colossal Biosciences, which is known for its work on de‑extinction projects. The venture seeks to embed Anduril’s surveillance and communication hardware directly into the animals, offering real‑time data to handlers during operations."
+   },
+   {
+    "type": "p",
+    "text": "The proposal has drawn attention for merging cutting‑edge biotech with military hardware, raising questions about ethical standards and the future role of animals in security contexts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "If realized, the technology could reshape how police and military units conduct surveillance and tactical missions, while also sparking debate over animal welfare and bio‑ethical standards."
+   }
+  ],
+  "key_points": [
+   "Warhound aims to produce genetically edited dogs equipped with Anduril's surveillance tech for defense and law‑enforcement use.",
+   "The startup was launched by Palmer Luckey of Anduril and Ben Lamm of Colossal Biosciences.",
+   "The project blends biotech and military hardware, prompting ethical and regulatory scrutiny."
+  ],
+  "meta_description": "Warhound, a Texas startup founded by Palmer Luckey and Ben Lamm, plans to genetically enhance US police and military dogs with Anduril tech.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "defense",
+   "genetics",
+   "police dogs",
+   "Anduril",
+   "startup",
+   "military technology"
+  ],
+  "slug": "warhound-startup-genetically-enhance-us-police-dogs-with-anduril-10b1e6",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:00:58Z"
+ },
+ {
+  "id": "0ce43a3250cd9237",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/c6ly35rzdgxyo",
+  "source": "BBC Sport",
+  "source_title": "Boulter into Japan semi-finals and back as British No 1",
+  "source_summary": "Katie Boulter reclaims the British number one ranking after fighting back to beat Antonia Ruzic in three sets in the quarter-finals of the Japan Open.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0430/live/34c414d0-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
+  "published": "2026-10-23T10:22:32+00:00",
+  "headline": "Katie Boulter Reclaims British No.1 Spot After Japan Open Win",
+  "body": [
+   {
+    "type": "p",
+    "text": "British tennis player Katie Boulter fought back from a set down to defeat Antonia Ruzic in three sets in the quarter-finals of the Japan Open on Sunday. The victory secured her place in the semi-finals of the tournament."
+   },
+   {
+    "type": "p",
+    "text": "The win also saw Boulter regain the British number one ranking, overtaking her domestic rivals after the upset. Her performance in Tokyo marks a significant rise in form as she heads into the latter stages of the event."
+   },
+   {
+    "type": "p",
+    "text": "Boulter will now look to build on her momentum in the semi-finals, aiming to add a title to her résumé and consolidate her position at the top of the UK women's rankings."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Boulter's climb to the top of the UK rankings highlights a shift in British women's tennis ahead of the busy autumn calendar, affecting seedings and fan interest in upcoming European events."
+   }
+  ],
+  "key_points": [
+   "Katie Boulter beat Antonia Ruzic in three sets to reach the Japan Open semi-finals.",
+   "The victory returned her to the British No.1 ranking in women's tennis.",
+   "Boulter's resurgence comes ahead of the upcoming European hard‑court season."
+  ],
+  "meta_description": "Katie Boulter reaches Japan Open semi-finals and reclaims British No.1 ranking after a three‑set win over Antonia Ruzic.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tennis",
+   "Katie Boulter",
+   "Japan Open",
+   "British rankings",
+   "women's tennis"
+  ],
+  "slug": "katie-boulter-reclaims-british-no-1-spot-after-japan-0ce43a",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:00:46Z"
+ },
+ {
+  "id": "c115b33083428fad",
+  "source_url": "https://www.bbc.co.uk/sport/boxing/articles/c8y56qlzqq96o",
+  "source": "BBC Sport",
+  "source_title": "How world champion Smith can become a mainstream star",
+  "source_summary": "In his BBC Sport column, Tony Bellew explains why Dalton Smith could be British boxing's next superstar - and why he should fight Adam Azim at Hillsborough.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/366b/live/74aba0d0-cd62-11f1-b962-b7ff822cde72.jpg",
+  "published": "2026-10-23T09:20:03+00:00",
+  "headline": "World Champion Dalton Smith Poised for Mainstream Boxing Stardom",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent BBC Sport column, former champion Tony Bellew argued that Dalton Smith has the potential to become British boxing’s next major star. Bellew highlighted Smith’s recent world title success and suggested that his marketability could extend beyond the sport’s traditional fan base."
+   },
+   {
+    "type": "p",
+    "text": "Bellew also recommended that Smith take on fellow rising prospect Adam Azim in a bout at Hillsborough. He believes the matchup would generate significant interest and provide a platform for Smith to showcase his skills to a broader audience."
+   },
+   {
+    "type": "p",
+    "text": "The columnist stressed that a high‑profile fight against Azim could be a turning point, helping Smith transition from a champion within the ring to a mainstream celebrity in the UK and potentially abroad."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Boxing fans in the US and Europe are watching the emergence of new talent that could reshape the sport’s global popularity."
+   }
+  ],
+  "key_points": [
+   "Tony Bellew sees Dalton Smith as the next British boxing superstar.",
+   "A fight with Adam Azim at Hillsborough could boost Smith’s mainstream appeal."
+  ],
+  "meta_description": "Tony Bellew argues Dalton Smith could become a mainstream boxing star, urging a clash with Adam Azim at Hillsborough.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Dalton Smith",
+   "boxing",
+   "Tony Bellew",
+   "Adam Azim",
+   "Hillsborough",
+   "sports marketing"
+  ],
+  "slug": "world-champion-dalton-smith-poised-mainstream-boxing-stardom-c115b3",
+  "reading_minutes": 1,
+  "added": "2026-10-23T12:01:02Z"
+ },
+ {
   "id": "c1113a7020d2867c",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo",
   "source": "BBC Sport",
