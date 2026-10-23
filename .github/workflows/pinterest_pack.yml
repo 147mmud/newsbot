@@ -6,6 +6,13 @@ on:
   schedule:
     - cron: "17 5 * * *"
   workflow_dispatch:
+    inputs:
+      news:
+        description: "Number of news Pins"
+        default: "8"
+      scores:
+        description: "Number of scoreboard Pins"
+        default: "3"
 
 permissions:
   contents: read
@@ -27,6 +34,8 @@ jobs:
       - name: Build pack
         env:
           SITE_URL: ${{ vars.SITE_URL }}
+          PIN_PACK_NEWS: ${{ github.event.inputs.news || '8' }}
+          PIN_PACK_SCORES: ${{ github.event.inputs.scores || '3' }}
         run: python -m bot.pinterest_pack
       - uses: actions/upload-artifact@v4
         with:
