@@ -1,5 +1,675 @@
 [
  {
+  "id": "f2017d1aaeb84ddc",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo",
+  "source": "BBC News",
+  "source_title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
+  "source_summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b35/live/2d096810-2f13-11ef-90be-b75b34b0bbb2.jpg",
+  "published": "2026-10-23T16:53:45+00:00",
+  "headline": "Ex‑Tory Campaign Chief and Wife Sentenced Over Election Betting Scheme",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Conservative Party campaign director Anthony Lee and his wife Laura Lee have each received suspended prison sentences after a court found they had shared confidential information about the timing of the 2024 UK general election. The couple used the insider knowledge to place bets on the election date, breaching electoral regulations and gambling laws."
+   },
+   {
+    "type": "p",
+    "text": "The court heard that Anthony Lee, while still in his senior campaign role, disclosed the exact date of the election to his wife, who then placed wagers with a betting firm. Both were convicted of conspiracy to defraud and were handed suspended sentences, reflecting the seriousness of the offence while acknowledging mitigating factors such as their lack of prior convictions."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts say the case underscores the strict enforcement of rules governing the handling of sensitive political information. The sentencing sends a clear message that misuse of privileged data for personal gain will not be tolerated, even when the offence does not involve direct electoral fraud."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights the UK’s commitment to safeguarding electoral integrity, a concern for democracies worldwide, including the US and EU."
+   }
+  ],
+  "key_points": [
+   "Anthony Lee, a former Tory campaign chief, passed election timing details to his wife for betting purposes.",
+   "Both Lee and his wife received suspended sentences after being convicted of conspiracy to defraud."
+  ],
+  "meta_description": "Ex‑Tory campaign chief Anthony Lee and his wife get suspended sentences for using confidential election timing to place bets.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK politics",
+   "election integrity",
+   "legal sentencing",
+   "gambling",
+   "conservative party"
+  ],
+  "slug": "extory-campaign-chief-wife-sentenced-over-election-betting-scheme-f2017d",
+  "reading_minutes": 1,
+  "added": "2026-10-23T16:58:07Z"
+ },
+ {
+  "id": "55f38e2b0de99dce",
+  "source_url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+  "source": "The Verge",
+  "source_title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+  "source_summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]",
+  "source_tags": [
+   "AI",
+   "Google",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T16:52:55+00:00",
+  "headline": "Google Updates Policy to Allow Gmail and Photos Data for Ad Targeting",
+  "body": [
+   {
+    "type": "p",
+    "text": "Google has revised its privacy policy to include an exception that permits the company to use data from Gmail, Google Drive and Google Photos for personalized advertising when users engage with its personalized AI features. The change was identified by Android Authority and marks a departure from Google's earlier pledge not to leverage these services for ad targeting."
+   },
+   {
+    "type": "p",
+    "text": "The updated terms indicate that the data may be employed to deliver ads that are more relevant to individual users, but only in contexts where the AI-driven experience is enabled. Google has not disclosed how broadly the new practice will be applied or which specific ad formats will be affected."
+   },
+   {
+    "type": "p",
+    "text": "The policy shift arrives as regulators in the United States and Europe intensify scrutiny of how tech firms handle personal information for commercial purposes. Google’s move could prompt further examination of compliance with existing privacy regulations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The amendment could affect how personal content is monetized, raising privacy concerns for users in the US and Europe where data‑protection laws are strict."
+   }
+  ],
+  "key_points": [
+   "Google's new privacy policy allows use of Gmail, Drive and Photos data for personalized ads tied to AI features.",
+   "The change was spotted by Android Authority and represents a break from Google's prior commitment.",
+   "Regulators may review the policy amendment amid growing global privacy oversight."
+  ],
+  "meta_description": "Google's updated privacy policy may let it use Gmail and Photos data for targeted ads linked to personalized AI features.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Google",
+   "privacy policy",
+   "advertising",
+   "AI",
+   "data protection"
+  ],
+  "slug": "google-updates-policy-allow-gmail-photos-data-ad-targeting-55f38e",
+  "reading_minutes": 1,
+  "added": "2026-10-23T16:58:11Z"
+ },
+ {
+  "id": "0a277f5b0937e9be",
+  "source_url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+  "source": "CNBC",
+  "source_title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+  "source_summary": "Airlines are reporting fewer people flew in the third quarter as airfare surged on fuel costs, but executives say travelers are mostly swallowing higher fares.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108363280-1789501763591-gettyimages-2267575658-_sm36684.jpeg?v=1789501842&w=1920&h=1080",
+  "published": "2026-10-23T16:51:21+00:00",
+  "headline": "Airlines See Drop in Q3 Passengers as Fuel‑Driven Fares Surge",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. and European carriers reported a decline in passenger volumes for the third quarter, even as average ticket prices climbed sharply. Executives attribute the dip to higher fuel expenses that have forced airlines to raise fares across the board."
+   },
+   {
+    "type": "p",
+    "text": "Despite the reduced load factor, airline leaders say most travelers are continuing to book flights, absorbing the cost increases rather than postponing or canceling trips. The trend reflects a willingness to pay more for the convenience of air travel, even as discretionary spending faces pressure from broader inflation."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the surge in airfare could reshape pricing strategies and capacity planning for the upcoming holiday season. Airlines are monitoring demand closely, balancing the need to cover rising operational costs with the risk of further eroding passenger numbers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher ticket prices affect travel budgets for U.S. and European consumers and could impact airline profitability ahead of peak travel seasons."
+   }
+  ],
+  "key_points": [
+   "Third‑quarter passenger numbers fell while average fares rose due to higher fuel costs.",
+   "Airlines say most travelers are accepting the price hikes rather than cutting back on flights.",
+   "The pattern may influence airline pricing and capacity decisions for the holiday travel period."
+  ],
+  "meta_description": "Airlines report fewer Q3 passengers as fuel‑driven fare hikes push travelers to absorb higher costs.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "airlines",
+   "airfare",
+   "fuel costs",
+   "passenger trends",
+   "travel industry"
+  ],
+  "slug": "airlines-see-drop-q3-passengers-fueldriven-fares-surge-0a277f",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T16:58:15Z"
+ },
+ {
+  "id": "5e0b187c4df2f503",
+  "source_url": "https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html",
+  "source": "The New York Times",
+  "source_title": "Trump Officials Seek Block on Alaska Senate Race Results if the Republican Dan Sullivan Loses",
+  "source_summary": "The Justice Department, in a highly unusual court filing, argued that confusion over candidates with similar names could taint the election result.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Elections, Senate",
+   "Sullivan, Daniel Scott (1964- )",
+   "Peltola, Mary",
+   "Trump, Donald J",
+   "Justice Department",
+   "Senate"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-alaska-sub-wpfj/23dc-alaska-sub-wpfj-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T16:46:17+00:00",
+  "headline": "Trump Officials Seek Block of Senate Results Over Name Confusion",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Justice Department filed an unusual court motion on Monday, urging a judge to halt the certification of Alaska's Senate race results. The filing, submitted by attorneys linked to former President Donald Trump, argues that the presence of candidates with similar names could create voter confusion and compromise the integrity of the election outcome."
+   },
+   {
+    "type": "p",
+    "text": "The request specifically targets the race involving Republican incumbent Dan Sullivan. If Sullivan were to lose, the filing seeks to block the final tally and potentially trigger a new election or other remedial action. Legal experts note that such a move is rare and could set a precedent for future contests where name similarity is cited as a source of error."
+   },
+   {
+    "type": "p",
+    "text": "The Department of Justice's argument hinges on the claim that voters may have mistakenly selected the wrong candidate on the ballot, a scenario the filing says warrants judicial intervention. The court has not yet ruled on the request, and the Alaska Secretary of State's office maintains that the election process remains valid pending any legal determination."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case could affect the final composition of the U.S. Senate and set a legal precedent for handling ballot confusion in elections across the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "The DOJ filed a court motion to block Alaska's Senate results if Dan Sullivan loses, citing voter confusion over similar candidate names.",
+   "The filing is an uncommon legal strategy that could influence how future elections address name similarity issues."
+  ],
+  "meta_description": "Trump-linked officials ask a court to block Alaska Senate results over voter confusion from similar candidate names.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "Senate race",
+   "Justice Department",
+   "election law",
+   "Dan Sullivan",
+   "candidate name confusion"
+  ],
+  "slug": "trump-officials-seek-block-senate-results-over-name-confusion-5e0b18",
+  "reading_minutes": 1,
+  "added": "2026-10-23T16:58:28Z"
+ },
+ {
+  "id": "e3143671aa4361de",
+  "source_url": "https://www.nytimes.com/2026/10/23/us/politics/democratic-agenda.html",
+  "source": "The New York Times",
+  "source_title": "Here’s What Democrats Plan to Do With Their Power if They Win Back Congress",
+  "source_summary": "Democrats have campaigned on lowering living costs and holding the Trump administration accountable. This is a look at their to-do list if they win the majority.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "United States Politics and Government",
+   "Democratic Party",
+   "House of Representatives",
+   "Senate",
+   "US and Israeli Attack on Iran (2026)",
+   "Medicaid",
+   "Cost of Living and Affordability"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-dems-power-01-cvlh/23dc-dems-power-01-cvlh-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T16:43:54+00:00",
+  "headline": "Democrats Outline Agenda to Cut Costs and Check Trump Administration",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic leaders have released a roadmap of priorities they intend to pursue if they regain control of Congress, focusing on reducing the cost of living for American families. The plan emphasizes measures to lower prices for essentials such as housing, healthcare, and energy, reflecting campaign promises made to voters across the nation."
+   },
+   {
+    "type": "p",
+    "text": "In addition to economic relief, the Democrats say they will intensify oversight of the Trump administration, seeking to hold officials accountable for policies and actions taken during the former president’s tenure. The agenda includes launching investigations and pursuing legislative reforms aimed at increasing transparency and restoring public trust in government institutions."
+   },
+   {
+    "type": "p",
+    "text": "The outlined agenda also signals a broader push for legislative action on issues like climate change, voting rights, and social safety nets, though specific proposals were not detailed in the summary. By presenting this to‑do list, Democratic leaders aim to convey a clear contrast with the current Republican‑led Congress and rally support for their upcoming campaign."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The agenda signals how a Democratic majority could shift U.S. policy on economic relief and government accountability, affecting transatlantic trade and diplomatic relations."
+   }
+  ],
+  "key_points": [
+   "Democrats plan to lower living costs by targeting housing, healthcare, and energy prices.",
+   "The party intends to increase oversight of the Trump administration through investigations and reforms."
+  ],
+  "meta_description": "Democrats outline plans to cut living costs and increase oversight of the Trump administration if they win back Congress.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Democrats",
+   "Congress",
+   "cost of living",
+   "government oversight",
+   "Trump administration"
+  ],
+  "slug": "democrats-outline-agenda-cut-costs-check-trump-administration-e31436",
+  "reading_minutes": 1,
+  "added": "2026-10-23T16:58:47Z"
+ },
+ {
+  "id": "c0e79d37fc6fb2a8",
+  "source_url": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
+  "source": "The New York Times",
+  "source_title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+  "source_summary": "The Israeli military said two soldiers and two attackers had been killed, and Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
+  "source_tags": [
+   "Netanyahu, Benjamin",
+   "Hebron (West Bank)",
+   "Israel",
+   "West Bank",
+   "Palestinians"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23Int-Israel-Shooting-02-lvmh/23Int-Israel-Shooting-02-lvmh-mediumSquareAt3X-v2.jpg",
+  "published": "2026-10-23T16:41:01+00:00",
+  "headline": "Israeli Soldiers Killed as Palestinian Gunmen Attack West Bank",
+  "body": [
+   {
+    "type": "p",
+    "text": "Palestinian gunmen opened fire on Israeli forces in the occupied West Bank, killing two Israeli soldiers, the Israeli military said. The clash also resulted in the deaths of two of the attackers."
+   },
+   {
+    "type": "p",
+    "text": "Prime Minister Benjamin Netanyahu responded by pledging a major offensive in the territory, signaling a possible escalation of military operations. Israeli officials emphasized that the attack was a serious breach of security in the area."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident heightens tensions in the Israeli‑Palestinian conflict, a focal point of U.S. and European foreign‑policy concerns."
+   }
+  ],
+  "key_points": [
+   "Two Israeli soldiers and two Palestinian attackers were killed in a West Bank shooting.",
+   "Prime Minister Benjamin Netanyahu vowed a major offensive following the incident."
+  ],
+  "meta_description": "Two Israeli soldiers and two Palestinian attackers were killed in a West Bank shooting; Netanyahu vows major offensive.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "West Bank",
+   "Palestinian militants",
+   "Netanyahu",
+   "conflict"
+  ],
+  "slug": "israeli-soldiers-killed-palestinian-gunmen-attack-west-bank-c0e79d",
+  "reading_minutes": 1,
+  "added": "2026-10-23T16:58:19Z"
+ },
+ {
+  "id": "bcfcdf738a64445d",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go",
+  "source": "BBC Sport",
+  "source_title": "Kompany taken to hospital after collapsing at training",
+  "source_summary": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the club's second team train on Friday.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f178/live/0950f610-cefb-11f1-accf-3309656ad0bb.jpg",
+  "published": "2026-10-23T16:39:03+00:00",
+  "headline": "Bayern Munich Manager Vincent Kompany Hospitalised After Collapse at Training",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bayern Munich manager Vincent Kompany was taken to hospital on Friday after he collapsed while observing the club's second team training session. The incident occurred as he watched the youngsters practice, prompting immediate medical attention."
+   },
+   {
+    "type": "p",
+    "text": "Club officials confirmed that Kompany was transported to a nearby hospital for assessment. No further details about his condition or the cause of the collapse were released at the time of reporting."
+   },
+   {
+    "type": "p",
+    "text": "The unexpected health scare comes as Bayern Munich prepares for upcoming fixtures, and the manager's wellbeing is central to the team's preparation and performance."
+   }
+  ],
+  "key_points": [
+   "Vincent Kompany collapsed while watching Bayern Munich's second team train.",
+   "He was promptly taken to a hospital for medical evaluation.",
+   "No further information on his condition was provided in the initial report."
+  ],
+  "meta_description": "Bayern Munich manager Vincent Kompany was hospitalized after collapsing during a second‑team training session, prompting concern for his health.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bayern Munich",
+   "Vincent Kompany",
+   "football",
+   "training incident",
+   "health"
+  ],
+  "slug": "bayern-munich-manager-vincent-kompany-hospitalised-after-collapse-training-bcfcdf",
+  "reading_minutes": 1,
+  "added": "2026-10-23T16:58:23Z"
+ },
+ {
+  "id": "48ee0a6d76f87995",
+  "source_url": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+  "source": "The Verge",
+  "source_title": "The first broken iPhone Duos are here",
+  "source_summary": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]",
+  "source_tags": [
+   "Apple",
+   "Foldable Phones",
+   "Mobile",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T16:37:03+00:00",
+  "headline": "iPhone Duo Launch Marred by Early Reports of Screen Defects",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple's newly released iPhone Duo hit stores today, but early buyers are reporting screen problems on a handful of units. Reddit users who posted about the issue say the defects appear in the same area on each device, specifically along the inner screen near the hinge."
+   },
+   {
+    "type": "p",
+    "text": "The reports describe a visible flaw that manifests on the inner display, though the exact nature of the problem has not been detailed by Apple. No official statement has been released, and it is unclear how many devices are affected."
+   },
+   {
+    "type": "p",
+    "text": "Consumers who have encountered the issue are sharing photos and seeking advice on potential repairs or replacements. The situation highlights the challenges manufacturers can face when rolling out new hardware to a global market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The iPhone Duo is a flagship product for Apple, and early quality issues could affect consumer confidence and resale value in major markets."
+   }
+  ],
+  "key_points": [
+   "iPhone Duo is now on sale, but some early units show screen defects near the hinge.",
+   "Reddit users report the problem appears in the same spot on each affected device.",
+   "Apple has not yet commented on the extent of the issue or offered a remedy."
+  ],
+  "meta_description": "Apple's iPhone Duo launches today, but early buyers report screen defects near the hinge, according to Reddit posts.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "iPhone Duo",
+   "Apple",
+   "product launch",
+   "screen defect",
+   "consumer reports"
+  ],
+  "slug": "iphone-duo-launch-marred-early-reports-screen-defects-48ee0a",
+  "reading_minutes": 1,
+  "added": "2026-10-23T16:58:30Z"
+ },
+ {
+  "id": "7384e5e9f05be7d7",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o",
+  "source": "BBC News",
+  "source_title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+  "source_summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-23T16:33:11+00:00",
+  "headline": "Seven Killed, 34 Injured in Jordan Church Funeral Shooting",
+  "body": [
+   {
+    "type": "p",
+    "text": "Gunmen opened fire on a funeral service at a church in Jordan's southern Karak governorate, killing seven people and wounding 34 others, officials said."
+   },
+   {
+    "type": "p",
+    "text": "The attack occurred during the ceremony for a local resident and prompted an immediate police response. Authorities have launched a manhunt to locate the shooters, but no group has claimed responsibility yet."
+   },
+   {
+    "type": "p",
+    "text": "The incident adds to a series of violent episodes in the region, raising concerns about security at public gatherings and the ability of Jordanian forces to prevent further attacks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The violence underscores regional instability that could affect travel, investment and counter‑terrorism cooperation with Western partners."
+   }
+  ],
+  "key_points": [
+   "Seven people were killed and 34 injured in a church funeral shooting in Karak, Jordan.",
+   "Jordanian police have started a manhunt for the gunmen responsible.",
+   "The attack highlights ongoing security challenges in the country."
+  ],
+  "meta_description": "Seven dead and 34 injured after gunmen attacked a church funeral in Jordan's Karak governorate; police begin a manhunt.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jordan",
+   "shooting",
+   "funeral",
+   "Karak",
+   "casualties",
+   "security"
+  ],
+  "slug": "seven-killed-34-injured-jordan-church-funeral-shooting-7384e5",
+  "reading_minutes": 1,
+  "added": "2026-10-23T16:58:39Z"
+ },
+ {
+  "id": "14edf46e5af1fc29",
+  "source_url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+  "source": "TechCrunch",
+  "source_title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+  "source_summary": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+  "source_tags": [
+   "Fundraising",
+   "Startups",
+   "Daytona",
+   "Firstmark",
+   "In Brief"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+  "published": "2026-10-23T16:26:29+00:00",
+  "headline": "Agent Cloud Startup Daytona Hits $1 Billion Valuation Backed by Stripe, Datadog Founders and FirstMark",
+  "body": [
+   {
+    "type": "p",
+    "text": "Daytona, a startup developing a cloud platform that gives each sales or service agent a dedicated virtual computer, announced a valuation of $1 billion. The company says the valuation reflects strong investor confidence in its approach to agent‑centric cloud services."
+   },
+   {
+    "type": "p",
+    "text": "The funding round was led by venture firm FirstMark and attracted a roster of high‑profile angel investors, including founders of Stripe, Perplextity, Datadog and Mercor. These backers are noted for building and scaling enterprise‑level software businesses."
+   },
+   {
+    "type": "p",
+    "text": "Daytona’s technology aims to simplify the deployment and management of agent workspaces, allowing firms to provide consistent, high‑performance environments without traditional hardware constraints."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The platform could reshape how companies in the US and Europe equip sales and support teams, potentially lowering costs and accelerating digital transformation."
+   }
+  ],
+  "key_points": [
+   "Daytona reached a $1 billion valuation after a round led by FirstMark.",
+   "Angel investors include founders of Stripe, Perplextity, Datadog and Mercor.",
+   "The startup’s cloud gives each agent a dedicated virtual computer."
+  ],
+  "meta_description": "Daytona hits a $1 billion valuation with backing from FirstMark and angels from Stripe, Datadog and other tech founders.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "agent cloud",
+   "startup funding",
+   "valuation",
+   "angel investors",
+   "FirstMark",
+   "enterprise SaaS"
+  ],
+  "slug": "agent-cloud-startup-daytona-hits-1-billion-valuation-backed-14edf4",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T16:58:51Z"
+ },
+ {
+  "id": "8dbb2ed007e47684",
+  "source_url": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+  "source": "The New York Times",
+  "source_title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
+  "source_summary": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.",
+  "source_tags": [
+   "Oil (Petroleum) and Gasoline",
+   "Prices (Fares, Fees and Rates)",
+   "US and Israeli Attack on Iran (2026)",
+   "Inflation (Economics)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/04/17/world/17biz-iran-hormuz-oil-cov/17biz-iran-hormuz-oil-cov-mediumSquareAt3X.png",
+  "published": "2026-10-23T16:14:44+00:00",
+  "headline": "Global Oil Prices Rise to $117 a Barrel, Highest Since April",
+  "body": [
+   {
+    "type": "p",
+    "text": "Oil futures climbed to $117 per barrel on Monday, marking the highest level since April. The surge reflects growing investor anxiety over the possibility of renewed conflict in Iran, which could tighten global energy supplies."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that any escalation in the region would likely constrain crude output and transport routes, pushing prices higher. The market reaction underscores the sensitivity of oil to geopolitical risk, especially in the Middle East."
+   },
+   {
+    "type": "p",
+    "text": "While the price increase is driven by speculation about the Iran situation, other factors such as seasonal demand and existing supply constraints also play a role in the current market dynamics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Rising oil prices can raise gasoline and heating costs for households and businesses across the United States and Europe, affecting inflation and economic activity."
+   }
+  ],
+  "key_points": [
+   "Oil prices reached $117 a barrel, the highest since April.",
+   "Investor concerns about a potential escalation of the war in Iran are lifting risk premiums on energy markets.",
+   "Higher oil prices could translate into increased fuel costs for consumers and businesses."
+  ],
+  "meta_description": "Oil hits $117 a barrel, its highest level since April, as investors worry about a possible escalation of the war in Iran.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "oil",
+   "prices",
+   "Iran",
+   "energy markets",
+   "investors"
+  ],
+  "slug": "global-oil-prices-rise-117-barrel-highest-since-april-8dbb2e",
+  "reading_minutes": 1,
+  "added": "2026-10-23T16:58:35Z"
+ },
+ {
+  "id": "a231e48538340414",
+  "source_url": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo",
+  "source": "BBC Sport",
+  "source_title": "Poulter leaves LIV as exodus of big names continues",
+  "source_summary": "Ian Poulter wants to help his sons become professional golfers and develop his YouTube channel as he announces his exit from LIV Golf.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5220/live/1dc8cbc0-cee4-11f1-bdca-23c64447299f.jpg",
+  "published": "2026-10-23T14:41:19+00:00",
+  "headline": "Ian Poulter Departs LIV Golf to Focus on Family and YouTube",
+  "body": [
+   {
+    "type": "p",
+    "text": "Veteran golfer Ian Poulter announced his departure from LIV Golf, saying he wants to devote more time to helping his two sons pursue professional golf careers. The 48‑year‑old, a former Ryder Cup captain, said family considerations were the primary driver behind his decision."
+   },
+   {
+    "type": "p",
+    "text": "Poulter also revealed plans to expand his personal YouTube channel, where he intends to share instructional content and behind‑the‑scenes insights from his career. He described the channel as a way to stay connected with fans while giving his children a supportive environment to develop their own games."
+   },
+   {
+    "type": "p",
+    "text": "The move adds to a recent wave of high‑profile players exiting LIV Golf, a series that has struggled to retain talent amid criticism over its format and financing. While no financial details were disclosed, Poulter’s exit underscores the growing appeal of alternative post‑tour pathways for seasoned pros."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Poulter’s exit highlights the challenges LIV Golf faces in retaining star players, a development that could affect the tour’s market position and future sponsorships in Europe and the U.S."
+   }
+  ],
+  "key_points": [
+   "Ian Poulter leaves LIV Golf to focus on his sons' golfing development.",
+   "He plans to grow his YouTube channel as a new platform for fans.",
+   "His exit continues a trend of prominent players departing LIV Golf."
+  ],
+  "meta_description": "Ian Poulter quits LIV Golf to support his sons' careers and expand his YouTube channel, adding to the tour's recent talent exodus.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ian Poulter",
+   "LIV Golf",
+   "golf",
+   "sports business",
+   "YouTube"
+  ],
+  "slug": "ian-poulter-departs-liv-golf-focus-family-youtube-a231e4",
+  "reading_minutes": 1,
+  "added": "2026-10-23T16:58:43Z"
+ },
+ {
   "id": "47320051fdf53f31",
   "source_url": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo",
   "source": "BBC News",
