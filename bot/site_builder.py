@@ -41,6 +41,21 @@ def abs_url(path: str = "") -> str:
     return config.SITE_URL + "/" + path.lstrip("/")
 
 
+def _trim(text: str, n: int) -> str:
+    """Cut at a word boundary so search snippets never end mid-word."""
+    text = " ".join((text or "").split())
+    if len(text) <= n:
+        return text
+    return text[:n - 1].rsplit(" ", 1)[0].rstrip(" ,;:-–—") + "…"
+
+
+def seo_title(headline: str) -> str:
+    """<= ~65 chars so Google doesn't truncate: append the site name only when it fits."""
+    suffix = f" | {config.SITE_NAME}"
+    h = " ".join(headline.split())
+    return h + suffix if len(h) + len(suffix) <= 65 else _trim(h, 62)
+
+
 def fmt_date(iso: str) -> str:
     d = datetime.fromisoformat(iso).astimezone(DISPLAY_TZ)
     tz = "ET" if DISPLAY_TZ is not timezone.utc else "UTC"
@@ -125,8 +140,10 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
             _write(OUT / path / "index.html", tpl.render(
                 page=slug, cat_slug=slug, cat_name=name, articles=chunk, trending=trending,
                 page_num=i, total_pages=len(pages), canonical=abs_url(path),
-                title=f"{name} News Today – Latest Headlines | {config.SITE_NAME}",
-                description=f"Latest {name.lower()} news and breaking headlines from the US, UK, Canada and Europe."))
+                title=(f"{name} News – Latest Headlines | {config.SITE_NAME}" if i == 1
+                       else f"{name} News – Page {i} | {config.SITE_NAME}"),
+                description=(f"Latest {name.lower()} news and breaking headlines from the US, UK, Canada and Europe."
+                             + ("" if i == 1 else f" Page {i}."))))
 
     # --- Articles -----------------------------------------------------------
     tpl = env.get_template("article.html")
@@ -135,8 +152,8 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
         path = f"news/{a['slug']}/"
         _write(OUT / path / "index.html", tpl.render(
             page=a["category"], a=a, related=related, trending=trending,
-            canonical=abs_url(path), title=f"{a['headline']} | {config.SITE_NAME}",
-            description=a["meta_description"], og_image=share_image(a.get("image")) if config.USE_FEED_IMAGES else None))
+            canonical=abs_url(path), title=seo_title(a["headline"]),
+            description=_trim(a["meta_description"], 158), og_image=share_image(a.get("image")) if config.USE_FEED_IMAGES else None))
 
     # --- Static pages -------------------------------------------------------
     for name in ("about", "privacy", "contact", "editorial", "corrections", "terms", "newsletter"):
