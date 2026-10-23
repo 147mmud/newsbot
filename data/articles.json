@@ -1,5 +1,683 @@
 [
  {
+  "id": "9f7c49d6ecb21ddc",
+  "source_url": "https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html",
+  "source": "The New York Times",
+  "source_title": "France’s Avoids a Debt Downgrade From Moody’s, but Is Given a Warning",
+  "source_summary": "Moody’s held the country’s credit rating steady amid political uncertainty and a rise in borrowing costs that have worsened France’s debt situation.",
+  "source_tags": [
+   "Moody's Investors Service Inc",
+   "France",
+   "Credit and Debt",
+   "Stocks and Bonds",
+   "Government Bonds",
+   "Interest Rates",
+   "Demonstrations, Protests and Riots"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23Biz-France-Debt-blzq/23Biz-France-Debt-blzq-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T23:23:10+00:00",
+  "headline": "Moody’s Keeps France Credit Rating Steady, Issues Warning",
+  "body": [
+   {
+    "type": "p",
+    "text": "Moody’s Investors Service left France’s sovereign credit rating unchanged, citing ongoing political uncertainty and a recent surge in borrowing costs that have strained the nation’s debt profile. The agency’s decision avoids an immediate downgrade but comes with a cautionary note about the country’s fiscal outlook."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that higher interest rates have increased the cost of servicing France’s public debt, while the fragmented political environment hampers decisive economic reforms. Moody’s warning signals that further deterioration in fiscal metrics could trigger a downgrade in the future."
+   },
+   {
+    "type": "p",
+    "text": "The rating hold maintains France’s access to international capital markets at current terms, but investors are advised to monitor policy developments and debt dynamics closely."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rating stability helps preserve France’s borrowing terms, affecting European markets and U.S. investors with exposure to French bonds."
+   }
+  ],
+  "key_points": [
+   "Moody’s left France’s credit rating unchanged despite rising borrowing costs.",
+   "The agency warned that political uncertainty and higher debt service costs could lead to a downgrade.",
+   "France’s fiscal situation remains vulnerable, keeping investors on alert."
+  ],
+  "meta_description": "Moody’s keeps France's credit rating steady but warns of fiscal risks amid political uncertainty and higher borrowing costs.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "Moody's",
+   "credit rating",
+   "debt",
+   "borrowing costs",
+   "political uncertainty"
+  ],
+  "slug": "moodys-keeps-france-credit-rating-steady-issues-warning-9f7c49",
+  "reading_minutes": 1,
+  "added": "2026-10-23T23:25:55Z"
+ },
+ {
+  "id": "1b33073ec35a9fb3",
+  "source_url": "https://www.nytimes.com/2026/10/23/us/politics/alaska-senate-race-explainer.html",
+  "source": "The New York Times",
+  "source_title": "What to Know About Alaska’s Senate Race",
+  "source_summary": "President Trump told the Justice Department to intervene in the race, where polling shows Republicans at risk of losing a seat.",
+  "source_tags": [
+   "Alaska",
+   "Midterm Elections (2026)",
+   "Peltola, Mary",
+   "Sullivan, Daniel J",
+   "Sullivan, Daniel Scott (1964- )",
+   "Trump, Donald J",
+   "internal-open-access-from-nl"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-onpolitics-newsletter-sullivan-bmfp/23pol-onpolitics-newsletter-sullivan-bmfp-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T23:22:29+00:00",
+  "headline": "Trump Urges Justice Department to Intervene in Alaska Senate Race",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump has asked the Justice Department to become involved in the Alaska Senate contest, according to a report published on October 23, 2026. The request comes as recent polls indicate that Republican candidates in the state could be in danger of losing the seat."
+   },
+   {
+    "type": "p",
+    "text": "The intervention request highlights the heightened attention on the race, which could affect the balance of power in the U.S. Senate. While details of the Justice Department's potential role have not been disclosed, the move underscores the political stakes perceived by the former president and his allies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome could shift Senate composition, influencing legislation that affects both the United States and its international partners."
+   }
+  ],
+  "key_points": [
+   "President Trump asked the Justice Department to intervene in Alaska's Senate race.",
+   "Polling shows Republicans may be at risk of losing the Alaska Senate seat."
+  ],
+  "meta_description": "Trump asks DOJ to intervene in Alaska Senate race as polls show Republicans at risk of losing the seat.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "Senate race",
+   "Trump",
+   "Justice Department",
+   "Republicans",
+   "polling"
+  ],
+  "slug": "trump-urges-justice-department-intervene-alaska-senate-race-1b3307",
+  "reading_minutes": 1,
+  "added": "2026-10-23T23:25:59Z"
+ },
+ {
+  "id": "5d9a6526c73983c1",
+  "source_url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+  "source": "TechCrunch",
+  "source_title": "Startups don’t need to go viral to win customers",
+  "source_summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+  "source_tags": [
+   "Startups",
+   "engine",
+   "Gamma",
+   "Google"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1200,800",
+  "published": "2026-10-23T23:07:45+00:00",
+  "headline": "Founders and VC Stress Retaining Early Followers at TechCrunch Disrupt",
+  "body": [
+   {
+    "type": "p",
+    "text": "At TechCrunch Disrupt last week, two startup founders joined a venture‑capitalist panel to discuss strategies for maintaining an early customer base. The conversation centered on moving beyond initial buzz and building lasting relationships with users."
+   },
+   {
+    "type": "p",
+    "text": "The speakers emphasized the importance of consistent value delivery, clear communication, and product improvements that respond to early adopters' feedback. They argued that viral growth alone is insufficient for sustainable success, and that startups should focus on retention tactics that keep customers engaged over time."
+   },
+   {
+    "type": "p",
+    "text": "Attendees were reminded that nurturing a loyal audience can lead to steadier revenue streams and stronger brand reputation, especially in competitive markets where fleeting attention is common."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For businesses in the US and Europe, retaining early customers can reduce acquisition costs and support steady growth in a crowded tech landscape."
+   }
+  ],
+  "key_points": [
+   "Early followers must be nurtured with ongoing value to become long‑term customers.",
+   "Viral exposure is not enough; retention strategies are crucial for startup growth.",
+   "Feedback loops and consistent communication help maintain user loyalty."
+  ],
+  "meta_description": "Founders and a VC at TechCrunch Disrupt highlighted the need for startups to focus on retaining early customers, not just going viral.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "startup growth",
+   "customer retention",
+   "TechCrunch Disrupt",
+   "venture capital",
+   "marketing strategy"
+  ],
+  "slug": "founders-vc-stress-retaining-early-followers-techcrunch-disrupt-5d9a65",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T23:26:03Z"
+ },
+ {
+  "id": "b15a6fb9671b3fea",
+  "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+  "source": "TechCrunch",
+  "source_title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+  "source_summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+  "source_tags": [
+   "AI"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+  "published": "2026-10-23T23:05:49+00:00",
+  "headline": "OpenAI Halts Live‑Internet Training Ahead of New AI Models",
+  "body": [
+   {
+    "type": "p",
+    "text": "OpenAI announced it will stop using the live internet as a data source for training its upcoming frontier AI models. The company said the decision reflects \"significant risks\" associated with pulling real‑time web content into model development."
+   },
+   {
+    "type": "p",
+    "text": "The policy change comes weeks after an OpenAI engineer publicly questioned the viability of the approach, suggesting that relying on constantly changing online material could undermine model reliability and safety. OpenAI did not provide further technical details about the new training pipeline."
+   },
+   {
+    "type": "p",
+    "text": "By cutting off live‑internet feeds, OpenAI aims to reduce exposure to misinformation, copyrighted material, and other hazards that could affect model behavior. The move signals a shift toward more controlled, curated datasets for future AI systems."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Limiting internet‑based training may affect the speed of AI advancements and addresses growing concerns about misinformation and copyright in AI outputs for US and European users."
+   }
+  ],
+  "key_points": [
+   "OpenAI will no longer train its next‑generation models on live internet data.",
+   "The company cites significant safety and reliability risks as the reason for the change.",
+   "The decision follows internal criticism of the live‑internet training approach."
+  ],
+  "meta_description": "OpenAI stops using live internet data for new AI models, citing safety risks after internal criticism of the approach.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "AI training",
+   "internet data",
+   "model safety",
+   "tech policy"
+  ],
+  "slug": "openai-halts-liveinternet-training-ahead-new-ai-models-b15a6f",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T23:26:07Z"
+ },
+ {
+  "id": "baa175376c6ed0ff",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/23/early-voting-data-key-takeaways",
+  "source": "The Guardian",
+  "source_title": "Surging turnout, with Democrats voting more: key takeaways from early voting data",
+  "source_summary": "With just 11 days until the US midterm elections, Democrats need a net gain of four seats to reclaim Congress With just 11 days until the US midterm elections, early voting data is rolling in nationwide. Democrats need a net gain of four seats to reclaim the majority in each chamber of Congress. Here is where the numbers stand as of Friday:",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/20a24ad059efde928d14bd2573a600aea47ac124/345_0_3448_2758/master/3448.jpg?width=700&quality=85&auto=format&fit=max&s=08bbe380a14f9e9ca133fde9b9010aed",
+  "published": "2026-10-23T22:57:52+00:00",
+  "headline": "Early Voting Shows Democrats Need Four Seats to Reclaim Congress",
+  "body": [
+   {
+    "type": "p",
+    "text": "With just 11 days left before the U.S. midterm elections, early voting numbers are coming in from across the country. The data indicates that Democrats must secure a net gain of four seats in each chamber to retake control of Congress."
+   },
+   {
+    "type": "p",
+    "text": "The early voting figures, compiled as of Friday, highlight the tight race ahead of the November vote. While the exact vote totals are not detailed, the margin needed for a Democratic majority is clear."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the surge in turnout could influence the final outcome, emphasizing the importance of every vote in the remaining days before Election Day."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The race for control of Congress will shape U.S. policy and affect transatlantic relations on trade, security, and climate initiatives."
+   }
+  ],
+  "key_points": [
+   "Democrats require a net gain of four seats in both the House and Senate to regain control.",
+   "Early voting data is now being reported with 11 days remaining before the midterms."
+  ],
+  "meta_description": "Early voting data shows Democrats need four seats to reclaim Congress with 11 days left before the midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "U.S. midterms",
+   "early voting",
+   "Congress control",
+   "Democrats",
+   "election outlook"
+  ],
+  "slug": "early-voting-shows-democrats-need-four-seats-reclaim-congress-baa175",
+  "reading_minutes": 1,
+  "added": "2026-10-23T23:26:18Z"
+ },
+ {
+  "id": "8f0c86bd2817fd50",
+  "source_url": "https://www.npr.org/2026/10/23/nx-s1-6003856/at-a-texas-high-school-football-game-fans-offer-a-glimpse-into-evolving-politics",
+  "source": "NPR",
+  "source_title": "At a Texas high school football game, fans offer a glimpse into evolving politics",
+  "source_summary": "We talk with voters at a Texas high school football game at the tailgate, in line at the concession booth and in the stands to hear about the issues that matter to Texans this cycle.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-23T22:35:40+00:00",
+  "headline": "Texans Share Election Priorities at High School Football Game",
+  "body": [
+   {
+    "type": "p",
+    "text": "NPR reporters gathered at a high‑school football tailgate in Texas, speaking with voters while they waited in line for concessions, stood in the stands, and mingled on the parking lot. The informal setting offered a snapshot of the issues that Texans say matter most as the 2026 election cycle unfolds."
+   },
+   {
+    "type": "p",
+    "text": "Interviewees discussed a range of topics, from local education funding and infrastructure to broader concerns about the state’s economy and public safety. The conversations reflected the diversity of opinions across the crowd, highlighting how community events can serve as informal forums for political dialogue."
+   },
+   {
+    "type": "p",
+    "text": "The reporters noted that the atmosphere of a football game—part celebration, part gathering place—allowed participants to express their views candidly, providing a grassroots perspective that complements traditional polling data."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Texas is a pivotal swing state whose voter priorities can shape national election outcomes, making these grassroots insights relevant for U.S. and European audiences."
+   }
+  ],
+  "key_points": [
+   "NPR captured voter sentiment at a Texas high‑school football game during the 2026 election cycle.",
+   "Texans highlighted education, infrastructure, economy and public safety as top concerns.",
+   "The informal setting revealed candid, grassroots perspectives on state politics."
+  ],
+  "meta_description": "NPR interviews Texas voters at a high‑school football game, revealing top election concerns like education, infrastructure and safety.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Texas",
+   "elections",
+   "voter opinions",
+   "high school football",
+   "NPR",
+   "2026 cycle"
+  ],
+  "slug": "texans-share-election-priorities-high-school-football-game-8f0c86",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T23:26:41Z"
+ },
+ {
+  "id": "d4ce3a4d0bc7b7a2",
+  "source_url": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "France to deploy 70,000 police officers ahead of protests",
+  "source_summary": "With new protests in France planned for this weekend, the authorities pledged to do everything in their power to prevent looting, violence and vandalism.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79737847_6.jpg",
+  "published": "2026-10-23T22:01:00+00:00",
+  "headline": "France Deploys 70,000 Police Officers Ahead of Weekend Protests",
+  "body": [
+   {
+    "type": "p",
+    "text": "The French interior ministry announced that 70,000 police officers will be mobilised across the country this weekend as authorities prepare for a series of planned demonstrations. The large deployment is intended to deter looting, violence and vandalism that have accompanied recent protests in France."
+   },
+   {
+    "type": "p",
+    "text": "Officials said the force will be spread among major cities and transport hubs, with a focus on protecting public infrastructure and commercial areas. The move follows a series of unrest that prompted concerns about public safety and economic disruption."
+   },
+   {
+    "type": "p",
+    "text": "The government emphasized that the police presence is a preventive measure, aiming to maintain order while allowing citizens to exercise their right to protest peacefully. No specific protest groups or dates were detailed in the announcement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The large police mobilisation highlights rising tensions in Europe and could affect travel, trade and security coordination with the United States and neighboring countries."
+   }
+  ],
+  "key_points": [
+   "France will mobilise 70,000 police officers for upcoming weekend protests.",
+   "The deployment aims to prevent looting, violence and vandalism.",
+   "Authorities stress the goal of safeguarding public order while permitting peaceful demonstrations."
+  ],
+  "meta_description": "France plans to deploy 70,000 police officers this weekend to prevent looting and violence during upcoming protests.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "police deployment",
+   "protests",
+   "public safety",
+   "Europe"
+  ],
+  "slug": "france-deploys-70-000-police-officers-ahead-weekend-protests-d4ce3a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T23:26:11Z"
+ },
+ {
+  "id": "f782f2bc9618a504",
+  "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+  "source": "TechCrunch",
+  "source_title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+  "source_summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+  "source_tags": [
+   "AI",
+   "Gadgets",
+   "TC",
+   "nvidia",
+   "pollen robotics",
+   "toys"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+  "published": "2026-10-23T21:59:19+00:00",
+  "headline": "Nvidia CEO Showcases Microduck Robots as Holiday Toy Sensation",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia chief executive Jensen Huang demonstrated the Microduck robot, a small toy that walks, makes R2‑D2‑style sounds and responds to voice commands by sitting, falling over and somersaulting. The playful demonstration highlighted the robot’s interactive features during a recent tech event."
+   },
+   {
+    "type": "p",
+    "text": "According to the report, the Microduck has already sold 20,000 units, positioning it as a popular gift option for the Christmas season. The toy’s appeal lies in its cute design and simple, responsive movements that entertain both children and adults."
+   },
+   {
+    "type": "p",
+    "text": "The buzz around the Microduck reflects a growing trend of tech‑savvy companies entering the consumer toy market, leveraging AI‑driven interactivity to create novel holiday products."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The robot’s success shows how AI‑enabled gadgets are becoming mainstream holiday gifts, influencing consumer tech trends in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Nvidia CEO Jensen Huang showcased the Microduck robot, which can walk, make sounds and perform tricks on voice command.",
+   "The toy has sold 20,000 units, making it a notable holiday gift candidate.",
+   "Microduck exemplifies the crossover of advanced robotics into mainstream consumer toys."
+  ],
+  "meta_description": "Nvidia CEO displays Microduck robot, a voice‑responsive toy that has sold 20,000 units and is poised as a top Christmas gift.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Microduck",
+   "holiday toys",
+   "robotics",
+   "consumer tech"
+  ],
+  "slug": "nvidia-ceo-showcases-microduck-robots-holiday-toy-sensation-f782f2",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T23:26:22Z"
+ },
+ {
+  "id": "7a52aa627f184d81",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqwy7e08jlxpo",
+  "source": "BBC Sport",
+  "source_title": "Wade equals Prem try-scoring record as Newcastle beat Sale",
+  "source_summary": "Christian Wade equals Chris Ashton's Prem try-scoring record with a 101st score as Newcastle post their first league win of their season against Sale.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a09/live/a8201ab0-cf22-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-23T21:55:47+00:00",
+  "headline": "Christian Wade Matches Premiership Try Record in Newcastle Victory",
+  "body": [
+   {
+    "type": "p",
+    "text": "Christian Wade scored his 101st Premiership try, equalling the record set by Chris Ashton, as Newcastle Falcons secured their first league win of the season against Sale Sharks. The try came in a tightly contested match that saw Newcastle edge out Sale to claim the three points."
+   },
+   {
+    "type": "p",
+    "text": "The milestone places Wade alongside Ashton as the joint‑most prolific try‑scorer in the history of England's top‑flight rugby union competition. Newcastle's victory broke a run of defeats that had left the club winless in the opening fixtures of the 2026‑27 season."
+   },
+   {
+    "type": "p",
+    "text": "Sale Sharks were unable to respond effectively after Wade's score, and the final whistle confirmed a narrow win for the Falcons. Both teams will look to build on the result as the Premiership season progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The record underscores the growing prominence of English rugby talent, a sport followed by growing audiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Christian Wade reached 101 Premiership tries, tying Chris Ashton's all‑time record.",
+   "Newcastle Falcons earned their first league win of the 2026‑27 season by beating Sale Sharks.",
+   "The achievement highlights Wade's status as one of the competition's most prolific scorers."
+  ],
+  "meta_description": "Christian Wade ties Chris Ashton's Premiership try record as Newcastle beats Sale for their first league win of the season.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rugby Union",
+   "Premiership Rugby",
+   "Christian Wade",
+   "Newcastle Falcons",
+   "Sale Sharks",
+   "try record"
+  ],
+  "slug": "christian-wade-matches-premiership-try-record-newcastle-victory-7a52aa",
+  "reading_minutes": 1,
+  "added": "2026-10-23T23:26:14Z"
+ },
+ {
+  "id": "598946c250a54a6e",
+  "source_url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+  "source": "The Verge",
+  "source_title": "Xbox’s first chief operating officer is out after just a few months",
+  "source_summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief […]",
+  "source_tags": [
+   "Entertainment",
+   "Gaming",
+   "Microsoft",
+   "News",
+   "Tech",
+   "Xbox"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T21:39:26+00:00",
+  "headline": "Xbox COO Helen Chiang Departs After Just Months in New Role",
+  "body": [
+   {
+    "type": "p",
+    "text": "Helen Chiang, Microsoft’s first chief operating officer for Xbox, is leaving the company, an internal memo seen by The Verge confirmed. The role was created only a few months ago, and Chiang’s departure marks the end of her brief tenure in the position."
+   },
+   {
+    "type": "p",
+    "text": "Chiang has spent 21 years at Microsoft, most recently serving as head of the Minecraft division before being promoted to oversee Xbox operations. The memo did not provide a reason for her exit or details about her next steps."
+   },
+   {
+    "type": "p",
+    "text": "Microsoft has not announced a replacement for the Xbox COO role, and the company’s leadership structure for the gaming division remains unchanged for now."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The departure signals a shift in Xbox’s executive leadership, which could affect the division’s strategic direction for gamers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Helen Chiang, Microsoft’s first Xbox COO, is leaving after a few months in the newly created role.",
+   "Chiang spent 21 years at Microsoft, most recently leading Minecraft before her promotion.",
+   "The company has not yet named a successor for the Xbox COO position."
+  ],
+  "meta_description": "Microsoft’s first Xbox COO, Helen Chiang, exits after a brief tenure, leaving the new role vacant.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Xbox",
+   "Microsoft",
+   "leadership",
+   "gaming",
+   "corporate"
+  ],
+  "slug": "xbox-coo-helen-chiang-departs-after-just-months-new-598946",
+  "reading_minutes": 1,
+  "added": "2026-10-23T23:26:42Z"
+ },
+ {
+  "id": "a4116800244df661",
+  "source_url": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Ebola: Kenya announces second death",
+  "source_summary": "Kenyan health officials said the 65-year-old ​woman was a close ‌relative of a ‌​man who died of Ebola last month. The woman developed symptoms ‌while under quarantine in Nairobi.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79613787_6.jpg",
+  "published": "2026-10-23T21:09:00+00:00",
+  "headline": "Kenya Confirms Second Ebola Death, 65-Year-Old Woman in Nairobi",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kenyan health authorities announced a second fatality from Ebola, confirming that a 65-year-old woman died after developing symptoms while under quarantine in Nairobi."
+   },
+   {
+    "type": "p",
+    "text": "The woman was identified as a close relative of a man who succumbed to the disease last month, highlighting the ongoing transmission risk within families of infected individuals."
+   },
+   {
+    "type": "p",
+    "text": "Officials emphasized that the case occurred despite quarantine measures, underscoring challenges in containing the virus in densely populated urban areas."
+   }
+  ],
+  "key_points": [
+   "Kenya reports its second Ebola death, a 65-year-old woman in Nairobi.",
+   "The victim was a close relative of a previous Ebola fatality and fell ill while quarantined.",
+   "The case reveals difficulties in preventing spread even under quarantine."
+  ],
+  "meta_description": "Kenya confirms a second Ebola death as a 65-year-old woman in Nairobi dies while under quarantine, linked to a prior case.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ebola",
+   "Kenya",
+   "health",
+   "outbreak",
+   "Nairobi"
+  ],
+  "slug": "kenya-confirms-second-ebola-death-65-year-old-woman-a41168",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T23:26:27Z"
+ },
+ {
+  "id": "7f7e2339ee67fd1e",
+  "source_url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo",
+  "source": "BBC News",
+  "source_title": "Argentina drops investigation into President Milei over crypto fraud",
+  "source_summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8738/live/24bdf9e0-cf1c-11f1-9796-954775b3a434.jpg",
+  "published": "2026-10-23T20:59:39+00:00",
+  "headline": "Argentina Ends Probe Into President Milei After Crypto Crash Claim",
+  "body": [
+   {
+    "type": "p",
+    "text": "Argentina's prosecutor's office announced on Sunday that it is dropping the criminal investigation into President Javier Milei concerning allegations of fraud linked to a cryptocurrency that sharply fell in value. The inquiry was launched after Milei deleted a social‑media post that had mentioned the digital asset, prompting speculation that he had tried to influence the market."
+   },
+   {
+    "type": "p",
+    "text": "Milei has consistently denied any wrongdoing, stating that he did not act fraudulently and that the post's removal was unrelated to the price drop. Prosecutors said the evidence did not meet the threshold required to continue the case, leading to its closure without charges."
+   },
+   {
+    "type": "p",
+    "text": "The decision closes a brief but high‑profile episode that drew attention to the intersection of political figures and volatile crypto markets in Latin America."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights how political leaders' actions can affect cryptocurrency markets, a concern for investors and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Argentina's prosecutors have halted the fraud investigation into President Javier Milei.",
+   "Milei denied any misconduct after a cryptocurrency plunged following his removal of a social‑media post.",
+   "Authorities said insufficient evidence existed to pursue charges."
+  ],
+  "meta_description": "Argentina drops the fraud probe into President Javier Milei after a crypto crash, citing insufficient evidence.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Argentina",
+   "Javier Milei",
+   "cryptocurrency",
+   "investigation",
+   "finance",
+   "politics"
+  ],
+  "slug": "argentina-ends-probe-into-president-milei-after-crypto-crash-7f7e23",
+  "reading_minutes": 1,
+  "added": "2026-10-23T23:26:46Z"
+ },
+ {
   "id": "a732864d1bbe80e9",
   "source_url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o",
   "source": "BBC News",
