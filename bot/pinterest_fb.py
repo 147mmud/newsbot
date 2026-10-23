@@ -186,7 +186,16 @@ def _hex(h, d=(19, 41, 75)):
         return d
 
 
-def score_pin_image(e, v, others) -> bytes:
+def _vivid(rgb):
+    """Lift very dark team colours so the panel stays visible on the navy background."""
+    lum = (0.299 * rgb[0] + 0.587 * rgb[1] + 0.114 * rgb[2]) / 255
+    if lum < 0.22:
+        k = (0.22 - lum) / (1 - lum) + 0.12
+        return tuple(int(c + (255 - c) * k) for c in rgb)
+    return rgb
+
+
+def score_pin_image(e, v, others, upcoming=()) -> bytes:
     """1000x1500 scoreboard Pin, layout designed in Figma (header, two team panels, verdict, more results, footer)."""
     W, H = 1000, 1500
     NAVY, RED, GOLD = (11, 29, 51), (200, 16, 46), (255, 196, 0)
@@ -202,9 +211,10 @@ def score_pin_image(e, v, others) -> bytes:
     d.text((86, 62), chip, font=f1, fill=(255, 255, 255))
     d.text((60, 128), e["label"].upper()[:26], font=f(54), fill=(255, 255, 255))
     # team panels
-    top, bot = 232, 700
-    d.rectangle((0, top, W // 2, bot), fill=_hex(a["color"]))
-    d.rectangle((W // 2, top, W, bot), fill=_hex(b["color"]))
+    n_rows = len(others) + len(upcoming)
+    top, bot = 232, (700 if n_rows >= 2 else 860)
+    d.rectangle((0, top, W // 2, bot), fill=_vivid(_hex(a["color"])))
+    d.rectangle((W // 2, top, W, bot), fill=_vivid(_hex(b["color"])))
     for x0, t in ((0, a), (W // 2, b)):
         name = t["name"].upper()
         size = 50
@@ -246,6 +256,21 @@ def score_pin_image(e, v, others) -> bytes:
             d.text((W / 2 - sw / 2 - 24 - d.textlength(hn, font=rf), y + 22), hn, font=rf, fill=(255, 255, 255))
             d.text((W / 2 + sw / 2 + 24, y + 22), ob["name"][:14], font=rf, fill=(255, 255, 255))
             y += 96
+    if upcoming:
+        y += 20
+        d.text((60, y), "COMING UP", font=f(28), fill=(160, 175, 195))
+        y += 52
+        for o in upcoming:
+            oa, ob = o["teams"]
+            d.rounded_rectangle((60, y, W - 60, y + 80), 14, fill=(255, 255, 255, 18))
+            rf = f(32)
+            ko = o.get("ko", "")
+            tf = f(26)
+            d.text((W / 2 - d.textlength(ko, font=tf) / 2, y + 20), ko, font=tf, fill=GOLD)
+            hn = oa["name"][:14]
+            d.text((W / 2 - d.textlength(ko, font=tf) / 2 - 24 - d.textlength(hn, font=rf), y + 22), hn, font=rf, fill=(255, 255, 255))
+            d.text((W / 2 + d.textlength(ko, font=tf) / 2 + 24, y + 22), ob["name"][:14], font=rf, fill=(255, 255, 255))
+            y += 96
     # footer
     d.rectangle((0, H - 114, W, H), fill=(6, 13, 24))
     d.text((60, H - 80), "thepressandscore.com", font=f(36), fill=(255, 255, 255))
@@ -285,7 +310,16 @@ def score_pick(ledger, t):
     a, b = e["teams"]
     others = [o for o in events if o is not e and o["state"] == "post" and o["completed"] and o["id"] != e["id"]]
     others.sort(key=lambda o: -o["prio"])
-    img_bytes = score_pin_image(e, v, others[:3])
+    others = others[:3]
+    ups = []
+    if len(others) < 3:
+        pre = [o for o in events if o["state"] == "pre" and S.is_big(o) and t <= S.kickoff(o) <= t + timedelta(hours=24)]
+        pre.sort(key=lambda o: (-o["prio"], S.kickoff(o)))
+        for o in pre[:3 - len(others)]:
+            o = dict(o)
+            o["ko"] = " / ".join(S.times(o))
+            ups.append(o)
+    img_bytes = score_pin_image(e, v, others, ups)
     title = f"{e['label']}: {a['name']} {a['score']}-{b['score']} {b['name']}"
     desc = f"Full-time result. {title}. Live scores for every game at thepressandscore.com #{e['label'].replace(' ', '').replace('.', '')} #LiveScores #Sports"
     return {"key": key, "title": title[:100], "desc": desc[:780], "img": img_bytes}
