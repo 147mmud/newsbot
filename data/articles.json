@@ -1,5 +1,620 @@
 [
  {
+  "id": "c1113a7020d2867c",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo",
+  "source": "BBC Sport",
+  "source_title": "Have Man Utd become the unmanageable club?",
+  "source_summary": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/e0714a50-cea6-11f1-bbfb-357cf921a5e9.jpg",
+  "published": "2026-10-23T05:56:04+00:00",
+  "headline": "Manchester United’s Managerial Turmoil Deepens Under Michael Carrick",
+  "body": [
+   {
+    "type": "p",
+    "text": "Phil McNulty writes that the pattern of instability that has plagued Manchester United since Sir Alex Ferguson’s retirement continues, now encompassing Michael Carrick. The former player‑turned‑coach finds himself caught in a cycle of short‑lived tenures that have become a hallmark of the club’s recent history."
+   },
+   {
+    "type": "p",
+    "text": "According to the article, each manager since Ferguson has struggled to impose lasting control, and Carrick’s tenure appears no different. The piece suggests that the club’s inability to secure a stable managerial direction is a growing concern for supporters and observers alike."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The club’s managerial instability affects its performance in the Premier League and European competitions, influencing fans and markets across the UK and Europe."
+   }
+  ],
+  "key_points": [
+   "Manchester United has experienced a succession of brief managerial spells since Sir Alex Ferguson’s departure.",
+   "Michael Carrick’s current role adds to the ongoing pattern of instability at the club."
+  ],
+  "meta_description": "Manchester United’s managerial instability persists under Michael Carrick, continuing a post‑Ferguson pattern of short tenures.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "football management",
+   "Premier League",
+   "sports analysis"
+  ],
+  "slug": "manchester-uniteds-managerial-turmoil-deepens-under-michael-carrick-c1113a",
+  "reading_minutes": 1,
+  "added": "2026-10-23T06:27:08Z"
+ },
+ {
+  "id": "60af768b59898fc8",
+  "source_url": "https://www.dw.com/en/musk-s-starshield-system-back-in-ukraine-says-trump/a-79738723?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Musk's Starshield system 'back' in Ukraine, says Trump",
+  "source_summary": "Trump said that he did not want to comment on who called for capping Starshield for Ukraine, but that Musk had \"put it back.\"",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79738872_6.jpg",
+  "published": "2026-10-23T05:37:00+00:00",
+  "headline": "Trump Says Musk Restored Starshield System for Ukraine",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump commented on the status of Elon Musk's Starshield system in Ukraine, stating that he does not wish to discuss who advocated for limiting the system's use."
+   },
+   {
+    "type": "p",
+    "text": "Trump added that Musk had \"put it back,\" indicating the system is once again operational for Ukraine, though he offered no further details."
+   },
+   {
+    "type": "p",
+    "text": "The brief remarks were made without elaboration on the technical or strategic implications of the system's reinstatement."
+   }
+  ],
+  "key_points": [
+   "Trump said he will not identify who called for capping Starshield for Ukraine.",
+   "He claimed Elon Musk has restored the Starshield system's availability to Ukraine."
+  ],
+  "meta_description": "Trump says Elon Musk has restored the Starshield system for Ukraine, refusing to name who wanted it capped.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Elon Musk",
+   "Starshield",
+   "Ukraine",
+   "defense technology"
+  ],
+  "slug": "trump-says-musk-restored-starshield-system-ukraine-60af76",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T06:27:12Z"
+ },
+ {
+  "id": "0225a82bff9b1917",
+  "source_url": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Embarrassing name? How we live with names we don't like",
+  "source_summary": "Names are central to our identity, so what happens when that name is a source of ridicule? Research points to negative life outcomes, but some people learn to embrace unfortunate names.",
+  "source_tags": [
+   "Science"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79731105_6.jpg",
+  "published": "2026-10-23T05:29:00+00:00",
+  "headline": "Research Links Unwanted Names to Life Challenges, Some Embrace Them",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new study highlights how having a name that attracts ridicule can affect personal development. Researchers found that individuals with names perceived as embarrassing often experience lower self‑esteem and face social obstacles throughout schooling and early adulthood."
+   },
+   {
+    "type": "p",
+    "text": "The investigation also revealed that the negative impact is not inevitable. A subset of participants reported learning to accept and even celebrate their unusual names, turning potential stigma into a source of personal identity and confidence."
+   },
+   {
+    "type": "p",
+    "text": "Experts suggest that societal attitudes toward naming conventions play a role in shaping these outcomes, emphasizing the importance of cultural sensitivity and supportive environments for those with atypical names."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the impact of name-based stigma can inform educators and employers in the US and Europe to foster more inclusive environments."
+   }
+  ],
+  "key_points": [
+   "Unfavored names are linked to reduced self‑esteem and social difficulties, according to recent research.",
+   "Some individuals successfully reframe their names, mitigating negative effects.",
+   "Cultural attitudes toward naming influence personal outcomes."
+  ],
+  "meta_description": "Study finds unwanted names can harm self‑esteem, but some people learn to embrace them, highlighting the need for inclusive attitudes.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "names",
+   "identity",
+   "social psychology",
+   "stigma",
+   "research"
+  ],
+  "slug": "research-links-unwanted-names-life-challenges-some-embrace-them-0225a8",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T06:27:24Z"
+ },
+ {
+  "id": "b3fe7d46ea56dd57",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o",
+  "source": "BBC News",
+  "source_title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+  "source_summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-23T05:16:37+00:00",
+  "headline": "Powerful Earthquake Strikes Tibet, Killing 16 in Remote Mountain Area",
+  "body": [
+   {
+    "type": "p",
+    "text": "A strong tremor struck the Tibet Autonomous Region of China on Monday, causing the deaths of 16 people, officials said. The quake hit a sparsely populated, mountainous part of the region, where settlements are scattered across rugged terrain."
+   },
+   {
+    "type": "p",
+    "text": "Rescue teams were dispatched to the affected zones, but the remote location and limited infrastructure hampered relief efforts. Local authorities reported that the quake's magnitude and depth contributed to the fatalities and damage to homes and roads."
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores the challenges faced by communities in high‑altitude areas when natural disasters occur, as access for emergency services can be difficult and response times are often delayed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disaster highlights the vulnerability of isolated mountain populations and the logistical hurdles of delivering aid in such regions."
+   }
+  ],
+  "key_points": [
+   "A powerful earthquake in Tibet killed 16 people.",
+   "The quake struck a remote, mountainous area with limited infrastructure."
+  ],
+  "meta_description": "A strong earthquake in Tibet's remote mountains killed 16, exposing challenges for rescue and aid in isolated areas.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "earthquake",
+   "Tibet",
+   "China",
+   "natural disaster",
+   "casualties"
+  ],
+  "slug": "powerful-earthquake-strikes-tibet-killing-16-remote-mountain-area-b3fe7d",
+  "reading_minutes": 1,
+  "added": "2026-10-23T06:27:37Z"
+ },
+ {
+  "id": "719c795a9e7e9cb6",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o",
+  "source": "BBC News",
+  "source_title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to £800m",
+  "source_summary": "Ministers say the changes in regulations will reduce unnecessary bureaucracy.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b49/live/d9fb2bb0-ce78-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-23T05:00:32+00:00",
+  "headline": "Chancellor Announces £800m Savings by Cutting Pointless Paperwork",
+  "body": [
+   {
+    "type": "p",
+    "text": "The UK chancellor has unveiled a plan to streamline regulations, targeting what ministers describe as \"pointless paperwork\" that burdens businesses. The initiative aims to eliminate unnecessary administrative tasks across a range of sectors, allowing firms to focus on core operations rather than compliance burdens."
+   },
+   {
+    "type": "p",
+    "text": "According to the government, the reforms could generate up to £800 million in savings for companies, particularly small and medium-sized enterprises that often lack the resources to manage complex reporting requirements. The changes will be implemented through a review of existing rules and the removal of duplicative forms and procedures."
+   },
+   {
+    "type": "p",
+    "text": "The chancellor emphasized that reducing bureaucratic overhead is essential for maintaining the UK's competitive edge and supporting economic growth. Ministers said the measures will be rolled out over the coming months, with guidance to be provided to affected businesses to ensure a smooth transition."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Lower administrative costs can boost profitability for UK firms and enhance their competitiveness in global markets, a trend relevant to investors and trade partners in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The chancellor's plan targets unnecessary regulatory paperwork to ease the burden on businesses.",
+   "Government estimates suggest the reforms could save firms up to £800 million.",
+   "Implementation will involve a review and removal of duplicative reporting requirements."
+  ],
+  "meta_description": "UK chancellor proposes cuts to redundant paperwork, promising up to £800m in business savings and streamlined regulations.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "bureaucracy",
+   "small business",
+   "regulation",
+   "UK government",
+   "finance",
+   "economic policy"
+  ],
+  "slug": "chancellor-announces-800m-savings-cutting-pointless-paperwork-719c79",
+  "reading_minutes": 1,
+  "added": "2026-10-23T06:27:16Z"
+ },
+ {
+  "id": "80e2963232be33dd",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo",
+  "source": "BBC News",
+  "source_title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+  "source_summary": "Officials say they both travelled through Entebbe International Airport on 3 October.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc0c/live/cdfdf700-ce98-11f1-a6ca-3fa3d92134e2.jpg",
+  "published": "2026-10-23T04:54:25+00:00",
+  "headline": "Nigeria and Kenya Ebola Patients Passed Through Uganda Airport on Oct 3",
+  "body": [
+   {
+    "type": "p",
+    "text": "Health officials from Uganda have confirmed that an Ebola patient from Nigeria and another from Kenya both transited Entebbe International Airport on 3 October. The two individuals were travelling on the same day, raising concerns that they may have been in the same terminal or shared facilities."
+   },
+   {
+    "type": "p",
+    "text": "Authorities are reviewing airport surveillance and passenger logs to determine whether the patients crossed paths and to assess any potential exposure risk to staff and other travellers. The investigation is part of broader efforts to contain the Ebola virus and prevent further spread across the region."
+   },
+   {
+    "type": "p",
+    "text": "Both cases are being monitored closely, and the Ministry of Health has urged anyone who was at Entebbe Airport on that date and develops symptoms to seek immediate medical attention."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Cross‑border movement of Ebola cases highlights the need for vigilant screening at international hubs, a concern for global health security."
+   }
+  ],
+  "key_points": [
+   "Ebola patients from Nigeria and Kenya both used Entebbe Airport on 3 October, according to officials.",
+   "Ugandan health authorities are investigating possible contact between the two patients.",
+   "The inquiry aims to prevent further transmission of Ebola in the region."
+  ],
+  "meta_description": "Ugandan officials say Ebola patients from Nigeria and Kenya transited Entebbe Airport on Oct 3, prompting a contact investigation.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ebola",
+   "Uganda",
+   "Nigeria",
+   "Kenya",
+   "travel",
+   "health"
+  ],
+  "slug": "nigeria-kenya-ebola-patients-passed-through-uganda-airport-oct-80e296",
+  "reading_minutes": 1,
+  "added": "2026-10-23T06:27:44Z"
+ },
+ {
+  "id": "c59df339ef311a72",
+  "source_url": "https://www.nytimes.com/2026/10/22/us/politics/trump-california-mail-ballot-lawsuit.html",
+  "source": "The New York Times",
+  "source_title": "Trump Administration Asks Appeals Court to Intervene in California Mail Ballot Suit",
+  "source_summary": "The Justice Department sought to jump-start a lawsuit aimed at compelling the state to not count as many as 20,000 mail ballots it claims were sent to noncitizens.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "United States Politics and Government",
+   "Illegal Immigration",
+   "Voter Fraud (Election Fraud)",
+   "Citizenship and Immigration Services (US)",
+   "Homeland Security Department",
+   "Justice Department",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-california-voting-lvcw/22dc-california-voting-lvcw-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T04:32:19+00:00",
+  "headline": "Justice Department Seeks Appeals Court Help to Block California Mail Ballots",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Justice Department asked a federal appeals court to intervene in a lawsuit aimed at preventing California from counting up to 20,000 mail-in ballots that the department alleges were sent to non‑citizens. The request seeks to accelerate the case, which argues that counting those ballots would violate federal election law."
+   },
+   {
+    "type": "p",
+    "text": "The lawsuit, originally filed by the Trump administration, contends that the state’s mail‑ballot process allowed non‑citizens to receive ballots, potentially affecting election outcomes. The Justice Department’s filing asks the court to halt the counting of the disputed ballots while the case proceeds."
+   },
+   {
+    "type": "p",
+    "text": "California officials have not commented on the request, and the appeals court has not yet ruled on whether to grant the intervention. The outcome could influence how states handle mail‑in voting and the verification of voter eligibility."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case could set precedent for how states verify voter eligibility in mail‑in elections, a topic of interest amid ongoing debates over election integrity in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "The Justice Department petitioned a federal appeals court to speed up a case challenging the counting of up to 20,000 California mail ballots.",
+   "The lawsuit claims the ballots were sent to non‑citizens, alleging a breach of federal election law.",
+   "The appeals court has not yet decided whether to intervene, leaving the dispute unresolved."
+  ],
+  "meta_description": "Justice Department asks appeals court to intervene in a suit to stop California from counting up to 20,000 mail ballots alleged to be sent to non‑citizens.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Justice Department",
+   "California elections",
+   "mail‑in voting",
+   "non‑citizen ballots",
+   "federal appeals court"
+  ],
+  "slug": "justice-department-seeks-appeals-court-help-block-california-mail-c59df3",
+  "reading_minutes": 1,
+  "added": "2026-10-23T06:27:28Z"
+ },
+ {
+  "id": "d917571e5a041bda",
+  "source_url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+  "source": "TechCrunch",
+  "source_title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+  "source_summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+  "source_tags": [
+   "Biotech & Health",
+   "Hardware",
+   "oura",
+   "ultrahuman"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800",
+  "published": "2026-10-23T04:22:57+00:00",
+  "headline": "Oura Files New Lawsuit Claiming Ultrahuman Ring Pro Infringes Two Patents",
+  "body": [
+   {
+    "type": "p",
+    "text": "Finnish health‑tech company Oura has initiated a second legal action against competitor Ultrahuman, alleging that the latter's Ring Pro device violates two of Oura's patents. The lawsuit, filed in a U.S. court, seeks to block Ultrahuman's product from the American market."
+   },
+   {
+    "type": "p",
+    "text": "Oura contends that the Ring Pro incorporates patented technology that it developed for its own smart ring, which tracks sleep, activity, and readiness metrics. The company argues that Ultrahuman's design copies core elements of its intellectual property, prompting the renewed legal challenge."
+   },
+   {
+    "type": "p",
+    "text": "The case follows an earlier dispute between the two firms over similar claims. Both companies operate in the rapidly growing wearable health‑monitoring sector, where patent protection is increasingly critical to maintain competitive advantage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome could affect the availability of competing smart rings in the U.S. and set precedents for patent enforcement in the wearable technology industry."
+   }
+  ],
+  "key_points": [
+   "Oura alleges Ultrahuman's Ring Pro infringes two of its patents.",
+   "The lawsuit aims to prevent the Ring Pro from being sold in the United States.",
+   "The dispute highlights the importance of patent rights in the wearable tech market."
+  ],
+  "meta_description": "Oura sues Ultrahuman, claiming its Ring Pro infringes two patents and seeks to block U.S. sales.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Oura",
+   "Ultrahuman",
+   "smart ring",
+   "patent lawsuit",
+   "wearable technology"
+  ],
+  "slug": "oura-files-new-lawsuit-claiming-ultrahuman-ring-pro-infringes-d91757",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T06:27:20Z"
+ },
+ {
+  "id": "285d91730b99f214",
+  "source_url": "https://www.theguardian.com/politics/audio/2026/oct/23/us-midterm-elections-donald-trump-your-questions-answered-podcast",
+  "source": "The Guardian",
+  "source_title": "What will Trump do if he loses in November? Your questions answered – podcast",
+  "source_summary": "Will Donald Trump accept a ‘blue wave’ if it happens? Have young people turned away from centrist politics for ever? Will the US ever recover its image on the world stage? Jonathan Freedland is joined by the Guardian US columnist Moira Donegan to answer these questions and more Buy your tickets to the Guardian’s post-midterms live event , hosted by Jonathan Freedland Watch Jonathan Freedland on our new Politics Weekly YouTube channel Send your questions and feedback to politicsweeklyamerica@theguardian.com Watch Stateside’s episode on attacks on voter rights in the US",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Donald Trump",
+   "Trump administration",
+   "Republicans",
+   "Democrats",
+   "US politics",
+   "US news",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/f786e250fd1537c0d4df5d9a3e0fcfdb36fa6f56/375_0_3750_3001/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=f6478c7f2640c3f48e0da5aa45a4e6bd",
+  "published": "2026-10-23T04:00:05+00:00",
+  "headline": "Guardian Podcast Explores Trump’s Options If He Loses November Election",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Guardian’s latest podcast features columnist Moira Donegan joining host Jonathan Freedland to discuss what former President Donald Trump might do if he fails to win the November election. The conversation touches on whether Trump would accept a potential ‘blue wave’ and how that could reshape the political landscape."
+   },
+   {
+    "type": "p",
+    "text": "Listeners also hear speculation about the impact of the election on young voters, with questions raised about a possible shift away from centrist politics. The hosts consider how a defeat could affect the United States’ standing on the world stage and the broader perception of American democracy."
+   },
+   {
+    "type": "p",
+    "text": "The episode is part of a series of post‑midterm events, with tickets available for a live Guardian gathering. Additional content, including a video interview with Freedland on the Politics Weekly YouTube channel and a Stateside segment on voter‑rights attacks, is also promoted."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding Trump’s possible reactions helps gauge future U.S. political dynamics and their influence on transatlantic relations."
+   }
+  ],
+  "key_points": [
+   "The podcast examines Trump’s potential response to an electoral loss and its implications.",
+   "Discussion includes the effect of a ‘blue wave’ on young voters and centrist politics.",
+   "The episode ties into broader Guardian events covering midterm outcomes and voter‑rights issues."
+  ],
+  "meta_description": "Guardian podcast discusses Donald Trump's likely actions if he loses the November election and the broader political fallout.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "US elections",
+   "midterms",
+   "voter rights",
+   "political podcasts"
+  ],
+  "slug": "guardian-podcast-explores-trumps-options-if-he-loses-november-285d91",
+  "reading_minutes": 1,
+  "added": "2026-10-23T06:27:39Z"
+ },
+ {
+  "id": "94cd4ca5fb66dd5d",
+  "source_url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+  "source": "TechCrunch",
+  "source_title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+  "source_summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+  "source_tags": [
+   "Transportation",
+   "AI",
+   "nvidia",
+   "Pony.ai",
+   "indrive"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+  "published": "2026-10-23T04:00:00+00:00",
+  "headline": "inDrive Teams With Pony.ai and Nvidia for 2027 Central Asian Robotaxi Tests",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ride‑hailing platform inDrive announced plans to launch robotaxi trials in Kazakhstan's capital, Astana, during the first half of 2027. The tests will use autonomous vehicles developed by Pony.ai, a company specializing in self‑driving technology."
+   },
+   {
+    "type": "p",
+    "text": "The initiative is supported by Nvidia, which will provide the computing hardware and AI software needed for the robotaxis to operate. inDrive aims to expand its services beyond traditional ride‑hailing by integrating fully autonomous fleets in emerging markets."
+   },
+   {
+    "type": "p",
+    "text": "If successful, the pilot could pave the way for broader deployment of driverless taxis across Central Asia, marking a significant step for both inDrive and its technology partners in the global autonomous‑vehicle race."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The partnership shows how U.S. and Asian tech firms are extending autonomous‑vehicle trials to new regions, potentially influencing global mobility trends."
+   }
+  ],
+  "key_points": [
+   "inDrive will begin testing Pony.ai robotaxis in Astana in early 2027.",
+   "Nvidia will supply the AI hardware and software for the autonomous fleet.",
+   "The trial could accelerate the rollout of driverless taxis in Central Asia."
+  ],
+  "meta_description": "inDrive, Pony.ai and Nvidia plan robotaxi tests in Kazakhstan's capital for early 2027, expanding autonomous‑vehicle trials in Central Asia.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "inDrive",
+   "Pony.ai",
+   "Nvidia",
+   "robotaxi",
+   "autonomous vehicles",
+   "Central Asia"
+  ],
+  "slug": "indrive-teams-with-pony-ai-nvidia-2027-central-asian-94cd4c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T06:27:32Z"
+ },
+ {
+  "id": "be19e95229417b8b",
+  "source_url": "https://www.nytimes.com/2026/10/22/us/politics/video-lindsey-graham.html",
+  "source": "The New York Times",
+  "source_title": "Video by Left-Wing Group Claims Lindsey Graham Paid Men for Sex",
+  "source_summary": "Progressive activists released a video of three men making the allegations about the South Carolina Republican, who died in July. The New York Times has not confirmed their claims.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Homosexuality and Bisexuality",
+   "Video Recordings, Downloads and Streaming",
+   "Ethics and Official Misconduct",
+   "Trump, Donald J",
+   "Graham, Lindsey",
+   "Nordone, Darline Graham",
+   "Uygur, Cenk",
+   "Senate",
+   "Midterm Elections (2026)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22dc-Graham-SWAP-qkcw/22dc-Graham-SWAP-qkcw-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T03:08:44+00:00",
+  "headline": "Progressive Group Releases Video Alleging Late Sen. Graham Paid Men",
+  "body": [
+   {
+    "type": "p",
+    "text": "Progressive activists have posted a video in which three men claim that the late South Carolina Republican senator, Lindsey Graham, paid men for sex. The video was released after Graham's death in July."
+   },
+   {
+    "type": "p",
+    "text": "The New York Times noted that it has not verified the allegations presented in the video. No additional evidence or corroborating details were provided in the release."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The allegations could affect public perception of a prominent U.S. political figure and may influence discussions about accountability and legacy."
+   }
+  ],
+  "key_points": [
+   "A video featuring three men alleges that the deceased Sen. Lindsey Graham paid men for sex.",
+   "The New York Times has not confirmed the claims made in the video."
+  ],
+  "meta_description": "Progressive activists released a video alleging the late Sen. Lindsey Graham paid men for sex; the claims remain unverified.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Lindsey Graham",
+   "progressive activists",
+   "allegations",
+   "video release",
+   "South Carolina",
+   "political legacy"
+  ],
+  "slug": "progressive-group-releases-video-alleging-late-sen-graham-paid-be19e9",
+  "reading_minutes": 1,
+  "added": "2026-10-23T06:27:48Z"
+ },
+ {
   "id": "e32d78055494b6b4",
   "source_url": "https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html",
   "source": "The New York Times",
@@ -2038,6 +2653,60 @@
   "slug": "harry-brooks-batting-masterclass-reinforces-claim-top-allformat-batter-9db925",
   "reading_minutes": 1,
   "added": "2026-10-22T19:28:08Z"
+ },
+ {
+  "id": "313ce25e44849cae",
+  "source_url": "https://www.bbc.co.uk/sport/darts/articles/c95ynp3dp8pvo",
+  "source": "BBC Sport",
+  "source_title": "Sherrock one of 24 'amateurs' taking on Littler",
+  "source_summary": "Women's world number three Fallon Sherrock is named among the 24 contestants bidding to beat Luke Littler in a new Netflix special.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92d9/live/7cdefb60-ce36-11f1-a86f-f78305ec9987.jpg",
+  "published": "2026-10-22T16:45:14+00:00",
+  "headline": "Fallon Sherrock Joins 24 Amateurs to Challenge Luke Littler on Netflix",
+  "body": [
+   {
+    "type": "p",
+    "text": "World number three Fallon Sherrock has been announced as one of 24 amateur players taking part in a new Netflix darts special. The competition pits the amateurs against nine‑time world champion Luke Littler in a series of head‑to‑head matches."
+   },
+   {
+    "type": "p",
+    "text": "Sherrock, a leading figure in women's darts, will join a diverse field of contestants hoping to outscore Littler and claim victory in the televised event. The format pairs each amateur with the professional in a single‑leg showdown, with the winner advancing in the bracket."
+   },
+   {
+    "type": "p",
+    "text": "The Netflix production aims to showcase the sport’s growing popularity by featuring both established stars and everyday players. The series will be streamed globally, offering viewers a chance to see high‑stakes darts action beyond traditional tournament settings."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The series highlights darts’ expanding media presence, giving fans in the US and Europe new access to the sport via a major streaming platform."
+   }
+  ],
+  "key_points": [
+   "Fallon Sherrock is among 24 amateurs competing against Luke Littler in a Netflix darts special.",
+   "The show pairs each amateur with the world champion in single‑leg matches.",
+   "Netflix is bringing darts to a wider audience through a globally streamed series."
+  ],
+  "meta_description": "Fallon Sherrock joins 24 amateurs in a Netflix darts special to face champion Luke Littler, showcasing the sport to a global audience.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "darts",
+   "Netflix",
+   "Fallon Sherrock",
+   "Luke Littler",
+   "sports entertainment",
+   "women in sport"
+  ],
+  "slug": "fallon-sherrock-joins-24-amateurs-challenge-luke-littler-netflix-313ce2",
+  "reading_minutes": 1,
+  "added": "2026-10-23T06:27:52Z"
  },
  {
   "id": "914a6f5b3ff68efb",
