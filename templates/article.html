@@ -13,6 +13,17 @@
 <meta name="twitter:image" content="{{ og_image.url }}">{% endif %}
 {% endblock %}
 {% block head %}
+<script async type="application/javascript" src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
+<script>
+  (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
+    basicSubscriptions.init({
+      type: "NewsArticle",
+      isPartOfType: ["Product"],
+      isPartOfProductId: "CAowqY_iCw:openaccess",
+      clientOptions: { theme: "light", lang: "en" },
+    });
+  });
+</script>
 <script type="application/ld+json">{{ {
   "@context": "https://schema.org", "@type": "NewsArticle",
   "headline": a.headline[:110], "description": a.meta_description,

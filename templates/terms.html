@@ -1,0 +1,15 @@
+{% extends "_page.html" %}
+{% block heading %}Terms of Service{% endblock %}
+{% block content %}
+<p>Welcome to {{ site.SITE_NAME }}. By using this website you agree to these terms.</p>
+<h2>Use of the site</h2>
+<p>The site is provided for personal, non-commercial reading. Do not copy, scrape or republish our content in bulk, interfere with the site, or use it for anything unlawful.</p>
+<h2>Content and sources</h2>
+<p>Our stories are short summaries of reporting from other publishers, and each story credits and links to its original source. Scores and fixtures come from third-party data feeds and may be delayed or contain errors. We give no guarantee of accuracy or completeness and the content is not professional advice.</p>
+<h2>Third-party links and ads</h2>
+<p>The site links to other websites and shows advertising from third parties. We are not responsible for their content or practices.</p>
+<h2>Newsletter</h2>
+<p>If you sign up for our newsletter you can unsubscribe at any time. See our <a href="{{ url('privacy/') }}">Privacy Policy</a> for how we handle your data.</p>
+<h2>Changes and contact</h2>
+<p>We may update these terms from time to time. Questions? Use the <a href="{{ url('contact/') }}">contact page</a>.</p>
+{% endblock %}
