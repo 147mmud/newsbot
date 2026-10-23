@@ -3409,9 +3409,10 @@
   "ts": "2026-10-23T00:03:35Z"
  },
  "pn:sc:nfl:401873010": {
-  "status": "posting",
+  "note": "Pinterest 403 on POST /pins: code=29 Apps with Trial access may not create Pins in production https://api.pinterest.com - use API Sandbox https://api-",
+  "status": "failed",
   "title": "NFL: Bears 30-24 Patriots",
-  "ts": "2026-10-23T05:07:39Z"
+  "ts": "2026-10-23T05:07:43Z"
  },
  "rl:final:401915391": {
   "post_id": "1059716187099804",
