@@ -132,3 +132,39 @@ jobs:
           git config user.name  "newsbot"
           git config user.email "newsbot@users.noreply.github.com"
           python -m bot.facebook
+
+  # Search-engine pings (IndexNow) + Bluesky/Telegram posts. Social posting is
+  # skipped automatically unless BSKY_* / TG_* secrets exist.
+  distribute:
+    needs: deploy
+    if: ${{ github.event_name != 'push' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -q -r requirements.txt
+      - name: IndexNow + social
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          BSKY_HANDLE: ${{ vars.BSKY_HANDLE }}
+          BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ vars.TG_CHAT_ID }}
+        run: |
+          python -m bot.indexnow || true
+          python -m bot.social || true
+          git config user.name  "newsbot"
+          git config user.email "newsbot@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git add data/indexnow.json data/social_posted.json 2>/dev/null || true
+            if git diff --cached --quiet; then echo "nothing to record"; break; fi
+            git commit -q -m "distribute: $(date -u +'%Y-%m-%d %H:%M') UTC"
+            if git push -q origin HEAD:main; then echo "Pushed"; break; fi
+            git pull -q --rebase origin main || true; sleep 5
+          done
