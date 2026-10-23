@@ -1,5 +1,5 @@
 """Tell Bing/Yandex/Seznam/Naver (IndexNow) about new URLs right after each deploy."""
-import glob, json, os, re, sys
+import glob, json, os, re, sys, time
 from pathlib import Path
 import requests
 
@@ -22,10 +22,24 @@ def main() -> int:
     if not batch:
         print("nothing to submit"); return 0
     host = SITE.split("//")[1].split("/")[0]
-    r = requests.post("https://api.indexnow.org/indexnow", json={
-        "host": host, "key": key, "keyLocation": f"{SITE}/{key}.txt", "urlList": batch}, timeout=30)
-    print("IndexNow", r.status_code, len(batch), "urls")
-    if r.status_code in (200, 202):
+    payload = {"host": host, "key": key, "keyLocation": f"{SITE}/{key}.txt", "urlList": batch}
+    # make sure the key file is really being served before IndexNow checks it
+    for _ in range(6):
+        k = requests.get(f"{SITE}/{key}.txt", timeout=20)
+        if k.status_code == 200 and k.text.strip() == key:
+            break
+        time.sleep(15)
+    ok = False
+    for ep in ("https://api.indexnow.org/indexnow", "https://www.bing.com/indexnow", "https://yandex.com/indexnow"):
+        try:
+            r = requests.post(ep, json=payload, headers={"Content-Type": "application/json; charset=utf-8"}, timeout=30)
+            print("IndexNow", ep, r.status_code, len(batch), "urls", r.text[:200])
+            if r.status_code in (200, 202):
+                ok = True
+                break
+        except Exception as exc:
+            print("IndexNow", ep, "error", exc)
+    if ok:
         REC.parent.mkdir(exist_ok=True)
         REC.write_text(json.dumps(sorted(done | set(new))))
     return 0
