@@ -177,6 +177,86 @@ def pins_today(ledger, t):
 MAX_SCORE_PER_DAY = int(os.getenv("PINTEREST_MAX_SCORE_PER_DAY", "3"))
 
 
+
+def _hex(h, d=(19, 41, 75)):
+    try:
+        h = h.lstrip("#")
+        return tuple(int(h[i:i + 2], 16) for i in (0, 2, 4))
+    except Exception:
+        return d
+
+
+def score_pin_image(e, v, others) -> bytes:
+    """1000x1500 scoreboard Pin, layout designed in Figma (header, two team panels, verdict, more results, footer)."""
+    W, H = 1000, 1500
+    NAVY, RED, GOLD = (11, 29, 51), (200, 16, 46), (255, 196, 0)
+    img = Image.new("RGB", (W, H), NAVY)
+    d = ImageDraw.Draw(img, "RGBA")
+    a, b = e["teams"]
+    f = R.font
+    # header
+    chip = "FULL TIME"
+    f1 = f(34)
+    cw = d.textlength(chip, font=f1) + 52
+    d.rounded_rectangle((60, 50, 60 + cw, 112), 10, fill=RED)
+    d.text((86, 62), chip, font=f1, fill=(255, 255, 255))
+    d.text((60, 128), e["label"].upper()[:26], font=f(54), fill=(255, 255, 255))
+    # team panels
+    top, bot = 232, 700
+    d.rectangle((0, top, W // 2, bot), fill=_hex(a["color"]))
+    d.rectangle((W // 2, top, W, bot), fill=_hex(b["color"]))
+    for x0, t in ((0, a), (W // 2, b)):
+        name = t["name"].upper()
+        size = 50
+        while d.textlength(name, font=f(size)) > 440 and size > 26:
+            size -= 2
+        nf = f(size)
+        d.text((x0 + (W // 2 - d.textlength(name, font=nf)) / 2, top + 50), name, font=nf, fill=(255, 255, 255))
+        sf = f(250)
+        sc = t["score"] or "0"
+        d.text((x0 + (W // 2 - d.textlength(sc, font=sf)) / 2, top + 110), sc, font=sf, fill=(255, 255, 255))
+    # verdict
+    y = bot + 40
+    if v.get("label"):
+        lf = f(44)
+        lw = d.textlength(v["label"], font=lf) + 60
+        d.rounded_rectangle(((W - lw) / 2, y, (W + lw) / 2, y + 78), 8, fill=(245, 158, 11))
+        d.text(((W - d.textlength(v["label"], font=lf)) / 2, y + 12), v["label"], font=lf, fill=(17, 24, 39))
+        y += 98
+    if v.get("line"):
+        line = v["line"][:46]
+        lf = f(34)
+        d.text(((W - d.textlength(line, font=lf)) / 2, y), line, font=lf, fill=(255, 255, 255))
+        y += 60
+    # more results
+    if others:
+        y += 20
+        t = f(28)
+        d.text((60, y), "MORE RESULTS", font=t, fill=(160, 175, 195))
+        y += 52
+        for o in others:
+            oa, ob = o["teams"]
+            d.rounded_rectangle((60, y, W - 60, y + 80), 14, fill=(255, 255, 255, 18))
+            rf = f(32)
+            sc = f"{oa['score']}  -  {ob['score']}"
+            sf = f(38)
+            sw = d.textlength(sc, font=sf)
+            d.text((W / 2 - sw / 2, y + 18), sc, font=sf, fill=GOLD)
+            hn = oa["name"][:14]
+            d.text((W / 2 - sw / 2 - 24 - d.textlength(hn, font=rf), y + 22), hn, font=rf, fill=(255, 255, 255))
+            d.text((W / 2 + sw / 2 + 24, y + 22), ob["name"][:14], font=rf, fill=(255, 255, 255))
+            y += 96
+    # footer
+    d.rectangle((0, H - 114, W, H), fill=(6, 13, 24))
+    d.text((60, H - 80), "thepressandscore.com", font=f(36), fill=(255, 255, 255))
+    cta = "LIVE SCORES  >"
+    cf = f(30)
+    d.text((W - 60 - d.textlength(cta, font=cf), H - 76), cta, font=cf, fill=GOLD)
+    buf = io.BytesIO()
+    img.save(buf, "JPEG", quality=90)
+    return buf.getvalue()
+
+
 def score_pick(ledger, t):
     """Newest finished big game not yet pinned -> dict(key, title, desc, img) or None."""
     try:
@@ -184,6 +264,7 @@ def score_pick(ledger, t):
         events = []
         for off in (-1, 0):
             events += S.fetch_day(t + timedelta(days=off))
+        events = list({(e["league"], e["id"]): e for e in events}.values())
     except Exception as exc:
         log.warning("score fetch failed: %s", exc)
         return None
@@ -202,18 +283,12 @@ def score_pick(ledger, t):
         return None
     _, e, v, key = best
     a, b = e["teams"]
-    card = S.card_final(e, v).convert("RGB").resize((1000, 1000), Image.LANCZOS)
-    img = Image.new("RGB", (1000, 1500), (11, 29, 51))
-    img.paste(card, (0, 180))
-    d = ImageDraw.Draw(img)
-    d.text((60, 70), "FULL TIME  |  " + e["label"].upper(), font=R.font(44), fill=(255, 255, 255))
-    d.text((60, 1280), f"{a['name']} {a['score']}-{b['score']} {b['name']}", font=R.font(48, serif=True), fill=(255, 255, 255))
-    d.rectangle((0, 1404, 1000, 1500), fill=(6, 13, 24, 255))
-    d.text((60, 1430), "Live scores: thepressandscore.com", font=R.font(36), fill=(255, 255, 255))
-    buf = io.BytesIO(); img.save(buf, "JPEG", quality=88)
+    others = [o for o in events if o is not e and o["state"] == "post" and o["completed"] and o["id"] != e["id"]]
+    others.sort(key=lambda o: -o["prio"])
+    img_bytes = score_pin_image(e, v, others[:3])
     title = f"{e['label']}: {a['name']} {a['score']}-{b['score']} {b['name']}"
     desc = f"Full-time result. {title}. Live scores for every game at thepressandscore.com #{e['label'].replace(' ', '').replace('.', '')} #LiveScores #Sports"
-    return {"key": key, "title": title[:100], "desc": desc[:780], "img": buf.getvalue()}
+    return {"key": key, "title": title[:100], "desc": desc[:780], "img": img_bytes}
 
 
 def score_pins_today(ledger, t):
