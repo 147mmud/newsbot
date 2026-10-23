@@ -1,5 +1,642 @@
 [
  {
+  "id": "5589793920531c42",
+  "source_url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+  "source": "TechCrunch",
+  "source_title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+  "source_summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+  "source_tags": [
+   "Startups",
+   "TechCrunch Founder Summit"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
+  "published": "2026-10-23T20:03:14+00:00",
+  "headline": "TechCrunch Founder Summit 2026 to Convene Boston Entrepreneurs Nov 4",
+  "body": [
+   {
+    "type": "p",
+    "text": "The TechCrunch Founder Summit 2026 will take place at Boston's SoWa Power Station on November 4. The one‑day event gathers startup founders, venture investors and operators for a series of candid conversations and practical sessions."
+   },
+   {
+    "type": "p",
+    "text": "Attendees can expect live pitching opportunities, networking breaks and a set of smaller roundtables designed for deeper discussion of the challenges founders are tackling today. The agenda emphasizes hands‑on learning and peer‑to‑peer exchange."
+   },
+   {
+    "type": "p",
+    "text": "Organizers say the summit aims to foster connections across the North American and European tech ecosystems, giving participants direct access to potential partners, mentors and capital sources."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The summit offers U.S. and European startup leaders a rare chance to network and share solutions, potentially accelerating cross‑border collaborations and investment."
+   }
+  ],
+  "key_points": [
+   "TechCrunch Founder Summit 2026 is scheduled for November 4 at Boston's SoWa Power Station.",
+   "The event features live pitches, networking, and focused roundtables on current founder challenges.",
+   "It targets founders, investors and operators seeking practical insights and new partnerships."
+  ],
+  "meta_description": "TechCrunch Founder Summit 2026 gathers Boston founders, investors and operators on Nov 4 for pitches, roundtables and networking.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "TechCrunch",
+   "Founder Summit",
+   "Boston",
+   "Startup Networking",
+   "Investors",
+   "Roundtables"
+  ],
+  "slug": "techcrunch-founder-summit-2026-convene-boston-entrepreneurs-nov-4-558979",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T20:08:17Z"
+ },
+ {
+  "id": "73ecc8e75020598c",
+  "source_url": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+  "source": "The New York Times",
+  "source_title": "Ahead of Tight Race, Trump Exempts Some Canadian Goods From Tariffs",
+  "source_summary": "The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.",
+  "source_tags": [
+   "United States Politics and Government",
+   "International Trade and World Market",
+   "Customs (Tariff)",
+   "Senate",
+   "Collins, Susan M",
+   "Trump, Donald J",
+   "Maine",
+   "Canada"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-collins-tariffs-tkwm/23dc-collins-tariffs-tkwm-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T19:39:21+00:00",
+  "headline": "Trump Grants Tariff Exemptions to Select Canadian Products Ahead of Election",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump announced that a range of Canadian goods will be exempted from the tariffs imposed earlier this year. The decision was communicated through Senator Susan Collins, a Republican from Maine, who highlighted the move as a step to ease price pressures on consumers."
+   },
+   {
+    "type": "p",
+    "text": "Collins, who is confronting a competitive re‑election campaign in a district experiencing rising living costs, said the exemptions target items that have a significant impact on everyday expenses. The specific categories of goods were not detailed in the announcement."
+   },
+   {
+    "type": "p",
+    "text": "The exemption comes as the administration faces criticism over the broader tariff policy, which has been linked to higher prices for American shoppers. By carving out exceptions for certain Canadian products, officials aim to mitigate some of the economic backlash while maintaining a firm stance on trade negotiations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. consumers and businesses watch tariff policies closely, as they directly affect prices and trade relations with Canada, a key partner."
+   }
+  ],
+  "key_points": [
+   "President Trump announced tariff exemptions for certain Canadian goods.",
+   "Senator Susan Collins, facing a tough re‑election race, presented the move.",
+   "The exemptions aim to reduce rising consumer prices amid tariff criticism."
+  ],
+  "meta_description": "Trump exempts select Canadian goods from tariffs, announced by Senator Susan Collins amid rising prices and a tight re‑election race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "tariffs",
+   "Canada",
+   "Susan Collins",
+   "election",
+   "trade"
+  ],
+  "slug": "trump-grants-tariff-exemptions-select-canadian-products-ahead-election-73ecc8",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:08:25Z"
+ },
+ {
+  "id": "95d57f8c7f93fadf",
+  "source_url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+  "source": "The Verge",
+  "source_title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+  "source_summary": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is still installed on millions of devices that are just waiting to join a bot […]",
+  "source_tags": [
+   "Entertainment",
+   "News",
+   "Security",
+   "Streaming",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T19:35:15+00:00",
+  "headline": "Abandoned Popcorn Time Apps Disabled to Thwart Botnet Threat",
+  "body": [
+   {
+    "type": "p",
+    "text": "The once‑popular Popcorn Time application, known for streaming movies and TV shows via torrents, has been officially disabled after security researchers warned it could become a massive botnet. Although development of the software was abandoned years ago, the app remains installed on millions of devices worldwide."
+   },
+   {
+    "type": "p",
+    "text": "Experts said the dormant code could be activated to create a “zombie army” of compromised devices, potentially enabling large‑scale cyber attacks. To mitigate the risk, developers and platform providers have issued updates that disable the app’s core functions."
+   },
+   {
+    "type": "p",
+    "text": "The move highlights ongoing concerns about legacy piracy software that, despite being out of active use, can still pose significant security threats when left unchecked."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shutdown underscores how outdated piracy tools can become hidden vectors for cyber‑crime, affecting users across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Popcorn Time, an abandoned torrent‑streaming app, was disabled to prevent it from being weaponized as a botnet.",
+   "Millions of devices still had the software installed, creating a widespread security vulnerability."
+  ],
+  "meta_description": "Abandoned Popcorn Time apps were disabled to stop a potential botnet, protecting millions of devices from cyber threats.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Popcorn Time",
+   "botnet",
+   "cybersecurity",
+   "piracy software",
+   "software updates"
+  ],
+  "slug": "abandoned-popcorn-time-apps-disabled-thwart-botnet-threat-95d57f",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:08:29Z"
+ },
+ {
+  "id": "f490e9c8ed30cee3",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+  "source": "The Verge",
+  "source_title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+  "source_summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]",
+  "source_tags": [
+   "AI",
+   "News"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T19:32:39+00:00",
+  "headline": "Block Unveils Dessa AI Model Trained Solely on Human Conversation",
+  "body": [
+   {
+    "type": "p",
+    "text": "Jack Dorsey's Block announced a new artificial‑intelligence system named Dessa, which the company says was built \"from scratch on nothing but human conversation.\" The model was trained without relying on existing text corpora, focusing exclusively on dialogue data collected from real interactions."
+   },
+   {
+    "type": "p",
+    "text": "To demonstrate Dessa's capabilities, Block released several example chats between the AI and human participants. The conversations show the model responding in a manner that can feel both personable and occasionally awkward, reflecting the nuances of everyday speech."
+   },
+   {
+    "type": "p",
+    "text": "The lead researcher on the project, Ragavan Thurairatnam, highlighted the importance of training AI on authentic conversational material to improve its ability to engage naturally with users."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A conversational AI trained on real dialogue could impact how digital assistants and customer‑service bots interact with users in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Block's new AI, Dessa, is trained only on human conversation data.",
+   "Demo chats reveal the model can produce realistic yet sometimes uncanny dialogue.",
+   "The project aims to enhance AI's natural language interaction by focusing on authentic speech patterns."
+  ],
+  "meta_description": "Block launches Dessa, an AI model trained solely on human conversation, showcasing realistic but occasionally awkward chats.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "machine learning",
+   "conversation AI",
+   "Jack Dorsey",
+   "Block",
+   "natural language processing"
+  ],
+  "slug": "block-unveils-dessa-ai-model-trained-solely-human-conversation-f490e9",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:08:33Z"
+ },
+ {
+  "id": "9cf48ddcea977861",
+  "source_url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+  "source": "NPR",
+  "source_title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+  "source_summary": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1127x1192+0+0/resize/1127x1192!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F35%2F5c968cba4fdfa34765d346214ab1%2Fgao-ai.jpg",
+  "published": "2026-10-23T19:31:15+00:00",
+  "headline": "Pentagon AI Weapon Projects Often Diverge From Own Guidelines",
+  "body": [
+   {
+    "type": "p",
+    "text": "A congressional watchdog report released in October reveals that the Department of Defense is developing weapons and other projects with artificial‑intelligence capabilities that do not consistently follow the Pentagon’s internal \"responsible AI\" guidelines. The findings highlight gaps between policy and practice within the military’s AI initiatives."
+   },
+   {
+    "type": "p",
+    "text": "The report, compiled by the Government Accountability Office, examined several AI‑enabled systems and found that documentation, testing and oversight procedures were sometimes missing or incomplete. Officials acknowledged the challenges of applying the guidelines across a rapidly expanding portfolio of AI projects."
+   },
+   {
+    "type": "p",
+    "text": "The watchdog urged the Pentagon to strengthen compliance mechanisms, improve record‑keeping, and ensure that risk‑assessment processes are uniformly applied. It also recommended greater transparency to congressional oversight committees."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Inconsistent AI oversight in U.S. defense raises concerns about safety, ethics, and international norms for emerging military technologies."
+   }
+  ],
+  "key_points": [
+   "GAO report finds Pentagon AI projects often lack full adherence to internal responsible AI policies.",
+   "Documentation and oversight for AI‑enabled weapons are sometimes incomplete.",
+   "Watchdog recommends tighter compliance and more transparent reporting to Congress."
+  ],
+  "meta_description": "GAO report finds Pentagon AI weapons often stray from its own responsible AI guidelines, urging tighter oversight.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pentagon",
+   "Artificial Intelligence",
+   "Defense",
+   "GAO",
+   "Military Ethics",
+   "AI Policy"
+  ],
+  "slug": "pentagon-ai-weapon-projects-often-diverge-from-own-guidelines-9cf48d",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:08:41Z"
+ },
+ {
+  "id": "39341045ad8943d9",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+  "source": "BBC News",
+  "source_title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+  "source_summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
+  "published": "2026-10-23T19:30:19+00:00",
+  "headline": "White House Says Melania Trump Mediated Truce in Oleshky Amid Crisis",
+  "body": [
+   {
+    "type": "p",
+    "text": "The White House announced that former first lady Melania Trump helped broker a cease‑fire between Ukrainian and Russian forces in the occupied city of Oleshky, which officials described as being on the brink of disaster."
+   },
+   {
+    "type": "p",
+    "text": "Both Kyiv and Moscow confirmed the agreement, noting that the truce will allow humanitarian aid to reach residents who have been forced to survive on garden weeds due to severe food shortages."
+   },
+   {
+    "type": "p",
+    "text": "The cease‑fire comes after weeks of intense fighting that left Oleshky's infrastructure devastated and its population facing extreme hardship."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stabilising Oleshky could ease the humanitarian crisis in a key frontline area, affecting broader regional security and aid efforts."
+   }
+  ],
+  "key_points": [
+   "Melania Trump is credited by the White House with facilitating a cease‑fire in Oleshky.",
+   "Ukraine and Russia have both confirmed the truce, aiming to deliver aid to starving residents.",
+   "The city’s dire conditions included residents eating garden weeds for sustenance."
+  ],
+  "meta_description": "White House says Melania Trump brokered a truce in Oleshky, easing a humanitarian crisis as residents faced starvation.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Russia",
+   "humanitarian aid",
+   "Melania Trump",
+   "ceasefire",
+   "Oleshky"
+  ],
+  "slug": "white-house-says-melania-trump-mediated-truce-oleshky-amid-393410",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:08:45Z"
+ },
+ {
+  "id": "3b5a3d399d2b22da",
+  "source_url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+  "source": "TechCrunch",
+  "source_title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+  "source_summary": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
+  "source_tags": [
+   "Startups",
+   "Venture",
+   "Carta"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1200,675",
+  "published": "2026-10-23T19:25:13+00:00",
+  "headline": "Carta Partners With NewView to Ease Early Share Sales for Startups",
+  "body": [
+   {
+    "type": "p",
+    "text": "Carta and fintech platform NewView have launched a joint program aimed at simplifying tender‑offer transactions that let startup employees sell a portion of their equity before a liquidity event. The partnership will provide a standardized process and technology infrastructure to help early‑stage companies set up and manage these offers more efficiently."
+   },
+   {
+    "type": "p",
+    "text": "By reducing administrative hurdles, the initiative seeks to make early share sales a viable option for more startups, giving workers a way to access cash while the company is still growing. Carta will leverage its cap‑table management tools, while NewView contributes its tender‑offer platform to handle pricing, compliance and settlement."
+   },
+   {
+    "type": "p",
+    "text": "The program is being positioned as a win‑win: employees gain liquidity without waiting for an acquisition or IPO, and founders can retain talent by offering a clearer path to cashing out equity. Both firms say the collaboration could broaden the adoption of early‑sale mechanisms across the startup ecosystem."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Early equity liquidity can help retain talent in fast‑growing startups, a concern for investors and workers in the US and European tech sectors."
+   }
+  ],
+  "key_points": [
+   "Carta and NewView team up to streamline tender‑offer processes for early employee share sales.",
+   "The program aims to expand liquidity options for startup workers while easing administrative burdens for companies.",
+   "Both firms expect broader adoption of early‑sale mechanisms across the startup ecosystem."
+  ],
+  "meta_description": "Carta and NewView launch a program to simplify early share sales for startup employees, aiming to broaden liquidity options.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Carta",
+   "NewView",
+   "startup equity",
+   "tender offers",
+   "employee stock",
+   "fintech"
+  ],
+  "slug": "carta-partners-with-newview-ease-early-share-sales-startups-3b5a3d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T20:08:38Z"
+ },
+ {
+  "id": "ec6313a789e79664",
+  "source_url": "https://www.nytimes.com/2026/10/23/us/politics/trump-srpska-donations-library.html",
+  "source": "The New York Times",
+  "source_title": "Trump Advisers Give Fees Earned for Aiding Srpska to His Library",
+  "source_summary": "The donations from James Blair and Chris LaCivita were revealed after the president expressed pique over their consulting work for Republika Srpska.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Libraries and Librarians",
+   "United States International Relations",
+   "Embargoes and Sanctions",
+   "Philanthropy",
+   "LaCivita, Christopher J",
+   "Blair, James (1989- )",
+   "Trump, Donald J",
+   "Republika Srpska (Bosnia and Herzegovina)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-Srpska-vptf/23dc-Srpska-vptf-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T19:10:04+00:00",
+  "headline": "Trump Advisers Donate Consulting Fees for Srpska to Presidential Library",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Trump campaign aides James Blair and Chris LaCivita transferred the fees they earned from consulting work for Republika Srpska to the Donald J. Trump Presidential Library. The donations were disclosed after President Trump expressed interest in the consultants' activities on behalf of the Bosnian entity."
+   },
+   {
+    "type": "p",
+    "text": "Both Blair and LaCivita had been hired by Republika Srpska, the Serb‑majority political entity within Bosnia and Herzegovina, to provide strategic advice. Their payments, now redirected to the library, were reported in a filing that listed the amounts as contributions rather than personal income."
+   },
+   {
+    "type": "p",
+    "text": "The revelation comes amid heightened scrutiny of foreign lobbying and the involvement of former U.S. political operatives in overseas political projects. No legal violations have been alleged, but the move underscores the intersection of U.S. political figures with foreign entities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disclosure raises questions about the influence of former U.S. political operatives in foreign affairs, a topic of interest for both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "James Blair and Chris LaCivita donated their Republika Srpska consulting fees to the Trump Presidential Library.",
+   "The donations were revealed after President Trump showed interest in the consultants' work for the Bosnian entity.",
+   "The case highlights ongoing concerns about former U.S. political advisers working for foreign governments."
+  ],
+  "meta_description": "Former Trump aides donate their Republika Srpska consulting fees to the Trump Library, sparking scrutiny of foreign lobbying ties.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Republican advisers",
+   "Republika Srpska",
+   "foreign lobbying",
+   "political donations"
+  ],
+  "slug": "trump-advisers-donate-consulting-fees-srpska-presidential-library-ec6313",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:08:53Z"
+ },
+ {
+  "id": "ea177bae42025a84",
+  "source_url": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+  "source_summary": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked people on the ground what life is like.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79723936_6.jpg",
+  "published": "2026-10-23T19:08:00+00:00",
+  "headline": "Intensified Russian Strikes Turn Kyiv Into Bloodiest Front in 2026",
+  "body": [
+   {
+    "type": "p",
+    "text": "Russian attacks on Kyiv have grown both in frequency and intensity, making 2026 one of the war’s bloodiest years for the Ukrainian capital, according to DW’s on‑the‑ground reporting. Residents describe a city under near‑constant bombardment, with sirens sounding at all hours and many neighborhoods reduced to rubble."
+   },
+   {
+    "type": "p",
+    "text": "People living in the capital say daily life is marked by shortages of electricity, water and heating as infrastructure is repeatedly damaged. Many have taken refuge in underground shelters, while others struggle to obtain basic supplies amid disrupted transport routes."
+   },
+   {
+    "type": "p",
+    "text": "Despite the hardships, Kyiv’s population remains resilient, continuing to work, attend school and support one another as the conflict persists. The heightened violence has also prompted an increase in humanitarian assistance from international agencies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The escalation in Kyiv underscores the broader security risks for Europe and the need for continued humanitarian and diplomatic responses."
+   }
+  ],
+  "key_points": [
+   "Russian strikes on Kyiv have intensified, making 2026 one of the deadliest years of the war.",
+   "Civilians face constant air‑raid alerts, infrastructure damage and shortages of essential services.",
+   "Underground shelters and community support are helping residents cope with the ongoing attacks."
+  ],
+  "meta_description": "Intensified Russian attacks make 2026 one of Kyiv's bloodiest years, forcing civilians into shelters amid shortages and constant danger.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Kyiv",
+   "Russia",
+   "war",
+   "civilians",
+   "2026"
+  ],
+  "slug": "intensified-russian-strikes-turn-kyiv-into-bloodiest-front-2026-ea177b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T20:08:58Z"
+ },
+ {
+  "id": "0931d3afc7b71d97",
+  "source_url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+  "source": "TechCrunch",
+  "source_title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+  "source_summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+  "source_tags": [
+   "Startups",
+   "AI",
+   "Fundraising",
+   "TechCrunch Founder Summit"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+  "published": "2026-10-23T19:06:23+00:00",
+  "headline": "TechCrunch Founder Summit 2026 Features Leaders From Toast to Bessemer",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch, in partnership with Fidelity Private Shares, is hosting a full‑day Founder Summit on Oct. 23, 2026. The event brings together founders and executives from companies such as Toast and Bessemer to discuss practical challenges beyond fundraising and artificial intelligence."
+   },
+   {
+    "type": "p",
+    "text": "Attendees will explore topics that include acquiring customers, building effective teams, refining pitch decks, developing founder leadership skills, and scaling businesses both within traditional startup hubs and in emerging regions."
+   },
+   {
+    "type": "p",
+    "text": "The summit aims to provide actionable insights for entrepreneurs at various stages, offering a blend of panel discussions and networking opportunities designed to help founders navigate the realities of growing a company."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European entrepreneurs, the summit offers concrete strategies to grow startups outside traditional tech clusters, reflecting a broader shift toward diversified innovation ecosystems."
+   }
+  ],
+  "key_points": [
+   "The summit covers customer acquisition, team building, pitch refinement, leadership, and scaling beyond major hubs.",
+   "TechCrunch partners with Fidelity Private Shares to deliver a day of practical guidance for founders.",
+   "Speakers include leaders from notable firms such as Toast and Bessemer."
+  ],
+  "meta_description": "TechCrunch Founder Summit 2026, partnered with Fidelity Private Shares, tackles customer acquisition, team building, leadership and scaling beyond major…",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "founder summit",
+   "startup scaling",
+   "venture capital",
+   "entrepreneurship",
+   "customer acquisition",
+   "leadership"
+  ],
+  "slug": "techcrunch-founder-summit-2026-features-leaders-from-toast-bessemer-0931d3",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-23T20:08:49Z"
+ },
+ {
+  "id": "ec62699efa398af0",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o",
+  "source": "BBC Sport",
+  "source_title": "Leclerc sets Austin practice pace from Verstappen",
+  "source_summary": "Ferrari's Charles Leclerc is fastest from Red Bull's Max Verstappen in first practice at the United States Grand Prix.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c89/live/b1f0ca10-cf10-11f1-8de3-9dfec70eb8fa.jpg",
+  "published": "2026-10-23T18:41:21+00:00",
+  "headline": "Leclerc Tops First Practice at US Grand Prix Ahead of Verstappen",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ferrari driver Charles Leclerc recorded the fastest lap in the opening practice session for the United States Grand Prix at the Austin Circuit, edging out Red Bull's Max Verstappen. The session, held on Saturday, saw Leclerc set a leading time that placed him at the top of the timing sheets, while Verstappen completed the session in second place."
+   },
+   {
+    "type": "p",
+    "text": "The performance gives Ferrari an early indication of strong pace heading into qualifying and the race, where the championship battle between the two drivers remains tight. Teams will use the data from the practice runs to fine‑tune their setups for the high‑speed, low‑downforce layout of the Circuit of the Americas."
+   },
+   {
+    "type": "p",
+    "text": "Both drivers will look to convert their practice speed into race results, as points from the Austin round are crucial in the ongoing Formula One season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The United States Grand Prix is a pivotal round in the Formula One calendar, and early speed from Ferrari and Red Bull could shape the championship fight for both American and European fans."
+   }
+  ],
+  "key_points": [
+   "Charles Leclerc was fastest in first practice for the US Grand Prix, with Max Verstappen second.",
+   "Ferrari's strong showing suggests they have competitive pace for the upcoming race.",
+   "The session provides early data for teams as they prepare for qualifying and the race."
+  ],
+  "meta_description": "Charles Leclerc leads first practice at the US Grand Prix in Austin, with Max Verstappen second, signaling a tight championship battle.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "United States Grand Prix",
+   "Charles Leclerc",
+   "Max Verstappen",
+   "Ferrari",
+   "Red Bull"
+  ],
+  "slug": "leclerc-tops-first-practice-us-grand-prix-ahead-verstappen-ec6269",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:08:22Z"
+ },
+ {
   "id": "b91e3bcb4c9987ed",
   "source_url": "https://www.nytimes.com/2026/10/23/us/politics/hunter-biden-ex-fbi-officials-charged.html",
   "source": "The New York Times",
@@ -1199,6 +1836,70 @@
   "slug": "global-oil-prices-rise-117-barrel-highest-since-april-8dbb2e",
   "reading_minutes": 1,
   "added": "2026-10-23T16:58:35Z"
+ },
+ {
+  "id": "a0d602bd7868233b",
+  "source_url": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
+  "source": "The New York Times",
+  "source_title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
+  "source_summary": "In Ohio, many voters say their frustration about the increase in electricity and fuel prices and the growth of data centers won’t influence whom they vote for.",
+  "source_tags": [
+   "Ohio",
+   "Midterm Elections (2026)",
+   "Prices (Fares, Fees and Rates)",
+   "Data Centers",
+   "United States Politics and Government",
+   "Oil (Petroleum) and Gasoline",
+   "Elections, Governors",
+   "Polls and Public Opinion",
+   "Elections, Senate",
+   "Electric Light and Power"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23biz-energy-politics-03-hqpk/23biz-energy-politics-03-hqpk-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T16:00:09+00:00",
+  "headline": "Ohio Voters Unmoved by Energy Costs and Data Center Growth",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent survey of Ohio residents shows that rising electricity and fuel prices, as well as the expansion of data centers in the state, are not shaping their voting decisions. Despite widespread frustration over higher utility bills, respondents indicated that these issues will not sway their choice of candidates in upcoming elections."
+   },
+   {
+    "type": "p",
+    "text": "The data center boom, driven by the region’s reliable power supply and favorable tax incentives, has sparked concerns about increased energy demand and local environmental impacts. Yet, voters appear to separate these economic and infrastructural developments from their political preferences, focusing instead on other factors when casting ballots."
+   },
+   {
+    "type": "p",
+    "text": "Analysts suggest that while energy affordability remains a pressing concern for many Americans, it may not translate into immediate electoral pressure in Ohio. The findings highlight a potential disconnect between policy debates on energy pricing and the factors that actually influence voter behavior."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding how energy price anxiety translates—or does not translate—into voting behavior helps policymakers gauge public pressure on utility regulation in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Ohio voters say higher electricity, fuel costs and data center growth will not affect their vote.",
+   "The state's data center expansion raises energy and environmental worries, but does not drive electoral change.",
+   "Political analysts note a gap between energy policy concerns and voter decision‑making in Ohio."
+  ],
+  "meta_description": "Ohio voters report that rising energy costs and data center expansion will not influence their upcoming election choices.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ohio",
+   "energy prices",
+   "data centers",
+   "voters",
+   "elections"
+  ],
+  "slug": "ohio-voters-unmoved-energy-costs-data-center-growth-a0d602",
+  "reading_minutes": 1,
+  "added": "2026-10-23T20:09:02Z"
  },
  {
   "id": "a231e48538340414",
