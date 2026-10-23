@@ -1,0 +1,35 @@
+# Daily Pinterest pin pack for MANUAL upload (Pinterest API access was denied).
+# Download the "pin-pack" artifact from the run page, unzip, upload the pins.
+name: Pinterest pin pack
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pack:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          sudo apt-get install -y -qq fonts-dejavu-core >/dev/null || true
+          pip install -q -r requirements.txt pillow numpy cryptography
+      - name: Build pack
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python -m bot.pinterest_pack
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pin-pack
+          path: pin_pack/
+          retention-days: 7
