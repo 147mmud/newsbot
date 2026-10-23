@@ -41,6 +41,14 @@
 <meta name="p:domain_verify" content="c8ba9d2ef38ddf3dc39b18b21e108044"/>
 <meta name="color-scheme" content="light dark">
 <script>(function(){try{var t=localStorage.getItem('theme')}catch(e){}if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.dataset.theme=t})();</script>
+{% if page == 'home' %}
+<script type="application/ld+json">{{ {"@context":"https://schema.org","@graph":[
+ {"@type":"NewsMediaOrganization","@id":abs_url('#org'),"name":site.SITE_NAME,"url":abs_url(),
+  "logo":{"@type":"ImageObject","url":abs_url('static/img/favicon.svg')},
+  "sameAs":["https://www.facebook.com/thepressandscore"],
+  "publishingPrinciples":abs_url('editorial/'),"correctionsPolicy":abs_url('corrections/')},
+ {"@type":"WebSite","name":site.SITE_NAME,"url":abs_url(),"publisher":{"@id":abs_url('#org')}}]}|tojson_safe|safe }}</script>
+{% endif %}
 {% block head %}{% endblock %}
 </head>
 <body class="page-{{ page }}">
@@ -84,6 +92,7 @@
       {% for slug, name in categories.items() %}
       <a href="{{ url('category/' ~ slug ~ '/') }}" {% if page == slug %}aria-current="page"{% endif %}>{{ name }}</a>
       {% endfor %}
+      <a href="{{ url('scores/') }}" {% if page == 'scores' %}aria-current="page"{% endif %}>Scores</a>
       </div>
       <div class="nav-tools">
         <a class="nav-icon nav-fb" href="https://www.facebook.com/thepressandscore" target="_blank" rel="noopener" aria-label="The Press &amp; Score on Facebook" title="Follow us on Facebook"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M24 12.07C24 5.4 18.63 0 12 0S0 5.4 0 12.07C0 18.1 4.39 23.1 10.13 24v-8.44H7.08v-3.49h3.05V9.41c0-3.02 1.79-4.69 4.53-4.69 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.96.93-1.96 1.88v2.26h3.33l-.53 3.49h-2.8V24C19.61 23.1 24 18.1 24 12.07z"/></svg></a>
@@ -123,7 +132,10 @@
   <div class="wrap">
     <nav>
       {% for slug, name in categories.items() %}<a href="{{ url('category/' ~ slug ~ '/') }}">{{ name }}</a>{% endfor %}
+      <a href="{{ url('scores/') }}">Live Scores</a>
       <a href="{{ url('about/') }}">About</a>
+      <a href="{{ url('editorial/') }}">Editorial Policy</a>
+      <a href="{{ url('corrections/') }}">Corrections</a>
       <a href="{{ url('privacy/') }}">Privacy</a>
       <a href="{{ url('contact/') }}">Contact</a>
       <a href="{{ url('feed.xml') }}">RSS</a>

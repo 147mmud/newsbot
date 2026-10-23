@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block head %}
+<script type="application/ld+json">{{ {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+ {"@type":"ListItem","position":1,"name":"Home","item":abs_url()},
+ {"@type":"ListItem","position":2,"name":"Live Scores","item":abs_url('scores/')},
+ {"@type":"ListItem","position":3,"name":lg.name}]}|tojson_safe|safe }}</script>
+{% endblock %}
+{% macro row(g) %}
+<li class="sc-row sc-{{ g.state }}">
+  <span class="sc-team{{ ' win' if g.teams[0].winner }}">{{ g.teams[0].name }}</span>
+  <span class="sc-mid">{% if g.state == 'pre' %}<time datetime="{{ g.ko.isoformat() }}">{{ g.uk }}<br><small>{{ g.et }}</small></time>{% else %}<b>{{ g.teams[0].score }} – {{ g.teams[1].score }}</b><br><small>{{ 'LIVE · ' if g.state == 'in' }}{{ g.detail }}</small>{% endif %}</span>
+  <span class="sc-team sc-away{{ ' win' if g.teams[1].winner }}">{{ g.teams[1].name }}</span>
+</li>
+{% endmacro %}
+{% block main %}
+<nav class="crumbs"><a href="{{ url() }}">Home</a> › <a href="{{ url('scores/') }}">Live Scores</a> › {{ lg.name }}</nav>
+<h1 class="page-title">{{ lg.name }} Scores, Results &amp; Fixtures</h1>
+<p class="story-dek">{{ lg.blurb }} Kick-off times are shown in UK and US Eastern time. Page refreshed {{ updated }}.</p>
+{% if lg.live %}<h2 class="widget-title">Live now</h2><ul class="sc-list">{% for g in lg.live %}{{ row(g) }}{% endfor %}</ul>{% endif %}
+{% if lg.results %}<h2 class="widget-title">Latest results</h2><ul class="sc-list">{% for g in lg.results[:12] %}{{ row(g) }}{% endfor %}</ul>{% endif %}
+{% if lg.upcoming %}<h2 class="widget-title">Upcoming fixtures</h2><ul class="sc-list">{% for g in lg.upcoming[:12] %}{{ row(g) }}{% endfor %}</ul>{% endif %}
+{% if not lg.games %}<p class="empty">No {{ lg.name }} games are scheduled in the next few days. Check back soon.</p>{% endif %}
+<h2 class="widget-title">Latest sports news</h2>
+<ul class="trending">{% for t in sports_news[:8] %}<li><a href="{{ url('news/' ~ t.slug ~ '/') }}">{{ t.headline }}</a></li>{% endfor %}</ul>
+<h2 class="widget-title">More scores</h2>
+<p>{% for o in all_leagues %}{% if o.slug != lg.slug %}<a href="{{ url('scores/' ~ o.slug ~ '/') }}">{{ o.name }}</a>{{ ' · ' if not loop.last }}{% endif %}{% endfor %}</p>
+{% endblock %}

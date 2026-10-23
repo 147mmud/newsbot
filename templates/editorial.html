@@ -1,0 +1,15 @@
+{% extends "_page.html" %}
+{% block heading %}Editorial Policy{% endblock %}
+{% block content %}
+<p>{{ site.SITE_NAME }} publishes short, factual summaries of news and sports results. This page explains how we work.</p>
+<h2>Sourcing</h2>
+<p>Every story is based on reporting from established publishers and agencies. We credit the original source on each story and link to the full report. We do not copy full articles.</p>
+<h2>How stories are produced</h2>
+<p>Our newsroom uses automated tools to collect headlines, write short summaries and organise them by topic. Scores and fixtures come from public sports data feeds and are refreshed automatically. Automated summaries are reviewed through automated quality checks, and we remove items that do not meet our standards.</p>
+<h2>Accuracy and neutrality</h2>
+<p>We aim to report facts without opinion. Headlines should describe the story accurately and not exaggerate.</p>
+<h2>Corrections</h2>
+<p>If you spot a mistake, tell us through the <a href="{{ url('contact/') }}">contact page</a>. We correct verified errors promptly or remove the story. See our <a href="{{ url('corrections/') }}">corrections policy</a>.</p>
+<h2>Advertising</h2>
+<p>Advertising helps fund the site. Ads are clearly separate from news content and never influence what we publish.</p>
+{% endblock %}

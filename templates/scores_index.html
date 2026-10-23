@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% macro row(g) %}
+<li class="sc-row sc-{{ g.state }}">
+  <span class="sc-team{{ ' win' if g.teams[0].winner }}">{{ g.teams[0].name }}</span>
+  <span class="sc-mid">{% if g.state == 'pre' %}<time datetime="{{ g.ko.isoformat() }}">{{ g.uk }}<br><small>{{ g.et }}</small></time>{% else %}<b>{{ g.teams[0].score }} – {{ g.teams[1].score }}</b><br><small>{{ 'LIVE · ' if g.state == 'in' }}{{ g.detail }}</small>{% endif %}</span>
+  <span class="sc-team sc-away{{ ' win' if g.teams[1].winner }}">{{ g.teams[1].name }}</span>
+</li>
+{% endmacro %}
+{% block main %}
+<nav class="crumbs"><a href="{{ url() }}">Home</a> › Live Scores</nav>
+<h1 class="page-title">Live Scores &amp; Results Today</h1>
+<p class="story-dek">NFL, NBA, MLB, NHL, Premier League, Champions League, La Liga, Bundesliga, Serie A, MLS and rugby – scores, results and fixtures in one place. Updated {{ updated }}.</p>
+{% for lg in leagues %}
+{% set shown = lg.live + lg.results[:3] + lg.upcoming[:3] %}
+<h2 class="widget-title"><a href="{{ url('scores/' ~ lg.slug ~ '/') }}">{{ lg.name }}</a></h2>
+{% if shown %}<ul class="sc-list">{% for g in shown %}{{ row(g) }}{% endfor %}</ul>
+<p><a href="{{ url('scores/' ~ lg.slug ~ '/') }}">All {{ lg.name }} scores ›</a></p>
+{% else %}<p class="empty">No {{ lg.name }} games right now. <a href="{{ url('scores/' ~ lg.slug ~ '/') }}">See page</a></p>{% endif %}
+{% endfor %}
+{% endblock %}
