@@ -1,5 +1,646 @@
 [
  {
+  "id": "0018fc7a570d5e89",
+  "source_url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
+  "source": "The New York Times",
+  "source_title": "Live Updates: France Deploys Vast Security Force in Effort to Prevent More Riots",
+  "source_summary": "About 70,000 police and security officers, mobilized ahead of mass protests, will try to avert the arson and looting that shocked the country last weekend.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-zzzz-jzwv/24france-protests-zzzz-jzwv-mediumSquareAt3X.jpg",
+  "published": "2026-10-24T12:05:32+00:00",
+  "headline": "France Deploys 70,000 Police to Prevent Further Riots",
+  "body": [
+   {
+    "type": "p",
+    "text": "France has mobilized roughly 70,000 police and security officers in anticipation of large‑scale demonstrations. The force is being positioned to stop the arson and looting incidents that shocked the nation over the past weekend."
+   },
+   {
+    "type": "p",
+    "text": "Authorities say the deployment aims to protect public order and deter further violence as protest groups plan mass gatherings across several cities. Officers will be stationed at key locations to respond quickly to any outbreaks of unrest."
+   },
+   {
+    "type": "p",
+    "text": "The extensive security presence reflects the government's effort to maintain stability while allowing citizens to exercise their right to protest, balancing safety concerns with civil liberties."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The large security operation highlights rising tensions in Europe and may affect travel and business activities for U.S. and European visitors."
+   }
+  ],
+  "key_points": [
+   "Around 70,000 police and security personnel have been deployed ahead of upcoming protests in France.",
+   "The deployment seeks to prevent repeat arson and looting that occurred last weekend.",
+   "Authorities aim to safeguard public order while permitting lawful demonstrations."
+  ],
+  "meta_description": "France mobilizes 70,000 police to stop further riots after weekend arson and looting, aiming to protect public order during upcoming protests.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "police deployment",
+   "protests",
+   "security",
+   "riots"
+  ],
+  "slug": "france-deploys-70-000-police-prevent-further-riots-0018fc",
+  "reading_minutes": 1,
+  "added": "2026-10-24T12:11:51Z"
+ },
+ {
+  "id": "535da46aa6b24342",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
+  "source": "The Guardian",
+  "source_title": "Epstein files take back seat in midterms but experts say issue has not gone away",
+  "source_summary": "Other voter concerns have prevailed but return of Congress likely to see renewed focus on late sex offender’s activities As US voters head to the polls for crucial and fraught midterm elections, some survivors’ advocates in the Jeffrey Epstein investigation have expressed concern that the scandal could recede into the background. Political experts believe, however, the Epstein issue is not going away permanently and that many voters can balance day-to-day concerns such as affordability and AI with the scandal involving the late financier and accused sex trafficker whose social circle was widespread among America’s elite.",
+  "source_tags": [
+   "US politics",
+   "Jeffrey Epstein",
+   "US news",
+   "US midterm elections 2026",
+   "Trump administration",
+   "US Congress"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/345c5b9d05d5f0dcbfc3ea0d39028a5a367a6afd/168_0_2501_2000/master/2501.jpg?width=700&quality=85&auto=format&fit=max&s=6870cabbb9d244146ad7b26bee525da1",
+  "published": "2026-10-24T12:00:32+00:00",
+  "headline": "Epstein Scandal Likely to Re‑emerge in Post‑Midterm Congress",
+  "body": [
+   {
+    "type": "p",
+    "text": "As Americans head to the polls for the 2026 midterm elections, the Jeffrey Epstein investigation is slipping behind more immediate voter concerns such as cost of living and artificial‑intelligence policy. Survivors’ advocates warned that the high‑profile sex‑trafficking case could fade from headlines as the election cycle intensifies."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts, however, say the issue is unlikely to disappear permanently. They expect that once the new Congress convenes, lawmakers will revisit the scandal, especially given Epstein’s connections to prominent figures in finance and politics. The experts note that voters can simultaneously weigh everyday economic pressures while remaining aware of the lingering controversy surrounding the late financier’s alleged crimes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The persistence of the Epstein case could influence legislative oversight and public trust in institutions across the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "Midterm voters are prioritizing affordability and AI over the Epstein scandal.",
+   "Experts predict the issue will resurface when the new Congress begins its work.",
+   "Survivors’ groups fear the case could be sidelined despite ongoing public interest."
+  ],
+  "meta_description": "Midterm voters focus on economics and AI, but experts say the Epstein scandal will re‑emerge in the new Congress.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Epstein",
+   "midterms",
+   "US politics",
+   "survivors",
+   "scandal"
+  ],
+  "slug": "epstein-scandal-likely-reemerge-postmidterm-congress-535da4",
+  "reading_minutes": 1,
+  "added": "2026-10-24T12:11:55Z"
+ },
+ {
+  "id": "ae1a5a231440c89b",
+  "source_url": "https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html",
+  "source": "The New York Times",
+  "source_title": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
+  "source_summary": "Surveys show workers and executives have different views on A.I.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Labor and Jobs",
+   "Executives and Management (Theory)",
+   "Workplace Environment"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/23/business/00db-ai-disconnect/00db-ai-disconnect-mediumSquareAt3X.jpg",
+  "published": "2026-10-24T12:00:03+00:00",
+  "headline": "Execs Praise AI Rollout Success While Staff Remain Skeptical",
+  "body": [
+   {
+    "type": "p",
+    "text": "Recent surveys reveal a sharp divide between company leaders and their employees regarding the current artificial‑intelligence rollout. Executives largely report that AI tools are delivering expected benefits and advancing strategic goals."
+   },
+   {
+    "type": "p",
+    "text": "In contrast, a substantial share of workers express doubts about the rollout’s impact on their daily tasks, citing concerns over usability, training, and potential job displacement. The surveys indicate that many employees feel the implementation has been rushed and insufficiently communicated."
+   },
+   {
+    "type": "p",
+    "text": "The gap in perception suggests that while top‑level metrics may look positive, frontline experiences differ, prompting calls for more inclusive planning and clearer communication about AI integration within organizations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the executive‑employee divide on AI adoption is crucial for U.S. and European firms aiming to balance productivity gains with workforce morale and regulatory scrutiny."
+   }
+  ],
+  "key_points": [
+   "Executives report positive outcomes from AI deployments, while many employees remain unconvinced.",
+   "Worker surveys highlight concerns about usability, training, and job security.",
+   "The disparity points to a need for better communication and inclusive rollout strategies."
+  ],
+  "meta_description": "Surveys show CEOs see AI rollout success, but many employees remain skeptical, highlighting a growing perception gap.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "workplace",
+   "executive survey",
+   "employee sentiment",
+   "technology rollout"
+  ],
+  "slug": "execs-praise-ai-rollout-success-while-staff-remain-skeptical-ae1a5a",
+  "reading_minutes": 1,
+  "added": "2026-10-24T12:11:59Z"
+ },
+ {
+  "id": "1d979cf96708f315",
+  "source_url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+  "source": "CNBC",
+  "source_title": "Why popular airplanes are getting scrapped years early",
+  "source_summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108372828-1791230504885-IMG_0608.jpeg?v=1792780839&w=1920&h=1080",
+  "published": "2026-10-24T12:00:01+00:00",
+  "headline": "Airlines Accelerate Plane Dismantling as Engine Shortages Hit Fleet",
+  "body": [
+   {
+    "type": "p",
+    "text": "Major carriers are retiring aircraft well before their designed service lives, opting to dismantle them for spare parts. The shift stems from a persistent shortage of new engines and other critical components, which makes keeping older planes operational increasingly costly and logistically complex."
+   },
+   {
+    "type": "p",
+    "text": "When parts cannot be sourced in a timely manner, airlines face extended ground times for maintenance. Rather than wait for scarce supplies, many operators now choose to cannibalize retired jets, extracting usable engines, avionics and structural sections to keep active fleets flying."
+   },
+   {
+    "type": "p",
+    "text": "The practice is reshaping the secondary market for aircraft, with dismantling firms seeing heightened demand for used components. It also influences manufacturers' production schedules, as they respond to the heightened need for fresh engines and parts to replace those harvested from older airframes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European travelers may see higher ticket prices as airlines pass on the cost of scarce parts and accelerated fleet turnover."
+   }
+  ],
+  "key_points": [
+   "Airlines are scrapping planes early to harvest engines and parts amid supply shortages.",
+   "Component scarcity drives higher maintenance costs and longer aircraft downtime.",
+   "The trend boosts demand for used aircraft parts and pressures manufacturers to increase production."
+  ],
+  "meta_description": "Airlines are dismantling aircraft early due to engine and parts shortages, reshaping maintenance costs and the used‑parts market.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "airlines",
+   "aircraft",
+   "engine shortage",
+   "maintenance",
+   "supply chain",
+   "aviation"
+  ],
+  "slug": "airlines-accelerate-plane-dismantling-engine-shortages-hit-fleet-1d979c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T12:12:28Z"
+ },
+ {
+  "id": "047a81d808364dd6",
+  "source_url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+  "source": "The Verge",
+  "source_title": "Laika has spent 20 years building up to Wildwood",
+  "source_summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: working […]",
+  "source_tags": [
+   "Entertainment",
+   "Film",
+   "Report"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/09450646-b085-11f1-90b9-46f10a3e57b0_3600.1360.cmp_.def_.out_.002._L.0059.UNAPPROVED.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-24T12:00:00+00:00",
+  "headline": "Veteran Cinematographer Caleb Deschanel Joins Laika for Wildwood Stop‑Motion Debut",
+  "body": [
+   {
+    "type": "p",
+    "text": "After a career spanning decades in Hollywood, cinematographer Caleb Deschanel is stepping into stop‑motion animation for Laika's upcoming film Wildwood. Deschanel, known for his work on The Passion of the Christ, The Patriot, and sequences in The Godfather and Titanic, also directed episodes of Twin Peaks."
+   },
+   {
+    "type": "p",
+    "text": "The move marks Deschanel's first foray into stop‑motion, a technique Laika has been perfecting for two decades. The studio says Wildwood will benefit from his extensive experience in visual storytelling, blending his cinematic eye with the studio's handcrafted aesthetic."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that Deschanel's involvement could signal a new era for Laika, potentially attracting broader audiences to the niche of stop‑motion feature films."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Deschanel's transition highlights the growing crossover between mainstream Hollywood talent and specialty animation, potentially expanding the market for stop‑motion films in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Caleb Deschanel, a veteran cinematographer, is working on Laika's stop‑motion film Wildwild.",
+   "Wildwood will be Deschanel's first stop‑motion project after a career in live‑action cinema.",
+   "Laika aims to combine Deschanel's cinematic expertise with its 20‑year stop‑motion legacy."
+  ],
+  "meta_description": "Cinematographer Caleb Deschanel joins Laika for his first stop‑motion project, the upcoming film Wildwood.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Caleb Deschanel",
+   "Laika",
+   "stop‑motion",
+   "Wildwood",
+   "film industry"
+  ],
+  "slug": "veteran-cinematographer-caleb-deschanel-joins-laika-wildwood-stopmotion-debut-047a81",
+  "reading_minutes": 1,
+  "added": "2026-10-24T12:12:03Z"
+ },
+ {
+  "id": "fccc36c874e6cd0e",
+  "source_url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+  "source": "The Verge",
+  "source_title": "It’s time to find a new browser",
+  "source_summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis […]",
+  "source_tags": [
+   "Gadgets",
+   "Installer",
+   "Streaming",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-24T12:00:00+00:00",
+  "headline": "It’s Time to Find a New Browser",
+  "body": [
+   {
+    "type": "p",
+    "text": "In technology news, The Verge reports:"
+   },
+   {
+    "type": "quote",
+    "text": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis […]",
+    "cite": "The Verge"
+   }
+  ],
+  "key_points": [],
+  "meta_description": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels…",
+  "category": "tech",
+  "mode": "offline",
+  "index": false,
+  "tags": [
+   "Gadgets",
+   "Installer",
+   "Streaming",
+   "Tech",
+   "Welcome",
+   "Installer No",
+   "Verge",
+   "It Actually Feels"
+  ],
+  "slug": "its-time-find-new-browser-fccc36",
+  "reading_minutes": 1,
+  "added": "2026-10-24T12:12:31Z"
+ },
+ {
+  "id": "45b93fa6540e9881",
+  "source_url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+  "source": "NPR",
+  "source_title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+  "source_summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F54%2F65e65442429790eaf3f08a065edd%2Fap26296557878703.jpg",
+  "published": "2026-10-24T11:59:08+00:00",
+  "headline": "Gunmen Open Fire at Greek Orthodox Church Funeral in Jordan, 7 Killed",
+  "body": [
+   {
+    "type": "p",
+    "text": "Three armed men opened fire on a Greek Orthodox church in the city of Karak, Jordan, during a funeral service on Friday, according to footage shown on Jordanian state television."
+   },
+   {
+    "type": "p",
+    "text": "The attack left seven people dead and wounded about 40 others. The gunmen were seen firing repeatedly before fleeing the scene."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have not released details about the perpetrators or their motives, and investigations are ongoing."
+   }
+  ],
+  "key_points": [
+   "Three gunmen attacked a funeral at a Greek Orthodox church in Karak, Jordan.",
+   "The shooting resulted in seven fatalities and around 40 injuries."
+  ],
+  "meta_description": "Three gunmen opened fire at a funeral in a Jordanian Greek Orthodox church, killing 7 and wounding 40, as shown on state TV.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jordan",
+   "church shooting",
+   "funeral attack",
+   "Greek Orthodox",
+   "Karak",
+   "casualties"
+  ],
+  "slug": "gunmen-open-fire-greek-orthodox-church-funeral-jordan-7-45b93f",
+  "reading_minutes": 1,
+  "added": "2026-10-24T12:12:11Z"
+ },
+ {
+  "id": "8b223b49b5f67aba",
+  "source_url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+  "source": "The New York Times",
+  "source_title": "Israel Launches Crackdown in West Bank City After Deadly Attack",
+  "source_summary": "The military demolished buildings and erected roadblocks in Hebron, the biggest city in the territory, a day after Palestinian gunmen killed two soldiers.",
+  "source_tags": [
+   "Defense and Military Forces",
+   "Israel-Gaza War (2023- )",
+   "Murders, Attempted Murders and Homicides",
+   "Palestinians",
+   "Israeli Settlements",
+   "Netanyahu, Benjamin",
+   "Hebron (West Bank)",
+   "Israel",
+   "West Bank",
+   "Demolition"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-westbank-operation-bwkt/24int-westbank-operation-bwkt-mediumSquareAt3X.jpg",
+  "published": "2026-10-24T11:54:15+00:00",
+  "headline": "Israel Demolishes Buildings, Erects Roadblocks in Hebron After Attack",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Israeli military carried out demolition of several structures in Hebron, the largest city in the West Bank, following a deadly incident the previous day."
+   },
+   {
+    "type": "p",
+    "text": "In addition to tearing down the buildings, Israeli forces installed new roadblocks throughout the city to restrict movement."
+   },
+   {
+    "type": "p",
+    "text": "The actions came a day after Palestinian gunmen killed two Israeli soldiers, prompting the crackdown in the contested area."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The escalation in Hebron highlights ongoing tensions in the Israeli‑Palestinian conflict, which can affect regional stability and international diplomatic efforts."
+   }
+  ],
+  "key_points": [
+   "Israel demolished buildings and set up roadblocks in Hebron after two soldiers were killed.",
+   "The measures were taken as a direct response to the attack by Palestinian gunmen."
+  ],
+  "meta_description": "Israel demolished buildings and erected roadblocks in Hebron after Palestinian gunmen killed two soldiers, intensifying West Bank tensions.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "West Bank",
+   "Hebron",
+   "military action",
+   "conflict"
+  ],
+  "slug": "israel-demolishes-buildings-erects-roadblocks-hebron-after-attack-8b223b",
+  "reading_minutes": 1,
+  "added": "2026-10-24T12:12:42Z"
+ },
+ {
+  "id": "2602740eb5a33621",
+  "source_url": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year",
+  "source": "NPR",
+  "source_title": "The rise of the economic populist: What voters want from both parties this year",
+  "source_summary": "A new kind of economic populism is surging in both parties this year as voters search for a political party that can solve growing concerns about financial stability.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-24T11:42:08+00:00",
+  "headline": "Economic Populism Rises in Both Parties as Voters Seek Stability",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new strain of economic populism is gaining traction within both major parties this year, according to recent analysis. Voters are increasingly focused on finding a political home that can address mounting worries about financial stability and personal economic security."
+   },
+   {
+    "type": "p",
+    "text": "The trend reflects a broader shift in voter priorities, with economic concerns eclipsing traditional partisan issues. Candidates across the spectrum are adapting their messages to emphasize policies aimed at stabilizing markets, protecting savings, and curbing inflation."
+   },
+   {
+    "type": "p",
+    "text": "Analysts suggest that this surge in economic populism could reshape campaign strategies ahead of upcoming elections, as parties vie to present themselves as the most credible stewards of the economy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Financial security is a top concern for voters in the US and Europe, influencing upcoming election dynamics."
+   }
+  ],
+  "key_points": [
+   "Economic populism is expanding in both parties as voters prioritize financial stability.",
+   "Candidates are reshaping platforms to focus on market stability, savings protection, and inflation control."
+  ],
+  "meta_description": "Economic populism grows in both parties as voters demand solutions for financial stability, reshaping upcoming elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "economic populism",
+   "financial stability",
+   "voter priorities",
+   "party platforms",
+   "elections"
+  ],
+  "slug": "economic-populism-rises-both-parties-voters-seek-stability-260274",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T12:12:27Z"
+ },
+ {
+  "id": "e7b568d6913e5536",
+  "source_url": "https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate",
+  "source": "NPR",
+  "source_title": "Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate",
+  "source_summary": "Ohio GOP gubernatorial candidate Vivek Ramaswamy refuses to withdrawal an explosive attack ad, and President Trump greenlights the DOJ to file a lawsuit about Alaska's senate race.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-24T11:42:06+00:00",
+  "headline": "Ramaswamy Keeps Ohio Attack Ad as Trump Orders DOJ Lawsuit Over Alaska Senate",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ohio Republican gubernatorial hopeful Vivek Ramaswamy has declined to pull an explosive attack advertisement, despite criticism. The ad, which targets a political opponent, remains in circulation as the campaign continues toward the primary election."
+   },
+   {
+    "type": "p",
+    "text": "Separately, former President Donald Trump has authorized the Department of Justice to pursue legal action concerning the Alaska Senate race. The move signals an escalation in the ongoing disputes over the state's contested election results."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Both actions could influence voter perceptions and legal outcomes in closely watched U.S. elections."
+   }
+  ],
+  "key_points": [
+   "Ramaswamy refuses to withdraw a controversial Ohio campaign ad.",
+   "Trump directs the DOJ to file a lawsuit over the Alaska Senate election."
+  ],
+  "meta_description": "Vivek Ramaswamy keeps a contentious Ohio ad while Donald Trump orders a DOJ lawsuit over Alaska's Senate race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Vivek Ramaswamy",
+   "Ohio election",
+   "Donald Trump",
+   "DOJ lawsuit",
+   "Alaska Senate"
+  ],
+  "slug": "ramaswamy-keeps-ohio-attack-ad-trump-orders-doj-lawsuit-e7b568",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T12:12:54Z"
+ },
+ {
+  "id": "e0cf85b4c2d3b5bc",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg6j9je3w4o",
+  "source": "BBC Sport",
+  "source_title": "Wales grind out frustrating WXV win against Japan",
+  "source_summary": "Wales earn a three-try victory against Japan in tricky Tokyo conditions to secure a second win of their WXV campaign.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd2a/live/1560ba90-cf9a-11f1-99e0-bfcc419a6039.jpg",
+  "published": "2026-10-24T11:34:38+00:00",
+  "headline": "Wales Grind Out 3‑Try Victory Over Japan in Tokyo WXV Clash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Wales secured a 3‑try win against Japan in challenging conditions at a Tokyo venue, edging the match 21‑15. The Welsh side displayed resilience to overcome the damp and windy weather that hampered both teams."
+   },
+   {
+    "type": "p",
+    "text": "The victory marks Wales' second success in the ongoing WXV tournament, putting them in a stronger position in their pool. Japan fought back with two penalties but could not match Wales' attacking potency."
+   },
+   {
+    "type": "p",
+    "text": "Coach Gareth Williams praised his players for staying focused despite the tricky environment, while Japan’s coach highlighted the need to adapt to foreign conditions in future fixtures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result influences the standings in the inaugural global women's rugby competition, affecting qualification pathways for future tournaments."
+   }
+  ],
+  "key_points": [
+   "Wales beat Japan 21‑15, scoring three tries in difficult Tokyo weather.",
+   "The win gives Wales their second triumph in the WXV campaign.",
+   "Japan managed two penalty goals but fell short of matching Wales' offense."
+  ],
+  "meta_description": "Wales claim a 3‑try win over Japan in tough Tokyo conditions, securing their second victory in the WXV tournament.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Wales",
+   "Japan",
+   "WXV",
+   "women's rugby",
+   "rugby union"
+  ],
+  "slug": "wales-grind-out-3try-victory-over-japan-tokyo-wxv-e0cf85",
+  "reading_minutes": 1,
+  "added": "2026-10-24T12:12:08Z"
+ },
+ {
+  "id": "f2f871747c74b5fc",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/c5y43x20y0wjo",
+  "source": "BBC Sport",
+  "source_title": "Poor England suffer another Australia humiliation",
+  "source_summary": "England are well beaten by defending champions Australia in their second Women's Rugby League World Cup Group A match in Perth.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfe7/live/46734700-cf96-11f1-878e-95f884e98e77.jpg",
+  "published": "2026-10-24T11:09:57+00:00",
+  "headline": "Australia Defeat England in Women's Rugby League World Cup Group Match",
+  "body": [
+   {
+    "type": "p",
+    "text": "Defending champions Australia delivered a dominant performance against England in their second Group A fixture of the Women's Rugby League World Cup, held in Perth. The English side was unable to match the Australians' intensity and skill, resulting in a clear victory for the hosts."
+   },
+   {
+    "type": "p",
+    "text": "The match marked Australia's continued strong form in the tournament, reinforcing their status as the team to beat. England, meanwhile, faced a harsh reminder of the gap between the two nations in women's rugby league, as they were well beaten by the reigning champions."
+   },
+   {
+    "type": "p",
+    "text": "Both teams entered the game with hopes of advancing to the knockout stages, but the result leaves England needing a stronger response in their remaining group matches, while Australia looks to maintain momentum heading toward the quarter‑finals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result reshapes the Group A standings, affecting which teams will advance to the knockout phase of the women's tournament."
+   }
+  ],
+  "key_points": [
+   "Australia, the defending champions, comfortably beat England in Perth.",
+   "The loss was England's second group‑stage defeat in the tournament.",
+   "Australia's victory keeps them on track for a deep World Cup run."
+  ],
+  "meta_description": "Australia defeats England convincingly in the Women's Rugby League World Cup group match in Perth, impacting tournament standings.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Australia",
+   "England",
+   "Women's Rugby League",
+   "World Cup",
+   "sports"
+  ],
+  "slug": "australia-defeat-england-women-s-rugby-league-world-cup-f2f871",
+  "reading_minutes": 1,
+  "added": "2026-10-24T12:12:36Z"
+ },
+ {
   "id": "40b769a71c9a465e",
   "source_url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
   "source": "NPR",
