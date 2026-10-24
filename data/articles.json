@@ -1,5 +1,655 @@
 [
  {
+  "id": "40b769a71c9a465e",
+  "source_url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+  "source": "NPR",
+  "source_title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+  "source_summary": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2463x1383+0+0/resize/2463x1383!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2Ff2%2Fbed4f4df43b197d5bb5247c6c0e3%2Fap26296551585852.jpg",
+  "published": "2026-10-24T07:04:13+00:00",
+  "headline": "Yemen’s Taiz City Faces Critical Water Shortage Amid Houthi Siege",
+  "body": [
+   {
+    "type": "p",
+    "text": "Taiz, a major city in southwestern Yemen, is confronting an acute drinking‑water shortage as Houthi rebels tighten their encirclement of the area. The rebels, supported by Iran, have restricted access to water sources that the city has relied on for years."
+   },
+   {
+    "type": "p",
+    "text": "Although Taiz has dealt with water scarcity for more than a decade, the situation has deteriorated sharply in recent weeks. Residents report dwindling supplies from wells and municipal pumps, forcing many to travel longer distances for safe water or rely on unsafe alternatives."
+   },
+   {
+    "type": "p",
+    "text": "Humanitarian groups warn that the lack of clean water could exacerbate health risks and fuel further displacement, adding pressure to an already fragile humanitarian response in Yemen."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The worsening water crisis in Taiz highlights growing humanitarian needs and regional instability that affect international aid efforts and security interests in the Middle East."
+   }
+  ],
+  "key_points": [
+   "Houthi rebels backed by Iran have intensified the siege of Taiz, cutting off water supplies.",
+   "The city’s water crisis, long‑standing for over ten years, has worsened dramatically in recent weeks.",
+   "Reduced access to clean water threatens public health and could increase displacement in the region."
+  ],
+  "meta_description": "Taiz, Yemen faces a severe water shortage as Houthi rebels tighten their siege, worsening a decade‑long crisis.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Yemen",
+   "water crisis",
+   "Taiz",
+   "Houthi rebels",
+   "humanitarian",
+   "Middle East"
+  ],
+  "slug": "yemens-taiz-city-faces-critical-water-shortage-amid-houthi-40b769",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:11:42Z"
+ },
+ {
+  "id": "922565a5f0857612",
+  "source_url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cq5ynjgkn68vo",
+  "source": "BBC Sport",
+  "source_title": "Volkanovski nears featherweight immortality as record beckons",
+  "source_summary": "Alexander Volkanovski will stake his claim to be the greatest featherweight of all time if he beats Movsar Evloev at UFC 333 in Abu Dhabi on Saturday.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c41/live/1e332db0-cee1-11f1-bdca-23c64447299f.jpg",
+  "published": "2026-10-24T06:52:41+00:00",
+  "headline": "Volkanovski Aims for Featherweight Immortality at UFC 333",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australian champion Alexander Volkanovski is set to face Russia's Movsar Evloev at UFC 333 in Abu Dhabi on Saturday. A victory would allow Volkanovski to claim the mantle of the greatest featherweight fighter in the sport’s history."
+   },
+   {
+    "type": "p",
+    "text": "The bout is being billed as a potential record‑setting moment, with Volkanovski seeking to cement his legacy by adding another high‑profile win to his résumé. Fans and analysts will be watching closely to see if he can secure the milestone that could define his career."
+   },
+   {
+    "type": "p",
+    "text": "Should Volkanovski prevail, the achievement would place him alongside the most celebrated names in mixed‑martial arts, reinforcing his status on the global stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome could reshape the historical rankings of featherweight champions, influencing fan interest and future match‑making worldwide."
+   }
+  ],
+  "key_points": [
+   "Volkanovski will fight Movsar Evloev at UFC 333 in Abu Dhabi.",
+   "A win would let him claim the title of the greatest featherweight ever.",
+   "The fight is positioned as a potential record‑setting moment in MMA."
+  ],
+  "meta_description": "Alexander Volkanovski aims to become the greatest featherweight ever with a win over Movsar Evloev at UFC 333 in Abu Dhabi.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UFC",
+   "Alexander Volkanovski",
+   "featherweight",
+   "MMA",
+   "UFC 333"
+  ],
+  "slug": "volkanovski-aims-featherweight-immortality-ufc-333-922565",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:11:46Z"
+ },
+ {
+  "id": "b848052afee4afa1",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm79p7x79wl9o",
+  "source": "BBC Sport",
+  "source_title": "Canada inflict back-to-back losses on England",
+  "source_summary": "England suffer back-to-back defeats for the first time in a decade as Canada win 31-22 in Ottawa, including a hat-trick for captain Sophie de Goede.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33fd/live/3b76c3a0-cf6d-11f1-a98a-bb970bd2aa12.jpg",
+  "published": "2026-10-24T06:46:23+00:00",
+  "headline": "Canada Stuns England with 31-22 Victory, Ending England’s Decade‑Long Streak",
+  "body": [
+   {
+    "type": "p",
+    "text": "In Ottawa, the Canadian women's rugby team handed England a 31-22 defeat, marking England’s first back-to-back losses in ten years. The win highlighted Canada’s growing strength on the international stage."
+   },
+   {
+    "type": "p",
+    "text": "Captain Sophie de Goede led the Canadians with a hat‑trick, contributing significantly to the scoreboard and energising her side throughout the match. Her performance was a key factor in securing the margin of victory."
+   },
+   {
+    "type": "p",
+    "text": "The result shifts momentum in the women's rugby calendar, as England had entered the game as favorites. Canada’s disciplined defense and effective attacking play turned the contest in their favour, leaving England to regroup after consecutive setbacks."
+   }
+  ],
+  "key_points": [
+   "Canada defeated England 31-22 in Ottawa, delivering England’s first consecutive defeats in a decade.",
+   "Captain Sophie de Goede scored three tries, driving Canada’s victory.",
+   "The loss may affect England’s standing in upcoming international competitions."
+  ],
+  "meta_description": "Canada beats England 31-22 in Ottawa, ending England's ten‑year streak of avoiding back‑to‑back losses, with captain Sophie de Goede scoring a hat‑trick.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "Canada",
+   "England",
+   "women's sport",
+   "international competition"
+  ],
+  "slug": "canada-stuns-england-with-31-22-victory-ending-englands-b84805",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:11:58Z"
+ },
+ {
+  "id": "c9d18b35b699cc36",
+  "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cwe9ldpmeljyo",
+  "source": "BBC Sport",
+  "source_title": "Smith v Puello world title fight predictions",
+  "source_summary": "Figures from the boxing world give their predictions for Saturday's light-welterweight title fight between WBC champion Dalton Smith and Alberto Puello.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ca/live/f2a09dc0-ce1a-11f1-906e-e3128518d85d.png",
+  "published": "2026-10-24T06:35:17+00:00",
+  "headline": "Boxing Insiders Predict Outcome of Smith vs. Puello Title Fight",
+  "body": [
+   {
+    "type": "p",
+    "text": "Prominent figures in the boxing community have weighed in on the upcoming light‑welterweight showdown slated for Saturday. The bout will see WBC champion Dalton Smith defend his title against challenger Alberto Puello, drawing attention from fans worldwide."
+   },
+   {
+    "type": "p",
+    "text": "Analysts and former fighters shared their expectations, highlighting Smith's power and Puello's speed as key factors that could shape the contest. While specific odds were not disclosed, the consensus underscores a closely contested battle between the two elite athletes."
+   },
+   {
+    "type": "p",
+    "text": "The predictions come as the fight builds momentum on the international boxing calendar, with both camps preparing for a high‑stakes encounter that could influence future rankings in the division."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The fight pits two top‑ranked light‑welterweights against each other, affecting future title opportunities and rankings that interest North American and European boxing audiences."
+   }
+  ],
+  "key_points": [
+   "Dalton Smith will defend his WBC light‑welterweight title against Alberto Puello on Saturday.",
+   "Boxing experts are offering varied predictions, emphasizing the fighters' contrasting styles.",
+   "The bout is positioned as a pivotal contest in the global light‑welterweight landscape."
+  ],
+  "meta_description": "Boxing experts share predictions ahead of the WBC light‑welterweight title clash between Dalton Smith and Alberto Puello on Saturday.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "boxing",
+   "Dalton Smith",
+   "Alberto Puello",
+   "WBC title",
+   "fight predictions"
+  ],
+  "slug": "boxing-insiders-predict-outcome-smith-vs-puello-title-fight-c9d18b",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:12:10Z"
+ },
+ {
+  "id": "e5684a738e789f9d",
+  "source_url": "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "France protests: More violence feared amid renewed demonstrations",
+  "source_summary": "France is deploying some 70,000 police as fresh nationwide protests are set to begin. A deadly shooting near Paris has additionally fueled tensions. DW has more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79748338_6.jpg",
+  "published": "2026-10-24T06:34:00+00:00",
+  "headline": "France Deploys 70,000 Police as New Nationwide Protests Loom",
+  "body": [
+   {
+    "type": "p",
+    "text": "France is preparing for a fresh wave of nationwide demonstrations, mobilising roughly 70,000 police officers to maintain order. The security buildup comes as authorities anticipate large‑scale protests across multiple cities."
+   },
+   {
+    "type": "p",
+    "text": "Tensions have risen after a fatal shooting near Paris, which has intensified public anger and heightened concerns about potential violence during the upcoming rallies. Officials say the incident has added urgency to the police deployment."
+   },
+   {
+    "type": "p",
+    "text": "The government has warned that the demonstrations could turn volatile, urging citizens to avoid protest zones and follow police instructions. The scale of the police presence underscores the seriousness with which French authorities view the risk of unrest."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest may affect travel safety and economic activity in Europe, and could influence broader EU security considerations."
+   }
+  ],
+  "key_points": [
+   "France is deploying about 70,000 police officers ahead of new nationwide protests.",
+   "A deadly shooting near Paris has heightened tensions and fears of violence.",
+   "Authorities warn that demonstrations could become volatile and advise public caution."
+  ],
+  "meta_description": "France mobilises 70,000 police as fresh nationwide protests begin, amid heightened tension after a deadly shooting near Paris.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "police deployment",
+   "security",
+   "Europe"
+  ],
+  "slug": "france-deploys-70-000-police-new-nationwide-protests-loom-e5684a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T07:11:55Z"
+ },
+ {
+  "id": "b3dfed1f3aa5c429",
+  "source_url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
+  "source": "BBC News",
+  "source_title": "France prepares for day of protest a week after nationwide riots",
+  "source_summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f26/live/2a059180-cf74-11f1-aaa0-39a3560003e9.jpg",
+  "published": "2026-10-24T06:19:46+00:00",
+  "headline": "France Gears Up for Massive Protest After Week-Long Riots",
+  "body": [
+   {
+    "type": "p",
+    "text": "French authorities are preparing for a large-scale demonstration scheduled for next week, following a series of nationwide riots that began earlier this month. Officials anticipate that hundreds of thousands of people will gather in cities across the country to voice their grievances."
+   },
+   {
+    "type": "p",
+    "text": "The government has announced that more than 70,000 police officers will be deployed to manage the protest and maintain public order. Security forces are being positioned in key locations to respond to any incidents and to enforce existing restrictions on gatherings."
+   },
+   {
+    "type": "p",
+    "text": "While officials warn that some participants may ignore the imposed limits, they emphasize that the heavy police presence is intended to prevent further violence and protect both demonstrators and the public."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The protest highlights ongoing social tensions in France that could affect European stability and have economic implications for multinational businesses."
+   }
+  ],
+  "key_points": [
+   "Hundreds of thousands are expected to protest in France next week.",
+   "Over 70,000 police officers will be on standby to enforce restrictions.",
+   "Authorities caution that some demonstrators may defy the limits."
+  ],
+  "meta_description": "France prepares for a massive protest with hundreds of thousands expected and over 70,000 police deployed after recent nationwide riots.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protest",
+   "police deployment",
+   "civil unrest",
+   "European security"
+  ],
+  "slug": "france-gears-up-massive-protest-after-week-long-riots-b3dfed",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:12:06Z"
+ },
+ {
+  "id": "5c898b852149709d",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo",
+  "source": "BBC Sport",
+  "source_title": "Why Tottenham v Arsenal could define their seasons - live on BBC One",
+  "source_summary": "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's showdown, live on BBC One.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131f/live/f29e9740-cd30-11f1-bc2e-018d645d8d21.jpg",
+  "published": "2026-10-24T06:02:44+00:00",
+  "headline": "Tottenham and Arsenal Face Crucial Clash as Both Seek Victory",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tottenham Hotspur enter Saturday's North London derby after a series of uneven performances, leaving their season trajectory uncertain. Their recent form has been described as stuttering, prompting a need for a decisive win to regain momentum."
+   },
+   {
+    "type": "p",
+    "text": "Arsenal, meanwhile, have been described as floundering, struggling to find consistency ahead of the match. A victory would be essential to halt their slide and keep their campaign on track."
+   },
+   {
+    "type": "p",
+    "text": "The showdown will be broadcast live on BBC One, offering fans a chance to watch the two rivals battle for three points that could define their respective seasons."
+   }
+  ],
+  "key_points": [
+   "Tottenham's recent form has been inconsistent, making a win crucial.",
+   "Arsenal are struggling and need a victory to steady their season.",
+   "The match will be shown live on BBC One on Saturday."
+  ],
+  "meta_description": "Tottenham and Arsenal need wins as they face off in a pivotal London derby broadcast live on BBC One.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tottenham",
+   "Arsenal",
+   "Premier League",
+   "London derby",
+   "BBC One"
+  ],
+  "slug": "tottenham-arsenal-face-crucial-clash-both-seek-victory-5c898b",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:12:23Z"
+ },
+ {
+  "id": "02383c10e6978439",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck20rery78lro",
+  "source": "BBC News",
+  "source_title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+  "source_summary": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb8/live/821f0590-cf15-11f1-a568-e785d17b98ab.jpg",
+  "published": "2026-10-24T05:31:01+00:00",
+  "headline": "Trump's Former Border Patrol Chief Calls Minneapolis Pullout a Surrender",
+  "body": [
+   {
+    "type": "p",
+    "text": "Greg Bovino, who served as chief of the U.S. Border Patrol under former President Donald Trump, told the BBC that the recent withdrawal of immigration enforcement resources from Minneapolis amounted to a \"surrender.\""
+   },
+   {
+    "type": "p",
+    "text": "Bovino was the public face of the controversial immigration enforcement operation that was launched in the city earlier this year, drawing criticism and sparking debate over its impact on local communities."
+   },
+   {
+    "type": "p",
+    "text": "His remarks underscore the tension between federal immigration policies and municipal responses, a dynamic that continues to shape the national conversation on border security and local law enforcement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The statements highlight the friction between federal immigration strategies and city-level decisions, a topic of interest for both American and European audiences monitoring U.S. policy trends."
+   }
+  ],
+  "key_points": [
+   "Greg Bovino described Minneapolis's withdrawal from the immigration operation as a surrender.",
+   "Bovino was the public representative of the contentious enforcement effort earlier this year.",
+   "The comments reflect ongoing disputes over federal immigration actions in U.S. cities."
+  ],
+  "meta_description": "Former Trump border patrol chief Greg Bovino calls Minneapolis's immigration enforcement pullout a surrender, reflecting ongoing policy tensions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Greg Bovino",
+   "Minneapolis",
+   "immigration enforcement",
+   "Trump administration",
+   "border patrol"
+  ],
+  "slug": "trump-s-former-border-patrol-chief-calls-minneapolis-pullout-02383c",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:12:18Z"
+ },
+ {
+  "id": "fa96a5b83e460546",
+  "source_url": "https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping",
+  "source": "The Guardian",
+  "source_title": "As Trump’s time runs out, this could be his most dangerous legacy: a world divided into three | Steve Bloomfield",
+  "source_summary": "We’ve heard much about the end of the west. At the proposed summit between Trump, Putin and Xi, those fears could crystallise In the final two years of a US presidency, when Congress has been lost, approval ratings have sunk like a stone and their party has started to think about who’s coming next, the person occupying the Oval Office can feel their power draining away. Domestic legislation, particularly in an era where bipartisan cooperation is almost nonexistent, grinds to a halt. But as the days tick by until the end, and as presidents begin to think about their legacy, there is one part of the job where they still have power: the rest of the world. In the final weeks of his presidency in 1992 George HW Bush sent 28,000 American troops to Somalia to help end a famine. For Bill Clinton, it was a quixotic attempt to bring peace to the Middle East by ending the Israeli-Palestinian conflict. Barack Obama restored diplomatic ties with Cuba, making a historic visit to Havana, as well as a final, successful push on the Iran nuclear deal.",
+  "source_tags": [
+   "Donald Trump",
+   "US politics",
+   "Xi Jinping",
+   "Vladimir Putin",
+   "United Nations",
+   "World news",
+   "US news",
+   "Russia",
+   "China"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/6e58794f92b9e30eeef550ba44c8e1b8c69f9a52/472_0_6693_5355/master/6693.jpg?width=700&quality=85&auto=format&fit=max&s=d7e20018a64dc3c776545de18a966687",
+  "published": "2026-10-24T05:00:24+00:00",
+  "headline": "Trump’s Final Years May Cement a Tripolar World Order",
+  "body": [
+   {
+    "type": "p",
+    "text": "As Donald Trump approaches the end of his term, analysts warn that his most lasting impact could be a reshaped global balance, splitting the world into three major blocs led by the United States, Russia and China. The prospect of a summit involving Trump, Vladimir Putin and Xi Jinping has intensified concerns that the division could become formalised."
+   },
+   {
+    "type": "p",
+    "text": "Historian Steve Bloomfield notes that presidents often turn to foreign policy to secure a legacy when domestic achievements stall. He cites past examples such as George H.W. Bush’s 1992 troop deployment to Somalia, Bill Clinton’s Middle‑East peace push, and Barack Obama’s restoration of U.S.–Cuba relations and the Iran nuclear deal."
+   },
+   {
+    "type": "p",
+    "text": "Bloomfield argues that a Trump‑led summit could crystallise fears of a fragmented international system, especially as U.S. congressional cooperation wanes and approval ratings dip. The resulting geopolitical split would influence trade, security and diplomatic ties for years to come."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A tripolar world would affect trade, security alliances and diplomatic negotiations for the United States and its European partners."
+   }
+  ],
+  "key_points": [
+   "Trump’s final term may solidify a three‑pole world dominated by the U.S., Russia and China.",
+   "A potential summit with Putin and Xi could formalise this division.",
+   "Presidents often use foreign policy to shape their legacy when domestic progress stalls."
+  ],
+  "meta_description": "Trump's waning presidency may cement a three‑pole global order, with a possible summit of the US, Russia and China reshaping international relations.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "global politics",
+   "US-China relations",
+   "US-Russia relations",
+   "geopolitics"
+  ],
+  "slug": "trumps-final-years-may-cement-tripolar-world-order-fa96a5",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:11:50Z"
+ },
+ {
+  "id": "751e64fe3b28ddef",
+  "source_url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
+  "source": "The New York Times",
+  "source_title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+  "source_summary": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "United States Politics and Government",
+   "United States International Relations",
+   "War and Armed Conflicts",
+   "Diplomatic Service, Embassies and Consulates",
+   "International Relations",
+   "Threats and Threatening Messages",
+   "Central Intelligence Agency",
+   "Office of the Director of National Intelligence",
+   "State Department"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/dc-iran-security-gcqh/dc-iran-security-gcqh-mediumSquareAt3X.jpg",
+  "published": "2026-10-24T03:46:54+00:00",
+  "headline": "Iran Said to Be in Advanced Stages of Planning Attacks on Americans",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. officials have warned that Iran is in \"advanced stages\" of planning attacks targeting American citizens, according to statements from senior government sources. The alert follows heightened tensions in the Middle East and comes as Washington reassesses its diplomatic footprint in the region."
+   },
+   {
+    "type": "p",
+    "text": "In response, the U.S. State Department ordered all diplomats and other federal employees to leave Saudi Arabia and is reducing staff at additional missions across the area. The precautionary measures are intended to protect American personnel while the threat assessment continues."
+   },
+   {
+    "type": "p",
+    "text": "The warning underscores ongoing concerns about Iran's capacity to conduct covert operations against U.S. interests abroad. No specific details about the alleged plots or any imminent incidents were disclosed in the briefing."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The development heightens security concerns for U.S. citizens and interests in the Middle East, prompting diplomatic withdrawals that could affect regional stability."
+   }
+  ],
+  "key_points": [
+   "U.S. officials say Iran is in advanced stages of planning attacks on Americans.",
+   "All U.S. diplomats and federal employees have been ordered to depart Saudi Arabia.",
+   "Staff reductions are also underway at other U.S. missions in the region."
+  ],
+  "meta_description": "U.S. officials warn Iran is planning attacks on Americans, prompting the evacuation of diplomats from Saudi Arabia and staff cuts at regional missions.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "United States",
+   "Saudi Arabia",
+   "Diplomacy",
+   "Security",
+   "Middle East"
+  ],
+  "slug": "iran-said-be-advanced-stages-planning-attacks-americans-751e64",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:12:02Z"
+ },
+ {
+  "id": "a7d4534cd235a0a1",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale",
+  "source": "The Guardian",
+  "source_title": "Democrat James Talarico targets Elon Musk at rally: ‘Texas is not for sale’",
+  "source_summary": "The Senate candidate denounced opponent Ken Paxton, calling out corruption allegations and support from Musk James Talarico, the Democratic candidate for the US Senate in Texas, has taken aim at Elon Musk, warning that the tech mogul is trying to buy political influence and declaring: “Texas is not for sale.” Talarico held a campaign rally on Friday at the University of Texas at Austin, packing an auditorium at his alma mater with hundreds of students and other supporters, who cheered, whooped and waved campaign signs.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Texas",
+   "US politics",
+   "Democrats",
+   "US news",
+   "Elon Musk"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/498562cf407284bc30ca5822eb8fb3af26e85a8b/399_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=ac090b38e991ffaabe10b9ddb7177415",
+  "published": "2026-10-24T02:52:47+00:00",
+  "headline": "Democratic Senate Candidate Talarico Blasts Elon Musk at Texas Rally",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic U.S. Senate hopeful James Talarico addressed a packed auditorium at the University of Texas at Austin on Friday, rallying students and supporters around his campaign. The event, held at his alma mater, featured cheers, chants and campaign signs as Talarico warned that tech billionaire Elon Musk was attempting to buy political influence in the state."
+   },
+   {
+    "type": "p",
+    "text": "Talarico also targeted his Republican opponent, Attorney General Ken Paxton, citing ongoing corruption allegations and questioning the support Paxton receives from Musk. The candidate declared, “Texas is not for sale,” positioning himself as a defender against outside money in the upcoming Senate contest."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Texas Senate race could shape the balance of power in the U.S. Senate, making allegations of outside influence of interest to both American and European observers."
+   }
+  ],
+  "key_points": [
+   "James Talarico, the Democratic Senate candidate in Texas, accused Elon Musk of trying to purchase political influence.",
+   "He also criticized opponent Ken Paxton over corruption allegations and Musk’s backing.",
+   "The rally at UT Austin drew hundreds of students and supporters, underscoring the campaign’s grassroots momentum."
+  ],
+  "meta_description": "Democratic Senate candidate James Talarico attacks Elon Musk and Ken Paxton at a Texas rally, saying 'Texas is not for sale.'",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Texas",
+   "Senate race",
+   "Elon Musk",
+   "James Talarico",
+   "Ken Paxton",
+   "campaign rally"
+  ],
+  "slug": "democratic-senate-candidate-talarico-blasts-elon-musk-texas-rally-a7d453",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:12:15Z"
+ },
+ {
+  "id": "dcbdea077a23954d",
+  "source_url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o",
+  "source": "BBC News",
+  "source_title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
+  "source_summary": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1ff/live/3a2fbbf0-cf31-11f1-9f96-7f17b236547a.jpg",
+  "published": "2026-10-24T02:52:10+00:00",
+  "headline": "Tory Activist Linked to ‘Contract Killing Broker’ Claim Worked for Party",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC reports that Jack Ross, a Conservative Party activist, was employed by the party’s headquarters to handle social‑media duties until earlier this year. The detail emerged while investigating a separate allegation that Ross was involved in a claim about a \"contract killing broker\"."
+   },
+   {
+    "type": "p",
+    "text": "The party’s internal records confirm Ross’s contract for digital work, but the BBC has not verified the veracity of the killing‑broker allegation. No charges have been filed, and officials have declined to comment on the matter."
+   },
+   {
+    "type": "p",
+    "text": "The revelation adds a new layer to ongoing scrutiny of the Conservative Party’s internal staffing and the broader narrative surrounding extremist claims within UK politics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story highlights concerns about vetting processes for political staff and the spread of serious allegations in UK politics, which may influence public trust in parties across Europe and the US."
+   }
+  ],
+  "key_points": [
+   "Jack Ross was contracted for social‑media work by the Conservative Party until early 2026.",
+   "BBC notes his name surfaced in an unverified claim about a \"contract killing broker\".",
+   "No legal action has been reported, and party officials have not responded to the allegation."
+  ],
+  "meta_description": "BBC reveals Tory activist Jack Ross, once hired for party social media, was named in an unverified contract‑killing broker claim.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Conservative Party",
+   "Jack Ross",
+   "social media",
+   "political allegations",
+   "UK politics"
+  ],
+  "slug": "tory-activist-linked-contract-killing-broker-claim-worked-party-dcbdea",
+  "reading_minutes": 1,
+  "added": "2026-10-24T07:12:26Z"
+ },
+ {
   "id": "6104ceccc2f9b136",
   "source_url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
   "source": "The New York Times",
