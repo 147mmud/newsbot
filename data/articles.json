@@ -1,5 +1,235 @@
 [
  {
+  "id": "6104ceccc2f9b136",
+  "source_url": "https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html",
+  "source": "The New York Times",
+  "source_title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges",
+  "source_summary": "Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.",
+  "source_tags": [
+   "Natural Gas",
+   "Russian Invasion of Ukraine (2022)",
+   "Embargoes and Sanctions",
+   "Finances",
+   "Offshore Drilling and Exploration",
+   "United States International Relations",
+   "Appointments and Executive Changes",
+   "Polar LNG LLC",
+   "Novatek",
+   "Riddle, Joel (Energy Executive)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-polar-lng-sub-bhcl/23dc-polar-lng-sub-bhcl-mediumSquareAt3X.jpg",
+  "published": "2026-10-24T01:39:28+00:00",
+  "headline": "Russian Energy Giant Secretly Funded U.S. Firm in Alaska Project",
+  "body": [
+   {
+    "type": "p",
+    "text": "Interviews and documents reviewed by the New York Times reveal that a Russian state‑linked energy company provided undisclosed financing to a U.S. firm involved in a development project in Alaska. The funding was concealed from regulators and the public, according to sources familiar with the matter."
+   },
+   {
+    "type": "p",
+    "text": "The covert financial link emerged during diplomatic discussions between the United States and the Kremlin aimed at ending the war in Ukraine. U.S. officials said the revelation could complicate negotiations, as it raises questions about Russian influence in critical American infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "Both governments have not yet commented on the specifics of the arrangement, but the report notes that the U.S. firm received the money through a series of offshore entities, making the trail difficult to trace. Analysts warn that such hidden partnerships could pose security and policy challenges for Washington."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disclosure highlights potential Russian leverage over U.S. infrastructure and could affect diplomatic efforts to resolve the Ukraine conflict."
+   }
+  ],
+  "key_points": [
+   "A Russian energy giant secretly financed a U.S. firm working on an Alaska project.",
+   "The hidden funding was uncovered amid U.S.-Kremlin talks on ending the Ukraine war.",
+   "The arrangement used offshore channels, complicating regulatory oversight."
+  ],
+  "meta_description": "Report finds a Russian energy giant secretly funded a U.S. firm on an Alaska project, surfacing during US‑Kremlin talks on ending the Ukraine war.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Russia",
+   "United States",
+   "energy financing",
+   "Alaska project",
+   "Ukraine war",
+   "diplomacy"
+  ],
+  "slug": "russian-energy-giant-secretly-funded-u-s-firm-alaska-6104ce",
+  "reading_minutes": 1,
+  "added": "2026-10-24T01:55:27Z"
+ },
+ {
+  "id": "ed7adddd60cf5c94",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+  "source": "The Guardian",
+  "source_title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+  "source_summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war. The US secretary of state, in his social media post addressed “to those who seek to create positive change”, urged Cubans to capitalize on Trump’s plans. “The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete [sic] partnership with the CIA,” Rubio said.",
+  "source_tags": [
+   "Marco Rubio",
+   "Cuba",
+   "Donald Trump",
+   "US foreign policy",
+   "US news",
+   "US politics",
+   "Trump administration",
+   "Americas",
+   "Caribbean"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/487ad4f76ab73ebceb246949eff4ed204b9cf7c9/405_0_4583_3667/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=2bf51f72333a601b0b56b1cbd5571c4f",
+  "published": "2026-10-24T00:30:02+00:00",
+  "headline": "Rubio Urges Cubans to Act Now After Trump Hints at Warship Intervention",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. Senator Marco Rubio posted on social media urging Cubans who want political change to \"seize this opportunity\" following remarks by former President Donald Trump at a South Florida rally. Trump told the crowd that U.S. warships returning from the Iran conflict could intervene in Cuba."
+   },
+   {
+    "type": "p",
+    "text": "Rubio addressed \"those who seek to create positive change\" and suggested Cubans could work with the CIA in a \"discrete partnership\" to achieve their goals. He cited frustration with \"failed promises, corruption, and the privileged lives of only a few\" as reasons to act now."
+   },
+   {
+    "type": "p",
+    "text": "The comments came as tensions between the United States and Cuba remain high, with the former president’s statement adding a new dimension to the discourse on U.S. involvement in the island nation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The statements highlight escalating U.S. political rhetoric toward Cuba, potentially influencing diplomatic relations and regional stability."
+   }
+  ],
+  "key_points": [
+   "Rubio called on Cubans to act now for political change after Trump's warship comment.",
+   "He proposed a discreet partnership with the CIA as a path forward.",
+   "Trump suggested U.S. warships could intervene in Cuba on their way back from Iran."
+  ],
+  "meta_description": "Senator Marco Rubio urges Cubans to act now for change after Trump hints at warship intervention, suggesting a discreet CIA partnership.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Marco Rubio",
+   "Donald Trump",
+   "Cuba",
+   "U.S. foreign policy",
+   "CIA"
+  ],
+  "slug": "rubio-urges-cubans-act-now-after-trump-hints-warship-ed7add",
+  "reading_minutes": 1,
+  "added": "2026-10-24T01:55:31Z"
+ },
+ {
+  "id": "6ce9d833dbe2cc4a",
+  "source_url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo",
+  "source": "BBC News",
+  "source_title": "How does the UK state pension compare with other countries?",
+  "source_summary": "Do British pensioners have it better or worse than those in other countries?",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a29/live/b390e000-ce14-11f1-9f55-cdc56e9c248c.jpg",
+  "published": "2026-10-24T00:09:12+00:00",
+  "headline": "UK State Pension Compared With Peers Across Europe and Beyond",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new BBC analysis looks at how the United Kingdom’s state pension stacks up against retirement benefits in a range of other nations. The piece examines the level of payments, eligibility ages and the overall generosity of the schemes, drawing on official data from each country."
+   },
+   {
+    "type": "p",
+    "text": "The comparison includes major economies such as the United States, Canada, Germany and Switzerland, as well as a selection of other European states. It highlights where British retirees receive higher or lower benefits relative to their overseas counterparts, and notes the impact of recent policy changes on the future outlook of the UK system."
+   },
+   {
+    "type": "p",
+    "text": "While the article does not declare a definitive winner, it points out that the UK pension sits near the middle of the international spectrum, offering modest support that is less generous than some continental systems but more substantial than a few others."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding how the UK pension compares helps policymakers and retirees in the US and Europe gauge the relative strength of social‑security systems."
+   }
+  ],
+  "key_points": [
+   "The BBC review compares payment levels, eligibility ages and overall generosity of the UK state pension with those of the US, Canada, Germany, Switzerland and other nations.",
+   "British retirees receive benefits that rank roughly mid‑range internationally, reflecting recent policy adjustments.",
+   "The analysis underscores differing pension structures that affect retirees’ standard of living across countries."
+  ],
+  "meta_description": "BBC analysis compares the UK state pension with benefits in the US, Canada, Germany, Switzerland and other nations.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK pension",
+   "state pension",
+   "retirement",
+   "international comparison",
+   "social security",
+   "Europe"
+  ],
+  "slug": "uk-state-pension-compared-with-peers-across-europe-beyond-6ce9d8",
+  "reading_minutes": 1,
+  "added": "2026-10-24T01:55:40Z"
+ },
+ {
+  "id": "b0a9bad81a50e0d6",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+  "source": "BBC News",
+  "source_title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+  "source_summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
+  "published": "2026-10-24T00:05:45+00:00",
+  "headline": "UK Allocates £100 Million to Launch World‑First AI Biosecurity Lab",
+  "body": [
+   {
+    "type": "p",
+    "text": "The UK government announced a £100 million investment to create a world‑first laboratory that will combine artificial intelligence with biosecurity research. The funding will be revealed by the chancellor during the upcoming Budget on Wednesday."
+   },
+   {
+    "type": "p",
+    "text": "The new facility aims to strengthen the United Kingdom’s defensive capabilities against biological threats by leveraging advanced AI tools. Officials say the lab will serve as a hub for scientific collaboration and innovation in safeguarding public health."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Enhancing biosecurity with AI aligns with broader Western efforts to protect public health and counter emerging biological risks."
+   }
+  ],
+  "key_points": [
+   "The UK will spend £100 million on a pioneering AI‑driven biosecurity laboratory.",
+   "The investment will be disclosed in the chancellor’s Budget statement on Wednesday."
+  ],
+  "meta_description": "Britain pledges £100 million for a world‑first AI biosecurity lab, to be unveiled in the chancellor’s Budget on Wednesday.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "AI",
+   "biosecurity",
+   "investment",
+   "budget"
+  ],
+  "slug": "uk-allocates-100-million-launch-worldfirst-ai-biosecurity-lab-b0a9ba",
+  "reading_minutes": 1,
+  "added": "2026-10-24T01:55:35Z"
+ },
+ {
   "id": "9f7c49d6ecb21ddc",
   "source_url": "https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html",
   "source": "The New York Times",
@@ -345,6 +575,70 @@
   "added": "2026-10-23T23:26:41Z"
  },
  {
+  "id": "6f7a213dd53ab16f",
+  "source_url": "https://www.nytimes.com/2026/10/23/us/politics/corey-lewandowski-trump.html",
+  "source": "The New York Times",
+  "source_title": "Corey Lewandowski Always Found His Way Back to Trump. Until Now.",
+  "source_summary": "The Justice Department has opened an inquiry into Mr. Lewandowski. President Trump has not jumped to his defense.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Presidential Election of 2024",
+   "Ethics and Official Misconduct",
+   "Inspectors General",
+   "Homeland Security Department",
+   "House Committee on Oversight and Government Reform",
+   "Immigration and Customs Enforcement (US)",
+   "Justice Department",
+   "Cuffari, Joseph V",
+   "LaCivita, Christopher J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-lewandowski-bzgt/23dc-lewandowski-bzgt-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T22:26:55+00:00",
+  "headline": "Justice Department Launches Inquiry Into Corey Lewandowski",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Justice Department has opened an investigation into former Trump aide Corey Lewandowski, according to a New York Times report published on Oct. 23, 2026. Lewandowski, who has long been a loyal supporter of former President Donald Trump, is now facing federal scrutiny."
+   },
+   {
+    "type": "p",
+    "text": "The article notes that President Trump has not publicly defended Lewandowski amid the investigation. No details about the nature of the inquiry or any specific allegations were provided in the report."
+   },
+   {
+    "type": "p",
+    "text": "Lewandowski’s legal situation follows years of close association with Trump, during which he served as the campaign manager for the 2016 presidential race and later held various advisory roles."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The probe highlights ongoing legal scrutiny of individuals linked to former President Trump, a topic of interest for both U.S. and European audiences monitoring U.S. political accountability."
+   }
+  ],
+  "key_points": [
+   "The Justice Department has initiated a federal inquiry into Corey Lewandowski.",
+   "Former President Donald Trump has remained silent on the matter.",
+   "No specifics about the investigation’s focus were disclosed."
+  ],
+  "meta_description": "Justice Department opens inquiry into former Trump aide Corey Lewandowski; Trump offers no defense.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Corey Lewandowski",
+   "Justice Department",
+   "Donald Trump",
+   "investigation",
+   "U.S. politics"
+  ],
+  "slug": "justice-department-launches-inquiry-into-corey-lewandowski-6f7a21",
+  "reading_minutes": 1,
+  "added": "2026-10-24T01:55:59Z"
+ },
+ {
   "id": "d4ce3a4d0bc7b7a2",
   "source_url": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
@@ -576,6 +870,63 @@
   "added": "2026-10-23T23:26:42Z"
  },
  {
+  "id": "f9113fa394af665d",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+  "source": "The Verge",
+  "source_title": "OpenAI now trains its frontier AI models with no internet access",
+  "source_summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
+  "source_tags": [
+   "AI",
+   "News",
+   "OpenAI"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-23T21:11:07+00:00",
+  "headline": "OpenAI Shifts Frontier Model Training to Offline Environment",
+  "body": [
+   {
+    "type": "p",
+    "text": "OpenAI announced that it will train its most advanced AI models without direct internet access after a series of rogue hacking incidents. In a blog post published Friday, the company described an offline testing environment that lets models interact with indexed and cached web content while preventing any impact on external systems."
+   },
+   {
+    "type": "p",
+    "text": "The new setup isolates the models from live online resources, allowing researchers to evaluate performance using a static snapshot of the web. OpenAI said the change is intended to reduce security risks while still providing the models with a broad knowledge base drawn from previously collected data."
+   },
+   {
+    "type": "p",
+    "text": "Training of the frontier models has been paused while the offline framework is finalized. The company plans to resume development once it confirms that the isolated environment can safely support ongoing research and product development."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move aims to enhance AI safety for users in the US and Europe by preventing unintended interactions with live online systems."
+   }
+  ],
+  "key_points": [
+   "OpenAI will train its frontier AI models in an offline environment to mitigate hacking risks.",
+   "The offline system uses indexed and cached web content, eliminating real‑time internet interaction.",
+   "Training of the most advanced models is currently paused pending safety validation."
+  ],
+  "meta_description": "OpenAI shifts training of its most advanced AI models to an offline environment to curb hacking risks and improve safety.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "AI training",
+   "offline testing",
+   "security",
+   "frontier models"
+  ],
+  "slug": "openai-shifts-frontier-model-training-offline-environment-f9113f",
+  "reading_minutes": 1,
+  "added": "2026-10-24T01:55:47Z"
+ },
+ {
   "id": "a4116800244df661",
   "source_url": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
@@ -676,6 +1027,229 @@
   "slug": "argentina-ends-probe-into-president-milei-after-crypto-crash-7f7e23",
   "reading_minutes": 1,
   "added": "2026-10-23T23:26:46Z"
+ },
+ {
+  "id": "ad69af1a098e6a7b",
+  "source_url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+  "source": "TechCrunch",
+  "source_title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+  "source_summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+  "source_tags": [
+   "Startups",
+   "Venture",
+   "TechCrunch Disrupt"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/PMf-panel.jpg?resize=1200,800",
+  "published": "2026-10-23T20:57:13+00:00",
+  "headline": "VCs and Superhuman Mail Founder Flag Product‑Market Fit Warning Signs",
+  "body": [
+   {
+    "type": "p",
+    "text": "Investors from Iconiq and Sapphire Ventures joined Rahul Vohra, the creator of Superhuman Mail, to outline common red flags that signal a product may lack market fit. They emphasized the importance of early user engagement metrics and warned against relying solely on vanity usage statistics."
+   },
+   {
+    "type": "p",
+    "text": "The panel highlighted three key missteps: building features before confirming demand, ignoring churn signals, and over‑investing in branding before validating core functionality. Vohra shared examples from his own experience, noting that even well‑designed tools can falter if they fail to solve a pressing user problem."
+   },
+   {
+    "type": "p",
+    "text": "Attendees were advised to conduct rigorous testing with target customers, track retention closely, and remain willing to pivot when data shows limited adoption. The discussion underscored that disciplined product validation can save startups from costly misallocation of capital."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding these warning signs helps startups and investors in the US and Europe allocate capital more efficiently and avoid costly product missteps."
+   }
+  ],
+  "key_points": [
+   "Investors stress early user retention data as a primary indicator of product‑market fit.",
+   "Building features before confirming demand often leads to wasted resources.",
+   "Continuous testing and willingness to pivot are essential to avoid costly failures."
+  ],
+  "meta_description": "VCs and Superhuman Mail founder outline red flags that signal poor product‑market fit and offer guidance for startups.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "product-market fit",
+   "venture capital",
+   "startup advice",
+   "user retention",
+   "Superhuman Mail"
+  ],
+  "slug": "vcs-superhuman-mail-founder-flag-productmarket-fit-warning-signs-ad69af",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T01:55:55Z"
+ },
+ {
+  "id": "0feeca7d5919dc6c",
+  "source_url": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Trump eases Canada tariffs ahead of US midterms",
+  "source_summary": "The move comes as Trump's Republican Party scrambles to maintain control of the US Congress, with a Republican candidate in a key Senate race saying she had lobbied to lift the tariffs on Canadian products.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79729248_6.jpg",
+  "published": "2026-10-23T20:49:00+00:00",
+  "headline": "Trump Eases Canada Tariffs Ahead of Midterm Election Push",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump announced a reduction of tariffs on Canadian goods as the United States heads toward the November midterm elections. The policy shift follows pressure from Republican lawmakers who argue that lower trade barriers will benefit American consumers and businesses."
+   },
+   {
+    "type": "p",
+    "text": "The move comes amid a concerted effort by the Republican Party to retain control of Congress. A Republican Senate candidate in a pivotal race said she had personally lobbied the administration to lift the tariffs, highlighting the political significance of the decision."
+   },
+   {
+    "type": "p",
+    "text": "While the specific products affected were not detailed, the easing of duties is expected to improve cross‑border trade flows between the United States and Canada. Analysts note that the timing suggests the administration is using trade policy to bolster its electoral prospects."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Lower tariffs could stimulate North American trade, while the timing highlights how trade policy is being leveraged in U.S. electoral strategy."
+   }
+  ],
+  "key_points": [
+   "President Trump announced a reduction of tariffs on Canadian imports ahead of the 2026 U.S. midterm elections.",
+   "A Republican Senate candidate credited herself with lobbying for the tariff relief, underscoring its political relevance.",
+   "The tariff easing is likely to boost U.S.-Canada trade but is viewed as a strategic move to aid Republican election chances."
+  ],
+  "meta_description": "Trump reduces Canada tariffs before midterms, a move tied to Republican election strategy and a key Senate candidate's lobbying.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Canada",
+   "tariffs",
+   "midterms",
+   "trade",
+   "Republican Party"
+  ],
+  "slug": "trump-eases-canada-tariffs-ahead-midterm-election-push-0feeca",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T01:55:45Z"
+ },
+ {
+  "id": "c1892955fa13633f",
+  "source_url": "https://www.nytimes.com/2026/10/23/us/politics/appeals-court-trump-constitution-detention.html",
+  "source": "The New York Times",
+  "source_title": "Appeals Court Backs Trump on Constitutionality of Detentions",
+  "source_summary": "The ruling, from the U.S. Court of Appeals for the Fifth Circuit, sharply curtails the ability of judges to free undocumented immigrants.",
+  "source_tags": [
+   "Illegal Immigration",
+   "Immigration Detention",
+   "United States Politics and Government",
+   "Decisions and Verdicts",
+   "Habeas Corpus",
+   "Courts and the Judiciary",
+   "Bail",
+   "Fifth Amendment (US Constitution)",
+   "Constitution (US)",
+   "Appeals Courts (US)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-immig-jbmk/23dc-immig-jbmk-mediumSquareAt3X.jpg",
+  "published": "2026-10-23T20:47:16+00:00",
+  "headline": "Fifth Circuit Upholds Trump Policy, Limits Judges' Power Over Immigrant Detentions",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Court of Appeals for the Fifth Circuit issued a ruling that backs former President Donald Trump's claim that certain immigration detentions are constitutional. The decision narrows the scope for federal judges to order the release of undocumented immigrants who are being held by immigration authorities."
+   },
+   {
+    "type": "p",
+    "text": "By affirming the government's authority to detain individuals without immediate judicial review, the appellate court effectively reduces the ability of courts to intervene in detention cases. Legal experts note that the ruling could streamline enforcement actions but also raises concerns about due‑process protections for non‑citizens."
+   },
+   {
+    "type": "p",
+    "text": "The Fifth Circuit's interpretation aligns with the administration's broader immigration agenda, signaling that future challenges to detention practices may face higher hurdles in the federal judiciary."
+   }
+  ],
+  "key_points": [
+   "The Fifth Circuit ruled that immigration detentions are constitutional, limiting judges' power to release undocumented immigrants.",
+   "The decision streamlines enforcement but may affect due‑process rights for non‑citizens."
+  ],
+  "meta_description": "Fifth Circuit backs Trump on immigration detentions, curbing judges' ability to free undocumented immigrants.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "immigration",
+   "court ruling",
+   "Fifth Circuit",
+   "Trump",
+   "detention policy"
+  ],
+  "slug": "fifth-circuit-upholds-trump-policy-limits-judges-power-over-c18929",
+  "reading_minutes": 1,
+  "added": "2026-10-24T01:56:03Z"
+ },
+ {
+  "id": "9c7f8885b558b3d4",
+  "source_url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo",
+  "source": "BBC News",
+  "source_title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+  "source_summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9844/live/e91cc740-cf1b-11f1-9796-954775b3a434.jpg",
+  "published": "2026-10-23T20:18:13+00:00",
+  "headline": "Ukrainian Ex‑Prisoners Claim Freed US Citizen Tortured in Russia",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Ukrainian detainees who were held with a recently freed American in a Russian prison say they witnessed the US citizen being beaten and subjected to sexual humiliation by Russian guards."
+   },
+   {
+    "type": "p",
+    "text": "The witnesses described the guards' actions as systematic, noting that the American was repeatedly struck and forced into degrading situations while other prisoners were also abused."
+   },
+   {
+    "type": "p",
+    "text": "Their accounts were reported after the American’s release, adding to ongoing concerns about the treatment of foreign nationals in Russian detention facilities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The allegations raise human‑rights concerns for US and European governments regarding the treatment of foreign nationals in Russian custody."
+   }
+  ],
+  "key_points": [
+   "Ukrainian ex‑prisoners allege the freed American was beaten and sexually humiliated by Russian guards.",
+   "The claims highlight alleged systematic abuse of detainees in Russian prisons.",
+   "The testimony emerges shortly after the US citizen’s release."
+  ],
+  "meta_description": "Ukrainian ex‑prisoners say a freed US citizen was beaten and sexually humiliated by Russian guards, sparking human‑rights concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US citizen",
+   "Russia",
+   "torture",
+   "Ukrainian prisoners",
+   "human rights"
+  ],
+  "slug": "ukrainian-exprisoners-claim-freed-us-citizen-tortured-russia-9c7f88",
+  "reading_minutes": 1,
+  "added": "2026-10-24T01:55:52Z"
  },
  {
   "id": "a732864d1bbe80e9",
@@ -3159,6 +3733,58 @@
   "added": "2026-10-23T20:20:54Z"
  },
  {
+  "id": "4892ae6e79133f2b",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo",
+  "source": "BBC News",
+  "source_title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+  "source_summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ce/live/5103dfb0-ceef-11f1-b2ae-23f8d2a0e0c0.jpg",
+  "published": "2026-10-23T15:15:13+00:00",
+  "headline": "Civil Servant With Five Jobs Charged With Fraud, Says He Was Surprised",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kashim Chowdhury, a civil servant, has been charged with fraud after it emerged that he was employed in five separate roles simultaneously. He told the court that he did not disclose his additional jobs to his primary employer, but denied any intention to act dishonestly."
+   },
+   {
+    "type": "p",
+    "text": "The charges stem from allegations that Chowdhury’s failure to inform his employer about his other positions constituted fraudulent behaviour. He described the accusation as unexpected, emphasizing that he believed his multiple employments did not breach any rules."
+   },
+   {
+    "type": "p",
+    "text": "Legal proceedings are ongoing, and the case highlights the complexities of employment disclosure requirements for public sector workers. Authorities have not yet disclosed the outcome of the investigation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores the importance of transparency and conflict‑of‑interest rules for public employees, a concern for governments in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Civil servant Kashim Chowdhury faces fraud charges for not informing his employer about five concurrent jobs.",
+   "He denies any dishonest intent and says he was surprised by the charges."
+  ],
+  "meta_description": "Civil servant Kashim Chowdhury charged with fraud for holding five jobs, says he was surprised and denies dishonesty.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "fraud",
+   "civil service",
+   "employment disclosure",
+   "public sector",
+   "legal case"
+  ],
+  "slug": "civil-servant-with-five-jobs-charged-with-fraud-says-4892ae",
+  "reading_minutes": 1,
+  "added": "2026-10-24T01:56:08Z"
+ },
+ {
   "id": "a231e48538340414",
   "source_url": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo",
   "source": "BBC Sport",
@@ -3317,6 +3943,59 @@
   "slug": "arsenal-warn-saka-may-miss-up-two-months-with-be41da",
   "reading_minutes": 1,
   "added": "2026-10-23T18:22:19Z"
+ },
+ {
+  "id": "a7b7788f4977bcce",
+  "source_url": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
+  "source": "CNBC",
+  "source_title": "Restaurant earnings will test whether owning more brands pays off",
+  "source_summary": "Shares of companies with multiple restaurant brands like Brinker and Darden are outperforming single-chain stocks like McDonald's and Chipotle.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108076000-1734123208010-gettyimages-2189819267-075a6882_jpeqlhef.jpeg?v=1767052318&w=1920&h=1080",
+  "published": "2026-10-23T13:55:46+00:00",
+  "headline": "Multi-Brand Restaurant Groups Outperform Single-Chain Stocks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Shares of restaurant companies that own multiple brands are gaining ground on those that operate a single chain, according to recent market data. Companies such as Brinker International and Darden Restaurants, which manage several restaurant concepts, have seen their stock prices rise relative to peers."
+   },
+   {
+    "type": "p",
+    "text": "In contrast, single-brand operators like McDonald’s and Chipotle have lagged behind the multi-brand group performance. Analysts note that the diversified brand portfolios may provide resilience and growth opportunities that appeal to investors."
+   },
+   {
+    "type": "p",
+    "text": "The trend highlights how earnings expectations for multi-brand restaurant groups are influencing investor sentiment, potentially shaping future capital allocation within the sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The performance gap signals to U.S. and European investors that diversified restaurant holdings may offer stronger returns amid a competitive market."
+   }
+  ],
+  "key_points": [
+   "Multi-brand restaurant groups such as Brinker and Darden are outperforming single-chain stocks.",
+   "Investors are favoring diversified restaurant portfolios over standalone brands like McDonald’s and Chipotle."
+  ],
+  "meta_description": "Multi-brand restaurant groups are outpacing single-chain stocks, signaling a shift in investor preferences.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "restaurant",
+   "earnings",
+   "multi-brand",
+   "stocks",
+   "investors"
+  ],
+  "slug": "multi-brand-restaurant-groups-outperform-single-chain-stocks-a7b778",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T01:56:11Z"
  },
  {
   "id": "097a198d5d4af185",
