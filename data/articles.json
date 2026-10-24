@@ -1,5 +1,654 @@
 [
  {
+  "id": "72399fd31e93a529",
+  "source_url": "https://www.bbc.co.uk/iplayer/live/bbcone",
+  "source": "BBC Sport",
+  "source_title": "Watch: Match of the Day",
+  "source_summary": "Highlights from five Premier League games, with last season’s top two both in action.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pj99mq.jpg",
+  "published": "2026-10-25T09:00:00+00:00",
+  "headline": "Premier League Highlights Feature Five Games and Last Season's Top Two",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC Sport released a short video compilation showcasing highlights from five Premier League matches played on Saturday. The reel captures key moments such as goals, saves and tactical plays across the fixtures."
+   },
+   {
+    "type": "p",
+    "text": "Among the featured games, both clubs that finished first and second in the previous season were in action, providing fans with a glimpse of how the title contenders are starting the new campaign. Their performances were highlighted alongside other notable encounters from the round."
+   },
+   {
+    "type": "p",
+    "text": "The montage offers a quick overview for viewers who missed the live action, summarising the most exciting incidents and setting the tone for the early stages of the 2026‑27 Premier League season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Premier League remains a major draw for international audiences, and early performances of the previous season's champions can indicate how the competition may unfold."
+   }
+  ],
+  "key_points": [
+   "BBC Sport posted highlights from five Premier League matches.",
+   "The video includes both clubs that finished top and second last season.",
+   "The compilation serves as a quick recap of early-season action."
+  ],
+  "meta_description": "BBC Sport shares highlights from five Premier League games, featuring both last season's top two clubs in early action.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Premier League",
+   "football highlights",
+   "season opener",
+   "top clubs",
+   "BBC Sport"
+  ],
+  "slug": "premier-league-highlights-feature-five-games-last-season-s-72399f",
+  "reading_minutes": 1,
+  "added": "2026-10-24T21:31:50Z"
+ },
+ {
+  "id": "0509c80e85fbace7",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+  "source": "The Verge",
+  "source_title": "Blue Planet III is keeping the rough edges in the age of AI",
+  "source_summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue […]",
+  "source_tags": [
+   "AI",
+   "Entertainment",
+   "News",
+   "Science",
+   "TV Shows"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-24T21:29:12+00:00",
+  "headline": "Blue Planet III Embraces Imperfect Footage to Counter AI Polish",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC’s upcoming nature series, Blue Planet III, is deliberately retaining less‑than‑perfect shots in its episodes. The producers say the decision is meant to demonstrate the series’ authenticity in an era where artificial‑intelligence tools can produce overly polished visuals that feel artificial."
+   },
+   {
+    "type": "p",
+    "text": "Earlier installments of the franchise were celebrated for their crystal‑clear, cinematic imagery, which some viewers now view as a potential indicator of AI‑enhanced footage. By showcasing raw, unedited moments, the new series aims to reassure audiences that what they see is genuine wildlife captured on location."
+   },
+   {
+    "type": "p",
+    "text": "The move reflects a broader industry concern about the growing ability of AI to create seamless, flawless video that can blur the line between reality and fabrication."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "As AI-generated media becomes more common, viewers in the US and Europe may question the authenticity of visual content, making transparency in documentary filmmaking increasingly important."
+   }
+  ],
+  "key_points": [
+   "Blue Planet III will include imperfect shots to prove its footage is real.",
+   "The series responds to concerns that AI‑generated polish can mislead viewers.",
+   "BBC hopes the raw aesthetic will restore confidence in nature documentaries."
+  ],
+  "meta_description": "BBC's Blue Planet III keeps rough footage to prove authenticity amid AI‑enhanced video concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "BBC",
+   "Blue Planet III",
+   "AI",
+   "documentary",
+   "media authenticity"
+  ],
+  "slug": "blue-planet-iii-embraces-imperfect-footage-counter-ai-polish-0509c8",
+  "reading_minutes": 1,
+  "added": "2026-10-24T21:31:54Z"
+ },
+ {
+  "id": "5595aadb526c35bb",
+  "source_url": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+  "source": "NPR",
+  "source_title": "Protests roil France once again as police seek to quell violence",
+  "source_summary": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-24T21:21:00+00:00",
+  "headline": "Mass Protests Sweep France Over School Funding and Inequality",
+  "body": [
+   {
+    "type": "p",
+    "text": "Hundreds of thousands of demonstrators gathered in cities across France this weekend, demanding greater investment in schools and highlighting growing economic inequality. The rallies, organized by a coalition of teachers' unions and social groups, featured chants and signs calling for more equitable public spending."
+   },
+   {
+    "type": "p",
+    "text": "Police deployed large numbers of officers to the protest routes, citing the need to prevent a repeat of the violence that erupted in the previous week's demonstrations. Authorities reported heightened security measures but did not record any major incidents during the latest marches."
+   },
+   {
+    "type": "p",
+    "text": "The protests come amid broader public frustration over perceived government inaction on social services, with participants urging policymakers to address budget shortfalls that affect both education and low‑income households."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest underscores mounting social pressure on the French government, which could influence policy debates within the EU and affect economic stability in Europe."
+   }
+  ],
+  "key_points": [
+   "Hundreds of thousands protested across France over school funding and economic inequality.",
+   "Police presence was increased to deter a repeat of last week's violence.",
+   "Demonstrators called for more equitable public spending on education and social services."
+  ],
+  "meta_description": "Hundreds of thousands protest in France over school funding and inequality, while police increase presence to avoid repeat violence.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "education funding",
+   "economic inequality",
+   "police",
+   "civil unrest"
+  ],
+  "slug": "mass-protests-sweep-france-over-school-funding-inequality-5595aa",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T21:32:09Z"
+ },
+ {
+  "id": "74e6f302850b139a",
+  "source_url": "https://www.npr.org/2026/10/24/nx-s1-6010464/why-a-far-right-cabinet-minister-in-israel-has-netanyahus-ear",
+  "source": "NPR",
+  "source_title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
+  "source_summary": "Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is reelected next week.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-24T21:20:52+00:00",
+  "headline": "Netanyahu Promises Senior Role to Israel’s Hardline Far‑Right Minister",
+  "body": [
+   {
+    "type": "p",
+    "text": "Israel’s most far‑right cabinet minister has been a key architect of the government’s hardline stance toward the Palestinians in recent years, according to reports. The minister’s influence has shaped policies that tighten security measures and limit Palestinian movement."
+   },
+   {
+    "type": "p",
+    "text": "Prime Minister Benjamin Netanyahu has pledged to appoint the minister to a senior position if he wins the upcoming election next week. The promise underscores Netanyahu’s reliance on the minister’s support within the coalition and signals continuity of the current policy direction."
+   },
+   {
+    "type": "p",
+    "text": "The announcement comes as Israel prepares for a tightly contested vote, with the far‑right faction playing a pivotal role in shaping the coalition’s agenda. Observers note that the minister’s elevated status could further entrench hardline policies."
+   }
+  ],
+  "key_points": [
+   "Israel’s far‑right cabinet minister has driven hardline policies toward Palestinians.",
+   "Netanyahu vows to give the minister a senior post if re‑elected next week."
+  ],
+  "meta_description": "Netanyahu pledges senior role to Israel's far‑right minister who shaped hardline Palestinian policies, pending next week's election.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "Netanyahu",
+   "far‑right",
+   "cabinet",
+   "Palestinian policy"
+  ],
+  "slug": "netanyahu-promises-senior-role-israels-hardline-farright-minister-74e6f3",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T21:32:32Z"
+ },
+ {
+  "id": "08c2854425f2c987",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
+  "source": "The Guardian",
+  "source_title": "Barack Obama to rally for Abdul El-Sayed in Michigan before key US Senate race – US politics live",
+  "source_summary": "The former Democratic president is showing major support in Detroit for the progressive Michigan candidate in final days before US midterm elections Sign up for Breaking News US email While Barack Obama and Abdul El-Sayed have Democrats’ attention locked on Michigan today, Donald Trump is slated to speak today in Georgia. The president is expected to announce that the car company Audi will build a new plant there, which is expected to produce 200,000 SUVs annually, Reuters reports.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Michigan",
+   "Barack Obama",
+   "Democrats",
+   "US politics",
+   "US Congress",
+   "US Senate"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/1cc33015a20d985449cd1b6a1712ce48cd59f2df/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=c80c3684e03c3cf1d609e93f97fb01d5",
+  "published": "2026-10-24T21:17:18+00:00",
+  "headline": "Obama Rallies for Abdul El‑Sayed in Michigan as Audi Plant Announcement Looms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Barack Obama appeared in Detroit on Tuesday to campaign for progressive Democrat Abdul El‑Sayed, who is seeking a U.S. Senate seat in Michigan. The rally comes in the final days before the midterm elections, drawing national attention to the closely watched race."
+   },
+   {
+    "type": "p",
+    "text": "While Obama supports El‑Sayed, former President Donald Trump is scheduled to speak in Georgia on the same day, highlighting the parallel campaign activity in two key swing states."
+   },
+   {
+    "type": "p",
+    "text": "According to Reuters, Obama is also expected to announce that German automaker Audi will construct a new manufacturing plant in Michigan, a facility projected to produce 200,000 sport‑utility vehicles each year."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The events underscore the high stakes of the 2026 midterm elections in pivotal swing states and signal significant economic investment in the automotive sector."
+   }
+  ],
+  "key_points": [
+   "Barack Obama campaigned for Senate candidate Abdul El‑Sayed in Detroit ahead of the midterms.",
+   "Donald Trump is set to deliver a speech in Georgia on the same day.",
+   "Audi is slated to build a plant in Michigan that could produce 200,000 SUVs annually."
+  ],
+  "meta_description": "Obama rallies for Michigan Senate hopeful Abdul El‑Sayed as Audi announces a new plant, while Trump speaks in Georgia.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Barack Obama",
+   "Abdul El‑Sayed",
+   "Michigan Senate",
+   "Audi plant",
+   "Donald Trump",
+   "midterm elections"
+  ],
+  "slug": "obama-rallies-abdul-elsayed-michigan-audi-plant-announcement-looms-08c285",
+  "reading_minutes": 1,
+  "added": "2026-10-24T21:32:10Z"
+ },
+ {
+  "id": "9de8e3735d0289f5",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo",
+  "source": "BBC Sport",
+  "source_title": "Highest position since early January - are Spurs finally on way back?",
+  "source_summary": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2 January. Are they finally on their way back?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f3/live/2deade60-cfea-11f1-930c-2509b9d0398f.jpg",
+  "published": "2026-10-24T21:14:42+00:00",
+  "headline": "Tottenham Reach Highest League Spot Since Early January, Sitting 12th",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tottenham Hotspur concluded the latest round of Premier League fixtures on Saturday in 12th place. The position marks the club's best standing in the table since the 2 January cut‑off, indicating a modest climb up the rankings after a period of lower‑table finishes."
+   },
+   {
+    "type": "p",
+    "text": "The improvement comes as the North London side seeks to reverse a season that has seen them hover around the mid‑table. While the exact points tally and recent results are not detailed, the rise to 12th suggests a degree of consistency that had been lacking earlier in the campaign."
+   },
+   {
+    "type": "p",
+    "text": "Supporters and analysts are now questioning whether this upward movement signals a genuine turnaround for Tottenham or merely a temporary bump in form. The club's next fixtures will be crucial in determining if the team can sustain its progress and push toward a higher finish."
+   }
+  ],
+  "key_points": [
+   "Tottenham sit 12th in the Premier League, their highest position since early January.",
+   "The club's recent rise has sparked speculation about a potential turnaround in form."
+  ],
+  "meta_description": "Tottenham Hotspur climb to 12th place, their best league position since early January, prompting talk of a possible resurgence.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tottenham",
+   "Premier League",
+   "standings",
+   "English football",
+   "mid‑table"
+  ],
+  "slug": "tottenham-reach-highest-league-spot-since-early-january-sitting-9de8e3",
+  "reading_minutes": 1,
+  "added": "2026-10-24T21:32:14Z"
+ },
+ {
+  "id": "243bd4ec36812282",
+  "source_url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo",
+  "source": "BBC News",
+  "source_title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+  "source_summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6090/live/bf46ec40-cfe6-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-24T21:09:27+00:00",
+  "headline": "Nearly 1,000 Arrested After Massive Protests Sweep France",
+  "body": [
+   {
+    "type": "p",
+    "text": "French police reported almost 1,000 arrests on Tuesday as demonstrations continued across the country following a weekend of widespread rioting and looting. Hundreds of thousands of people took to the streets in cities from Paris to Marseille, demanding reforms and expressing frustration over economic conditions."
+   },
+   {
+    "type": "p",
+    "text": "Authorities said they have so far succeeded in preventing a repeat of the previous weekend's looting, focusing instead on dispersing crowds and detaining participants involved in clashes with law‑enforcement officers. The police presence remained high, with officers using crowd‑control measures to manage the large gatherings."
+   },
+   {
+    "type": "p",
+    "text": "The protests, which began earlier in the week, have been marked by both peaceful marches and violent confrontations. Officials emphasized that maintaining public order remains a priority as the demonstrations show no sign of abating."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest highlights ongoing social tensions in France, a key EU member, and may influence European security and economic outlooks."
+   }
+  ],
+  "key_points": [
+   "Almost 1,000 people were arrested during Tuesday's protests in France.",
+   "Police have avoided a repeat of the weekend's looting while managing large crowds.",
+   "Hundreds of thousands participated in demonstrations across multiple French cities."
+  ],
+  "meta_description": "Nearly 1,000 arrests were made as mass protests continued across France, with authorities preventing further looting.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "arrests",
+   "civil unrest",
+   "law enforcement"
+  ],
+  "slug": "nearly-1-000-arrested-after-massive-protests-sweep-france-243bd4",
+  "reading_minutes": 1,
+  "added": "2026-10-24T21:32:50Z"
+ },
+ {
+  "id": "9355f9f27997f86b",
+  "source_url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+  "source": "TechCrunch",
+  "source_title": "Starlink seems to be working normally again in Ukraine",
+  "source_summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+  "source_tags": [
+   "Government & Policy",
+   "Space",
+   "Donald Trump",
+   "Elon Musk",
+   "SpaceX",
+   "Starlink",
+   "ukraine"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+  "published": "2026-10-24T20:46:34+00:00",
+  "headline": "Starlink Service Restored in Ukraine After Reported Throttling",
+  "body": [
+   {
+    "type": "p",
+    "text": "SpaceX's satellite internet service Starlink appears to be operating normally again in Ukraine, according to recent reports. The brief interruption followed a claim that Elon Musk had instructed the company to throttle the network's bandwidth for the region."
+   },
+   {
+    "type": "p",
+    "text": "The restoration of full service comes as Ukrainian users rely heavily on Starlink for communications amid ongoing conflict. No official comment from SpaceX or Musk has been released to confirm the reason for the earlier slowdown."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reliable satellite internet is critical for Ukraine's communications infrastructure, affecting both civilian needs and allied support."
+   }
+  ],
+  "key_points": [
+   "Starlink service in Ukraine is now functioning without reported throttling.",
+   "Reports suggest Elon Musk ordered a temporary reduction in bandwidth for the region."
+  ],
+  "meta_description": "Starlink service in Ukraine resumes normal operation after reports of a Musk-ordered bandwidth throttling.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Starlink",
+   "Ukraine",
+   "SpaceX",
+   "Elon Musk",
+   "satellite internet"
+  ],
+  "slug": "starlink-service-restored-ukraine-after-reported-throttling-9355f9",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T21:32:18Z"
+ },
+ {
+  "id": "770c71828f233d39",
+  "source_url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+  "source": "TechCrunch",
+  "source_title": "Will AI expose the rickety infrastructure of the internet?",
+  "source_summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+  "source_tags": [
+   "Security",
+   "Equity podcast",
+   "php"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1195574782.jpg?resize=1200,800",
+  "published": "2026-10-24T20:15:33+00:00",
+  "headline": "AI May Reveal How Fragile the Internet’s Glue‑And‑Dreams Architecture Is",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new commentary in TechCrunch argues that advances in artificial intelligence could expose the precarious foundations of the global network. The piece likens the internet to a system \"held together by glue and dreams,\" suggesting that AI tools will highlight weak points in routing, legacy hardware, and ad‑hoc connections that have long been taken for granted."
+   },
+   {
+    "type": "p",
+    "text": "The author warns that as AI models become capable of mapping and stress‑testing digital pathways, the hidden brittleness of the web may surface, prompting calls for more robust engineering standards. While the article stops short of naming specific vulnerabilities, it frames the issue as a looming challenge for policymakers, service providers, and users who rely on uninterrupted online access."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A fragile internet could disrupt commerce, communication, and security across the US and Europe, making AI‑driven assessments a potential catalyst for infrastructure upgrades."
+   }
+  ],
+  "key_points": [
+   "AI could be used to map and stress‑test the internet’s underlying infrastructure.",
+   "The current network is described as being loosely held together by \"glue and dreams.\"",
+   "Exposing these weaknesses may drive demand for stronger engineering standards."
+  ],
+  "meta_description": "TechCrunch warns AI may uncover the internet's fragile \"glue and dreams\" architecture, prompting calls for stronger standards.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "internet infrastructure",
+   "digital resilience",
+   "cybersecurity",
+   "tech policy"
+  ],
+  "slug": "ai-may-reveal-how-fragile-internets-glueanddreams-architecture-770c71",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T21:32:38Z"
+ },
+ {
+  "id": "e4a0ff3d4e7f36fe",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o",
+  "source": "BBC Sport",
+  "source_title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+  "source_summary": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38b/live/4a1a96c0-cfdb-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-24T19:17:06+00:00",
+  "headline": "Tottenham Secure Rare 2-0 Victory at Chelsea's Stamford Bridge",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tottenham Hotspur defeated Chelsea 2-0 at Stamford Bridge, marking only their second win at the venue in the past 36 years. The English Premier League clash saw the visitors break a long-standing drought on Chelsea's home turf."
+   },
+   {
+    "type": "p",
+    "text": "The match turned decisive after Chelsea midfielder Cole Palmer received a red card, leaving the home side with ten men for the remainder of the game. Tottenham capitalised on the numerical advantage, scoring twice to seal the win."
+   },
+   {
+    "type": "p",
+    "text": "Chelsea finished the encounter short-handed, while Tottenham celebrated a notable away triumph that could influence their position in the league table."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result highlights Tottenham's improving form and underscores the challenges Chelsea face when playing with a reduced squad, factors that could affect the Premier League race in Europe."
+   }
+  ],
+  "key_points": [
+   "Tottenham beat Chelsea 2-0 at Stamford Bridge, their second win there in 36 years.",
+   "Chelsea were reduced to ten men after Cole Palmer was sent off.",
+   "The victory may boost Tottenham's league standing."
+  ],
+  "meta_description": "Tottenham earn a rare 2-0 win at Chelsea's Stamford Bridge as Cole Palmer is sent off, marking only their second victory there in 36 years.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tottenham",
+   "Chelsea",
+   "Premier League",
+   "Stamford Bridge",
+   "Cole Palmer",
+   "red card"
+  ],
+  "slug": "tottenham-secure-rare-2-0-victory-chelsea-s-stamford-e4a0ff",
+  "reading_minutes": 1,
+  "added": "2026-10-24T21:32:33Z"
+ },
+ {
+  "id": "b0af889ad05fbb7f",
+  "source_url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+  "source": "TechCrunch",
+  "source_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+  "source_summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+  "source_tags": [
+   "AI",
+   "Microsoft",
+   "OpenAI",
+   "evergreens",
+   "siri ai"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+  "published": "2026-10-24T19:00:00+00:00",
+  "headline": "AI Graveyard: Projects That Faltered and Missed Expectations",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch compiled a running list of artificial‑intelligence initiatives that either shut down or fell short of market hopes in 2026. The catalogue includes high‑profile efforts such as Apple’s repeatedly delayed Siri upgrades and OpenAI’s troubled launch of a so‑called “super app,” both of which generated significant buzz but failed to meet user expectations."
+   },
+   {
+    "type": "p",
+    "text": "Other entries span a range of startups and corporate labs that exhausted funding or abandoned their visions after technical setbacks, regulatory hurdles, or lukewarm adoption. The list serves as a snapshot of the volatile AI ecosystem, where even well‑capitalized projects can stumble amid fierce competition and rapidly shifting standards."
+   },
+   {
+    "type": "p",
+    "text": "By documenting these setbacks, the article highlights a pattern of over‑promising and under‑delivering that has become common in the rush to commercialize generative AI. Investors and developers are urged to temper optimism with realistic roadmaps, as the market continues to sift through viable innovations from fleeting experiments."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The failures underscore the risks for investors and tech firms in the fast‑moving AI sector, shaping future funding and regulatory scrutiny in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Apple’s delayed Siri improvements and OpenAI’s problematic super‑app are among the most visible AI projects that missed their targets in 2026.",
+   "A variety of AI startups have folded or paused development after encountering technical, financial, or regulatory challenges."
+  ],
+  "meta_description": "TechCrunch lists AI projects that shut down or missed expectations in 2026, including Apple Siri delays and OpenAI's super‑app.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "startups",
+   "failures",
+   "OpenAI",
+   "Apple",
+   "tech industry"
+  ],
+  "slug": "ai-graveyard-projects-that-faltered-missed-expectations-b0af88",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T21:32:46Z"
+ },
+ {
+  "id": "c7ad67c1b119b1bb",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo",
+  "source": "BBC Sport",
+  "source_title": "Arsenal beat Everton to go level on points with leaders Man City",
+  "source_summary": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a40/live/22bd59c0-cfde-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-24T18:59:30+00:00",
+  "headline": "Arsenal Defeat Everton 2-0 to Equal Manchester City on Points",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal secured a 2-0 victory over Everton at the Emirates Stadium, with goals from defender Ezri Konsa – his first for the club – and centre‑back Gabriel Magalhaes. The win moved the Gunners level on points with league leaders Manchester City."
+   },
+   {
+    "type": "p",
+    "text": "Konsa opened the scoring early in the first half, capitalising on a set‑piece before Magalhaes added a second in the second half to seal the three points. Everton were unable to respond, finishing the match without a goal."
+   },
+   {
+    "type": "p",
+    "text": "The result keeps Arsenal in the chase for the Premier League title, maintaining a tight race at the top of the table as the season approaches its decisive stages."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The draw at the top of the Premier League intensifies the title race, affecting European competition qualification and club revenues."
+   }
+  ],
+  "key_points": [
+   "Arsenal beat Everton 2-0 with goals from Ezri Konsa and Gabriel Magalhaes.",
+   "The win brings Arsenal level on points with Manchester City at the summit of the Premier League.",
+   "Konsa recorded his first goal for Arsenal in the match."
+  ],
+  "meta_description": "Arsenal's 2-0 win over Everton levels them on points with Manchester City, tightening the Premier League title race.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Everton",
+   "Premier League",
+   "Manchester City",
+   "football"
+  ],
+  "slug": "arsenal-defeat-everton-2-0-equal-manchester-city-points-c7ad67",
+  "reading_minutes": 1,
+  "added": "2026-10-24T21:32:42Z"
+ },
+ {
   "id": "09a5dda451583962",
   "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
   "source": "The Verge",
