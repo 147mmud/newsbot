@@ -53,6 +53,398 @@
   "added": "2026-10-24T21:31:50Z"
  },
  {
+  "id": "f06838f075fde3da",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
+  "source": "BBC News",
+  "source_title": "Rosebank: Life on the oil field at the centre of a political storm",
+  "source_summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
+  "published": "2026-10-24T23:15:18+00:00",
+  "headline": "Rosebank Oil Field: Inside Life on Ship Amid Scottish Political Storm",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC Scotland editor James Cook travelled to the Rosebank oil field to see what daily life is like for the crew aboard a support vessel stationed over the untapped reservoir. The ship serves as a base for workers monitoring the field while its future remains undecided."
+   },
+   {
+    "type": "p",
+    "text": "Cook reports that the crew lives and works in a remote maritime environment, awaiting government decisions that could determine whether the field will be developed or left untouched. The uncertainty has created a political debate in Scotland over energy policy and environmental concerns."
+   },
+   {
+    "type": "p",
+    "text": "The report highlights the contrast between the routine operations on the vessel and the broader political storm surrounding the Rosebank project, underscoring how the fate of a single oil field can ripple through national discussions on energy and climate."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Rosebank dispute reflects wider European tensions between energy security and climate goals, relevant to US and EU policy debates."
+   }
+  ],
+  "key_points": [
+   "James Cook documents life aboard a ship monitoring Scotland's untapped Rosebank oil field.",
+   "The field's future is contested, fueling a political debate over energy and environment.",
+   "Crew members operate in isolation while awaiting governmental decisions."
+  ],
+  "meta_description": "BBC reporter James Cook reveals daily life on a ship at Scotland's Rosebank oil field amid a heated political debate.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rosebank",
+   "oil field",
+   "Scotland",
+   "energy policy",
+   "political debate"
+  ],
+  "slug": "rosebank-oil-field-inside-life-ship-amid-scottish-political-f06838",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:38:04Z"
+ },
+ {
+  "id": "33e0d65b21ee2e5e",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cqy7lvp7n57lo",
+  "source": "BBC Sport",
+  "source_title": "Antonelli takes US pole on weekend he can win title",
+  "source_summary": "Kimi Antonelli secures pole position for the United States Grand Prix on the weekend on which he can potentially clinch his first world title.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/194c/live/7fe6e240-cff9-11f1-b0ff-614e4f91e969.jpg",
+  "published": "2026-10-24T22:51:51+00:00",
+  "headline": "Antonelli Secures US Grand Prix Pole, Title Within Reach",
+  "body": [
+   {
+    "type": "p",
+    "text": "Italian driver Kimi Antonelli clinched pole position for the United States Grand Prix, positioning himself at the front of the grid for the race weekend."
+   },
+   {
+    "type": "p",
+    "text": "The pole comes on a critical weekend for Antonelli, as the points available could allow him to capture his first World Championship title if he performs strongly in the upcoming race."
+   },
+   {
+    "type": "p",
+    "text": "Team strategists and rival drivers will now focus on the race itself, knowing that Antonelli’s qualifying speed has placed him in a prime spot to challenge for the championship."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A title fight at the US Grand Prix heightens interest for North American and European fans, highlighting the championship's global appeal."
+   }
+  ],
+  "key_points": [
+   "Kimi Antonelli earned pole for the US Grand Prix.",
+   "A race win this weekend could secure his first world title.",
+   "His qualifying performance puts him in a leading championship position."
+  ],
+  "meta_description": "Kimi Antonelli takes US Grand Prix pole, putting him in position to win his first world title this weekend.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Kimi Antonelli",
+   "United States Grand Prix",
+   "pole position",
+   "World Championship"
+  ],
+  "slug": "antonelli-secures-us-grand-prix-pole-title-within-reach-33e0d6",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:37:59Z"
+ },
+ {
+  "id": "cd3e4ffab8253d59",
+  "source_url": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
+  "source": "The New York Times",
+  "source_title": "4 Bodies Found in Haiti Are Thought to Be Those of Missing Salvadoran Soldiers",
+  "source_summary": "El Salvador had sent hundreds of troops to find the men, who were ambushed six days ago while working as part of the Gang Suppression Force.",
+  "source_tags": [
+   "Haiti",
+   "Deaths (Fatalities)",
+   "Gangs",
+   "El Salvador",
+   "Bukele, Nayib"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-haiti-dead-tjwv/24int-haiti-dead-tjwv-mediumSquareAt3X.jpg",
+  "published": "2026-10-24T22:33:56+00:00",
+  "headline": "Four Bodies Found in Haiti Likely Belong to Missing Salvadoran Soldiers",
+  "body": [
+   {
+    "type": "p",
+    "text": "Four bodies recovered in Haiti are believed to be those of Salvadoran soldiers who vanished after an ambush six days ago. The men were part of a joint effort known as the Gang Suppression Force, deployed to combat organized crime in the Caribbean nation."
+   },
+   {
+    "type": "p",
+    "text": "El Salvador responded by dispatching hundreds of troops to Haiti in an attempt to locate the missing personnel. The discovery of the bodies marks the latest development in the operation, which has drawn attention to the risks faced by foreign forces engaged in security missions abroad."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have not released official confirmation of the identities, but local officials and Salvadoran officials consider the remains to be those of the missing soldiers. The incident underscores the volatile security environment in Haiti, where gang violence continues to challenge both domestic and international efforts to restore order."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident illustrates the broader regional security concerns that affect U.S. and European interests in the Caribbean, including migration and stability."
+   }
+  ],
+  "key_points": [
+   "Four bodies found in Haiti are thought to be the missing Salvadoran soldiers ambushed six days earlier.",
+   "El Salvador sent hundreds of troops to Haiti to search for the soldiers as part of a gang suppression mission.",
+   "The discovery highlights ongoing security challenges in Haiti and the risks to foreign security forces."
+  ],
+  "meta_description": "Four bodies found in Haiti are believed to be missing Salvadoran soldiers sent to aid a gang suppression mission, highlighting regional security risks.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Haiti",
+   "El Salvador",
+   "soldiers",
+   "gang suppression",
+   "security",
+   "missing personnel"
+  ],
+  "slug": "four-bodies-found-haiti-likely-belong-missing-salvadoran-soldiers-cd3e4f",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:38:17Z"
+ },
+ {
+  "id": "8a27533b520df813",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/24/georgia-ice-man-dies",
+  "source": "The Guardian",
+  "source_title": "Man detained at Georgia immigration detention center dies as hunger strike continues",
+  "source_summary": "Death inside Folkston facility comes as officials allegedly threaten hunger strikers there with force-feeding An immigrant detained at a sprawling detention center complex in Georgia died on Friday, local and federal officials confirmed, after the facility has already faced national scrutiny for its response to an ongoing hunger strike inside. The death inside the D Ray James facility in Folkston, Georgia, comes as federal immigration officials and private contractors are allegedly threatening hunger strikers there with force-feeding, a detained hunger striker, his wife, attorneys and advocates all said this week. Detainees are refusing food to protest prolonged captivity and bad conditions.",
+  "source_tags": [
+   "Georgia",
+   "ICE (US Immigration and Customs Enforcement)",
+   "US immigration",
+   "US news",
+   "US politics",
+   "Trump administration",
+   "US domestic policy"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/5098ba27928833896c54068aea6264d9317ddb09/324_0_3238_2590/master/3238.jpg?width=700&quality=85&auto=format&fit=max&s=231754ea26483ed54374757858c17cf7",
+  "published": "2026-10-24T22:06:15+00:00",
+  "headline": "Immigrant Dies at Georgia Detention Center Amid Ongoing Hunger Strike",
+  "body": [
+   {
+    "type": "p",
+    "text": "An immigrant detained at the D. Ray James facility in Folkston, Georgia, died on Friday, officials confirmed. The death occurred while a group of detainees continues a hunger strike to protest prolonged confinement and poor conditions."
+   },
+   {
+    "type": "p",
+    "text": "Federal immigration officials and the private contractors who run the center have been accused this week of threatening to force‑feed the striking inmates. The allegations were made by a hunger striker, his wife, attorneys and advocacy groups."
+   },
+   {
+    "type": "p",
+    "text": "The incident adds to growing national scrutiny of the detention complex, which has faced criticism over its treatment of detainees and the handling of protest actions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The death highlights concerns about U.S. immigration detention practices that are closely watched by European human‑rights observers."
+   }
+  ],
+  "key_points": [
+   "An immigrant died at the D. Ray James detention center during an ongoing hunger strike.",
+   "Federal officials and private contractors are alleged to have threatened force‑feeding hunger strikers."
+  ],
+  "meta_description": "An immigrant died at Georgia's D. Ray James detention center as a hunger strike continues, amid claims officials threatened force‑feeding.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "immigration",
+   "detention",
+   "hunger strike",
+   "Georgia",
+   "force-feeding",
+   "human rights"
+  ],
+  "slug": "immigrant-dies-georgia-detention-center-amid-ongoing-hunger-strike-8a2753",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:38:12Z"
+ },
+ {
+  "id": "80cd40d3299c5f0c",
+  "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cqn73k05xjx6o",
+  "source": "BBC Sport",
+  "source_title": "Britain's Smith retains title in split-decision win over Puello",
+  "source_summary": "Britain's Dalton Smith defends his WBC light-welterweight world title with a split-decision victory over Alberto Puello in a triumphant homecoming in Sheffield.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10c/live/1f906cb0-cff2-11f1-8e73-e71e7f48fa14.jpg",
+  "published": "2026-10-24T21:44:12+00:00",
+  "headline": "Dalton Smith Defends WBC Light‑Welterweight Title in Split‑Decision Win",
+  "body": [
+   {
+    "type": "p",
+    "text": "British boxer Dalton Smith retained his World Boxing Council light‑welterweight championship on Saturday, edging a split‑decision victory over challenger Alberto Puello. The bout took place in Sheffield, marking a celebratory homecoming for the title‑holder."
+   },
+   {
+    "type": "p",
+    "text": "The judges’ scores reflected a closely contested fight, with Smith edging out Puello by a narrow margin. The split‑decision outcome underscored the competitive nature of the match, as both fighters exchanged significant moments throughout the twelve rounds."
+   },
+   {
+    "type": "p",
+    "text": "Smith’s successful defense adds another chapter to his rising career in the division, while Puello returns to the drawing board after falling short in his attempt to claim the belt."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Smith’s win highlights the strength of British boxing on the world stage and may influence future match‑ups in the competitive light‑welterweight division."
+   }
+  ],
+  "key_points": [
+   "Dalton Smith kept his WBC light‑welterweight title after a split‑decision win over Alberto Puello in Sheffield.",
+   "The fight was closely contested, with judges divided on the final scoring.",
+   "Smith’s victory reinforces his standing as a leading British boxer in the division."
+  ],
+  "meta_description": "Dalton Smith retains his WBC light‑welterweight title with a split‑decision win over Alberto Puello in Sheffield.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "boxing",
+   "WBC",
+   "Dalton Smith",
+   "Alberto Puello",
+   "Sheffield",
+   "light‑welterweight"
+  ],
+  "slug": "dalton-smith-defends-wbc-lightwelterweight-title-splitdecision-win-80cd40",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:38:08Z"
+ },
+ {
+  "id": "8eef7c40b6421a0b",
+  "source_url": "https://www.nytimes.com/2026/10/24/us/politics/trump-votes-early-midterm-elections.html",
+  "source": "The New York Times",
+  "source_title": "Trump, Who Once Called Early Voting ‘Ridiculous,’ Casts a Midterm Ballot",
+  "source_summary": "The president voted at a polling station in Palm Beach County, Fla.",
+  "source_tags": [
+   "Trump, Donald J",
+   "Midterm Elections (2026)",
+   "Palm Beach (Fla)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24pol-trump-voting-01-wczb/24pol-trump-voting-01-wczb-mediumSquareAt3X.jpg",
+  "published": "2026-10-24T21:40:56+00:00",
+  "headline": "Trump Votes in Palm Beach Midterms After Earlier Early‑Voting Critique",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump cast a ballot at a polling place in Palm Beach County, Florida, on Tuesday, marking his participation in the 2026 midterm elections. The vote was recorded at a local precinct where early voting had previously been a point of contention for the Republican leader."
+   },
+   {
+    "type": "p",
+    "text": "During the 2020 campaign, Trump described early voting as \"ridiculous,\" a comment that drew criticism from election officials and opponents. His appearance at the Palm Beach station comes as the nation monitors turnout and voting procedures ahead of the upcoming congressional races."
+   },
+   {
+    "type": "p",
+    "text": "Observers noted that Trump's presence at the polls underscores the political stakes of the midterms, especially in swing states like Florida where his endorsement and voter mobilization efforts could influence close contests."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Trump’s participation signals the importance of voter engagement in a key swing state, a factor that could affect both U.S. congressional balance and international perceptions of American democratic processes."
+   }
+  ],
+  "key_points": [
+   "Donald Trump voted in Palm Beach County during the 2026 midterm elections.",
+   "He had previously called early voting \"ridiculous\" during his 2020 campaign.",
+   "His turnout highlights the heightened political focus on Florida’s midterm races."
+  ],
+  "meta_description": "Former President Donald Trump voted in Palm Beach County during the 2026 midterms, after previously criticizing early voting.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "voting",
+   "midterms",
+   "Florida",
+   "early voting",
+   "election"
+  ],
+  "slug": "trump-votes-palm-beach-midterms-after-earlier-earlyvoting-critique-8eef7c",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:38:24Z"
+ },
+ {
+  "id": "c46fe7545cc56a44",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo",
+  "source": "BBC Sport",
+  "source_title": "Man Utd not an unmanageable club - Carrick",
+  "source_summary": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e4/live/2d7fb690-cf94-11f1-878e-95f884e98e77.jpg",
+  "published": "2026-10-24T21:34:19+00:00",
+  "headline": "Carrick Insists United Can Be Managed Effectively Ahead of Bournemouth Visit",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United midfielder-turned-coach Michael Carrick told reporters that running the club is not an impossible task, even as he works to retain his position on the coaching staff. He emphasized that with the right approach, the challenges at Old Trafford can be handled."
+   },
+   {
+    "type": "p",
+    "text": "Carrick made the comments ahead of Bournemouth's trip to Old Trafford on Sunday, stressing that the team’s performance and management are within reach of improvement. He highlighted the importance of consistency and clear communication in achieving results."
+   },
+   {
+    "type": "p",
+    "text": "The former United player underscored his commitment to the club, saying he is determined to stay on and help guide the squad through the upcoming fixtures. His remarks come as United continue to navigate a demanding season and seek stability in the coaching ranks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "United’s stability influences the Premier League hierarchy and European competition spots, affecting clubs and broadcasters across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Michael Carrick says managing Manchester United is feasible with the right strategy.",
+   "He is focused on keeping his job as Bournemouth prepares to play at Old Trafford.",
+   "Carrick stresses consistency and clear communication as keys to success."
+  ],
+  "meta_description": "Michael Carrick says Manchester United can be managed effectively as he aims to keep his job ahead of Bournemouth's Old Trafford clash.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Premier League",
+   "Bournemouth",
+   "coaching"
+  ],
+  "slug": "carrick-insists-united-can-be-managed-effectively-ahead-bournemouth-c46fe7",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:38:19Z"
+ },
+ {
   "id": "0509c80e85fbace7",
   "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
   "source": "The Verge",
@@ -110,6 +502,134 @@
   "slug": "blue-planet-iii-embraces-imperfect-footage-counter-ai-polish-0509c8",
   "reading_minutes": 1,
   "added": "2026-10-24T21:31:54Z"
+ },
+ {
+  "id": "67efb573cd485ba5",
+  "source_url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+  "source": "The Guardian",
+  "source_title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+  "source_summary": "But Elon Musk, whose company SpaceX owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government said, 10 days after its ability to use the satellite communications system was suddenly restricted . But hours after the announcement, SpaceX CEO Elon Musk, whose company owns Starlink, accused the Ukrainian military of violating ⁠the company’s terms. Neither Musk nor the US government, which operates Starshield using Starlink technology, took responsibility for imposing the curbs.",
+  "source_tags": [
+   "Ukraine",
+   "Trump administration",
+   "World news",
+   "Europe",
+   "Elon Musk",
+   "Donald Trump",
+   "Volodymyr Zelenskyy",
+   "Satellites",
+   "SpaceX",
+   "Russia"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/0d51da8a70a218cd186de054b9f5706103605242/86_0_3672_2937/master/3672.jpg?width=700&quality=85&auto=format&fit=max&s=c0c7451814b34e8864a9ea82fdf26967",
+  "published": "2026-10-24T21:25:58+00:00",
+  "headline": "Ukrainian Military Reports Stable Starlink Link After Curbs",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Ukrainian government announced that its armed forces continue to have a stable connection to SpaceX's Starlink satellite network, despite a sudden restriction on usage that began ten days ago."
+   },
+   {
+    "type": "p",
+    "text": "Shortly after the statement, SpaceX CEO Elon Musk claimed the Ukrainian military was breaching the company's terms of service, though he did not specify the nature of the violations."
+   },
+   {
+    "type": "p",
+    "text": "Neither Musk nor the United States government, which operates the Starshield program using Starlink technology, accepted responsibility for imposing the recent limitations on the service."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reliable satellite communications are critical for Ukraine's defence and for NATO allies monitoring the conflict."
+   }
+  ],
+  "key_points": [
+   "Ukraine says its military still enjoys a stable Starlink connection after recent usage limits.",
+   "Elon Musk alleges the Ukrainian forces are violating Starlink's terms.",
+   "The US government and SpaceX have not clarified who imposed the curbs."
+  ],
+  "meta_description": "Ukraine's military says Starlink remains stable after usage limits, while Elon Musk accuses it of breaching terms.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Starlink",
+   "Ukraine",
+   "Elon Musk",
+   "satellite communications",
+   "US defense"
+  ],
+  "slug": "ukrainian-military-reports-stable-starlink-link-after-curbs-67efb5",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:38:31Z"
+ },
+ {
+  "id": "15516a0f1244c26f",
+  "source_url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+  "source": "The New York Times",
+  "source_title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+  "source_summary": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.",
+  "source_tags": [
+   "Demonstrations, Protests and Riots",
+   "Income Inequality",
+   "Police",
+   "Vandalism",
+   "France Unbowed (Political Party)",
+   "National Rally (France)",
+   "Bagayoko, Bally",
+   "Le Pen, Marine",
+   "Macron, Emmanuel (1977- )",
+   "France"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-protests-lftm/24int-france-protests-lftm-mediumSquareAt3X.jpg",
+  "published": "2026-10-24T21:23:15+00:00",
+  "headline": "France Faces Renewed Unrest as Evening Clashes Spur 1,000 Arrests",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Saturday, largely peaceful demonstrations swept through French cities, but the mood shifted after dark when confrontations erupted between protesters and police. Authorities deployed a substantial police presence to manage the crowds and redirected protest routes to limit exposure to commercial districts."
+   },
+   {
+    "type": "p",
+    "text": "The evening clashes resulted in roughly 1,000 arrests, according to French officials, and helped prevent widespread vandalism that had marred earlier protests in the country. Police used dispersal tactics and barriers to contain the unrest, keeping property damage to a minimum compared with previous episodes."
+   },
+   {
+    "type": "p",
+    "text": "While the immediate violence was contained, the renewed unrest underscores persistent social tensions in France. Officials say the heavy police response was intended to deter further escalation and protect public and private property."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disturbances signal continuing social tensions in France, which could influence broader European stability and security concerns."
+   }
+  ],
+  "key_points": [
+   "Evening clashes in France led to about 1,000 arrests after initially peaceful marches.",
+   "A large police deployment and rerouted protest routes limited large‑scale vandalism.",
+   "The incidents highlight ongoing social unrest in the country."
+  ],
+  "meta_description": "France saw renewed unrest on Saturday night, with 1,000 arrests and limited vandalism after a strong police response.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "arrests",
+   "police",
+   "unrest"
+  ],
+  "slug": "france-faces-renewed-unrest-evening-clashes-spur-1-000-15516a",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:38:28Z"
  },
  {
   "id": "5595aadb526c35bb",
@@ -1935,6 +2455,69 @@
   "added": "2026-10-24T16:12:49Z"
  },
  {
+  "id": "f3be183b85b2a7a4",
+  "source_url": "https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html",
+  "source": "The New York Times",
+  "source_title": "Attention, Passengers: High Airfares May Be Here to Stay",
+  "source_summary": "Ticket prices jumped after fuel costs spiked because of the war with Iran, but airlines say even an end to the conflict will not bring fares back down quickly.",
+  "source_tags": [
+   "Airlines and Airplanes",
+   "Prices (Fares, Fees and Rates)",
+   "Oil (Petroleum) and Gasoline",
+   "US and Israeli Attack on Iran (2026)",
+   "Travel and Vacations",
+   "United Airlines",
+   "Alaska Airlines",
+   "American Airlines",
+   "Delta Air Lines Inc",
+   "Southwest Airlines Company"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-airfares-mpfb/26biz-airfares-mpfb-mediumSquareAt3X.jpg",
+  "published": "2026-10-24T12:54:30+00:00",
+  "headline": "Airline Ticket Prices Surge Amid Fuel Spike, Relief Unlikely Soon",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. and European travelers are seeing airline ticket prices climb sharply after a recent surge in fuel costs tied to the ongoing war with Iran, according to airline officials. The conflict has driven jet fuel prices to record highs, prompting carriers to raise fares across domestic and international routes."
+   },
+   {
+    "type": "p",
+    "text": "Airlines caution that even if the war ends, fare reductions will not happen quickly. Executives say the higher cost structure, including long‑term fuel contracts and increased operational expenses, will keep prices elevated for the foreseeable future."
+   },
+   {
+    "type": "p",
+    "text": "The price hikes affect a broad range of passengers, from leisure vacationers to business travelers, and could influence travel planning and budgeting for the coming months."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher airfares increase travel costs for U.S. and European consumers, potentially dampening demand for leisure and business trips."
+   }
+  ],
+  "key_points": [
+   "Ticket prices have risen sharply due to a spike in fuel costs linked to the Iran war.",
+   "Airlines say fares will remain high even if the conflict ends, because of lasting cost pressures."
+  ],
+  "meta_description": "Airline fares jump as fuel costs rise from the Iran war, and airlines warn prices will stay high even after the conflict ends.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "airfare",
+   "fuel prices",
+   "airlines",
+   "travel costs",
+   "Iran war"
+  ],
+  "slug": "airline-ticket-prices-surge-amid-fuel-spike-relief-unlikely-f3be18",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:38:36Z"
+ },
+ {
   "id": "80b423cfadaf476b",
   "source_url": "https://www.nytimes.com/2026/10/24/magazine/gina-hinojosa-interview.html",
   "source": "The New York Times",
@@ -1997,6 +2580,135 @@
   "slug": "democratic-texas-gov-candidate-targets-maga-voters-while-skipping-80b423",
   "reading_minutes": 1,
   "added": "2026-10-24T16:13:05Z"
+ },
+ {
+  "id": "0566fc330979a823",
+  "source_url": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
+  "source": "The New York Times",
+  "source_title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
+  "source_summary": "Chemical plants and other industrial facilities had been required to curb their toxic emissions. A New York Times investigation shows how they got out of it.",
+  "source_tags": [
+   "Regulation and Deregulation of Industry",
+   "United States Politics and Government",
+   "Environment",
+   "Air Pollution",
+   "Chemicals",
+   "Hazardous and Toxic Substances",
+   "Clean Air Act",
+   "Environmental Protection Agency",
+   "Zeldin, Lee M",
+   "Trump, Donald J"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb-mediumSquareAt3X.jpg",
+  "published": "2026-10-24T12:50:46+00:00",
+  "headline": "Trump Administration Waivers Let Polluters Skip Emission Limits",
+  "body": [
+   {
+    "type": "p",
+    "text": "A New York Times investigation reveals that chemical plants and other industrial facilities, which were previously required to reduce toxic emissions, obtained waivers that exempted them from those rules during the Trump administration. The report details how the waivers were granted and the mechanisms used to bypass existing environmental standards."
+   },
+   {
+    "type": "p",
+    "text": "The investigation shows that the waivers were applied across a range of facilities, allowing them to continue operating without meeting the stricter emission controls that had been imposed. By sidestepping these requirements, the plants avoided costly upgrades and maintained higher levels of pollutants in the surrounding communities."
+   },
+   {
+    "type": "p",
+    "text": "The series of findings underscores a pattern of regulatory relief that benefitted polluting industries at the expense of public health and environmental protection, highlighting gaps in oversight that enabled the waivers to be issued."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rollbacks expose how regulatory relief can undermine air‑quality protections, affecting public health in the United States and informing European debates on environmental oversight."
+   }
+  ],
+  "key_points": [
+   "Industrial facilities received waivers that let them ignore mandated toxic‑emission cuts.",
+   "The waivers were granted during the Trump administration, bypassing existing rules.",
+   "The practice allowed polluters to avoid costly upgrades and maintain higher pollution levels."
+  ],
+  "meta_description": "NYT investigation finds Trump-era waivers let chemical plants skip required toxic‑emission cuts, raising health and oversight concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "environment",
+   "industrial emissions",
+   "regulatory waivers",
+   "NYT investigation"
+  ],
+  "slug": "trump-administration-waivers-let-polluters-skip-emission-limits-0566fc",
+  "reading_minutes": 1,
+  "added": "2026-10-24T23:38:40Z"
+ },
+ {
+  "id": "070fc8ca959fb2d4",
+  "source_url": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
+  "source": "The New York Times",
+  "source_title": "How Trump Gave the Worst Polluters a Free Pass",
+  "source_summary": "The president temporarily waived clean-air rules for industrial facilities that spew cancer-causing gases. Then his appointees worked to gut the regulations altogether.",
+  "source_tags": [
+   "Regulation and Deregulation of Industry",
+   "Factories and Manufacturing",
+   "United States Politics and Government",
+   "Air Pollution",
+   "Chemicals",
+   "Oil (Petroleum) and Gasoline",
+   "Hazardous and Toxic Substances",
+   "Steel and Iron",
+   "Cancer",
+   "Lobbying and Lobbyists"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-24T12:28:26+00:00",
+  "headline": "Trump's Temporary Waiver Lets Major Polluters Skip Clean‑Air Rules",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a brief move early in his administration, President Donald Trump issued a temporary waiver that suspended existing clean‑air regulations for industrial plants that emit known carcinogens. The waiver allowed facilities to continue operating without meeting standards designed to limit hazardous emissions such as benzene and formaldehyde."
+   },
+   {
+    "type": "p",
+    "text": "Following the waiver, officials appointed by the president began a systematic effort to weaken the underlying regulations. According to the New York Times report, these appointees pursued changes that would reduce monitoring requirements, lower emission limits, and limit the EPA’s enforcement authority, effectively gutting the rules the waiver had temporarily set aside."
+   },
+   {
+    "type": "p",
+    "text": "The combined actions—first the waiver and then the regulatory rollbacks—provided a short‑term reprieve for some of the nation’s biggest polluters while undermining long‑standing protections intended to safeguard public health from cancer‑causing gases."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reduced air‑quality protections can increase health risks in the U.S. and set a precedent that may influence regulatory approaches in Europe."
+   }
+  ],
+  "key_points": [
+   "Trump temporarily suspended clean‑air rules for industrial emitters of carcinogenic gases.",
+   "His administration’s appointees subsequently moved to weaken the underlying regulations.",
+   "The actions gave major polluters a short‑term exemption and reduced overall emission oversight."
+  ],
+  "meta_description": "Trump's waiver and subsequent rollbacks let major polluters avoid clean‑air rules, raising health and regulatory concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "clean air",
+   "EPA",
+   "industrial pollution",
+   "regulatory rollback"
+  ],
+  "slug": "trump-s-temporary-waiver-lets-major-polluters-skip-cleanair-070fc8",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-24T23:38:44Z"
  },
  {
   "id": "0018fc7a570d5e89",
