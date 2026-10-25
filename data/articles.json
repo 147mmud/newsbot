@@ -1,5 +1,589 @@
 [
  {
+  "id": "8798303fc7b7c8a3",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
+  "source": "BBC News",
+  "source_title": "Early reports suggest record high turnout in Serbia elections",
+  "source_summary": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg",
+  "published": "2026-10-25T19:55:15+00:00",
+  "headline": "Record Turnout Expected in Serbia Election as Students Target Vučić",
+  "body": [
+   {
+    "type": "p",
+    "text": "Early reports indicate that voter participation in Serbia's latest election may reach a record high as polling stations close across the country. The surge in turnout comes amid a growing student movement that is seeking to unseat long‑time populist leader Aleksandar Vučić."
+   },
+   {
+    "type": "p",
+    "text": "The student activists have organized protests and campaigns aimed at challenging Vučić's grip on power, positioning the election as a pivotal moment for political change. While official results have not yet been announced, the high voter engagement suggests a heightened public interest in the outcome."
+   },
+   {
+    "type": "p",
+    "text": "International observers are watching the vote closely, given Serbia's strategic position in the Balkans and its ongoing negotiations with the European Union. The election's result could influence the country's future direction and its relations with neighboring states."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The vote could reshape Serbia's political landscape and affect stability in the Balkans, a region of strategic interest to the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Early data points to a possible record voter turnout in Serbia's election.",
+   "A student movement is actively campaigning to remove long‑time leader Aleksandar Vučić.",
+   "The election outcome is being closely monitored for its regional and EU implications."
+  ],
+  "meta_description": "Record voter turnout expected in Serbia as students push to oust long‑time leader Aleksandar Vučić, with regional implications.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Serbia",
+   "elections",
+   "turnout",
+   "student protests",
+   "Aleksandar Vučić"
+  ],
+  "slug": "record-turnout-expected-serbia-election-students-target-vucic-879830",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:10Z"
+ },
+ {
+  "id": "e189f9f1edbd35e2",
+  "source_url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+  "source": "The Guardian",
+  "source_title": "Brazil election 2026: Live second round results",
+  "source_summary": "After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, is seeking a new term in a runoff with Flávio Bolsonaro, the son of his convicted predecessor Polls close at 17.00 BRT, 20.00 GMT, with first results expected within the hour.",
+  "source_tags": [
+   "Brazil",
+   "Americas",
+   "World news",
+   "Flávio Bolsonaro",
+   "Luiz Inácio Lula da Silva"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/27cf0f75664744a7e5011e058a7d77262fc7dc20/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=015e654120200172fb0871ede0c5b2bb",
+  "published": "2026-10-25T19:37:49+00:00",
+  "headline": "Brazil Runoff Vote Begins as Lula Faces Flávio Bolsonaro",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazil's presidential runoff has started, with voting closing at 17:00 BRT (20:00 GMT). Incumbent President Luiz Inácio Lula da Silva is seeking a second term, while his challenger is Flávio Bolsonaro, the son of former president Jair Bolsonaro, who was convicted of corruption."
+   },
+   {
+    "type": "p",
+    "text": "The first results are expected within an hour of the polls closing, according to the live coverage. The contest follows a surprising defeat for Lula in the first round, setting up a tightly watched second round between the two candidates."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the outcome will determine Brazil's policy direction for the next four years, influencing issues ranging from economic reforms to environmental commitments."
+   }
+  ],
+  "key_points": [
+   "Brazil's presidential runoff pits incumbent Lula against Flávio Bolsonaro.",
+   "Polling stations close at 17:00 BRT, with initial results due shortly after.",
+   "The election outcome will shape Brazil's domestic and international agenda."
+  ],
+  "meta_description": "Brazil's presidential runoff begins, with Lula facing Flávio Bolsonaro; polls close at 17:00 BRT and first results expected within the hour.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "election",
+   "runoff",
+   "Lula",
+   "Bolsonaro",
+   "Latin America"
+  ],
+  "slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:26Z"
+ },
+ {
+  "id": "35542ffb0e04b5a0",
+  "source_url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+  "source": "The Verge",
+  "source_title": "Zen Browser is the Arc replacement I was looking for",
+  "source_summary": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And […]",
+  "source_tags": [
+   "Apps",
+   "Report",
+   "Tech",
+   "Web"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-25T19:24:50+00:00",
+  "headline": "Zen Browser Emerges as Viable Replacement for Arc After Atlassian Shift",
+  "body": [
+   {
+    "type": "p",
+    "text": "After Atlassian's acquisition of the Arc browser last year, the company redirected its development efforts toward a new AI‑centric product called Dia, leaving many users searching for an alternative. In a recent review, the author highlights Zen Browser as a compelling successor that fills the design and functionality gap left by Arc's transition."
+   },
+   {
+    "type": "p",
+    "text": "Zen Browser offers a streamlined interface and a set of productivity tools that echo Arc's innovative approach, while also integrating its own set of privacy and performance enhancements. The reviewer notes that the browser feels familiar to former Arc users yet provides fresh features that improve workflow efficiency."
+   },
+   {
+    "type": "p",
+    "text": "The shift in Atlassian's focus underscores a broader industry trend toward AI‑driven browsing experiences. However, the review suggests that not all users are ready to adopt a fully AI‑centric browser, making Zen Browser a timely option for those who prefer a balance between traditional browsing and modern enhancements."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "US and European users seeking a modern yet familiar browsing experience have a new option as major players shift toward AI‑heavy browsers."
+   }
+  ],
+  "key_points": [
+   "Zen Browser is positioned as a practical replacement for Arc after Atlassian redirected resources to its AI‑focused Dia browser.",
+   "The new browser retains Arc's design ethos while adding privacy and performance upgrades.",
+   "Atlassian's pivot reflects a wider move toward AI integration in web browsers."
+  ],
+  "meta_description": "Zen Browser offers a strong alternative to Arc after Atlassian's focus moved to the AI‑centric Dia browser.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "browser",
+   "Zen Browser",
+   "Arc replacement",
+   "Atlassian",
+   "AI browsers"
+  ],
+  "slug": "zen-browser-emerges-viable-replacement-arc-after-atlassian-shift-35542f",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:13Z"
+ },
+ {
+  "id": "344088750a955ac3",
+  "source_url": "https://www.bbc.co.uk/iplayer/episode/l00590b3",
+  "source": "BBC Sport",
+  "source_title": "The Football Hub: Reaction to Sunday's action",
+  "source_summary": "All of this weekend's talking points from the Premier League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pjl2s7.jpg",
+  "published": "2026-10-25T18:46:19+00:00",
+  "headline": "Premier League Weekend Talking Points Summarized by BBC Sport",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC Sport’s latest Football Hub piece offers a concise roundup of the Premier League’s most discussed moments from the weekend of 25 October 2026. The article collates the key narratives that emerged across the league’s fixtures, highlighting the issues that dominated fan and media conversation."
+   },
+   {
+    "type": "p",
+    "text": "While the summary does not delve into individual match reports, it points readers toward the broader themes shaping the competition, such as shifts in the title race, notable player performances, and any emerging controversies. The piece serves as a quick reference for supporters looking to catch up on the weekend’s highlights without reading multiple match reports."
+   },
+   {
+    "type": "p",
+    "text": "The Football Hub format is designed to provide a snapshot of the league’s current storyline, helping audiences stay informed about the evolving dynamics of English football as the season progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Premier League remains a major driver of global sports interest, influencing broadcasting markets and fan engagement across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "BBC Sport compiles the Premier League’s weekend talking points in a single brief.",
+   "The summary highlights overarching themes like title contention and player form.",
+   "It offers a quick reference for fans to stay updated on league developments."
+  ],
+  "meta_description": "BBC Sport’s Football Hub provides a concise roundup of the Premier League's key talking points from the weekend of 25 Oct 2026.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Premier League",
+   "football",
+   "BBC Sport",
+   "weekend roundup",
+   "sports news"
+  ],
+  "slug": "premier-league-weekend-talking-points-summarized-bbc-sport-344088",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:18Z"
+ },
+ {
+  "id": "c16fe785c8875c17",
+  "source_url": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+  "source": "The New York Times",
+  "source_title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+  "source_summary": "A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the election results.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Federal-State Relations (US)",
+   "Midterm Elections (2026)",
+   "Elections, Senate",
+   "Suits and Litigation (Civil)",
+   "Elections, Courts and the Judiciary",
+   "Politics and Government",
+   "Voter Fraud (Election Fraud)",
+   "Justice Department",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25dc-trump-elections1-vcth/25dc-trump-elections1-vcth-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T18:42:12+00:00",
+  "headline": "Justice Department Files Lawsuit Over Alaska Senate Race Loss",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Justice Department has filed a lawsuit challenging the outcome of a close Alaska Senate race in which the Republican incumbent appears poised to lose by a narrow margin. The legal action seeks to overturn or alter the result, marking a new pre‑emptive approach by President Donald Trump to influence election outcomes before final certification."
+   },
+   {
+    "type": "p",
+    "text": "According to the filing, the Department argues that procedural irregularities and alleged violations of state election law could have affected the vote count. The lawsuit aims to secure a judicial review that might delay or modify the certification of the Alaska results, potentially preserving the GOP seat in the Senate."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts note that this strategy represents an escalation in efforts to contest unfavorable results, extending beyond traditional post‑election challenges. The move could set a precedent for future federal involvement in state election disputes, raising questions about the balance of power between the executive branch and state election authorities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case could influence how future U.S. elections are contested and may affect Senate control, a concern for both American and European observers of democratic stability."
+   }
+  ],
+  "key_points": [
+   "The Justice Department sued to contest a narrow loss by the GOP Senate incumbent in Alaska.",
+   "The lawsuit reflects President Trump's new tactic of pre‑emptively shaping election outcomes.",
+   "Legal analysts warn the case could set a precedent for federal challenges to state election results."
+  ],
+  "meta_description": "Justice Department sues over narrow Alaska Senate loss, signaling a new pre‑emptive tactic by Trump to influence election results.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Justice Department",
+   "Alaska",
+   "Senate race",
+   "election lawsuit"
+  ],
+  "slug": "justice-department-files-lawsuit-over-alaska-senate-race-loss-c16fe7",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:22Z"
+ },
+ {
+  "id": "17d78e32df9bd94f",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo",
+  "source": "BBC Sport",
+  "source_title": "Pressure grows on Sage as fans turn on Palace boss",
+  "source_summary": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83d1/live/da235750-d0a0-11f1-87fa-c1809f43a7a8.png",
+  "published": "2026-10-25T18:36:12+00:00",
+  "headline": "Crystal Palace Manager Pierre Sage Faces Growing Fan Discontent",
+  "body": [
+   {
+    "type": "p",
+    "text": "Four months after taking over at Crystal Palace, French manager Pierre Sage is confronting mounting pressure as supporters voice criticism of his tenure. Sage succeeded Oliver Glasner, whose successful spell set high expectations for the club.\n\nFans have become increasingly vocal, questioning Sage's tactics and results on the pitch. The growing unrest reflects the challenge of following a well-regarded predecessor and the short timeframe in which Sage must deliver improvements.\n\nClub officials have acknowledged the scrutiny but have not detailed any immediate changes. The situation underscores the fragile nature of managerial positions in the Premier League, where performance and fan sentiment can quickly shift."
+   },
+   {
+    "type": "p",
+    "text": "Sage's ability to reverse the club's fortunes will be pivotal in determining whether he can retain his role beyond the early stages of his contract."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Premier League’s high-profile environment means managerial instability can affect club finances and league competitiveness, relevant to European football followers."
+   }
+  ],
+  "key_points": [
+   "Pierre Sage is under pressure four months into his Crystal Palace job.",
+   "Fans have turned against him, comparing his performance to predecessor Oliver Glasner.",
+   "The manager faces a critical period to improve results and win back support."
+  ],
+  "meta_description": "Crystal Palace boss Pierre Sage faces fan backlash four months into his tenure, succeeding Oliver Glasner amid growing pressure.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Crystal Palace",
+   "Pierre Sage",
+   "Premier League",
+   "football management",
+   "fan reaction"
+  ],
+  "slug": "crystal-palace-manager-pierre-sage-faces-growing-fan-discontent-17d78e",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:29Z"
+ },
+ {
+  "id": "b41cc3ce348d7061",
+  "source_url": "https://www.nytimes.com/2026/10/25/us/politics/peltola-automobile-collision-campaign-events-postponed.html",
+  "source": "The New York Times",
+  "source_title": "Peltola Postpones Events After ‘Minor Injuries’ in Automobile Collision, Campaign Says",
+  "source_summary": "Mary Peltola, Alaska’s Democratic Senate nominee, is rescheduling stops that were planned for Sunday and Monday after the vehicle she was in was struck by another driver Saturday night, according to her campaign.",
+  "source_tags": [
+   "Peltola, Mary",
+   "Alaska",
+   "Midterm Elections (2026)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25pol-alaska-peltola-hmkp/25pol-alaska-peltola-hmkp-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T18:35:35+00:00",
+  "headline": "Alaska Senate Candidate Peltola Reschedules Stops After Crash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mary Peltola, the Democratic nominee for Alaska’s U.S. Senate seat, announced that she will postpone campaign events originally set for Sunday and Monday. The decision follows a Saturday night automobile collision in which the vehicle she was traveling in was struck by another driver."
+   },
+   {
+    "type": "p",
+    "text": "According to her campaign, Peltola sustained only minor injuries in the incident and is expected to recover fully. The campaign said the rescheduling is intended to allow her time to rest and to ensure the safety of staff and volunteers."
+   },
+   {
+    "type": "p",
+    "text": "The postponed stops were part of a broader outreach effort ahead of the November election, where Peltola faces a competitive race for the Senate seat."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident affects the timing of campaign activities in a closely watched Senate race that could influence the balance of power in Congress."
+   }
+  ],
+  "key_points": [
+   "Mary Peltola was involved in a Saturday night car crash that caused minor injuries.",
+   "She is postponing campaign events scheduled for Sunday and Monday.",
+   "The campaign cites health and safety reasons for the rescheduling."
+  ],
+  "meta_description": "Alaska Senate candidate Mary Peltola postpones weekend campaign stops after a minor‑injury car crash, campaign says.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "Senate race",
+   "Mary Peltola",
+   "campaign",
+   "car accident"
+  ],
+  "slug": "alaska-senate-candidate-peltola-reschedules-stops-after-crash-b41cc3",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:34Z"
+ },
+ {
+  "id": "fadfc6a1e339f36f",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+  "source": "BBC News",
+  "source_title": "Venezuelan opposition leader María Machado returns after months in exile",
+  "source_summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-25T18:29:00+00:00",
+  "headline": "Venezuelan Opposition Leader María Machado Returns After Months in Exile",
+  "body": [
+   {
+    "type": "p",
+    "text": "María Machado, a leading figure in Venezuela's opposition, has come back to the country after spending several months abroad. Her departure occurred just a month before the United States took action to seize President Nicolás Maduro."
+   },
+   {
+    "type": "p",
+    "text": "Machado's return marks her re‑entry into Venezuelan politics following a period of self‑imposed exile. The timing of her exit and subsequent comeback aligns closely with heightened U.S. pressure on the Maduro administration."
+   }
+  ],
+  "key_points": [
+   "María Machado returns to Venezuela after months of exile.",
+   "She left the country a month before the U.S. seized President Nicolás Maduro."
+  ],
+  "meta_description": "Venezuelan opposition leader María Machado returns home after months abroad, having left shortly before U.S. action against President Maduro.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Venezuela",
+   "María Machado",
+   "opposition",
+   "Nicolás Maduro",
+   "U.S. sanctions"
+  ],
+  "slug": "venezuelan-opposition-leader-maria-machado-returns-after-months-exile-fadfc6",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:45Z"
+ },
+ {
+  "id": "da7581cf7ca68184",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o",
+  "source": "BBC Sport",
+  "source_title": "Isak finally living up to price tag as Liverpool patience rewarded",
+  "source_summary": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d2/live/a3cc9cc0-d09b-11f1-aeb2-977af36708cb.jpg",
+  "published": "2026-10-25T18:13:55+00:00",
+  "headline": "Isak Scores Sixth Goal as Liverpool Extend Winning Streak",
+  "body": [
+   {
+    "type": "p",
+    "text": "Alexander Isak netted his sixth Premier League goal of the season, helping Liverpool secure their fourth consecutive victory. The Swedish striker's goal came as the team continued to respond positively under interim manager Andoni Iraola."
+   },
+   {
+    "type": "p",
+    "text": "Liverpool's recent form has improved markedly, with the side now boasting four wins in a row. Iraola, who took charge after Jürgen Klopp's departure, has overseen the resurgence, prompting optimism among supporters."
+   },
+   {
+    "type": "p",
+    "text": "Isak's contribution highlights his growing importance to the squad, aligning with the high expectations set by his transfer fee. The forward's performance underscores Liverpool's offensive revival as they aim to climb the league table."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Liverpool's resurgence under Iraola could influence the Premier League title race and European qualification spots, affecting clubs across the UK and Europe."
+   }
+  ],
+  "key_points": [
+   "Alexander Isak scored his sixth league goal, aiding Liverpool's fourth straight win.",
+   "Interim manager Andoni Iraola has overseen a four-game winning run for Liverpool."
+  ],
+  "meta_description": "Alexander Isak's sixth league goal helps Liverpool secure a fourth consecutive win under interim boss Andoni Iraola.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Alexander Isak",
+   "Premier League",
+   "Andoni Iraola",
+   "football"
+  ],
+  "slug": "isak-scores-sixth-goal-liverpool-extend-winning-streak-da7581",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:37Z"
+ },
+ {
+  "id": "6b8bdad425d36586",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo",
+  "source": "BBC News",
+  "source_title": "Board of Deputies of British Jews declares Greens to be racist party",
+  "source_summary": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/27badc80-d098-11f1-b7fd-31adcdf71225.jpg",
+  "published": "2026-10-25T18:05:17+00:00",
+  "headline": "British Jewish Body Calls Greens Racist Over Zionism Motion",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Board of Deputies of British Jews voted to label the Green Party a racist organisation after the party adopted a policy motion describing Zionism as racism. The motion, passed by Green Party members, sparked immediate condemnation from the Jewish representative body, which said the wording equated support for Israel with racial hatred."
+   },
+   {
+    "type": "p",
+    "text": "In its statement, the Board said the motion “contradicts the principles of equality and non‑discrimination” and warned that such language could fuel antisemitic sentiment. The declaration follows a series of debates within UK parties over how to address the Israeli‑Palestinian conflict and the rise of anti‑Zionist rhetoric on the political left."
+   },
+   {
+    "type": "p",
+    "text": "The Greens have defended the motion as a critique of Israeli government policies rather than an attack on Jewish people, while the Board of Deputies urged the party to withdraw the wording and engage in dialogue with the Jewish community."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash reflects broader debates in Europe and the US about how political parties address Israel‑Palestine and the line between legitimate criticism and antisemitism."
+   }
+  ],
+  "key_points": [
+   "The Board of Deputies of British Jews has officially called the Green Party racist over its Zionism‑is‑racism motion.",
+   "The Green Party defends the motion as a policy critique, not an antisemitic statement.",
+   "The dispute highlights growing tensions in UK politics over Israel‑Palestine issues."
+  ],
+  "meta_description": "The Board of Deputies of British Jews brands the Green Party racist after it adopts a motion calling Zionism racism, sparking a UK political controversy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "British politics",
+   "Green Party",
+   "Jewish community",
+   "anti‑Zionism",
+   "UK elections"
+  ],
+  "slug": "british-jewish-body-calls-greens-racist-over-zionism-motion-6b8bda",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:42Z"
+ },
+ {
+  "id": "fe2d871b9314028e",
+  "source_url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+  "source": "NPR",
+  "source_title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+  "source_summary": "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4247x2832+0+0/resize/4247x2832!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F4f%2Ff29bb039483ea9e51572e8f660d8%2Fap26294709681244.jpg",
+  "published": "2026-10-25T17:50:35+00:00",
+  "headline": "Alaska AG Todd Blanche Defends DOJ Lawsuit to Block Senate Results",
+  "body": [
+   {
+    "type": "p",
+    "text": "Attorney General Todd Blanche told CNN he will continue to defend the Justice Department’s lawsuit that seeks to halt certification of Alaska’s Senate election results if the Republican candidate does not win. The filing argues that the Department has legal standing to intervene in the state’s vote count under federal statutes."
+   },
+   {
+    "type": "p",
+    "text": "Blanche said the lawsuit is intended to protect the integrity of the election process and to ensure that any alleged irregularities are fully examined before the results are finalized. He emphasized that the Department’s involvement is consistent with its duty to enforce federal election laws."
+   },
+   {
+    "type": "p",
+    "text": "The case could delay the seating of Alaska’s next senator and may set a precedent for federal challenges to state election outcomes in closely contested races."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The suit could influence the balance of power in the U.S. Senate and signal how federal agencies may intervene in state elections."
+   }
+  ],
+  "key_points": [
+   "Alaska’s Attorney General is defending a DOJ lawsuit that would block Senate results if the Republican loses.",
+   "The lawsuit claims federal authority to intervene in state election certification.",
+   "If successful, the case could delay the final count and affect Senate composition."
+  ],
+  "meta_description": "Alaska AG Todd Blanche defends a DOJ lawsuit aiming to block Senate results if the Republican candidate loses, citing election integrity.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "DOJ",
+   "Senate race",
+   "Todd Blanche",
+   "election law"
+  ],
+  "slug": "alaska-ag-todd-blanche-defends-doj-lawsuit-block-senate-fe2d87",
+  "reading_minutes": 1,
+  "added": "2026-10-25T19:56:50Z"
+ },
+ {
   "id": "e528548a0fbd9fb3",
   "source_url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
   "source": "The Guardian",
@@ -691,6 +1275,64 @@
   "slug": "instagram-launches-reels-app-apple-tv-expanding-livingroom-reach-6cc3d7",
   "reading_minutes": 1,
   "added": "2026-10-25T17:37:15Z"
+ },
+ {
+  "id": "ee351496911ab3b3",
+  "source_url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+  "source": "TechCrunch",
+  "source_title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+  "source_summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+  "source_tags": [
+   "Transportation",
+   "GM",
+   "robotaxis",
+   "techcrunch mobility"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+  "published": "2026-10-25T16:05:00+00:00",
+  "headline": "TechCrunch Mobility Highlights AI's Growing Role in Transportation",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch Mobility returns as a dedicated platform covering the future of transportation, emphasizing how artificial intelligence is reshaping the sector."
+   },
+   {
+    "type": "p",
+    "text": "The outlet underscores that AI is becoming increasingly central to autonomous vehicles, traffic management and mobility services, positioning the publication as a hub for industry developments."
+   },
+   {
+    "type": "p",
+    "text": "Readers can expect ongoing analysis of emerging technologies and their impact on how people and goods move, reflecting broader trends in the mobility ecosystem."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding AI's influence on transportation helps policymakers and businesses in the US and Europe navigate upcoming regulatory and market changes."
+   }
+  ],
+  "key_points": [
+   "TechCrunch Mobility focuses on AI-driven advances in transportation.",
+   "The publication serves as a hub for future mobility developments."
+  ],
+  "meta_description": "TechCrunch Mobility returns, spotlighting AI's expanding role in shaping the future of transportation.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "autonomous vehicles",
+   "mobility",
+   "transportation technology",
+   "future of travel"
+  ],
+  "slug": "techcrunch-mobility-highlights-ai-s-growing-role-transportation-ee3514",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-25T19:56:53Z"
  },
  {
   "id": "b55e32c9c2e2d41e",
