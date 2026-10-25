@@ -53,6 +53,684 @@
   "added": "2026-10-24T21:31:50Z"
  },
  {
+  "id": "177ee20d981065d6",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o",
+  "source": "BBC News",
+  "source_title": "Budget to include £1bn for social and affordable housing",
+  "source_summary": "The move will take funding for the 10-year programme to more than £40bn.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg",
+  "published": "2026-10-25T02:57:30+00:00",
+  "headline": "UK Budget Allocates £1bn to Boost Social and Affordable Housing",
+  "body": [
+   {
+    "type": "p",
+    "text": "The British government’s latest budget earmarks an additional £1 billion for social and affordable housing initiatives. This infusion brings the total financing for the decade‑long programme to more than £40 billion, underscoring a significant scaling of public investment in the sector."
+   },
+   {
+    "type": "p",
+    "text": "The new funding is intended to support the construction and refurbishment of homes for low‑income households, as well as to increase the overall supply of affordable rental properties. Officials say the boost will help meet rising demand and address long‑standing shortages in the housing market."
+   }
+  ],
+  "key_points": [
+   "The 2026 UK budget adds £1 billion for social and affordable housing.",
+   "Total funding for the 10‑year housing programme now exceeds £40 billion."
+  ],
+  "meta_description": "UK budget adds £1bn for social and affordable housing, raising total 10‑year programme funding to over £40bn.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "budget",
+   "housing",
+   "social housing",
+   "affordable housing",
+   "finance"
+  ],
+  "slug": "uk-budget-allocates-1bn-boost-social-affordable-housing-177ee2",
+  "reading_minutes": 1,
+  "added": "2026-10-25T04:29:33Z"
+ },
+ {
+  "id": "004e918ea494c054",
+  "source_url": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
+  "source": "The New York Times",
+  "source_title": "Audi to Build Factory in Georgia, Trump Says",
+  "source_summary": "The Volkswagen division, which imports all its cars from Europe or Mexico, has been hit hard by U.S. tariffs.",
+  "source_tags": [
+   "Automobiles",
+   "Factories and Manufacturing",
+   "United States Politics and Government",
+   "Customs (Tariff)",
+   "Audi Division of Volkswagen AG",
+   "Trump, Donald J"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24biz-audi-factory-wmtq/24biz-audi-factory-wmtq-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T02:17:33+00:00",
+  "headline": "Audi Announces New Georgia Factory Amid U.S. Tariff Pressures",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump announced that Audi, a subsidiary of Volkswagen, will construct a manufacturing plant in the state of Georgia. The move marks a shift for the German automaker, which has traditionally imported its vehicles from Europe and Mexico."
+   },
+   {
+    "type": "p",
+    "text": "The decision comes as Volkswagen's U.S. operations face challenges from tariffs imposed on imported cars. By establishing domestic production, Audi aims to mitigate the impact of these duties and strengthen its presence in the American market."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the Georgia facility could create jobs and reduce reliance on foreign supply chains, aligning with broader efforts to boost U.S. manufacturing."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The factory reflects how U.S. tariff policies are reshaping automotive supply chains and encouraging foreign manufacturers to invest locally."
+   }
+  ],
+  "key_points": [
+   "Audi plans to build a factory in Georgia, announced by President Trump.",
+   "The new plant aims to offset the effects of U.S. tariffs on Volkswagen imports.",
+   "Domestic production could generate jobs and lessen dependence on overseas sourcing."
+  ],
+  "meta_description": "Audi will build a factory in Georgia, a move announced by Trump to counter U.S. tariffs on Volkswagen imports.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Audi",
+   "Georgia",
+   "Volkswagen",
+   "US tariffs",
+   "auto industry",
+   "manufacturing"
+  ],
+  "slug": "audi-announces-new-georgia-factory-amid-u-s-tariff-004e91",
+  "reading_minutes": 1,
+  "added": "2026-10-25T04:29:37Z"
+ },
+ {
+  "id": "cc0624004c3facae",
+  "source_url": "https://www.dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "New York Archdiocese to pay $800 million to sex abuse survivors",
+  "source_summary": "Around 1,300 survivors agreed to the $800 million payout from the Catholic Church, marking one of the largest clergy abuse settlements in the US.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79753331_6.jpg",
+  "published": "2026-10-25T02:07:00+00:00",
+  "headline": "New York Catholic Archdiocese Agrees to $800 Million Abuse Settlement",
+  "body": [
+   {
+    "type": "p",
+    "text": "Around 1,300 survivors of clergy sexual abuse have reached a settlement with the New York Catholic Archdiocese, agreeing to an $800 million payout. The agreement, announced on Oct. 25, represents one of the largest financial resolutions for clergy abuse cases in the United States."
+   },
+   {
+    "type": "p",
+    "text": "The survivors, who filed claims spanning decades, will receive compensation through a trust established by the archdiocese. While the settlement does not include an admission of wrongdoing, it aims to provide restitution and support services to those affected."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts note that the deal could set a benchmark for other dioceses facing similar lawsuits, potentially influencing future negotiations and the broader effort to address historic abuse within the Catholic Church."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The settlement highlights the ongoing legal and moral reckoning with clergy abuse in the U.S., a issue also resonating across Europe as churches confront past misconduct."
+   }
+  ],
+  "key_points": [
+   "Approximately 1,300 abuse survivors accepted an $800 million settlement with the New York Archdiocese.",
+   "The payout is among the largest clergy‑abuse settlements ever reached in the United States.",
+   "The agreement may influence how other dioceses handle similar abuse claims."
+  ],
+  "meta_description": "New York Catholic Archdiocese settles for $800 million with 1,300 clergy abuse survivors, one of the largest U.S. payouts.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Catholic Church",
+   "abuse settlement",
+   "New York",
+   "clergy scandal",
+   "legal settlement"
+  ],
+  "slug": "new-york-catholic-archdiocese-agrees-800-million-abuse-settlement-cc0624",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-25T04:29:46Z"
+ },
+ {
+  "id": "d0f407611cb9dd41",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po",
+  "source": "BBC News",
+  "source_title": "Students like new tenancy freedoms - but landlords warn of higher rents",
+  "source_summary": "The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d88c/live/95ab8c80-cee0-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-10-25T01:35:40+00:00",
+  "headline": "Students Praise New Tenancy Flexibility as Landlords Fear Rent Hikes",
+  "body": [
+   {
+    "type": "p",
+    "text": "The recently enacted Renters' Rights Act gives tenants, including university students, the ability to end a tenancy with far less notice than previously required. Student groups have welcomed the change, saying it eases the pressure of sudden term breaks and allows them to move more freely between accommodation options."
+   },
+   {
+    "type": "p",
+    "text": "Landlords, however, warn that the added freedom could push up rental prices. They argue that shorter, more flexible tenancies increase turnover costs and risk of vacant periods, prompting many to raise rents to maintain profitability. Some student‑focused landlords say they may pass higher costs onto tenants, potentially offsetting the benefits of the new law."
+   },
+   {
+    "type": "p",
+    "text": "The debate highlights a tension between protecting renters and preserving a stable rental market. While the act aims to improve tenant rights, its economic ripple effects could reshape student housing affordability across the UK."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Changes to tenancy rules in the UK could influence student housing markets and rental pricing trends in other Western economies."
+   }
+  ],
+  "key_points": [
+   "The Renters' Rights Act lets students end tenancies with minimal notice, a change they broadly support.",
+   "Landlords claim the new flexibility will lead to higher rents to cover increased turnover costs.",
+   "The policy may affect overall affordability of student housing in the UK."
+  ],
+  "meta_description": "UK students welcome new tenancy freedoms under the Renters' Rights Act, while landlords warn it could drive up rents.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tenancy",
+   "students",
+   "landlords",
+   "rent",
+   "housing policy",
+   "UK"
+  ],
+  "slug": "students-praise-new-tenancy-flexibility-landlords-fear-rent-hikes-d0f407",
+  "reading_minutes": 1,
+  "added": "2026-10-25T04:29:53Z"
+ },
+ {
+  "id": "39e82dd58f5319d8",
+  "source_url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
+  "source": "The New York Times",
+  "source_title": "Italy’s Young Protesters Return to the Streets",
+  "source_summary": "Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.",
+  "source_tags": [
+   "Demonstrations, Protests and Riots",
+   "Milan (Italy)",
+   "Italy",
+   "Youth",
+   "Cost of Living and Affordability",
+   "Inflation (Economics)",
+   "Salvini, Matteo"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-italy-jgzt/24france-protests-italy-jgzt-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T01:26:08+00:00",
+  "headline": "Italy’s Young Protesters Take to Streets Over Cost of Living",
+  "body": [
+   {
+    "type": "p",
+    "text": "Young demonstrators in Italy returned to the streets this week, voicing frustration with the political establishment and the rising cost of living. The renewed rallies follow a weekend of protests that were marred by violence, prompting organizers to seek a clearer platform for their grievances."
+   },
+   {
+    "type": "p",
+    "text": "Participants said they hope the latest demonstrations will force policymakers to address economic pressures that are hitting households hardest. The protests have been largely driven by students and recent graduates who feel excluded from decision‑making processes."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have not reported any major incidents so far, and organizers are urging a peaceful approach to keep the focus on their economic demands rather than on clashes with police."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest highlights growing economic discontent in Italy, a key EU member, which could influence broader European policy debates."
+   }
+  ],
+  "key_points": [
+   "Italian youth are protesting against high living costs and political stagnation.",
+   "The latest marches aim to refocus attention after previous violence disrupted the message."
+  ],
+  "meta_description": "Italian youth protest again, demanding action on rising living costs and political neglect after weekend violence.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Italy",
+   "protests",
+   "cost of living",
+   "youth activism",
+   "Europe"
+  ],
+  "slug": "italys-young-protesters-take-streets-over-cost-living-39e82d",
+  "reading_minutes": 1,
+  "added": "2026-10-25T04:29:50Z"
+ },
+ {
+  "id": "e68687bba759c5d1",
+  "source_url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
+  "source": "The New York Times",
+  "source_title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War",
+  "source_summary": "With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "United States Politics and Government",
+   "United States International Relations",
+   "International Relations",
+   "Iran-Israel Proxy Conflict",
+   "Trump Assassination Attempt (July 2024)",
+   "Midterm Elections (2026)",
+   "Iran-Israel War (2025- )",
+   "Islamic Revolutionary Guards Corps",
+   "State Department"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-iran-pkhc/24dc-prexy-iran-pkhc-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T01:06:17+00:00",
+  "headline": "Rising Threats Push US and Iran Toward Full-Scale Conflict",
+  "body": [
+   {
+    "type": "p",
+    "text": "New intelligence assessments indicate that the conflict surrounding Iran is entering a more perilous stage, with all parties possibly seeking justifications for military action. The heightened tension comes as the United States and Israel approach national elections, adding political pressure to the volatile situation."
+   },
+   {
+    "type": "p",
+    "text": "Analysts warn that the combination of fresh intelligence and the desire for pretexts could accelerate moves toward open warfare between the United States and Iran. The risk of miscalculation is amplified by the proximity of electoral cycles, which may influence decision‑makers on both sides."
+   },
+   {
+    "type": "p",
+    "text": "The evolving threat landscape underscores the potential for rapid escalation, prompting calls for diplomatic channels to remain open. Observers note that any misstep could draw the region into a broader conflict, affecting global security and energy markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Escalation between the U.S. and Iran could destabilize global markets and heighten security concerns for Europe and North America."
+   }
+  ],
+  "key_points": [
+   "New intelligence suggests the Iran‑US standoff is moving toward a higher risk of full war.",
+   "U.S. and Israeli election cycles may pressure leaders to adopt more aggressive postures.",
+   "Experts caution that miscalculations could trigger a wider regional conflict."
+  ],
+  "meta_description": "Fresh intelligence warns of rising threats that could push the U.S. and Iran toward full-scale war amid upcoming elections.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "United States",
+   "Israel",
+   "military conflict",
+   "elections",
+   "security"
+  ],
+  "slug": "rising-threats-push-us-iran-toward-full-scale-conflict-e68687",
+  "reading_minutes": 1,
+  "added": "2026-10-25T04:30:01Z"
+ },
+ {
+  "id": "6f3808192ba515b5",
+  "source_url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+  "source": "The New York Times",
+  "source_title": "Iranians Face Anxious Wait as Threat of Attack Looms",
+  "source_summary": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "Iran",
+   "War and Armed Conflicts",
+   "Iran-Israel War (2025- )",
+   "Fear (Emotion)",
+   "Tehran (Iran)",
+   "Prices (Fares, Fees and Rates)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-iran-mood-bwvj/24int-iran-mood-bwvj-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T00:51:45+00:00",
+  "headline": "U.S. and Israel Draft New Strike Plans Against Iran, Heightening Public Fear",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United States and Israel have reportedly prepared fresh plans for renewed air strikes against Iran, according to the latest reporting. The prospect of renewed hostilities has sparked anxiety among residents who have already endured years of regional conflict."
+   },
+   {
+    "type": "p",
+    "text": "War-weary Iranians are confronting an uncertain future as diplomatic channels remain strained and military options appear to be back on the table. The anticipation of further attacks has intensified a sense of dread across the country."
+   },
+   {
+    "type": "p",
+    "text": "Officials from both nations have not disclosed details of the proposed operations, but the mere existence of the plans has amplified concerns about a possible escalation of the ongoing tensions in the Middle East."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Escalation could affect global oil markets and U.S. security interests in the region."
+   }
+  ],
+  "key_points": [
+   "The U.S. and Israel are reportedly preparing new strike plans targeting Iran.",
+   "Iranian civilians are experiencing heightened anxiety over the threat of renewed attacks."
+  ],
+  "meta_description": "U.S. and Israel draft new strike plans against Iran, raising fear among war-weary Iranians and prompting concerns about regional stability.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "United States",
+   "Israel",
+   "military plans",
+   "regional tension"
+  ],
+  "slug": "u-s-israel-draft-new-strike-plans-against-iran-6f3808",
+  "reading_minutes": 1,
+  "added": "2026-10-25T04:29:57Z"
+ },
+ {
+  "id": "4e56d42e7fa64c5f",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo",
+  "source": "BBC Sport",
+  "source_title": "Antonelli stands on brink of history in Austin",
+  "source_summary": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8cb/live/dda7a2b0-d009-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-25T00:40:56+00:00",
+  "headline": "Antonelli Poised to Become Youngest F1 Champion in Austin",
+  "body": [
+   {
+    "type": "p",
+    "text": "Italian driver Kimi Antonelli entered the Austin Grand Prix with a chance to become Formula One's youngest world champion, a milestone that would rewrite the sport's record books. The 2026 season finale offered the high‑stakes opportunity, and Antonelli approached the race with an unusually relaxed mindset."
+   },
+   {
+    "type": "p",
+    "text": "Speaking before the start, Antonelli said he was enjoying the competition more than usual and did not feel the weight of history pressing on him. His calm demeanor contrasted with the typical pressure associated with such a historic prospect, highlighting his confidence in his own performance."
+   },
+   {
+    "type": "p",
+    "text": "If Antonelli secured the title, he would join an elite group of drivers who have claimed the championship at a young age, underscoring the rapid rise of new talent in Formula One. The outcome of the Austin race will determine whether the record books are rewritten this weekend."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A record‑breaking champion would boost interest in Formula One across the US and Europe, where the sport is expanding its fan base."
+   }
+  ],
+  "key_points": [
+   "Kimi Antonelli could become the youngest Formula One world champion at the Austin Grand Prix.",
+   "The driver says he feels more enjoyment than pressure ahead of the race."
+  ],
+  "meta_description": "Kimi Antonelli aims to become the youngest F1 world champion at the Austin Grand Prix, saying he feels more enjoyment than pressure.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula One",
+   "Kimi Antonelli",
+   "Austin Grand Prix",
+   "motorsport",
+   "young champion"
+  ],
+  "slug": "antonelli-poised-become-youngest-f1-champion-austin-4e56d4",
+  "reading_minutes": 1,
+  "added": "2026-10-25T04:29:41Z"
+ },
+ {
+  "id": "10946728aa117eed",
+  "source_url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o",
+  "source": "BBC News",
+  "source_title": "Burnham open to 'honest discussion' on EU free movement",
+  "source_summary": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-10-25T00:33:19+00:00",
+  "headline": "UK Prime Minister Burnham Open to Honest Debate on EU Free Movement",
+  "body": [
+   {
+    "type": "p",
+    "text": "Prime Minister Rishi Burnham said he is willing to hold an \"honest discussion\" about restoring free movement between the United Kingdom and the European Union. He emphasized that any future policy should be grounded in factual evidence and rigorous analysis."
+   },
+   {
+    "type": "p",
+    "text": "Burnham called for a \"factual\" and \"evidence‑based\" debate, suggesting that the government will consider data on labour markets, border security and economic impacts before deciding on any changes to the current immigration regime."
+   },
+   {
+    "type": "p",
+    "text": "The prime minister’s remarks come amid ongoing political pressure from both pro‑free‑movement advocates and those who favour tighter controls on immigration. Burnham indicated that the discussion would involve stakeholders from both sides of the issue."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The stance could reshape UK‑EU travel and labour ties, affecting businesses and citizens across both regions."
+   }
+  ],
+  "key_points": [
+   "PM Burnham says any move on EU free movement will be based on factual evidence.",
+   "He invites an \"honest discussion\" with all sides of the immigration debate.",
+   "The proposal follows sustained political pressure over the UK's post‑Brexit immigration rules."
+  ],
+  "meta_description": "UK Prime Minister Rishi Burnham says any return to EU free movement will be based on factual, evidence‑based debate.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "EU",
+   "free movement",
+   "immigration",
+   "debate",
+   "Burnham"
+  ],
+  "slug": "uk-prime-minister-burnham-open-honest-debate-eu-free-109467",
+  "reading_minutes": 1,
+  "added": "2026-10-25T04:30:05Z"
+ },
+ {
+  "id": "7e387a717793a175",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
+  "source": "The Guardian",
+  "source_title": "California leader calls attack on alleged noncitizen voting ‘weaponizing the law’",
+  "source_summary": "State attorney general said Trump’s justice department’s directive to verify 20,000 ballots is completely improper California’s attorney general on Saturday rebuked the Trump administration’s efforts to quash alleged noncitizen voting, calling it “politicizing and weaponizing the law”. Rob Bonta, the state’s attorney general, said the justice department acted at Donald Trump’s direction.",
+  "source_tags": [
+   "California",
+   "US midterm elections 2026",
+   "Trump administration",
+   "US voting rights",
+   "US politics",
+   "West Coast",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/0dfc92629802445272a678cec5dab911996a5147/226_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=1be91e5837b70704af13863f09735af9",
+  "published": "2026-10-25T00:16:17+00:00",
+  "headline": "California AG Calls Trump DOJ Ballot Review Weaponizing Law",
+  "body": [
+   {
+    "type": "p",
+    "text": "California Attorney General Rob Bonta on Saturday condemned a Justice Department directive that sought to verify roughly 20,000 ballots for alleged non‑citizen voting. Bonta described the move as \"politicizing and weaponizing the law,\" saying it was carried out at the direction of former President Donald Trump."
+   },
+   {
+    "type": "p",
+    "text": "The attorney general characterized the federal effort as an improper attempt to suppress votes, calling the verification process \"completely improper\" and outside the scope of normal election oversight. He warned that such actions undermine public confidence in the electoral system."
+   },
+   {
+    "type": "p",
+    "text": "Bonta’s rebuke adds to a growing partisan clash over voting integrity measures, with state officials in several jurisdictions pushing back against federal interventions they view as politically motivated."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute highlights tensions between state and federal authorities over election oversight, a concern for democracies monitoring voting integrity."
+   }
+  ],
+  "key_points": [
+   "California AG Rob Bonta denounced a DOJ directive to review 20,000 ballots as politicizing the law.",
+   "He said the effort, directed by Donald Trump, was an improper attempt to quash alleged non‑citizen voting."
+  ],
+  "meta_description": "California AG calls DOJ's ballot verification effort politicizing and weaponizing the law, sparking a state‑federal clash over voting oversight.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "California",
+   "Attorney General",
+   "Trump administration",
+   "voting",
+   "immigration"
+  ],
+  "slug": "california-ag-calls-trump-doj-ballot-review-weaponizing-law-7e387a",
+  "reading_minutes": 1,
+  "added": "2026-10-25T04:30:13Z"
+ },
+ {
+  "id": "f564896919188b72",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+  "source": "The Guardian",
+  "source_title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+  "source_summary": "Former president speaks to crowd of thousands in support of Abdul El-Sayed for US Senate and Democratic ticket Barack Obama told a Detroit crowd on Saturday that Abdul El-Sayed was “fighting for change, real change, that will get money out of politics and put money in your pocket”, as he threw his weight behind the Democratic Senate candidate and the rest of the ticket on the first day of early voting in Michigan. Obama said in front of thousands of onlookers at Cass technical high school in Detroit that El-Sayed would “finish the job we started with the Affordable Care Act and guarantee quality, affordable healthcare to every single American”.",
+  "source_tags": [
+   "Michigan",
+   "US midterm elections 2026",
+   "Barack Obama",
+   "US news",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/bcf04be8e15098a7d07e4aa14bcc516999eb7ef1/233_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=316873f5124e0bce9ecfa1f3638d1928",
+  "published": "2026-10-25T00:14:30+00:00",
+  "headline": "Obama Endorses Abdul El‑Sayed at Detroit Rally, Vows Care Reform",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Barack Obama addressed a crowd of thousands at Cass Technical High School in Detroit on Saturday, lending his support to Democratic Senate candidate Abdul El‑Sayed. Speaking as early voting began in Michigan, Obama praised El‑Sayed’s push for \"real change\" that would \"get money out of politics and put money in your pocket.\""
+   },
+   {
+    "type": "p",
+    "text": "Obama highlighted El‑Sayed’s commitment to expanding the Affordable Care Act, saying the candidate would \"finish the job we started\" and ensure quality, affordable health care for every American. The former president’s remarks were aimed at energizing voters ahead of the upcoming Senate race and the broader Democratic ticket in the state."
+   },
+   {
+    "type": "p",
+    "text": "The rally, attended by thousands of onlookers, underscored the national profile of Michigan’s early voting day and the importance of the Senate contest for the party’s control of Congress."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The endorsement comes as Michigan’s Senate race gains national attention, influencing the balance of power in Congress and reflecting broader Democratic priorities on health care and campaign finance."
+   }
+  ],
+  "key_points": [
+   "Barack Obama publicly endorsed Abdul El‑Sayed at a Detroit rally on the first day of Michigan early voting.",
+   "Obama said El‑Sayed will expand the Affordable Care Act to guarantee affordable health care for all Americans."
+  ],
+  "meta_description": "Barack Obama backs Abdul El‑Sayed at a Detroit rally, pledging health‑care reform as Michigan begins early voting for the Senate race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Obama",
+   "Abdul El‑Sayed",
+   "Michigan Senate",
+   "Detroit rally",
+   "Democratic Party"
+  ],
+  "slug": "obama-endorses-abdul-elsayed-detroit-rally-vows-care-reform-f56489",
+  "reading_minutes": 1,
+  "added": "2026-10-25T04:30:18Z"
+ },
+ {
+  "id": "0733bab45c12c35d",
+  "source_url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Nigeria: Tinubu launches reelection bid amid economic woes",
+  "source_summary": "President Bola Tinubu promised \"a better tomorrow\" for Nigerians while kicking off his next electoral campaign, while also blaming his rivals for poverty plaguing Africa's most populous nation.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79752999_6.jpg",
+  "published": "2026-10-24T23:49:00+00:00",
+  "headline": "Nigeria President Tinubu Starts Reelection Bid Amid Economic Woes",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Bola Tinubu officially opened his campaign for a second term, pledging a \"better tomorrow\" for Nigerians. The launch took place in Abuja and featured speeches that highlighted his administration’s achievements while outlining plans for future development."
+   },
+   {
+    "type": "p",
+    "text": "At the same event, Tinubu attributed the country’s persistent poverty and inflation to the opposition, accusing rival politicians of undermining economic progress. He warned that continued political infighting could deepen hardship for citizens already facing high food prices and unemployment."
+   },
+   {
+    "type": "p",
+    "text": "The campaign kickoff comes as Nigeria grapples with a slowdown in oil revenues, rising debt, and social unrest in several regions. Analysts note that the president’s rhetoric aims to consolidate support ahead of the upcoming election, which is expected to be closely watched by international investors and regional partners."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Nigeria’s political stability and economic policies affect global oil markets and regional security, issues of interest to U.S. and European stakeholders."
+   }
+  ],
+  "key_points": [
+   "President Tinubu launched his reelection campaign, promising improved living standards.",
+   "He blamed political rivals for the nation’s poverty and economic challenges.",
+   "The bid occurs amid declining oil income and rising social tensions in Nigeria."
+  ],
+  "meta_description": "Nigeria's President Tinubu begins his reelection campaign, pledging a better future while blaming rivals for ongoing economic hardship.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nigeria",
+   "Tinubu",
+   "election",
+   "economy",
+   "Africa",
+   "politics"
+  ],
+  "slug": "nigeria-president-tinubu-starts-reelection-bid-amid-economic-woes-0733ba",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-25T04:30:10Z"
+ },
+ {
   "id": "f06838f075fde3da",
   "source_url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
   "source": "BBC News",
