@@ -1,5 +1,678 @@
 [
  {
+  "id": "b55e32c9c2e2d41e",
+  "source_url": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
+  "source": "The New York Times",
+  "source_title": "A Day After Renewed Street Clashes in France, Relief and Anxiety Mix",
+  "source_summary": "While the police kept a lid on vandalism, the huge number of protesters, and France’s fraught politics, suggest unrest could grow.",
+  "source_tags": [
+   "Demonstrations, Protests and Riots",
+   "France Unbowed (Political Party)",
+   "National Rally (France)",
+   "Le Pen, Marine",
+   "Macron, Emmanuel (1977- )",
+   "France",
+   "Orleans (France)",
+   "Paris (France)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-france-assess-01-fvtc/25int-france-assess-01-fvtc-mediumSquareAt3X-v2.jpg",
+  "published": "2026-10-25T13:51:21+00:00",
+  "headline": "France Faces Rising Unrest After Night of Street Clashes",
+  "body": [
+   {
+    "type": "p",
+    "text": "Police forces in France managed to limit vandalism during a night of renewed street clashes, but the sheer scale of the demonstrations highlighted a volatile situation. Hundreds of protesters gathered in several cities, confronting law‑enforcement officers and sparking confrontations that quickly escalated."
+   },
+   {
+    "type": "p",
+    "text": "Authorities reported that while most acts of property damage were contained, the number of participants far exceeded previous protests, underscoring deepening frustration with the country's political climate. Analysts note that France's already fraught politics – marked by recent governmental disputes and social tensions – could fuel further unrest if grievances are not addressed."
+   },
+   {
+    "type": "p",
+    "text": "The police response, described by officials as measured, aimed to prevent the clashes from spiraling into wider disorder. Yet the mix of relief at the limited damage and anxiety over the growing mobilization points to a precarious balance that may shift in the coming weeks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Escalating protests in France could impact European stability and economic confidence, affecting markets and policy decisions that also concern the United States and its allies."
+   }
+  ],
+  "key_points": [
+   "Police limited vandalism but faced large crowds in multiple French cities.",
+   "The size of the protests reflects mounting discontent amid France's turbulent politics.",
+   "Authorities warn that unrest could expand if underlying issues remain unresolved."
+  ],
+  "meta_description": "Police contained vandalism during France's latest street clashes, but massive protests signal growing unrest amid fraught politics.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "unrest",
+   "police",
+   "politics",
+   "Europe"
+  ],
+  "slug": "france-faces-rising-unrest-after-night-street-clashes-b55e32",
+  "reading_minutes": 1,
+  "added": "2026-10-25T13:53:41Z"
+ },
+ {
+  "id": "8731e87c4d6293fa",
+  "source_url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+  "source_summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/60287067_6.jpg",
+  "published": "2026-10-25T13:41:00+00:00",
+  "headline": "Uganda Reports No Active Ebola Cases Amid Kenya, Nigeria Cases",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ugandan health officials confirmed that the country currently has no active Ebola infections, even as neighboring Kenya and Nigeria each report new cases. The contrasting situations have prompted regional authorities to examine possible links between the outbreaks."
+   },
+   {
+    "type": "p",
+    "text": "Investigators are focusing on Entebbe International Airport, Uganda's main gateway, to determine whether patients diagnosed in Kenya and Nigeria may have crossed paths there. Conflicting accounts about the movements of the infected individuals have complicated the effort to trace the source of the Kenyan case."
+   },
+   {
+    "type": "p",
+    "text": "Both Kenya and Nigeria are conducting their own contact‑tracing and containment measures, while Uganda continues routine surveillance to prevent re‑introduction of the virus. The situation underscores the importance of coordinated monitoring across borders in East and West Africa."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outbreaks highlight travel‑related health risks and the need for vigilant monitoring that could affect international travelers from the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "Uganda says it has no active Ebola cases as of Oct. 25, 2026.",
+   "Kenya and Nigeria each report new Ebola infections, prompting cross‑border investigations.",
+   "Authorities are scrutinizing Entebbe Airport for possible links between the cases."
+  ],
+  "meta_description": "Uganda reports no active Ebola cases while Kenya and Nigeria face new infections, leading to investigations at Entebbe Airport.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ebola",
+   "Uganda",
+   "Kenya",
+   "Nigeria",
+   "health",
+   "travel"
+  ],
+  "slug": "uganda-reports-no-active-ebola-cases-amid-kenya-nigeria-8731e8",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-25T13:54:00Z"
+ },
+ {
+  "id": "d2f8191d8fa128d7",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o",
+  "source": "BBC Sport",
+  "source_title": "Fernandes dropped to Man Utd bench - was Carrick right?",
+  "source_summary": "Manchester United skipper Bruno Fernandes is dropped from the starting XI for Sunday's game against Bournemouth following his criticism of manager Michael Carrick.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e57/live/89f97e60-d070-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-25T13:26:13+00:00",
+  "headline": "Manchester United Bench Bruno Fernandes After Criticizing Carrick",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United manager Michael Carrick has removed captain Bruno Fernandes from the starting lineup for the club's upcoming Premier League match against Bournemouth. The decision follows Fernandes' public criticism of Carrick's tactics and management style."
+   },
+   {
+    "type": "p",
+    "text": "The change means Fernandes will begin the game on the bench, a notable shift for the Portuguese midfielder who has been a regular starter since joining United. Carrick, who took over as manager earlier this season, has faced scrutiny over the team's recent performances, and the benching underscores the growing tension within the squad."
+   },
+   {
+    "type": "p",
+    "text": "United will enter the Sunday fixture without Fernandes in the starting eleven, a move that could influence both the team's attacking options and the dynamics in the dressing room as they seek points against a mid‑table opponent."
+   }
+  ],
+  "key_points": [
+   "Bruno Fernandes has been dropped from United's starting XI for the Bournemouth match.",
+   "The benching follows Fernandes' criticism of manager Michael Carrick.",
+   "Carrick's decision highlights internal disagreements at the club."
+  ],
+  "meta_description": "Manchester United bench captain Bruno Fernandes after he criticized manager Michael Carrick ahead of the Bournemouth game.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Bruno Fernandes",
+   "Michael Carrick",
+   "Premier League",
+   "Bournemouth"
+  ],
+  "slug": "manchester-united-bench-bruno-fernandes-after-criticizing-carrick-d2f819",
+  "reading_minutes": 1,
+  "added": "2026-10-25T13:53:44Z"
+ },
+ {
+  "id": "b366ba776fde8cd4",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+  "source": "The Verge",
+  "source_title": "r/opensource just banned AI, non-English speakers, and more",
+  "source_summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source […]",
+  "source_tags": [
+   "AI",
+   "News",
+   "Reddit",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-25T13:25:32+00:00",
+  "headline": "r/opensource Subreddit Bans AI Projects and Non‑English Submissions",
+  "body": [
+   {
+    "type": "p",
+    "text": "Moderators of the Reddit community r/opensource announced new posting rules that prohibit any project that uses artificial intelligence, is created by AI, or is intended for AI. The announcement, posted on Saturday evening, states that AI, in its current form, conflicts with the subreddit’s open‑source principles."
+   },
+   {
+    "type": "p",
+    "text": "In addition to the AI restriction, the moderators also barred submissions from non‑English speakers, further tightening the community’s focus. The updated guidelines clarify that such content will not be welcomed on r/opensource."
+   },
+   {
+    "type": "p",
+    "text": "The changes reflect a growing debate within open‑source circles about the role of AI-generated code and the importance of language accessibility in collaborative development platforms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ban highlights tensions between emerging AI tools and traditional open‑source communities, affecting developers worldwide."
+   }
+  ],
+  "key_points": [
+   "r/opensource now excludes projects that involve AI in any capacity.",
+   "Submissions from non‑English speakers are also prohibited under the new rules.",
+   "Moderators cite a mismatch between current AI technology and open‑source values."
+  ],
+  "meta_description": "r/opensource subreddit bans AI projects and non‑English submissions, citing conflict with open‑source values.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "open source",
+   "artificial intelligence",
+   "Reddit",
+   "community guidelines",
+   "software development"
+  ],
+  "slug": "r-opensource-subreddit-bans-ai-projects-nonenglish-submissions-b366ba",
+  "reading_minutes": 1,
+  "added": "2026-10-25T13:53:47Z"
+ },
+ {
+  "id": "1c28c174b0bd6705",
+  "source_url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+  "source_summary": "Bayern Munich striker Harry Kane is the clear front-runner for football's most prestigious individual prize, which will be awarded on Monday. Kane has developed even more in the Bundesliga despite an uneven league.",
+  "source_tags": [
+   "Sports"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79657123_6.jpg",
+  "published": "2026-10-25T13:20:00+00:00",
+  "headline": "Harry Kane Emerges as Clear Front‑Runner for This Year’s Ballon d’Or",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bayern Munich’s English striker Harry Kane has positioned himself as the leading candidate for football’s most prestigious individual award, the Ballon d’Or, which will be presented on Monday. The accolade, traditionally dominated by players from the Spanish and French leagues, now appears within reach of the Premier League veteran after his move to Germany."
+   },
+   {
+    "type": "p",
+    "text": "Since joining Bayern, Kane has continued to refine his game, showing increased versatility and goal‑scoring consistency in the Bundesliga. Observers note that his development has been particularly notable given the league’s uneven competitive balance this season, highlighting his ability to adapt and thrive under varied conditions."
+   },
+   {
+    "type": "p",
+    "text": "Analysts and former players have cited Kane’s performances as a key factor in Bayern’s domestic success, reinforcing his reputation as one of the sport’s elite forwards. While the final voting results remain pending, the consensus among experts is that Kane stands out as the clear front‑runner for the award."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Kane’s potential win underscores the growing influence of the Bundesliga in global football and highlights a Premier League star’s impact in Germany, relevant to European and North American fans."
+   }
+  ],
+  "key_points": [
+   "Harry Kane is the leading contender for the Ballon d’Or to be awarded on Monday.",
+   "His continued development at Bayern Munich has been evident despite an uneven Bundesliga season."
+  ],
+  "meta_description": "Harry Kane is the clear front‑runner for the Ballon d’Or, set to be awarded Monday, after a strong season with Bayern Munich.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Harry Kane",
+   "Ballon d’Or",
+   "Bayern Munich",
+   "Bundesliga",
+   "football awards"
+  ],
+  "slug": "harry-kane-emerges-clear-frontrunner-this-years-ballon-dor-1c28c1",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-25T13:54:21Z"
+ },
+ {
+  "id": "25c539d6879b5c6b",
+  "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/trump-bukele-el-salvador-police-state",
+  "source": "The Guardian",
+  "source_title": "How to build a police state | William Wheeler",
+  "source_summary": "To understand where Trump is trying to take the US, we should look to the authoritarian playbook of his favorite ally: El Salvador’s Nayib Bukele One afternoon last year, Donald Trump welcomed “a friend” to the White House – El Salvador’s Nayib Bukele, the world’s most popular authoritarian. “I knew him as a very young man,” the US president said before the cameras. “He’s done a fantastic job. Mr President, it’s an honor to have you.” Since March 2022, when gangs in El Salvador murdered 87 people over a weekend, Bukele has maintained a state of emergency in which key civil liberties are suspended and 2% of the adult population has been jailed – about 100,000 people, at least half of whom are probably not gang members, say local rights groups. The narrative of “the Bukele miracle” – that he swiftly dismantled fearsome gangs and restored order – has made him an icon across Latin America, where a new host of rightwing leaders have sought to replicate his heavy-handed tactics. And in the US, Bukele’s overnight success as a strongman has made him a hero of the American right.",
+  "source_tags": [
+   "US politics",
+   "US news",
+   "Donald Trump",
+   "El Salvador",
+   "Americas",
+   "Trump administration",
+   "US policing",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/84977c6590f7f4ca1b516e49943649dd5b469323/0_347_2400_1919/master/2400.jpg?width=700&quality=85&auto=format&fit=max&s=363dcdfbd22664160d61231eaaa0e34e",
+  "published": "2026-10-25T13:00:03+00:00",
+  "headline": "Trump Hosts Authoritarian Ally Bukele Amid Rising US Right‑Wing Embrace",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a televised meeting last year, President Donald Trump welcomed El Salvador’s President Nayib Bukele to the White House, praising the young leader as a “fantastic” performer. Bukele, who has been described by some observers as the world’s most popular authoritarian, arrived amid growing admiration from segments of the American right."
+   },
+   {
+    "type": "p",
+    "text": "Since a March 2022 weekend in which gangs killed 87 people, Bukele has ruled El Salvador under a state of emergency that suspends key civil liberties. Local rights groups estimate that about 2 % of the adult population—roughly 100,000 people—have been incarcerated, and they argue that at least half of those detainees are likely not gang members."
+   },
+   {
+    "type": "p",
+    "text": "The so‑called “Bukele miracle,” credited with crushing violent gangs and restoring order, has become a model for right‑wing leaders across Latin America. Bukele’s rapid rise as a strongman has turned him into a hero for many U.S. conservatives, who see his tactics as a template for tackling crime and disorder at home."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The endorsement of Bukele’s authoritarian tactics by a U.S. president signals a shift in American political discourse toward more hard‑line crime policies."
+   }
+  ],
+  "key_points": [
+   "President Trump publicly praised El Salvador’s Nayib Bukele during a White House visit.",
+   "Bukele’s emergency measures have jailed about 100,000 people, with rights groups saying many are not gang members.",
+   "Bukele’s hard‑line approach is influencing right‑wing politicians in Latin America and the United States."
+  ],
+  "meta_description": "Trump lauds authoritarian leader Bukele, whose emergency rule has jailed 100,000 in El Salvador, inspiring right‑wing moves in the US and Latin America.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Nayib Bukele",
+   "authoritarianism",
+   "US politics",
+   "Latin America",
+   "civil liberties"
+  ],
+  "slug": "trump-hosts-authoritarian-ally-bukele-amid-rising-us-rightwing-25c539",
+  "reading_minutes": 1,
+  "added": "2026-10-25T13:53:52Z"
+ },
+ {
+  "id": "e359cae60f71c3bc",
+  "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
+  "source": "The Guardian",
+  "source_title": "FDR made it a blue bastion – now it’s Trump’s stronghold in California. Is it forever lost?",
+  "source_summary": "Shasta has embraced the Maga movement with gusto – can Democrats ever win back the rural, working-class voters they once relied upon? A crucial election was approaching and the country was desperate. Despite promises that economic conditions were improving, nearly a quarter of the US was out of work as voters headed to the polls in 1932. It was the darkest time since the civil war, a period so dire that in California’s capital people fought each other for work. In early 1931, a crowd of 200 men scuffled over a handful of temporary jobs moving back-breaking loads of granite, the Sacramento Bee reported.",
+  "source_tags": [
+   "California",
+   "US news",
+   "US politics",
+   "World news",
+   "West Coast",
+   "Democrats",
+   "Republicans",
+   "Donald Trump",
+   "US midterm elections 2026"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/8d482c44395d172442eaf5ae72440571139c5812/0_917_2250_1800/master/2250.jpg?width=700&quality=85&auto=format&fit=max&s=4db6eb8712830560de4dd54360078e84",
+  "published": "2026-10-25T13:00:03+00:00",
+  "headline": "From FDR’s Blue Bastion to Trump’s Stronghold in Shasta County",
+  "body": [
+   {
+    "type": "p",
+    "text": "Shasta County, once a reliable Democratic base during Franklin D. Roosevelt’s era, has transformed into a fervent MAGA enclave, according to recent political analysis. The shift reflects a broader realignment of rural, working‑class voters who once underpinned the New Deal coalition."
+   },
+   {
+    "type": "p",
+    "text": "The article recalls the desperation of the early 1930s, noting that in 1932 nearly a quarter of Americans were unemployed and that Sacramento’s streets saw men fighting over temporary granite‑moving jobs. That historic hardship set the stage for the Democratic dominance that later faded in places like Shasta."
+   },
+   {
+    "type": "p",
+    "text": "As a pivotal election approaches, Democrats face the challenge of reconnecting with the county’s labor‑oriented electorate, while Republicans view Shasta as a solid foothold in California’s increasingly polarized political landscape."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The realignment in Shasta mirrors a national trend of rural voters moving toward the Republican Party, influencing election outcomes in both the US and comparable European constituencies."
+   }
+  ],
+  "key_points": [
+   "Shasta County has shifted from a historic Democratic stronghold to a Trump‑aligned region.",
+   "The change highlights the difficulty Democrats have in winning back rural, working‑class voters.",
+   "Historical economic hardship in the 1930s is contrasted with today’s political realignment."
+  ],
+  "meta_description": "Shasta County's evolution from FDR's Democratic bastion to a Trump stronghold underscores shifting rural voter loyalties.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "California",
+   "Trump",
+   "rural voters",
+   "politics",
+   "Shasta County"
+  ],
+  "slug": "from-fdrs-blue-bastion-trumps-stronghold-shasta-county-e359ca",
+  "reading_minutes": 1,
+  "added": "2026-10-25T13:54:12Z"
+ },
+ {
+  "id": "0f3acba640db54a2",
+  "source_url": "https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html",
+  "source": "The New York Times",
+  "source_title": "Former ‘60 Minutes’ Boss to Join Video Journalism Start-Up",
+  "source_summary": "Bill Owens, who left the show after clashing with CBS executives, is joining Newpress, which publishes work from creators on YouTube.",
+  "source_tags": [
+   "News and News Media",
+   "Video Recordings, Downloads and Streaming",
+   "Appointments and Executive Changes",
+   "Start-ups",
+   "Newpress (News Co)",
+   "60 Minutes (TV Program)",
+   "CBS News",
+   "Emerson Collective",
+   "Owens, Bill (Television Executive)",
+   "Powell Jobs, Laurene"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22BIZ-NEWPRESS-czkv/22BIZ-NEWPRESS-czkv-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T12:56:27+00:00",
+  "headline": "Former ‘60 Minutes’ Executive Bill Owens Joins Newpress Video News Startup",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bill Owens, who recently left his role as executive producer of CBS’s flagship news program ‘60 Minutes’ after a reported clash with network executives, has taken a new position at the video‑journalism start‑up Newpress."
+   },
+   {
+    "type": "p",
+    "text": "Newpress, a platform that curates and publishes news content created by independent creators on YouTube, announced Owens’s appointment as part of its effort to bring seasoned newsroom leadership to its digital‑first model."
+   },
+   {
+    "type": "p",
+    "text": "The move signals a shift for a veteran broadcast journalist toward the rapidly expanding arena of online video news, where platforms like YouTube are becoming key distribution channels for breaking stories and investigative pieces."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The appointment highlights the media industry's pivot toward online video platforms, a trend that could reshape how U.S. and European audiences receive investigative journalism."
+   }
+  ],
+  "key_points": [
+   "Bill Owens, former ‘60 Minutes’ executive producer, joins Newpress.",
+   "Newpress focuses on publishing creator‑generated news videos on YouTube.",
+   "The hire reflects growing interest in digital‑first news distribution."
+  ],
+  "meta_description": "Former ‘60 Minutes’ executive Bill Owens joins YouTube‑focused news start‑up Newpress, underscoring a shift to digital video journalism.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "media",
+   "journalism",
+   "Bill Owens",
+   "Newpress",
+   "YouTube",
+   "digital news"
+  ],
+  "slug": "former-60-minutes-executive-bill-owens-joins-newpress-video-0f3acb",
+  "reading_minutes": 1,
+  "added": "2026-10-25T13:53:56Z"
+ },
+ {
+  "id": "8d30199c7196afd3",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo",
+  "source": "BBC Sport",
+  "source_title": "Anderson stops short of retiring after Lancashire exit",
+  "source_summary": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbf/live/48819e90-cedb-11f1-8507-45cb00a1c41c.jpg",
+  "published": "2026-10-25T12:03:17+00:00",
+  "headline": "James Anderson Mourns Lancashire Release, Leaves Retirement Unclear",
+  "body": [
+   {
+    "type": "p",
+    "text": "England fast‑bowling legend James Anderson said he was \"sad\" after Lancashire announced his release, ending a 23‑year stint with the county. The 44‑year‑old bowler, who has taken more than 1,000 first‑class wickets, stopped short of confirming whether he will hang up his boots for good."
+   },
+   {
+    "type": "p",
+    "text": "Anderson, a mainstay of both Lancashire and the England Test side, highlighted his gratitude for the support he received over two decades, but emphasized that his future in professional cricket remains undecided. He did not rule out the possibility of playing elsewhere or taking on a coaching role, leaving fans and pundits speculating about his next move."
+   },
+   {
+    "type": "p",
+    "text": "The decision comes as Lancashire reshapes its squad ahead of the upcoming season, and Anderson's departure marks the end of an era for a player who has been integral to the club’s successes, including multiple County Championship titles."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Anderson is one of the most successful fast bowlers in cricket history, and his potential retirement would affect both English and international cricket landscapes."
+   }
+  ],
+  "key_points": [
+   "James Anderson expressed sadness after Lancashire released him after 23 years.",
+   "He has not confirmed retirement, leaving his future in cricket uncertain.",
+   "Anderson's exit signals the end of a significant chapter for the county club."
+  ],
+  "meta_description": "James Anderson says he's sad after Lancashire release but stops short of confirming retirement, leaving his cricket future uncertain.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "James Anderson",
+   "Lancashire",
+   "cricket retirement",
+   "England cricket",
+   "fast bowling",
+   "County Championship"
+  ],
+  "slug": "james-anderson-mourns-lancashire-release-leaves-retirement-unclear-8d3019",
+  "reading_minutes": 1,
+  "added": "2026-10-25T13:54:03Z"
+ },
+ {
+  "id": "3f2344a578946a79",
+  "source_url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+  "source": "CNBC",
+  "source_title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+  "source_summary": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108448204-1792698576376-gettyimages-2235177281-McGregor250915NYCbusinesses04.jpeg?v=1792698756&w=1920&h=1080",
+  "published": "2026-10-25T12:00:01+00:00",
+  "headline": "Wonder Leans Into Automation and User-Built Restaurants Ahead of IPO",
+  "body": [
+   {
+    "type": "p",
+    "text": "Food‑service startup Wonder is intensifying its focus on automation and a new model of user‑built restaurants as it readies itself for a possible public offering. Founder Marc Lore is steering the company toward technologies that streamline kitchen operations and empower customers to shape dining concepts."
+   },
+   {
+    "type": "p",
+    "text": "The shift reflects Wonder’s strategy to differentiate itself in a crowded market by combining high‑tech efficiency with a participatory restaurant experience. By aligning these initiatives with an anticipated IPO, the company aims to attract investors interested in innovative food‑tech solutions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move signals growing investor interest in tech‑driven food services, a trend that could reshape dining experiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Wonder is increasing investment in automation for its restaurant operations.",
+   "The startup is introducing user‑built restaurant concepts to engage customers.",
+   "Founder Marc Lore is positioning the company for a potential initial public offering."
+  ],
+  "meta_description": "Wonder ramps up automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Marc Lore",
+   "Wonder",
+   "automation",
+   "restaurant innovation",
+   "IPO",
+   "food tech"
+  ],
+  "slug": "wonder-leans-into-automation-user-built-restaurants-ahead-ipo-3f2344",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-25T13:54:16Z"
+ },
+ {
+  "id": "99c99157c7fa1579",
+  "source_url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+  "source": "The Verge",
+  "source_title": "Google’s AI search changes upended online publishing",
+  "source_summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+  "source_tags": [
+   "AI",
+   "Column",
+   "The Stepback"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-25T12:00:00+00:00",
+  "headline": "Google AI Search Overhaul Disrupts Digital Publishing Landscape",
+  "body": [
+   {
+    "type": "p",
+    "text": "Google’s latest AI‑driven search updates are reshaping how online publishers reach readers, according to a new analysis in The Verge’s weekly newsletter, The Stepback. The newsletter, edited by Emma Roth, examines the ripple effects of the search engine’s algorithm changes on traffic, revenue and content strategy for media outlets."
+   },
+   {
+    "type": "p",
+    "text": "The report notes that publishers, which have long depended on Google’s search referrals, are seeing shifts in visibility as AI‑enhanced results prioritize concise, AI‑generated summaries over traditional article links. This trend forces news sites to adapt their SEO tactics and explore alternative distribution channels to maintain audience reach."
+   },
+   {
+    "type": "p",
+    "text": "The Stepback, delivered each Sunday at 8 AM ET, highlights that the industry’s response may include greater emphasis on original reporting, subscription models and diversified traffic sources to offset the uncertainty introduced by Google’s AI search rollout."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Changes to Google’s search algorithm affect how U.S. and European audiences discover news, influencing media revenue and the diversity of information online."
+   }
+  ],
+  "key_points": [
+   "Google’s AI search updates are reducing referral traffic for many online publishers.",
+   "Publishers must revise SEO strategies and consider new distribution methods.",
+   "The Verge’s The Stepback newsletter tracks these industry shifts weekly."
+  ],
+  "meta_description": "Google's AI search changes are disrupting online publishing, prompting media outlets to adapt their SEO and distribution strategies.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Google",
+   "AI search",
+   "digital publishing",
+   "SEO",
+   "media industry",
+   "The Verge"
+  ],
+  "slug": "google-ai-search-overhaul-disrupts-digital-publishing-landscape-99c991",
+  "reading_minutes": 1,
+  "added": "2026-10-25T13:54:07Z"
+ },
+ {
+  "id": "f5585065ea94ff94",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/c60mekrgx4zvo",
+  "source": "BBC Sport",
+  "source_title": "Australia reach World Cup semis & New Zealand get back on track",
+  "source_summary": "Australia edge to a 36-22 victory in a pulsating Group A match against Fiji to book their place in the Rugby League World Cup semi-finals.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ac/live/f5794060-d063-11f1-bbf5-99ed69f0d81f.jpg",
+  "published": "2026-10-25T11:21:50+00:00",
+  "headline": "Australia Beats Fiji 36-22 to Reach Rugby League World Cup Semis",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australia edged Fiji 36-22 in a thrilling Group A encounter at the Rugby League World Cup, securing a place in the semi‑finals. The match saw a back‑and‑forth exchange of scores before the Kangaroos pulled ahead in the closing stages to clinch the win."
+   },
+   {
+    "type": "p",
+    "text": "In the same round of fixtures, New Zealand recorded a victory, putting their campaign back on track after earlier setbacks. Both teams now look ahead to the knockout phase as the tournament progresses."
+   }
+  ],
+  "key_points": [
+   "Australia defeated Fiji 36-22 to advance to the World Cup semi‑finals.",
+   "New Zealand rebounded with a win, keeping their World Cup hopes alive."
+  ],
+  "meta_description": "Australia beats Fiji 36-22 to reach Rugby League World Cup semi‑finals, while New Zealand secures a win to stay in contention.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "world cup",
+   "australia",
+   "fiji",
+   "new zealand",
+   "rugby league"
+  ],
+  "slug": "australia-beats-fiji-36-22-reach-rugby-league-world-f55850",
+  "reading_minutes": 1,
+  "added": "2026-10-25T13:54:24Z"
+ },
+ {
   "id": "9239c240109f0242",
   "source_url": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
