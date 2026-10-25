@@ -1,5 +1,604 @@
 [
  {
+  "id": "9239c240109f0242",
+  "source_url": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Prague honours Roma resistance fighters against Hitler",
+  "source_summary": "More than 1,400 Roma fought against the German Nazi occupation in Czechoslovakia. A new exhibition in Prague showcases the stories of partisans and soldiers whose fates barely received any attention for decades.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79696163_6.jpg",
+  "published": "2026-10-25T09:17:00+00:00",
+  "headline": "Prague Exhibition Highlights Roma Resistance Fighters Against Nazis",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new exhibition in Prague is bringing to light the largely forgotten role of Roma partisans who fought the German Nazi occupation in Czechoslovakia. More than 1,400 Roma men and women took up arms as soldiers and guerrilla fighters, joining the broader resistance movement against Hitler’s forces."
+   },
+   {
+    "type": "p",
+    "text": "The display presents personal stories, photographs, and artifacts that document the bravery and sacrifice of these individuals, whose contributions have received little attention for decades. Curators emphasize that the Roma fighters operated alongside Czech and Slovak partisans, engaging in sabotage, intelligence gathering, and direct combat."
+   },
+   {
+    "type": "p",
+    "text": "Organizers hope the exhibition will broaden public understanding of the diverse groups that opposed Nazi rule and encourage further research into minority participation in World War II. The project is part of a wider effort to acknowledge overlooked chapters of European history."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Recognizing Roma resistance fighters adds depth to the narrative of World War II and highlights the multicultural nature of anti‑Nazi efforts across Europe."
+   }
+  ],
+  "key_points": [
+   "Over 1,400 Roma joined the anti‑Nazi resistance in occupied Czechoslovakia.",
+   "A Prague exhibition now showcases their stories, photos and artifacts.",
+   "The exhibit aims to raise awareness of minority contributions to WWII."
+  ],
+  "meta_description": "Prague's new exhibition reveals the overlooked role of Roma partisans who fought Nazi occupation in Czechoslovakia.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Roma",
+   "World War II",
+   "Czech Republic",
+   "Resistance",
+   "Exhibition",
+   "History"
+  ],
+  "slug": "prague-exhibition-highlights-roma-resistance-fighters-against-nazis-9239c2",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-25T09:21:02Z"
+ },
+ {
+  "id": "acf02c7de9a8e47b",
+  "source_url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+  "source_summary": "The US is helping Saudi Arabia fight the Houthi group in Yemen with AI-assisted targeting. But AI is not a magic bullet, experts say, and there are technological, political and human rights issues to consider.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/78307185_6.jpg",
+  "published": "2026-10-25T09:13:00+00:00",
+  "headline": "US Provides AI Targeting Support to Saudi in Yemen Conflict",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United States is assisting Saudi Arabia with artificial‑intelligence tools to improve targeting of the Houthi rebels in Yemen, according to recent reports. The AI systems are intended to help identify and strike militant positions more accurately."
+   },
+   {
+    "type": "p",
+    "text": "Experts caution that the technology is not a cure‑all, noting technical limitations and the risk of errors in complex combat environments. They also warn that reliance on AI could raise political and human‑rights concerns, especially given the civilian toll of the war."
+   },
+   {
+    "type": "p",
+    "text": "The partnership reflects Saudi Arabia’s push for a technological edge in the conflict, while the United States seeks to bolster its ally’s capabilities without direct troop involvement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The development shows how AI is being integrated into modern warfare, raising implications for US allies and European policymakers concerned about escalation and civilian protection."
+   }
+  ],
+  "key_points": [
+   "The US is supplying AI‑based targeting assistance to Saudi forces fighting Yemen’s Houthis.",
+   "Analysts say AI cannot guarantee precision and may exacerbate political and humanitarian issues.",
+   "Saudi Arabia aims to gain a technological advantage in the protracted Yemen war."
+  ],
+  "meta_description": "The US is helping Saudi Arabia use AI for targeting in Yemen, but experts warn of technical limits and human‑rights risks.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US foreign policy",
+   "Saudi Arabia",
+   "Yemen conflict",
+   "AI warfare",
+   "human rights"
+  ],
+  "slug": "us-provides-ai-targeting-support-saudi-yemen-conflict-acf02c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-25T09:21:21Z"
+ },
+ {
+  "id": "a9c188b5d059a959",
+  "source_url": "https://www.nytimes.com/2026/10/25/us/politics/polls-pennsylvania-house-midterms-battlegrounds.html",
+  "source": "The New York Times",
+  "source_title": "Democrats Have Edge Across Four Key House Races in Pennsylvania, Polls Find",
+  "source_summary": "Democratic candidates are ahead in two, hold a narrow edge in a third and are tied in a fourth, new polling shows. The seats embody the fights playing out nationwide in the midterms.",
+  "source_tags": [
+   "Polls and Public Opinion",
+   "Midterm Elections (2026)",
+   "Pennsylvania"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/2026-10-16-national-poll-pa/2026-10-16-national-poll-pa-mediumSquareAt3X-v11.png",
+  "published": "2026-10-25T09:01:59+00:00",
+  "headline": "Democrats Lead in Three of Four Crucial Pennsylvania House Races",
+  "body": [
+   {
+    "type": "p",
+    "text": "New polling data shows Democratic candidates holding an advantage in three of Pennsylvania's four pivotal U.S. House contests. The party is ahead in two districts, maintains a slim lead in a third, and is dead‑locked in the fourth."
+   },
+   {
+    "type": "p",
+    "text": "These races are seen as microcosms of the broader national battles shaping the 2026 midterm elections, reflecting voter sentiment in swing districts across the country."
+   },
+   {
+    "type": "p",
+    "text": "The tight margins underscore the competitive nature of the upcoming November vote, with both parties targeting the Commonwealth as a key battleground."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The results could influence control of the U.S. House and signal broader electoral trends for voters in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Democrats are ahead in two Pennsylvania House districts and have a narrow edge in a third.",
+   "One of the four key races remains tied, highlighting the overall competitiveness.",
+   "The outcomes are viewed as bellwethers for the national midterm landscape."
+  ],
+  "meta_description": "Polls show Democrats leading in three of four key Pennsylvania House races, signaling competitive midterm battles.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pennsylvania",
+   "House races",
+   "midterms",
+   "Democrats",
+   "polling",
+   "U.S. elections"
+  ],
+  "slug": "democrats-lead-three-four-crucial-pennsylvania-house-races-a9c188",
+  "reading_minutes": 1,
+  "added": "2026-10-25T09:21:05Z"
+ },
+ {
+  "id": "066dc3c3aa0b6d2b",
+  "source_url": "https://www.nytimes.com/2026/10/25/business/my-co-worker-is-losing-it-over-my-religion.html",
+  "source": "The New York Times",
+  "source_title": "My Co-Worker Is Losing It Over My Religion",
+  "source_summary": "Plus: Reader responses to a woman returning to the office after two decades of self-employment.",
+  "source_tags": [
+   "Workplace Environment",
+   "Labor and Jobs",
+   "Freedom of Religion",
+   "Buddhism",
+   "Discrimination",
+   "Workplace Hazards and Violations"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25bizsun-workfriend-illo-vgpc/25bizsun-workfriend-illo-vgpc-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T09:01:59+00:00",
+  "headline": "Workplace Religion Tensions Spark Reader Reactions to Returnee Story",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent New York Times column explores the strain a co‑worker feels when a colleague’s religious beliefs become a point of conflict in the office. The piece highlights personal anecdotes that illustrate how differing faith perspectives can affect workplace dynamics."
+   },
+   {
+    "type": "p",
+    "text": "The article also features a collection of reader responses to a separate story about a woman who rejoined the workforce after twenty years of self‑employment. Commenters share their own experiences and opinions on navigating long‑term career gaps and the challenges of reintegration."
+   },
+   {
+    "type": "p",
+    "text": "Both sections underscore the broader conversation about inclusion, respect, and adaptability in modern professional environments, reflecting a range of viewpoints from the newspaper’s audience."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "These topics highlight ongoing debates about religious tolerance and career re‑entry, issues relevant to employers and employees across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The column discusses a co‑worker’s discomfort with a colleague’s religion in the workplace.",
+   "Reader letters react to a story about a woman returning to work after two decades of self‑employment."
+  ],
+  "meta_description": "NYT column examines workplace religious tension and reader reactions to a woman returning after 20 years of self‑employment.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "workplace",
+   "religion",
+   "career gaps",
+   "employee reintegration",
+   "reader responses"
+  ],
+  "slug": "workplace-religion-tensions-spark-reader-reactions-returnee-story-066dc3",
+  "reading_minutes": 1,
+  "added": "2026-10-25T09:21:09Z"
+ },
+ {
+  "id": "130ce1ef14ab9415",
+  "source_url": "https://www.nytimes.com/2026/10/25/us/politics/latino-voters-poll-midterm-elections.html",
+  "source": "The New York Times",
+  "source_title": "Latinos Are Now America’s Most Important Swing Voters",
+  "source_summary": "Latinos helped fuel President Trump’s return to the White House. But Democrats have won back the trust of many Hispanic voters over the past two years.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Hispanic-Americans",
+   "Polls and Public Opinion",
+   "Trump, Donald J",
+   "New York Times/Siena College Poll"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-poll-latinos-kqzb/23pol-poll-latinos-kqzb-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T09:01:38+00:00",
+  "headline": "Latinos Emerge as America’s Key Swing Voter Group",
+  "body": [
+   {
+    "type": "p",
+    "text": "Recent analysis shows that Latino voters have become the most decisive swing constituency in the United States. Their support was instrumental in President Donald Trump’s successful bid to return to the White House this election cycle."
+   },
+   {
+    "type": "p",
+    "text": "In the two years following the election, Democratic campaigns have made significant inroads with Hispanic voters, rebuilding trust that had eroded in earlier contests. Party officials attribute this shift to targeted outreach and policy proposals that resonated with Latino communities."
+   },
+   {
+    "type": "p",
+    "text": "Political strategists warn that both parties will need to maintain focused engagement with Latino voters as the demographic continues to grow in influence across national and local races."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The growing sway of Latino voters could shape upcoming elections in the U.S. and affect policy priorities that also interest European partners."
+   }
+  ],
+  "key_points": [
+   "Latinos played a pivotal role in President Trump’s recent electoral victory.",
+   "Democrats have regained confidence among many Hispanic voters over the past two years.",
+   "Both parties now view Latino voters as the nation’s most important swing bloc."
+  ],
+  "meta_description": "Latino voters are now the top swing group in the U.S., influencing Trump’s win and prompting Democrats to rebuild trust.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Latino voters",
+   "swing voters",
+   "U.S. elections",
+   "Democratic Party",
+   "Republican Party"
+  ],
+  "slug": "latinos-emerge-americas-key-swing-voter-group-130ce1",
+  "reading_minutes": 1,
+  "added": "2026-10-25T09:21:25Z"
+ },
+ {
+  "id": "e552124a1fc49605",
+  "source_url": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
+  "source": "The New York Times",
+  "source_title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
+  "source_summary": "At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market.",
+  "source_tags": [
+   "Personal Finances",
+   "Tuition",
+   "Colleges and Universities",
+   "University of California, Berkeley",
+   "University of California, Irvine",
+   "University of California, Santa Barbara",
+   "Real Estate and Housing (Residential)",
+   "Student Loans",
+   "Berkeley (Calif)",
+   "Irvine (Calif)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24Biz-UC-50-lede-lkcm/24Biz-UC-50-lede-lkcm-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T09:01:31+00:00",
+  "headline": "UC Berkeley, Irvine, and Santa Barbara Tuition Tops $50,000",
+  "body": [
+   {
+    "type": "p",
+    "text": "Students at three University of California campuses—Berkeley, Irvine and Santa Barbara—are now facing annual price tags that exceed $50,000. The steep tuition and fee increases have pushed the total cost of attendance into the range traditionally associated with private institutions."
+   },
+   {
+    "type": "p",
+    "text": "Beyond classroom expenses, the rising price tag forces students to become inadvertent experts in the housing market. With limited on‑campus housing and soaring rents in surrounding communities, many are compelled to navigate complex lease agreements, roommate searches and budgeting challenges while pursuing their degrees."
+   },
+   {
+    "type": "p",
+    "text": "University officials acknowledge the financial pressure but point to broader state budget constraints and the need to maintain competitive academic programs. Meanwhile, student groups are calling for greater transparency and expanded financial aid to mitigate the burden."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The surge in public university costs highlights growing affordability challenges for higher education in the U.S. and mirrors similar tuition pressures faced by European institutions."
+   }
+  ],
+  "key_points": [
+   "Annual tuition at UC Berkeley, Irvine and Santa Barbara now exceeds $50,000.",
+   "High costs are driving students to manage housing market complexities alongside their studies.",
+   "University leaders cite budget pressures while students demand more aid."
+  ],
+  "meta_description": "UC Berkeley, Irvine and Santa Barbara tuition now tops $50,000, forcing students to juggle education and housing market challenges.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tuition",
+   "university of california",
+   "housing market",
+   "student debt",
+   "education costs"
+  ],
+  "slug": "uc-berkeley-irvine-santa-barbara-tuition-tops-50-000-e55212",
+  "reading_minutes": 1,
+  "added": "2026-10-25T09:21:29Z"
+ },
+ {
+  "id": "bff2fc6a0d6ce918",
+  "source_url": "https://www.nytimes.com/2026/10/25/business/the-long-life-of-the-snacking-occasiong-glp1.html",
+  "source": "The New York Times",
+  "source_title": "The Long Life of the ‘Snacking Occasion’",
+  "source_summary": "As eating habits shift, the food industry is promoting any opportunity to nibble.",
+  "source_tags": [
+   "Snack Foods",
+   "Consumer Behavior",
+   "Weight",
+   "GLP-1 RAs (Drug)",
+   "Proteins",
+   "English Language",
+   "JM Smucker Company",
+   "El Pollo Loco",
+   "Hostess Brands",
+   "Slang"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/25/business/25shoptalk-snack-illo/25shoptalk-snack-illo-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T09:01:29+00:00",
+  "headline": "Food Industry Expands Snacking Occasion as Eating Habits Evolve",
+  "body": [
+   {
+    "type": "p",
+    "text": "Changing patterns in how people eat are prompting the food sector to broaden the definition of a \"snacking occasion.\" With more consumers moving away from traditional three‑meal structures, companies are positioning a wider range of moments—between meetings, during commutes, or while working from home—as opportunities to reach buyers."
+   },
+   {
+    "type": "p",
+    "text": "Marketers are now emphasizing convenience, portion size and flavor variety to capture these micro‑moments. The strategy includes launching new product lines, repackaging existing items for on‑the‑go consumption, and leveraging digital advertising that highlights quick, bite‑sized options."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that this shift reflects a longer‑term trend rather than a temporary fad, suggesting that the snack category could sustain higher growth rates as the line between meals and snacks continues to blur."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The growing snack market influences food pricing, product availability, and health discussions for consumers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Consumers are increasingly abandoning rigid meal schedules, creating more frequent snacking moments.",
+   "Food companies are adapting by promoting convenience and variety to capture these new occasions.",
+   "The expansion of snacking is viewed as a durable change in eating behavior."
+  ],
+  "meta_description": "Food firms are redefining snacking as eating habits shift, targeting new bite‑size moments for growth.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "snacking",
+   "food industry",
+   "consumer trends",
+   "nutrition",
+   "marketing"
+  ],
+  "slug": "food-industry-expands-snacking-occasion-eating-habits-evolve-bff2fc",
+  "reading_minutes": 1,
+  "added": "2026-10-25T09:21:45Z"
+ },
+ {
+  "id": "9b7e882a14f8e39e",
+  "source_url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-4-killer-tasks.html",
+  "source": "The New York Times",
+  "source_title": "Put Your A.I. Agents to Work with These 4 Killer Tasks",
+  "source_summary": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+  "source_tags": [
+   "Computers and the Internet",
+   "Artificial Intelligence",
+   "Mobile Applications",
+   "Content Type: Service",
+   "Meta Platforms Inc",
+   "OpenAI Labs",
+   "Restaurants",
+   "ChatGPT",
+   "Innovation",
+   "Cooking and Cookbooks"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/16/business/00techfix/00techfix-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T09:01:00+00:00",
+  "headline": "AI Agents Streamline Job Applications and Elite Restaurant Bookings",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta’s new Muse platform and OpenAI’s recently launched Dots tool are being promoted for four high‑impact tasks, according to a recent New York Times guide. The article highlights how these AI agents can automate the process of applying for jobs, handling résumé tailoring and submission without human oversight."
+   },
+   {
+    "type": "p",
+    "text": "Another highlighted use case is securing reservations at hard‑to‑get restaurants, where the agents can monitor availability and book tables faster than a person could manually. The guide suggests that once users adopt these capabilities, they may find traditional methods cumbersome."
+   },
+   {
+    "type": "p",
+    "text": "The piece positions these tools as “killer tasks” that could reshape everyday productivity, encouraging early adopters to integrate AI agents into routine workflows."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For readers in the US and Europe, these AI agents could streamline time‑consuming activities, influencing both personal productivity and the broader adoption of AI in daily life."
+   }
+  ],
+  "key_points": [
+   "Meta’s Muse and OpenAI’s Dots can automate job applications and restaurant reservations.",
+   "The tools are presented as high‑value tasks that could replace manual effort.",
+   "Early adopters may see a lasting shift in how they manage everyday tasks."
+  ],
+  "meta_description": "Meta’s Muse and OpenAI’s Dots automate job applications and elite restaurant bookings, promising a shift in everyday productivity.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI agents",
+   "automation",
+   "job search",
+   "restaurant reservations",
+   "Meta",
+   "OpenAI"
+  ],
+  "slug": "ai-agents-streamline-job-applications-elite-restaurant-bookings-9b7e88",
+  "reading_minutes": 1,
+  "added": "2026-10-25T09:21:13Z"
+ },
+ {
+  "id": "f592a365e838e6dc",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
+  "source": "The Guardian",
+  "source_title": "US seized American heir’s cellphone in violation of treaty agreement, lawyer says",
+  "source_summary": "James ‘Fergie’ Chambers, in prison in Spain, has applied for asylum as US seeks extradition over alleged Hamas support US authorities seized wealthy activist James “Fergie” Chambers’s cellphone at some point after Spanish police arrested him in July without notifying him or his attorneys, the Guardian has learned. Chambers, a US citizen and wealthy donor to leftwing and humanitarian projects, is imprisoned in Madrid. His case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation tied to money Chambers has donated to support Palestinians, including the Sameer Project , in Gaza.",
+  "source_tags": [
+   "FBI",
+   "Trump administration",
+   "Spain",
+   "US justice system",
+   "US crime",
+   "US news",
+   "US foreign policy",
+   "Europe",
+   "US politics",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/5ee6419d2d9d2c9c71788b9331a935f477223ac7/347_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=492d5dbc51ec41dc78018dbd07a4e9a8",
+  "published": "2026-10-25T09:00:58+00:00",
+  "headline": "US Seizes Cellphone of American Activist Chambers After Spain Arrest",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. authorities confiscated the mobile phone of James “Fergie” Chambers, a U.S. citizen and prominent donor to left‑wing and humanitarian causes, sometime after Spanish police detained him in Madrid in July. According to Chambers’s lawyer, the seizure occurred without informing Chambers or his legal team, a step the lawyer says breaches the treaty that governs U.S.‑Spain law‑enforcement cooperation."
+   },
+   {
+    "type": "p",
+    "text": "Chambers, who is being held in a Spanish prison, has filed an asylum request while the United States pursues his extradition on accusations that he supported Hamas. The allegations stem from donations he made to projects such as the Sameer Project, which provides aid to Palestinians in Gaza. This is the first known instance of the U.S. seeking to extradite an American citizen on Hamas‑related charges."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts note that the phone’s seizure could complicate the extradition process, as it raises questions about evidence handling and treaty obligations. The case highlights the tension between national security investigations and the rights of individuals under international agreements."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute underscores how treaty breaches can affect extradition cases and raises concerns about privacy and due process for U.S. citizens abroad."
+   }
+  ],
+  "key_points": [
+   "U.S. officials seized Chambers’s cellphone after his July arrest in Spain without notifying his lawyers, allegedly violating a bilateral treaty.",
+   "The United States is seeking Chambers’s extradition on alleged Hamas support, marking the first such case involving an American citizen."
+  ],
+  "meta_description": "US seized the cellphone of American activist James Chambers after his arrest in Spain, prompting claims of treaty violation amid extradition efforts.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US",
+   "Spain",
+   "extradition",
+   "Hamas",
+   "privacy",
+   "treaty"
+  ],
+  "slug": "us-seizes-cellphone-american-activist-chambers-after-spain-arrest-f592a3",
+  "reading_minutes": 1,
+  "added": "2026-10-25T09:21:41Z"
+ },
+ {
+  "id": "efd6b68052c38572",
+  "source_url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
+  "source": "BBC News",
+  "source_title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+  "source_summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg",
+  "published": "2026-10-25T09:00:00+00:00",
+  "headline": "SpaceX Temporarily Cut Ukraine’s Starlink Over Service Violation",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk said SpaceX limited Ukraine’s access to its Starlink satellite network after the government allegedly breached the service’s terms by employing it for military purposes. The restriction was lifted later, restoring full connectivity for Ukrainian users."
+   },
+   {
+    "type": "p",
+    "text": "Musk’s statement, made on Tuesday, accused Ukrainian officials of using the broadband service to support combat operations, which he said contravened the civilian‑only usage policy outlined in the contract. He added that the company acted to protect the integrity of the network and its broader customer base."
+   },
+   {
+    "type": "p",
+    "text": "The interruption lasted several days, during which Ukrainian authorities reported reduced internet speeds and limited access to critical communications. After discussions with SpaceX, the service was reinstated, and the company emphasized that future violations could trigger similar actions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights the growing influence of private satellite providers on wartime communications and raises questions about how service terms are enforced in conflict zones."
+   }
+  ],
+  "key_points": [
+   "SpaceX restricted Ukraine’s Starlink after alleging the network was used for military activity.",
+   "The service was restored after a brief suspension, ending the connectivity disruption.",
+   "Musk warned that further breaches of the civilian‑only terms could lead to additional cuts."
+  ],
+  "meta_description": "SpaceX briefly cut Ukraine's Starlink over alleged military use, then restored service, according to Elon Musk.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "SpaceX",
+   "Starlink",
+   "Ukraine",
+   "satellite internet",
+   "Elon Musk"
+  ],
+  "slug": "spacex-temporarily-cut-ukraines-starlink-over-service-violation-efd6b6",
+  "reading_minutes": 1,
+  "added": "2026-10-25T09:21:37Z"
+ },
+ {
   "id": "72399fd31e93a529",
   "source_url": "https://www.bbc.co.uk/iplayer/live/bbcone",
   "source": "BBC Sport",
@@ -51,6 +650,99 @@
   "slug": "premier-league-highlights-feature-five-games-last-season-s-72399f",
   "reading_minutes": 1,
   "added": "2026-10-24T21:31:50Z"
+ },
+ {
+  "id": "b1a5236735d03f3d",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ck78p37y5508o",
+  "source": "BBC Sport",
+  "source_title": "What Man Utd need now is stability, not more changes - Pulis",
+  "source_summary": "BBC Sport columnist Tony Pulis explains why Bruno Fernandes' comments after Manchester United's defeat by Como showed how hard it must be to run the club at the moment.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg",
+  "published": "2026-10-25T06:34:07+00:00",
+  "headline": "Pulis Says United Must Prioritize Stability Over Further Changes",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC Sport columnist Tony Pulis argued that Manchester United should focus on stability rather than introducing additional changes. He made the comment after midfielder Bruno Fernandes spoke about the club’s difficulties following a loss to Como."
+   },
+   {
+    "type": "p",
+    "text": "Pulis highlighted that Fernandes’ remarks underscored how challenging it is to manage United at the present time. The former manager suggested that constant turnover in staff and strategy hampers the team’s ability to recover and perform consistently."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Manchester United’s fortunes affect global football markets and fan engagement across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Tony Pulis urges Manchester United to seek stability instead of more changes.",
+   "Bruno Fernandes’ post‑defeat comments illustrate the club’s current management challenges."
+  ],
+  "meta_description": "Tony Pulis says Manchester United needs stability, not further changes, after Bruno Fernandes' comments on the club’s recent defeat.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Tony Pulis",
+   "Bruno Fernandes",
+   "club stability",
+   "football management"
+  ],
+  "slug": "pulis-says-united-must-prioritize-stability-over-further-changes-b1a523",
+  "reading_minutes": 1,
+  "added": "2026-10-25T09:21:17Z"
+ },
+ {
+  "id": "e7030def546a1444",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c94g1p32gyrro",
+  "source": "BBC Sport",
+  "source_title": "Why are Liverpool struggling for Premier League goals?",
+  "source_summary": "Liverpool have scored 15 goals in four cup games this season, but have managed only nine goals in seven Premier League matches.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22de/live/486f0aa0-cd5f-11f1-b962-b7ff822cde72.jpg",
+  "published": "2026-10-25T06:26:00+00:00",
+  "headline": "Liverpool's Goal Drought Persists in Premier League Compared to Cups",
+  "body": [
+   {
+    "type": "p",
+    "text": "Liverpool have found the net more often in cup competitions than in the Premier League this season. Across four cup fixtures they have recorded 15 goals, a rate that highlights their attacking potential in knockout formats."
+   },
+   {
+    "type": "p",
+    "text": "In contrast, the club's league form shows a stark difference, with only nine goals scored in seven Premier League matches. This lower output has contributed to concerns about the team's ability to secure points consistently in the domestic title race."
+   },
+   {
+    "type": "p",
+    "text": "The disparity between cup and league scoring underscores a broader issue for the Reds, as they seek to translate cup success into regular league performances."
+   }
+  ],
+  "key_points": [
+   "Liverpool have scored 15 goals in four cup games this season.",
+   "The team has managed just nine goals in seven Premier League matches.",
+   "The contrast points to a goal-scoring problem in league play."
+  ],
+  "meta_description": "Liverpool have netted 15 cup goals but only nine in seven Premier League games, highlighting a scoring slump in the league.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Premier League",
+   "goal drought",
+   "cup competitions",
+   "football"
+  ],
+  "slug": "liverpool-s-goal-drought-persists-premier-league-compared-cups-e7030d",
+  "reading_minutes": 1,
+  "added": "2026-10-25T09:21:33Z"
  },
  {
   "id": "177ee20d981065d6",
