@@ -1,5 +1,654 @@
 [
  {
+  "id": "c14780fb38f3e40a",
+  "source_url": "https://www.dw.com/en/brazil-elections-vote-counting-resumes-after-extension/live-79755630?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Brazil elections: Vote counting resumes after extension",
+  "source_summary": "Votes are being tallied after polling was extended two more hours. The result between leftist Lula and right-wing Bolsonaro is expected to be very close. DW has the latest.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79752449_6.jpg",
+  "published": "2026-10-25T22:15:00+00:00",
+  "headline": "Brazil Vote Counting Resumes After Two‑Hour Extension, Race Tight",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazilian election officials have restarted the tally of votes after extending polling stations by two additional hours. The extension was announced to ensure that all voters could cast their ballots, and counting has now resumed across the country."
+   },
+   {
+    "type": "p",
+    "text": "The contest remains between incumbent left‑wing President Luiz Inácio Lula da Silva and former right‑wing president Jair Bolsonaro. Early indications suggest the race is extremely close, with neither side yet able to claim a decisive lead."
+   },
+   {
+    "type": "p",
+    "text": "DW reports that the vote‑counting process is ongoing and that results are expected to be announced once all precincts have been fully tabulated. Observers are monitoring the situation closely as the final outcome could shape Brazil's political direction for the coming years."
+   }
+  ],
+  "key_points": [
+   "Brazil extended polling by two hours before resuming vote counting.",
+   "The presidential race between Lula and Bolsonaro remains very close.",
+   "Final results will be released after all precincts finish tabulating votes."
+  ],
+  "meta_description": "Brazil resumes vote counting after a two‑hour polling extension, with the Lula‑Bolsonaro race expected to be extremely close.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "election",
+   "Lula",
+   "Bolsonaro",
+   "vote counting"
+  ],
+  "slug": "brazil-vote-counting-resumes-after-twohour-extension-race-tight-c14780",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-25T22:28:50Z"
+ },
+ {
+  "id": "4c8fc8336536f9aa",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o",
+  "source": "BBC Sport",
+  "source_title": "Antonelli wins in US but has to wait to secure title",
+  "source_summary": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/481a/live/1ef4b2c0-d0bf-11f1-b059-63397a00826b.jpg",
+  "published": "2026-10-25T22:13:05+00:00",
+  "headline": "Antonelli Dominates US Grand Prix, Still Needs Two Points for Title",
+  "body": [
+   {
+    "type": "p",
+    "text": "Italian rookie Kimi Antonelli secured a commanding victory at the United States Grand Prix, extending his lead in the season-long championship. The win, described by race officials as a dominant performance, put him within striking distance of his first world title."
+   },
+   {
+    "type": "p",
+    "text": "Despite the triumph, Antonelli remains short of the points required to clinch the championship outright. He must collect just two additional points in the remaining races to guarantee the title, according to the series' points table."
+   },
+   {
+    "type": "p",
+    "text": "The young driver’s consistency has turned the title fight into a tight contest, with rivals still in mathematical contention. Fans and analysts will be watching the upcoming events closely as the championship draws to a close."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Antonelli's near‑title highlights the rising talent in Formula 1 and sets up a dramatic finish that could influence team strategies and fan engagement across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Kimi Antonelli won the United States Grand Prix with a dominant performance.",
+   "He needs only two more points in the remaining races to secure his first world title."
+  ],
+  "meta_description": "Kimi Antonelli wins the US Grand Prix but still requires two points to clinch his first world title, keeping the championship battle alive.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "motorsport",
+   "Formula 1",
+   "Kimi Antonelli",
+   "US Grand Prix",
+   "championship"
+  ],
+  "slug": "antonelli-dominates-us-grand-prix-still-needs-two-points-4c8fc8",
+  "reading_minutes": 1,
+  "added": "2026-10-25T22:28:53Z"
+ },
+ {
+  "id": "923dc6fa6d44c060",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo",
+  "source": "BBC News",
+  "source_title": "Deeply divided Israel braces for pivotal election",
+  "source_summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c38d/live/19e08ff0-d0a3-11f1-adbe-cd0eaeb0fff9.jpg",
+  "published": "2026-10-25T22:11:13+00:00",
+  "headline": "Israel Braces for Pivotal Election as Nation Stays Deeply Divided After Three Years of Conflict and Regional Tensions",
+  "body": [
+   {
+    "type": "p",
+    "text": "Israel is heading into a critical national election that many observers describe as inevitable after three years of regional war. The campaign unfolds against a backdrop of stark political polarization, with citizens split over the country’s security strategy and the future direction of its government."
+   },
+   {
+    "type": "p",
+    "text": "Analysts say the vote will determine whether Israel pursues a more hard‑line approach to its neighbours or seeks a diplomatic path toward de‑escalation. Voter sentiment has been shaped by the prolonged conflict, economic pressures and the lingering trauma of wartime losses, creating a volatile electoral environment."
+   },
+   {
+    "type": "p",
+    "text": "The outcome is expected to influence Israel’s domestic policies and its foreign relations, particularly with the United States and European partners who have been closely monitoring the region’s stability. International stakeholders are watching closely to gauge how the new leadership might affect peace initiatives and security cooperation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The election will likely affect regional stability and the prospects for diplomatic engagement that are of interest to the United States and European nations."
+   }
+  ],
+  "key_points": [
+   "Israel’s upcoming election is seen as a decisive moment after three years of war.",
+   "The country remains deeply divided over security and diplomatic priorities.",
+   "The result could reshape Israel’s relations with the US and Europe."
+  ],
+  "meta_description": "Israel prepares for a pivotal election amid deep division after three years of conflict, with implications for regional stability and Western partners.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "election",
+   "regional conflict",
+   "political division",
+   "foreign policy"
+  ],
+  "slug": "israel-braces-pivotal-election-nation-stays-deeply-divided-after-923dc6",
+  "reading_minutes": 1,
+  "added": "2026-10-25T22:29:14Z"
+ },
+ {
+  "id": "e8e694c2d43099a2",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo",
+  "source": "BBC News",
+  "source_title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+  "source_summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79e5/live/ec88c6f0-d0b9-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-25T22:06:26+00:00",
+  "headline": "Serbia's Veteran Leader Vučić Concedes Defeat to Student Protest Movement",
+  "body": [
+   {
+    "type": "p",
+    "text": "Aleksandar Vučić, Serbia's populist right‑wing president who has ruled for 12 years, announced that his Serbian Progressive Party failed to win the recent vote, which many observers described as a referendum on the country's future direction."
+   },
+   {
+    "type": "p",
+    "text": "The loss was attributed to a coordinated campaign by a student‑led protest movement that mobilised thousands across major cities, demanding democratic reforms and an end to perceived authoritarian practices. Vučić said the result was \"clear\" and acknowledged the opposition's victory without contesting the count."
+   },
+   {
+    "type": "p",
+    "text": "International analysts note that the outcome could reshape Serbia's political landscape and affect its ongoing negotiations with the European Union, where progress on rule‑of‑law reforms has been a key condition for accession talks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift signals potential changes in Balkan politics and could impact EU enlargement discussions, relevant to European and U.S. foreign policy interests."
+   }
+  ],
+  "key_points": [
+   "President Aleksandar Vučić admitted his party lost the latest Serbian vote.",
+   "A student‑driven protest movement played a decisive role in the election outcome.",
+   "The result may influence Serbia's EU accession prospects and regional stability."
+  ],
+  "meta_description": "Serbia's long‑time leader Vučić concedes defeat as a student‑led protest movement wins the pivotal vote.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Serbia",
+   "Aleksandar Vucic",
+   "student protests",
+   "election",
+   "Balkan politics"
+  ],
+  "slug": "serbia-s-veteran-leader-vucic-concedes-defeat-student-protest-e8e694",
+  "reading_minutes": 1,
+  "added": "2026-10-25T22:29:29Z"
+ },
+ {
+  "id": "da114e8ce7c53566",
+  "source_url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+  "source": "The Verge",
+  "source_title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+  "source_summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the […]",
+  "source_tags": [
+   "Apple",
+   "iPhone",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo-layout01.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-25T21:40:27+00:00",
+  "headline": "iFixit Scores iPhone Duo Repairability 5/10, Reveals Foldable Screen Secrets",
+  "body": [
+   {
+    "type": "p",
+    "text": "iFixit has taken apart Apple’s newest iPhone Duo, the company’s first foldable handset, and posted its findings on a tabletop teardown. The analysis highlights how Apple may be concealing the crease on the Duo’s folding display, using a layered design that masks the bend line from view."
+   },
+   {
+    "type": "p",
+    "text": "The teardown gave the iPhone Duo a repairability rating of 5 out of 10, the highest the score has been for any recent iPhone model according to iFixit’s metrics. The rating reflects the difficulty of replacing components such as the screen, battery and hinge mechanism, which are integrated into the foldable chassis."
+   },
+   {
+    "type": "p",
+    "text": "iFixit’s report notes that the hinge assembly is more complex than on previous iPhone models, and the screen’s flexible OLED panel is bonded in a way that could complicate future repairs. While the score is modest, it suggests the Duo is more serviceable than Apple’s earlier attempts at foldable hardware."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher repairability scores can lower long‑term ownership costs for consumers in the US and Europe, where right‑to‑repair legislation is gaining traction."
+   }
+  ],
+  "key_points": [
+   "iFixit’s teardown gives the iPhone Duo a 5/10 repairability score, the best for a recent iPhone.",
+   "Apple’s design hides the screen crease with a layered structure, but the hinge and display remain difficult to replace."
+  ],
+  "meta_description": "iFixit rates the iPhone Duo 5/10 for repairability and uncovers how Apple hides the foldable screen crease.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "iPhone Duo",
+   "iFixit",
+   "repairability",
+   "foldable phones",
+   "Apple",
+   "hardware teardown"
+  ],
+  "slug": "ifixit-scores-iphone-duo-repairability-5-10-reveals-foldable-da114e",
+  "reading_minutes": 1,
+  "added": "2026-10-25T22:28:57Z"
+ },
+ {
+  "id": "fd90da602ae8dd7d",
+  "source_url": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html",
+  "source": "The New York Times",
+  "source_title": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
+  "source_summary": "On the trail, James Talarico, the Democratic Senate nominee, has increasingly gone after Mr. Musk, a critic of his who has given big to a group aligned with the Republican candidate, Ken Paxton.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Democratic Party",
+   "Republican Party",
+   "Paxton, Ken",
+   "Musk, Elon",
+   "Texas",
+   "Talarico, James"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/25/us/25pol-talarico-musk/25pol-talarico-musk-mediumSquareAt3X-v2.png",
+  "published": "2026-10-25T21:37:43+00:00",
+  "headline": "Texas Senate Candidate Talarico Targets Elon Musk Over Funding in Heated Campaign as Rivalry with GOP Candidate Ken Paxton Intensifies 2026",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic Senate nominee James Talarico has stepped up his criticism of Elon Musk on the campaign trail in Texas. Talarico argues that Musk, who has publicly criticized the candidate, has contributed sizable funds to a political group that supports Republican Attorney General Ken Paxton, the GOP contender for the Senate seat."
+   },
+   {
+    "type": "p",
+    "text": "The attacks come as the race tightens, with Talarico positioning Musk’s financial involvement as evidence of outside influence favoring Paxton. Musk’s donations, described by Talarico as “big,” are being framed as part of a broader effort to sway the election in favor of the Republican candidate."
+   },
+   {
+    "type": "p",
+    "text": "Both candidates have highlighted the issue of billionaire money in politics, but Talarico is making Musk’s contributions a focal point of his messaging, seeking to draw voter attention to the role of wealthy donors in state-level contests."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode underscores how high‑profile donors can shape electoral dynamics, a concern for voters in the United States and Europe alike."
+   }
+  ],
+  "key_points": [
+   "James Talarico, the Democratic Senate nominee in Texas, is publicly attacking Elon Musk for funding a group aligned with Republican Ken Paxton.",
+   "Musk’s financial support is being used by Talarico to illustrate the impact of billionaire donors on the Senate race."
+  ],
+  "meta_description": "Texas Senate hopeful James Talarico targets Elon Musk over donations to a group backing Republican Ken Paxton, highlighting billionaire influence.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Texas",
+   "Senate race",
+   "James Talarico",
+   "Elon Musk",
+   "Ken Paxton",
+   "campaign finance"
+  ],
+  "slug": "texas-senate-candidate-talarico-targets-elon-musk-over-funding-fd90da",
+  "reading_minutes": 1,
+  "added": "2026-10-25T22:29:02Z"
+ },
+ {
+  "id": "a6feae291b1a855a",
+  "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+  "source": "TechCrunch",
+  "source_title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+  "source_summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+  "source_tags": [
+   "AI",
+   "Media & Entertainment",
+   "Elon Musk",
+   "SpaceX",
+   "xAI"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+  "published": "2026-10-25T21:31:16+00:00",
+  "headline": "Grok Unveils First Seven Minutes of AI‑Generated “Odyssey” Film",
+  "body": [
+   {
+    "type": "p",
+    "text": "The AI startup Grok has released a seven‑minute excerpt of its computer‑generated feature titled “Odyssey.” The clip, posted on the company’s platform, showcases the technology’s ability to produce continuous visual sequences without human direction."
+   },
+   {
+    "type": "p",
+    "text": "According to the preview, the footage is technically competent, delivering clear images and smooth motion. However, reviewers note that the material lacks the artistic flair, inspirational depth, or human‑centered storytelling that viewers typically expect from cinematic works."
+   },
+   {
+    "type": "p",
+    "text": "The release highlights both the progress and the current limitations of AI‑driven video creation, suggesting that while the technology can assemble passable visuals, it still falls short of delivering compelling narrative or emotional resonance."
+   }
+  ],
+  "key_points": [
+   "Grok released a seven‑minute sample of its AI‑generated film “Odyssey.”",
+   "The preview is technically adequate but does not provide artistic or human interest value.",
+   "The clip underscores ongoing challenges in using AI for creative storytelling."
+  ],
+  "meta_description": "Grok shares a seven‑minute AI‑generated “Odyssey” preview, showing solid visuals but limited artistic and human appeal.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "video generation",
+   "Grok",
+   "Odyssey",
+   "media technology"
+  ],
+  "slug": "grok-unveils-first-seven-minutes-aigenerated-odyssey-film-a6feae",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-25T22:29:09Z"
+ },
+ {
+  "id": "2f399ef937784b32",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo",
+  "source": "BBC Sport",
+  "source_title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+  "source_summary": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b1/live/b4ad99d0-d0b5-11f1-960c-a30ffadcd9ea.jpg",
+  "published": "2026-10-25T21:24:21+00:00",
+  "headline": "United Fans Back Carrick Amid 3-0 Bournemouth Loss, Criticise Owners",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United supporters sang in favour of interim manager Michael Carrick after the club suffered a 3-0 home defeat to Bournemouth. The chants highlighted the fans' appreciation for Carrick's leadership despite the heavy loss."
+   },
+   {
+    "type": "p",
+    "text": "During the same match, the crowd used the occasion to voice broader discontent with the club's ownership, expressing opposition to a range of issues beyond the result on the pitch. Their protests underscored growing frustration among supporters."
+   },
+   {
+    "type": "p",
+    "text": "The juxtaposition of support for Carrick and criticism of the owners illustrates a split sentiment within the fan base, as they separate appreciation for the coaching staff from dissatisfaction with the club's governance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest highlights potential instability at one of the Premier League's most valuable clubs, which could affect its performance and financial outlook."
+   }
+  ],
+  "key_points": [
+   "Fans cheered Michael Carrick after United's 3-0 defeat to Bournemouth.",
+   "Supporters also used the match to protest against the club's owners.",
+   "The incident reflects a divide between backing the interim manager and broader ownership concerns."
+  ],
+  "meta_description": "Manchester United fans praised Michael Carrick after a 3-0 loss to Bournemouth while also protesting against the club's owners.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Bournemouth",
+   "football fans",
+   "club ownership",
+   "Premier League"
+  ],
+  "slug": "united-fans-back-carrick-amid-3-0-bournemouth-loss-2f399e",
+  "reading_minutes": 1,
+  "added": "2026-10-25T22:29:05Z"
+ },
+ {
+  "id": "727ad38d32ee9e95",
+  "source_url": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+  "source": "The Verge",
+  "source_title": "Scott Walker’s The Drift will get under your skin",
+  "source_summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott Walker's The Drift. This 2006 album from the singer-songwriter is truly upsetting. On it, Walker explores […]",
+  "source_tags": [
+   "Column",
+   "Entertainment",
+   "Music",
+   "Music Review"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/a1635465713_10.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-25T21:08:09+00:00",
+  "headline": "Scott Walker’s 2006 Album “The Drift” Offers Terrifying Soundscape",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Verge notes that spooky‑season music falls into two camps: light‑hearted novelty songs and genuinely unsettling works. It places Scott Walker’s 2006 album The Drift firmly in the latter category, alongside acts like Throbbing Gristle and The Body."
+   },
+   {
+    "type": "p",
+    "text": "Described as “truly upsetting,” The Drift explores dark, disquieting textures that contrast sharply with more playful Halloween staples such as “The Monster Mash” or John Carpenter’s iconic theme. Walker’s approach is characterized by brooding orchestration and unsettling lyrical content."
+   },
+   {
+    "type": "p",
+    "text": "The review highlights the album’s capacity to get “under your skin,” suggesting it delivers an immersive, eerie experience that stands out in the broader landscape of seasonal music."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The album’s stark mood offers a counterpoint to mainstream holiday music, appealing to listeners seeking deeper, more challenging artistic expressions."
+   }
+  ],
+  "key_points": [
+   "The Drift is presented as a genuinely terrifying addition to spooky‑season playlists.",
+   "Walker’s 2006 album uses dark orchestration to create an unsettling listening experience.",
+   "The Verge contrasts The Drift with lighter Halloween songs, emphasizing its unique intensity."
+  ],
+  "meta_description": "The Verge calls Scott Walker’s 2006 album The Drift a genuinely terrifying, unsettling addition to spooky‑season music.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Scott Walker",
+   "The Drift",
+   "music review",
+   "spooky season",
+   "album 2006"
+  ],
+  "slug": "scott-walkers-2006-album-drift-offers-terrifying-soundscape-727ad3",
+  "reading_minutes": 1,
+  "added": "2026-10-25T22:29:21Z"
+ },
+ {
+  "id": "327b58b5bb40a5d4",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
+  "source": "The Guardian",
+  "source_title": "Alaska Senate candidate Mary Peltola delays campaign stops after car crash",
+  "source_summary": "Peltola and her family sustained minor injuries after a driver struck the car transporting group to campaign stop Mary Peltola , a Democrat who is running for Alaska ’s lone US Senate seat, and her family suffered minor injuries in a car crash while driving to a campaign stop on Saturday, her campaign said. The family was on its way to the Alaska Federation of Natives annual banquet when another vehicle crashed into the one transporting Peltola and her family, her campaign said in a statement on Sunday. Peltola required medical attention after the collision.",
+  "source_tags": [
+   "Alaska",
+   "US news",
+   "US Senate",
+   "US midterm elections 2026",
+   "US Congress",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/c9ec35b18b3b7eea1144187cf87402bc680473f8/552_156_4389_3513/master/4389.jpg?width=700&quality=85&auto=format&fit=max&s=3201a790701d5a37941444b00c218a98",
+  "published": "2026-10-25T20:28:27+00:00",
+  "headline": "Alaska Senate Candidate Mary Peltola Injured in Car Crash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic Senate hopeful Mary Peltola and her family were involved in a minor car crash on Saturday while traveling to a campaign event, the campaign said. Another vehicle struck the car that was carrying Peltola and her relatives as they headed to the Alaska Federation of Natives annual banquet."
+   },
+   {
+    "type": "p",
+    "text": "All occupants sustained only minor injuries, but Peltola required medical attention after the collision. The incident forced the campaign to postpone the scheduled stop and adjust its itinerary for the weekend."
+   },
+   {
+    "type": "p",
+    "text": "The campaign released a statement on Sunday confirming the injuries were not serious and thanking first responders for their assistance. No further details about the other driver or the cause of the crash were provided."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Peltola is the Democratic contender for Alaska's only Senate seat, and any disruption to her campaign could influence the closely watched race."
+   }
+  ],
+  "key_points": [
+   "Mary Peltola and her family suffered minor injuries after a vehicle hit their campaign car.",
+   "The crash delayed Peltola's planned stop at the Alaska Federation of Natives banquet.",
+   "Peltola received medical care but remains a candidate for Alaska's sole U.S. Senate seat."
+  ],
+  "meta_description": "Alaska Senate candidate Mary Peltola and family sustain minor injuries in a car crash, delaying a campaign stop.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "Mary Peltola",
+   "Senate race",
+   "car accident",
+   "campaign",
+   "Alaska Federation of Natives"
+  ],
+  "slug": "alaska-senate-candidate-mary-peltola-injured-car-crash-327b58",
+  "reading_minutes": 1,
+  "added": "2026-10-25T22:29:25Z"
+ },
+ {
+  "id": "2681b7465621216a",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o",
+  "source": "BBC Sport",
+  "source_title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+  "source_summary": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff84/live/5c216630-d0a5-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-25T20:00:19+00:00",
+  "headline": "Carrick Under Pressure After United Lose 3-0 to Bournemouth",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United suffered a 3-0 defeat to Bournemouth at Old Trafford, extending their winless streak to eight games across all competitions. The loss highlighted defensive frailties as Bournemouth capitalised on early chances to secure a comfortable victory."
+   },
+   {
+    "type": "p",
+    "text": "The defeat has intensified scrutiny on United's manager Michael Carrick, whose tenure is now described as being under severe pressure. Fans and pundits alike are questioning whether the club can reverse the slump before the season's crucial stages."
+   },
+   {
+    "type": "p",
+    "text": "United remain without a win as the Premier League campaign progresses, and the result adds to growing concerns about their ability to compete for European qualification spots."
+   }
+  ],
+  "key_points": [
+   "Manchester United lost 3-0 to Bournemouth, marking their eighth game without a win.",
+   "Manager Michael Carrick faces heightened criticism following the defeat.",
+   "The loss underscores United's defensive problems and jeopardises their season objectives."
+  ],
+  "meta_description": "Manchester United's 3-0 loss to Bournemouth extends their winless run to eight games and puts manager Michael Carrick under intense pressure.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Bournemouth",
+   "Premier League",
+   "manager pressure"
+  ],
+  "slug": "carrick-under-pressure-after-united-lose-3-0-bournemouth-2681b7",
+  "reading_minutes": 1,
+  "added": "2026-10-25T22:29:17Z"
+ },
+ {
+  "id": "6d1b3c19f81c84c2",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno",
+  "source": "BBC Sport",
+  "source_title": "Liverpool earn first league win at Anfield with victory over Brighton",
+  "source_summary": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1edf/live/33674a90-d0a3-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-25T20:00:09+00:00",
+  "headline": "Liverpool Secure First Anfield League Win, 2-0 Over Brighton",
+  "body": [
+   {
+    "type": "p",
+    "text": "Liverpool broke a long-standing drought at Anfield by defeating Brighton 2-0 in the Premier League on Tuesday. The home side opened the scoring when Brighton defender Pascal Gross inadvertently put the ball into his own net, giving the Reds an early advantage."
+   },
+   {
+    "type": "p",
+    "text": "Just minutes later, Swedish striker Alexander Isak doubled Liverpool's lead with a composed finish, cementing the advantage for the hosts. The Seagulls were unable to respond, and the match ended without further incident, delivering Liverpool their first league victory at their historic ground in several seasons."
+   },
+   {
+    "type": "p",
+    "text": "The win lifts Liverpool into the top four of the Premier League table, positioning them for a potential Champions League qualification spot as the season approaches its climax."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Securing a top‑four place keeps Liverpool in contention for next season's Champions League, a key revenue and prestige factor for European clubs."
+   }
+  ],
+  "key_points": [
+   "Liverpool earned a 2-0 victory over Brighton at Anfield, ending a league winless streak at the stadium.",
+   "Goals came from a Pascal Gross own‑goal and a strike by Alexander Isak.",
+   "The result moves Liverpool into the Premier League top four."
+  ],
+  "meta_description": "Liverpool beat Brighton 2-0 at Anfield, ending a league winless run at the ground and moving into the Premier League top four.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Brighton",
+   "Premier League",
+   "Anfield",
+   "Alexander Isak",
+   "Pascal Gross"
+  ],
+  "slug": "liverpool-secure-first-anfield-league-win-2-0-over-6d1b3c",
+  "reading_minutes": 1,
+  "added": "2026-10-25T22:29:33Z"
+ },
+ {
   "id": "8798303fc7b7c8a3",
   "source_url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o",
   "source": "BBC News",
