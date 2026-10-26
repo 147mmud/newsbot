@@ -1,5 +1,685 @@
 [
  {
+  "id": "3d754d713427e89d",
+  "source_url": "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html",
+  "source": "The New York Times",
+  "source_title": "Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I.",
+  "source_summary": "About a quarter of the tech giant’s employees were eligible for the packages, although the company cautioned it did not expect many employees to sign on.",
+  "source_tags": [
+   "Labor and Jobs",
+   "Layoffs and Job Reductions",
+   "Computers and the Internet",
+   "Artificial Intelligence",
+   "Microsoft Corp"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-microsoft-buyouts-gqlz/26biz-microsoft-buyouts-gqlz-mediumSquareAt3X.jpg",
+  "published": "2026-10-26T19:05:57+00:00",
+  "headline": "Microsoft Extends Voluntary Buyouts to 60,000 Workers Amid AI Spending",
+  "body": [
+   {
+    "type": "p",
+    "text": "Microsoft announced a voluntary buyout program covering roughly 60,000 staff members, representing about one‑quarter of its global workforce. The packages are being offered as the company accelerates its investment in artificial‑intelligence technologies."
+   },
+   {
+    "type": "p",
+    "text": "The tech giant emphasized that while the buyout option is available to a sizable portion of employees, it does not anticipate a large uptake. Executives said the initiative is intended to give workers flexibility rather than to trigger a mass departure."
+   },
+   {
+    "type": "p",
+    "text": "Details of the financial terms were not disclosed, and the offer applies only to employees who meet eligibility criteria set by the company. The move comes as Microsoft continues to allocate significant capital toward AI research, development and product integration."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The buyout program signals how major tech firms are reshaping staffing while pouring resources into AI, a trend that could affect job stability and market competition in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Microsoft is offering voluntary buyouts to about 60,000 employees, roughly 25% of its workforce.",
+   "The company expects few employees to accept the packages despite the large eligibility pool."
+  ],
+  "meta_description": "Microsoft offers voluntary buyouts to 60,000 staff as it ramps up AI spending, expecting limited uptake.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Microsoft",
+   "buyouts",
+   "AI investment",
+   "employment",
+   "tech industry"
+  ],
+  "slug": "microsoft-extends-voluntary-buyouts-60-000-workers-amid-ai-3d754d",
+  "reading_minutes": 1,
+  "added": "2026-10-26T19:11:01Z"
+ },
+ {
+  "id": "0e102d0bee7c9a07",
+  "source_url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+  "source": "TechCrunch",
+  "source_title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+  "source_summary": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
+  "source_tags": [
+   "Climate",
+   "Government & Policy",
+   "fusion power"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/cfs-sparc-digital-twin.jpeg?resize=1200,676",
+  "published": "2026-10-26T18:59:52+00:00",
+  "headline": "Fusion Startups Face Equity Trade for Government Awards",
+  "body": [
+   {
+    "type": "p",
+    "text": "Fusion‑energy startups are encountering a new hurdle that has little to do with plasma physics. Companies developing commercial fusion technology must decide whether to surrender a portion of their equity to the government in exchange for funding awards."
+   },
+   {
+    "type": "p",
+    "text": "The alternative is to forgo government‑backed awards and seek private capital or other financing routes. This choice pits the security of public‑sector support against the potential dilution of ownership and control."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the outcome of this decision could shape the financing landscape for emerging fusion ventures, influencing how quickly they can move from laboratory experiments to commercial prototypes."
+   }
+  ],
+  "key_points": [
+   "Fusion startups can receive government awards only by issuing shares to the state.",
+   "Choosing government equity stakes may limit ownership but provides secured funding.",
+   "Opting out requires finding private investment, which may be harder to secure."
+  ],
+  "meta_description": "Fusion startups must weigh giving government equity for awards against seeking private funding, a pivotal financing decision.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "fusion",
+   "startups",
+   "government funding",
+   "equity",
+   "awards"
+  ],
+  "slug": "fusion-startups-face-equity-trade-government-awards-0e102d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-26T19:11:22Z"
+ },
+ {
+  "id": "a95cbb9d120c9642",
+  "source_url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+  "source": "The Verge",
+  "source_title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+  "source_summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPhone Duo would add support for the Apple Pencil \"later this year.\" The company's first […]",
+  "source_tags": [
+   "Apple",
+   "Foldable Phones",
+   "iOS",
+   "Mobile",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1034.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-26T18:51:06+00:00",
+  "headline": "iOS 27.2 Adds Apple Pencil Support and Edge Light to iPhone Duo",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple's latest software release, iOS 27.2, brings two notable features to the iPhone Duo. The update enables full Apple Pencil compatibility, allowing users to draw, annotate and take notes directly on the device's screen. Apple had previously indicated that Pencil support would arrive \"later this year,\" and the new release fulfills that promise."
+   },
+   {
+    "type": "p",
+    "text": "In addition to Pencil integration, iOS 27.2 introduces an \"Edge Light\" function designed to illuminate the user's face during video calls. The feature aims to improve lighting conditions without the need for external accessories, enhancing the overall video‑call experience on the iPhone Duo."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The enhancements broaden the iPhone Duo's appeal for creators and remote workers by adding drawing capability and improving video‑call quality."
+   }
+  ],
+  "key_points": [
+   "iOS 27.2 adds native Apple Pencil support to the iPhone Duo.",
+   "The update also includes an Edge Light feature for better video‑call lighting.",
+   "Apple had announced Pencil support for the Duo earlier in the year."
+  ],
+  "meta_description": "Apple's iOS 27.2 update adds Apple Pencil support and an Edge Light feature to the iPhone Duo, expanding its creative and video‑call functionality.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "iPhone Duo",
+   "iOS 27.2",
+   "Apple Pencil",
+   "video calls"
+  ],
+  "slug": "ios-27-2-adds-apple-pencil-support-edge-light-a95cbb",
+  "reading_minutes": 1,
+  "added": "2026-10-26T19:11:41Z"
+ },
+ {
+  "id": "e80885f8cb86c362",
+  "source_url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+  "source": "The New York Times",
+  "source_title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+  "source_summary": "Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Initial Public Offerings",
+   "Computers and the Internet",
+   "Computer Chips",
+   "Stocks and Bonds",
+   "Data Centers",
+   "Anthropic AI LLC",
+   "San Francisco (Calif)"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-26T18:44:18+00:00",
+  "headline": "Anthropic IPO Signals Broad Economic Impact Across Sectors",
+  "body": [
+   {
+    "type": "p",
+    "text": "Anthropic, the artificial‑intelligence firm that sits atop a complex network of business partners and suppliers, is preparing to go public. Analysts view the company as a barometer for the wider economy because its operations touch numerous industries, from cloud computing to data services."
+   },
+   {
+    "type": "p",
+    "text": "The upcoming initial public offering is expected to send ripples through markets, influencing investor sentiment toward technology firms and their ancillary service providers. Stakeholders anticipate that the IPO will highlight the health of the AI supply chain and could affect financing conditions for related startups."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the public listing will also provide clearer insight into how AI companies monetize their platforms and manage partnerships. This transparency may shape future collaborations and competitive dynamics within the rapidly evolving AI ecosystem."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For readers in the US and Europe, the IPO offers a snapshot of AI sector health, which can affect tech investment and employment trends across the region."
+   }
+  ],
+  "key_points": [
+   "Anthropic's IPO is seen as a gauge of the broader economy due to its extensive partner network.",
+   "The offering could influence investor confidence in AI and related technology sectors.",
+   "Public disclosure will shed light on AI business models and supply‑chain dynamics."
+  ],
+  "meta_description": "Anthropic's upcoming IPO is viewed as a barometer for the broader economy, with potential ripple effects across tech and related industries.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Anthropic",
+   "IPO",
+   "Artificial Intelligence",
+   "Tech Industry",
+   "Economic Indicator",
+   "Supply Chain"
+  ],
+  "slug": "anthropic-ipo-signals-broad-economic-impact-across-sectors-e80885",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-26T19:11:05Z"
+ },
+ {
+  "id": "658a40ed2174abd4",
+  "source_url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+  "source": "NPR",
+  "source_title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+  "source_summary": "Maurene Comey served as a federal prosecutor in Manhattan for around a decade. A judicial ruling finding her dismissal unlawful adds to concerns of politically motivated firings at the DOJ.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5164x3443+0+0/resize/5164x3443!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F9d%2Ff078d878424f89eae569d842a3d0%2Fgettyimages-2239954118.jpg",
+  "published": "2026-10-26T18:38:01+00:00",
+  "headline": "Judge Says DOJ Illegally Fired Maurene Comey, Ex‑FBI Director’s Daughter",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge has ruled that the Department of Justice unlawfully terminated Maurene Comey, who served as a Manhattan federal prosecutor for roughly ten years. The decision follows a lawsuit filed by Comey alleging her dismissal violated employment protections."
+   },
+   {
+    "type": "p",
+    "text": "The court’s finding adds to a growing list of cases suggesting politically motivated firings within the DOJ. Comey, the daughter of former FBI director James Comey, was removed from her position in 2024, prompting claims that the action was linked to broader efforts to reshape the department’s leadership."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts say the ruling could prompt further scrutiny of DOJ personnel decisions and may lead to reinstatement or compensation for Comey. The case underscores ongoing concerns about the independence of federal prosecutors and the potential for partisan influence in hiring and firing practices."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision raises questions about the DOJ’s independence, a concern for both U.S. and European audiences monitoring rule‑of‑law standards."
+   }
+  ],
+  "key_points": [
+   "A judge determined Maurene Comey’s dismissal by the DOJ was illegal.",
+   "The ruling highlights worries about politically driven firings in the Justice Department.",
+   "Comey’s case may lead to broader reviews of DOJ employment practices."
+  ],
+  "meta_description": "Judge rules DOJ illegally fired Maurene Comey, sparking concerns over political influence in federal prosecutions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "DOJ",
+   "Maurene Comey",
+   "James Comey",
+   "employment law",
+   "federal prosecutor"
+  ],
+  "slug": "judge-says-doj-illegally-fired-maurene-comey-exfbi-directors-658a40",
+  "reading_minutes": 1,
+  "added": "2026-10-26T19:11:09Z"
+ },
+ {
+  "id": "14da5b2b32caa1e8",
+  "source_url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+  "source": "CNBC",
+  "source_title": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+  "source_summary": "The Federal Trade Commission and 20 states have filed a lawsuit against Dollar General, claiming the retailer has charged customers more than advertised prices.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108234580-1764611702760-gettyimages-2217834647-DOLLAR_TREE_EARNS.jpeg?v=1764611746&w=1920&h=1080",
+  "published": "2026-10-26T18:37:01+00:00",
+  "headline": "FTC and 20 States Sue Dollar General Over Alleged Price Overcharges",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Federal Trade Commission, together with attorneys general from 20 states, has filed a civil lawsuit against discount retailer Dollar General. The complaint alleges that the chain routinely charged shoppers more than the prices advertised on its shelves and in promotional materials, violating consumer‑protection laws."
+   },
+   {
+    "type": "p",
+    "text": "According to the filing, the overcharges affected a broad range of items, from household essentials to groceries, and were the result of systematic pricing practices rather than isolated errors. The FTC seeks injunctive relief to stop the alleged conduct and monetary penalties to compensate affected customers."
+   },
+   {
+    "type": "p",
+    "text": "Dollar General has not yet responded publicly to the allegations. The case adds to a growing wave of regulatory actions targeting large retailers for pricing transparency, and it could set a precedent for how price‑advertising compliance is enforced nationwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The action highlights heightened scrutiny of retail pricing practices, underscoring consumer‑protection priorities for shoppers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The FTC and 20 state attorneys general have sued Dollar General for allegedly charging higher prices than advertised.",
+   "The lawsuit claims the overcharges were systematic and affected a wide range of consumer goods.",
+   "The case could influence future enforcement of retail pricing practices across the United States."
+  ],
+  "meta_description": "FTC and 20 states sue Dollar General for alleged systematic price overcharges, seeking penalties and consumer compensation.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Dollar General",
+   "FTC",
+   "price overcharges",
+   "consumer protection",
+   "lawsuit",
+   "retail"
+  ],
+  "slug": "ftc-20-states-sue-dollar-general-over-alleged-price-14da5b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-26T19:11:25Z"
+ },
+ {
+  "id": "5467f6c383b21ff1",
+  "source_url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html",
+  "source": "The New York Times",
+  "source_title": "Egypt OKs Military Aid to Saudis in Fight With Houthis",
+  "source_summary": "The Egyptians will commit forces for defensive purposes only, officials have said, as the kingdom exchanges increasingly deadly strikes with the Iranian-backed militia in Yemen.",
+  "source_tags": [
+   "Egypt",
+   "Saudi Arabia",
+   "Houthis",
+   "War and Armed Conflicts",
+   "Defense and Military Forces",
+   "Sisi, Abdel Fattah el-"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-egypt-3-jwpm/26int-egypt-3-jwpm-mediumSquareAt3X.jpg",
+  "published": "2026-10-26T18:35:10+00:00",
+  "headline": "Egypt Approves Defensive Military Aid to Saudi Arabia Against Houthis",
+  "body": [
+   {
+    "type": "p",
+    "text": "Egyptian officials announced that the country will provide military assistance to Saudi Arabia, emphasizing that the support is limited to defensive purposes. The aid comes as Saudi forces intensify air strikes against the Houthi militia in Yemen, a group backed by Iran."
+   },
+   {
+    "type": "p",
+    "text": "The decision reflects a deepening security partnership between Cairo and Riyadh amid the escalating conflict in the Red Sea region. While details of the equipment and personnel have not been disclosed, Egyptian authorities stressed that the assistance will not involve offensive operations."
+   },
+   {
+    "type": "p",
+    "text": "The Houthi rebels have increased attacks on commercial shipping and Saudi installations, prompting regional powers to coordinate their responses. Egypt’s involvement signals a willingness to back Saudi Arabia’s defensive posture while avoiding direct escalation with Iran‑aligned forces."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The aid could affect regional stability and U.S. and European interests in securing maritime trade routes through the Red Sea."
+   }
+  ],
+  "key_points": [
+   "Egypt will supply defensive‑only military aid to Saudi Arabia in its fight against Yemen's Houthi militia.",
+   "The move underscores a growing security alignment between Cairo and Riyadh amid rising Red Sea tensions."
+  ],
+  "meta_description": "Egypt agrees to provide defensive military aid to Saudi Arabia as the kingdom battles Iran‑backed Houthi forces in Yemen.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Egypt",
+   "Saudi Arabia",
+   "Yemen",
+   "Houthis",
+   "military aid",
+   "Middle East"
+  ],
+  "slug": "egypt-approves-defensive-military-aid-saudi-arabia-against-houthis-5467f6",
+  "reading_minutes": 1,
+  "added": "2026-10-26T19:11:13Z"
+ },
+ {
+  "id": "6c1a82d727893ac0",
+  "source_url": "https://www.nytimes.com/video/us/politics/100000011231247/how-scuffles-at-trump-rallies-echo-his-past-events.html",
+  "source": "The New York Times",
+  "source_title": "How Scuffles at Trump Rallies Echo His Past Events",
+  "source_summary": "Examining President Trump’s praise of a rallygoer who punched a protester last week, David E. Sanger, a White House and national security correspondent for The New York Times, studied the atmosphere at Mr. Trump’s recent events. What he found was a faint echo of the moments that made Mr. Trump’s 2016 rallies so shocking.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Trump, Donald J",
+   "Demonstrations, Protests and Riots",
+   "Midterm Elections (2026)"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-26T18:34:55+00:00",
+  "headline": "Trump Praises Rallygoer Who Punched Protester, Echoes 2016 Rally Tone",
+  "body": [
+   {
+    "type": "p",
+    "text": "White House and national security correspondent David E. Sanger reported that President Donald Trump publicly praised a rally attendee who punched a protester during a recent event. The incident occurred last week and was highlighted by the president as an example of supporter vigor."
+   },
+   {
+    "type": "p",
+    "text": "Sanger examined the overall atmosphere at Trump’s latest rallies and noted a subtle resemblance to the charged, confrontational mood that characterized his 2016 campaign gatherings. He observed that the crowd’s energy and the presence of physical altercations mirrored earlier moments that shocked observers."
+   },
+   {
+    "type": "p",
+    "text": "The analysis suggests that the current rallies continue to foster a volatile environment where confrontations between supporters and demonstrators are not uncommon. While the president’s commendation of the puncher underscores his endorsement of aggressive defense of his base, the broader pattern points to a persistent, contentious rally culture."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The endorsement of violent behavior by a sitting president raises concerns about political rhetoric and public safety in both the United States and allied democracies."
+   }
+  ],
+  "key_points": [
+   "President Trump praised a rallygoer who punched a protester at a recent event.",
+   "Journalist David E. Sanger found the current rally atmosphere reminiscent of the 2016 shock factor.",
+   "The ongoing confrontational tone highlights a continuing pattern of volatility at Trump events."
+  ],
+  "meta_description": "Trump praised a rallygoer who punched a protester, and a NYT reporter says today's rallies echo the confrontational tone of 2016 events.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "rally violence",
+   "political rhetoric",
+   "2026 protests",
+   "campaign atmosphere"
+  ],
+  "slug": "trump-praises-rallygoer-who-punched-protester-echoes-2016-rally-6c1a82",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-26T19:11:29Z"
+ },
+ {
+  "id": "d83987691c6e2943",
+  "source_url": "https://www.nytimes.com/2026/10/26/world/europe/serbia-election-vucic-nationalist-populists.html",
+  "source": "The New York Times",
+  "source_title": "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
+  "source_summary": "In much of Europe, the advance of the right has been seen as unstoppable. But in the east, nationalists are being cast aside in places where they long governed.",
+  "source_tags": [
+   "Politics and Government",
+   "United States International Relations",
+   "Nationalism (Theory and Philosophy)",
+   "Elections",
+   "Legislatures and Parliaments",
+   "Right-Wing Extremism and Alt-Right",
+   "Populism (Theory and Philosophy)",
+   "European Union",
+   "Serbian Progressive Party",
+   "Student List-Students Win (Serbia)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26serbia-analysis--01-mvtl/26serbia-analysis--01-mvtl-mediumSquareAt3X.jpg",
+  "published": "2026-10-26T18:26:54+00:00",
+  "headline": "Serbian Vote Signals Weakening Grip of Nationalist Populists",
+  "body": [
+   {
+    "type": "p",
+    "text": "The recent election in Serbia has highlighted a new vulnerability for nationalist populist parties that have long dominated the country's political scene. While many observers have described the rightward surge across much of Europe as unstoppable, the Serbian results suggest a different trajectory in the eastern part of the continent."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that voters in Serbia appear to be moving away from the nationalist platforms that previously held sway, indicating a potential shift toward more moderate or alternative political options. This development contrasts with the broader European trend where right‑wing parties continue to gain ground."
+   },
+   {
+    "type": "p",
+    "text": "The outcome may have implications for the balance of power in the Balkans and for the strategies of nationalist movements elsewhere in Europe, as they confront an electorate that is increasingly willing to reject their long‑standing dominance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A weakening of nationalist forces in Serbia may influence regional stability and alter the outlook for similar parties across Europe."
+   }
+  ],
+  "key_points": [
+   "Serbia's latest election shows nationalist populists losing ground.",
+   "The result diverges from the broader European trend of right‑wing gains.",
+   "Shifts in voter sentiment could reshape political dynamics in the Balkans."
+  ],
+  "meta_description": "Serbia's election reveals declining support for nationalist populists, a contrast to the rightward surge elsewhere in Europe.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Serbia",
+   "election",
+   "nationalism",
+   "Europe",
+   "populism"
+  ],
+  "slug": "serbian-vote-signals-weakening-grip-nationalist-populists-d83987",
+  "reading_minutes": 1,
+  "added": "2026-10-26T19:11:33Z"
+ },
+ {
+  "id": "d009b56dd2c44707",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmn8wzldd7q0o",
+  "source": "BBC Sport",
+  "source_title": "England-Republic of Ireland U15 World Cup game ends over alleged racism",
+  "source_summary": "The Under-15 World Cup Group C match between England and Republic of Ireland is abandoned after England allege an opposition player made a racist comment.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70db/live/4cd23300-d157-11f1-9f24-99bf1cc18b1d.png",
+  "published": "2026-10-26T18:17:25+00:00",
+  "headline": "England-U15 Match Abandoned After Alleged Racist Comment",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Group C fixture of the Under-15 World Cup between England and the Republic of Ireland was called off after England officials said an Irish player used a racist remark during the game. The allegation prompted the match officials to halt play and ultimately abandon the contest."
+   },
+   {
+    "type": "p",
+    "text": "Both national associations were notified of the incident, and the tournament organizers are reviewing the circumstances. No further details about the comment or any disciplinary action have been released at this stage."
+   },
+   {
+    "type": "p",
+    "text": "The abandonment marks a rare occurrence in youth international football, highlighting the heightened sensitivity to racism in sport and the protocols that governing bodies have put in place to address such allegations swiftly."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident reflects broader efforts in Europe and North America to combat racism in sport, especially at the youth level where early interventions are critical."
+   }
+  ],
+  "key_points": [
+   "England and Ireland's U15 World Cup match was abandoned after a reported racist comment.",
+   "Tournament officials are investigating the incident and have not issued a ruling yet.",
+   "The case underscores growing intolerance for racism in youth football."
+  ],
+  "meta_description": "England's U15 World Cup match against Ireland was abandoned after a reported racist remark, prompting an investigation.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "football",
+   "youth sport",
+   "racism",
+   "England",
+   "Ireland",
+   "World Cup"
+  ],
+  "slug": "england-u15-match-abandoned-after-alleged-racist-comment-d009b5",
+  "reading_minutes": 1,
+  "added": "2026-10-26T19:11:17Z"
+ },
+ {
+  "id": "da4c06233179a9d7",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmly0g2y7q2zo",
+  "source": "BBC Sport",
+  "source_title": "Kane prematurely announced as Ballon d'Or winner - but he wasn't only one",
+  "source_summary": "Harry Kane's dream of winning the Ballon d'Or seemed as if it had come true on Monday when the organisers released an article claiming he had won the award.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9beb/live/3c6000b0-d166-11f1-87df-afb7a168a1f2.jpg",
+  "published": "2026-10-26T18:10:26+00:00",
+  "headline": "Harry Kane Mistakenly Listed as Ballon d'Or Winner in Early Announcement",
+  "body": [
+   {
+    "type": "p",
+    "text": "An article published by the Ballon d'Or organisers on Monday incorrectly named England striker Harry Kane as the award's winner, prompting a brief wave of celebration among fans. The premature announcement suggested Kane had secured the prestigious football honor, which is awarded annually to the world's best player."
+   },
+   {
+    "type": "p",
+    "text": "The error was quickly identified, and the organisers clarified that the initial report was mistaken. Kane was not the sole recipient of the award, and the official winner had not yet been confirmed. The incident highlighted the high level of scrutiny surrounding the Ballon d'Or and the rapid spread of information in the digital age."
+   },
+   {
+    "type": "p",
+    "text": "While the mistaken announcement was short‑lived, it underscored the significance of the award for players and clubs worldwide, as well as the intense media attention that accompanies any hint of a new winner."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Ballon d'Or is a globally recognized accolade that influences player reputations, contract negotiations, and fan engagement across major football markets."
+   }
+  ],
+  "key_points": [
+   "Harry Kane was erroneously announced as the Ballon d'Or winner in a premature release.",
+   "The organisers later corrected the mistake, stating the award had not yet been decided.",
+   "The incident illustrates the high profile and media sensitivity of the Ballon d'Or."
+  ],
+  "meta_description": "Harry Kane was mistakenly announced as the Ballon d'Or winner, but the error was quickly corrected by organisers.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Harry Kane",
+   "Ballon d'Or",
+   "football award",
+   "sports news",
+   "media error"
+  ],
+  "slug": "harry-kane-mistakenly-listed-ballon-d-or-winner-early-da4c06",
+  "reading_minutes": 1,
+  "added": "2026-10-26T19:11:37Z"
+ },
+ {
+  "id": "a73085d1e7d542ef",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o",
+  "source": "BBC News",
+  "source_title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+  "source_summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
+  "published": "2026-10-26T17:20:54+00:00",
+  "headline": "Anthropic IPO Prospectus Reveals Five Unexpected Details",
+  "body": [
+   {
+    "type": "p",
+    "text": "Anthropic's initial public offering has been described as a blockbuster, and its 355‑page prospectus provides a wealth of previously undisclosed information about the AI firm. The document, filed ahead of the share listing, outlines the company's financials, governance structure and strategic plans in unprecedented detail."
+   },
+   {
+    "type": "p",
+    "text": "Analysts highlighted five surprising revelations within the filing, ranging from the scale of Anthropic's research investments to the composition of its board and the terms of its employee equity program. The prospectus also sheds light on the firm’s revenue projections and its approach to regulatory compliance in the rapidly evolving AI sector."
+   },
+   {
+    "type": "p",
+    "text": "Investors and industry observers are scrutinising the prospectus to gauge Anthropic's market positioning and growth prospects as it prepares to list on a major exchange. The depth of the filing underscores the heightened scrutiny surrounding large AI companies seeking public capital."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The listing marks a major entry of a leading AI developer into public markets, influencing tech investment trends in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Anthropic's IPO prospectus spans 355 pages and includes new company data.",
+   "Five unexpected details about its finances, governance and AI strategy were disclosed.",
+   "The filing intensifies investor focus on the firm’s growth outlook."
+  ],
+  "meta_description": "Anthropic's 355‑page IPO prospectus reveals five surprising details about its finances, governance and AI strategy ahead of a blockbuster share listing.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Anthropic",
+   "IPO",
+   "AI",
+   "stock market",
+   "financial disclosure",
+   "technology"
+  ],
+  "slug": "anthropic-ipo-prospectus-reveals-five-unexpected-details-a73085",
+  "reading_minutes": 1,
+  "added": "2026-10-26T19:11:45Z"
+ },
+ {
   "id": "38edd0d52d4cc594",
   "source_url": "https://www.bbc.co.uk/news/articles/cx240dpzv009o",
   "source": "BBC News",
