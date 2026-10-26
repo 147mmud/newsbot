@@ -1,5 +1,342 @@
 [
  {
+  "id": "90d9472581722104",
+  "source_url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+  "source": "The Guardian",
+  "source_title": "Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027",
+  "source_summary": "Official forecast indicates shortfall below 0.3% of national income in promised official development assistance The UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year. Calculations from the Center for Global Development (CGD) found the UK was on course for a large shortfall in promised official development assistance at the end of 2027.",
+  "source_tags": [
+   "Foreign policy",
+   "Labour",
+   "Aid",
+   "Budget 2026",
+   "Africa",
+   "Politics",
+   "Foreign, Commonwealth and Development Office",
+   "Budget",
+   "World news",
+   "UK news"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/e4b910342ba76f8b20dec9eadb10a03041a5c598/939_0_4942_3956/master/4942.jpg?width=700&quality=85&auto=format&fit=max&s=69d3fbcd42afa0c0d0769a5be7257e78",
+  "published": "2026-10-26T05:00:22+00:00",
+  "headline": "UK Faces £400m Gap in Meeting 0.3% Aid Target by 2027",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Centre for Global Development has calculated that the United Kingdom is likely to fall short of its legally‑binding commitment to spend 0.3% of national income on official development assistance. By the end of 2027, the shortfall is projected to be around £400 million."
+   },
+   {
+    "type": "p",
+    "text": "Labour politicians have been urged to take action to close the gap before the next fiscal year ends. The forecast suggests the current spending trajectory will not meet the aid target, prompting calls for budget adjustments or new funding measures."
+   },
+   {
+    "type": "p",
+    "text": "If the shortfall materialises, the UK would miss its pledged contribution to international development programmes, potentially affecting aid projects that rely on British funding."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shortfall could reduce the scale of UK‑funded development projects, influencing global aid flows that also involve US and European partners."
+   }
+  ],
+  "key_points": [
+   "CGD estimates a £400 million shortfall in the UK’s 0.3% aid target by 2027.",
+   "Labour is being pressed to find ways to bridge the projected funding gap."
+  ],
+  "meta_description": "UK risk missing its 0.3% aid target by 2027, with a £400m shortfall, prompting Labour calls for corrective action.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "foreign aid",
+   "Labour",
+   "budget",
+   "CGD",
+   "development assistance"
+  ],
+  "slug": "uk-faces-400m-gap-meeting-0-3-aid-target-90d947",
+  "reading_minutes": 1,
+  "added": "2026-10-26T06:00:45Z"
+ },
+ {
+  "id": "f445f5afabdfd475",
+  "source_url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go",
+  "source": "BBC News",
+  "source_title": "Australian murderer loses bid to eat Vegemite in prison",
+  "source_summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bc0/live/da50eaa0-c44c-11f0-86a7-5d9864ba6ed6.jpg",
+  "published": "2026-10-26T04:05:28+00:00",
+  "headline": "Australian Murderer Denied Prison Request to Eat Vegemite",
+  "body": [
+   {
+    "type": "p",
+    "text": "Andre McKechnie, convicted of murdering a property developer, appealed to a New South Wales court for permission to consume Vegemite while incarcerated. He argued that the iconic spread was a fundamental part of Australian culture and that denying it infringed on his cultural rights."
+   },
+   {
+    "type": "p",
+    "text": "The court rejected McKechnie's request, ruling that prison regulations on food safety and uniformity take precedence over individual cultural preferences. Officials noted that allowing a single inmate to receive a specialty item could set a precedent difficult to manage within the correctional system."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts said the case highlights the tension between personal cultural expression and institutional rules in prisons. While the appeal was dismissed, the decision underscores that cultural claims do not automatically override established prison policies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case shows how cultural identity arguments are weighed against security and uniformity rules in prisons, a concern for justice systems worldwide."
+   }
+  ],
+  "key_points": [
+   "Andre McKechnie’s bid to eat Vegemite in prison was denied by a NSW court.",
+   "The court emphasized prison food regulations over individual cultural claims.",
+   "The ruling illustrates limits on cultural rights within correctional facilities."
+  ],
+  "meta_description": "Australian murderer Andre McKechnie's request to eat Vegemite in prison was rejected, highlighting limits on cultural rights behind bars.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "murder",
+   "prison",
+   "Vegemite",
+   "Australia",
+   "cultural rights"
+  ],
+  "slug": "australian-murderer-denied-prison-request-eat-vegemite-f445f5",
+  "reading_minutes": 1,
+  "added": "2026-10-26T06:00:49Z"
+ },
+ {
+  "id": "aed458d584acd1ec",
+  "source_url": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+  "source_summary": "Leftist President Lula has defeated right-wing challenger Flavio Bolsonaro to win another term in office. Bolsonaro has refused to concede and called for the results to be annulled. DW has the latest.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79759134_6.jpg",
+  "published": "2026-10-26T03:45:00+00:00",
+  "headline": "Lula Wins Reelection as Bolsonaro Refuses to Concede in Brazil",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazil's left‑leaning President Luiz Inácio Lula da Silva secured a second consecutive term, defeating conservative candidate Flavio Bolsonaro in the latest presidential election. Official results confirmed Lula's victory, extending his administration's tenure."
+   },
+   {
+    "type": "p",
+    "text": "Flavio Bolsonaro has publicly rejected the outcome, refusing to acknowledge the results and calling for the election to be annulled. His stance has sparked concerns about a potential political standoff as the transition proceeds."
+   },
+   {
+    "type": "p",
+    "text": "The election outcome maintains the current government's policy direction, while the challenger’s refusal underscores ongoing partisan tensions within Brazil's political landscape."
+   }
+  ],
+  "key_points": [
+   "President Lula was re‑elected, defeating Flavio Bolsonaro.",
+   "Bolsonaro has refused to concede and is demanding the results be nullified."
+  ],
+  "meta_description": "Brazil's President Lula wins re‑election as challenger Bolsonaro refuses to concede, calling for the vote to be annulled.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "Lula",
+   "Bolsonaro",
+   "election",
+   "South America"
+  ],
+  "slug": "lula-wins-reelection-bolsonaro-refuses-concede-brazil-aed458",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-26T06:00:53Z"
+ },
+ {
+  "id": "461f69a40c55a1e0",
+  "source_url": "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html",
+  "source": "The New York Times",
+  "source_title": "In Islamophobic Rant, Trump Seeks to Stir Republican Base in Michigan",
+  "source_summary": "The president contended that Dr. Abdul El-Sayed, a Muslim, would “invite hordes of jihadis to our shores” as he sought to bolster the G.O.P. candidate in a tight Senate race.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Muslims and Islam",
+   "Midterm Elections (2026)",
+   "Jews and Judaism",
+   "Republican Party",
+   "Democratic Party",
+   "Senate",
+   "El-Sayed, Abdul",
+   "Husted, Jon A (1967- )",
+   "Minaj, Nicki"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25dc-trump-michigan-wpqz/25dc-trump-michigan-wpqz-mediumSquareAt3X.jpg",
+  "published": "2026-10-26T02:26:14+00:00",
+  "headline": "Trump Accuses Muslim Candidate of Inviting Jihadis to Boost GOP Base",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump launched an Islamophobic attack on Dr. Abdul El‑Sayed, a Muslim candidate in the Michigan Senate contest, claiming the doctor would \"invite hordes of jihadis to our shores.\" The remarks were made as Trump sought to rally the Republican base ahead of a closely watched race."
+   },
+   {
+    "type": "p",
+    "text": "Trump's comments framed El‑Sayed's faith as a national security threat, a tactic aimed at energizing voters in a state where the Senate seat is expected to be decided by a narrow margin. The president's statements have drawn criticism from civil‑rights groups and political observers who say the rhetoric stokes fear and prejudice."
+   },
+   {
+    "type": "p",
+    "text": "The Senate race remains a focal point for both parties, with the GOP hoping to retain the seat while Democrats aim to flip it. Trump's intervention underscores the heightened role of identity politics in the campaign."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode illustrates growing Islamophobic rhetoric in U.S. politics and its potential impact on a pivotal Senate contest that could affect the balance of power in Congress."
+   }
+  ],
+  "key_points": [
+   "Trump warned that Muslim candidate Dr. Abdul El‑Sayed would bring jihadis to the U.S. in a bid to mobilize Republican voters.",
+   "The remarks highlight the use of religious fear‑mongering in a tightly contested Michigan Senate race."
+  ],
+  "meta_description": "Trump accuses Muslim Senate candidate Abdul El‑Sayed of inviting jihadis, aiming to stir the GOP base in Michigan's tight race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Islamophobia",
+   "Michigan Senate",
+   "Republican base",
+   "Abdul El‑Sayed"
+  ],
+  "slug": "trump-accuses-muslim-candidate-inviting-jihadis-boost-gop-base-461f69",
+  "reading_minutes": 1,
+  "added": "2026-10-26T06:00:37Z"
+ },
+ {
+  "id": "66330fe6eb229b6e",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c6wyvnlx0erxo",
+  "source": "BBC Sport",
+  "source_title": "Antonelli delivers 'the race of a champion who isn't the champion yet'",
+  "source_summary": "Kimi Antonelli's Austin win was \"the best he has delivered\", according to Mercedes boss Toto Wolff, even if it wasn't quite enough to give him the title.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06ee/live/7c1a34e0-d0e0-11f1-ad70-07daa2562508.jpg",
+  "published": "2026-10-26T01:24:51+00:00",
+  "headline": "Antonelli’s Austin Victory Praised by Mercedes Boss Wolff",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kimi Antonelli secured a win at the Austin circuit, delivering what Mercedes team principal Toto Wolff described as the best performance of his season. Wolff highlighted the quality of Antonelli’s drive, calling it “the race of a champion who isn’t the champion yet.”"
+   },
+   {
+    "type": "p",
+    "text": "Despite the strong showing, the result was not sufficient for Antonelli to clinch the championship title. The race outcome left the championship standings unchanged, with the title still out of reach for the young driver."
+   },
+   {
+    "type": "p",
+    "text": "Wolff’s comments underscored the potential he sees in Antonelli, suggesting that the driver’s performance in Austin could be a stepping stone toward future success in the series."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The race illustrates a rising talent in a major motorsport series, indicating potential shifts in future championship battles for fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Kimi Antonelli won the Austin race, earning high praise from Mercedes boss Toto Wolff.",
+   "Wolff said the performance was Antonelli’s best of the season but did not secure the championship.",
+   "The win highlights Antonelli’s growing reputation despite the title remaining out of reach."
+  ],
+  "meta_description": "Kimi Antonelli's Austin win praised by Mercedes' Toto Wolff as his best season performance, though it fell short of the title.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kimi Antonelli",
+   "Mercedes",
+   "Austin race",
+   "Formula 1",
+   "Toto Wolff"
+  ],
+  "slug": "antonellis-austin-victory-praised-mercedes-boss-wolff-66330f",
+  "reading_minutes": 1,
+  "added": "2026-10-26T06:00:29Z"
+ },
+ {
+  "id": "1be89c5a4c442705",
+  "source_url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+  "source": "TechCrunch",
+  "source_title": "The best apps for tracking your reading and discovering new books",
+  "source_summary": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
+  "source_tags": [
+   "Apps",
+   "goodreads"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2022/12/Screenshot-2026-10-22-at-2.48.45-PM.png?resize=1200,831",
+  "published": "2026-10-26T01:10:00+00:00",
+  "headline": "Top Reading Apps to Track Books and Find New Titles",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch has compiled a shortlist of the most effective apps for readers who want to monitor their reading habits and discover fresh books. The guide evaluates each app’s core features, such as progress tracking, personalized recommendations, and integration with e‑readers."
+   },
+   {
+    "type": "p",
+    "text": "Among the highlighted tools are platforms that sync across devices, offer community reviews, and provide analytics on reading speed and genre preferences. The selection aims to suit casual readers, avid bibliophiles, and anyone looking to build a more organized digital bookshelf."
+   },
+   {
+    "type": "p",
+    "text": "The article stresses ease of use and data privacy, noting that several apps allow users to export their reading logs or keep them offline. By comparing pricing models and user interfaces, the list helps readers choose an app that aligns with their personal workflow and budget."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "With digital reading on the rise, tools that organize and suggest books can enhance literacy and personal development for users in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The guide ranks reading apps based on tracking accuracy, recommendation quality, and cross‑device sync.",
+   "Privacy‑focused options let users export or keep reading data offline.",
+   "Pricing varies from free tiers to subscription models, catering to different budgets."
+  ],
+  "meta_description": "TechCrunch reviews the best apps for tracking reading habits and discovering new books, highlighting features, privacy, and pricing.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "reading apps",
+   "book tracking",
+   "digital literacy",
+   "tech reviews",
+   "software recommendations"
+  ],
+  "slug": "top-reading-apps-track-books-find-new-titles-1be89c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-26T06:00:33Z"
+ },
+ {
   "id": "d4946f64ebcc9f6e",
   "source_url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
   "source": "NPR",
@@ -88,6 +425,59 @@
   "slug": "brazil-re-elects-lula-defeating-bolsonaroled-rightwing-challenge-a46dd8",
   "reading_minutes": 1,
   "added": "2026-10-26T00:40:03Z"
+ },
+ {
+  "id": "5c8e7931e99b2428",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
+  "source": "BBC News",
+  "source_title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+  "source_summary": "The economic is positive now but come January things could become trickier for the Labour government",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d426/live/74bc9710-ce2e-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-10-26T00:26:49+00:00",
+  "headline": "Healey’s Budget Aims to Preserve Growth as Risks Loom Early 2027",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chancellor Rachel Healey presented a budget that seeks to maintain the United Kingdom’s current economic momentum. The finance minister highlighted that recent data show a stronger economy, with growth and employment trends improving over the past year."
+   },
+   {
+    "type": "p",
+    "text": "Despite the upbeat outlook, Healey warned that fiscal pressures could intensify from January onward. She cited emerging challenges such as rising energy costs and global market uncertainty that may test the Labour government’s policy agenda."
+   },
+   {
+    "type": "p",
+    "text": "The budget includes measures to protect public services and support investment, while also emphasizing the need for fiscal prudence. Analysts note that the success of these proposals will depend on how effectively the government balances spending with the anticipated headwinds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The UK’s fiscal strategy influences global markets and trade partners, making its budget decisions relevant for investors and policymakers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Healey’s budget aims to sustain recent economic gains amid looming fiscal pressures.",
+   "January could bring tougher conditions for the Labour government due to external risks.",
+   "The plan focuses on protecting services and encouraging investment while urging fiscal caution."
+  ],
+  "meta_description": "Healey’s budget seeks to keep UK growth alive as early 2027 risks threaten the Labour government's fiscal outlook.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK budget",
+   "Labour government",
+   "economic outlook",
+   "fiscal policy",
+   "Rachel Healey"
+  ],
+  "slug": "healeys-budget-aims-preserve-growth-risks-loom-early-2027-5c8e79",
+  "reading_minutes": 1,
+  "added": "2026-10-26T06:00:41Z"
  },
  {
   "id": "7a695e6a87c7ec62",
@@ -779,6 +1169,71 @@
   "added": "2026-10-25T22:28:57Z"
  },
  {
+  "id": "68a81b1e4016e6e4",
+  "source_url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html",
+  "source": "The New York Times",
+  "source_title": "Saudi Arabia Reopens Riyadh Airport Even as Houthis Threaten Further Strikes",
+  "source_summary": "The Houthis, an Iran-backed Yemeni militia, launched several deadly attacks on the airport this month.",
+  "source_tags": [
+   "Airlines and Airplanes",
+   "War and Armed Conflicts",
+   "Mohammed bin Salman (1985- )",
+   "Iran",
+   "Israel",
+   "Riyadh (Saudi Arabia)",
+   "Saudi Arabia",
+   "Yemen",
+   "Houthis",
+   "King Khalid International Airport (Riyadh, Saudi Arabia)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-saudi-airport-1-pqfm/25int-saudi-airport-1-pqfm-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T21:39:45+00:00",
+  "headline": "Saudi Arabia Reopens Riyadh Airport Amid Ongoing Houthi Threats After Recent Strikes",
+  "body": [
+   {
+    "type": "p",
+    "text": "Saudi Arabia has resumed operations at Riyadh's main international airport following a series of deadly attacks carried out by the Iran‑backed Houthi militia earlier this month. The airport, a key hub for regional and international flights, was temporarily closed after the strikes caused significant damage and casualties."
+   },
+   {
+    "type": "p",
+    "text": "Despite the reopening, Saudi officials warned that the Houthis continue to threaten further attacks on the facility and other critical infrastructure. Security forces have heightened patrols and implemented additional screening measures to deter any new incidents."
+   },
+   {
+    "type": "p",
+    "text": "The resumption of services aims to restore confidence among airlines and travelers, while the government remains vigilant amid the ongoing conflict that has spilled over from Yemen into Saudi territory."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The airport’s reopening affects global travel routes and highlights the broader risk of regional conflicts spilling into Saudi Arabia, a key partner for the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Riyadh Airport reopened after being shut due to deadly Houthi attacks this month.",
+   "Saudi authorities say the Houthis still threaten additional strikes on the airport.",
+   "Enhanced security measures are in place as the airport resumes normal operations."
+  ],
+  "meta_description": "Saudi Arabia reopens Riyadh Airport after deadly Houthi attacks, while threats of further strikes persist.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "Riyadh Airport",
+   "Houthis",
+   "Yemen",
+   "Middle East",
+   "aviation"
+  ],
+  "slug": "saudi-arabia-reopens-riyadh-airport-amid-ongoing-houthi-threats-68a81b",
+  "reading_minutes": 1,
+  "added": "2026-10-26T06:01:01Z"
+ },
+ {
   "id": "fd90da602ae8dd7d",
   "source_url": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html",
   "source": "The New York Times",
@@ -944,6 +1399,60 @@
   "slug": "united-fans-back-carrick-amid-3-0-bournemouth-loss-2f399e",
   "reading_minutes": 1,
   "added": "2026-10-25T22:29:05Z"
+ },
+ {
+  "id": "7a27886ce0cfd961",
+  "source_url": "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil",
+  "source": "NPR",
+  "source_title": "U.S. influence in Latin America at stake in runoff election in Brazil",
+  "source_summary": "A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-10-25T21:22:43+00:00",
+  "headline": "Brazil Runoff Pits Lula Legacy Against Trump Ally Flavio Bolsonaro",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazil's presidential runoff on Sunday will decide whether the left‑leaning legacy of former president Luiz Inácio Lula da Silva continues or gives way to a candidate closely aligned with former U.S. President Donald Trump. The contest features Flavio Bolsonaro, son of ex‑president Jair Bolsonaro, who has cultivated ties with Trump and his supporters."
+   },
+   {
+    "type": "p",
+    "text": "Analysts say the outcome could reshape U.S. influence in Latin America, as Lula's administration has pursued closer cooperation with Washington on trade and climate issues, while Bolsonaro's platform emphasizes a more nationalist, anti‑globalist stance. Voter turnout is expected to be high, reflecting the deep polarization within Brazil's electorate."
+   },
+   {
+    "type": "p",
+    "text": "Both candidates are campaigning on divergent visions for Brazil's economy, social policies, and foreign relations. Lula's supporters highlight his record on poverty reduction and environmental commitments, whereas Bolsonaro's camp warns of corruption and promises to restore what they call \"law and order\" in the country."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Brazil is Latin America's biggest economy, and its political direction influences U.S. trade, climate, and security interests in the region."
+   }
+  ],
+  "key_points": [
+   "The runoff pits Lula's left‑wing legacy against Trump‑aligned Flavio Bolsonaro.",
+   "Brazil's election outcome may affect U.S. diplomatic and economic leverage in the region.",
+   "The race underscores deep political polarization within Brazil's largest democracy."
+  ],
+  "meta_description": "Brazil's runoff election will decide between Lula's leftist legacy and Trump‑aligned Flavio Bolsonaro, impacting U.S. influence in Latin America.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "election",
+   "Lula da Silva",
+   "Flavio Bolsonaro",
+   "U.S.-Latin America relations"
+  ],
+  "slug": "brazil-runoff-pits-lula-legacy-against-trump-ally-flavio-7a2788",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-26T06:01:19Z"
  },
  {
   "id": "727ad38d32ee9e95",
@@ -2613,6 +3122,126 @@
   "added": "2026-10-25T19:56:53Z"
  },
  {
+  "id": "2a2fd8795ebef228",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
+  "source": "The Guardian",
+  "source_title": "‘Prairie Populists’ fight to win back rural voters long ceded to Republicans",
+  "source_summary": "Democratic and independent candidates stump the US midwest and prairie states, hoping to win over Republican strongholds In this final stretch of the US midterm elections, Democrats and independents could win back communities and towns across America’s rural heartlands through a combination of resurgent “prairie populism”, local despair over the impact of Donald Trump ’s agenda and an old-fashioned tenet of shoe-leather politics: showing up everywhere. When Dan Osborn rolled into one of the most rural counties in Nebraska earlier this month, he started walking into businesses in the tiny main drag of Arthur, ready to meet whomever he could in the town of about 100.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US Senate",
+   "House of Representatives",
+   "Democrats",
+   "US Congress",
+   "Nebraska",
+   "Iowa",
+   "Montana",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/aec5714f63d0d27948616c1e94cc724f25a3337f/272_0_3750_3000/master/3750.jpg?width=700&quality=85&auto=format&fit=max&s=3578b3dbcb6312b54b7737a64d18a1c2",
+  "published": "2026-10-25T14:37:29+00:00",
+  "headline": "Democrats and Independents Target Rural Midwest in Final Midterm Push",
+  "body": [
+   {
+    "type": "p",
+    "text": "As the 2026 U.S. midterm elections near their conclusion, Democratic and independent candidates are intensifying their presence in the Midwest’s prairie states. They are banking on a resurgence of “prairie populism” and growing local frustration with policies associated with former President Donald Trump to sway voters who have long supported Republicans."
+   },
+   {
+    "type": "p",
+    "text": "Campaigners are employing classic shoe‑leather politics, traveling to small towns and meeting residents face‑to‑face. In Nebraska, candidate Dan Osborn recently visited the tiny community of Arthur, a town of roughly 100 people, walking the main street and greeting anyone he encountered in an effort to build personal connections."
+   },
+   {
+    "type": "p",
+    "text": "The strategy reflects a broader effort to reclaim rural constituencies by highlighting economic distress and cultural concerns that resonate in these areas. Organizers hope that visible, on‑the‑ground campaigning will translate into votes that could alter the balance of power in Congress."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Shifts in rural voting patterns could influence the composition of the U.S. House and affect policy directions that impact both American and European interests."
+   }
+  ],
+  "key_points": [
+   "Democrats and independents are targeting Midwest rural voters with a mix of prairie populism and anti‑Trump sentiment.",
+   "Candidates like Dan Osborn are using intensive door‑to‑door outreach in tiny towns such as Arthur, Nebraska.",
+   "The push aims to flip traditionally Republican strongholds ahead of the final midterm results."
+  ],
+  "meta_description": "Democrats and independents intensify grassroots campaigns in the Midwest, seeking to win back rural voters ahead of the 2026 midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Democrats",
+   "Independents",
+   "Midwest",
+   "Rural Voters",
+   "Midterms",
+   "Prairie Populism"
+  ],
+  "slug": "democrats-independents-target-rural-midwest-final-midterm-push-2a2fd8",
+  "reading_minutes": 1,
+  "added": "2026-10-26T06:01:05Z"
+ },
+ {
+  "id": "fb66fb54bb096076",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/25/manzanar-japanese-incarceration-baseball",
+  "source": "The Guardian",
+  "source_title": "A child of Japanese incarceration’s call to arms: ‘The lessons of Manzanar have never been more urgent’",
+  "source_summary": "How a rebuilt, historic California baseball diamond embodies ‘the contradictions in America’s legacy’ When Dan Kwong first dreamed of staging baseball games at the Japanese American concentration camp where his family was held captive during the second world war , he thought of it as an exercise in living history, an eye-catching way to convey the trauma of 120,000 men, women and children who were locked up in the wake of the Japanese attack on Pearl Harbor. Baseball was a passion for Kwong, a 71-year-old performance artist from Los Angeles . He knew that the wartime internees had played the game not just as a distraction from their predicament, but as a quiet expression of their loyalty to the United States. He wanted to stage an event that would cast the game as an act of resistance, and teach new generations about the damage governments do when they strip a whole segment of the population of their constitutional rights.",
+  "source_tags": [
+   "California",
+   "Japan",
+   "Race",
+   "US immigration",
+   "Second world war",
+   "Baseball",
+   "West Coast",
+   "US news",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/85449800d660ab288efdebd907de9231fb8c5c95/365_0_2870_2296/master/2870.jpg?width=700&quality=85&auto=format&fit=max&s=f2661accdb5d962311e9fee67ce29df4",
+  "published": "2026-10-25T14:00:04+00:00",
+  "headline": "Artist Plans Baseball Games at Manzanar to Highlight Internment Legacy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Performance artist Dan Kwong, 71, is working to rebuild a historic baseball diamond at Manzanar, the former Japanese American internment camp in California. Kwong, who grew up hearing his family's wartime experience, sees the sport as a way to convey the trauma endured by the 120,000 internees during World War II."
+   },
+   {
+    "type": "p",
+    "text": "Kwong argues that baseball served both as a distraction and a quiet declaration of loyalty to the United States for those confined after Pearl Harbor. By staging games on the original field, he hopes to frame the activity as an act of resistance and a teaching tool for younger generations about the consequences of stripping constitutional rights from a whole community."
+   },
+   {
+    "type": "p",
+    "text": "The project aims to blend living history with contemporary performance, offering a tangible reminder of America’s contradictory legacy of freedom and incarceration. Kwong believes the lessons of Manzanar are especially urgent today."
+   }
+  ],
+  "key_points": [
+   "Dan Kwong plans to revive a baseball field at Manzanar to illustrate internment history.",
+   "He frames the sport as a form of resistance and loyalty among WWII Japanese American detainees.",
+   "The initiative seeks to educate new generations about the impact of denying constitutional rights."
+  ],
+  "meta_description": "Artist Dan Kwong rebuilds Manzanar baseball field to teach internment history and civil‑rights lessons.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manzanar",
+   "Japanese American internment",
+   "baseball",
+   "performance art",
+   "civil rights"
+  ],
+  "slug": "artist-plans-baseball-games-manzanar-highlight-internment-legacy-fb66fb",
+  "reading_minutes": 1,
+  "added": "2026-10-26T06:01:21Z"
+ },
+ {
   "id": "b55e32c9c2e2d41e",
   "source_url": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html",
   "source": "The New York Times",
@@ -3936,6 +4565,59 @@
   "slug": "premier-league-highlights-feature-five-games-last-season-s-72399f",
   "reading_minutes": 1,
   "added": "2026-10-24T21:31:50Z"
+ },
+ {
+  "id": "dca2ff6d556c80cc",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo",
+  "source": "BBC News",
+  "source_title": "Will a new code end 'rip-off parking charges'?",
+  "source_summary": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e375/live/494eded0-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
+  "published": "2026-10-25T07:05:30+00:00",
+  "headline": "UK Prime Minister Announces New Code to End Rip‑Off Parking Charges",
+  "body": [
+   {
+    "type": "p",
+    "text": "The UK prime minister has unveiled a new regulatory code aimed at curbing what he described as \"rip‑off parking charges\" imposed by private operators. The code is intended to set clearer standards for signage, pricing and enforcement, and will be enforced by local authorities."
+   },
+   {
+    "type": "p",
+    "text": "Under the proposal, operators must provide transparent pricing information and ensure that signage is visible and legible. The government says the measures will give motorists clearer expectations and reduce disputes over fines. Critics, however, question whether the code will have sufficient teeth to change entrenched practices."
+   },
+   {
+    "type": "p",
+    "text": "The government plans to roll out the code over the next twelve months, with a review scheduled after its initial implementation. If successful, the changes could reshape the private parking industry and affect how drivers across the country deal with parking penalties."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move could influence similar regulatory approaches in other European nations and affect cross‑border drivers who face private parking fines."
+   }
+  ],
+  "key_points": [
+   "A new code aims to standardise signage, pricing and enforcement for private parking operators.",
+   "The prime minister says the code will stop \"rip‑off\" charges, but its effectiveness is still uncertain.",
+   "Implementation is slated for the coming year, with a subsequent review to assess impact."
+  ],
+  "meta_description": "UK prime minister introduces a code to stop rip‑off parking charges, targeting clearer signage and pricing, with effectiveness yet to be seen.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "parking reform",
+   "UK government",
+   "consumer protection",
+   "private parking",
+   "regulation"
+  ],
+  "slug": "uk-prime-minister-announces-new-code-end-ripoff-parking-dca2ff",
+  "reading_minutes": 1,
+  "added": "2026-10-26T06:00:57Z"
  },
  {
   "id": "b1a5236735d03f3d",
