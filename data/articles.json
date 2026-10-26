@@ -1,5 +1,520 @@
 [
  {
+  "id": "d4946f64ebcc9f6e",
+  "source_url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+  "source": "NPR",
+  "source_title": "Brazil's left-wing President Lula elected for fourth term",
+  "source_summary": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7690x5127+0+0/resize/7690x5127!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F46%2F3b8586734e2997734a0ed801605d%2Fap26299000355395.jpg",
+  "published": "2026-10-26T00:35:00+00:00",
+  "headline": "Lula Wins Fourth Term, Defeating Flávio Bolsonaro in Brazil Runoff",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazil's 80-year-old president Luiz Inácio Lula da Silva secured a fourth term in office after a tightly contested runoff election. Lula, representing the left-wing Workers' Party, faced off against Flávio Bolsonaro, a candidate from the right‑leaning family of former President Jair Bolsonaro."
+   },
+   {
+    "type": "p",
+    "text": "The runoff, described as bitterly contested, concluded with Lula emerging victorious, extending his leadership into another four‑year period. Voter turnout and regional voting patterns highlighted a polarized electorate, with Lula drawing support from urban centers while Bolsonaro maintained strength in more conservative rural areas."
+   },
+   {
+    "type": "p",
+    "text": "Lula's re‑election marks a continuation of his administration's policies on social programs, environmental protection, and foreign relations, reinforcing Brazil's position as a major player in South American politics."
+   }
+  ],
+  "key_points": [
+   "President Lula, aged 80, was re‑elected for a fourth term in Brazil.",
+   "He defeated right‑wing candidate Flávio Bolsonaro in a closely fought runoff.",
+   "The election underscores deep political polarization within Brazil."
+  ],
+  "meta_description": "Brazil's President Lula, 80, wins a fourth term, beating Flávio Bolsonaro in a bitter runoff, extending his left‑wing agenda.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "Lula",
+   "election",
+   "Bolsonaro",
+   "runoff"
+  ],
+  "slug": "lula-wins-fourth-term-defeating-flavio-bolsonaro-brazil-runoff-d4946f",
+  "reading_minutes": 1,
+  "added": "2026-10-26T00:39:47Z"
+ },
+ {
+  "id": "a46dd8f247370b7b",
+  "source_url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election",
+  "source": "The New York Times",
+  "source_title": "Live Updates: Brazil Re-Elects Lula, Rejecting Predecessor’s Son",
+  "source_summary": "President Luiz Inácio Lula da Silva fended off a right-wing movement led by Flávio Bolsonaro, whose father was convicted of a coup attempt after the 2022 election. Transportation delays and bad weather disrupted Election Day.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25brazile-update-630-whlc/25brazile-update-630-whlc-mediumSquareAt3X.jpg",
+  "published": "2026-10-26T00:33:36+00:00",
+  "headline": "Brazil Re-Elects Lula, Defeating Bolsonaro‑Led Right‑Wing Challenge",
+  "body": [
+   {
+    "type": "p",
+    "text": "Incumbent President Luiz Inácio Lula da Silva secured a second term in Brazil’s presidential election, overcoming a coordinated right‑wing effort spearheaded by Flávio Bolsonaro. The younger Bolsonaro, son of former President Jair Bolsonaro, rallied supporters after his father was convicted of attempting a coup following the 2022 vote."
+   },
+   {
+    "type": "p",
+    "text": "Election day was marked by widespread transportation delays and severe weather, which disrupted voting in several regions. Despite these logistical hurdles, officials reported that the vote count confirmed Lula’s victory and a rejection of the Bolsonaro‑driven movement."
+   },
+   {
+    "type": "p",
+    "text": "The outcome reinforces Lula’s agenda of social programs and international cooperation, while signaling a setback for the far‑right faction that has sought to capitalize on the elder Bolsonaro’s legal troubles."
+   }
+  ],
+  "key_points": [
+   "President Lula won re‑election, defeating a right‑wing campaign led by Flávio Bolsonaro.",
+   "Jair Bolsonaro, convicted of a coup attempt after the 2022 election, could not translate his legal woes into electoral success for his son.",
+   "Transportation problems and bad weather caused delays but did not alter the overall result."
+  ],
+  "meta_description": "Brazil re‑elects Lula, beating a Bolsonaro‑led right‑wing challenge amid transport delays and bad weather on election day.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "Lula",
+   "Bolsonaro",
+   "election",
+   "democracy"
+  ],
+  "slug": "brazil-re-elects-lula-defeating-bolsonaroled-rightwing-challenge-a46dd8",
+  "reading_minutes": 1,
+  "added": "2026-10-26T00:40:03Z"
+ },
+ {
+  "id": "7a695e6a87c7ec62",
+  "source_url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+  "source": "The Guardian",
+  "source_title": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
+  "source_summary": "Leftist president Luiz Inácio Lula da Silva defeated far-right senator Flávio Bolsonaro and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could not be carried out, however, because he is in Paris on what the city government described as an “official mission”, and is not expected to return to Brazil until Monday. Late in the afternoon, Flávio Bolsonaro also filed requests for voting to be extended by two hours in cities in the states of São Paulo, Paraná and Santa Catarina, but because of heavy rain that he said had prevented voters from turning out.",
+  "source_tags": [
+   "Brazil",
+   "World news",
+   "Luiz Inácio Lula da Silva",
+   "Flávio Bolsonaro",
+   "Americas"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/3079922263f80f7783f0e582d2c97109a85fc9d1/389_0_4877_3900/master/4877.jpg?width=700&quality=85&auto=format&fit=max&s=4d762461cca02260271437bde059f66f",
+  "published": "2026-10-26T00:22:09+00:00",
+  "headline": "Lula Defeats Flávio Bolsonaro to Secure Fourth Non-Consecutive Term",
+  "body": [
+   {
+    "type": "p",
+    "text": "Left‑leaning president Luiz Inácio Lula da Silva won Brazil’s presidential runoff, beating far‑right senator Flávio Bolsonaro and earning a fourth, non‑consecutive term. The local electoral court confirmed the result and ordered the immediate reinstatement of the entire municipal bus fleet."
+   },
+   {
+    "type": "p",
+    "text": "The court also issued an arrest warrant for municipal transport secretary Pablo Souza on suspicion of an electoral offence and defying court orders. Souza could not be detained because he is in Paris on an official mission and is not expected back until Monday."
+   },
+   {
+    "type": "p",
+    "text": "In the final hours of voting, Flávio Bolsonaro asked for polls to stay open two extra hours in São Paulo, Paraná and Santa Catarina, citing heavy rain that he said kept voters from reaching the polls."
+   }
+  ],
+  "key_points": [
+   "Lula secured a fourth non‑consecutive presidential term, defeating Flávio Bolsonaro.",
+   "Brazil’s electoral court ordered the full restoration of the municipal bus fleet and issued an arrest warrant for transport secretary Pablo Souza.",
+   "Bolsonaro sought a two‑hour voting extension in three states, blaming heavy rain for low turnout."
+  ],
+  "meta_description": "Lula wins Brazil's presidency for a fourth term as courts restore bus fleet and issue arrest warrant for transport secretary.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "Lula",
+   "Bolsonaro",
+   "election",
+   "court",
+   "transport"
+  ],
+  "slug": "lula-defeats-flavio-bolsonaro-secure-fourth-non-consecutive-term-7a695e",
+  "reading_minutes": 1,
+  "added": "2026-10-26T00:40:15Z"
+ },
+ {
+  "id": "eae5b860906f3c0c",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo",
+  "source": "BBC Sport",
+  "source_title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+  "source_summary": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9581/live/b729bb60-d0cb-11f1-b86a-c167c5eb76b4.jpg",
+  "published": "2026-10-26T00:07:16+00:00",
+  "headline": "Mourinho Guides Real Madrid to Camp Nou Victory as Mbappé Scores Twice",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kylian Mbappé delivered a brace for Real Madrid at Barcelona's Camp Nou, helping José Mourinho's side secure a win in the latest El Clásico. The French forward's two goals opened the scoring and sealed the victory for the visitors."
+   },
+   {
+    "type": "p",
+    "text": "Mourinho, now in his thirteenth year of managing the Madrid club, continued his reputation for delivering results in high‑profile matches. The win adds momentum to Real Madrid's campaign as La Liga intensifies heading into the season's second half."
+   },
+   {
+    "type": "p",
+    "text": "The triumph at Barcelona underscores the competitive edge of both clubs in a league that has seen a surge in excitement and stakes following the recent influx of star talent."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The victory highlights Real Madrid's challenge for the La Liga title, a storyline followed closely by fans across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Kylian Mbappé scored two goals as Real Madrid beat Barcelona at Camp Nou.",
+   "José Mourinho secured the win, maintaining his strong record in El Clásico matches.",
+   "The result adds pressure to the La Liga title race as the season progresses."
+  ],
+  "meta_description": "Mbappé's brace leads Real Madrid to a Camp Nou win under Mourinho, boosting their La Liga title hopes.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "El Clasico",
+   "Real Madrid",
+   "Barcelona",
+   "Kylian Mbappé",
+   "José Mourinho",
+   "La Liga"
+  ],
+  "slug": "mourinho-guides-real-madrid-camp-nou-victory-mbappe-scores-eae5b8",
+  "reading_minutes": 1,
+  "added": "2026-10-26T00:39:51Z"
+ },
+ {
+  "id": "c0a1071cbb03abe1",
+  "source_url": "https://www.dw.com/en/brazil-elections-votes-being-tallied-after-polls-close/live-79755630?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Brazil elections: Votes being tallied after polls close",
+  "source_summary": "Votes are being tallied after polling was extended two more hours. The result between leftist Lula and right-wing Bolsonaro is expected to be very close. DW has the latest.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79755565_6.jpg",
+  "published": "2026-10-25T23:45:00+00:00",
+  "headline": "Brazil Vote Count Begins After Extended Polling, Lula-Bolsonaro Race Tight",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazil's presidential election results are now being tallied after authorities extended polling stations by two hours. The extension was announced as votes continued to pour in across the country, prompting officials to delay the close of the polls."
+   },
+   {
+    "type": "p",
+    "text": "The contest pits incumbent left‑leaning President Luiz Inácio Lula da Silva against former right‑wing president Jair Bolsonaro. Early indications suggest the race will be extremely close, with neither candidate yet securing a decisive lead."
+   },
+   {
+    "type": "p",
+    "text": "DW reports that the counting process is underway and that the final outcome will be announced once all ballots, including those cast during the extended hours, have been processed."
+   }
+  ],
+  "key_points": [
+   "Brazil extended polling by two hours before beginning the vote count.",
+   "The presidential race between Lula and Bolsonaro is expected to be very close.",
+   "Results will be released after all extended‑hour ballots are tallied."
+  ],
+  "meta_description": "Brazil extends polling and begins counting votes in a tight Lula‑Bolsonaro presidential race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "election",
+   "Lula",
+   "Bolsonaro",
+   "vote count"
+  ],
+  "slug": "brazil-vote-count-begins-after-extended-polling-lula-bolsonaro-c0a107",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-26T00:40:19Z"
+ },
+ {
+  "id": "03e91b2dcb779b9c",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
+  "source": "BBC News",
+  "source_title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+  "source_summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
+  "published": "2026-10-25T23:44:34+00:00",
+  "headline": "Data Centre Growth Sparks Environmental Debate Ahead of US Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Data centres, the backbone of today’s digital services, are expanding rapidly as demand for online content and cloud computing rises. The BBC’s latest analysis highlights this growth with detailed charts showing the increasing number of facilities worldwide."
+   },
+   {
+    "type": "p",
+    "text": "Alongside their economic importance, data centres are drawing scrutiny for their environmental footprint. Critics point to the high energy consumption and associated carbon emissions, prompting calls for stricter regulation and greener technology solutions."
+   },
+   {
+    "type": "p",
+    "text": "The issue has entered the political arena in the United States, where lawmakers are set to discuss potential policies on the eve of the midterm elections. The debate reflects broader concerns about balancing technological advancement with climate goals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The discussion links technology growth to climate policy, a topic of interest for voters and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Data centres are essential to digital infrastructure but consume significant energy.",
+   "Environmental groups are urging tighter controls on data centre emissions.",
+   "US midterm candidates are expected to address data centre regulation."
+  ],
+  "meta_description": "Data centre expansion raises environmental concerns as US midterm candidates prepare to address regulation.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "data centres",
+   "environment",
+   "US politics",
+   "climate",
+   "technology",
+   "midterms"
+  ],
+  "slug": "data-centre-growth-sparks-environmental-debate-ahead-us-midterms-03e91b",
+  "reading_minutes": 1,
+  "added": "2026-10-26T00:39:55Z"
+ },
+ {
+  "id": "f27c9278a6f441bb",
+  "source_url": "https://www.nytimes.com/2026/10/25/us/politics/obama-trump-competing-rallies-midterms.html",
+  "source": "The New York Times",
+  "source_title": "How Obama and Trump Made their Cases in Dueling Midterm Speeches",
+  "source_summary": "At rallies this weekend, Mr. Obama and Mr. Trump delivered two starkly contrasting pitches, differing in style and substance.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Democratic Party",
+   "Republican Party",
+   "Obama, Barack",
+   "Trump, Donald J",
+   "United States Politics and Government",
+   "United States Economy"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25pol-obama-trump-wtbj/25pol-obama-trump-wtbj-mediumSquareAt3X-v3.jpg",
+  "published": "2026-10-25T23:35:31+00:00",
+  "headline": "Obama and Trump Deliver Contrasting Midterm Rally Speeches",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Barack Obama and former President Donald Trump each addressed supporters at separate rallies over the weekend, presenting markedly different messages ahead of the upcoming midterm elections."
+   },
+   {
+    "type": "p",
+    "text": "Obama’s speech emphasized a collaborative approach and highlighted policy achievements, while Trump’s remarks focused on a confrontational tone and warned of perceived threats to his agenda. The two leaders used distinct rhetorical styles, with Obama opting for a measured delivery and Trump employing his characteristic assertiveness."
+   },
+   {
+    "type": "p",
+    "text": "Observers noted the stark divergence in substance, with each candidate framing the political stakes in ways that reflect their respective bases and campaign strategies."
+   }
+  ],
+  "key_points": [
+   "Obama and Trump gave opposing speeches at weekend rallies.",
+   "Their messages differed sharply in tone and policy focus.",
+   "The speeches underscore contrasting campaign strategies ahead of the midterms."
+  ],
+  "meta_description": "Obama and Trump delivered opposing rally speeches this weekend, highlighting stark differences in tone and policy ahead of the midterm elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Obama",
+   "Trump",
+   "midterm elections",
+   "rallies",
+   "political speeches"
+  ],
+  "slug": "obama-trump-deliver-contrasting-midterm-rally-speeches-f27c92",
+  "reading_minutes": 1,
+  "added": "2026-10-26T00:39:58Z"
+ },
+ {
+  "id": "0c47f3e2ef543823",
+  "source_url": "https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html",
+  "source": "The New York Times",
+  "source_title": "Aleksandar Vucic Concedes Defeat in Serbian Election",
+  "source_summary": "“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.",
+  "source_tags": [
+   "Vucic, Aleksandar",
+   "Serbia",
+   "Elections",
+   "Student List-Students Win (Serbia)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-serbia-vucic-mpgv/25int-serbia-vucic-mpgv-mediumSquareAt3X.jpg",
+  "published": "2026-10-25T23:10:41+00:00",
+  "headline": "Serbian President Vucic Concedes Defeat After Early Election Speech",
+  "body": [
+   {
+    "type": "p",
+    "text": "Serbian President Aleksandar Vucic addressed the nation shortly after the vote, stating, “It is clear that we have lost these elections.” In a surprisingly prompt concession, he offered congratulations to his political rivals, acknowledging the outcome without delay."
+   },
+   {
+    "type": "p",
+    "text": "Vucic’s early acknowledgment marks a rare moment of immediate acceptance in Serbian politics, signaling a peaceful transition of power. Observers noted the swift tone of his remarks, which contrasted with the usual post‑election rhetoric in the region."
+   }
+  ],
+  "key_points": [
+   "President Aleksandar Vucic publicly admitted defeat in the Serbian election.",
+   "He congratulated his opponents in an unusually early speech."
+  ],
+  "meta_description": "Serbian President Aleksandar Vucic quickly conceded defeat and praised his opponents after the latest election.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Serbia",
+   "election",
+   "Vucic",
+   "politics",
+   "Balkans",
+   "Europe"
+  ],
+  "slug": "serbian-president-vucic-concedes-defeat-after-early-election-speech-0c47f3",
+  "reading_minutes": 1,
+  "added": "2026-10-26T00:40:31Z"
+ },
+ {
+  "id": "7d7cbaf2a3e475f4",
+  "source_url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro",
+  "source": "BBC News",
+  "source_title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+  "source_summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/cedc9340-d071-11f1-afcb-6b9b9432d8fc.png",
+  "published": "2026-10-25T22:37:36+00:00",
+  "headline": "UK Government Doubles Funding to End Rough Sleeping by Christmas",
+  "body": [
+   {
+    "type": "p",
+    "text": "The British government announced that it will double the financial resources allocated to its programme aimed at removing people sleeping rough from the streets before the holiday season. The move follows Prime Minister Burnham's pledge, made in July when he entered Downing Street, to make ending rough sleeping his first priority in office."
+   },
+   {
+    "type": "p",
+    "text": "Details of the increased budget were not disclosed, but officials said the additional money will expand existing services such as emergency accommodation, outreach teams and support for long‑term housing solutions. The initiative targets a rapid reduction in visible homelessness ahead of Christmas, a period traditionally associated with heightened public concern over vulnerable populations."
+   },
+   {
+    "type": "p",
+    "text": "The funding boost reflects the government's broader commitment to tackle social inequality and improve public health outcomes, as rough sleeping has been linked to higher rates of illness and mortality. Stakeholders hope the accelerated effort will set a precedent for future anti‑homelessness policies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reducing visible homelessness before the holiday season addresses public health concerns and reflects a growing political focus on social welfare in the UK and Europe."
+   }
+  ],
+  "key_points": [
+   "The UK government will double funding for its rough‑sleeping reduction programme.",
+   "Prime Minister Burnham pledged to end rough sleeping as his first priority in July.",
+   "The expanded budget aims to clear streets of rough sleepers before Christmas."
+  ],
+  "meta_description": "UK government doubles funding to end rough sleeping by Christmas, fulfilling Prime Minister Burnham's pledge.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "homelessness",
+   "UK government",
+   "funding",
+   "social policy",
+   "Christmas",
+   "Burnham"
+  ],
+  "slug": "uk-government-doubles-funding-end-rough-sleeping-christmas-7d7cba",
+  "reading_minutes": 1,
+  "added": "2026-10-26T00:40:06Z"
+ },
+ {
+  "id": "db37df6aa9a40aa4",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+  "source": "The Guardian",
+  "source_title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
+  "source_summary": "Trump again congratulated Ohio senator’s rear end before his cheeky comment about rapper being ‘hard to miss’ Donald Trump reiterated his apparent love for buxom bums during a rally in Michigan on Sunday where he encouraged the crowd to compliment rapper Nicki Minaj ’s behind. Trump’s cheeky comments about Minaj’s derriere came as he explained his recent observation on the Republican Ohio senator Jon Husted’s rear end. Earlier in October, Trump said of the former college football player: “I don’t do this with men very often. I started examining his body, because I didn’t know he was a great athlete. And I looked and I watched up and down. I looked at his ass and I looked at the whole – and then I looked at his hands. Look at his hands. He’s got these, like, claws.",
+  "source_tags": [
+   "US news",
+   "US politics",
+   "Michigan",
+   "Donald Trump",
+   "Nicki Minaj",
+   "Republicans",
+   "US Congress",
+   "US Senate",
+   "US midterm elections 2026",
+   "Culture"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/cfcc724fcbcea840ba286d8048faeb6a92d72108/245_0_4760_3808/master/4760.jpg?width=700&quality=85&auto=format&fit=max&s=ed5ee5265b477653c4179977e891fb0e",
+  "published": "2026-10-25T22:36:59+00:00",
+  "headline": "Trump Praises Ohio Senator's Rear and Nicki Minaj at Michigan Rally",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump sparked controversy at a Michigan rally on Sunday by praising the physique of Ohio Republican senator Jon Husted, describing his rear end in detail. Trump said he rarely comments on men's bodies but examined Husted’s “ass” and “claws” on his hands."
+   },
+   {
+    "type": "p",
+    "text": "During the same event, Trump turned his attention to rapper Nicki Minaj, urging the audience to compliment her behind and calling it “hard to miss.” The comments were part of his broader effort to energize the crowd with off‑beat remarks."
+   },
+   {
+    "type": "p",
+    "text": "The remarks have drawn criticism from media outlets for their focus on physical attributes rather than policy, highlighting Trump’s continued use of provocative language in his political appearances."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remarks illustrate Trump’s ongoing strategy of using sensational statements to attract media attention and rally supporters ahead of upcoming elections."
+   }
+  ],
+  "key_points": [
+   "Trump highlighted Ohio Senator Jon Husted’s rear end at a Michigan rally.",
+   "He also encouraged the crowd to comment on rapper Nicki Minaj’s behind.",
+   "The comments have been criticized for emphasizing appearance over political issues."
+  ],
+  "meta_description": "Trump praised Ohio Senator Jon Husted's rear and urged fans to notice Nicki Minaj's behind at a Michigan rally, sparking criticism.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Jon Husted",
+   "Nicki Minaj",
+   "Michigan rally",
+   "political rhetoric"
+  ],
+  "slug": "trump-praises-ohio-senator-s-rear-nicki-minaj-michigan-db37df",
+  "reading_minutes": 1,
+  "added": "2026-10-26T00:40:10Z"
+ },
+ {
   "id": "c14780fb38f3e40a",
   "source_url": "https://www.dw.com/en/brazil-elections-vote-counting-resumes-after-extension/live-79755630?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
@@ -548,6 +1063,120 @@
   "slug": "alaska-senate-candidate-mary-peltola-injured-car-crash-327b58",
   "reading_minutes": 1,
   "added": "2026-10-25T22:29:25Z"
+ },
+ {
+  "id": "960d56865066c30c",
+  "source_url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+  "source": "TechCrunch",
+  "source_title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+  "source_summary": "\"That's a 12-year-old view of the world.\"",
+  "source_tags": [
+   "Government & Policy",
+   "Media & Entertainment"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/paulina-borsook.jpeg?resize=1139,1200",
+  "published": "2026-10-25T20:20:08+00:00",
+  "headline": "Author Revives “Cyberselfish” to Challenge Techno‑Libertarian Ideals",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch reported on October 25, 2026, that the author of the once‑out‑of‑print book “Cyberselfish” is re‑issuing the work with a fresh critique of techno‑libertarianism. The writer argues that the philosophy underpinning many current digital policies is outdated, calling it “a 12‑year‑old view of the world.”"
+   },
+   {
+    "type": "p",
+    "text": "The new edition positions the book as a counter‑narrative to the prevailing belief that technology alone can solve societal problems without regulation. By revisiting the text, the author hopes to spark debate about the balance between innovation and public oversight in the digital age."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the resurgence of “Cyberselfish” arrives amid growing scrutiny of big‑tech influence in both the United States and Europe. The book’s renewed presence may inform ongoing policy discussions about data privacy, platform accountability, and the role of government in tech governance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "As lawmakers grapple with big‑tech power, the book’s critique offers a timely perspective on the limits of laissez‑faire digital policy for American and European audiences."
+   }
+  ],
+  "key_points": [
+   "The author reissues “Cyberselfish” to argue that techno‑libertarianism is an outdated perspective.",
+   "The book’s revival coincides with heightened debate over tech regulation in the US and Europe."
+  ],
+  "meta_description": "Author revives “Cyberselfish” to challenge outdated techno‑libertarian views amid rising tech regulation debates.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "techno-libertarianism",
+   "digital policy",
+   "book revival",
+   "tech regulation",
+   "Cyberselfish"
+  ],
+  "slug": "author-revives-cyberselfish-challenge-technolibertarian-ideals-960d56",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-26T00:40:23Z"
+ },
+ {
+  "id": "b77e72f00b20d00e",
+  "source_url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+  "source": "The Verge",
+  "source_title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+  "source_summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen. Tellingly, the cracks all seem to happen in the […]",
+  "source_tags": [
+   "Apple",
+   "iPhone",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-25T20:16:19+00:00",
+  "headline": "YouTuber Analyzes iPhone Duo Failure, Points to Hinge Flaw",
+  "body": [
+   {
+    "type": "p",
+    "text": "A popular YouTube creator recently opened up an iPhone Duo to investigate the wave of breakage reports that have flooded social media and the device’s subreddit. Users have described the foldable phone cracking within hours of first use, often after the hinge catches on something and produces an audible snap before the screen shatters."
+   },
+   {
+    "type": "p",
+    "text": "The creator’s teardown revealed that the hinge mechanism appears to place excessive stress on the display assembly, creating a weak point where cracks consistently originate. While the video did not include official statements from Apple, the visual evidence aligns with the pattern of failures shared by owners, suggesting a design or manufacturing issue rather than isolated mishandling."
+   },
+   {
+    "type": "p",
+    "text": "The findings have reignited discussion about the durability of emerging foldable smartphones and raised questions about quality control for high‑end devices. Apple has not yet responded to the allegations, and the iPhone Duo remains on sale despite the growing consumer concern."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The issue highlights potential reliability risks for early adopters of foldable smartphones in the US and Europe, where such devices are marketed as premium products."
+   }
+  ],
+  "key_points": [
+   "A YouTuber’s teardown links iPhone Duo screen cracks to stress from the hinge.",
+   "Multiple users report the phone breaking within hours, often after an audible snap.",
+   "Apple has not commented on the alleged design flaw."
+  ],
+  "meta_description": "YouTuber’s iPhone Duo teardown points to hinge stress as cause of rapid screen cracks, sparking consumer concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "iPhone Duo",
+   "foldable phones",
+   "hardware failure",
+   "Apple",
+   "consumer tech"
+  ],
+  "slug": "youtuber-analyzes-iphone-duo-failure-points-hinge-flaw-b77e72",
+  "reading_minutes": 1,
+  "added": "2026-10-26T00:40:27Z"
  },
  {
   "id": "2681b7465621216a",
