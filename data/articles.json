@@ -1,5 +1,659 @@
 [
  {
+  "id": "645128d14760516f",
+  "source_url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+  "source": "The New York Times",
+  "source_title": "Live Updates: Polls Close Soon in Israeli Election as Netanyahu Fights for Political Survival",
+  "source_summary": "Prime Minister Benjamin Netanyahu’s far-right coalition faces an opposition loosely led by a former military chief of staff. Election officials reported record turnout but a clear winner might not emerge immediately.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-promo-12pm-zvcf/27israel-promo-12pm-zvcf-mediumSquareAt3X.jpg",
+  "published": "2026-10-27T19:55:55+00:00",
+  "headline": "Netanyahu’s Far‑Right Coalition Faces Tight Race as Israeli Vote Closes",
+  "body": [
+   {
+    "type": "p",
+    "text": "Israel’s election officials announced that polling stations are about to close, reporting a record voter turnout for the contest. Prime Minister Benjamin Netanyahu leads a far‑right coalition that is fighting to retain power amid intense scrutiny."
+   },
+   {
+    "type": "p",
+    "text": "The opposition is loosely organized around a former chief of staff of the Israeli military, who has emerged as the primary challenger to Netanyahu’s bloc. Both sides are urging supporters to cast their ballots before the deadline."
+   },
+   {
+    "type": "p",
+    "text": "Early results suggest a fragmented outcome, and officials cautioned that a definitive winner may not be known immediately as votes continue to be counted across the country."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The election outcome will shape Israel’s domestic policies and its foreign relations with the United States and European partners."
+   }
+  ],
+  "key_points": [
+   "Record turnout was reported as Israeli polls close on the election day.",
+   "Netanyahu’s far‑right coalition faces a unified opposition led by a former military chief of staff.",
+   "Election officials warned that a clear winner may not be declared right away."
+  ],
+  "meta_description": "Israel's election closes with record turnout; Netanyahu's far‑right coalition battles a military‑led opposition, and a clear winner remains uncertain.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "election",
+   "Netanyahu",
+   "coalition",
+   "opposition",
+   "turnout"
+  ],
+  "slug": "netanyahus-farright-coalition-faces-tight-race-israeli-vote-closes-645128",
+  "reading_minutes": 1,
+  "added": "2026-10-27T20:00:45Z"
+ },
+ {
+  "id": "d5036b72fd590c47",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o",
+  "source": "BBC News",
+  "source_title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+  "source_summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7041/live/3d52f8e0-d23a-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-10-27T19:41:05+00:00",
+  "headline": "UK Budget to Tackle Cost‑of‑Living and Devolution, Says Chris Mason",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chris Mason, the BBC political editor, argues that the upcoming UK budget must make progress on the prime minister's pledges, particularly by easing the cost‑of‑living squeeze on households. He highlights that relief on energy bills will be a central focus of Chancellor John Healey's first budget."
+   },
+   {
+    "type": "p",
+    "text": "Mason also notes that the budget is expected to include significant announcements on devolution, signalling a push to give more powers to regional governments. He stresses that these measures are essential for delivering on the government's broader promises and for addressing public concerns about rising living costs."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Energy price pressures and regional governance reforms are issues also affecting Europe and North America, making the UK's fiscal approach of broader interest."
+   }
+  ],
+  "key_points": [
+   "The first budget by Chancellor John Healey will prioritize energy‑bill relief.",
+   "Devolution proposals are set to feature prominently in the budget.",
+   "Chris Mason says the budget must advance the prime minister's key promises."
+  ],
+  "meta_description": "BBC's Chris Mason says the UK budget must focus on energy‑bill relief and devolution to meet the prime minister's promises.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "budget",
+   "cost of living",
+   "energy bills",
+   "devolution",
+   "UK politics"
+  ],
+  "slug": "uk-budget-tackle-costofliving-devolution-says-chris-mason-d5036b",
+  "reading_minutes": 1,
+  "added": "2026-10-27T20:01:01Z"
+ },
+ {
+  "id": "1d9a88889f6545c9",
+  "source_url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Flavio Bolsonaro flees Brazil for US amid investigation — reports",
+  "source_summary": "Flavio Bolsonaro is reportedly on the way to the US, according to reports citing people close to the senator. Bolsonaro's passports were canceled earlier Tuesday.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79773345_6.jpg",
+  "published": "2026-10-27T19:34:00+00:00",
+  "headline": "Flavio Bolsonaro Heads to US After Passport Cancellation",
+  "body": [
+   {
+    "type": "p",
+    "text": "According to reports citing sources close to the Brazilian senator, Flavio Bolsonaro is on his way to the United States. The move follows the cancellation of his passports earlier on Tuesday."
+   },
+   {
+    "type": "p",
+    "text": "The travel comes amid an ongoing investigation involving the senator, though details of the probe were not disclosed in the source. No official statement has been released by Bolsonaro or his office regarding the trip."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The senator's flight to the US highlights political turbulence in Brazil and may affect bilateral relations and investor confidence."
+   }
+  ],
+  "key_points": [
+   "Flavio Bolsonaro is reportedly traveling to the United States after his passports were revoked.",
+   "The departure occurs while he is under investigation, according to unnamed sources."
+  ],
+  "meta_description": "Flavio Bolsonaro is reportedly heading to the US after his passports were cancelled amid an investigation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "Bolsonaro",
+   "United States",
+   "investigation",
+   "passport cancellation",
+   "politics"
+  ],
+  "slug": "flavio-bolsonaro-heads-us-after-passport-cancellation-1d9a88",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T20:00:58Z"
+ },
+ {
+  "id": "bc54af1a3c4b704d",
+  "source_url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo",
+  "source": "BBC News",
+  "source_title": "Dutch zookeeper dies after being mauled in leopard enclosure",
+  "source_summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg",
+  "published": "2026-10-27T19:30:37+00:00",
+  "headline": "Dutch Zookeeper Killed After Leopard Attack at Dutch Park",
+  "body": [
+   {
+    "type": "p",
+    "text": "A 57-year-old Dutch zookeeper died after being mauled by a leopard in an enclosure at a wildlife park in the Netherlands. The incident occurred while she was performing her duties inside the animal’s habitat."
+   },
+   {
+    "type": "p",
+    "text": "The woman began working at the park when she was 17 and had been employed there on and off for roughly four decades, according to park officials. Her long‑term experience included caring for a range of species across the park’s facilities."
+   },
+   {
+    "type": "p",
+    "text": "Authorities are investigating the circumstances of the attack, and the park has temporarily closed the leopard enclosure pending a safety review."
+   }
+  ],
+  "key_points": [
+   "A veteran Dutch zookeeper was fatally injured by a leopard at a wildlife park.",
+   "She had started her career at the park at age 17 and worked there for about 40 years."
+  ],
+  "meta_description": "A long‑time Dutch zookeeper was killed after a leopard attack at a wildlife park, highlighting zoo safety concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "zoo",
+   "animal attack",
+   "Netherlands",
+   "leopard",
+   "workplace safety"
+  ],
+  "slug": "dutch-zookeeper-killed-after-leopard-attack-dutch-park-bc54af",
+  "reading_minutes": 1,
+  "added": "2026-10-27T20:01:18Z"
+ },
+ {
+  "id": "d4dc3defcdd4828d",
+  "source_url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service",
+  "source": "The Verge",
+  "source_title": "Elon Musk says Ukraine’s military violated Starlink’s terms of service",
+  "source_summary": "Elon Musk claims Ukraine violated Starlink's terms of service before the recent slowdown, as reported earlier by Ars Technica. According to Musk, \"Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\" however Ukrainian officials have denied that happened, or that it […]",
+  "source_tags": [
+   "Elon Musk",
+   "News",
+   "Policy",
+   "Politics",
+   "Science",
+   "Space",
+   "SpaceX",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-27T19:24:06+00:00",
+  "headline": "Elon Musk Accuses Ukraine Military of Breaching Starlink Terms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk said the Ukrainian armed forces broke Starlink's terms of service by using the satellite internet service to conduct offensive drone strikes that resulted in fatalities. He added that a loophole allowing such use was closed last week."
+   },
+   {
+    "type": "p",
+    "text": "Ukrainian officials have rejected Musk's claim, stating that the allegations are unfounded and that they have not used Starlink for offensive operations. The dispute follows earlier reports of a slowdown in Starlink service to Ukraine, which Musk linked to the alleged violation."
+   },
+   {
+    "type": "p",
+    "text": "The controversy highlights ongoing tensions over the role of private satellite networks in wartime communications and the responsibilities of providers to enforce usage policies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The issue raises questions for Western allies about how private tech firms regulate military use of their platforms during conflicts."
+   }
+  ],
+  "key_points": [
+   "Musk alleges Ukraine used Starlink for offensive drone strikes, violating its terms.",
+   "Ukrainian officials deny the accusation and any misuse of the service.",
+   "Musk says a loophole enabling the alleged use was closed recently."
+  ],
+  "meta_description": "Elon Musk claims Ukraine breached Starlink terms with offensive drone strikes, a charge denied by Kyiv officials.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "Starlink",
+   "Ukraine",
+   "drone warfare",
+   "satellite internet",
+   "tech policy"
+  ],
+  "slug": "elon-musk-accuses-ukraine-military-breaching-starlink-terms-d4dc3d",
+  "reading_minutes": 1,
+  "added": "2026-10-27T20:00:49Z"
+ },
+ {
+  "id": "3f741ace13499415",
+  "source_url": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
+  "source": "The New York Times",
+  "source_title": "Who Stands to Gain From an Anthropic I.P.O.",
+  "source_summary": "Wall Street banks and chipmakers are among those poised to capitalize on the artificial intelligence giant’s public trading debut.",
+  "source_tags": [
+   "internal-storyline-no",
+   "Artificial Intelligence",
+   "Anthropic AI LLC",
+   "OpenAI Labs",
+   "Initial Public Offerings",
+   "CoreWeave",
+   "Stocks and Bonds",
+   "Venture Capital",
+   "Schmidt, Eric E",
+   "Bankman-Fried, Sam"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27db-anthropic-fwjk/27db-anthropic-fwjk-mediumSquareAt3X.jpg",
+  "published": "2026-10-27T19:17:28+00:00",
+  "headline": "Wall Street Banks and Chipmakers Set to Profit From AI Giant IPO",
+  "body": [
+   {
+    "type": "p",
+    "text": "The upcoming public offering of the artificial‑intelligence leader is expected to create lucrative opportunities for several sectors of the financial market. Wall Street banks are positioned to earn substantial underwriting fees as they manage the complex process of taking the AI firm public."
+   },
+   {
+    "type": "p",
+    "text": "In parallel, semiconductor manufacturers stand to gain from heightened demand for the specialized chips that power advanced AI models. The IPO is likely to spotlight the critical role of hardware in the AI ecosystem, drawing investor attention to chipmakers that supply the necessary processing power."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the convergence of finance and technology in this offering underscores a broader trend of deepening ties between capital markets and the AI industry. The transaction could set a benchmark for future tech listings, influencing how investors evaluate similar high‑growth companies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The IPO could affect investment strategies for U.S. and European investors by highlighting profitable sectors tied to AI growth."
+   }
+  ],
+  "key_points": [
+   "Wall Street banks are expected to collect significant underwriting fees from the AI firm's IPO.",
+   "Chipmakers could see increased demand as the IPO highlights the importance of AI hardware.",
+   "The offering may become a reference point for future technology listings on public markets."
+  ],
+  "meta_description": "Wall Street banks and chipmakers are poised to benefit from the upcoming AI giant's public offering, signaling new investment opportunities.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "IPO",
+   "Artificial Intelligence",
+   "Wall Street",
+   "Chipmakers",
+   "Finance"
+  ],
+  "slug": "wall-street-banks-chipmakers-set-profit-from-ai-giant-3f741a",
+  "reading_minutes": 1,
+  "added": "2026-10-27T20:00:54Z"
+ },
+ {
+  "id": "3f00aa7711f74ea3",
+  "source_url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+  "source": "CNBC",
+  "source_title": "Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027",
+  "source_summary": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108469569-1793115881380-gettyimages-2271074696-BOEING_FACTORY.jpeg?v=1793115913&w=1920&h=1080",
+  "published": "2026-10-27T19:10:24+00:00",
+  "headline": "Boeing Shares Drop 10% as 737 Max Production Delay to Late 2027",
+  "body": [
+   {
+    "type": "p",
+    "text": "Boeing’s stock fell about 10% after the company announced it will not significantly increase 737 Max output until the latter part of 2027. The airline‑maker is set to discuss its production outlook with investors when it releases quarterly results before the market opens on Tuesday."
+   },
+   {
+    "type": "p",
+    "text": "The delayed ramp‑up means the firm will keep current 737 Max build rates for the next year, postponing any major expansion of the model’s supply. Analysts and investors will be watching the briefing for clues on how the schedule aligns with airline demand and the company’s broader recovery plan."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The 737 Max is a core product for many U.S. and European airlines, so a slower production pace could affect fleet planning and investor sentiment."
+   }
+  ],
+  "key_points": [
+   "Boeing’s shares slid roughly 10% following the production delay announcement.",
+   "The company says a substantial increase in 737 Max output won’t occur until late 2027.",
+   "Investors will receive further details during the pre‑market earnings briefing on Tuesday."
+  ],
+  "meta_description": "Boeing stock drops 10% as the firm says 737 Max production won’t ramp up until late 2027, with investors briefed before Tuesday’s earnings release.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Boeing",
+   "737 Max",
+   "stock",
+   "production delay",
+   "aviation",
+   "earnings"
+  ],
+  "slug": "boeing-shares-drop-10-737-max-production-delay-late-3f00aa",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T20:01:10Z"
+ },
+ {
+  "id": "83abec18ac18e960",
+  "source_url": "https://www.nytimes.com/2026/10/27/us/politics/midterm-polls-errors-states.html",
+  "source": "The New York Times",
+  "source_title": "How Accurate Are Midterm Polls? Errors Vary From State to State.",
+  "source_summary": "Recent presidential election polls have overestimated Democrats, but midterm polls are far less consistent state by state. The differences could matter quite a bit.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Polls and Public Opinion"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00ea-diverging-poll-error-qmjz/00ea-diverging-poll-error-qmjz-mediumSquareAt3X.jpg",
+  "published": "2026-10-27T19:00:07+00:00",
+  "headline": "Midterm Poll Accuracy Varies Widely Across States, Study Finds",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new analysis of recent midterm election polling shows that accuracy differs markedly from one state to another, contrasting with the more uniform overestimation of Democratic support seen in the latest presidential race. While presidential polls consistently leaned too far toward Democrats, the midterm surveys displayed a patchwork of errors that could influence local campaign strategies."
+   },
+   {
+    "type": "p",
+    "text": "The study highlights that some states experienced poll margins that were close to the actual vote totals, while others saw deviations large enough to potentially sway perceptions of candidate viability. Researchers note that these inconsistencies stem from variations in sampling methods, respondent turnout, and regional political dynamics."
+   },
+   {
+    "type": "p",
+    "text": "Analysts caution that the uneven reliability of midterm polls may affect voter enthusiasm and media narratives, especially in tightly contested races where a few percentage points can determine the outcome."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For voters and candidates in the US and Europe, understanding poll reliability helps gauge election dynamics and avoid misreading momentum in closely fought races."
+   }
+  ],
+  "key_points": [
+   "Midterm poll errors differ significantly across states, unlike the uniform Democratic overestimation in recent presidential polls.",
+   "Variations in sampling and turnout contribute to the inconsistent accuracy of state-level midterm forecasts.",
+   "Inaccurate polls can shape campaign decisions and voter expectations in close contests."
+  ],
+  "meta_description": "Midterm polls show wide state-by-state accuracy gaps, unlike the consistent Democratic overestimation in recent presidential polls.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterm polls",
+   "election accuracy",
+   "state politics",
+   "voter behavior",
+   "polling methodology"
+  ],
+  "slug": "midterm-poll-accuracy-varies-widely-across-states-study-finds-83abec",
+  "reading_minutes": 1,
+  "added": "2026-10-27T20:01:22Z"
+ },
+ {
+  "id": "cf4c3d6521f9d3e6",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo",
+  "source": "BBC Sport",
+  "source_title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
+  "source_summary": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0191/live/aa944b90-d22e-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-10-27T18:56:36+00:00",
+  "headline": "Manchester United Retain Michael Carrick Amid Turbulent Two-Day Saga",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United confirmed on Thursday that Michael Carrick will remain as head coach for the upcoming Premier League clash with Chelsea, despite a chaotic 48‑hour period that saw intense speculation about his future. The club’s decision came after internal discussions and external pressure, leaving the coaching staff in a state of uncertainty before the match.\n\nSources close to Old Trafford described the two days as “turbulent,” with senior figures weighing options amid fan unrest and media scrutiny. Carrick, a former United midfielder, has been under pressure since taking over the role earlier this season, and the club’s leadership opted to maintain continuity rather than make a sudden change.\n\nThe announcement was made ahead of Saturday’s fixture, giving the team a clear direction as they prepare to travel to Stamford Bridge. United’s board emphasized the need for stability and confidence in the squad, hoping the decision will steady the club’s performance in the league."
+   },
+   {
+    "type": "p",
+    "text": "The move underscores the challenges United faces in balancing short‑term results with longer‑term planning, a dilemma familiar to many top‑flight clubs."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "United’s choice reflects broader pressures on elite clubs to manage coaching stability while chasing immediate results in the Premier League."
+   }
+  ],
+  "key_points": [
+   "Manchester United decided to keep Michael Carrick as head coach for the Chelsea match.",
+   "The decision followed a chaotic 48‑hour period of speculation and internal debate.",
+   "Club officials cited stability and continuity as reasons for retaining Carrick."
+  ],
+  "meta_description": "Manchester United retains Michael Carrick as head coach after a turbulent 48‑hour period, aiming for stability ahead of the Chelsea match.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Premier League",
+   "coaching",
+   "Chelsea"
+  ],
+  "slug": "manchester-united-retain-michael-carrick-amid-turbulent-two-day-cf4c3d",
+  "reading_minutes": 1,
+  "added": "2026-10-27T20:01:13Z"
+ },
+ {
+  "id": "44543de8094b27f0",
+  "source_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+  "source": "TechCrunch",
+  "source_title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+  "source_summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+  "source_tags": [
+   "AI",
+   "Startups",
+   "Venture",
+   "disruptive",
+   "In Brief"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
+  "published": "2026-10-27T18:55:35+00:00",
+  "headline": "Disruptive Launches $10 Billion Fund Targeting Ten New Tech Ventures",
+  "body": [
+   {
+    "type": "p",
+    "text": "Venture firm Disruptive announced the creation of a new $10 billion fund designed to back at least ten emerging companies. The capital raise positions the firm to make sizable investments across a range of technology sectors."
+   },
+   {
+    "type": "p",
+    "text": "The fund follows Disruptive's recent high‑profile backing of chip maker Groq and AI voice‑generation startup ElevenLabs, underscoring its focus on cutting‑edge hardware and artificial‑intelligence applications. While specific targets have not been disclosed, the firm indicated a strategy of “big bets” on companies with strong growth potential."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the size of the fund places Disruptive among the largest single‑purpose venture pools in the market, potentially accelerating development cycles for next‑generation computing and AI products."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The sizable fund could speed up innovation in AI and semiconductor fields, areas critical to both US and European tech competitiveness."
+   }
+  ],
+  "key_points": [
+   "Disruptive has raised a $10 billion venture fund.",
+   "The fund aims to invest in at least ten technology companies.",
+   "Previous investments include chip startup Groq and AI voice firm ElevenLabs."
+  ],
+  "meta_description": "Disruptive unveils a $10 billion fund to back at least ten tech startups, building on past bets in Groq and ElevenLabs.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "venture capital",
+   "AI",
+   "semiconductors",
+   "startup funding",
+   "technology investment"
+  ],
+  "slug": "disruptive-launches-10-billion-fund-targeting-ten-new-tech-44543d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T20:01:05Z"
+ },
+ {
+  "id": "a7c8f1720fadb445",
+  "source_url": "https://www.nytimes.com/2026/10/27/dining/halloween-candy-prices.html",
+  "source": "The New York Times",
+  "source_title": "Why Is Halloween Candy So Expensive?",
+  "source_summary": "The average cost of a 100-piece bag has jumped 71 percent in the last five years. Consumers are thinking twice about what they’ll spend.",
+  "source_tags": [
+   "Candy",
+   "Halloween",
+   "Budgets and Budgeting"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28FD-halloween-candy4-lzvj/28FD-halloween-candy4-lzvj-mediumSquareAt3X-v2.jpg",
+  "published": "2026-10-27T18:49:47+00:00",
+  "headline": "Halloween Candy Prices Surge 71% Since 2021",
+  "body": [
+   {
+    "type": "p",
+    "text": "The cost of a typical 100‑piece bag of Halloween candy has risen sharply, climbing 71 percent over the past five years, according to recent reporting. This steep increase reflects broader price pressures that have hit seasonal goods, making the once‑affordable treat bag a noticeably pricier purchase for families."
+   },
+   {
+    "type": "p",
+    "text": "Consumers are responding to the higher price tag by rethinking their holiday budgets. Shoppers report scaling back the quantity of candy they buy, seeking lower‑cost alternatives, or opting for homemade treats to stretch their spending. The shift underscores how rising costs are influencing holiday‑season buying habits across the United States and beyond."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The price surge affects household budgets during a major consumer holiday, highlighting the broader impact of inflation on seasonal spending in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The average price of a 100‑piece Halloween candy bag has jumped 71% in five years.",
+   "Higher candy costs are prompting shoppers to cut back on quantity or look for cheaper options."
+  ],
+  "meta_description": "Halloween candy prices have risen 71% in five years, leading shoppers to curb spending and seek cheaper alternatives.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "candy",
+   "Halloween",
+   "prices",
+   "inflation",
+   "consumer spending"
+  ],
+  "slug": "halloween-candy-prices-surge-71-since-2021-a7c8f1",
+  "reading_minutes": 1,
+  "added": "2026-10-27T20:01:30Z"
+ },
+ {
+  "id": "5d1ff194b502790c",
+  "source_url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
+  "source": "The Verge",
+  "source_title": "Trump is making it easier for fossil fuel companies to leak methane",
+  "source_summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse gas that's up to 80 times as potent as carbon dioxide on a 20-year horizon. It's the primary component of […]",
+  "source_tags": [
+   "Energy",
+   "Environment",
+   "News",
+   "Policy",
+   "Science"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK466_ELECTION_2024_CVirginia_F.webp?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-27T18:25:13+00:00",
+  "headline": "Trump Administration Moves to Loosen Methane Leak Rules for Oil and Gas",
+  "body": [
+   {
+    "type": "p",
+    "text": "The White House is set to announce today that it will roll back regulations designed to curb methane emissions from fossil‑fuel operations. The proposed changes would weaken existing safeguards that require oil and gas producers to detect and repair leaks more quickly."
+   },
+   {
+    "type": "p",
+    "text": "Methane, a major component of natural gas, contributes to smog formation and is a potent greenhouse gas—up to 80 times more effective than carbon dioxide at trapping heat over a 20‑year period. Environmental groups warn that easing the rules could increase atmospheric methane levels and undermine climate‑reduction goals."
+   },
+   {
+    "type": "p",
+    "text": "The administration frames the move as a step to reduce compliance costs for energy companies, while critics argue it prioritizes industry interests over public health and climate protection."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher methane emissions accelerate global warming and affect air quality, issues of concern for both U.S. and European climate policies."
+   }
+  ],
+  "key_points": [
+   "The Trump administration plans to weaken federal methane‑leak regulations for oil and gas firms.",
+   "Methane is a smog‑forming pollutant and a greenhouse gas up to 80 times more potent than CO₂ over 20 years.",
+   "Environmental advocates say the rollback could raise emissions and hinder climate targets."
+  ],
+  "meta_description": "Trump administration to ease methane leak rules, raising concerns about increased greenhouse gas emissions and air quality.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "methane",
+   "climate",
+   "oil and gas",
+   "Trump administration",
+   "emissions",
+   "environmental policy"
+  ],
+  "slug": "trump-administration-moves-loosen-methane-leak-rules-oil-gas-5d1ff1",
+  "reading_minutes": 1,
+  "added": "2026-10-27T20:01:25Z"
+ },
+ {
   "id": "8652a5d73cd2a99b",
   "source_url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
   "source": "TechCrunch",
