@@ -1,5 +1,686 @@
 [
  {
+  "id": "8652a5d73cd2a99b",
+  "source_url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+  "source": "TechCrunch",
+  "source_title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+  "source_summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2x capability.",
+  "source_tags": [
+   "Climate",
+   "Transportation",
+   "electric vehicles",
+   "Ford",
+   "V2X"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1200,675",
+  "published": "2026-10-27T14:51:33+00:00",
+  "headline": "Ford Introduces Low‑Cost EV With Home‑Power Capability and V2X Chargers",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ford announced the upcoming Fathom model, which it says will be the most affordable American‑made electric vehicle able to supply electricity to a residence. The automaker highlighted the vehicle’s ability to function as a backup power source for homes, a feature it markets as part of its broader energy strategy."
+   },
+   {
+    "type": "p",
+    "text": "Alongside the Fathom, Ford is launching two new charging units that support vehicle‑to‑everything (V2X) technology. These chargers can deliver power from the EV back to a house or even to the electrical grid, offering flexibility for owners who want to use their car’s battery as a supplemental energy resource."
+   },
+   {
+    "type": "p",
+    "text": "Ford’s rollout positions the company to compete in the growing market for electric vehicles that double as mobile power stations, a segment that is attracting interest from consumers seeking resilience against outages and from utilities exploring distributed energy resources."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Home‑powering EVs and V2X technology could help U.S. and European households reduce reliance on traditional generators and support grid stability."
+   }
+  ],
+  "key_points": [
+   "Ford’s Fathom EV will be the cheapest U.S.‑built electric car capable of powering a home.",
+   "The company is releasing two V2X‑compatible chargers that can feed electricity back to a house or the grid.",
+   "The move targets buyers interested in using EV batteries for backup power and grid support."
+  ],
+  "meta_description": "Ford unveils the low‑cost Fathom EV that can power a home and introduces V2X chargers for grid integration.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ford",
+   "electric vehicles",
+   "V2X",
+   "home power",
+   "charging technology"
+  ],
+  "slug": "ford-introduces-lowcost-ev-with-homepower-capability-v2x-chargers-8652a5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T14:52:42Z"
+ },
+ {
+  "id": "92276c9205541fc2",
+  "source_url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+  "source": "CNBC",
+  "source_title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+  "source_summary": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108464534-1793027769008-gettyimages-2296453825-dellatorre-notitle260906_np6GQ.jpeg?v=1793027790&w=1920&h=1080",
+  "published": "2026-10-27T14:49:29+00:00",
+  "headline": "Coca-Cola Raises Earnings Forecast as North America Demand Slows",
+  "body": [
+   {
+    "type": "p",
+    "text": "Coca-Cola announced an upward revision to its earnings outlook for the current fiscal year, despite reporting weaker demand for its products in the North American market. The company said the new guidance reflects stronger performance in other regions and ongoing pricing initiatives."
+   },
+   {
+    "type": "p",
+    "text": "The beverage giant's shares have risen roughly 32% so far in 2026, lifting its market capitalization to about $398 billion. Analysts noted that the stock rally underscores investor confidence in Coca-Cola's ability to offset regional softness with growth elsewhere."
+   },
+   {
+    "type": "p",
+    "text": "While the North American slowdown was highlighted, Coca-Cola did not provide specific figures for the decline or detail the drivers behind it. The company emphasized that its global portfolio and brand strength remain solid foundations for future earnings."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The earnings upgrade signals continued profitability for a major consumer staple, affecting investors and indicating shifting demand patterns in the U.S. and Canada."
+   }
+  ],
+  "key_points": [
+   "Coca-Cola lifted its earnings outlook for the year despite a dip in North American demand.",
+   "The stock has climbed about 32% in 2026, pushing the company's market value to roughly $398 billion."
+  ],
+  "meta_description": "Coca-Cola raises its earnings forecast as North American demand weakens, sending its stock up 32% and market cap to $398 billion.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Coca-Cola",
+   "earnings outlook",
+   "stock performance",
+   "beverage industry",
+   "North America demand"
+  ],
+  "slug": "coca-cola-raises-earnings-forecast-north-america-demand-slows-92276c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T14:52:46Z"
+ },
+ {
+  "id": "1d859680790bd694",
+  "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+  "source": "NPR",
+  "source_title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
+  "source_summary": "Brazil's opposition party accepts Lula's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5102x3401+0+0/resize/5102x3401!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F22%2F9ee7f26144c5b7a185360da6adb8%2Fap26299745358738.jpg",
+  "published": "2026-10-27T14:41:17+00:00",
+  "headline": "Bolsonaro Party Acknowledges Brazil Election Loss as Flávio Refuses to Concede",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazil's main opposition coalition formally recognized Luiz Inácio Lula da Silva's victory in the recent presidential election, ending the legal battle over the results."
+   },
+   {
+    "type": "p",
+    "text": "Despite the party's acceptance, Flávio Bolsonaro, son of former President Jair Bolsonaro and a leading figure in the party, publicly refused to concede, maintaining his criticism of the vote."
+   },
+   {
+    "type": "p",
+    "text": "In the United States, former President Donald Trump labeled the Brazilian election \"rigged\" but did not provide evidence to support the claim."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute highlights ongoing political polarization in Brazil and draws attention from U.S. leaders, potentially influencing diplomatic and trade relations."
+   }
+  ],
+  "key_points": [
+   "Brazil's opposition coalition accepted Lula's win, ending the contest over the election outcome.",
+   "Flávio Bolsonaro rejected the result, continuing to dispute the vote despite his party's acknowledgment.",
+   "Former U.S. President Donald Trump called the Brazilian election \"rigged\" without offering proof."
+  ],
+  "meta_description": "Brazil's opposition accepts Lula's win while Flávio Bolsonaro refuses to concede; Trump calls the vote rigged without evidence.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "election",
+   "Lula",
+   "Bolsonaro",
+   "Trump"
+  ],
+  "slug": "bolsonaro-party-acknowledges-brazil-election-loss-flavio-refuses-concede-1d8596",
+  "reading_minutes": 1,
+  "added": "2026-10-27T14:52:50Z"
+ },
+ {
+  "id": "97030c77df504008",
+  "source_url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+  "source": "TechCrunch",
+  "source_title": "US government says hackers are now exploiting critical PHP web bugs",
+  "source_summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+  "source_tags": [
+   "Security",
+   "CISA",
+   "cyberattacks",
+   "cybersecurity",
+   "php",
+   "us government"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-outage-2300859754.jpg?resize=1200,867",
+  "published": "2026-10-27T14:40:39+00:00",
+  "headline": "US Cyber Agency Warns Hackers Exploiting Critical PHP Vulnerabilities",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United States' primary cyber security agency has issued an alert that threat actors have discovered a method to exploit flaws in the widely deployed PHP programming language. PHP powers roughly 70 percent of the software that runs websites worldwide, making the vulnerability especially concerning for a broad range of online services."
+   },
+   {
+    "type": "p",
+    "text": "According to the agency, the newly identified exploitation technique targets core components of PHP that are integral to web applications. While the specific technical details were not disclosed, the warning emphasizes that attackers could leverage the bug to gain unauthorized access, disrupt services, or exfiltrate data from affected sites."
+   },
+   {
+    "type": "p",
+    "text": "The agency advises organizations that rely on PHP to review their security posture, apply any available patches, and monitor for suspicious activity. It also recommends that developers follow best practices for hardening PHP installations and stay informed about forthcoming updates from the PHP development community."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Because PHP is foundational to most websites, a successful exploit could affect millions of users and businesses across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "US cyber agency alerts that hackers can now exploit critical bugs in PHP, which underpins about 70% of web software.",
+   "The vulnerability could allow attackers to compromise, disrupt, or steal data from a large number of websites.",
+   "Officials urge immediate patching and heightened monitoring for organizations using PHP."
+  ],
+  "meta_description": "US cyber agency warns that hackers are exploiting critical PHP bugs that affect 70% of web software, urging immediate patches.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "PHP",
+   "cybersecurity",
+   "software vulnerability",
+   "US government",
+   "web security"
+  ],
+  "slug": "us-cyber-agency-warns-hackers-exploiting-critical-php-vulnerabilities-97030c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T14:53:02Z"
+ },
+ {
+  "id": "cf9b0941943d0f7a",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+  "source": "The Guardian",
+  "source_title": "Trump and Rubio head to Texas to stump for Ken Paxton as midterms campaign enters final week – US politics live",
+  "source_summary": "President and secretary of state to flaunt oil tanker filled with Venezuelan crude bound for Texas refineries Sign up for the Breaking News US email US voters: tell us what issues will decide your vote? President Trump is set to headline back-to-back campaign events in Texas on Tuesday, as Republicans look to bolster Senate candidate Ken Paxton in the face of a strong challenge from Democrat James Talarico. Trump will rally in Corpus Christi this afternoon, then head to Lubbock for an evening event. He’ll be joined on the campaign trail by Secretary of State Marco Rubio – a highly unusual move for the nation’s top diplomat.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US politics",
+   "James Comey",
+   "Texas",
+   "US news",
+   "Donald Trump"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/ee632e84e8ef85acbbca5e4516e767ec538f16e2/155_0_4636_3710/master/4636.jpg?width=700&quality=85&auto=format&fit=max&s=53dab9ea479d6bf3e41381f09d62ebd5",
+  "published": "2026-10-27T14:36:01+00:00",
+  "headline": "Trump and Rubio Rally in Texas for Ken Paxton Amid Midterm Push",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump will headline two campaign events in Texas on Tuesday, aiming to boost Republican Senate candidate Ken Paxton as the midterm race tightens. The first rally is scheduled for the afternoon in Corpus Christi, where Trump is expected to highlight the shipment of Venezuelan crude to Texas refineries."
+   },
+   {
+    "type": "p",
+    "text": "After the Corpus Christi appearance, Trump will travel to Lubbock for an evening event. He will be accompanied by Secretary of State Marco Rubio, a move described as highly unusual for the nation’s top diplomat. The duo’s presence is intended to reinforce Paxton’s campaign against Democratic challenger James Talarico."
+   },
+   {
+    "type": "p",
+    "text": "Republicans are using the high‑profile visits to underscore energy issues and to rally support ahead of the final week of the midterm campaign."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rallies come at a critical moment in the U.S. midterm elections, where Senate control could shift and energy policy debates are intensifying."
+   }
+  ],
+  "key_points": [
+   "President Trump and Secretary of State Marco Rubio will hold back‑to‑back rallies in Corpus Christi and Lubbock on Tuesday.",
+   "The events are designed to bolster Republican Senate candidate Ken Paxton against Democrat James Talarico.",
+   "Rubio’s participation is noted as an uncommon involvement of a senior diplomat in campaign activities."
+  ],
+  "meta_description": "Trump and Secretary of State Rubio rally in Texas to support Senate candidate Ken Paxton ahead of a tight midterm race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Rubio",
+   "Texas",
+   "midterms",
+   "Ken Paxton",
+   "campaign"
+  ],
+  "slug": "trump-rubio-rally-texas-ken-paxton-amid-midterm-push-cf9b09",
+  "reading_minutes": 1,
+  "added": "2026-10-27T14:52:54Z"
+ },
+ {
+  "id": "1027487b7389f561",
+  "source_url": "https://www.dw.com/en/turnout-at-israel-s-election-has-reached-a-record-high-at-the-halfway-stage/live-79713839?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Turnout at Israel's election has reached a record high at the halfway stage",
+  "source_summary": "Almost 45% of the electorate had voted by 2 p.m., the highest share since such records began in 1973. The highly anticipated vote is expected to be a close-fought contest, and perhaps even a stalemate.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79778456_6.jpg",
+  "published": "2026-10-27T14:35:00+00:00",
+  "headline": "Record Turnout Reaches 45% in Israel Election Midday Vote",
+  "body": [
+   {
+    "type": "p",
+    "text": "By 2 p.m. on election day, almost 45% of Israel's eligible voters had cast ballots, marking the highest midday participation rate since record‑keeping began in 1973, according to DW."
+   },
+   {
+    "type": "p",
+    "text": "The surge in voter engagement comes as the contest is widely expected to be tightly fought, with analysts warning that the result could end in a stalemate."
+   },
+   {
+    "type": "p",
+    "text": "Election officials said the high turnout reflects strong public interest in the outcome, though they did not provide further details on projected final numbers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Israel's political direction influences regional stability and has implications for U.S. and European diplomatic and security interests."
+   }
+  ],
+  "key_points": [
+   "Nearly 45% of Israel's electorate voted by early afternoon, a record since 1973.",
+   "The election is projected to be closely contested and may result in a stalemate."
+  ],
+  "meta_description": "Israel's election sees a record 45% turnout by 2 p.m., the highest since 1973, amid expectations of a close race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "election",
+   "voter turnout",
+   "midday vote",
+   "political stalemate"
+  ],
+  "slug": "record-turnout-reaches-45-israel-election-midday-vote-102748",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T14:53:11Z"
+ },
+ {
+  "id": "6b9d6b83985d990a",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo",
+  "source": "BBC News",
+  "source_title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+  "source_summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f138/live/2d67b730-d204-11f1-b441-2b33b063138f.png",
+  "published": "2026-10-27T14:29:39+00:00",
+  "headline": "Ballon d'Or Event Highlights French Journalist’s Terrorism Charge in Algeria",
+  "body": [
+   {
+    "type": "p",
+    "text": "During the recent Ballon d'Or ceremony, organizers drew attention to the imprisonment of a French sports journalist in Algeria. The journalist has been detained on accusations of supporting terrorism after traveling to Kabylie, a region known for its political sensitivity."
+   },
+   {
+    "type": "p",
+    "text": "Algerian authorities allege that the reporter’s visit to Kabylie constituted a breach of the law, leading to his incarceration. The case has sparked concern among media groups and human‑rights advocates who view the charge as potentially linked to the journalist’s professional activities."
+   },
+   {
+    "type": "p",
+    "text": "The Ballon d'Or ceremony, a high‑profile football awards event, provided a platform for the issue to reach an international audience, underscoring the intersection of sport, politics and press freedom."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case raises questions about press freedom and the treatment of journalists in politically sensitive regions, issues relevant to democratic societies in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "A French sports journalist is jailed in Algeria on terrorism‑related charges after a trip to Kabylie.",
+   "The Ballon d'Or ceremony was used to publicise the journalist’s case to a global audience."
+  ],
+  "meta_description": "Ballon d'Or ceremony spotlights French journalist jailed in Algeria on terrorism charges after visiting Kabylie.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Algeria",
+   "journalism",
+   "press freedom",
+   "terrorism charges",
+   "Ballon d'Or"
+  ],
+  "slug": "ballon-d-or-event-highlights-french-journalists-terrorism-charge-6b9d6b",
+  "reading_minutes": 1,
+  "added": "2026-10-27T14:53:26Z"
+ },
+ {
+  "id": "568e455d0b5aa7ca",
+  "source_url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+  "source": "TechCrunch",
+  "source_title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+  "source_summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+  "source_tags": [
+   "Gadgets",
+   "Hardware",
+   "Apple"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675",
+  "published": "2026-10-27T14:25:11+00:00",
+  "headline": "Apple Launches 14‑Inch MacBook Pro Powered by New M6 Chip",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple announced a refreshed 14‑inch MacBook Pro equipped with its latest M6 processor. The device targets professional users who need high‑performance computing in a portable form factor."
+   },
+   {
+    "type": "p",
+    "text": "The new model promises up to 24 hours of battery life, extending the time users can work without recharging. It also adds support for Wi‑Fi 7 and Bluetooth 6, offering faster wireless speeds and lower latency for peripherals and network connections."
+   },
+   {
+    "type": "p",
+    "text": "Apple’s unveiling highlights the company’s continued focus on integrating cutting‑edge silicon and connectivity standards into its laptop lineup, aiming to keep pace with evolving user demands for speed and endurance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Extended battery life and faster wireless links help professionals in the US and Europe stay productive while on the move."
+   }
+  ],
+  "key_points": [
+   "Apple’s new 14‑inch MacBook Pro is powered by the M6 chip.",
+   "The laptop delivers up to 24 hours of battery life.",
+   "It includes next‑generation Wi‑Fi 7 and Bluetooth 6 connectivity."
+  ],
+  "meta_description": "Apple introduces a 14‑inch MacBook Pro with M6 chip, 24‑hour battery, Wi‑Fi 7 and Bluetooth 6.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "MacBook Pro",
+   "M6 chip",
+   "Wi‑Fi 7",
+   "Bluetooth 6",
+   "laptops"
+  ],
+  "slug": "apple-launches-14inch-macbook-pro-powered-new-m6-chip-568e45",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T14:53:22Z"
+ },
+ {
+  "id": "3a16e66b816e2460",
+  "source_url": "https://www.nytimes.com/2026/10/27/us/politics/los-angeles-mayor-nithya-raman-democratic-socialist.html",
+  "source": "The New York Times",
+  "source_title": "Nithya Raman Is Not L.A.’s Mamdani. But She Might Become Mayor, Too.",
+  "source_summary": "Little known a year ago, Nithya Raman is a Democratic Socialist drawing comparisons with New York’s Zohran Mamdani. She has mounted a strong challenge to the incumbent, Karen Bass.",
+  "source_tags": [
+   "Elections, Mayors",
+   "Midterm Elections (2026)",
+   "Mayors",
+   "City Councils",
+   "Bass, Karen Ruth",
+   "Mamdani, Zohran",
+   "Raman, Nithya",
+   "Los Angeles (Calif)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27nat-la-raman-wpmv/27nat-la-raman-wpmv-mediumSquareAt3X.jpg",
+  "published": "2026-10-27T14:24:14+00:00",
+  "headline": "Nithua Raman Challenges Karen Bass in L.A. Mayoral Race as Socialist",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic Socialist Nithya Raman, a relatively unknown figure a year ago, has entered the Los Angeles mayoral contest as a serious contender. Her campaign has drawn comparisons to New York City councilmember Zohran Mamdani, highlighting a growing wave of progressive candidates in major U.S. cities."
+   },
+   {
+    "type": "p",
+    "text": "Raman is mounting a robust challenge to incumbent Mayor Karen Bass, positioning herself as a reform-minded alternative. While Bass has the advantage of incumbency, Raman’s platform emphasizes affordable housing, homelessness solutions, and increased civic participation."
+   },
+   {
+    "type": "p",
+    "text": "The race underscores a broader shift within the Democratic Party, as left‑leaning activists seek higher office. Observers note that Raman’s surge could reshape the political landscape of Los Angeles if she succeeds in unseating Bass."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A progressive win in Los Angeles could signal broader shifts in American urban politics, influencing policy debates on housing and homelessness across the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "Nithya Raman, a Democratic Socialist, is running a strong campaign against incumbent Mayor Karen Bass.",
+   "Her candidacy is being likened to that of New York’s progressive councilmember Zohran Mamdani.",
+   "The contest reflects a rising influence of progressive politics in major U.S. cities."
+  ],
+  "meta_description": "Democratic Socialist Nithya Raman challenges incumbent Karen Bass in the L.A. mayoral race, drawing parallels to New York's Zohran Mamdani.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Los Angeles",
+   "mayoral race",
+   "Nithya Raman",
+   "Karen Bass",
+   "Democratic Socialism"
+  ],
+  "slug": "nithua-raman-challenges-karen-bass-l-mayoral-race-socialist-3a16e6",
+  "reading_minutes": 1,
+  "added": "2026-10-27T14:53:15Z"
+ },
+ {
+  "id": "146430d5061cfdaa",
+  "source_url": "https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html",
+  "source": "The New York Times",
+  "source_title": "China Steps In to Rescue Stocks, But the Market Continues to Fall",
+  "source_summary": "The Communist Party uses a “national team” of state-owned investment funds to stem the market rout. But this time, investors are not sure it will work.",
+  "source_tags": [
+   "China",
+   "Stocks and Bonds",
+   "Banking and Financial Institutions",
+   "Politics and Government",
+   "Regulation and Deregulation of Industry",
+   "Communist Party of China",
+   "Xi Jinping"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27biz-china-stocks-02-cfmq/27biz-china-stocks-02-cfmq-mediumSquareAt3X.jpg",
+  "published": "2026-10-27T14:15:17+00:00",
+  "headline": "China Deploys State‑Owned Funds to Stabilize Falling Stock Market",
+  "body": [
+   {
+    "type": "p",
+    "text": "Beijing has mobilized a “national team” of state‑owned investment funds in an effort to halt a sharp decline in China’s equity markets. The Communist Party’s intervention aims to provide liquidity and restore confidence after weeks of heavy selling."
+   },
+   {
+    "type": "p",
+    "text": "Despite the influx of capital, many investors remain doubtful that the rescue will reverse the trend. Analysts note that previous rounds of state support have produced only temporary rebounds, and market participants are watching closely for signs of sustained buying pressure."
+   },
+   {
+    "type": "p",
+    "text": "The latest measures include coordinated purchases of blue‑chip shares and direct injections into key indices. While the strategy has slowed the pace of the rout, the overall market continues to slide, underscoring lingering uncertainty about China’s economic outlook."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The health of China’s stock market influences global equity flows and can affect U.S. and European investors with exposure to Chinese assets."
+   }
+  ],
+  "key_points": [
+   "China’s government has activated a state‑owned “national team” to support its stock market.",
+   "Investors remain skeptical, citing past interventions that yielded only short‑term gains.",
+   "The market has steadied but still trends lower despite the rescue effort."
+  ],
+  "meta_description": "China uses state‑owned funds to prop up its falling stock market, but investors doubt the rescue will succeed.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "China",
+   "stock market",
+   "state-owned funds",
+   "market intervention",
+   "investor sentiment"
+  ],
+  "slug": "china-deploys-stateowned-funds-stabilize-falling-stock-market-146430",
+  "reading_minutes": 1,
+  "added": "2026-10-27T14:53:06Z"
+ },
+ {
+  "id": "e02f49004960a261",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6y8lgg21l89o",
+  "source": "BBC Sport",
+  "source_title": "Ballon d'Or in London - the most chaotic ever?",
+  "source_summary": "It was the first time the Ballon d'Or had been held in London in its 70-year history - but the event was not plain sailing. BBC Sport assesses a chaotic night.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/047c/live/b205ec60-d208-11f1-b3b6-c1e79e957e40.jpg",
+  "published": "2026-10-27T14:10:26+00:00",
+  "headline": "Ballon d'Or Held in London for First Time Amid Chaotic Night",
+  "body": [
+   {
+    "type": "p",
+    "text": "The 2026 Ballon d'Or ceremony marked a historic first, taking place in London after seven decades of being hosted elsewhere."
+   },
+   {
+    "type": "p",
+    "text": "BBC Sport described the evening as chaotic, noting that the event did not proceed smoothly despite its landmark location."
+   },
+   {
+    "type": "p",
+    "text": "The disruption highlighted challenges in organizing a high‑profile football awards show in a new city, though the ceremony still concluded with the presentation of the prestigious trophy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift to London underscores the global reach of football's top honors and signals potential logistical hurdles for future international award events."
+   }
+  ],
+  "key_points": [
+   "The Ballon d'Or was hosted in London for the first time in its 70‑year history.",
+   "BBC Sport characterized the night as chaotic and not without difficulties."
+  ],
+  "meta_description": "The Ballon d'Or's first London ceremony was marred by chaos, according to BBC Sport.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ballon d'Or",
+   "London",
+   "football awards",
+   "BBC Sport",
+   "sports event"
+  ],
+  "slug": "ballon-d-or-held-london-first-time-amid-chaotic-e02f49",
+  "reading_minutes": 1,
+  "added": "2026-10-27T14:52:58Z"
+ },
+ {
+  "id": "e359a2572dbe9fc0",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cqr7y33ekv0go",
+  "source": "BBC Sport",
+  "source_title": "Williams loses again - to opponent 28 years younger",
+  "source_summary": "Former world number one Venus Williams, 46, loses for the 16th match in a row as she is beaten by an opponent 28 years younger.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3a6/live/848f76a0-d205-11f1-b3b6-c1e79e957e40.jpg",
+  "published": "2026-10-27T13:40:56+00:00",
+  "headline": "Venus Williams, 46, Falls to Opponent 28 Years Her Junior",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former world number one Venus Williams, now 46, suffered her 16th consecutive defeat on the professional circuit. The loss came at the hands of a much younger rival who is 28 years her junior."
+   },
+   {
+    "type": "p",
+    "text": "Williams' recent run of defeats highlights the challenges veteran players face when competing against rising talent. The age gap underscores the physical demands of modern tennis and the difficulty of maintaining peak performance into one's mid‑forties."
+   },
+   {
+    "type": "p",
+    "text": "Despite the setback, Williams remains a celebrated figure in the sport, having amassed multiple Grand Slam titles and a lasting influence on women's tennis worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Williams' enduring presence illustrates the longevity of elite athletes and the evolving competitiveness of women's tennis for fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Venus Williams, 46, lost her 16th straight match.",
+   "Her opponent was 28 years younger, emphasizing the age gap in elite tennis."
+  ],
+  "meta_description": "Venus Williams, 46, records her 16th straight loss, beaten by an opponent 28 years younger, highlighting age challenges in tennis.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Venus Williams",
+   "tennis",
+   "age gap",
+   "losing streak",
+   "women's tennis"
+  ],
+  "slug": "venus-williams-46-falls-opponent-28-years-her-junior-e359a2",
+  "reading_minutes": 1,
+  "added": "2026-10-27T14:53:18Z"
+ },
+ {
   "id": "057d0979b59fdf86",
   "source_url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
   "source": "BBC News",
