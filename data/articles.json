@@ -1,5 +1,647 @@
 [
  {
+  "id": "057d0979b59fdf86",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo",
+  "source": "BBC News",
+  "source_title": "Truce begins in Ukraine city where residents ate weeds to survive",
+  "source_summary": "The ceasefire in Oleshky, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
+  "published": "2026-10-27T08:01:22+00:00",
+  "headline": "Ceasefire Declared in Oleshky to Enable Aid and Evacuation",
+  "body": [
+   {
+    "type": "p",
+    "text": "A ceasefire has begun in the Ukrainian city of Oleshky, where residents have endured extreme hardship, including subsisting on weeds. The pause in fighting was announced by US First Lady Melania Trump and is intended to facilitate the delivery of humanitarian aid and the safe evacuation of civilians."
+   },
+   {
+    "type": "p",
+    "text": "The truce follows weeks of intense combat that left the city’s infrastructure crippled and food supplies scarce. Aid agencies are preparing to move relief convoys into Oleshky, while local authorities coordinate evacuation routes for those seeking to leave the war‑torn area."
+   },
+   {
+    "type": "p",
+    "text": "International observers note that the ceasefire offers a rare window for relief efforts in a region that has seen limited access for humanitarian workers. The situation remains fragile, and the continuation of the truce will depend on compliance by both sides of the conflict."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ceasefire could ease a humanitarian crisis that has drawn international concern and may affect broader stability in the region."
+   }
+  ],
+  "key_points": [
+   "US First Lady Melania Trump announced a ceasefire in Oleshky to allow aid deliveries.",
+   "Residents in Oleshky have been forced to eat weeds due to severe food shortages.",
+   "The truce aims to enable civilian evacuations and humanitarian assistance."
+  ],
+  "meta_description": "A ceasefire in Oleshky, announced by US First Lady Melania Trump, aims to deliver aid and evacuate civilians after residents endured extreme shortages.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "humanitarian aid",
+   "ceasefire",
+   "Melania Trump",
+   "Oleshky",
+   "civilian evacuation"
+  ],
+  "slug": "ceasefire-declared-oleshky-enable-aid-evacuation-057d09",
+  "reading_minutes": 1,
+  "added": "2026-10-27T08:19:58Z"
+ },
+ {
+  "id": "46a0c85d2a467b67",
+  "source_url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o",
+  "source": "BBC News",
+  "source_title": "Independent review announced into murder of student Henry Nowak",
+  "source_summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43b/live/79bb9a20-603f-11f1-89a3-d1f559421220.jpg",
+  "published": "2026-10-27T07:51:57+00:00",
+  "headline": "UK Home Secretary Launches Independent Review of Henry Nowak Murder",
+  "body": [
+   {
+    "type": "p",
+    "text": "The British Home Secretary announced an independent inquiry into the killing of student Henry Nowak, pledging to uncover the full sequence of events surrounding the crime. The review will examine what occurred before, during, and after the night of the murder, aiming to provide a comprehensive account of the case."
+   },
+   {
+    "type": "p",
+    "text": "Officials said the investigation will be led by an external panel with powers to interview witnesses, review evidence and assess the actions of law‑enforcement agencies. The Home Secretary emphasized the need for transparency and accountability, stating that the truth must be established for the victim’s family and the public."
+   },
+   {
+    "type": "p",
+    "text": "The announcement follows public calls for clarity after the case attracted significant media attention. The review’s findings are expected to be published later this year, with recommendations that could influence future policing procedures and victim support services."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The review highlights the UK government's focus on transparency in criminal investigations, a concern shared by audiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "An independent review into Henry Nowak's murder has been commissioned by the UK Home Secretary.",
+   "The inquiry will scrutinise all aspects of the case, from pre‑incident events to the aftermath.",
+   "Findings are slated for release later in the year, potentially shaping policing policy."
+  ],
+  "meta_description": "UK Home Secretary launches independent review of student Henry Nowak's murder to uncover the truth and assess police actions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "law enforcement",
+   "independent review",
+   "murder investigation",
+   "public trust"
+  ],
+  "slug": "uk-home-secretary-launches-independent-review-henry-nowak-murder-46a0c8",
+  "reading_minutes": 1,
+  "added": "2026-10-27T08:20:15Z"
+ },
+ {
+  "id": "725d0d0e43bca57c",
+  "source_url": "https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Police in northern Germany search for suspects after car ramming overnight injures several",
+  "source_summary": "A person intentionally drove into a group of people in a northern German town, police have said. The suspects fled on foot and remain at large.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79772564_6.jpg",
+  "published": "2026-10-27T07:38:00+00:00",
+  "headline": "Police Hunt Suspects After Overnight Car Ramming Injures Several in Northern German Town",
+  "body": [
+   {
+    "type": "p",
+    "text": "Police in a northern German town reported that a vehicle was deliberately driven into a crowd during the early hours of Tuesday, injuring several people. Authorities said the driver accelerated into the group before abandoning the car and fleeing on foot."
+   },
+   {
+    "type": "p",
+    "text": "The incident prompted an immediate police response, with officers securing the scene and providing medical assistance to the victims. The suspects remain at large, and a search operation has been launched to locate them."
+   },
+   {
+    "type": "p",
+    "text": "Local officials emphasized that the motive behind the attack is still under investigation, and they are urging anyone with information to come forward. The police have not released details about the number of injured or the identities of the suspects."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack highlights ongoing concerns about vehicle‑ramming incidents in Europe and the need for heightened public safety measures."
+   }
+  ],
+  "key_points": [
+   "A vehicle was intentionally driven into a crowd in a northern German town, injuring multiple people.",
+   "The driver abandoned the car and escaped on foot; police are still searching for the suspects.",
+   "Authorities have not disclosed the motive or the number of victims."
+  ],
+  "meta_description": "Police search for suspects after a deliberate car ramming injures several people in a northern German town.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Germany",
+   "police",
+   "vehicle attack",
+   "public safety",
+   "northern Germany"
+  ],
+  "slug": "police-hunt-suspects-after-overnight-car-ramming-injures-several-725d0d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T08:20:19Z"
+ },
+ {
+  "id": "e7016c03eca0c093",
+  "source_url": "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "India news: Arunachal sees fresh violence over proposed dam",
+  "source_summary": "More violence erupted in India's northeastern state of Arunachal Pradesh over proposed hydroelectric projects that locals are protesting. Also, India's top court will hear pleas against the poll body chief. More on DW.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79771583_6.jpg",
+  "published": "2026-10-27T07:23:00+00:00",
+  "headline": "Violence Erupts in Arunachal Pradesh Over Proposed Hydroelectric Dam",
+  "body": [
+   {
+    "type": "p",
+    "text": "Protests against a planned hydroelectric dam in India's northeastern state of Arunachal Pradesh turned violent again, with clashes reported between local demonstrators and security forces. The unrest follows earlier demonstrations by residents who fear the project could damage the region's fragile ecosystem and displace communities."
+   },
+   {
+    "type": "p",
+    "text": "The incidents occurred as India's Supreme Court prepared to hear petitions challenging the chief of the Election Commission, adding a separate layer of political tension to the region. Authorities have deployed additional police to contain the situation, but reports indicate that injuries were sustained on both sides."
+   },
+   {
+    "type": "p",
+    "text": "Local activists continue to demand a halt to the dam construction, citing insufficient consultation and potential environmental harm. The government has not yet announced a definitive response to the grievances, while the court case against the election chief proceeds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The conflict highlights challenges in balancing infrastructure development with indigenous rights and environmental protection, issues relevant to democratic societies worldwide."
+   }
+  ],
+  "key_points": [
+   "Violent clashes broke out in Arunachal Pradesh over a proposed hydroelectric dam.",
+   "The Supreme Court will hear petitions against the Election Commission chief amid the unrest.",
+   "Local residents cite environmental and displacement concerns as reasons for protest."
+  ],
+  "meta_description": "Violence erupts in Arunachal Pradesh as locals protest a new hydroelectric dam, while India's Supreme Court hears petitions against the election chief.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arunachal Pradesh",
+   "hydroelectric dam",
+   "protests",
+   "India Supreme Court",
+   "environment"
+  ],
+  "slug": "violence-erupts-arunachal-pradesh-over-proposed-hydroelectric-dam-e7016c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T08:20:26Z"
+ },
+ {
+  "id": "9a1796ce18eb673f",
+  "source_url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo",
+  "source": "BBC News",
+  "source_title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+  "source_summary": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
+  "published": "2026-10-27T07:15:08+00:00",
+  "headline": "Chinese Brands Pull Kylian Mbappé Ads After Mao Meme Controversy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Several major Chinese companies have suspended advertising campaigns featuring French football star Kylian Mbappé after a meme he allegedly shared sparked public outrage. The meme reportedly showed Mbappé’s face superimposed on a Chinese dictator, which many viewers found offensive."
+   },
+   {
+    "type": "p",
+    "text": "The backlash grew on social media, prompting the brands to distance themselves from the player to protect their reputations. Representatives for the companies said they were reviewing the situation and would decide on future collaborations once the controversy subsides."
+   },
+   {
+    "type": "p",
+    "text": "Mbappé has not publicly responded to the allegations, and the incident highlights the sensitivity of political imagery in global marketing partnerships."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode shows how political sensitivities can quickly affect international sponsorship deals, a risk for brands and athletes alike."
+   }
+  ],
+  "key_points": [
+   "Chinese advertisers have halted Mbappé‑related campaigns after a meme linking him to a Chinese dictator caused public anger.",
+   "The athlete’s alleged comment has led to a swift brand response to avoid reputational damage.",
+   "No official statement from Mbappé has been released regarding the incident."
+  ],
+  "meta_description": "Chinese firms drop Kylian Mbappé ads after a controversial meme linking him to a Chinese dictator sparks backlash.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kylian Mbappé",
+   "advertising",
+   "China",
+   "brand safety",
+   "sports marketing"
+  ],
+  "slug": "chinese-brands-pull-kylian-mbappe-ads-after-mao-meme-9a1796",
+  "reading_minutes": 1,
+  "added": "2026-10-27T08:20:03Z"
+ },
+ {
+  "id": "81ae78b30cb72d37",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cmde8xjl3xpwo",
+  "source": "BBC Sport",
+  "source_title": "How much of Antonelli's success is down to his ability? - F1 QA",
+  "source_summary": "BBC F1 correspondent Andrew Benson answers your latest questions after the United States Grand Prix.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c617/live/6213b430-d0e6-11f1-89cb-332da726599e.jpg",
+  "published": "2026-10-27T07:00:23+00:00",
+  "headline": "BBC F1 Analyst Explains Antonelli's Success After US Grand Prix",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC Formula One correspondent Andrew Benson fielded reader questions following the United States Grand Prix, focusing on the extent to which Italian rookie Kimi Antonelli's recent strong performances can be attributed to his natural talent."
+   },
+   {
+    "type": "p",
+    "text": "In his answers, Benson highlighted the factors that contribute to a driver’s success, noting that while Antonelli has shown impressive speed, his results also depend on team support, car performance and race conditions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the mix of skill and machinery behind a rising star helps fans gauge the competitive landscape of Formula 1."
+   }
+  ],
+  "key_points": [
+   "Andrew Benson addressed fan queries about Antonelli's abilities after the US Grand Prix.",
+   "He emphasized that driver talent works alongside car and team factors.",
+   "Antonelli's recent form sparked discussion about his future in F1."
+  ],
+  "meta_description": "BBC F1 correspondent Andrew Benson discusses how much of Kimi Antonelli's success is due to his talent after the US Grand Prix.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Kimi Antonelli",
+   "US Grand Prix",
+   "BBC Sport",
+   "F1 analysis"
+  ],
+  "slug": "bbc-f1-analyst-explains-antonelli-s-success-after-us-81ae78",
+  "reading_minutes": 1,
+  "added": "2026-10-27T08:20:07Z"
+ },
+ {
+  "id": "039269debb69440c",
+  "source_url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+  "source": "The New York Times",
+  "source_title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War",
+  "source_summary": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran amid reports that the U.S. and Israel were drawing up plans to renew their attacks on Iran.",
+  "source_tags": [
+   "Tehran (Iran)",
+   "Iran",
+   "Saudi Arabia",
+   "Turkey",
+   "Pakistan",
+   "United States",
+   "Israel",
+   "Middle East",
+   "US and Israeli Attack on Iran (2026)",
+   "International Relations"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-iran-diplomacy-vflg/26int-iran-diplomacy-vflg-mediumSquareAt3X.jpg",
+  "published": "2026-10-27T06:59:20+00:00",
+  "headline": "Saudi, Turkish, Pakistani Leaders Tour Tehran Amid US-Israel Strike Plans",
+  "body": [
+   {
+    "type": "p",
+    "text": "Saudi Arabia, Turkey and Pakistan made a rare joint visit to Tehran, meeting Iranian officials in a coordinated diplomatic effort. The three governments presented a united front, emphasizing regional stability as tensions rise."
+   },
+   {
+    "type": "p",
+    "text": "The visit comes as reports indicate the United States and Israel are drafting plans to resume attacks on Iran. Analysts note the timing underscores the delicate balance between diplomatic outreach and the threat of renewed military action."
+   },
+   {
+    "type": "p",
+    "text": "Officials from the three countries highlighted the importance of dialogue and cooperation, while Iranian leaders welcomed the trip as a sign of international engagement despite the looming security concerns."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European audiences, the diplomatic tour signals a potential counterweight to escalating military plans in the Middle East."
+   }
+  ],
+  "key_points": [
+   "Saudi Arabia, Turkey and Pakistan conducted a joint diplomatic mission to Tehran.",
+   "U.S. and Israeli officials are reportedly preparing to renew attacks on Iran.",
+   "The rare visit underscores regional attempts to manage escalating tensions."
+  ],
+  "meta_description": "Saudi, Turkish and Pakistani leaders visit Tehran as reports emerge of U.S. and Israeli plans to renew attacks on Iran.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "diplomacy",
+   "Saudi Arabia",
+   "Turkey",
+   "Pakistan",
+   "US-Israel tensions"
+  ],
+  "slug": "saudi-turkish-pakistani-leaders-tour-tehran-amid-us-israel-039269",
+  "reading_minutes": 1,
+  "added": "2026-10-27T08:20:39Z"
+ },
+ {
+  "id": "a6f0ecd4e80ebfa8",
+  "source_url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+  "source": "TechCrunch",
+  "source_title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+  "source_summary": "Whose hand is behind this travesty?",
+  "source_tags": [
+   "Apps"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
+  "published": "2026-10-27T06:34:44+00:00",
+  "headline": "X Adds Pointing Hand Prompt to Boost Post Promotion, Users Confused",
+  "body": [
+   {
+    "type": "p",
+    "text": "The social platform X has introduced a new visual cue—a pointing hand icon—that appears alongside posts, encouraging users to promote their content. The design change is intended to nudge users toward using the platform's promotion tools."
+   },
+   {
+    "type": "p",
+    "text": "Since the rollout, many users have expressed confusion about the purpose of the hand icon, questioning whose hand is behind the suggestion and whether the prompt is mandatory. The reaction highlights uncertainty around the new UI element and its impact on user behavior."
+   }
+  ],
+  "key_points": [
+   "X now displays a pointing hand icon to suggest post promotion.",
+   "Users are uncertain about the meaning and intent of the new cue."
+  ],
+  "meta_description": "X adds a pointing hand icon to nudge post promotion, sparking user confusion over the new UI cue.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "X",
+   "social media",
+   "user interface",
+   "post promotion",
+   "user confusion"
+  ],
+  "slug": "x-adds-pointing-hand-prompt-boost-post-promotion-users-a6f0ec",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-27T08:20:10Z"
+ },
+ {
+  "id": "436c6565fc74e404",
+  "source_url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o",
+  "source": "BBC News",
+  "source_title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+  "source_summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b0/live/8d5e0a00-d1cc-11f1-837e-832a94a7445c.jpg",
+  "published": "2026-10-27T06:33:11+00:00",
+  "headline": "Retailers Report Surge in Radios, Torches and Tinned Food Sales",
+  "body": [
+   {
+    "type": "p",
+    "text": "Data obtained by BBC Newsnight reveal a sharp increase in consumer purchases of radios, torches, power banks and tinned foods following a recent public call to stock up. Retailers across the UK reported the highest weekly sales figures for these items in months, with torches and radios leading the growth."
+   },
+   {
+    "type": "p",
+    "text": "The spike appears to be driven by heightened concerns about potential supply disruptions, prompting shoppers to buy emergency‑ready equipment and long‑lasting food supplies. Stores noted that the demand surge was most pronounced in the days immediately after the call, before gradually easing."
+   },
+   {
+    "type": "p",
+    "text": "Analysts say the pattern mirrors previous periods of uncertainty when consumers prioritize preparedness items. While the exact magnitude of the rise was not disclosed, retailers described the trend as “significant” and indicative of shifting buying habits."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trend highlights how consumer confidence and supply‑chain fears can quickly reshape retail markets in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Retailers saw a notable jump in sales of radios, torches, power banks and tinned foods after a public urging to stock up.",
+   "The surge reflects consumer anxiety over possible supply chain disruptions and a focus on emergency preparedness.",
+   "Analysts link the behaviour to past instances where uncertainty drives demand for essential and backup items."
+  ],
+  "meta_description": "Retailers report a sharp rise in sales of radios, torches, power banks and tinned foods after a call to stock up, signaling consumer preparedness concerns.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "retail",
+   "consumer goods",
+   "radios",
+   "torches",
+   "tinned food",
+   "power banks"
+  ],
+  "slug": "retailers-report-surge-radios-torches-tinned-food-sales-436c65",
+  "reading_minutes": 1,
+  "added": "2026-10-27T08:20:35Z"
+ },
+ {
+  "id": "4dfd30b6d49a92bc",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o",
+  "source": "BBC Sport",
+  "source_title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+  "source_summary": "From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8687/live/9761da30-d0b0-11f1-a701-fddedf244c16.png",
+  "published": "2026-10-27T06:20:58+00:00",
+  "headline": "England's Ballon d'Or Winners Ranked From Matthews to Kane",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC Sport released a ranking of English footballers who have won the Ballon d'Or, tracing the list from legendary winger Stanley Matthews through to contemporary striker Harry Kane. The feature examines each player's achievements and impact on the game, placing them in a historical context."
+   },
+   {
+    "type": "p",
+    "text": "The article highlights how Kane's performances for club and country have positioned him among England's elite Ballon d'Or recipients. It contrasts his goal‑scoring records and international success with those of earlier winners, offering a perspective on his standing in the pantheon of English football."
+   },
+   {
+    "type": "p",
+    "text": "Readers are provided with a concise overview of each winner's career highlights, allowing a quick comparison of their contributions to both domestic leagues and the national team."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding how current stars compare with past legends offers insight into the evolution of English football talent for fans worldwide."
+   }
+  ],
+  "key_points": [
+   "BBC Sport ranks all English Ballon d'Or winners, from Stanley Matthews to Harry Kane.",
+   "The piece assesses Kane's achievements relative to past English winners.",
+   "Historical context is given for each player's impact on English football."
+  ],
+  "meta_description": "BBC Sport ranks England's Ballon d'Or winners, comparing Harry Kane's achievements with those of past legends like Stanley Matthews.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ballon d'Or",
+   "England football",
+   "Harry Kane",
+   "Stanley Matthews",
+   "football rankings"
+  ],
+  "slug": "england-s-ballon-d-or-winners-ranked-from-matthews-4dfd30",
+  "reading_minutes": 1,
+  "added": "2026-10-27T08:20:22Z"
+ },
+ {
+  "id": "0ec808dfc05eecd7",
+  "source_url": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o",
+  "source": "BBC Sport",
+  "source_title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
+  "source_summary": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410e/live/ed2848e0-c882-11f1-a2e8-f71844f8002e.jpg",
+  "published": "2026-10-27T06:15:24+00:00",
+  "headline": "Kaepernick Reflects on a Decade of Protest in First BBC Interview",
+  "body": [
+   {
+    "type": "p",
+    "text": "Colin Kaevernick sat down with BBC Sport for his first interview since he first took the knee during the national anthem, marking ten years since his high‑profile protest against police brutality. In the conversation he traced the personal and professional costs of his activism, noting the backlash he faced from the NFL, sponsors and some fans."
+   },
+   {
+    "type": "p",
+    "text": "The former quarterback said the decision to kneel remains a defining moment in his life and affirmed that, despite the challenges, he would repeat the act if given the chance. He also discussed how the protest sparked a broader movement within sports, influencing athletes across leagues to voice social concerns."
+   },
+   {
+    "type": "p",
+    "text": "Kaepernick highlighted ongoing efforts to address systemic racism, emphasizing that the struggle continues beyond symbolic gestures. He expressed optimism that the conversation he helped start is now embedded in the cultural fabric of American sport."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The interview underscores how a single act of protest reshaped discourse on race and policing in sports, a topic still resonant across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Kaepernick reflects on ten years since his kneeling protest and its personal toll.",
+   "He states he would repeat the protest despite the backlash he endured.",
+   "His actions are credited with inspiring a wider athlete‑led push for racial justice."
+  ],
+  "meta_description": "Colin Kaepernick reflects on a decade of protest, its costs and lasting impact in his first BBC Sport interview.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Colin Kaepernick",
+   "protest",
+   "sports activism",
+   "racial justice",
+   "NFL"
+  ],
+  "slug": "kaepernick-reflects-decade-protest-first-bbc-interview-0ec808",
+  "reading_minutes": 1,
+  "added": "2026-10-27T08:20:30Z"
+ },
+ {
+  "id": "a1592e13da01e6c5",
+  "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi",
+  "source": "NPR",
+  "source_title": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
+  "source_summary": "President Trump campaigned Monday in Mississippi, as he continued a closing midterm rally blitz that has highlighted Republicans' challenges ahead of an election that could drastically shift power in Washington.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5438x3625+0+0/resize/5438x3625!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F61%2F0838e35b43c6b376fed3b33fb522%2Fap26300007326103.jpg",
+  "published": "2026-10-27T05:22:24+00:00",
+  "headline": "Trump Holds Mississippi Rally as GOP Faces Midterm Headwinds",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump visited Mississippi on Monday, delivering a speech that marked the final leg of his midterm rally tour. The event was part of a broader effort to energize Republican voters ahead of the upcoming congressional elections."
+   },
+   {
+    "type": "p",
+    "text": "Trump’s appearance underscored the challenges confronting the Republican Party as it seeks to retain control of the House and Senate. Party leaders have expressed concern that shifting voter attitudes could jeopardize their majority status."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the Mississippi stop highlights the GOP’s strategy of targeting swing states and traditionally Democratic districts in an election that could dramatically reshape the balance of power in Washington."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The midterms will determine whether Republicans can keep control of Congress, affecting U.S. policy directions that also impact European partners."
+   }
+  ],
+  "key_points": [
+   "Trump campaigned in Mississippi during the closing phase of his midterm rally tour.",
+   "The rally emphasized the Republican Party’s difficulties in maintaining congressional majorities.",
+   "The upcoming midterm election could significantly alter the distribution of power in Washington."
+  ],
+  "meta_description": "Trump rallies in Mississippi as Republicans confront challenges ahead of a pivotal midterm election that could shift congressional power.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Mississippi",
+   "midterms",
+   "Republican Party",
+   "campaign rally"
+  ],
+  "slug": "trump-holds-mississippi-rally-gop-faces-midterm-headwinds-a1592e",
+  "reading_minutes": 1,
+  "added": "2026-10-27T08:20:42Z"
+ },
+ {
   "id": "d94141045673e181",
   "source_url": "https://www.nytimes.com/2026/10/26/us/politics/obamas-cheesecake-factory-jab-rankles-trump-on-mississippi-campaign-stop.html",
   "source": "The New York Times",
