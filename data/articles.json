@@ -1,5 +1,683 @@
 [
  {
+  "id": "f6545332f7a615b2",
+  "source_url": "https://www.nytimes.com/live/2026/10/28/world/spain-train-crash-toledo",
+  "source": "The New York Times",
+  "source_title": "Live Updates: At Least 30 Killed in Train Crash in Spain, Officials Say",
+  "source_summary": "One high-speed passenger train rear-ended another one near Toledo, months after a crash involving the same carriers killed dozens and stunned the country.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-header-promo1/28spain-crash-header-ctmh-mediumSquareAt3X.jpg",
+  "published": "2026-10-28T11:32:24+00:00",
+  "headline": "At Least 30 Dead After High‑Speed Train Collision Near Toledo, Spain",
+  "body": [
+   {
+    "type": "p",
+    "text": "A high‑speed passenger train in Spain collided with the rear of another train near the city of Toledo, killing at least 30 people, officials said. Emergency crews rushed to the scene to extract survivors and treat the injured."
+   },
+   {
+    "type": "p",
+    "text": "The crash involved two trains operated by the same carriers that were involved in a deadly accident months earlier, which also resulted in dozens of fatalities and shocked the nation. Authorities have launched an investigation to determine the cause of the rear‑end impact."
+   },
+   {
+    "type": "p",
+    "text": "Rail services on the affected high‑speed line were suspended while investigators and rescue teams worked to clear the wreckage. The incident has raised renewed concerns about safety protocols on Spain’s fast‑train network."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The tragedy highlights ongoing safety challenges in Europe's high‑speed rail systems, a sector closely watched by U.S. and European transport planners."
+   }
+  ],
+  "key_points": [
+   "A rear‑end collision of two high‑speed trains near Toledo killed at least 30 people.",
+   "The accident involved the same carriers as a previous crash that killed dozens months earlier.",
+   "Spanish officials have opened an investigation and halted service on the line."
+  ],
+  "meta_description": "At least 30 people died when a high‑speed train rear‑ended another near Toledo, Spain, prompting an investigation into safety protocols.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spain",
+   "train crash",
+   "high-speed rail",
+   "Toledo",
+   "transport safety"
+  ],
+  "slug": "least-30-dead-after-highspeed-train-collision-near-toledo-f65453",
+  "reading_minutes": 1,
+  "added": "2026-10-28T11:34:36Z"
+ },
+ {
+  "id": "e372ef3c432e37e5",
+  "source_url": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
+  "source": "The Verge",
+  "source_title": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
+  "source_summary": "As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt. Newly filed court documents show that in March 2023, Meta discussed a \"Whisper strategy\" to \"turn academics against Haidt,\" a thought leader […]",
+  "source_tags": [
+   "Meta",
+   "Policy",
+   "Report",
+   "Social Media",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-28T11:30:00+00:00",
+  "headline": "Meta Mused Whisper Campaign to Undermine Haidt Amid Teen Safety Scrutiny",
+  "body": [
+   {
+    "type": "p",
+    "text": "Internal documents filed in court reveal that Meta discussed a so‑called “Whisper strategy” in March 2023, aimed at turning academics against social psychologist Jonathan Haidt, a prominent critic of the platform’s impact on teen mental health."
+   },
+   {
+    "type": "p",
+    "text": "The strategy was considered as the company faced mounting public pressure over adolescent well‑being and prepared for a series of upcoming children‑safety lawsuits. Officials reportedly explored ways to diminish Haidt’s influence among scholars and policymakers."
+   },
+   {
+    "type": "p",
+    "text": "The court filings do not indicate whether the plan was ever implemented, but they show Meta’s awareness of the reputational risk posed by Haidt’s research and commentary on the company’s role in youth mental health issues."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The revelation highlights how major tech firms may seek to influence academic discourse during regulatory scrutiny, a concern for policymakers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Meta explored a covert “Whisper strategy” to discredit Jonathan Haidt in March 2023.",
+   "The plan emerged as the firm confronted criticism over teen mental health and pending safety trials.",
+   "Court documents do not confirm the strategy was executed, only that it was discussed."
+  ],
+  "meta_description": "Meta considered a covert plan in 2023 to undermine critic Jonathan Haidt amid teen mental‑health pressure and upcoming safety trials.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "Jonathan Haidt",
+   "teen mental health",
+   "tech regulation",
+   "academic influence"
+  ],
+  "slug": "meta-mused-whisper-campaign-undermine-haidt-amid-teen-safety-e372ef",
+  "reading_minutes": 1,
+  "added": "2026-10-28T11:34:16Z"
+ },
+ {
+  "id": "382de5bc47352ab0",
+  "source_url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+  "source": "NPR",
+  "source_title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+  "source_summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4267x2400+1067+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F31%2F17%2Fd45238d445bbb612bcc3c0b3faa1%2Fgettyimages-2301853630.jpg",
+  "published": "2026-10-28T11:28:55+00:00",
+  "headline": "Israel Election Remains Unsettled as Ebola Cases Top 10,000",
+  "body": [
+   {
+    "type": "p",
+    "text": "Israeli voters turned out in record numbers for the latest parliamentary election, but the vote count remains too close to call, leaving the composition of the next government uncertain."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, the Ebola outbreak that began in May has surpassed 10,000 confirmed infections, marking a grim milestone for health officials tracking the spread of the disease."
+   },
+   {
+    "type": "p",
+    "text": "Both developments are drawing international attention: the unresolved Israeli election could affect regional diplomatic dynamics, while the expanding Ebola case count underscores ongoing challenges in global disease containment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stability in Israel influences Middle East geopolitics, and the growing Ebola outbreak highlights persistent global health risks."
+   }
+  ],
+  "key_points": [
+   "Israel's election results are still undecided despite a historic voter turnout.",
+   "Ebola infections have exceeded 10,000 since the outbreak was declared in May."
+  ],
+  "meta_description": "Israel's election remains unresolved as Ebola cases top 10,000, raising political and health concerns worldwide.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel election",
+   "Ebola outbreak",
+   "global health",
+   "Middle East politics",
+   "pandemic response"
+  ],
+  "slug": "israel-election-remains-unsettled-ebola-cases-top-10-000-382de5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-28T11:34:31Z"
+ },
+ {
+  "id": "6da995572c9c0a77",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+  "source": "The Verge",
+  "source_title": "Meta quietly launched an ‘AI pet journal’ app",
+  "source_summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
+  "source_tags": [
+   "AI",
+   "Apps",
+   "Meta",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Waddle-World-meta-app-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-28T11:27:30+00:00",
+  "headline": "Meta Unveils Waddle World, an AI‑Powered Pet Journal App",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta has quietly released a new mobile app called Waddle World, described in its store listings as a \"16‑bit pet care game\" that functions more as a daily journal. The app features virtual creatures that converse with users through spoken dialogue and generate doodles that illustrate the conversation."
+   },
+   {
+    "type": "p",
+    "text": "Unlike traditional games, Waddle World encourages users to talk to their digital pets rather than type, leveraging AI to create responsive, chat‑based interactions. The app’s description frames the experience as a \"daily journal disguised as a pet,\" blending journaling with a tamagotchi‑style companion."
+   },
+   {
+    "type": "p",
+    "text": "The service is available on both Apple’s App Store and Google Play, where it is marketed as a novel way to record personal reflections while engaging with an animated AI companion."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The app showcases Meta’s push into AI‑enhanced personal‑assistant experiences, signalling new directions for social‑media companies beyond traditional networking."
+   }
+  ],
+  "key_points": [
+   "Meta launched Waddle World, an AI‑driven pet app that acts as a spoken daily journal.",
+   "The virtual pets converse with users and produce doodles to visualize the dialogue.",
+   "The app is positioned as a journal rather than a conventional game."
+  ],
+  "meta_description": "Meta releases Waddle World, an AI pet app that serves as a spoken daily journal with doodle illustrations.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "AI",
+   "mobile app",
+   "digital pet",
+   "journal",
+   "Waddle World"
+  ],
+  "slug": "meta-unveils-waddle-world-aipowered-pet-journal-app-6da995",
+  "reading_minutes": 1,
+  "added": "2026-10-28T11:34:44Z"
+ },
+ {
+  "id": "d09c888d7e515346",
+  "source_url": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
+  "source": "The New York Times",
+  "source_title": "Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying",
+  "source_summary": "Health officials will now allow some levels of a powerful substance to remain in products marketed as natural. The change could help a G.O.P. donor facing wrongful death lawsuits.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Opioids and Opiates",
+   "Drug Abuse and Traffic",
+   "Deaths (Fatalities)",
+   "Pain-Relieving Drugs",
+   "Drug Enforcement Administration",
+   "Food and Drug Administration",
+   "Health and Human Services Department",
+   "Republican Party",
+   "Kennedy, Robert F Jr"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-kratom-top-lhgf/00dc-kratom-top-lhgf-mediumSquareAt3X.jpg",
+  "published": "2026-10-28T11:19:51+00:00",
+  "headline": "Trump Administration Relents on Kratom Ban After Industry Lobbying",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. health agency announced it will no longer enforce a total ban on kratom, a plant‑based substance that some users claim eases pain and opioid withdrawal. Officials said limited amounts of the compound may remain in products marketed as natural, reversing an earlier proposal to prohibit it entirely."
+   },
+   {
+    "type": "p",
+    "text": "The policy shift follows intense lobbying by the kratom industry, which argued that a blanket ban would push consumers toward illicit opioids. Advocates also highlighted the economic stakes for growers and retailers who depend on kratom sales."
+   },
+   {
+    "type": "p",
+    "text": "According to the report, the decision may also benefit a prominent Republican donor currently facing wrongful‑death lawsuits linked to opioid use. By allowing kratom to stay on the market, the administration hopes to provide an alternative that could mitigate future litigation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move signals a shift in U.S. opioid policy and could influence similar regulatory debates in Europe, where natural alternatives are also under scrutiny."
+   }
+  ],
+  "key_points": [
+   "The administration has softened a proposed kratom ban, permitting trace amounts in natural‑product labels.",
+   "Industry lobbying was a key factor in the policy reversal.",
+   "The change may aid a GOP donor involved in opioid‑related wrongful‑death cases."
+  ],
+  "meta_description": "US health officials backtrack on a kratom ban after industry lobbying, allowing limited levels in natural products and affecting opioid litigation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "kratom",
+   "opioid policy",
+   "lobbying",
+   "Trump administration",
+   "legal suits"
+  ],
+  "slug": "trump-administration-relents-kratom-ban-after-industry-lobbying-d09c88",
+  "reading_minutes": 1,
+  "added": "2026-10-28T11:34:49Z"
+ },
+ {
+  "id": "69b714ad043e03af",
+  "source_url": "https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o",
+  "source": "BBC Sport",
+  "source_title": "Serrano to end career in Puerto Rico in January",
+  "source_summary": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5779/live/d90799b0-cf85-11f1-bef0-7f8eb636c50b.jpg",
+  "published": "2026-10-28T11:11:53+00:00",
+  "headline": "Amanda Serrano to End Boxing Career in Puerto Rico Jan 9",
+  "body": [
+   {
+    "type": "p",
+    "text": "Veteran champion Amanda Serrano has announced that her last professional bout will take place in Puerto Rico on 9 January. The fight will see her square off against fellow contender Skye Falzon, marking the conclusion of Serrano's highly decorated career."
+   },
+   {
+    "type": "p",
+    "text": "Serrano, who has amassed numerous titles across multiple weight classes, confirmed the January 9 date as her final appearance in the ring. The matchup with Falzon will be staged on the island that shaped much of her early boxing journey."
+   },
+   {
+    "type": "p",
+    "text": "The event is expected to draw significant attention from boxing fans worldwide, offering a final showcase of Serrano's skill and determination before she hangs up her gloves."
+   }
+  ],
+  "key_points": [
+   "Amanda Serrano will fight Skye Falzon in Puerto Rico on 9 January.",
+   "The bout is designated as Serrano's final professional boxing match.",
+   "The fight will be held in Serrano's native Puerto Rico."
+  ],
+  "meta_description": "Amanda Serrano's final boxing match against Skye Falzon is set for 9 January in Puerto Rico, ending her illustrious career.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "boxing",
+   "Amanda Serrano",
+   "Skye Falzon",
+   "Puerto Rico",
+   "retirement"
+  ],
+  "slug": "amanda-serrano-end-boxing-career-puerto-rico-jan-9-69b714",
+  "reading_minutes": 1,
+  "added": "2026-10-28T11:34:33Z"
+ },
+ {
+  "id": "43605c50749d2938",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/c5djv7e49lwmo",
+  "source": "BBC Sport",
+  "source_title": "'I earned my spot' - Lewis can be England hero after controversial selection",
+  "source_summary": "Mikey Lewis knows his selection for England's squad at the 2026 Rugby League World Cup was divisive but he's ready to take his chance in Australia.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cada/live/46f38dc0-d2bb-11f1-8cf0-c5d120932f9f.jpg",
+  "published": "2026-10-28T11:06:27+00:00",
+  "headline": "Mikey Lewis Embraces England Rugby League World Cup Spot After Debate",
+  "body": [
+   {
+    "type": "p",
+    "text": "Winger Mikey Lewis has acknowledged the mixed reaction to his inclusion in England's squad for the 2026 Rugby League World Cup. While some fans and pundits questioned the decision, Lewis says he earned his place through performance and is focused on contributing to the team’s campaign in Australia."
+   },
+   {
+    "type": "p",
+    "text": "The 23-year-old will join the England side as they prepare for the tournament down under, where the squad hopes to challenge the traditionally dominant Australian and New Zealand teams. Lewis stressed that the controversy will not distract him and that he is ready to seize the opportunity to prove his worth on the world stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "England’s Rugby League World Cup campaign draws global interest, highlighting the sport’s expanding profile beyond its traditional heartlands."
+   }
+  ],
+  "key_points": [
+   "Mikey Lewis admits his World Cup selection sparked debate among supporters.",
+   "He asserts his selection was merit‑based and is prepared to perform in Australia."
+  ],
+  "meta_description": "Mikey Lewis acknowledges the controversy over his England World Cup selection but says he earned his spot and is ready to compete in Australia.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby league",
+   "England",
+   "World Cup",
+   "Mikey Lewis",
+   "selection controversy"
+  ],
+  "slug": "mikey-lewis-embraces-england-rugby-league-world-cup-spot-43605c",
+  "reading_minutes": 1,
+  "added": "2026-10-28T11:34:53Z"
+ },
+ {
+  "id": "69e1ddc55657ca48",
+  "source_url": "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html",
+  "source": "The New York Times",
+  "source_title": "Jio’s Blockbuster I.P.O. Gives India’s Investors a Lift",
+  "source_summary": "Jio Platforms shares surged on their first day of trading, even as questions mount about the telecom firm’s growth prospects and a new generation takes charge.",
+  "source_tags": [
+   "Initial Public Offerings",
+   "Stocks and Bonds",
+   "High Net Worth Individuals",
+   "Reliance Industries",
+   "Jio Platforms Ltd",
+   "Ambani, Mukesh D",
+   "India"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-jio-ipo-zcbj/28biz-jio-ipo-zcbj-mediumSquareAt3X-v2.jpg",
+  "published": "2026-10-28T10:48:53+00:00",
+  "headline": "Jio Platforms Shares Surge on IPO Debut Amid Growth Questions",
+  "body": [
+   {
+    "type": "p",
+    "text": "Jio Platforms saw its shares jump on the first day of trading after the company launched its highly anticipated initial public offering. The surge marked a strong start for the Indian telecom giant, drawing attention from investors both domestically and abroad."
+   },
+   {
+    "type": "p",
+    "text": "Despite the upbeat market reaction, analysts are raising concerns about the firm’s future growth trajectory. Questions focus on the sustainability of Jio’s expansion in a competitive telecom landscape and the ability of its new leadership generation to deliver continued performance."
+   },
+   {
+    "type": "p",
+    "text": "The IPO’s performance underscores the appetite for Indian technology stocks, while also highlighting the scrutiny that accompanies rapid scaling in a sector facing regulatory and market pressures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The IPO’s success signals growing confidence in India’s tech sector, which could affect global investment strategies and market dynamics."
+   }
+  ],
+  "key_points": [
+   "Jio Platforms’ shares rose sharply on the first day of its IPO.",
+   "Analysts question the telecom firm’s long‑term growth prospects under new leadership.",
+   "The offering reflects strong investor interest in Indian tech companies."
+  ],
+  "meta_description": "Jio Platforms’ IPO debut saw shares surge, but analysts warn of growth challenges for the telecom giant.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jio Platforms",
+   "IPO",
+   "Indian market",
+   "telecom",
+   "investors",
+   "stock surge"
+  ],
+  "slug": "jio-platforms-shares-surge-ipo-debut-amid-growth-questions-69e1dd",
+  "reading_minutes": 1,
+  "added": "2026-10-28T11:34:40Z"
+ },
+ {
+  "id": "068183e5a0103a70",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo",
+  "source": "BBC News",
+  "source_title": "You may get the right to find out what your colleagues earn - here's why",
+  "source_summary": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46a/live/ff9b0180-d2b8-11f1-8cf0-c5d120932f9f.jpg",
+  "published": "2026-10-28T10:42:39+00:00",
+  "headline": "UK Equality Watchdog Calls for Legal Right to See Colleagues' Pay",
+  "body": [
+   {
+    "type": "p",
+    "text": "Britain's equality regulator has urged lawmakers to give employees a statutory right to request information about the salaries of their co‑workers. The proposal aims to make pay structures more transparent and to help workers identify potential gender or ethnicity‑based pay gaps."
+   },
+   {
+    "type": "p",
+    "text": "Under the current system, employees can only obtain such details with employer consent, which many fear limits the effectiveness of equal‑pay monitoring. The watchdog argues that a legal entitlement would pressure firms to justify pay differentials and could drive broader cultural change in workplaces."
+   },
+   {
+    "type": "p",
+    "text": "If adopted, the measure would join a growing list of European initiatives promoting salary openness, though it would also raise questions about confidentiality and administrative burden for businesses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Pay transparency is gaining traction in the US and Europe as a tool to combat wage inequality, making this UK proposal relevant for multinational employers and workers."
+   }
+  ],
+  "key_points": [
+   "The UK equality watchdog recommends a statutory right for staff to ask about colleagues' earnings.",
+   "Greater pay transparency is intended to expose and reduce gender and ethnicity pay gaps.",
+   "Implementation would align the UK with other European moves toward salary openness."
+  ],
+  "meta_description": "UK's equality watchdog urges a legal right for employees to see co‑workers' salaries to tackle pay gaps.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "pay transparency",
+   "UK employment law",
+   "equality",
+   "workplace rights",
+   "salary disclosure"
+  ],
+  "slug": "uk-equality-watchdog-calls-legal-right-see-colleagues-pay-068183",
+  "reading_minutes": 1,
+  "added": "2026-10-28T11:34:57Z"
+ },
+ {
+  "id": "3880794113d94e87",
+  "source_url": "https://www.nytimes.com/2026/10/28/podcasts/the-daily/collins-sununu-republican-midterms.html",
+  "source": "The New York Times",
+  "source_title": "Is Running From Trump Enough to Save Republicans on Tuesday?",
+  "source_summary": "A look at candidates from President Trump’s party who are running on a platform of criticizing him.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Republican Party",
+   "Senate",
+   "Collins, Susan M",
+   "Sununu, John E",
+   "Maine",
+   "New Hampshire",
+   "Trump, Donald J",
+   "internal-open-access-audio"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-28T10:00:14+00:00",
+  "headline": "Republicans Challenge Trump From Within in Tuesday Primary",
+  "body": [
+   {
+    "type": "p",
+    "text": "A group of Republican candidates is positioning themselves against former President Donald Trump as they head into Tuesday's primary contests. These politicians are building their campaigns around criticism of Trump’s leadership and policies, seeking to offer voters an alternative within the party."
+   },
+   {
+    "type": "p",
+    "text": "The candidates argue that distancing the GOP from Trump is essential for the party’s future electoral success. Their platforms emphasize traditional conservative values while explicitly rejecting Trump’s influence on the party’s direction."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that this intra‑party contest could reshape the Republican field ahead of the 2028 presidential election, as voters weigh loyalty to Trump against a desire for a new GOP identity."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The challenge to Trump within the GOP could influence the party’s direction and its chances in upcoming national elections."
+   }
+  ],
+  "key_points": [
+   "Republican hopefuls are running on platforms that openly criticize Donald Trump.",
+   "The anti‑Trump stance is framed as a strategy to revitalize the GOP’s electoral prospects."
+  ],
+  "meta_description": "Republican candidates criticize Trump in Tuesday's primary, aiming to reshape the party’s future.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Republicans",
+   "primary",
+   "anti-Trump",
+   "elections"
+  ],
+  "slug": "republicans-challenge-trump-from-within-tuesday-primary-388079",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-28T11:35:05Z"
+ },
+ {
+  "id": "87db6c58933e6998",
+  "source_url": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+  "source": "The New York Times",
+  "source_title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+  "source_summary": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Computers and the Internet",
+   "Computer Security",
+   "Cyberattacks and Hackers",
+   "Software",
+   "CloudFlare Inc",
+   "Google Inc",
+   "Microsoft Corp",
+   "OpenAI Labs",
+   "PHP Foundation"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/29/business/00ai-bugs/00ai-bugs-mediumSquareAt3X.jpg",
+  "published": "2026-10-28T09:04:38+00:00",
+  "headline": "AI Detects Surge of Software Bugs, Firms Rush to Patch Vulnerabilities",
+  "body": [
+   {
+    "type": "p",
+    "text": "Artificial intelligence tools have begun flagging an unprecedented number of software flaws across a wide range of applications, according to a recent report. The automated scans uncovered vulnerabilities that had previously gone unnoticed, prompting concerns that malicious actors could quickly exploit the gaps."
+   },
+   {
+    "type": "p",
+    "text": "Technology companies in Silicon Valley are mobilizing development teams to address the findings before hackers can weaponize them. Engineers are prioritizing patches for high‑risk code, accelerating release cycles and deploying emergency updates to protect users."
+   },
+   {
+    "type": "p",
+    "text": "The rapid response reflects growing reliance on AI for security testing, but also highlights the challenge of keeping pace with the volume of bugs uncovered. Industry analysts say the trend underscores the need for continuous monitoring and faster remediation processes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European users could face increased cyber‑risk if the vulnerabilities are not patched quickly, affecting personal data and critical infrastructure."
+   }
+  ],
+  "key_points": [
+   "AI systems have identified a large influx of previously hidden software bugs.",
+   "Tech firms are accelerating patch releases to prevent potential hacker exploitation.",
+   "The episode illustrates both the power and the pressure of AI‑driven security testing."
+  ],
+  "meta_description": "AI tools reveal a flood of software bugs, prompting tech firms to speed up patches and guard against hacker attacks.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI security",
+   "software vulnerabilities",
+   "cybersecurity",
+   "tech industry",
+   "software patches"
+  ],
+  "slug": "ai-detects-surge-software-bugs-firms-rush-patch-vulnerabilities-87db6c",
+  "reading_minutes": 1,
+  "added": "2026-10-28T11:35:01Z"
+ },
+ {
+  "id": "e42d5bea4f7b7885",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no",
+  "source": "BBC Sport",
+  "source_title": "Liverpool gambled on Jacquet and it is paying off",
+  "source_summary": "Liverpool beat Chelsea to the signing of Jeremy Jacquet and the defender is thriving at Anfield. Things could have been very different...",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0222/live/8a6c2fc0-d154-11f1-9eb5-811878e0f07d.jpg",
+  "published": "2026-10-28T08:36:34+00:00",
+  "headline": "Liverpool Secure Jeremy Jacquet From Chelsea, Defender Thrives",
+  "body": [
+   {
+    "type": "p",
+    "text": "Liverpool outbid Chelsea for French centre‑back Jeremy Jacquet, completing the transfer early in the season. The club’s gamble on the young defender has quickly paid off, with Jacquet becoming a regular starter in the back line and delivering solid performances at Anfield."
+   },
+   {
+    "type": "p",
+    "text": "Since joining, Jacquet has been praised for his composure, aerial ability and reading of the game, helping Liverpool tighten a defence that had shown vulnerability earlier in the campaign. His integration has coincided with a noticeable improvement in the team’s defensive record."
+   },
+   {
+    "type": "p",
+    "text": "The successful signing underscores Liverpool’s willingness to invest in emerging talent to maintain competitiveness in the Premier League and European contests, while also highlighting the club’s strategic edge in the transfer market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Liverpool’s acquisition strengthens a top Premier League side, influencing the league’s title race and European competition dynamics."
+   }
+  ],
+  "key_points": [
+   "Liverpool signed Jeremy Jacquet from Chelsea, beating them to the deal.",
+   "Jacquet has quickly become a key part of Liverpool’s defence.",
+   "His performances have contributed to a stronger defensive record for the club."
+  ],
+  "meta_description": "Liverpool beat Chelsea for defender Jeremy Jacquet, who is now thriving in the team's back line.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Jeremy Jacquet",
+   "Chelsea",
+   "Premier League",
+   "Transfer",
+   "Defender"
+  ],
+  "slug": "liverpool-secure-jeremy-jacquet-from-chelsea-defender-thrives-e42d5b",
+  "reading_minutes": 1,
+  "added": "2026-10-28T11:35:09Z"
+ },
+ {
   "id": "7b956926a420b476",
   "source_url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
   "source": "TechCrunch",
