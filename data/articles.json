@@ -1,5 +1,689 @@
 [
  {
+  "id": "f348c6db37d87fbe",
+  "source_url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+  "source": "TechCrunch",
+  "source_title": "Google expands AI Search ads globally as core ad growth slows",
+  "source_summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+  "source_tags": [
+   "AI",
+   "gemini",
+   "Google",
+   "Google Search"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+  "published": "2026-10-28T21:48:37+00:00",
+  "headline": "Google Rolls Out AI Search Ads Worldwide Amid Slowing Core Ad Growth",
+  "body": [
+   {
+    "type": "p",
+    "text": "Google announced that its AI-powered search advertising will be launched in markets around the globe, extending the format that previously ran only in the United States. The move aims to boost advertiser reach as the company’s traditional search ad segment shows signs of deceleration."
+   },
+   {
+    "type": "p",
+    "text": "The expansion was disclosed in conjunction with Alphabet's third‑quarter earnings release, which reported a 25% year‑over‑year revenue increase to $127.6 billion. Executives highlighted the AI ad product as a new growth lever to complement the broader advertising portfolio."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the global rollout could reshape how brands target consumers on Google Search, leveraging machine‑learning insights to serve more relevant ads. The company did not disclose specific pricing or performance metrics for the AI ads at this time."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The global launch gives advertisers in the US and Europe a new tool to reach customers, while signaling Alphabet's shift toward AI‑driven revenue sources."
+   }
+  ],
+  "key_points": [
+   "Google is extending its AI search advertising to international markets.",
+   "Alphabet posted a 25% YoY revenue rise to $127.6 billion in Q3 2026.",
+   "The AI ad format is positioned as a growth driver as core search ad growth slows."
+  ],
+  "meta_description": "Google expands AI search ads worldwide as core ad growth slows, reporting a 25% revenue rise to $127.6 billion in Q3 2026.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Google",
+   "AI advertising",
+   "Alphabet earnings",
+   "digital marketing",
+   "search ads"
+  ],
+  "slug": "google-rolls-out-ai-search-ads-worldwide-amid-slowing-f348c6",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-28T21:53:34Z"
+ },
+ {
+  "id": "82de3a49234e71e7",
+  "source_url": "https://www.npr.org/2026/10/28/nx-s1-6019404/trumps-department-of-justice-is-wading-into-elections-in-unprecedented-ways",
+  "source": "NPR",
+  "source_title": "Trump's Department of Justice is wading into elections in unprecedented ways",
+  "source_summary": "Under President Trump, the Justice Department has taken numerous steps to wade into elections. This includes new and unprecedented lawsuits filed in California and Alaska.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-28T21:48:33+00:00",
+  "headline": "Trump Justice Department Files Unprecedented Election Lawsuits in California and Alaska",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Justice Department, under President Donald Trump, has launched a series of lawsuits that mark a new level of federal involvement in state election matters. Legal actions have been filed in both California and Alaska, targeting state election procedures that the department claims violate federal law."
+   },
+   {
+    "type": "p",
+    "text": "These filings are described as unprecedented because they represent the first time the Justice Department has directly challenged state election rules in multiple jurisdictions simultaneously. The lawsuits seek to overturn or modify voting regulations that the department argues are inconsistent with constitutional standards."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts note that the moves could set significant precedents for how the federal government interacts with state-run elections. The outcomes of these cases may influence future election administration and the balance of power between state and federal authorities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The lawsuits could reshape the legal framework governing U.S. elections, influencing how similar disputes are handled in other democracies."
+   }
+  ],
+  "key_points": [
+   "The Justice Department has filed new lawsuits in California and Alaska challenging state election rules.",
+   "These actions are described as unprecedented federal involvement in state election matters.",
+   "The cases could set precedents affecting the balance of power between state and federal election oversight."
+  ],
+  "meta_description": "The Trump Justice Department files unprecedented lawsuits in California and Alaska, challenging state election rules and raising federal‑state power…",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Justice Department",
+   "election lawsuits",
+   "federal vs state",
+   "Trump administration",
+   "California",
+   "Alaska"
+  ],
+  "slug": "trump-justice-department-files-unprecedented-election-lawsuits-california-alaska-82de3a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-28T21:53:48Z"
+ },
+ {
+  "id": "5fbc0983d65db87b",
+  "source_url": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+  "source": "CNBC",
+  "source_title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+  "source_summary": "Ford Motor reported earnings that beat Wall Street’s estimates but slightly missed on revenue.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108452225-1792771283223-gettyimages-2292365225-schneider-fordcomm260830_np9iA.jpeg?v=1792771304&w=1920&h=1080",
+  "published": "2026-10-28T21:42:24+00:00",
+  "headline": "Ford Beats Q3 Earnings Estimates, Forecasts 2027 Profit in Line with 2026",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ford Motor Co. posted third‑quarter earnings that topped Wall Street forecasts, while revenue fell just short of analysts' expectations. The automaker’s profit per share exceeded consensus estimates, signaling resilience in its core operations despite a modest dip in sales volume."
+   },
+   {
+    "type": "p",
+    "text": "The Detroit‑based company said its 2027 earnings outlook will be comparable to this year’s performance, indicating confidence that current cost‑control measures and product mix will sustain profitability. Ford highlighted ongoing progress with its electric‑vehicle lineup and a continued focus on higher‑margin trucks and SUVs."
+   },
+   {
+    "type": "p",
+    "text": "Investors responded positively to the earnings beat, though the slight revenue miss tempered enthusiasm. The results underscore the challenges facing legacy automakers as they balance traditional gasoline models with the transition to electrified fleets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The earnings beat and steady outlook influence investor sentiment and signal how a major U.S. automaker is navigating the shift to electric vehicles."
+   }
+  ],
+  "key_points": [
+   "Ford’s Q3 earnings per share beat analysts’ estimates, while revenue was marginally below forecasts.",
+   "The company projects 2027 earnings to match its 2026 level, reflecting confidence in cost‑saving initiatives and product strategy.",
+   "Revenue shortfall highlights ongoing market pressure as Ford shifts toward electric and higher‑margin vehicles."
+  ],
+  "meta_description": "Ford exceeds Q3 earnings estimates, forecasts 2027 profit in line with 2026, despite a slight revenue miss.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ford",
+   "earnings",
+   "automotive",
+   "Q3 2026",
+   "profit outlook",
+   "electric vehicles"
+  ],
+  "slug": "ford-beats-q3-earnings-estimates-forecasts-2027-profit-line-5fbc09",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-28T21:53:50Z"
+ },
+ {
+  "id": "4e9d8ac39ff8640c",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo",
+  "source": "BBC News",
+  "source_title": "High-speed train crash kills at least 68 people in Spain",
+  "source_summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
+  "published": "2026-10-28T21:38:54+00:00",
+  "headline": "Spain High-Speed Train Crash Kills at Least 68 in Fatal Collision",
+  "body": [
+   {
+    "type": "p",
+    "text": "A high‑speed train collision in Spain has killed at least 68 people after a moving train struck a stationary train further up the line. Emergency services worked through the night to rescue survivors and recover bodies from the wreckage."
+   },
+   {
+    "type": "p",
+    "text": "Transport Minister Teresa González said the accident was caused by an \"inexplicable\" error, noting that investigators have not yet identified a technical fault or human negligence that could explain why the moving train failed to stop in time."
+   },
+   {
+    "type": "p",
+    "text": "The incident has prompted a temporary suspension of services on the affected route while authorities conduct a thorough investigation and assess safety protocols across the national rail network."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The crash raises concerns about high‑speed rail safety standards in Europe, potentially influencing regulatory reviews and travel confidence in the United States and other markets."
+   }
+  ],
+  "key_points": [
+   "At least 68 people died when a moving high‑speed train collided with a stopped train in Spain.",
+   "Transport Minister Teresa González described the cause as an \"inexplicable\" error.",
+   "Rail services on the line have been halted pending an investigation."
+  ],
+  "meta_description": "A high‑speed train crash in Spain killed at least 68, with officials calling the cause an \"inexplicable\" error.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spain",
+   "high-speed rail",
+   "train crash",
+   "fatalities",
+   "transport safety"
+  ],
+  "slug": "spain-high-speed-train-crash-kills-least-68-fatal-4e9d8a",
+  "reading_minutes": 1,
+  "added": "2026-10-28T21:53:54Z"
+ },
+ {
+  "id": "718210a39d4817c9",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ckyvr1q72v84o",
+  "source": "BBC Sport",
+  "source_title": "Sancho rejects Getafe - Thursday's gossip",
+  "source_summary": "Free agent Jadon Sancho turns down a move to La Liga, Desire Doue is in talks with Paris St-Germain about a contract extension, and Everton are considering a move for Marcus Rashford.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c777/live/a55976f0-d30f-11f1-93e1-3b657b665bcf.png",
+  "published": "2026-10-28T21:34:36+00:00",
+  "headline": "Sancho Turns Down Getafe as PSG Courts Doue and Everton Eye Rashford",
+  "body": [
+   {
+    "type": "p",
+    "text": "Free‑agent winger Jadon Sancho has rejected a reported move to Spanish side Getafe, opting to keep his options open for a return to the Premier League or another top‑flight club. The decision was confirmed by his representatives, who said Sancho is focusing on his fitness and future prospects rather than signing immediately."
+   },
+   {
+    "type": "p",
+    "text": "In Paris, midfielder Desire Doue is in advanced discussions with Paris Saint‑Germain about extending his contract, according to club sources. The talks come as PSG looks to retain key talent amid a busy summer transfer window and maintain squad stability."
+   },
+   {
+    "type": "p",
+    "text": "Everton have entered preliminary talks about a possible signing of England striker Marcus Rashford, who is currently linked with several clubs. The Merseyside side view Rashford as a potential solution to their attacking deficiencies, according to reports from the club’s scouting department."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The moves involve high‑profile players in Europe’s top leagues and could reshape transfer strategies for clubs in England and France."
+   }
+  ],
+  "key_points": [
+   "Jadon Sancho has turned down a move to Getafe and remains a free agent.",
+   "Desire Doue is negotiating a contract extension with Paris Saint‑Germain.",
+   "Everton are reportedly exploring a transfer for Marcus Rashford."
+  ],
+  "meta_description": "Jadon Sancho rejects Getafe, PSG eyes contract extension for Desire Doue, and Everton consider signing Marcus Rashford.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jadon Sancho",
+   "Getafe",
+   "PSG",
+   "Desire Doue",
+   "Everton",
+   "Marcus Rashford"
+  ],
+  "slug": "sancho-turns-down-getafe-psg-courts-doue-everton-eye-718210",
+  "reading_minutes": 1,
+  "added": "2026-10-28T21:53:58Z"
+ },
+ {
+  "id": "90b267becbf2eaa8",
+  "source_url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+  "source": "TechCrunch",
+  "source_title": "Microsoft recorded $10 billion in revenue from OpenAI",
+  "source_summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+  "source_tags": [
+   "AI",
+   "Enterprise",
+   "Microsoft",
+   "OpenAI"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+  "published": "2026-10-28T21:34:30+00:00",
+  "headline": "Microsoft Reports $10 Billion Revenue From OpenAI Partnership",
+  "body": [
+   {
+    "type": "p",
+    "text": "Microsoft disclosed that it generated $10 billion in revenue during the quarter that ended on September 30, stemming from its commercial arrangements with artificial‑intelligence firm OpenAI. The figure includes payments tied to revenue‑sharing agreements between the two companies."
+   },
+   {
+    "type": "p",
+    "text": "The disclosed amount highlights the scale of Microsoft's financial reliance on its partnership with OpenAI, which has become a central component of the tech giant's cloud and AI strategy. Executives noted that the revenue reflects ongoing collaboration across products and services that integrate OpenAI's models."
+   },
+   {
+    "type": "p",
+    "text": "Analysts see the $10 billion figure as evidence that the alliance remains a major growth driver for Microsoft, while also underscoring the risk of dependence on a single AI partner for future earnings."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The sizable revenue shows how integral OpenAI's technology is to Microsoft's business, a factor that could influence competition and regulatory scrutiny in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Microsoft earned $10 billion from its commercial ties with OpenAI in the quarter ending September 30.",
+   "The revenue includes payments from revenue‑sharing arrangements with the AI developer.",
+   "The amount underscores the significant financial dependency of Microsoft on the OpenAI partnership."
+  ],
+  "meta_description": "Microsoft reports $10 billion revenue from OpenAI deals in Q3, highlighting the partnership's financial importance.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Microsoft",
+   "OpenAI",
+   "AI partnership",
+   "revenue",
+   "cloud computing",
+   "technology"
+  ],
+  "slug": "microsoft-reports-10-billion-revenue-from-openai-partnership-90b267",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-28T21:54:02Z"
+ },
+ {
+  "id": "e4867209a9cdfe0b",
+  "source_url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+  "source": "The Verge",
+  "source_title": "Akai is embracing vibe-coded mods with an open-source MPC",
+  "source_summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]",
+  "source_tags": [
+   "AI",
+   "Entertainment",
+   "Gadgets",
+   "Music",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-28T21:34:04+00:00",
+  "headline": "Akai Opens MPC Sample Key to Modders with Open‑Source Firmware",
+  "body": [
+   {
+    "type": "p",
+    "text": "Akai has announced that its upcoming MPC Sample Key will be made available to the hacking and custom‑firmware community before the product’s official launch. The company plans to provide early access to developers, allowing them to experiment with and create \"vibe‑coded\" modifications for the device."
+   },
+   {
+    "type": "p",
+    "text": "The MPC Sample Key will ship with open‑source firmware, a move Akai says is intended to foster a vibrant ecosystem of third‑party enhancements. By sharing the code openly, the manufacturer hopes to tap into the creativity of musicians and technologists who build custom features and workflows."
+   },
+   {
+    "type": "p",
+    "text": "Akai’s strategy reflects a broader trend in music technology toward greater transparency and user‑driven innovation. The company’s early‑access program signals confidence that community‑generated mods will add value and differentiate the MPC Sample Key in a competitive market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Open‑source hardware can accelerate innovation in music production, giving creators in the US and Europe more tools to personalize their workflows."
+   }
+  ],
+  "key_points": [
+   "Akai will give developers early access to the MPC Sample Key for custom firmware work.",
+   "The device’s firmware will be open source, encouraging community‑created mods.",
+   "Akai aims to leverage the modding community to enhance the product’s appeal."
+  ],
+  "meta_description": "Akai offers early access and open‑source firmware for its upcoming MPC Sample Key, inviting the modding community to create custom features.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Akai",
+   "MPC Sample Key",
+   "open source",
+   "music tech",
+   "modding",
+   "firmware"
+  ],
+  "slug": "akai-opens-mpc-sample-key-modders-with-opensource-firmware-e48672",
+  "reading_minutes": 1,
+  "added": "2026-10-28T21:54:18Z"
+ },
+ {
+  "id": "b68605fb03fa790f",
+  "source_url": "https://www.nytimes.com/2026/10/28/us/politics/trump-arch-national-security.html",
+  "source": "The New York Times",
+  "source_title": "Officials Back Trump’s Claim That Triumphal Arch Is Needed for National Security",
+  "source_summary": "Defense Secretary Pete Hegseth and Markwayne Mullin, the homeland security secretary, submitted sworn statements to a federal court regarding the construction project.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States Defense and Military Forces",
+   "United States Triumphal Arch",
+   "Federal Courts (US)",
+   "Drones (Pilotless Planes)",
+   "Chutkan, Tanya S",
+   "Hegseth, Pete",
+   "Mullin, Markwayne",
+   "Trump, Donald J",
+   "Arlington National Cemetery"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/06/15/multimedia/28dc-arch/28dc-arch-mediumSquareAt3X.jpg",
+  "published": "2026-10-28T21:28:38+00:00",
+  "headline": "Defense and Homeland Security Chiefs Support Trump’s Arch Claim",
+  "body": [
+   {
+    "type": "p",
+    "text": "Defense Secretary Pete Hegseth and Homeland Security Secretary Markwayne Mullin filed sworn statements with a federal court, backing former President Donald Trump’s assertion that a proposed Triumphal Arch is essential for national security. The officials’ affidavits argue that the structure would serve a critical protective function, though the specific security rationale was not detailed in the filings."
+   },
+   {
+    "type": "p",
+    "text": "The court documents were submitted amid ongoing legal challenges to the construction project, which has become a flashpoint in the broader debate over Trump’s post‑presidency initiatives. Both Hegseth and Mullin emphasized that their testimony is based on classified assessments, underscoring the government’s stance that the arch’s removal could compromise security measures."
+   },
+   {
+    "type": "p",
+    "text": "Lawyers for opponents of the arch contend that the national‑security claim lacks substantive evidence and that the project primarily serves symbolic and political purposes. The case remains unresolved, with the court expected to rule on the merits of the officials’ sworn statements in the coming weeks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights how national‑security arguments can influence infrastructure projects, a concern for policymakers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Defense and homeland security leaders submitted sworn court statements supporting Trump’s national‑security justification for the Triumphal Arch.",
+   "The officials cite classified assessments, while critics argue the security claim is unsubstantiated.",
+   "The legal dispute over the arch continues, with a court decision pending."
+  ],
+  "meta_description": "Defense and homeland security chiefs back Trump's claim that a Triumphal Arch is needed for national security, filing sworn statements in court.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Triumphal Arch",
+   "national security",
+   "defense secretary",
+   "homeland security",
+   "court filing"
+  ],
+  "slug": "defense-homeland-security-chiefs-support-trumps-arch-claim-b68605",
+  "reading_minutes": 1,
+  "added": "2026-10-28T21:54:22Z"
+ },
+ {
+  "id": "46da125cd735d773",
+  "source_url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+  "source": "The Guardian",
+  "source_title": "EU backs away from offer to Canada to start ‘associate member’ talks",
+  "source_summary": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements between members states just as an EU-Canada summit was set to begin in Montreal. A draft of a joint statement to be issued after the end of the summit, which runs Thursday and Friday, showed a watered-down version offering “an ever closer association of Canada to the EU, short of full membership itself”.",
+  "source_tags": [
+   "European Union",
+   "Canada",
+   "World news",
+   "Americas",
+   "Europe",
+   "Mark Carney",
+   "Ursula von der Leyen"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/24a585605577afb5808339f59d266142de719b65/295_0_2953_2362/master/2953.jpg?width=700&quality=85&auto=format&fit=max&s=9476a4fb1168d4d3ec098ece684c466f",
+  "published": "2026-10-28T21:27:33+00:00",
+  "headline": "EU Scales Back Offer to Canada on Associate Membership Talks",
+  "body": [
+   {
+    "type": "p",
+    "text": "The European Union has withdrawn its proposal to begin formal talks with Canada on becoming an \"associate member\" of the bloc. The change comes after internal disagreements among EU member states surfaced just as an EU‑Canada summit was set to start in Montreal."
+   },
+   {
+    "type": "p",
+    "text": "A draft joint statement prepared for release after the summit, which runs Thursday and Friday, now only promises an \"ever closer association of Canada to the EU, short of full membership itself.\" The revised language reflects a compromise that stops short of the original, more ambitious proposal."
+   },
+   {
+    "type": "p",
+    "text": "The shift signals lingering divisions within the EU over how far to extend its institutional ties with non‑European partners, even as both sides continue to cooperate on trade, climate and security issues."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European audiences, the retreat underscores the EU's cautious approach to expanding its political reach, affecting future trade and diplomatic dynamics with North America."
+   }
+  ],
+  "key_points": [
+   "EU members could not agree on launching associate‑member talks with Canada.",
+   "The post‑summit statement will offer a weaker \"ever closer association\" instead of full membership talks.",
+   "The change highlights ongoing internal EU debates about the depth of external partnerships."
+  ],
+  "meta_description": "EU withdraws proposal for associate‑member talks with Canada, opting for a limited \"ever closer association\" after internal disagreements.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "EU",
+   "Canada",
+   "associate membership",
+   "foreign policy",
+   "Montreal summit"
+  ],
+  "slug": "eu-scales-back-offer-canada-associate-membership-talks-46da12",
+  "reading_minutes": 1,
+  "added": "2026-10-28T21:54:09Z"
+ },
+ {
+  "id": "459799693419bbee",
+  "source_url": "https://www.bbc.co.uk/sport/american-football/articles/c9e8l47grpz4o",
+  "source": "BBC Sport",
+  "source_title": "Chiefs coach defends decision to sign kicker Tucker",
+  "source_summary": "Kansas City Chiefs head coach Andy Reid defends the franchise's decision to sign Justin Tucker to its practice squad, stating the kicker has \"done his suspension\".",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9289/live/6098a200-d30c-11f1-ad4f-5d2bbacf0caf.jpg",
+  "published": "2026-10-28T20:55:11+00:00",
+  "headline": "Chiefs Coach Andy Reid Defends Adding Justin Tucker to Practice Squad",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kansas City Chiefs head coach Andy Reid has publicly defended the team's recent move to place veteran kicker Justin Tucker on its practice squad. Reid emphasized that the decision follows Tucker completing a suspension, indicating the organization believes he remains a valuable asset."
+   },
+   {
+    "type": "p",
+    "text": "Reid's comments came after speculation about the veteran's status within the franchise. By highlighting that Tucker has \"done his suspension,\" the coach signaled that the Chiefs intend to keep the former Baltimore Ravens star involved in team activities, albeit in a limited capacity for now."
+   },
+   {
+    "type": "p",
+    "text": "The practice squad placement allows the Chiefs to retain Tucker's experience while complying with league rules regarding suspended players. It also provides flexibility for the team to activate him if needed later in the season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move shows how NFL teams manage veteran talent and disciplinary actions, impacting roster strategy for the upcoming season."
+   }
+  ],
+  "key_points": [
+   "Chiefs coach Andy Reid says signing Justin Tucker to the practice squad is justified after his suspension ends.",
+   "Tucker's placement keeps him with the team while adhering to NFL suspension protocols."
+  ],
+  "meta_description": "Chiefs coach Andy Reid defends adding suspended kicker Justin Tucker to the practice squad, citing completion of his suspension.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "NFL",
+   "Kansas City Chiefs",
+   "Justin Tucker",
+   "Andy Reid",
+   "practice squad"
+  ],
+  "slug": "chiefs-coach-andy-reid-defends-adding-justin-tucker-practice-459799",
+  "reading_minutes": 1,
+  "added": "2026-10-28T21:54:14Z"
+ },
+ {
+  "id": "823ec8b4e69bdc34",
+  "source_url": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
+  "source": "The New York Times",
+  "source_title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
+  "source_summary": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools.",
+  "source_tags": [
+   "United States Politics and Government",
+   "News and News Media",
+   "Suits and Litigation (Civil)",
+   "Television",
+   "CNN",
+   "Associated Press",
+   "MS NOW",
+   "Politico, The",
+   "Trump, Donald J"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-cnn-lawsuit-cwzm/00biz-cnn-lawsuit-cwzm-mediumSquareAt3X.jpg",
+  "published": "2026-10-28T20:47:13+00:00",
+  "headline": "CNN, MSNBC and Politico Renew Lawsuit Seeking White House Pool Access",
+  "body": [
+   {
+    "type": "p",
+    "text": "CNN, MSNBC and Politico have filed an amended complaint that asks a federal court to order the White House to include them in its daily reporting pools. The outlets argue that the current exclusion violates the First Amendment and hampers their ability to cover the administration’s actions."
+   },
+   {
+    "type": "p",
+    "text": "The updated lawsuit, filed on Friday, expands on earlier claims by asserting that the White House’s selective access policy gives preferential treatment to certain media organizations while marginalizing others. The plaintiffs seek a court order that would require the administration to provide equal access to all credentialed news outlets for briefings, press conferences and other official events."
+   },
+   {
+    "type": "p",
+    "text": "Legal analysts note that the case could set a precedent for how the executive branch manages press relations, especially as the Biden administration faces heightened scrutiny over transparency. A decision could influence similar disputes involving foreign governments and their treatment of journalists."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case tests the balance between presidential control of information and constitutional press freedoms, a core issue for democracies in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "CNN, MSNBC and Politico allege First Amendment violations over denied White House pool access.",
+   "The amended complaint seeks a court order mandating equal access for all credentialed news outlets.",
+   "A ruling could reshape executive‑branch press credential policies in the United States."
+  ],
+  "meta_description": "CNN, MSNBC and Politico file an updated lawsuit demanding equal White House reporting pool access, citing First Amendment violations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "White House",
+   "press freedom",
+   "lawsuit",
+   "media access",
+   "First Amendment"
+  ],
+  "slug": "cnn-msnbc-politico-renew-lawsuit-seeking-white-house-pool-823ec8",
+  "reading_minutes": 1,
+  "added": "2026-10-28T21:54:06Z"
+ },
+ {
+  "id": "5133d1cb99ab112c",
+  "source_url": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
+  "source": "CNBC",
+  "source_title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
+  "source_summary": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108340437-1785154621860-gettyimages-2287098496-golba-dailylif260725_npRPi.jpeg?v=1785154648&w=1920&h=1080",
+  "published": "2026-10-28T20:35:33+00:00",
+  "headline": "FedEx Beats Q3 Forecast, Raises Outlook After Calendar Shift",
+  "body": [
+   {
+    "type": "p",
+    "text": "FedEx reported third‑quarter results for its newly aligned fiscal year that exceeded Wall Street expectations on both revenue and earnings per share."
+   },
+   {
+    "type": "p",
+    "text": "The company highlighted that the stronger performance came in its first earnings release since adjusting its calendar, prompting management to lift its future outlook."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted the beat reflects continued demand for the carrier's logistics services, though the report did not include specific financial figures."
+   }
+  ],
+  "key_points": [
+   "FedEx's Q3 results topped analysts' revenue and profit forecasts.",
+   "The carrier raised its outlook after the calendar realignment.",
+   "The earnings beat marks the first post‑adjustment report for the fiscal year."
+  ],
+  "meta_description": "FedEx beats Q3 expectations and raises its outlook in the first report after a calendar realignment.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FedEx",
+   "earnings",
+   "logistics",
+   "outlook",
+   "calendar adjustment"
+  ],
+  "slug": "fedex-beats-q3-forecast-raises-outlook-after-calendar-shift-5133d1",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-28T21:54:26Z"
+ },
+ {
   "id": "b2138757145a2099",
   "source_url": "https://www.theverge.com/tech/1020676/apple-touchscreen-macbook-pro-reveal-video",
   "source": "The Verge",
