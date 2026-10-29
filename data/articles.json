@@ -1,5 +1,674 @@
 [
  {
+  "id": "c9bbe62d5435994d",
+  "source_url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+  "source": "CNBC",
+  "source_title": "Starbucks sales fall short of expectations, but its U.S. turnaround continues to gain steam",
+  "source_summary": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108259066-17697091982026-01-29t175216z_1445274856_rc20bjafy1ai_rtrmadp_0_starbucks-investor-day.jpeg?v=1769709261&w=1920&h=1080",
+  "published": "2026-10-29T20:29:10+00:00",
+  "headline": "Starbucks U.S. Sales Beat Estimates as International Lags",
+  "body": [
+   {
+    "type": "p",
+    "text": "Starbucks reported that its U.S. locations delivered comparable sales that exceeded Wall Street expectations for the latest quarter. The company highlighted a continued turnaround in the domestic market, driven by strong demand for its core coffee offerings and recent menu innovations."
+   },
+   {
+    "type": "p",
+    "text": "In contrast, the coffee chain’s international segment fell short of analysts' sales forecasts. The shortfall reflects slower recovery in several overseas markets, where currency pressures and competitive dynamics have weighed on performance."
+   },
+   {
+    "type": "p",
+    "text": "Despite the mixed results, Starbucks said the positive momentum in the United States is helping to offset the weaker international figures, supporting overall earnings guidance for the fiscal year."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Investors and consumers in the U.S. and Europe watch Starbucks as a barometer for retail spending trends and global brand health."
+   }
+  ],
+  "key_points": [
+   "U.S. comparable sales surpassed Wall Street estimates, signaling a solid domestic rebound.",
+   "International sales missed forecasts, highlighting uneven recovery across markets.",
+   "The strong U.S. performance helps balance the company's overall earnings outlook."
+  ],
+  "meta_description": "Starbucks beats U.S. sales expectations but international results lag, shaping its earnings outlook.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Starbucks",
+   "retail",
+   "earnings",
+   "U.S. sales",
+   "international markets"
+  ],
+  "slug": "starbucks-u-s-sales-beat-estimates-international-lags-c9bbe6",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T20:30:41Z"
+ },
+ {
+  "id": "095fa390d54a1463",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cwdr8m8g4jz2o",
+  "source": "BBC Sport",
+  "source_title": "Zverev to become world number one at earliest opportunity",
+  "source_summary": "Alexander Zverev will replace Jannik Sinner as men’s world number one at his earliest opportunity after reaching the Vienna quarter-finals.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06ca/live/0511ffc0-d3d0-11f1-9c32-1532a6164171.jpg",
+  "published": "2026-10-29T20:25:37+00:00",
+  "headline": "Zverby Wins Vienna Spot, Set to Overtake Sinner as World No. 1",
+  "body": [
+   {
+    "type": "p",
+    "text": "German star Alexander Zverev secured a place in the quarter-finals of the Vienna Open, positioning himself to claim the ATP men’s world number one ranking at his earliest opportunity. The achievement follows a strong run in the tournament and comes as he prepares to overtake current leader Jannik Sinner."
+   },
+   {
+    "type": "p",
+    "text": "Zverev’s advancement in Vienna triggers the ranking shift under the ATP’s points system, meaning he will assume the top spot as soon as the necessary points are confirmed. The change will mark a significant milestone in Zverev’s career, highlighting his resurgence on the tour after recent seasons of fluctuating form."
+   },
+   {
+    "type": "p",
+    "text": "The upcoming transition in the world rankings underscores the competitive nature of men’s tennis, where several players are within striking distance of the summit. Fans and analysts will watch closely as Zverev aims to consolidate his position at the pinnacle of the sport."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A shift at the top of the ATP rankings influences tournament seedings and sponsorships, affecting the global tennis landscape."
+   }
+  ],
+  "key_points": [
+   "Alexander Zverev reached the Vienna quarter-finals, qualifying him to become world number one.",
+   "He will replace current leader Jannik Sinner at the earliest opportunity according to ATP rankings."
+  ],
+  "meta_description": "Alexander Zverev's Vienna quarter-final run sets him to overtake Jannik Sinner as ATP world number one.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tennis",
+   "ATP rankings",
+   "Alexander Zverev",
+   "Jannik Sinner",
+   "Vienna Open"
+  ],
+  "slug": "zverby-wins-vienna-spot-set-overtake-sinner-world-no-095fa3",
+  "reading_minutes": 1,
+  "added": "2026-10-29T20:30:44Z"
+ },
+ {
+  "id": "fb6fb7a174a4649e",
+  "source_url": "https://www.npr.org/2026/10/29/nx-s1-5902139/some-rural-republicans-in-california-say-redistricting-has-left-them-without-a-voice",
+  "source": "NPR",
+  "source_title": "Some rural Republicans in California say redistricting has left them without a voice",
+  "source_summary": "California's far northeastern corner used to be a reliably red congressional district. But Proposition 50 carved it up, meaning many voters there may soon have a Democrat representing them in D.C.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-29T20:19:31+00:00",
+  "headline": "Rural Californians Claim Redistricting Silences Their Vote",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republicans in California's far‑northeastern corner say the state's 2026 redistricting plan, driven by Proposition 50, has split their historic, reliably Republican district into several new districts. The changes could soon place many of these voters under a Democratic representative in Congress."
+   },
+   {
+    "type": "p",
+    "text": "The redrawn boundaries combine the sparsely populated area with more urban and suburban regions that lean Democratic, prompting local officials and community leaders to voice concerns that their interests will be diluted in the federal legislature."
+   },
+   {
+    "type": "p",
+    "text": "State officials argue the new map reflects population shifts and complies with legal requirements for equal representation, while critics warn that the redesign may marginalize rural voices in policy discussions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift illustrates how redistricting can alter political representation, affecting policy priorities for rural communities in the U.S. and similar debates in Europe."
+   }
+  ],
+  "key_points": [
+   "Proposition 50 redistricting has divided a traditionally Republican district in northeastern California.",
+   "Rural voters fear they will be represented by a Democrat after the new map takes effect.",
+   "State officials say the changes meet legal standards and reflect demographic trends."
+  ],
+  "meta_description": "Rural Republicans in California say new redistricting will leave them without a voice as their district is split and may gain a Democratic representative.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "California",
+   "redistricting",
+   "Republican",
+   "Democratic",
+   "rural voters",
+   "Proposition 50"
+  ],
+  "slug": "rural-californians-claim-redistricting-silences-their-vote-fb6fb7",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T20:30:59Z"
+ },
+ {
+  "id": "303237e25493ae95",
+  "source_url": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
+  "source": "CNBC",
+  "source_title": "Norwegian shares surge 13% on earnings beat, guidance raise",
+  "source_summary": "Norwegian said the company's bookings had \"improved modestly\" but remain below its optimal range.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108301495-1777897866060-gettyimages-2233398369-_dsc9743_tkn98xye.jpeg?v=1785424948&w=1920&h=1080",
+  "published": "2026-10-29T20:14:15+00:00",
+  "headline": "Norwegian Shares Jump 13% After Earnings Beat and Raised Guidance",
+  "body": [
+   {
+    "type": "p",
+    "text": "Norwegian Air Shuttle saw its stock rise sharply, climbing about 13% following the release of its latest earnings report. The airline reported results that exceeded analysts' expectations, prompting the market to react positively."
+   },
+   {
+    "type": "p",
+    "text": "In its earnings release, the carrier noted that bookings have \"improved modestly\" compared with the previous period, although they still fall short of the company's optimal range. Despite this, the firm raised its forward guidance, signaling confidence in future performance."
+   },
+   {
+    "type": "p",
+    "text": "The combination of an earnings beat and upgraded outlook drove the share price surge, highlighting investor optimism about the airline's recovery trajectory."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The stock rally reflects renewed investor confidence in the airline sector, which could influence travel‑related investments in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Norwegian shares surged 13% after reporting earnings that beat expectations.",
+   "The airline said bookings improved modestly but remain below its optimal range.",
+   "Guidance for future periods was raised, boosting investor confidence."
+  ],
+  "meta_description": "Norwegian shares rose 13% after beating earnings expectations and raising guidance, despite modest booking improvements.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Norwegian Air Shuttle",
+   "stock market",
+   "earnings beat",
+   "airline bookings",
+   "guidance raise"
+  ],
+  "slug": "norwegian-shares-jump-13-after-earnings-beat-raised-guidance-303237",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T20:31:08Z"
+ },
+ {
+  "id": "a00f511771f17d70",
+  "source_url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
+  "source": "The Verge",
+  "source_title": "Patrick Stewart has died at age 86",
+  "source_summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in Mirfield, Yorkshire, England, […]",
+  "source_tags": [
+   "Entertainment",
+   "Marvel",
+   "News",
+   "Star Trek",
+   "TV Shows"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2156843221.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-29T20:10:02+00:00",
+  "headline": "Actor Patrick Stewart Dies at 86 After Battle with Dementia",
+  "body": [
+   {
+    "type": "p",
+    "text": "Renowned actor Patrick Stewart, famed for his iconic roles in \"Star Trek\" and the \"X-Men\" franchise, has died at the age of 86. The announcement was posted on Stewart's Instagram account, stating he passed away at his Los Angeles home on Wednesday."
+   },
+   {
+    "type": "p",
+    "text": "The Instagram message described his death as occurring \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Stewart was born in 1940 in Mirfield, Yorkshire, England, and built a celebrated career on stage and screen over seven decades."
+   },
+   {
+    "type": "p",
+    "text": "Fans and fellow performers have begun sharing tributes online, highlighting Stewart's contributions to science‑fiction television, blockbuster films, and theater. His distinctive voice and commanding presence made him a cultural touchstone across multiple generations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stewart's work shaped popular sci‑fi and superhero media, influencing audiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Patrick Stewart died at 86 in Los Angeles after battling Alzheimer’s and Lewy Body Dementia.",
+   "He was best known for his leading roles in \"Star Trek\" and the \"X‑Men\" movies.",
+   "Tributes are flowing from fans and colleagues worldwide."
+  ],
+  "meta_description": "Actor Patrick Stewart, star of Star Trek and X‑Men, dies at 86 after dementia battle.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Patrick Stewart",
+   "Star Trek",
+   "X‑Men",
+   "celebrity death",
+   "dementia",
+   "Hollywood"
+  ],
+  "slug": "actor-patrick-stewart-dies-86-after-battle-with-dementia-a00f51",
+  "reading_minutes": 1,
+  "added": "2026-10-29T20:31:00Z"
+ },
+ {
+  "id": "6224c596d37f354a",
+  "source_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+  "source": "TechCrunch",
+  "source_title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+  "source_summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+  "source_tags": [
+   "AI",
+   "Apps",
+   "Media & Entertainment",
+   "TC",
+   "social media",
+   "Reddit",
+   "Search"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+  "published": "2026-10-29T20:08:31+00:00",
+  "headline": "Reddit Moves to Logged‑In Experience as Search Traffic Declines",
+  "body": [
+   {
+    "type": "p",
+    "text": "Reddit announced that it will transition its platform to a primarily logged‑in experience. The change comes as the company observes a slowdown in traffic that originates from search engines, a trend it attributes to the growing influence of artificial intelligence in how users locate information online."
+   },
+   {
+    "type": "p",
+    "text": "By requiring users to sign in, Reddit aims to protect its community and sustain its business model. The shift is intended to give the company greater control over the audience it serves and to better monetize interactions within its forums."
+   },
+   {
+    "type": "p",
+    "text": "The move marks a departure from Reddit’s historically open‑web approach, reflecting broader industry adjustments as platforms adapt to AI‑driven search dynamics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "As AI reshapes search behavior, Reddit’s pivot signals how major social platforms may tighten user access to preserve engagement and monetization."
+   }
+  ],
+  "key_points": [
+   "Reddit will prioritize a logged‑in user experience to counter falling search‑engine traffic.",
+   "The decision is driven by AI’s impact on online information discovery.",
+   "Reddit seeks to safeguard its community and revenue through the new model."
+  ],
+  "meta_description": "Reddit shifts to a logged‑in experience to address declining search traffic amid AI‑driven changes in online information discovery.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Reddit",
+   "AI",
+   "search traffic",
+   "user authentication",
+   "digital platforms"
+  ],
+  "slug": "reddit-moves-loggedin-experience-search-traffic-declines-6224c5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T20:31:20Z"
+ },
+ {
+  "id": "212e8767057afc9f",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo",
+  "source": "BBC News",
+  "source_title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+  "source_summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb9/live/fe693560-d3c2-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-29T20:05:57+00:00",
+  "headline": "Temporary Ceasefire Brings Brief Calm to War‑Torn Kherson",
+  "body": [
+   {
+    "type": "p",
+    "text": "A short‑lived ceasefire has quieted the streets of Kherson, allowing residents to experience a rare pause in the fighting that has scarred the city for months. Shops reopened, children played outside, and daily routines resumed, offering a fleeting sense of normalcy."
+   },
+   {
+    "type": "p",
+    "text": "Local officials and humanitarian groups say the pause is fragile and may end as soon as hostilities restart. While the lull has provided much‑needed relief, many citizens remain anxious about the prospect of renewed combat and its impact on their lives."
+   },
+   {
+    "type": "p",
+    "text": "The ceasefire, though temporary, highlights the deep desire among Kherson’s population for lasting peace. Observers note that such moments of calm are uncommon in the ongoing conflict and underscore the human cost of the war."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ceasefire in Kherson illustrates the broader volatility of the conflict, affecting regional stability and humanitarian conditions that concern European and North American partners."
+   }
+  ],
+  "key_points": [
+   "A temporary ceasefire has allowed Kherson residents a brief return to everyday activities.",
+   "The pause is considered fragile, with fears that fighting will resume soon.",
+   "The calm underscores the population’s yearning for a durable peace."
+  ],
+  "meta_description": "A short ceasefire brings rare calm to Kherson, letting residents glimpse normal life before fighting may resume.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kherson",
+   "ceasefire",
+   "Ukraine conflict",
+   "humanitarian",
+   "regional stability"
+  ],
+  "slug": "temporary-ceasefire-brings-brief-calm-wartorn-kherson-212e87",
+  "reading_minutes": 1,
+  "added": "2026-10-29T20:31:04Z"
+ },
+ {
+  "id": "2a40fc1e66e01af0",
+  "source_url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+  "source": "CNBC",
+  "source_title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+  "source_summary": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108297781-1777308295201-108297781-1777308210048-gettyimages-2272326273-BIZ-AUTO-RIVIAN-R2-ROADSHOW-TB.jpeg?v=1777308342&w=1920&h=1080",
+  "published": "2026-10-29T20:05:34+00:00",
+  "headline": "Rivian Beats Q3 Estimates as Software Sales and R2 Deliveries Climb",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rivian reported third-quarter earnings that surpassed analyst expectations, driven by higher software revenue and an increase in deliveries of its R2 model. The electric‑vehicle maker highlighted the growing contribution of its software segment to overall earnings."
+   },
+   {
+    "type": "p",
+    "text": "Along with the earnings beat, Rivian updated its 2026 outlook, projecting stronger vehicle delivery volumes, higher pre‑tax adjusted earnings, and increased capital expenditures. The revised guidance reflects the company’s confidence in scaling production and expanding its product lineup."
+   },
+   {
+    "type": "p",
+    "text": "The company’s performance underscores the accelerating demand for electric trucks and SUVs, as well as the rising importance of software services in the automotive sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stronger earnings and an upgraded outlook suggest Rivian is gaining momentum in the competitive EV market, which could impact investors and supply chains in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Rivian’s Q3 earnings exceeded estimates thanks to higher software revenue and R2 deliveries.",
+   "The firm raised its 2026 guidance, forecasting better vehicle deliveries, earnings and capex.",
+   "Software sales are becoming a larger revenue driver for the EV maker."
+  ],
+  "meta_description": "Rivian beats Q3 earnings estimates, lifts 2026 guidance as software revenue and R2 deliveries rise.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rivian",
+   "electric vehicles",
+   "software revenue",
+   "vehicle deliveries",
+   "2026 guidance"
+  ],
+  "slug": "rivian-beats-q3-estimates-software-sales-r2-deliveries-climb-2a40fc",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T20:31:28Z"
+ },
+ {
+  "id": "d1ff6d7e943c4863",
+  "source_url": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
+  "source": "NPR",
+  "source_title": "What killed 500-plus penguins? How scientists solved the mystery",
+  "source_summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3648+0+0/resize/5472x3648!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F04%2Fc5dc45604e3b8d741917e4b6b3ec%2Fadelie-penguins-c-ralph-vanstreels-uc-davis-12.jpg",
+  "published": "2026-10-29T20:03:26+00:00",
+  "headline": "Scientists Identify Cause of Mass Penguin Deaths on Antarctica's Danger Islands",
+  "body": [
+   {
+    "type": "p",
+    "text": "Researchers investigating the loss of more than 500 penguins on the Danger Islands in Antarctica have ruled out avian influenza as the primary cause. Field teams examined the birds and surrounding environment, finding no evidence of the virus that was initially suspected."
+   },
+   {
+    "type": "p",
+    "text": "Instead, the scientists discovered that the deaths were linked to a severe weather event that led to extensive ice melt and reduced access to feeding grounds. The sudden loss of sea ice forced the penguins onto land where they faced starvation and exposure."
+   },
+   {
+    "type": "p",
+    "text": "The findings, published after extensive analysis, highlight how rapid climate‑driven changes can have immediate, lethal impacts on wildlife populations, even in remote regions like the Antarctic."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event illustrates how climate‑related disruptions can quickly endanger species, informing conservation strategies worldwide."
+   }
+  ],
+  "key_points": [
+   "Avian flu was not responsible for the 500‑plus penguin deaths on the Danger Islands.",
+   "A sudden weather‑related loss of sea ice led to starvation and exposure for the birds.",
+   "The study underscores the direct threat of climate‑induced habitat changes to Antarctic wildlife."
+  ],
+  "meta_description": "Scientists determine that extreme weather, not avian flu, caused over 500 penguin deaths on Antarctica's Danger Islands.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Antarctica",
+   "penguins",
+   "climate change",
+   "wildlife mortality",
+   "avian flu",
+   "environment"
+  ],
+  "slug": "scientists-identify-cause-mass-penguin-deaths-antarctica-s-danger-d1ff6d",
+  "reading_minutes": 1,
+  "added": "2026-10-29T20:31:24Z"
+ },
+ {
+  "id": "e7753dad1225a595",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+  "source": "The Guardian",
+  "source_title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
+  "source_summary": "‘This is voter fraud at the highest level,’ president tells rally crowd in South Carolina; Alaska governor orders inquiry into Peltola campaign amid Republican outcry Alaska governor orders investigation into Peltola’s Senate campaign Sign up for the Breaking News US email With days until the midterm elections, a new poll from CNN places Democrats well in the lead in key Senate races in Texas and Michigan, while projecting tighter contests in Kansas and Maine. In Texas, the poll found 49% of likely voters would back James Talarico, the Democratic nominee, over Republican Ken Paxton, who netted just 43%.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US news",
+   "US politics",
+   "Barack Obama",
+   "Donald Trump",
+   "Democrats",
+   "Republicans",
+   "California",
+   "South Carolina",
+   "Ohio"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/7961a29a4736b94a504a27e050b549ed685d734f/0_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=37d1847d52cf01a7f5d52ddb42790eba",
+  "published": "2026-10-29T19:51:04+00:00",
+  "headline": "Trump Demands Prosecution of Alaska Senator Peltola as Governor Launches Inquiry",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a rally in South Carolina, former President Donald Trump urged authorities to prosecute Democratic Alaska Senator Mary Peltola, calling the situation \"voter fraud at the highest level.\" His remarks came amid growing Republican pressure over allegations surrounding Peltola's campaign finances."
+   },
+   {
+    "type": "p",
+    "text": "Alaska Governor Mike Dunleavy responded by ordering a formal inquiry into the Senate campaign, citing the need for transparency and accountability. The investigation will examine campaign contributions and any potential violations of state election law."
+   },
+   {
+    "type": "p",
+    "text": "Meanwhile, a new CNN poll released days before the midterm elections shows Democrats leading in several key Senate contests, including Texas and Michigan, while races in Kansas and Maine appear tighter. In Texas, 49% of likely voters favor Democratic nominee James Talarico over Republican incumbent Ken Paxton, who trails at 43%."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The calls for prosecution and the state inquiry add political tension ahead of the U.S. midterm elections, while the poll highlights shifting dynamics in pivotal Senate contests."
+   }
+  ],
+  "key_points": [
+   "Trump publicly called for criminal charges against Senator Mary Peltola at a South Carolina rally.",
+   "Alaska Governor Mike Dunleavy has initiated an official inquiry into Peltola's campaign.",
+   "A CNN poll shows Democrats ahead in Senate races in Texas and Michigan, with close margins in Kansas and Maine."
+  ],
+  "meta_description": "Trump urges prosecution of Alaska Senator Mary Peltola as the governor orders a campaign inquiry; CNN poll shows Democrats leading in key Senate races.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Mary Peltola",
+   "Alaska",
+   "midterm elections",
+   "campaign investigation",
+   "Senate races"
+  ],
+  "slug": "trump-demands-prosecution-alaska-senator-peltola-governor-launches-inquiry-e7753d",
+  "reading_minutes": 1,
+  "added": "2026-10-29T20:31:16Z"
+ },
+ {
+  "id": "5e6f1cae74a74e4f",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo",
+  "source": "BBC Sport",
+  "source_title": "Grealish dropped by Everton after 'breach of club discipline'",
+  "source_summary": "Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday \"due to a breach of club discipline\".",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff6/live/0d5fec70-d3ce-11f1-9c32-1532a6164171.png",
+  "published": "2026-10-29T19:31:36+00:00",
+  "headline": "Everton Excludes Jack Grealish from Carabao Cup Match Over Discipline Breach",
+  "body": [
+   {
+    "type": "p",
+    "text": "Everton have omitted midfielder Jack Grealish from Thursday's Carabao Cup tie against Newcastle United, citing a breach of club discipline. The decision was confirmed by the club ahead of the match, which will be played at St James' Park."
+   },
+   {
+    "type": "p",
+    "text": "The club did not disclose the nature of the disciplinary issue, but the move means Grealish will miss the first round of the competition for the Merseyside side. Everton will rely on other squad members to fill the creative role typically provided by the England international."
+   },
+   {
+    "type": "p",
+    "text": "Newcastle, who are also looking to progress in the tournament, will face an Everton side without one of its most high‑profile players. The outcome of the match could influence both clubs' chances of advancing in the knockout stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Everton's decision highlights the club's strict disciplinary standards and could impact their progress in the Carabao Cup, a competition that offers a route to European qualification."
+   }
+  ],
+  "key_points": [
+   "Jack Grealish has been left out of Everton's Carabao Cup game against Newcastle due to a breach of club discipline.",
+   "Everton provided no details about the incident, and Grealish will miss the fixture.",
+   "The omission could affect Everton's attacking options in the cup tie."
+  ],
+  "meta_description": "Everton have dropped Jack Grealish from their Carabao Cup match against Newcastle over a breach of club discipline.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Everton",
+   "Jack Grealish",
+   "Carabao Cup",
+   "Newcastle United",
+   "club discipline"
+  ],
+  "slug": "everton-excludes-jack-grealish-from-carabao-cup-match-over-5e6f1c",
+  "reading_minutes": 1,
+  "added": "2026-10-29T20:31:12Z"
+ },
+ {
+  "id": "55959ce8641d4231",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6kgq9qg28dno",
+  "source": "BBC Sport",
+  "source_title": "Dowman to miss three matches after appeal rejected",
+  "source_summary": "Arsenal's Max Dowman will miss three matches after an appeal against his sending-off during Tuesday's loss at Fleetwood is rejected.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5147/live/a2fe6400-d2cf-11f1-b677-b762d2f83f6e.jpg",
+  "published": "2026-10-29T17:19:06+00:00",
+  "headline": "Max Dowman Suspended for Three Games After Appeal Rejected",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal midfielder Max Dowman will be unavailable for the next three fixtures after the Football Association dismissed his appeal against a red card received in the club's 2-1 defeat to Fleetwood on Tuesday. The disciplinary panel upheld the original decision, confirming the three‑match ban."
+   },
+   {
+    "type": "p",
+    "text": "The sending‑off came in the latter stages of the game, leaving Arsenal a man down as they struggled to overturn Fleetwood's lead. Dowman's challenge was judged to be a professional foul, prompting the referee to issue a straight red card."
+   },
+   {
+    "type": "p",
+    "text": "With Dowman sidelined, Arsenal will need to adjust their midfield rotation for upcoming Premier League matches. Manager Mikel Arteta is expected to rely on other squad members to fill the void while the club considers any further disciplinary options."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The suspension reduces Arsenal's midfield depth ahead of crucial Premier League fixtures, potentially affecting their title challenge and European qualification hopes."
+   }
+  ],
+  "key_points": [
+   "Max Dowman's appeal against his red card was rejected, confirming a three‑match suspension.",
+   "The ban follows his dismissal in Arsenal's 2-1 loss to Fleetwood.",
+   "Arsenal must reshuffle their midfield lineup for the next three games."
+  ],
+  "meta_description": "Arsenal's Max Dowman will miss three games after his appeal over a red card in the loss to Fleetwood was rejected.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Max Dowman",
+   "suspension",
+   "Premier League",
+   "disciplinary action"
+  ],
+  "slug": "max-dowman-suspended-three-games-after-appeal-rejected-55959c",
+  "reading_minutes": 1,
+  "added": "2026-10-29T20:31:32Z"
+ },
+ {
   "id": "0172dd986ced9a5a",
   "source_url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o",
   "source": "BBC News",
