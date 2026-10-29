@@ -1,5 +1,673 @@
 [
  {
+  "id": "04e0219f15261e46",
+  "source_url": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html",
+  "source": "The New York Times",
+  "source_title": "Judge Rejects Trump Officials’ Bid to Set Aside California Ballots",
+  "source_summary": "The judge ruled that no immediate action was necessary, dealing another setback to the administration as it moves to target voting by noncitizens.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Federal-State Relations (US)",
+   "Midterm Elections (2026)",
+   "Decisions and Verdicts",
+   "Elections, Courts and the Judiciary",
+   "Voting Rights, Registration and Requirements",
+   "Justice Department",
+   "Carter, David O",
+   "Trump, Donald J",
+   "California"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28nat-calif-ballot-cbpm/28nat-calif-ballot-cbpm-mediumSquareAt3X.jpg",
+  "published": "2026-10-29T01:32:14+00:00",
+  "headline": "Federal Judge Denies Trump Administration Request to Void California Ballots",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge in California rejected a request from officials in the Trump administration to set aside certain ballots, ruling that no immediate action was required. The decision marks another legal defeat for the administration’s effort to challenge voting practices involving noncitizen voters."
+   },
+   {
+    "type": "p",
+    "text": "The court’s order leaves the contested ballots in place for the upcoming election, signaling that the administration’s strategy to limit noncitizen voting has encountered yet another obstacle in the judiciary. Lawyers for the administration had argued that the ballots should be invalidated pending further review."
+   },
+   {
+    "type": "p",
+    "text": "Judges have repeatedly scrutinized the administration’s claims about noncitizen voting, and this latest ruling underscores the judiciary’s reluctance to intervene without clear evidence. The decision does not preclude future legal challenges, but it temporarily halts the current push to discard the ballots."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights ongoing legal battles over voting rights in the United States, a topic of interest for both American and European audiences concerned with democratic processes."
+   }
+  ],
+  "key_points": [
+   "A federal judge refused to set aside California ballots, citing no need for immediate action.",
+   "The ruling is a setback for the Trump administration’s campaign against noncitizen voting.",
+   "The decision keeps the contested ballots in place for the upcoming election."
+  ],
+  "meta_description": "Judge denies Trump officials' bid to void California ballots, halting a push against noncitizen voting.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "voting rights",
+   "court ruling",
+   "Trump administration",
+   "California elections",
+   "noncitizen voting"
+  ],
+  "slug": "federal-judge-denies-trump-administration-request-void-california-ballots-04e021",
+  "reading_minutes": 1,
+  "added": "2026-10-29T01:43:40Z"
+ },
+ {
+  "id": "1588baceb499f02a",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo",
+  "source": "BBC News",
+  "source_title": "Details of thousands of US immigration agents leaked in major hack",
+  "source_summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c03/live/2996f1b0-d318-11f1-ba7d-b5eab6da6837.jpg",
+  "published": "2026-10-29T01:30:43+00:00",
+  "headline": "Hack Exposes Personal Data of Over 41,000 US Immigration Staff",
+  "body": [
+   {
+    "type": "p",
+    "text": "A data breach disclosed by a group calling itself the Department of Peace has revealed personal details of more than 41,000 employees of the U.S. Department of Homeland Security's immigration division. The leaked information includes names, job titles and other identifying data of staff members who work on immigration enforcement and processing."
+   },
+   {
+    "type": "p",
+    "text": "The leak, reported by BBC News, highlights a significant security lapse within a federal agency that handles sensitive immigration matters. While the exact method of the intrusion has not been detailed, the scale of the breach suggests that the attackers accessed internal databases containing staff records."
+   },
+   {
+    "type": "p",
+    "text": "U.S. officials have not yet commented on the incident, and no evidence has been presented that the data has been used for further wrongdoing. The Department of Peace, which posted the documents online, has not provided verification of its identity or motives."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The breach raises concerns about the security of government employee data and could affect immigration operations that involve U.S. and European partners."
+   }
+  ],
+  "key_points": [
+   "Over 41,000 DHS immigration staff records were exposed in a recent hack.",
+   "The leak was published by a group named the Department of Peace.",
+   "No official response from U.S. authorities has been reported yet."
+  ],
+  "meta_description": "A hack released details of more than 41,000 US immigration staff, sparking concerns over government data security.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "immigration",
+   "data breach",
+   "DHS",
+   "cybersecurity",
+   "US government",
+   "privacy"
+  ],
+  "slug": "hack-exposes-personal-data-over-41-000-us-immigration-1588ba",
+  "reading_minutes": 1,
+  "added": "2026-10-29T01:43:45Z"
+ },
+ {
+  "id": "0d295d6038b961f6",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no",
+  "source": "BBC News",
+  "source_title": "Microsoft profits soar days after announcing thousands of layoffs",
+  "source_summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
+  "published": "2026-10-29T01:27:40+00:00",
+  "headline": "Microsoft Reports Profit Surge After Announcing 60,000 Layoff Buyouts",
+  "body": [
+   {
+    "type": "p",
+    "text": "Microsoft Corp. posted a sharp rise in quarterly profit just days after the company revealed a major cost‑cutting plan. The Windows developer said it would extend voluntary buyout offers to up to 60,000 employees as part of a broader effort to streamline its workforce."
+   },
+   {
+    "type": "p",
+    "text": "The profit increase follows a week of announcements that the tech giant is targeting a significant reduction in headcount. While the exact financial figures were not disclosed, analysts note that the surge reflects the impact of the restructuring measures on the company’s bottom line."
+   },
+   {
+    "type": "p",
+    "text": "Microsoft’s strategy mirrors a trend among large technology firms seeking to balance growth with tighter expense controls. The buyout program is expected to be rolled out over the coming months, giving eligible staff the option to leave with compensation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The profit boost highlights how large tech firms are using workforce reductions to improve earnings, a pattern that could influence market expectations in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Microsoft’s profit rose sharply after unveiling a buyout program for up to 60,000 workers.",
+   "The buyouts are part of a cost‑cutting initiative aimed at reducing the company’s workforce.",
+   "Analysts see the profit jump as a direct result of the restructuring plan."
+  ],
+  "meta_description": "Microsoft's profit jumps as it offers buyouts to 60,000 employees in a cost‑cutting move.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Microsoft",
+   "profits",
+   "layoffs",
+   "buyouts",
+   "tech industry"
+  ],
+  "slug": "microsoft-reports-profit-surge-after-announcing-60-000-layoff-0d295d",
+  "reading_minutes": 1,
+  "added": "2026-10-29T01:44:01Z"
+ },
+ {
+  "id": "73403111bde23fb4",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak",
+  "source": "The Guardian",
+  "source_title": "Non-profit group leaks data of more than 40,000 homeland security workers",
+  "source_summary": "Information released by Distributed Denial of Secrets is the third such government data disclosure in the last month Data identifying more than 41,000 employees and contractors for the US Department of Homeland Security (DHS) was released on Wednesday in an unprecedented leak that reveals how the agency is organized. The records, which were made public by the transpaency nonprofit Distributed Denial of Secrets reference operation names, surveillance programs and information on undercover initiatives. DHS did not immediately return a message seeking comment.",
+  "source_tags": [
+   "Trump administration",
+   "Hacking",
+   "US news",
+   "US politics",
+   "Technology"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/be7bf9ada13544c4a4603c235464037ece0eb745/494_0_4341_3474/master/4341.jpg?width=700&quality=85&auto=format&fit=max&s=946ecf9967a8f716e18d9ae577da271c",
+  "published": "2026-10-29T01:25:35+00:00",
+  "headline": "Data Leak Exposes Over 41,000 DHS Employees and Contractors",
+  "body": [
+   {
+    "type": "p",
+    "text": "The transparency nonprofit Distributed Denial of Secrets released records on Wednesday that identify more than 41,000 workers employed by or contracted with the U.S. Department of Homeland Security. The dump includes internal references to operation names, surveillance programs and details of undercover initiatives, offering an unprecedented view of the agency’s structure."
+   },
+   {
+    "type": "p",
+    "text": "The disclosure marks the third major government data leak in the past month, according to the organization that published the files. The records were posted publicly without redaction, allowing analysts and journalists to examine how the department coordinates its domestic security efforts."
+   },
+   {
+    "type": "p",
+    "text": "The Department of Homeland Security has not responded to requests for comment. Officials typically keep such personnel information confidential to protect operational security and individual privacy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The breach highlights vulnerabilities in U.S. government data handling, raising concerns for allies about the security of shared intelligence and joint operations."
+   }
+  ],
+  "key_points": [
+   "Distributed Denial of Secrets released data on over 41,000 DHS employees and contractors.",
+   "The files reveal internal operation names, surveillance programs and undercover projects.",
+   "DHS has not yet commented on the leak."
+  ],
+  "meta_description": "A leak by Distributed Denial of Secrets exposes details of more than 41,000 DHS workers, revealing operation names and surveillance programs.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "DHS",
+   "data leak",
+   "Distributed Denial of Secrets",
+   "government transparency",
+   "cybersecurity"
+  ],
+  "slug": "data-leak-exposes-over-41-000-dhs-employees-contractors-734031",
+  "reading_minutes": 1,
+  "added": "2026-10-29T01:43:57Z"
+ },
+ {
+  "id": "024362b0eb154fe7",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
+  "source": "BBC News",
+  "source_title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+  "source_summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-29T01:14:01+00:00",
+  "headline": "Flávio Bolsonaro Says He Was Not Fleeing Brazil After Miami Arrival",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazilian politician Flávio Bolsonaro, who lost the recent election, told reporters he did not flee the country after landing in Miami. He framed his defeat as the result of a coup d’état and political persecution, echoing previous claims of electoral fraud that have not been substantiated."
+   },
+   {
+    "type": "p",
+    "text": "Bolsonaro repeated accusations that the election was rigged, despite the lack of evidence presented by any official body. His statements come as Brazil's political climate remains tense following the contested vote."
+   },
+   {
+    "type": "p",
+    "text": "The former candidate's remarks have drawn criticism from opposition leaders, who say his allegations undermine democratic institutions and fuel misinformation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Brazil's political stability affects regional markets and U.S. and European interests in Latin America."
+   }
+  ],
+  "key_points": [
+   "Flávio Bolsonaro denies fleeing Brazil after his arrival in Miami.",
+   "He alleges a coup and political persecution, repeating unproven fraud claims.",
+   "Opposition figures warn his statements could destabilize Brazil's democracy."
+  ],
+  "meta_description": "Flávio Bolsonaro says he did not flee Brazil after Miami landing, alleging a coup and unproven election fraud.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "Flávio Bolsonaro",
+   "election fraud",
+   "political persecution",
+   "Miami"
+  ],
+  "slug": "flavio-bolsonaro-says-he-was-not-fleeing-brazil-after-024362",
+  "reading_minutes": 1,
+  "added": "2026-10-29T01:43:48Z"
+ },
+ {
+  "id": "87d678004b810be2",
+  "source_url": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "EU countries block Canada's 'associate membership' plan",
+  "source_summary": "European Commission President Ursula von der Leyen wanted to give Canada a special status within the EU. But Germany and other member states have raised objections ahead of a summit in Montreal.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79303068_6.jpg",
+  "published": "2026-10-29T00:49:00+00:00",
+  "headline": "EU Countries Block Canada's Associate Membership Plan at EU Summit",
+  "body": [
+   {
+    "type": "p",
+    "text": "European Commission President Ursula von der Leyen had proposed granting Canada a special associate status within the European Union, a move intended to deepen political and economic ties between the two blocs."
+   },
+   {
+    "type": "p",
+    "text": "However, Germany and several other member states have voiced objections, citing concerns over the legal and procedural implications of such a status. Their resistance has stalled the proposal just weeks before a scheduled summit in Montreal where the issue was to be discussed."
+   },
+   {
+    "type": "p",
+    "text": "The disagreement highlights differing views among EU members on how closely to integrate non‑European partners and underscores the complexity of expanding the Union’s external relationships."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome will affect transatlantic trade and diplomatic relations, influencing how the EU engages with key partners like Canada."
+   }
+  ],
+  "key_points": [
+   "EU leaders, led by Germany, have rejected Canada’s request for associate membership.",
+   "Ursula von der Leyen’s plan aimed to strengthen EU‑Canada cooperation but faced legal concerns.",
+   "The dispute will be addressed at an upcoming summit in Montreal."
+  ],
+  "meta_description": "EU members block Canada's bid for associate membership, challenging the Commission's plan to deepen EU‑Canada ties ahead of a Montreal summit.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "EU",
+   "Canada",
+   "associate membership",
+   "trade",
+   "diplomacy"
+  ],
+  "slug": "eu-countries-block-canada-s-associate-membership-plan-eu-87d678",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T01:44:05Z"
+ },
+ {
+  "id": "2e719675555af8c4",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cv5ynwkndw61o",
+  "source": "BBC Sport",
+  "source_title": "'He could be happier' - why is Estevao becoming Chelsea's forgotten man?",
+  "source_summary": "Estevao faces limited opportunities at Chelsea as Pedro Neto’s form and competition for places in attack leave him struggling for game time under Xabi Alonso.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e9/live/c0798ce0-d328-11f1-acfb-39fa465810d4.jpg",
+  "published": "2026-10-29T00:05:21+00:00",
+  "headline": "Estevao Faces Limited Chances at Chelsea Amid Neto Surge",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chelsea forward Estevao is finding his playing time increasingly scarce as the club’s attacking options tighten under manager Xabi Alonso. The Portuguese striker has been pushed down the pecking order, with Pedro Neto enjoying a run of strong form that has cemented his place in the starting eleven."
+   },
+   {
+    "type": "p",
+    "text": "Alonso’s tactical setup emphasizes pace and versatility, leaving little room for players who cannot consistently match the output of the in‑form Neto. As a result, Estevao is expected to feature mainly as a substitute or in cup fixtures, limiting his impact on the Premier League campaign."
+   },
+   {
+    "type": "p",
+    "text": "The situation highlights the intense competition for places at a club that is rebuilding its squad, and it raises questions about Estevao’s future role or potential move away from Stamford Bridge if regular minutes do not materialise."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Chelsea’s squad decisions affect the Premier League title race and the market for midfield and attacking talent across Europe."
+   }
+  ],
+  "key_points": [
+   "Estevao’s game time at Chelsea has dwindled due to Pedro Neto’s strong performances.",
+   "Xabi Alonso’s tactical preferences favor players with greater pace and consistency.",
+   "The striker may need to consider a loan or transfer to regain regular football."
+  ],
+  "meta_description": "Chelsea’s Estevao sees limited play as Pedro Neto thrives under Xabi Alonso, prompting questions about his future.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chelsea",
+   "Estevao",
+   "Pedro Neto",
+   "Premier League",
+   "Xabi Alonso"
+  ],
+  "slug": "estevao-faces-limited-chances-chelsea-amid-neto-surge-2e7196",
+  "reading_minutes": 1,
+  "added": "2026-10-29T01:43:53Z"
+ },
+ {
+  "id": "0df7c69efe60ce50",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo",
+  "source": "BBC News",
+  "source_title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+  "source_summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg",
+  "published": "2026-10-29T00:00:15+00:00",
+  "headline": "Japan’s Haunted Homes See Price Cuts, Drawing Bargain Buyers Market",
+  "body": [
+   {
+    "type": "p",
+    "text": "In Japan, properties where a death occurred under tragic circumstances are being listed at significantly lower prices. Real‑estate agents describe these homes as “haunted,” and the stigma attached to them often leads sellers to accept steep discounts."
+   },
+   {
+    "type": "p",
+    "text": "The reduced prices have attracted a niche group of bargain hunters willing to overlook the alleged supernatural reputation. Buyers are motivated by the prospect of acquiring a home well below market value, even if it means dealing with local superstitions."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the phenomenon highlights how cultural beliefs can directly influence property values. While the homes remain difficult to sell at standard rates, the discount strategy is creating a small but active market segment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case illustrates how cultural beliefs can affect property markets, a factor investors and buyers in the US and Europe may need to consider when evaluating overseas real‑estate opportunities."
+   }
+  ],
+  "key_points": [
+   "Japanese homes linked to tragic deaths are sold at large discounts.",
+   "Bargain hunters are drawn to these lower‑priced, allegedly haunted properties.",
+   "The trend shows cultural superstitions can impact real‑estate pricing."
+  ],
+  "meta_description": "Haunted Japanese homes with tragic histories are offered at deep discounts, attracting bargain hunters despite superstitious stigma.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Japan",
+   "real estate",
+   "haunted homes",
+   "property market",
+   "superstitions",
+   "bargain hunting"
+  ],
+  "slug": "japans-haunted-homes-see-price-cuts-drawing-bargain-buyers-0df7c6",
+  "reading_minutes": 1,
+  "added": "2026-10-29T01:44:13Z"
+ },
+ {
+  "id": "3ca60481268871a9",
+  "source_url": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+  "source": "CNBC",
+  "source_title": "America's largest budget airline reports 71% jump in airfare",
+  "source_summary": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108304675-1778354492260-gettyimages-2253909846-260102_lax_109.jpeg?v=1778354555&w=1920&h=1080",
+  "published": "2026-10-28T23:51:38+00:00",
+  "headline": "Frontier Airlines Posts 71% Fare Jump in Q3, Bookings Hold",
+  "body": [
+   {
+    "type": "p",
+    "text": "Frontier Airlines announced that average ticket prices rose by 71 percent in the third quarter of 2026. The carrier said the increase reflects higher demand and a shift in its pricing strategy during the period."
+   },
+   {
+    "type": "p",
+    "text": "Despite the sharp fare rise, Frontier reported that customers continue to book flights at a steady pace. The airline highlighted that booking volumes have not shown a noticeable decline, suggesting that travelers are still choosing the low‑cost carrier even with higher prices."
+   },
+   {
+    "type": "p",
+    "text": "The company did not provide further details on the factors driving the fare surge or its impact on overall revenue. No additional commentary was offered on future pricing expectations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The data shows that demand for low‑cost air travel remains robust in the United States, even as ticket prices climb, which could influence pricing trends across the industry."
+   }
+  ],
+  "key_points": [
+   "Frontier Airlines' average airfare jumped 71% in Q3 2026.",
+   "Customer bookings remained stable despite the fare increase."
+  ],
+  "meta_description": "Frontier Airlines reports a 71% rise in Q3 fares while bookings stay steady, indicating strong demand for low‑cost travel.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Frontier Airlines",
+   "airfare",
+   "Q3 2026",
+   "travel demand",
+   "low‑cost carrier"
+  ],
+  "slug": "frontier-airlines-posts-71-fare-jump-q3-bookings-hold-3ca604",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T01:44:26Z"
+ },
+ {
+  "id": "caed67f6619196f3",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c8wy9wenqd01o",
+  "source": "BBC Sport",
+  "source_title": "How unbeaten Chelsea are getting back to their best",
+  "source_summary": "Chelsea are getting back to their best following their 2-0 Women's Champions League win over Roma - so how have they built success in their unbeaten run?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c93/live/57164640-d309-11f1-ad4f-5d2bbacf0caf.jpg",
+  "published": "2026-10-28T23:17:33+00:00",
+  "headline": "Chelsea Women Extend Unbeaten Run with 2-0 Champions League Victory Over Roma",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chelsea's women's team continued their unbeaten streak after a 2-0 win against Roma in the Women's Champions League. The victory was highlighted as a step towards reclaiming the form that once made the club a dominant force in European competition."
+   },
+   {
+    "type": "p",
+    "text": "The match against Roma demonstrated Chelsea's ability to secure clean sheets while scoring twice, reinforcing the confidence that has underpinned their recent run of matches without defeat. Analysts note that maintaining such consistency is crucial for any team aiming to compete for titles."
+   },
+   {
+    "type": "p",
+    "text": "Club officials and supporters view the result as evidence that the squad is rebuilding its best performance levels. The win adds momentum as Chelsea looks ahead to the next stages of the Champions League and domestic league fixtures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Chelsea's resurgence in women's football highlights the growing competitiveness of the sport in Europe, offering fans in the US and Europe a compelling narrative of a top club regaining form."
+   }
+  ],
+  "key_points": [
+   "Chelsea women beat Roma 2-0 in the Women's Champions League.",
+   "The win extends Chelsea's unbeaten run in European competition.",
+   "The result is seen as a sign the team is returning to its previous high standards."
+  ],
+  "meta_description": "Chelsea women extend their unbeaten run with a 2-0 Champions League win over Roma, signalling a return to top form.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chelsea",
+   "Women's Champions League",
+   "Roma",
+   "unbeaten run",
+   "football"
+  ],
+  "slug": "chelsea-women-extend-unbeaten-run-with-2-0-champions-caed67",
+  "reading_minutes": 1,
+  "added": "2026-10-29T01:44:09Z"
+ },
+ {
+  "id": "533b5df47158d959",
+  "source_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+  "source": "TechCrunch",
+  "source_title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+  "source_summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+  "source_tags": [
+   "Security",
+   "Startups",
+   "Bessemer Venture Partners",
+   "cloud security",
+   "Datadog",
+   "upwind"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
+  "published": "2026-10-28T23:15:00+00:00",
+  "headline": "Upwind Secures $400M Series C Valued at $3.8B, Rejects Datadog Deal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Cloud‑security startup Upwind announced a $400 million Series C financing that lifts its valuation to $3.8 billion. The round was led by existing investors, who matched the price the company had been offered by monitoring service Datadog."
+   },
+   {
+    "type": "p",
+    "text": "Upwind chose to remain independent rather than sell to Datadog for the same amount, citing a strategic focus on expanding its platform and maintaining control over product development. The fresh capital will be used to accelerate product rollout, hire talent, and broaden its global customer base."
+   },
+   {
+    "type": "p",
+    "text": "The decision underscores a growing confidence among security‑focused startups to pursue growth on their own terms, even when lucrative acquisition offers are on the table."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move highlights the strength of the cloud‑security market and may influence investment decisions in similar U.S. and European tech firms."
+   }
+  ],
+  "key_points": [
+   "Upwind raised $400 million in a Series C round, valuing the company at $3.8 billion.",
+   "The startup declined a same‑price acquisition offer from Datadog to stay independent.",
+   "The new funding will support product expansion and hiring worldwide."
+  ],
+  "meta_description": "Upwind secures $400M Series C at a $3.8B valuation, turning down a Datadog acquisition offer of the same price.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Upwind",
+   "cloud security",
+   "Series C",
+   "funding",
+   "Datadog",
+   "valuation"
+  ],
+  "slug": "upwind-secures-400m-series-c-valued-3-8b-rejects-533b5d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T01:44:17Z"
+ },
+ {
+  "id": "bade413220ae62da",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo",
+  "source": "BBC Sport",
+  "source_title": "Fleetwood to face Everton or Newcastle in last eight",
+  "source_summary": "League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83d/live/3ba1f500-d320-11f1-ba7d-b5eab6da6837.jpg",
+  "published": "2026-10-28T22:45:35+00:00",
+  "headline": "Fleetwood Town Set to Meet Everton or Newcastle in EFL Cup Quarter‑Finals",
+  "body": [
+   {
+    "type": "p",
+    "text": "League Two side Fleetwood Town has secured a place in the quarter‑finals of the EFL Cup and will face either Premier League club Everton or Newcastle United. The match will be played at Highbury, the historic home of Arsenal, providing a neutral venue for the tie."
+   },
+   {
+    "type": "p",
+    "text": "The draw pits the lower‑division team against one of England’s top‑flight sides, offering Fleetwood a rare opportunity to test themselves against elite competition. Both Everton and Newcastle are among the tournament’s favorites, having progressed through earlier rounds with convincing performances."
+   },
+   {
+    "type": "p",
+    "text": "If Fleetwood advances, they would join a select group of lower‑league clubs that have reached the later stages of the competition, highlighting the unpredictable nature of knockout football in England."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The fixture showcases the depth of English football, where clubs from lower tiers can face top‑flight opponents in high‑profile cup matches."
+   }
+  ],
+  "key_points": [
+   "Fleetwood Town will play either Everton or Newcastle United in the EFL Cup quarter‑finals.",
+   "The match is scheduled for Highbury, a neutral venue with historic significance.",
+   "A lower‑division club reaching this stage underscores the cup’s reputation for upsets."
+  ],
+  "meta_description": "Fleetwood Town will meet Everton or Newcastle United at Highbury in the EFL Cup quarter‑finals, a rare chance for a League Two side.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "EFL Cup",
+   "Fleetwood Town",
+   "Everton",
+   "Newcastle United",
+   "English football",
+   "cup competition"
+  ],
+  "slug": "fleetwood-town-set-meet-everton-or-newcastle-efl-cup-bade41",
+  "reading_minutes": 1,
+  "added": "2026-10-29T01:44:21Z"
+ },
+ {
   "id": "f348c6db37d87fbe",
   "source_url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
   "source": "TechCrunch",
