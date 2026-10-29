@@ -1,5 +1,676 @@
 [
  {
+  "id": "33cba2e841db53a3",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o",
+  "source": "BBC Sport",
+  "source_title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+  "source_summary": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona last week show he's been misunderstood?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9302/live/9a370150-d370-11f1-9ed3-17a877d6ca72.jpg",
+  "published": "2026-10-29T08:07:22+00:00",
+  "headline": "Mourinho’s Tactics Spark Debate After Real Madrid Beat Barcelona",
+  "body": [
+   {
+    "type": "p",
+    "text": "Jose Mourinho has spent the last ten years watching peers celebrated as football geniuses, and his recent success with Real Madrid has reignited the discussion about his methods. The Spanish giants secured a victory over Barcelona last week, prompting some observers to question whether the Portuguese manager has been unfairly judged.\n\nWhile the win has drawn praise from certain quarters, critics continue to point to Mourinho’s often‑controversial style and past setbacks. The contrast between his reputation and the latest result highlights a broader debate over what constitutes managerial brilliance in modern football.\n\nThe outcome at the Camp Nou has added a new chapter to Mourinho’s legacy, suggesting that his approach may be more effective than many have given credit for, even as the conversation about his place among the sport’s elite remains unsettled."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash between two of Europe's biggest clubs and the spotlight on a high‑profile manager underscores shifting narratives in elite football, relevant to fans and analysts across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Real Madrid's recent win over Barcelona has renewed scrutiny of Jose Mourinho's managerial reputation.",
+   "Mourinho's decade‑long perception as a misunderstood figure is challenged by the latest result.",
+   "Debate continues over whether his tactics qualify him as a football genius."
+  ],
+  "meta_description": "Real Madrid's win over Barcelona fuels debate on Jose Mourinho's legacy and whether he is finally being recognized as a football genius.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jose Mourinho",
+   "Real Madrid",
+   "Barcelona",
+   "football management",
+   "La Liga",
+   "sports debate"
+  ],
+  "slug": "mourinhos-tactics-spark-debate-after-real-madrid-beat-barcelona-33cba2",
+  "reading_minutes": 1,
+  "added": "2026-10-29T08:22:21Z"
+ },
+ {
+  "id": "66a0242e04bceb20",
+  "source_url": "https://www.nytimes.com/2026/10/28/us/politics/deadline-golf-course-closure.html",
+  "source": "The New York Times",
+  "source_title": "Trump Administration Moves to Close East Potomac Park to Begin Golf Project",
+  "source_summary": "The government said in a court filing that it would meet the Nov. 15 deadline set by President Trump to close East Potomac Park to build a championship golf course there.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Golf",
+   "Shutdowns (Institutional)",
+   "Courts and the Judiciary",
+   "Restoration and Renovation",
+   "Federal Courts (US)",
+   "Justice Department",
+   "Reyes, Ana C",
+   "Trump, Donald J",
+   "East Potomac Park (Washington, DC)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/29/multimedia/dc-golf/29thedocket-nl-vcgb-mediumSquareAt3X.jpg",
+  "published": "2026-10-29T08:00:42+00:00",
+  "headline": "Trump Administration to Close East Potomac Park for Golf by Nov 15",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Trump administration announced in a recent court filing that it will meet the November 15 deadline set by President Donald Trump to close East Potomac Park in Washington, D.C. The closure is intended to make way for a new championship‑level golf course on the federal recreation area."
+   },
+   {
+    "type": "p",
+    "text": "The filing indicates that the government plans to proceed with the project despite the park’s current use for public recreation. Officials cited the president’s directive as the basis for the timeline and affirmed that the closure will be implemented as scheduled."
+   },
+   {
+    "type": "p",
+    "text": "The proposed golf course is part of a broader effort by the administration to develop high‑profile sporting facilities on public lands, a move that has drawn attention from local stakeholders and preservation groups."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The conversion of a federally owned park into a golf course raises questions about public land use and could set a precedent for similar projects in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "The administration will close East Potomac Park by Nov. 15 to build a championship golf course.",
+   "The decision follows a court filing that references President Trump's deadline.",
+   "The project replaces a public park with a private‑use sporting facility."
+  ],
+  "meta_description": "Trump administration will close East Potomac Park by Nov. 15 to build a championship golf course, per a court filing.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "East Potomac Park",
+   "golf course",
+   "public land",
+   "Trump administration",
+   "Washington D.C."
+  ],
+  "slug": "trump-administration-close-east-potomac-park-golf-nov-15-66a024",
+  "reading_minutes": 1,
+  "added": "2026-10-29T08:22:26Z"
+ },
+ {
+  "id": "2b8e85afa7634f92",
+  "source_url": "https://www.bbc.co.uk/sport/baseball/articles/c5x2v991l0lvo",
+  "source": "BBC Sport",
+  "source_title": "Brewers win first World Series in 57-year history",
+  "source_summary": "The Milwaukee Brewers win the World Series for the first time in the franchise's 57-year history after beating the Tampa Bay Rays in game five on Wednesday.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef65/live/d45c5110-d36a-11f1-a2f1-9d8bc53db834.jpg",
+  "published": "2026-10-29T07:56:38+00:00",
+  "headline": "Milwaukee Brewers Capture First World Series Title in 57 Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Milwaukee Brewers clinched their inaugural World Series championship on Wednesday, defeating the Tampa Bay Rays in Game Five. The victory ends a 57‑year wait for the franchise, which was founded in 1969."
+   },
+   {
+    "type": "p",
+    "text": "The decisive game saw the Brewers outpace the Rays, securing the series win and delivering the city of Milwaukee its first major league baseball title. Fans celebrated the historic achievement as the team lifted the championship trophy for the first time in its history."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The win marks a milestone for a long‑standing MLB franchise, highlighting the growth of baseball in the Midwest and offering a fresh champion for U.S. and international fans."
+   }
+  ],
+  "key_points": [
+   "The Brewers won the World Series in Game Five, beating the Tampa Bay Rays.",
+   "It is the franchise's first championship in its 57‑year existence."
+  ],
+  "meta_description": "Milwaukee Brewers win their first World Series title in 57 years, defeating the Tampa Bay Rays in Game Five.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Milwaukee Brewers",
+   "World Series",
+   "Tampa Bay Rays",
+   "MLB",
+   "championship"
+  ],
+  "slug": "milwaukee-brewers-capture-first-world-series-title-57-years-2b8e85",
+  "reading_minutes": 1,
+  "added": "2026-10-29T08:22:38Z"
+ },
+ {
+  "id": "54e7e280813ba047",
+  "source_url": "https://www.dw.com/en/bayern-munich-head-coach-vincent-kompany-s-health-scare-highlights-the-need-for-better-support-for-elite-coaches/a-79764661?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Bayern Munich head coach Vincent Kompany's health scare highlights the need for better support for elite coaches",
+  "source_summary": "Vincent Kompany’s health concern is a reminder that elite football's pressures affect coaches too. Better support, clearer structures and mental health safeguards are increasingly vital.",
+  "source_tags": [
+   "Sports"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79765380_6.jpg",
+  "published": "2026-10-29T07:43:00+00:00",
+  "headline": "Vincent Kompany’s Health Scare Highlights Need for Coach Support",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bayern Munich head coach Vincent Kompany recently faced a health scare that has drawn attention to the intense pressures elite football managers endure. While the exact nature of his condition was not disclosed, the incident underscores how the demanding environment of top‑level sport can affect the well‑being of coaches as much as that of players."
+   },
+   {
+    "type": "p",
+    "text": "Experts and former managers argue that clubs need clearer structures and dedicated mental‑health safeguards to protect their staff. They point to a growing recognition that coaching roles involve long hours, constant scrutiny and high stakes, which can lead to stress‑related health issues if left unchecked."
+   },
+   {
+    "type": "p",
+    "text": "The discussion around Kompany’s situation is prompting calls for systematic support systems within football organisations, including regular health assessments, access to psychological services and a culture that encourages seeking help without stigma."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Coaching health impacts team stability and performance, making robust support systems relevant for clubs and fans across Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Vincent Kompany’s recent health issue highlights the physical toll of elite coaching.",
+   "Industry voices are urging clubs to implement formal mental‑health and wellness programs for coaches.",
+   "Better support structures are seen as essential to sustain performance and protect staff well‑being."
+  ],
+  "meta_description": "Vincent Kompany's health scare spotlights the need for stronger mental‑health support for elite football coaches.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "football",
+   "coaching",
+   "mental health",
+   "health scare",
+   "support",
+   "Bundesliga"
+  ],
+  "slug": "vincent-kompanys-health-scare-highlights-need-coach-support-54e7e2",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T08:22:31Z"
+ },
+ {
+  "id": "ae9fc21b7f8b67c7",
+  "source_url": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html",
+  "source": "The New York Times",
+  "source_title": "Alaska Governor Orders Criminal Investigation Into Peltola Campaign",
+  "source_summary": "President Trump had lashed out at Mary Peltola after The New York Times reported that her campaign and national Democrats helped recruit spoiler candidates to the race. He offered no explanation of what crime may have been committed.",
+  "source_tags": [
+   "Alaska",
+   "Peltola, Mary",
+   "Sullivan, Daniel Scott (1964- )",
+   "Sullivan, Daniel J (1957- )",
+   "Senate",
+   "Elections, Senate",
+   "Midterm Elections (2026)",
+   "Trump, Donald J",
+   "Elias, Marc E",
+   "Democratic Senatorial Campaign Committee"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28pol-alaska-ballot-reax-mlfp/28pol-alaska-ballot-reax-mlfp-mediumSquareAt3X.jpg",
+  "published": "2026-10-29T07:22:59+00:00",
+  "headline": "Alaska Governor Launches Criminal Probe of Peltola Campaign",
+  "body": [
+   {
+    "type": "p",
+    "text": "Alaska Governor Mike Dunleavy has ordered a criminal investigation into the campaign of Representative Mary Peltola following a New York Times report linking her office and national Democratic groups to the recruitment of spoiler candidates in the recent race. The probe will be conducted by state law enforcement agencies, though specific allegations have not been detailed."
+   },
+   {
+    "type": "p",
+    "text": "Former President Donald Trump publicly criticized Peltola after the report, accusing her of wrongdoing but offering no explanation of any specific crime. His comments added a partisan dimension to the unfolding inquiry, which is expected to focus on potential violations of Alaska’s campaign finance and election laws."
+   },
+   {
+    "type": "p",
+    "text": "The investigation comes as the state grapples with heightened scrutiny of election practices and the role of outside political actors in local contests. Officials have said the inquiry will proceed independently and that any findings will be made public."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The investigation could set precedents for how campaign recruitment tactics are regulated in U.S. elections, drawing interest from both American and European observers of democratic processes."
+   }
+  ],
+  "key_points": [
+   "Alaska’s governor has initiated a criminal probe into Rep. Mary Peltola’s campaign activities.",
+   "The probe follows a NYT report alleging Democratic involvement in recruiting spoiler candidates.",
+   "Former President Trump condemned Peltola without specifying alleged crimes."
+  ],
+  "meta_description": "Alaska governor orders a criminal investigation into Rep. Mary Peltola's campaign after a NYT report on spoiler candidate recruitment.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "Mary Peltola",
+   "criminal investigation",
+   "campaign finance",
+   "spoiler candidates"
+  ],
+  "slug": "alaska-governor-launches-criminal-probe-peltola-campaign-ae9fc2",
+  "reading_minutes": 1,
+  "added": "2026-10-29T08:22:42Z"
+ },
+ {
+  "id": "b1f764e9d1386a87",
+  "source_url": "https://www.dw.com/en/india-news-cockroaches-back-gandhi-s-rally-against-election-chief/live-79791890?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "India news: 'Cockroaches' back Gandhi's rally against election chief",
+  "source_summary": "The CJP said it would lend its support to any organization fighting for free and fair elections in India, including the opposition alliance. Also, India's right-wing RSS has a group of well wishers in the US. Follow DW.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79681689_6.jpg",
+  "published": "2026-10-29T07:22:00+00:00",
+  "headline": "India’s CJP Backs Election Reform Groups as RSS Finds US Supporters",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Chief Justice of India (CJP) announced that it would support any organization working toward free and fair elections in the country, explicitly including the opposition alliance that has rallied against the election chief."
+   },
+   {
+    "type": "p",
+    "text": "The statement came amid a broader political push, with the right‑wing Rashtriya Swayamsevak Sangh (RSS) noting that it has a network of well‑wishers based in the United States. These supporters are reportedly engaged in promoting the RSS’s perspective abroad."
+   },
+   {
+    "type": "p",
+    "text": "The developments highlight a split in India’s political landscape, where the judiciary signals backing for electoral integrity while a major nationalist group cultivates international sympathisers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Ensuring credible elections in the world’s largest democracy has implications for global markets and geopolitical stability, affecting partners in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "India’s chief justice pledged support for groups advocating free and fair elections, including the opposition alliance.",
+   "The RSS, a prominent right‑wing organization, maintains a group of supporters in the United States.",
+   "The moves underscore competing influences on India’s electoral and political environment."
+  ],
+  "meta_description": "India’s chief justice backs election‑fairness groups while the RSS notes US supporters, signaling divergent political currents.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "elections",
+   "judiciary",
+   "RSS",
+   "US relations"
+  ],
+  "slug": "indias-cjp-backs-election-reform-groups-rss-finds-us-b1f764",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T08:22:46Z"
+ },
+ {
+  "id": "f03e5b47847b834d",
+  "source_url": "https://www.dw.com/en/spain-train-crash-pm-sanchez-calls-for-investigation-as-3-days-of-mourning-begins/a-79792085?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Spain train crash: PM Sanchez calls for investigation as 3 days of mourning begins",
+  "source_summary": "Emergency crews worked through the night after a high-speed train collision killed 68 people. PM Pedro Sanchez has pledged a full investigation into Spain's second major train accident this year.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79791993_6.jpg",
+  "published": "2026-10-29T07:22:00+00:00",
+  "headline": "Spain Declares Days of Mourning After High‑Speed Train Crash Kills 68",
+  "body": [
+   {
+    "type": "p",
+    "text": "Emergency crews worked through the night following a high‑speed train collision in Spain that left 68 people dead. The crash, the country's second major rail disaster this year, prompted authorities to launch a full rescue and recovery operation."
+   },
+   {
+    "type": "p",
+    "text": "Prime Minister Pedro Sanchez announced a three‑day period of national mourning and pledged a comprehensive investigation into the causes of the accident. He said the inquiry will examine safety protocols, infrastructure and operator procedures to prevent a repeat of such a tragedy."
+   },
+   {
+    "type": "p",
+    "text": "The incident has revived public debate over Spain's rail network reliability and the broader European high‑speed rail system. Officials have urged calm while the investigation proceeds, emphasizing that safety remains a top priority."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The crash highlights ongoing safety challenges in Europe's high‑speed rail networks, which affect travelers and transport policy across the continent."
+   }
+  ],
+  "key_points": [
+   "A high‑speed train collision in Spain killed 68 people, prompting a three‑day mourning period.",
+   "Prime Minister Pedro Sanchez has ordered a full investigation into the crash.",
+   "The accident is Spain's second major train disaster this year, raising safety concerns."
+  ],
+  "meta_description": "Spain declares three days of mourning after a high‑speed train crash kills 68; PM Sanchez vows a full investigation.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spain",
+   "train crash",
+   "Pedro Sanchez",
+   "investigation",
+   "mourning",
+   "rail safety"
+  ],
+  "slug": "spain-declares-days-mourning-after-highspeed-train-crash-kills-f03e5b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-29T08:23:04Z"
+ },
+ {
+  "id": "c3ce5e2005a037a9",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo",
+  "source": "BBC Sport",
+  "source_title": "Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?",
+  "source_summary": "Having cost Leeds United an 'eye-watering' fee, Tarik Muharemovic has impressed so much that some fear the club face a battle to keep him.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f99/live/b256c500-d117-11f1-921d-7d7921390179.png",
+  "published": "2026-10-29T06:27:10+00:00",
+  "headline": "Leeds United’s Record Signing Muharemovic Impresses Amid Retention Fears",
+  "body": [
+   {
+    "type": "p",
+    "text": "Leeds United have invested an \"eye‑watering\" fee to acquire Tarik Muharemovic, a move that has quickly drawn attention for its impact on the club’s on‑field performance. The Bosnian forward has delivered strong displays since joining, prompting praise from supporters and pundits alike."
+   },
+   {
+    "type": "p",
+    "text": "Despite his early success, Leeds face a potential battle to retain Muharemovic as interest from other clubs grows. The club’s management acknowledges the challenge of keeping a player who has already proven his value at a high cost."
+   },
+   {
+    "type": "p",
+    "text": "Adding to the narrative, former Italy defender Giorgio Chiellini offered guidance to Leeds, describing the situation as a \"rock\" that could shape the team’s future. His comments underscore the significance of strategic decisions surrounding high‑profile signings in the modern game."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The situation illustrates how costly transfers can influence club strategy in the competitive European football market, a trend watched by fans and investors worldwide."
+   }
+  ],
+  "key_points": [
+   "Tarik Muharemovic arrived at Leeds United for a record fee and has already impressed on the pitch.",
+   "Leeds may struggle to hold onto the player as other clubs show interest.",
+   "Giorgio Chiellini highlighted the importance of the transfer for Leeds' future."
+  ],
+  "meta_description": "Leeds United's costly signing Tarik Muharemovic impresses, but the club may face a fight to keep him, according to Giorgio Chiellini.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Leeds United",
+   "Tarik Muharemovic",
+   "football transfers",
+   "Giorgio Chiellini",
+   "Premier League"
+  ],
+  "slug": "leeds-uniteds-record-signing-muharemovic-impresses-amid-retention-fears-c3ce5e",
+  "reading_minutes": 1,
+  "added": "2026-10-29T08:22:54Z"
+ },
+ {
+  "id": "91045090e6eab9de",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo",
+  "source": "BBC News",
+  "source_title": "Ofcom outlines ways social media can verify ages of users",
+  "source_summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ca/live/2bf1c250-d2af-11f1-a05d-41eb870c7a5f.jpg",
+  "published": "2026-10-29T05:57:15+00:00",
+  "headline": "Ofcom Proposes Photo ID, Banking Checks and AI to Verify Ages Online",
+  "body": [
+   {
+    "type": "p",
+    "text": "The UK communications regulator Ofcom has outlined a set of methods that social‑media platforms could use to confirm users are at least 16 years old. Options include requiring a photo or digital identity document, conducting banking‑related checks, or employing facial‑recognition technology that estimates a person’s age."
+   },
+   {
+    "type": "p",
+    "text": "Ofcom says each approach offers a way to reduce the presence of under‑age users on services where age‑restricted content is common. The regulator stresses that any system must balance verification accuracy with privacy safeguards and be practical for both large and smaller platforms."
+   },
+   {
+    "type": "p",
+    "text": "The proposals are not yet mandatory, but Ofcom intends to work with industry stakeholders to develop guidance and potentially introduce regulatory requirements in the future. The aim is to create a more consistent framework across the sector, helping platforms protect younger users while maintaining user trust."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Age‑verification rules in the UK could influence similar policies in the US and EU, affecting how global platforms handle user data and protect minors."
+   }
+  ],
+  "key_points": [
+   "Ofcom suggests photo ID, digital ID, banking checks or AI‑based age estimation to verify users are 16 or older.",
+   "The regulator emphasizes privacy safeguards and practicality for all social‑media platforms.",
+   "Guidance may lead to future regulatory requirements for age verification online."
+  ],
+  "meta_description": "Ofcom proposes photo ID, banking checks and AI age estimation to verify social‑media users are 16+, aiming for safer online environments.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "age verification",
+   "social media",
+   "Ofcom",
+   "digital ID",
+   "online safety"
+  ],
+  "slug": "ofcom-proposes-photo-id-banking-checks-ai-verify-ages-910450",
+  "reading_minutes": 1,
+  "added": "2026-10-29T08:22:34Z"
+ },
+ {
+  "id": "6c85a2ca8930913f",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o",
+  "source": "BBC News",
+  "source_title": "Healey promises reduction in welfare bill before next election",
+  "source_summary": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/24913c10-d323-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-10-29T05:57:01+00:00",
+  "headline": "Healey Promises Welfare Bill Cut Before Election, Conservatives Want Detail",
+  "body": [
+   {
+    "type": "p",
+    "text": "UK Chancellor Jeremy Hunt has pledged to lower the welfare bill ahead of the next general election, according to the BBC. The promise was made as part of the government's ongoing welfare reform agenda."
+   },
+   {
+    "type": "p",
+    "text": "The Conservative opposition criticised Hunt for not providing detailed figures in his Budget, saying the lack of specifics makes it difficult to assess the impact of the proposed cuts."
+   },
+   {
+    "type": "p",
+    "text": "Both parties agree that welfare spending is a key issue for voters, but the debate centres on how much the bill can be reduced and what measures will be used to achieve savings."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Welfare reform in the UK influences fiscal policy and social spending trends that affect European economies and transatlantic trade relations."
+   }
+  ],
+  "key_points": [
+   "Chancellor Jeremy Hunt pledges to cut the welfare bill before the next election.",
+   "Conservatives accuse Hunt of withholding detailed information in the Budget.",
+   "Welfare spending remains a contentious issue in UK politics."
+  ],
+  "meta_description": "UK Chancellor pledges welfare bill cut before election, while Conservatives demand more budget detail.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK politics",
+   "welfare reform",
+   "budget",
+   "Jeremy Hunt",
+   "Conservative Party"
+  ],
+  "slug": "healey-promises-welfare-bill-cut-before-election-conservatives-want-6c85a2",
+  "reading_minutes": 1,
+  "added": "2026-10-29T08:22:59Z"
+ },
+ {
+  "id": "f3c32af069f3bea4",
+  "source_url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+  "source": "The Verge",
+  "source_title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+  "source_summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no […]",
+  "source_tags": [
+   "Gadgets",
+   "Laptops",
+   "News",
+   "Policy",
+   "Report"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-BlueChip-InField-5-Web.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-29T02:22:46+00:00",
+  "headline": "Anduril and Qualcomm to Launch Made‑in‑USA Laptop in 2027",
+  "body": [
+   {
+    "type": "p",
+    "text": "Defense contractor Anduril Industries and chipmaker Qualcomm announced a partnership to produce a laptop that will be assembled entirely in the United States. The first model, dubbed BlueChip, is slated for launch in 2027 and will meet the federal Buy American standards that apply to certain government contracts."
+   },
+   {
+    "type": "p",
+    "text": "The collaboration is presented as the first step toward a broader ambition: creating a fully domestic supply chain for consumer computers. Both companies said the initiative aims to reduce reliance on overseas components and to demonstrate that a complete, high‑performance laptop can be built on U.S. soil."
+   },
+   {
+    "type": "p",
+    "text": "While details on specifications and pricing were not disclosed, the announcement signals a shift in the tech industry’s approach to manufacturing, especially for products used by defense and other sensitive sectors."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A domestically built laptop reduces dependence on foreign components, aligning with U.S. security policies and potentially influencing European supply‑chain strategies."
+   }
+  ],
+  "key_points": [
+   "Anduril and Qualcomm will produce a U.S.-assembled laptop that complies with Buy American rules, targeting a 2027 release.",
+   "The partnership is part of a longer‑term goal to establish a fully domestic supply chain for computers.",
+   "The move could reshape how defense‑related hardware is sourced and manufactured."
+  ],
+  "meta_description": "Anduril and Qualcomm plan a U.S.-assembled laptop for 2027, aiming to meet Buy American standards and build a domestic supply chain.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Anduril",
+   "Qualcomm",
+   "Made-in-USA",
+   "laptops",
+   "domestic supply chain",
+   "defense tech"
+  ],
+  "slug": "anduril-qualcomm-launch-madeinusa-laptop-2027-f3c32a",
+  "reading_minutes": 1,
+  "added": "2026-10-29T08:22:50Z"
+ },
+ {
+  "id": "8a2e29a52badb261",
+  "source_url": "https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
+  "source": "The New York Times",
+  "source_title": "Alphabet’s Revenue Rises 25% as Profit Falls",
+  "source_summary": "The company has been spending relentlessly to build A.I. and said it would increase those investments next year. Profit dropped because of changes to the value of its investments.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Computers and the Internet",
+   "Company Reports",
+   "Cloud Computing",
+   "Alphabet Inc",
+   "Google Inc"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-google-earnings-pcmt/28biz-google-earnings-pcmt-mediumSquareAt3X.jpg",
+  "published": "2026-10-29T01:47:40+00:00",
+  "headline": "Alphabet Reports 25% Revenue Growth as Profit Declines",
+  "body": [
+   {
+    "type": "p",
+    "text": "Alphabet announced a 25% increase in revenue for the latest reporting period, driven by continued expansion of its advertising and cloud services. The company said the growth reflects strong demand for its digital platforms despite broader economic headwinds."
+   },
+   {
+    "type": "p",
+    "text": "Profit, however, fell as the firm adjusted the valuation of its investment portfolio, a change that outweighed the revenue gains. Alphabet attributed the decline to accounting adjustments rather than operational weakness."
+   },
+   {
+    "type": "p",
+    "text": "The tech giant reiterated its commitment to artificial‑intelligence development, noting that it has been spending heavily on AI projects and plans to raise those investments further next year. Executives said the additional spending is intended to maintain a competitive edge in emerging AI markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Alphabet's financial shift signals how major tech firms balance growth with heavy AI investment, affecting advertisers and investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Alphabet's revenue rose 25% while profit dropped due to investment valuation changes.",
+   "The company will increase its AI spending in the coming year.",
+   "Profit decline stems from accounting adjustments, not reduced business activity."
+  ],
+  "meta_description": "Alphabet posts 25% revenue growth but lower profit as it adjusts investment values and plans to boost AI spending next year.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alphabet",
+   "Revenue Growth",
+   "Profit Decline",
+   "Artificial Intelligence",
+   "Tech Investment"
+  ],
+  "slug": "alphabet-reports-25-revenue-growth-profit-declines-8a2e29",
+  "reading_minutes": 1,
+  "added": "2026-10-29T08:23:06Z"
+ },
+ {
   "id": "04e0219f15261e46",
   "source_url": "https://www.nytimes.com/2026/10/28/us/politics/california-noncitizen-voters-trump.html",
   "source": "The New York Times",
