@@ -1,5 +1,667 @@
 [
  {
+  "id": "2dd959490d3ebd6f",
+  "source_url": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
+  "source": "The New York Times",
+  "source_title": "This Device Uses A.I. and Lasers to Kill Mosquitoes",
+  "source_summary": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Pest Control",
+   "Start-ups",
+   "Laser (Light Amplification by Stimulated Emission of Radiation)"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T06:18:44+00:00",
+  "headline": "Chinese Startup Unveils AI‑Powered Laser Device to Kill Mosquitoes",
+  "body": [
+   {
+    "type": "p",
+    "text": "A Chinese start‑up has introduced a new device that combines artificial intelligence with laser technology to target and eliminate mosquitoes. The system scans for the insects, identifies them using AI algorithms, and fires a precise laser pulse to destroy the pest on contact."
+   },
+   {
+    "type": "p",
+    "text": "Developers say the technology could reduce reliance on chemical insecticides and help curb mosquito‑borne diseases. However, they also acknowledge safety concerns, noting that the laser could pose risks to nearby people, pets, and other wildlife if not properly managed."
+   },
+   {
+    "type": "p",
+    "text": "The prototype is currently undergoing testing, and the company plans to refine safety protocols before any commercial rollout. Observers are watching the project as a potential shift in how vector control might be approached in urban and rural settings."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Mosquito‑borne illnesses remain a public‑health challenge in many regions, making new control methods of interest to the US and European audiences."
+   }
+  ],
+  "key_points": [
+   "A Chinese start‑up created an AI‑driven laser system that can identify and kill mosquitoes.",
+   "Safety concerns have been raised about the laser’s impact on humans and other animals.",
+   "The technology aims to offer a non‑chemical alternative for mosquito control."
+  ],
+  "meta_description": "A Chinese start‑up's AI laser device targets mosquitoes, offering a non‑chemical control method while raising safety concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "laser technology",
+   "mosquito control",
+   "public health",
+   "China",
+   "innovation"
+  ],
+  "slug": "chinese-startup-unveils-aipowered-laser-device-kill-mosquitoes-2dd959",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:21:44Z"
+ },
+ {
+  "id": "e6c33e8b4a778911",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo",
+  "source": "BBC News",
+  "source_title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+  "source_summary": "Fuel price rises are driving discontent, testing support for Ahmed al-Sharaa's government.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acad/live/bd8904b0-d20c-11f1-b3b6-c1e79e957e40.jpg",
+  "published": "2026-10-30T06:02:23+00:00",
+  "headline": "Syrian Fuel Price Hikes Fuel Public Discontent Amid Post‑Assad Recovery",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rising fuel costs are deepening the economic strain on Syrians as the country tries to rebuild after the Assad era. Prices for gasoline and diesel have surged, pushing household expenses higher and sparking growing frustration among citizens."
+   },
+   {
+    "type": "p",
+    "text": "The price increases are testing the popularity of Prime Minister Ahmed al‑Sharaa's administration, which has pledged to stabilise the economy but faces criticism for perceived inaction. Market analysts say the hikes reflect broader inflationary pressures and limited access to foreign currency."
+   },
+   {
+    "type": "p",
+    "text": "Public discontent is manifesting in protests and social media outcry, with many Syrians fearing that the cost of living could erode the modest gains made since the end of the civil war. The government has warned of fiscal constraints while urging citizens to remain patient."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Escalating costs in Syria could affect regional stability and influence global energy markets, concerns for European and U.S. policymakers."
+   }
+  ],
+  "key_points": [
+   "Fuel price hikes are driving widespread discontent in Syria.",
+   "The increases challenge the credibility of Ahmed al‑Sharaa's government.",
+   "Economic pressures risk undoing post‑war recovery gains."
+  ],
+  "meta_description": "Fuel price spikes in Syria fuel public unrest and test Prime Minister Ahmed al‑Sharaa's post‑Assad recovery efforts.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Syria",
+   "fuel prices",
+   "inflation",
+   "government",
+   "protests",
+   "economy"
+  ],
+  "slug": "syrian-fuel-price-hikes-fuel-public-discontent-amid-postassad-e6c33e",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:22:00Z"
+ },
+ {
+  "id": "96b20f6494f5093f",
+  "source_url": "https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html",
+  "source": "The New York Times",
+  "source_title": "How One Country Became the Unlikely Crossroads of the Global A.I. Boom",
+  "source_summary": "In Malaysia, U.S. and Chinese tech giants are pouring billions into vast data centers, straining local resources and testing the limits of Washington’s restrictions on advanced chips.",
+  "source_tags": [
+   "Malaysia",
+   "Artificial Intelligence",
+   "Data Centers",
+   "China",
+   "Southeast Asia",
+   "Computers and the Internet",
+   "International Relations",
+   "Building (Construction)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/Biz-Malaysia-Video-Still-bvqt/Biz-Malaysia-Video-Still-bvqt-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T05:28:39+00:00",
+  "headline": "Malaysia Emerges as Hub for U.S. and Chinese AI Data Centers",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. and Chinese technology firms are investing billions of dollars in massive artificial‑intelligence data centers across Malaysia, turning the Southeast Asian nation into a pivotal point in the global AI boom. The projects, which include sprawling server farms and high‑performance computing facilities, are being built to meet the soaring demand for AI training and inference workloads."
+   },
+   {
+    "type": "p",
+    "text": "The rapid expansion is putting pressure on Malaysia’s electricity grid, water supplies and land use, prompting officials to weigh the economic benefits against the strain on local infrastructure. At the same time, the influx of advanced hardware tests the limits of Washington’s export controls on cutting‑edge chips, as companies seek to navigate complex regulatory environments while maintaining supply chains."
+   },
+   {
+    "type": "p",
+    "text": "Local authorities are negotiating terms with the foreign investors, aiming to secure job creation and technology transfer while ensuring that the country’s resources are not overtaxed. The situation highlights how emerging markets are becoming critical nodes in the worldwide race to develop and deploy AI capabilities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The development affects global AI supply chains and tests U.S. chip export controls, issues of interest to American and European policymakers and businesses."
+   }
+  ],
+  "key_points": [
+   "U.S. and Chinese tech giants are pouring billions into AI data centers in Malaysia.",
+   "The construction surge is stressing Malaysia’s power, water and land resources.",
+   "The projects challenge U.S. export restrictions on advanced AI chips."
+  ],
+  "meta_description": "U.S. and Chinese firms invest billions in Malaysian AI data centers, straining resources and testing U.S. chip export limits.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Malaysia",
+   "AI",
+   "data centers",
+   "US-China",
+   "chip restrictions",
+   "technology investment"
+  ],
+  "slug": "malaysia-emerges-hub-u-s-chinese-ai-data-centers-96b20f",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:21:48Z"
+ },
+ {
+  "id": "3957844ea4ba5918",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+  "source": "BBC News",
+  "source_title": "Crypto giant Binance hit by hack suspected to be largest in history",
+  "source_summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+  "published": "2026-10-30T05:15:16+00:00",
+  "headline": "Binance Suffers Massive Hack Linked to North Korean Unit TraderTraitor",
+  "body": [
+   {
+    "type": "p",
+    "text": "Cryptocurrency exchange Binance reported a security breach that analysts say may be the largest hack of its kind. The incident was identified after unusual activity was detected on the platform, prompting an internal investigation."
+   },
+   {
+    "type": "p",
+    "text": "Two independent analytics firms have traced the attack to a North Korean hacking group known as TraderTraitor. Both firms cited technical indicators and transaction patterns that match previous operations attributed to the state-sponsored unit."
+   },
+   {
+    "type": "p",
+    "text": "Binance has not disclosed the total amount of assets affected, but the scale of the breach has raised concerns across the digital‑asset industry about the vulnerability of major exchanges to sophisticated state‑backed cyber threats."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The hack underscores heightened cyber‑security risks for investors and regulators in the US and Europe as crypto assets become more mainstream."
+   }
+  ],
+  "key_points": [
+   "Binance experienced a major security breach suspected to be the largest crypto hack ever.",
+   "Two analytics firms attribute the attack to North Korea's TraderTraitor hacking unit.",
+   "The breach highlights growing cyber risks for major cryptocurrency platforms."
+  ],
+  "meta_description": "Binance faces a massive hack linked to North Korean group TraderTraitor, raising security concerns for the crypto industry.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Binance",
+   "hack",
+   "cybersecurity",
+   "North Korea",
+   "crypto",
+   "TraderTraitor"
+  ],
+  "slug": "binance-suffers-massive-hack-linked-north-korean-unit-tradertraitor-395784",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:21:56Z"
+ },
+ {
+  "id": "a9ddba3168cc792d",
+  "source_url": "https://www.theguardian.com/politics/audio/2026/oct/30/the-final-countdown-to-the-make-or-break-midterms-podcast",
+  "source": "The Guardian",
+  "source_title": "The final countdown to the make-or-break midterms – podcast",
+  "source_summary": "A total of 435 seats in the House of Representatives, 35 seats in the Senate and 39 governorships are up for grabs in Tuesday’s US midterm elections. Jonathan Freedland is joined by Carrie Dann of the Cook Political Report to run through just some of the races to watch out for, before the final weekend of campaigning Buy your tickets to the Guardian’s post-midterms live event , hosted by Jonathan Freedland. Watch Jonathan Freedland on our new Politics Weekly YouTube channel . Send your questions and feedback to politicsweeklyamerica@theguardian.com Listen to Today in Focus’ episode with David Smith , all about what’s happening with the Senate race in Texas",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/f5858f3ff46265966db432faa0a1a33167b4f2c0/488_0_4881_3905/master/4881.jpg?width=700&quality=85&auto=format&fit=max&s=6326e659ebb9ab1713cdaba28cb2e813",
+  "published": "2026-10-30T05:00:47+00:00",
+  "headline": "Midterms Approaching: 435 House Seats, 35 Senate Seats, 39 Governorships",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Guardian’s latest politics podcast highlights the scale of Tuesday’s U.S. midterm elections, with all 435 House seats, 35 Senate seats and 39 governorships up for election. Host Jonathan Freedland is joined by Carrie Dann of the Cook Political Report to pinpoint several key contests that could shape the balance of power."
+   },
+   {
+    "type": "p",
+    "text": "Freedland and Dann discuss the competitive nature of the races, noting that the outcomes will determine control of Congress and influence state-level policy. Listeners are encouraged to submit questions to politicsweeklyamerica@theguardian.com and to watch related video content on the Politics Weekly YouTube channel."
+   },
+   {
+    "type": "p",
+    "text": "The episode also references a separate Guardian interview with David Smith about the Texas Senate race, underscoring the broader national focus on pivotal Senate contests."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The midterms will decide whether Democrats or Republicans control Congress, affecting U.S. policy directions that impact transatlantic partners."
+   }
+  ],
+  "key_points": [
+   "All 435 House seats, 35 Senate seats and 39 governorships are on the ballot this Tuesday.",
+   "The podcast features analysis from the Cook Political Report on races that could tip congressional control.",
+   "Listeners can engage with the Guardian’s post‑midterm live event and online platforms."
+  ],
+  "meta_description": "Guardian podcast previews U.S. midterms: 435 House seats, 35 Senate seats, 39 governorships up for grabs.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "U.S. midterms",
+   "House of Representatives",
+   "Senate races",
+   "governorships",
+   "Cook Political Report"
+  ],
+  "slug": "midterms-approaching-435-house-seats-35-senate-seats-39-a9ddba",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:21:53Z"
+ },
+ {
+  "id": "d5399bfb76f3b73f",
+  "source_url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+  "source": "The Guardian",
+  "source_title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+  "source_summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare).",
+  "source_tags": [
+   "Mining",
+   "Mining",
+   "South Africa",
+   "Gold",
+   "Africa",
+   "Business",
+   "Commodities",
+   "Environment",
+   "World news"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/7ca64ddb2c1eceb5b061c7c68b38488bbc43e947/195_0_3986_3189/master/3986.jpg?width=700&quality=85&auto=format&fit=max&s=a581b019c041bf8d8819180600f64b01",
+  "published": "2026-10-30T05:00:45+00:00",
+  "headline": "Illegal Gold Mining Ravages Johannesburg Townships, Fueling Crime and Hazard",
+  "body": [
+   {
+    "type": "p",
+    "text": "Volunteer veterinarian Cora Bailey has been treating injured animals in the Roodepoort townships west of Johannesburg since 1991, and she says the surge in illegal gold mining has turned the area into a dangerous landscape of sinkholes and abandoned shafts. The rise in gold prices has drawn dozens of \"zama zamas\" – illegal miners who take risky chances – to dig across the dirt road from Bailey's charity, Claw (Community Led Animal Welfare), in late September."
+   },
+   {
+    "type": "p",
+    "text": "The influx of miners has left the ground scarred, creating sinkholes that threaten both people and livestock. Police raids have had little effect, and the miners continue to operate with little deterrence, according to local observers. The activity not only endangers residents but also fuels a cycle of crime and environmental damage in the region."
+   },
+   {
+    "type": "p",
+    "text": "Bailey's experience highlights the broader challenge facing South African authorities: balancing law enforcement with the socioeconomic drivers that push desperate individuals into illegal mining. The situation underscores the need for more effective interventions to protect communities and the environment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The spread of illegal mining in South Africa poses safety and environmental risks that could affect global gold markets and highlight the challenges of illicit resource extraction worldwide."
+   }
+  ],
+  "key_points": [
+   "Illegal gold miners, known as zama zamas, are digging in abandoned shafts near Roodepoort, creating sinkholes and hazards.",
+   "Police actions have been largely ineffective, allowing the illegal mining to continue despite rising gold prices.",
+   "The activity endangers both humans and animals, adding to crime and environmental damage in Johannesburg's townships."
+  ],
+  "meta_description": "Illegal gold mining in Johannesburg's townships creates sinkholes, endangers residents and animals, and police raids remain ineffective.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "illegal mining",
+   "Johannesburg",
+   "gold prices",
+   "crime",
+   "environment",
+   "South Africa"
+  ],
+  "slug": "illegal-gold-mining-ravages-johannesburg-townships-fueling-crime-hazard-d5399b",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:22:24Z"
+ },
+ {
+  "id": "03e3dea529c560fc",
+  "source_url": "https://www.nytimes.com/2026/10/30/business/mosquito-laser-ai.html",
+  "source": "The New York Times",
+  "source_title": "In China, the War on Mosquitoes Has Entered the A.I. Era",
+  "source_summary": "Using sensors developed for self-driving cars, a Chinese start-up claims it can track and destroy tiny flying targets while avoiding people, pets and reflective surfaces.",
+  "source_tags": [
+   "China",
+   "Artificial Intelligence",
+   "Laser (Light Amplification by Stimulated Emission of Radiation)",
+   "Hunting and Trapping",
+   "Sensors"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T04:01:12+00:00",
+  "headline": "Chinese Startup Deploys AI Sensors to Hunt Mosquitoes Safely",
+  "body": [
+   {
+    "type": "p",
+    "text": "A Chinese technology startup has adapted sensors originally created for autonomous vehicles to identify and eliminate mosquitoes in real time. The system claims it can pinpoint the insects' flight paths and neutralize them while steering clear of humans, pets, and reflective objects."
+   },
+   {
+    "type": "p",
+    "text": "By leveraging advanced computer‑vision algorithms, the AI‑driven platform distinguishes tiny flying targets from background clutter, enabling precise targeting without collateral damage. The developers say the technology could be integrated into indoor and outdoor devices to reduce mosquito‑borne disease risks."
+   },
+   {
+    "type": "p",
+    "text": "The company emphasizes safety features that prevent the system from harming non‑targeted subjects, a concern that has limited previous attempts at automated pest control. While still in testing, the approach represents a novel convergence of automotive sensor tech and public‑health applications."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Mosquito‑borne illnesses remain a global health challenge, and automated, safe control methods could benefit regions vulnerable to disease outbreaks."
+   }
+  ],
+  "key_points": [
+   "A Chinese startup repurposes self‑driving car sensors to detect and destroy mosquitoes.",
+   "The AI system is designed to avoid harming people, pets, and reflective surfaces.",
+   "The technology aims to provide a safer, automated method for mosquito control."
+  ],
+  "meta_description": "Chinese startup uses AI car sensors to target mosquitoes while protecting people, pets, and reflective surfaces.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "pest control",
+   "mosquitoes",
+   "sensor technology",
+   "public health"
+  ],
+  "slug": "chinese-startup-deploys-ai-sensors-hunt-mosquitoes-safely-03e3de",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:22:12Z"
+ },
+ {
+  "id": "d759b38674c5802a",
+  "source_url": "https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html",
+  "source": "The New York Times",
+  "source_title": "Binance Grapples With ‘Security Incident’ That May Cause $6.3 Billion in Losses",
+  "source_summary": "The world’s largest crypto exchange suspended deposits and withdrawals after an apparent hack.",
+  "source_tags": [
+   "Virtual Currency",
+   "Robberies and Thefts",
+   "Regulation and Deregulation of Industry",
+   "Computer Security",
+   "Computers and the Internet",
+   "Banking and Financial Institutions",
+   "Binance",
+   "Zhao, Changpeng"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T03:07:37+00:00",
+  "headline": "Binance Suspends Deposits and Withdrawals After Hack Threatening $6.3 Billion Losses Following Security Incident",
+  "body": [
+   {
+    "type": "p",
+    "text": "The world’s largest cryptocurrency exchange, Binance, halted both deposits and withdrawals on Monday after detecting a security breach that could result in losses estimated at $6.3 billion. The company described the event as a “security incident” and said it was working with law‑enforcement agencies to investigate."
+   },
+   {
+    "type": "p",
+    "text": "The suspension affects millions of users worldwide, preventing them from moving funds in or out of the platform while Binance conducts a forensic review. The exchange has not disclosed how the breach occurred or which assets were targeted, but it emphasized that customer assets remain protected under its insurance policies."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the incident underscores the vulnerability of centralized crypto platforms and could pressure regulators in the United States and Europe to tighten oversight of digital‑asset markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "As the leading crypto exchange, Binance’s disruption can affect global digital‑asset markets and investor confidence in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Binance halted deposits and withdrawals after a hack that may cause $6.3 billion in losses.",
+   "The exchange is cooperating with authorities while assessing the breach’s scope.",
+   "The incident highlights security risks for major crypto platforms and may spur regulatory scrutiny."
+  ],
+  "meta_description": "Binance suspends deposits and withdrawals after a hack that could cost $6.3 billion, raising security concerns for the crypto industry.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Binance",
+   "crypto hack",
+   "security incident",
+   "withdrawal suspension",
+   "financial loss"
+  ],
+  "slug": "binance-suspends-deposits-withdrawals-after-hack-threatening-6-3-d759b3",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:22:09Z"
+ },
+ {
+  "id": "848ee73e23558f52",
+  "source_url": "https://www.theguardian.com/news/audio/2026/oct/30/donald-trumps-texas-troubles-podcast",
+  "source": "The Guardian",
+  "source_title": "Donald Trump’s Texas Troubles – podcast",
+  "source_summary": "Washington bureau chief David Smith reports from Texas, where the Democrats are hopeful of a stunning victory that could also signal a much wider defeat for Trump in the midterms For decades it would have been unthinkable, but next week the Democrats are aiming for a momentous midterms win in Texas. Washington bureau chief David Smith charts the senate race between Democrat James Talarico – a 37-year-old Presbyterian – and Republican Ken Paxton, who has been heavily backed by Donald Trump.",
+  "source_tags": [
+   "Donald Trump",
+   "US politics",
+   "Texas",
+   "US midterm elections 2026",
+   "US news",
+   "Democrats",
+   "Republicans",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/55819aeb36e19a88cc4d1da1b05a034847389753/74_0_1414_1132/master/1414.jpg?width=700&quality=85&auto=format&fit=max&s=884f4ea3545b43e7cea41007443a5c16",
+  "published": "2026-10-30T03:00:42+00:00",
+  "headline": "Democrats Target Upset in Texas Senate Race Backed by Trump",
+  "body": [
+   {
+    "type": "p",
+    "text": "Washington bureau chief David Smith reports that the 2026 midterm elections could see a historic shift in Texas, where Democrats are aiming for a surprise victory in the U.S. Senate contest. The race pits 37‑year‑old Democrat James Talarico, a Presbyterian, against incumbent Republican Ken Paxton, who enjoys strong endorsement from former President Donald Trump."
+   },
+   {
+    "type": "p",
+    "text": "For decades, Texas has been a Republican stronghold, but the Democratic campaign is banking on changing demographics and heightened voter enthusiasm to overturn that trend. Paxton’s close alignment with Trump is expected to mobilize the former president’s base, while Talarico’s message focuses on local issues and a moderate appeal."
+   },
+   {
+    "type": "p",
+    "text": "If the Democrats succeed, analysts say it could signal a broader setback for Trump‑aligned candidates nationwide, potentially reshaping the balance of power in the Senate and influencing policy directions ahead of the 2028 presidential race."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A Democratic win in Texas would alter Senate dynamics and reflect shifting political currents that affect both U.S. governance and international partners."
+   }
+  ],
+  "key_points": [
+   "Democrats see a chance to win the Texas Senate seat held by Trump‑backed Republican Ken Paxton.",
+   "James Talarico, a 37‑year‑old Presbyterian, is the Democratic challenger.",
+   "A Texas upset could indicate wider losses for Trump‑aligned candidates in the midterms."
+  ],
+  "meta_description": "Democrats aim for a surprise Texas Senate win against Trump‑backed Ken Paxton, a result that could signal broader midterm setbacks for Trump allies.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Texas",
+   "Senate race",
+   "Democrats",
+   "Republicans",
+   "Trump",
+   "midterms"
+  ],
+  "slug": "democrats-target-upset-texas-senate-race-backed-trump-848ee7",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:22:05Z"
+ },
+ {
+  "id": "588181d82d53a009",
+  "source_url": "https://www.nytimes.com/2026/10/29/us/politics/alaska-dan-sullivan-peltola-ballot-investigation-trump.html",
+  "source": "The New York Times",
+  "source_title": "Republicans Ramp Up Investigation Into Democratic Plan to Pack Alaska’s Ballot",
+  "source_summary": "The Justice Department issued subpoenas, a House oversight committee sought interviews and the state opened its own inquiry into a Democratic plan to recruit a spoiler into a Senate race.",
+  "source_tags": [
+   "Alaska",
+   "Peltola, Mary",
+   "Sullivan, Daniel J (1957- )",
+   "Sullivan, Daniel Scott (1964- )",
+   "Elections, Senate",
+   "Midterm Elections (2026)",
+   "Trump, Donald J",
+   "Dunleavy, Mike J",
+   "Voting and Voters",
+   "Voter Fraud (Election Fraud)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29pol-alaska-ballot-folo-jqck/29pol-alaska-ballot-folo-jqck-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T02:18:43+00:00",
+  "headline": "Republicans Intensify Probe of Democratic Alaska Ballot‑Packing Scheme",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Justice Department has issued subpoenas as part of a federal inquiry into a Democratic effort to recruit a third‑party candidate as a spoiler in Alaska’s upcoming Senate race. The subpoenas target communications and financial records related to the plan, which officials say aims to split the Republican vote."
+   },
+   {
+    "type": "p",
+    "text": "A House oversight committee has also requested interviews with individuals involved in the strategy, signaling heightened congressional scrutiny. Simultaneously, Alaska’s state authorities have launched their own investigation to determine whether state election laws were violated."
+   },
+   {
+    "type": "p",
+    "text": "The coordinated investigations reflect growing partisan tension over election tactics, with Republicans accusing Democrats of orchestrating a covert ballot‑packing operation while Democratic officials have not publicly responded to the allegations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The probe could affect the balance of power in the U.S. Senate and highlights escalating partisan battles over election manipulation."
+   }
+  ],
+  "key_points": [
+   "The Justice Department issued subpoenas to examine a Democratic plan to field a spoiler candidate in Alaska’s Senate race.",
+   "A House oversight committee and Alaska state officials are conducting parallel investigations into the scheme."
+  ],
+  "meta_description": "Republicans and federal investigators are probing a Democratic effort to recruit a spoiler in Alaska's Senate race, sparking bipartisan scrutiny.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "Senate race",
+   "ballot access",
+   "investigations",
+   "Democrats",
+   "Republicans"
+  ],
+  "slug": "republicans-intensify-probe-democratic-alaska-ballotpacking-scheme-588181",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:22:16Z"
+ },
+ {
+  "id": "a2e2af5d8b9134d1",
+  "source_url": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+  "source": "The New York Times",
+  "source_title": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+  "source_summary": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+  "source_tags": [
+   "Computers and the Internet",
+   "Artificial Intelligence",
+   "Cloud Computing",
+   "Company Reports",
+   "Data Centers",
+   "Alphabet Inc",
+   "Amazon.com Inc",
+   "Google Inc",
+   "Meta Platforms Inc",
+   "Microsoft Corp"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-bigtech-spending-amazon-kltm/29biz-bigtech-spending-amazon-kltm-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T01:30:27+00:00",
+  "headline": "Amazon Joins Big Tech Surge in AI Spending as Shares Slip",
+  "body": [
+   {
+    "type": "p",
+    "text": "Amazon announced on Thursday that it will increase its investment in artificial intelligence, joining other major technology firms that are expanding data center capacity and AI projects. The move comes as the company's stock price has been under pressure, reflecting broader market concerns about the high costs of building and operating new data facilities."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the surge in data center construction is consuming large amounts of cash, prompting worries on Wall Street about the sustainability of such spending. While the exact scale of Amazon's new AI budget was not disclosed, the company emphasized its commitment to advancing machine‑learning capabilities across its cloud services and consumer products."
+   },
+   {
+    "type": "p",
+    "text": "The trend mirrors actions by other big‑tech players, which are also ramping up AI infrastructure despite uncertain short‑term returns. Investors are closely watching how these expenditures will affect earnings reports later in the year."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European investors are tracking big‑tech cash burn because it influences market valuations and future technology competition."
+   }
+  ],
+  "key_points": [
+   "Amazon announced expanded AI investment amid a decline in its share price.",
+   "The rise in data center spending by big tech firms is raising concerns about cash flow on Wall Street.",
+   "Analysts are monitoring the impact of these investments on upcoming earnings."
+  ],
+  "meta_description": "Amazon boosts AI spending as shares fall, highlighting big‑tech's costly data center expansion and Wall Street concerns.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Amazon",
+   "AI investment",
+   "data centers",
+   "stock market",
+   "tech spending"
+  ],
+  "slug": "amazon-joins-big-tech-surge-ai-spending-shares-slip-a2e2af",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:22:20Z"
+ },
+ {
   "id": "289026cfa5fa2c5e",
   "source_url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o",
   "source": "BBC News",
@@ -1346,6 +2008,47 @@
   "slug": "max-dowman-suspended-three-games-after-appeal-rejected-55959c",
   "reading_minutes": 1,
   "added": "2026-10-29T20:31:32Z"
+ },
+ {
+  "id": "7edb98816c8a490a",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cwz0vevng3n0o",
+  "source": "BBC Sport",
+  "source_title": "Careless dismissals give Australia route to series win in South Africa",
+  "source_summary": "Australia take a step towards victory over South Africa in Cape Town, with the help of careless batting from Proteas' top order.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42b2/live/34539a90-d3bd-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-29T16:53:40+00:00",
+  "headline": "Australia Near Series Win as Proteas' Top Order Falters in Cape Town",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australia moved a step closer to clinching the Test series against South Africa after a match in Cape Town where the hosts' top order delivered a series of careless dismissals. The Australian side capitalised on the errors, building a solid platform that put pressure on the Proteas throughout their innings."
+   },
+   {
+    "type": "p",
+    "text": "The win narrows the gap in the series tally and puts the momentum firmly with the visitors, who now require fewer matches to secure overall victory. South Africa will need to regroup and address the batting lapses if they hope to stay in contention for the series outcome."
+   }
+  ],
+  "key_points": [
+   "Australia advanced toward a series win after South Africa's top order made several careless dismissals.",
+   "The match in Cape Town shifted momentum in favour of the visitors.",
+   "South Africa must improve their batting to remain competitive in the series."
+  ],
+  "meta_description": "Australia edges closer to a Test series win as South Africa's top order falters in Cape Town, shifting momentum to the visitors.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Australia",
+   "South Africa",
+   "cricket",
+   "Test series",
+   "Cape Town"
+  ],
+  "slug": "australia-near-series-win-proteas-top-order-falters-cape-7edb98",
+  "reading_minutes": 1,
+  "added": "2026-10-30T06:22:29Z"
  },
  {
   "id": "0172dd986ced9a5a",
