@@ -1,5 +1,651 @@
 [
  {
+  "id": "d1fe75e5e8d4f3c9",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
+  "source": "The Guardian",
+  "source_title": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
+  "source_summary": "Mary Peltola denies knowledge as party accused of recruiting spoiler candidate with same name as sitting Republican Alaska Senate race: what to know about Democrats’ alleged ballot-stacking effort The top federal prosecutor in Alaska confirmed on Friday the existence of a criminal and a civil investigation into an alleged scheme by Democrats to confuse voters by recruiting a spoiler candidate on the ballot for US Senate who shares a name with the Republican incumbent, senator Dan Sullivan. Speaking at a news conference in Anchorage on Friday, US attorney Michael Heyman cited reporting by the New York Times which suggested that the Senate campaign of Democrat Mary Peltola and national Democrats had, in his words, “orchestrated a sprawling conspiracy to recruit and prop up Daniel J Sullivan as a sham candidate”.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Alaska",
+   "US politics",
+   "Election interference",
+   "US voting rights",
+   "US Senate",
+   "US news",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/50d55bb9df7e127eca8443fde8a04dd7b0850aaf/395_0_2612_2090/master/2612.jpg?width=700&quality=85&auto=format&fit=max&s=37113ee2c081c4dd9a04208932c7f7c2",
+  "published": "2026-10-30T22:35:08+00:00",
+  "headline": "Alaska U.S. Attorney Confirms Probe Into Alleged Democratic Ballot Scheme",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. Attorney Michael Heyman announced on Friday that federal authorities have opened both criminal and civil investigations into claims that Democrats attempted to confuse voters in the Alaska Senate race by fielding a spoiler candidate named Daniel J. Sullivan, who shares a name with incumbent Republican Senator Dan Sullivan."
+   },
+   {
+    "type": "p",
+    "text": "The investigation follows reporting by the New York Times that suggested the campaign of Democratic Rep. Mary Peltola and national Democratic operatives orchestrated a “sprawling conspiracy” to recruit the namesake candidate. Peltola denied any knowledge of such a plan during a news conference in Anchorage."
+   },
+   {
+    "type": "p",
+    "text": "Heyman's office said the probe will examine whether any laws were violated in the alleged recruitment and promotion of the second Sullivan, but provided no further details on the scope or timeline of the inquiries."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights concerns about election integrity and the use of duplicate names to potentially mislead voters in high‑profile races."
+   }
+  ],
+  "key_points": [
+   "Federal prosecutors have launched criminal and civil investigations into an alleged Democratic effort to field a spoiler candidate named Daniel J. Sullivan in Alaska.",
+   "Democratic Rep. Mary Peltola denied any involvement or knowledge of the alleged scheme.",
+   "The probe was prompted by a New York Times report describing the effort as a coordinated conspiracy."
+  ],
+  "meta_description": "Federal prosecutors investigate alleged Democratic plot to confuse Alaska Senate voters with a duplicate‑named candidate, says U.S. attorney.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "U.S. Senate",
+   "election integrity",
+   "ballot confusion",
+   "investigation"
+  ],
+  "slug": "alaska-u-s-attorney-confirms-probe-into-alleged-democratic-d1fe75",
+  "reading_minutes": 1,
+  "added": "2026-10-30T22:55:44Z"
+ },
+ {
+  "id": "011fdc062b2b84be",
+  "source_url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+  "source": "The Verge",
+  "source_title": "Apple Intelligence is finally coming to China with iOS 27.3",
+  "source_summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]",
+  "source_tags": [
+   "AI",
+   "Apple",
+   "iOS",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-30T22:32:53+00:00",
+  "headline": "Apple Rolls Out Apple Intelligence in China with iOS 27.3 Beta",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple announced on its Chinese newsroom site that the company’s new Apple Intelligence suite will be introduced to users in China as part of iOS 27.3. The rollout will begin with a beta version of iOS 27.3 that is scheduled to become available on November 4."
+   },
+   {
+    "type": "p",
+    "text": "A full public release of iOS 27.3, which will include the Apple Intelligence features, is slated for December. The announcement was reported by MacRumors, confirming the timeline for both the beta and the final release."
+   },
+   {
+    "type": "p",
+    "text": "Apple Intelligence, the company’s integrated AI platform, will be the first of its kind to launch in the Chinese market under the iOS 27.3 update, marking a significant expansion of Apple’s AI services outside its traditional regions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Introducing Apple Intelligence in China expands Apple’s AI ecosystem into one of the world’s largest smartphone markets, potentially influencing competition with local AI providers."
+   }
+  ],
+  "key_points": [
+   "Apple Intelligence will debut in China with the iOS 27.3 beta on November 4.",
+   "The full iOS 27.3 release, including the AI features, is planned for December.",
+   "The launch was confirmed via Apple’s Chinese newsroom and reported by MacRumors."
+  ],
+  "meta_description": "Apple will bring its Apple Intelligence AI suite to China with an iOS 27.3 beta on Nov. 4 and a full release in December.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "Apple Intelligence",
+   "iOS 27.3",
+   "China",
+   "AI",
+   "software update"
+  ],
+  "slug": "apple-rolls-out-apple-intelligence-china-with-ios-27-011fdc",
+  "reading_minutes": 1,
+  "added": "2026-10-30T22:55:49Z"
+ },
+ {
+  "id": "ea0f8f2299ba53a1",
+  "source_url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo",
+  "source": "BBC News",
+  "source_title": "US approves sale of 500 Patriot missiles to Ukraine",
+  "source_summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b8/live/5acd5630-8cbd-11f1-b8ee-9b3c26ad07bb.jpg",
+  "published": "2026-10-30T22:20:52+00:00",
+  "headline": "U.S. Approves Sale of 500 Patriot Missiles to Ukraine in Boost to Kyiv Defense",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United States has authorized the transfer of 500 Patriot missile interceptors to Ukraine, according to a statement released on October 30, 2026. The American-made systems are described as the only effective weapons capable of shooting down Russia's ballistic missiles."
+   },
+   {
+    "type": "p",
+    "text": "The sale is part of a broader effort to strengthen Kyiv's air‑defence capabilities amid ongoing hostilities. Officials said the missiles will be integrated into Ukraine's existing Patriot network, enhancing its ability to protect critical infrastructure and civilian areas."
+   },
+   {
+    "type": "p",
+    "text": "U.S. officials emphasized that the provision of the interceptors reflects continued American support for Ukraine's sovereignty and its right to defend against aggression."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The deal reinforces U.S. backing for Ukraine and helps European allies maintain regional security against Russian missile threats."
+   }
+  ],
+  "key_points": [
+   "The U.S. approved a sale of 500 Patriot missile interceptors to Ukraine.",
+   "Patriot missiles are considered the only effective tool for countering Russian ballistic missiles.",
+   "The transfer aims to bolster Ukraine's air‑defence network."
+  ],
+  "meta_description": "The United States approved a sale of 500 Patriot missile interceptors to Ukraine, the only effective defense against Russian ballistic missiles.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Patriot missiles",
+   "US arms sale",
+   "Russia",
+   "defense"
+  ],
+  "slug": "u-s-approves-sale-500-patriot-missiles-ukraine-boost-ea0f8f",
+  "reading_minutes": 1,
+  "added": "2026-10-30T22:55:53Z"
+ },
+ {
+  "id": "5a85af3cfab38942",
+  "source_url": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+  "source": "The New York Times",
+  "source_title": "Hack Could Leave AO3, a Popular Fan Fiction Site, Offline for Weeks",
+  "source_summary": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said.",
+  "source_tags": [
+   "Archive of Our Own (Web Site)",
+   "Cyberattacks and Hackers",
+   "Fan fiction",
+   "Computer Network Outages",
+   "Fans (Persons)",
+   "Tushnet, Rebecca"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-10-30T22:09:18+00:00",
+  "headline": "Hack Forces Popular Fan‑Fiction Archive AO3 Offline for Weeks",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Archive of Our Own (AO3), a nonprofit site that hosts roughly 18 million fan‑written stories, was taken offline after what a co‑founder described as “an intrusion.” The outage began on Monday night and is expected to last several weeks while the organization addresses the breach."
+   },
+   {
+    "type": "p",
+    "text": "AO3 is widely used by fans of franchises such as “Harry Potter” and “Heated Rivalry,” offering a platform for creators to publish, share, and preserve their work. The site’s sudden disappearance has left thousands of readers and writers without access to their favorite stories and ongoing projects."
+   },
+   {
+    "type": "p",
+    "text": "The founder’s statement did not include details about the nature of the attack or any data that may have been compromised. Technical staff are reportedly working to restore service and strengthen security measures before the site returns to public use."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "AO3 is a major hub for fan communities worldwide; its downtime disrupts access to a large body of user‑generated content and raises concerns about digital preservation."
+   }
+  ],
+  "key_points": [
+   "AO3, hosting about 18 million fan‑fiction stories, went offline after a reported intrusion.",
+   "The outage is expected to last several weeks while security issues are addressed.",
+   "No specific information about the breach or data loss has been released."
+  ],
+  "meta_description": "Popular fan‑fiction site AO3 offline for weeks after a reported intrusion, affecting 18 million stories.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AO3",
+   "fan fiction",
+   "cybersecurity",
+   "online communities",
+   "digital archives"
+  ],
+  "slug": "hack-forces-popular-fanfiction-archive-ao3-offline-weeks-5a85af",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-30T22:56:05Z"
+ },
+ {
+  "id": "bda3556f94c4f0bc",
+  "source_url": "https://www.nytimes.com/2026/10/30/us/politics/alina-habba-turhan-mildon-trump-congo-venezuela.html",
+  "source": "The New York Times",
+  "source_title": "Alina Habba’s Husband Ignited Drama in Trump’s Circle. Now He’s Under Scrutiny.",
+  "source_summary": "Turhan Mildon, who married Alina Habba this summer, presents himself as a 29-year-old billionaire with ties to global leaders. His story has inconsistencies.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "Ethics and Official Misconduct",
+   "Habba, Alina",
+   "Mildon, Turhan",
+   "Trump, Donald J",
+   "Congo, Democratic Republic of (Congo-Kinshasa)",
+   "Venezuela",
+   "Maduro, Nicolas",
+   "Rodriguez, Delcy (1969- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/30/us/30DC-MILDON/30DC-MILDON-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T21:58:18+00:00",
+  "headline": "Turhan Mildon, Alina Habba’s New Husband, Claims Billionaire Status Amid Questions",
+  "body": [
+   {
+    "type": "p",
+    "text": "Attorney Alina Habba married Turjan Mildon this summer, introducing him to the inner circle of former President Donald Trump. Mildon, who describes himself as a 29‑year‑old billionaire, says he has business connections with leaders around the world."
+   },
+   {
+    "type": "p",
+    "text": "Investigators and journalists have noted discrepancies in Mildon’s narrative, pointing out that his claimed wealth and global ties lack publicly verifiable evidence. The inconsistencies have drawn scrutiny from both political allies and media outlets."
+   },
+   {
+    "type": "p",
+    "text": "The attention on Mildon comes as Trump’s legal team continues to face intense public and legal pressure. Habba’s marriage links the personal lives of Trump’s associates with broader questions about the credibility of their financial claims."
+   }
+  ],
+  "key_points": [
+   "Alina Habba married Turjan Mildon, who claims to be a 29‑year‑old billionaire with international connections.",
+   "Mildon’s assertions about his wealth and ties have been flagged for inconsistencies by reporters.",
+   "The scrutiny adds another layer of public interest to Trump’s legal entourage."
+  ],
+  "meta_description": "Alina Habba’s new husband, Turjan Mildon, claims billionaire status and global ties, but his story shows inconsistencies that have attracted scrutiny.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alina Habba",
+   "Turjan Mildon",
+   "Trump circle",
+   "wealth claims",
+   "investigative reporting"
+  ],
+  "slug": "turhan-mildon-alina-habbas-new-husband-claims-billionaire-status-bda355",
+  "reading_minutes": 1,
+  "added": "2026-10-30T22:56:00Z"
+ },
+ {
+  "id": "a14f1102d16bd286",
+  "source_url": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+  "source": "NPR",
+  "source_title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+  "source_summary": "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4892x3261+0+0/resize/4892x3261!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F1b%2F4e9d99dd4c48acbc2ad3971e4d9a%2Fap26299783559314.jpg",
+  "published": "2026-10-30T21:56:52+00:00",
+  "headline": "Federal Judge Launches Inquiry Into DOJ Conduct in Trump Golf Course Case",
+  "body": [
+   {
+    "type": "p",
+    "text": "A U.S. district judge has ordered a formal investigation into the Department of Justice's handling of the East Potomac municipal golf course case involving former President Donald Trump. The inquiry will examine whether DOJ officials misrepresented their intentions to the court regarding the future of the golf course."
+   },
+   {
+    "type": "p",
+    "text": "The judge’s order seeks to determine if any misleading statements were made about the administration’s plans for the property, which has been the subject of legal disputes since the Trump administration’s attempts to sell the course. The investigation will be conducted by an independent special master appointed by the court."
+   },
+   {
+    "type": "p",
+    "text": "The move adds another layer of scrutiny to the ongoing legal battles surrounding Trump’s business interests, following several other investigations into his post‑presidential activities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The probe highlights concerns about government transparency and could influence how high‑profile property disputes are handled in the U.S. and abroad."
+   }
+  ],
+  "key_points": [
+   "A federal judge has mandated an inquiry into possible DOJ misrepresentation in the East Potomac golf course case.",
+   "The investigation will focus on whether officials misled the court about the municipal golf course’s future plans.",
+   "An independent special master will oversee the inquiry, adding further oversight to Trump‑related legal matters."
+  ],
+  "meta_description": "Judge orders inquiry into possible DOJ misconduct over Trump’s East Potomac golf course case, examining alleged court misrepresentations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "DOJ",
+   "court inquiry",
+   "municipal golf course",
+   "East Potomac",
+   "legal oversight"
+  ],
+  "slug": "federal-judge-launches-inquiry-into-doj-conduct-trump-golf-a14f11",
+  "reading_minutes": 1,
+  "added": "2026-10-30T22:56:12Z"
+ },
+ {
+  "id": "6198118eee1371c7",
+  "source_url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+  "source": "TechCrunch",
+  "source_title": "Intel’s stock crashes, knocking $12B from government’s stake",
+  "source_summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+  "source_tags": [
+   "AI",
+   "Enterprise",
+   "TC",
+   "Intel"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
+  "published": "2026-10-30T21:54:34+00:00",
+  "headline": "Intel Shares Plummet, Erasing $12 B From Government Holding",
+  "body": [
+   {
+    "type": "p",
+    "text": "Intel's share price fell sharply on Monday, wiping roughly $12 billion from the value of a government stake in the chipmaker. The decline follows a broader slump in personal‑computer sales, which have been pressured by soaring component costs."
+   },
+   {
+    "type": "p",
+    "text": "Analysts say the artificial‑intelligence boom is diverting memory chips and other parts away from the PC market, pushing up prices for consumers and reducing demand for traditional desktop and laptop systems. The shift has left Intel vulnerable, as its revenue remains tied to PC hardware sales."
+   },
+   {
+    "type": "p",
+    "text": "The stock tumble underscores the challenges chip manufacturers face in balancing demand from AI data centers with the waning PC segment, a dynamic that could influence future investment decisions by both private and public investors."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The loss affects government investors and signals potential volatility for tech stocks tied to both AI and PC sectors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Intel's stock drop removed about $12 billion from a government investment.",
+   "AI-driven demand for memory chips is inflating PC component prices and dampening PC sales.",
+   "The slump highlights the tension between AI growth and the traditional PC market for chip makers."
+  ],
+  "meta_description": "Intel's shares fell, erasing $12 billion from a government stake as AI demand lifts component costs and hurts PC sales.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Intel",
+   "stock market",
+   "government investment",
+   "AI demand",
+   "PC prices",
+   "chip industry"
+  ],
+  "slug": "intel-shares-plummet-erasing-12-b-from-government-holding-619811",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-30T22:56:17Z"
+ },
+ {
+  "id": "731d515b3d4be192",
+  "source_url": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
+  "source": "The New York Times",
+  "source_title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
+  "source_summary": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
+  "source_tags": [
+   "Virtual Currency",
+   "Robberies and Thefts",
+   "Cyberwarfare and Defense",
+   "Artificial Intelligence",
+   "Money Laundering",
+   "Computer Security",
+   "Banking and Financial Institutions",
+   "Computers and the Internet",
+   "Cyberattacks and Hackers",
+   "Binance"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T21:17:37+00:00",
+  "headline": "Binance Suffers $6.3 Billion Hack, Marking New AI‑Driven Crypto Threat",
+  "body": [
+   {
+    "type": "p",
+    "text": "The cryptocurrency exchange Binance disclosed that hackers stole roughly $6.3 billion in digital assets, making it the largest cyber heist on record. The breach targeted the platform’s hot wallets and was executed with sophisticated tools that leveraged artificial intelligence to bypass security measures."
+   },
+   {
+    "type": "p",
+    "text": "Security analysts say the attack reflects a growing trend where cybercriminals employ AI, machine learning and automated scripts to identify vulnerabilities and move stolen funds across multiple blockchains at high speed. The rapid laundering of the assets underscores the difficulty regulators face in tracking illicit crypto flows."
+   },
+   {
+    "type": "p",
+    "text": "Binance has pledged to cooperate with law‑enforcement agencies and to enhance its security protocols, while industry experts warn that similar AI‑powered assaults could become more common as the technology matures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The scale of the loss and the use of AI highlight emerging security risks for investors and financial regulators in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "Hackers stole about $6.3 billion from Binance, the biggest crypto theft ever recorded.",
+   "The attack used AI and advanced automation to breach security and quickly launder funds.",
+   "Experts warn that AI‑driven crypto thefts may rise, challenging regulators and exchanges."
+  ],
+  "meta_description": "Binance reports a $6.3 billion hack using AI tools, marking the largest crypto theft and signaling new security challenges.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cryptocurrency",
+   "cybersecurity",
+   "AI",
+   "financial crime",
+   "Binance",
+   "crypto regulation"
+  ],
+  "slug": "binance-suffers-6-3-billion-hack-marking-new-aidriven-731d51",
+  "reading_minutes": 1,
+  "added": "2026-10-30T22:55:56Z"
+ },
+ {
+  "id": "16a6189094eba8b7",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo",
+  "source": "BBC News",
+  "source_title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+  "source_summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-30T21:13:14+00:00",
+  "headline": "Binance Seeks to Recover $6.3bn Stolen in Crypto Hack Linked to North Korea",
+  "body": [
+   {
+    "type": "p",
+    "text": "Binance, the world’s largest cryptocurrency exchange, has announced a concerted effort to retrieve roughly $6.3 billion that was taken in a recent cyber‑attack. The company describes the breach as highly complex and says it is pursuing all available avenues to recover the funds."
+   },
+   {
+    "type": "p",
+    "text": "Investigators have linked the hack to actors associated with North Korea, marking it as the biggest theft of its kind in the crypto sector. Binance has not disclosed specific details about the methods used by the attackers, but it emphasized the scale of the loss and its impact on the broader market."
+   },
+   {
+    "type": "p",
+    "text": "The exchange’s recovery drive underscores growing concerns over the security of digital assets, especially as regulators in the United States and Europe intensify scrutiny of cryptocurrency platforms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The loss of billions in digital assets could affect global crypto markets and prompts regulators in the US and Europe to examine security standards for exchanges."
+   }
+  ],
+  "key_points": [
+   "Binance is attempting to recover $6.3 bn stolen in a complex cyber‑attack.",
+   "The hack is believed to involve North Korean actors and is the largest crypto theft recorded.",
+   "The incident highlights heightened security risks for the cryptocurrency industry."
+  ],
+  "meta_description": "Binance works to recover $6.3bn stolen in a major hack tied to North Korea, the largest crypto theft reported.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Binance",
+   "crypto hack",
+   "North Korea",
+   "cybercrime",
+   "cryptocurrency",
+   "security"
+  ],
+  "slug": "binance-seeks-recover-6-3bn-stolen-crypto-hack-linked-16a618",
+  "reading_minutes": 1,
+  "added": "2026-10-30T22:56:09Z"
+ },
+ {
+  "id": "259f9cf89adbc4ce",
+  "source_url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+  "source": "The New York Times",
+  "source_title": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
+  "source_summary": "Premiums will jump by 13 percent for next year, though much of the price increase will be offset by subsidies. But customers who earn over $64,000 will pay more, on top of this year’s huge increases.",
+  "source_tags": [
+   "Patient Protection and Affordable Care Act (2010)",
+   "Health Insurance and Managed Care",
+   "Prices (Fares, Fees and Rates)",
+   "United States Politics and Government",
+   "Medicine and Health",
+   "Two Thousand Twenty Seven",
+   "Midterm Elections (2026)",
+   "Tax Credits, Deductions and Exemptions",
+   "Regulation and Deregulation of Industry",
+   "Democratic Party"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-obamacare--mlbk/00biz-obamacare--mlbk-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T20:56:18+00:00",
+  "headline": "Obamacare Premiums Set to Climb 13% Next Year, Offsets Limited",
+  "body": [
+   {
+    "type": "p",
+    "text": "Health insurance premiums under the Affordable Care Act are projected to increase by 13 percent for the 2027 coverage year, according to recent data. While federal subsidies are expected to cover a substantial portion of the rise, the net cost for many enrollees will still be higher."
+   },
+   {
+    "type": "p",
+    "text": "The increase follows a series of large premium hikes experienced in the current year. Individuals and families earning more than $64,000 annually will face the full brunt of the higher rates, as they receive smaller subsidy assistance compared with lower‑income households."
+   },
+   {
+    "type": "p",
+    "text": "Policy analysts note that the surge reflects broader market pressures, including rising medical costs and insurer adjustments. The government plans to maintain subsidy levels, but the overall affordability of ACA plans remains a concern for middle‑income earners."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher health insurance costs affect middle‑income Americans and could influence political debates on health care reform in the US and abroad."
+   }
+  ],
+  "key_points": [
+   "ACA premiums are expected to rise 13% for 2027.",
+   "Subsidies will offset much of the increase, but higher earners will pay more.",
+   "The hike follows this year's significant premium jumps."
+  ],
+  "meta_description": "Obamacare premiums are set to rise 13% next year, with subsidies covering much of the increase but higher earners paying more.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Obamacare",
+   "health insurance",
+   "premium increase",
+   "subsidies",
+   "US health policy"
+  ],
+  "slug": "obamacare-premiums-set-climb-13-next-year-offsets-limited-259f9c",
+  "reading_minutes": 1,
+  "added": "2026-10-30T22:56:24Z"
+ },
+ {
+  "id": "b797a5975f9efcef",
+  "source_url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+  "source_summary": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79812578_6.jpg",
+  "published": "2026-10-30T20:55:00+00:00",
+  "headline": "Canadian PM Seeks Deeper EU Ties, Proposes Associate Membership",
+  "body": [
+   {
+    "type": "p",
+    "text": "Prime Minister Mark Carney told Deutsche Welle that Canada is looking to broaden its international partnerships by forging closer ties with the European Union. He said the goal is to \"diversify and deepen\" relations beyond the traditional focus on the Americas, aiming for a more balanced foreign‑policy portfolio."
+   },
+   {
+    "type": "p",
+    "text": "Carney introduced the concept of an \"associate membership\" for Canada in the EU, a term he described as all‑new. While the idea has met resistance from German officials, the prime minister argued it could offer a structured framework for cooperation without full accession."
+   },
+   {
+    "type": "p",
+    "text": "In the interview, Carney also warned against Canada’s over‑dependence on the United States and hinted at the need for strategies to manage unpredictable political figures such as former President Donald Trump, though he did not detail specific measures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A stronger Canada‑EU partnership could shift trade and diplomatic balances, offering Europe and North America a more diversified alliance network."
+   }
+  ],
+  "key_points": [
+   "Canada wants to diversify its foreign relations by deepening ties with the EU.",
+   "Prime Minister Carney proposes an \"associate membership\" model, despite German pushback.",
+   "He cautions against over‑reliance on the United States and mentions handling unpredictable U.S. politics."
+  ],
+  "meta_description": "Canadian PM Mark Carney proposes deeper EU ties and an associate membership model to reduce reliance on the US.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "European Union",
+   "foreign policy",
+   "associate membership",
+   "Germany",
+   "trade"
+  ],
+  "slug": "canadian-pm-seeks-deeper-eu-ties-proposes-associate-membership-b797a5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-30T22:56:22Z"
+ },
+ {
   "id": "a482c32ba25e0a72",
   "source_url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
   "source": "The New York Times",
@@ -685,6 +1331,59 @@
   "slug": "eddie-howe-linked-manchester-united-managerial-role-amid-challenges-554a75",
   "reading_minutes": 1,
   "added": "2026-10-30T18:48:55Z"
+ },
+ {
+  "id": "01098adfcd94ca69",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy832jv00p1o",
+  "source": "BBC Sport",
+  "source_title": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
+  "source_summary": "Ellie Kildunne has been the Red Roses' figurehead throughout their rise to world champions, so why is she on the bench for Friday night's Test against the USA?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20d9/live/b6628fc0-d479-11f1-8edb-d9fce66588c6.jpg",
+  "published": "2026-10-30T16:22:55+00:00",
+  "headline": "Ellie Kildunne Benched for England Women’s Test Against USA",
+  "body": [
+   {
+    "type": "p",
+    "text": "England’s women’s rugby team, the Red Roses, will start their Friday night Test against the United States without longtime figurehead Ellie Kildunne in the starting XV. Kildunne, who has been a central player throughout the squad’s rise to world‑champion status, will begin the match on the bench."
+   },
+   {
+    "type": "p",
+    "text": "The decision has raised questions among fans and commentators, given Kildunne’s prominent role in England’s recent successes. Team management has not provided a detailed explanation for the selection change ahead of the fixture."
+   },
+   {
+    "type": "p",
+    "text": "The Red Roses are set to face the USA in a high‑profile test that will be broadcast internationally, offering both sides an opportunity to showcase the growing popularity of women’s rugby."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "England’s Red Roses are a benchmark for women’s rugby development, and changes to their line‑up are closely watched by fans and stakeholders in the sport across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Ellie Kildunne, a key figure in England’s world‑champion Red Roses, will start the USA test on the bench.",
+   "The selection change has sparked speculation, though no official reason has been given.",
+   "The match highlights the expanding visibility of women’s rugby in both Europe and North America."
+  ],
+  "meta_description": "England’s Ellie Kildunne will be on the bench for the Red Roses' Test against the USA, prompting speculation about the lineup change.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ellie Kildunne",
+   "Red Roses",
+   "women's rugby",
+   "England USA test",
+   "rugby selection"
+  ],
+  "slug": "ellie-kildunne-benched-england-womens-test-against-usa-01098a",
+  "reading_minutes": 1,
+  "added": "2026-10-30T22:56:29Z"
  },
  {
   "id": "fe8f1b0e40710433",
