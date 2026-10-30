@@ -1,5 +1,692 @@
 [
  {
+  "id": "a482c32ba25e0a72",
+  "source_url": "https://www.nytimes.com/2026/10/30/world/europe/greece-explosion-athens-arrests.html",
+  "source": "The New York Times",
+  "source_title": "3 Arrested in Connection With Deadly Blast in Central Athens",
+  "source_summary": "The authorities said an attempt to steal copper gas pipes ultimately led to the massive explosion last month, which killed six people.",
+  "source_tags": [
+   "Robberies and Thefts",
+   "Deaths (Fatalities)",
+   "Natural Gas",
+   "Copper, Brass and Bronze",
+   "Infrastructure (Public Works)",
+   "Athens (Greece)",
+   "Greece"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-greece-explosion-1-hbjk/30int-greece-explosion-1-hbjk-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T18:45:35+00:00",
+  "headline": "Three Arrested After Copper Pipe Theft Sparks Deadly Athens Blast",
+  "body": [
+   {
+    "type": "p",
+    "text": "Greek police have detained three individuals suspected of involvement in a massive explosion that devastated central Athens last month. Authorities say the blast occurred when thieves attempted to steal copper gas pipes, causing a catastrophic rupture."
+   },
+   {
+    "type": "p",
+    "text": "The explosion claimed six lives and injured several others, prompting a large-scale emergency response and a citywide investigation. Investigators traced the incident to the illegal removal of the pipes, which ignited the gas supply feeding the area."
+   },
+   {
+    "type": "p",
+    "text": "The three suspects are now in custody while prosecutors build a case linking their actions to the fatal blast. The incident has reignited concerns over metal theft and public safety across Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event underscores the broader risk of infrastructure sabotage in Europe, a concern for public safety and insurance markets in the US and EU."
+   }
+  ],
+  "key_points": [
+   "Three people were arrested for allegedly stealing copper gas pipes that caused a deadly explosion in Athens.",
+   "The blast killed six people and highlighted the dangers of metal theft.",
+   "Greek authorities are pursuing charges against the suspects."
+  ],
+  "meta_description": "Three arrested after a copper pipe theft triggered a deadly explosion in central Athens, killing six people.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Athens",
+   "explosion",
+   "metal theft",
+   "public safety",
+   "Greek police"
+  ],
+  "slug": "three-arrested-after-copper-pipe-theft-sparks-deadly-athens-a482c3",
+  "reading_minutes": 1,
+  "added": "2026-10-30T18:48:19Z"
+ },
+ {
+  "id": "9c1de6a980db110a",
+  "source_url": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+  "source": "CNBC",
+  "source_title": "Cheaper cars are selling considerably faster than at the beginning of the year",
+  "source_summary": "Data indicates cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108469843-1793120851883-gettyimages-2277553026-yanow-carsales260523_npQhV.jpeg?v=1793120980&w=1920&h=1080",
+  "published": "2026-10-30T18:45:35+00:00",
+  "headline": "Cheaper Cars Accelerate Sales While Some Low‑Price Segments Slip in Q3",
+  "body": [
+   {
+    "type": "p",
+    "text": "Recent data shows that lower‑priced vehicles are moving off dealer lots more quickly than they did at the start of the year, indicating strong demand for budget‑friendly options."
+   },
+   {
+    "type": "p",
+    "text": "Despite the overall uptick, a handful of the cheapest market segments experienced a decline in sales during the third quarter, suggesting uneven performance across the low‑price spectrum."
+   },
+   {
+    "type": "p",
+    "text": "Analysts suggest the mixed results may reflect shifting consumer priorities, with buyers favoring certain affordable models while others lose appeal amid broader economic pressures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European consumers looking for cost‑effective transportation may see more inventory and quicker turnover for affordable models, while manufacturers may need to adjust strategies for weaker sub‑segments."
+   }
+  ],
+  "key_points": [
+   "Budget cars are selling faster than earlier in the year.",
+   "Some of the lowest‑price segments saw sales fall in Q3.",
+   "The trend points to varied consumer demand within the cheap‑car market."
+  ],
+  "meta_description": "Cheaper cars are selling faster, but a few low‑price segments saw sales drop in Q3, highlighting uneven demand.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "auto sales",
+   "budget cars",
+   "market trends",
+   "consumer demand",
+   "Q3 performance"
+  ],
+  "slug": "cheaper-cars-accelerate-sales-while-some-lowprice-segments-slip-9c1de6",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-30T18:48:22Z"
+ },
+ {
+  "id": "b56d47a2ef7fcf17",
+  "source_url": "https://www.nytimes.com/2026/10/30/us/politics/el-sayed-stevens-michigan-senate-event.html",
+  "source": "The New York Times",
+  "source_title": "El-Sayed’s Former Primary Rival Demands Apology Ahead of Joint Midterms Appearance",
+  "source_summary": "Representative Haley Stevens plans to campaign with Dr. Abdul El-Sayed in a pivotal race. But she also wants him to apologize for comments about Israel and disavow an ad she sees as antisemitic.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Democratic Party",
+   "El-Sayed, Abdul",
+   "Michigan",
+   "Stevens, Haley",
+   "Dingell, Deborah"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30pol-el-sayed-stevens-02-qftw/30pol-el-sayed-stevens-02-qftw-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T18:39:24+00:00",
+  "headline": "Stevens Seeks El‑Sayed Apology Over Israel Remarks Before Joint Campaign",
+  "body": [
+   {
+    "type": "p",
+    "text": "Representative Haley Stevens announced plans to campaign alongside Dr. Abdul El‑Sayed in a closely watched midterm race. While the partnership aims to boost both candidates, Stevens has set a condition for the joint appearance."
+   },
+   {
+    "type": "p",
+    "text": "Stevens publicly demanded that El‑Sayed apologize for earlier comments concerning Israel and distance himself from an advertisement she described as antisemitic. She said the apology is essential to present a united front and avoid alienating voters."
+   },
+   {
+    "type": "p",
+    "text": "El‑Sayed has not yet responded to the request, and the timing of the dispute comes as both candidates intensify outreach ahead of the November elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The standoff highlights how Middle‑East issues can shape U.S. electoral dynamics and influence voter sentiment in key swing districts."
+   }
+  ],
+  "key_points": [
+   "Stevens will campaign with El‑Sayed but requires an apology for his Israel remarks.",
+   "She labels an associated ad as antisemitic and wants El‑Sayed to disavow it.",
+   "The demand comes as the race gains national attention ahead of the midterms."
+  ],
+  "meta_description": "Rep. Haley Stevens demands an apology from Dr. Abdul El‑Sayed over Israel comments before their joint midterm campaign.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterms",
+   "campaign",
+   "Israel",
+   "antisemitism",
+   "Haley Stevens",
+   "Abdul El‑Sayed"
+  ],
+  "slug": "stevens-seeks-elsayed-apology-over-israel-remarks-before-joint-b56d47",
+  "reading_minutes": 1,
+  "added": "2026-10-30T18:48:26Z"
+ },
+ {
+  "id": "5966a9243acbb567",
+  "source_url": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
+  "source": "The New York Times",
+  "source_title": "Binance Was Hacked. What Protections Exist for Crypto Customers?",
+  "source_summary": "After a $6.3 billion hack, the company said it was going to reimburse customers who have losses.",
+  "source_tags": [
+   "Content Type: Service",
+   "Personal Finances",
+   "Bitcoin (Currency)",
+   "Cyberattacks and Hackers",
+   "Binance",
+   "Regulation and Deregulation of Industry"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/30/business/30Biz-Cryptoconsumer/30Biz-Cryptoconsumer-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T18:27:21+00:00",
+  "headline": "Binance Announces Reimbursements After $6.3 Billion Hack",
+  "body": [
+   {
+    "type": "p",
+    "text": "The cryptocurrency exchange Binance disclosed that it suffered a hack resulting in a loss of approximately $6.3 billion. The breach was reported on October 30, 2026."
+   },
+   {
+    "type": "p",
+    "text": "In response, Binance said it will reimburse customers who incurred losses from the incident. The company emphasized its commitment to restoring affected users' balances."
+   },
+   {
+    "type": "p",
+    "text": "Details on the reimbursement process, including timelines and eligibility criteria, were not provided in the initial announcement."
+   }
+  ],
+  "key_points": [
+   "Binance confirmed a hack that cost about $6.3 billion.",
+   "The exchange pledged to reimburse customers who suffered losses."
+  ],
+  "meta_description": "Binance reports a $6.3 billion hack and says it will reimburse affected customers.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Binance",
+   "hack",
+   "cryptocurrency",
+   "reimbursement",
+   "security"
+  ],
+  "slug": "binance-announces-reimbursements-after-6-3-billion-hack-5966a9",
+  "reading_minutes": 1,
+  "added": "2026-10-30T18:48:43Z"
+ },
+ {
+  "id": "c4dbacf8aa2b8b7f",
+  "source_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+  "source": "The Verge",
+  "source_title": "Google’s satellite AI server transmits its first response to Earth",
+  "source_summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
+  "source_tags": [
+   "AI",
+   "Google",
+   "News",
+   "Science",
+   "Space",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-30T18:21:38+00:00",
+  "headline": "Google Satellite AI Sends First Space‑Based Haiku Using On‑Board TPUs",
+  "body": [
+   {
+    "type": "p",
+    "text": "Google announced that its AI‑enabled satellite has produced its inaugural response from orbit. In a blog post on Friday, the company said the satellite’s Tensor Processing Units (TPUs) were successfully booted, enabling the on‑board Gemma 4 model to run a prompt."
+   },
+   {
+    "type": "p",
+    "text": "The AI model generated a haiku about being in space, beginning with the lines “Blue marble below / Data streams in …”. This marks the first time a cloud‑based AI chip has been used to create content directly from a satellite, demonstrating that advanced machine‑learning workloads can be executed beyond Earth’s surface."
+   },
+   {
+    "type": "p",
+    "text": "Google’s achievement highlights the growing interest in edge computing for space applications, where processing data on the satellite itself could reduce latency and bandwidth needs for future missions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "On‑orbit AI could speed up data analysis for Earth observation and communications, benefiting industries and research in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Google’s satellite successfully booted its TPUs and ran the Gemma 4 AI model in orbit.",
+   "The on‑board AI generated a space‑themed haiku, marking the first content creation from a satellite.",
+   "The test showcases the potential for on‑orbit AI processing to cut latency and bandwidth use."
+  ],
+  "meta_description": "Google's satellite AI runs its first on‑orbit prompt, creating a haiku and proving TPUs can work in space.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Google",
+   "satellite",
+   "AI",
+   "TPU",
+   "on‑orbit computing"
+  ],
+  "slug": "google-satellite-ai-sends-first-spacebased-haiku-using-onboard-c4dbac",
+  "reading_minutes": 1,
+  "added": "2026-10-30T18:48:31Z"
+ },
+ {
+  "id": "851513936872a4bf",
+  "source_url": "https://www.nytimes.com/2026/10/30/world/asia/afghan-refugees-deported-flight-pakistan.html",
+  "source": "The New York Times",
+  "source_title": "U.S. to Send Dozens Back to Afghanistan, Despite Risk of Persecution",
+  "source_summary": "The Trump administration plans to fly the Afghan immigrants from Louisiana to Pakistan, where they are expected to be expelled over the border to Afghanistan.",
+  "source_tags": [
+   "Deportation",
+   "Illegal Immigration",
+   "Refugees and Displaced Persons",
+   "Homeland Security Department",
+   "Taliban",
+   "Trump, Donald J",
+   "Afghanistan",
+   "Louisiana",
+   "Pakistan",
+   "Qatar"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-afghan-deport-flight-1-kgbj/30int-afghan-deport-flight-1-kgbj-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T18:18:30+00:00",
+  "headline": "Trump Administration to Return Afghan Immigrants via Pakistan",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Trump administration announced plans to transport a group of Afghan immigrants currently housed in Louisiana to Pakistan. Once in Pakistan, officials expect the individuals will be forced across the border back into Afghanistan."
+   },
+   {
+    "type": "p",
+    "text": "The move has drawn criticism from human‑rights advocates who warn that the return could expose the immigrants to persecution in their home country. No details were provided about the number of people involved or the timeline for the flights."
+   },
+   {
+    "type": "p",
+    "text": "U.S. officials have not commented on how the plan aligns with international refugee protections, and the policy raises questions about the treatment of displaced Afghans who have previously sought safety in the United States."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision highlights ongoing U.S. immigration policy challenges and may influence European debates on refugee repatriation and protection standards."
+   }
+  ],
+  "key_points": [
+   "The Trump administration plans to fly Afghan immigrants from Louisiana to Pakistan for expulsion into Afghanistan.",
+   "Human‑rights groups warn the return could put the immigrants at risk of persecution.",
+   "The policy has sparked concerns about compliance with international refugee obligations."
+  ],
+  "meta_description": "The Trump administration will send Afghan immigrants from Louisiana to Pakistan for forced return to Afghanistan, sparking human‑rights concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Afghanistan",
+   "United States",
+   "immigration",
+   "refugees",
+   "Pakistan",
+   "human rights"
+  ],
+  "slug": "trump-administration-return-afghan-immigrants-via-pakistan-851513",
+  "reading_minutes": 1,
+  "added": "2026-10-30T18:48:39Z"
+ },
+ {
+  "id": "92afdf213d42b376",
+  "source_url": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
+  "source": "The New York Times",
+  "source_title": "Meta Settles Social Media Addiction Case, Avoiding Trial",
+  "source_summary": "The case, brought by an 18-year-old Mississippi woman and set for trial next week, was the fourth of nine bellwether personal injury lawsuits.",
+  "source_tags": [
+   "Suits and Litigation (Civil)",
+   "Social Media",
+   "Children and Childhood",
+   "Computers and the Internet",
+   "Addiction (Psychology)",
+   "Teenagers and Adolescence",
+   "Meta Platforms Inc"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-meta-settlement-pwcm/30biz-meta-settlement-pwcm-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T18:11:24+00:00",
+  "headline": "Meta Reaches Settlement in Mississippi Social Media Addiction Lawsuit",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta Platforms Inc. has agreed to settle a personal injury case brought by an 18-year-old woman from Mississippi, avoiding a trial scheduled for next week. The lawsuit alleged that the company's social media services caused the plaintiff to develop an addiction that adversely affected her mental health."
+   },
+   {
+    "type": "p",
+    "text": "The settlement marks the fourth resolution among nine high-profile cases that have been filed across the United States, which are being watched as potential bellwethers for future litigation against tech firms. Details of the settlement amount were not disclosed, and the agreement does not include an admission of wrongdoing by Meta."
+   },
+   {
+    "type": "p",
+    "text": "Legal analysts note that the resolution may influence how other pending lawsuits proceed, as companies weigh the costs of trial against the uncertainty of jury verdicts in cases that link platform design to user harm."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome may shape future legal actions against major tech firms in the U.S. and Europe, where regulators are increasingly scrutinizing platform impacts on mental health."
+   }
+  ],
+  "key_points": [
+   "Meta settled the Mississippi social media addiction case before trial.",
+   "The case is the fourth of nine similar personal injury lawsuits against the company.",
+   "The settlement could affect the strategy of other pending tech liability cases."
+  ],
+  "meta_description": "Meta settles Mississippi social media addiction lawsuit, the fourth of nine similar cases, avoiding trial and influencing future tech liability actions.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Meta",
+   "social media",
+   "lawsuit settlement",
+   "personal injury",
+   "tech regulation"
+  ],
+  "slug": "meta-reaches-settlement-mississippi-social-media-addiction-lawsuit-92afdf",
+  "reading_minutes": 1,
+  "added": "2026-10-30T18:49:02Z"
+ },
+ {
+  "id": "9843d7b283c80d47",
+  "source_url": "https://www.nytimes.com/2026/10/30/world/europe/spain-crash-contoller-errors.html",
+  "source": "The New York Times",
+  "source_title": "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+  "source_summary": "The transport minister said a judge would investigate controllers’ actions, including authorizing a train to proceed at high speed though another was stalled in front of it.",
+  "source_tags": [
+   "Spain Train Crash (October 28, 2026)",
+   "Railroad Accidents and Safety",
+   "Renfe Operadora",
+   "Intermodalidad de Levante SA (Iryo)",
+   "Spain",
+   "Toledo (Spain)",
+   "Madrid (Spain)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Int-spain-crash-tfqv/30Int-spain-crash-tfqv-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T18:06:15+00:00",
+  "headline": "Spain Train Crash Linked to Traffic Control Errors, Minister Says",
+  "body": [
+   {
+    "type": "p",
+    "text": "Spain's transport minister announced that a judge will examine the actions of railway controllers after a fatal collision, noting that one controller allowed a high‑speed train to proceed while another train was stalled ahead."
+   },
+   {
+    "type": "p",
+    "text": "The investigation will focus on whether the decision to authorize the fast‑moving train contributed to the crash that resulted in multiple deaths, according to the minister."
+   },
+   {
+    "type": "p",
+    "text": "Authorities aim to determine accountability within the rail network's signaling system and assess whether procedural lapses led to the tragedy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the cause of the crash is crucial for improving rail safety standards across Europe, where high‑speed networks are integral to transportation."
+   }
+  ],
+  "key_points": [
+   "A judge will investigate railway controllers' decisions after Spain's deadly train crash.",
+   "The transport minister highlighted that a high‑speed train was cleared to move despite a stalled train ahead.",
+   "The probe seeks to uncover possible procedural failures in Spain's rail traffic control."
+  ],
+  "meta_description": "Spain's transport minister says a judge will probe traffic control errors after a fatal train crash, focusing on a high‑speed train clearance.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spain",
+   "train crash",
+   "rail safety",
+   "transport investigation",
+   "traffic control"
+  ],
+  "slug": "spain-train-crash-linked-traffic-control-errors-minister-says-9843d7",
+  "reading_minutes": 1,
+  "added": "2026-10-30T18:48:58Z"
+ },
+ {
+  "id": "3a6f2f9865a4e25f",
+  "source_url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+  "source": "TechCrunch",
+  "source_title": "Satlyt takes another step toward turning satellites into space data centers",
+  "source_summary": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+  "source_tags": [
+   "Space",
+   "Startups",
+   "AI",
+   "data centers"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Just_Super-Getty.jpg?resize=1200,750",
+  "published": "2026-10-30T18:01:24+00:00",
+  "headline": "Satlyt Tests Satellite-Based Virtual Data Center Concept",
+  "body": [
+   {
+    "type": "p",
+    "text": "Satlyt reported a successful test this month that moves the company closer to converting satellites into virtual data centers. The trial demonstrated the ability to run data‑processing workloads directly on spacecraft, reducing reliance on ground‑based infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "The experiment involved deploying software that can manage storage and compute tasks aboard a satellite platform, effectively turning the orbiting asset into a miniature data center. Engineers said the test validated key performance metrics needed for broader adoption."
+   },
+   {
+    "type": "p",
+    "text": "If the approach scales, it could enable new services that require low‑latency processing of data collected in space, such as real‑time imaging or communications. Satlyt plans further demonstrations to refine the technology and explore commercial applications."
+   }
+  ],
+  "key_points": [
+   "Satlyt completed a successful test of satellite‑based virtual data center technology.",
+   "The trial proved that compute and storage functions can operate reliably on a spacecraft.",
+   "Future deployments could support low‑latency space‑derived data services."
+  ],
+  "meta_description": "Satlyt's latest test shows satellites can function as virtual data centers, paving the way for on‑orbit data processing.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "satellites",
+   "data centers",
+   "edge computing",
+   "space technology",
+   "Satlyt"
+  ],
+  "slug": "satlyt-tests-satellite-based-virtual-data-center-concept-3a6f2f",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-30T18:48:51Z"
+ },
+ {
+  "id": "bd2bc866b37baa00",
+  "source_url": "https://www.nytimes.com/2026/10/30/us/politics/iowa-senate-race-josh-turek.html",
+  "source": "The New York Times",
+  "source_title": "Democrats, Hopeful All Over the Senate Map, Remain Jittery About Iowa",
+  "source_summary": "In the final days of the race, Josh Turek, the Democratic Senate nominee, appears to be in a dead heat against his Republican rival, Representative Ashley Hinson.",
+  "source_tags": [
+   "Turek, Josh (1979- )",
+   "Elections, Senate",
+   "Iowa",
+   "Democratic Party",
+   "Hinson, Ashley (1983- )",
+   "Midterm Elections (2026)",
+   "United States Politics and Government"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30pol-turek-iowa-jkvq/30pol-turek-iowa-jkvq-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T17:53:30+00:00",
+  "headline": "Democratic Senate Nominee Turek Neck-and-Neck With Republican Hinson in Iowa",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic candidate Josh Turek is locked in a tight race with Republican Representative Ashley Hinson for Iowa's Senate seat, according to the latest reporting. The contest remains essentially a dead heat as the election approaches, leaving both parties on edge."
+   },
+   {
+    "type": "p",
+    "text": "The close margin reflects broader concerns among Democrats about the state's place on the national Senate map, where they hope to make gains but remain wary of Iowa's swing potential. Party strategists are monitoring the race closely, noting that any shift could influence the overall balance of power in the Senate."
+   },
+   {
+    "type": "p",
+    "text": "Republican supporters of Hinson emphasize her legislative experience, while Turek's campaign highlights his alignment with Democratic priorities. As the final days of the campaign unfold, voter outreach and turnout efforts are intensifying on both sides."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome could affect the partisan composition of the U.S. Senate, influencing legislative agendas in Washington and across allied nations."
+   }
+  ],
+  "key_points": [
+   "Josh Turek and Ashley Hinson are tied in Iowa's Senate race.",
+   "Democrats remain cautious about the state's impact on the Senate map.",
+   "Both campaigns are ramping up voter outreach as the election nears."
+  ],
+  "meta_description": "Democratic nominee Josh Turek is dead‑heat with Republican Ashley Hinson in Iowa's Senate race, raising stakes for the national Senate balance.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iowa Senate",
+   "Josh Turek",
+   "Ashley Hinson",
+   "U.S. elections",
+   "Senate map"
+  ],
+  "slug": "democratic-senate-nominee-turek-neck-neck-with-republican-hinson-bd2bc8",
+  "reading_minutes": 1,
+  "added": "2026-10-30T18:48:46Z"
+ },
+ {
+  "id": "0eca2192d8ee0d67",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o",
+  "source": "BBC Sport",
+  "source_title": "South Africa-Australia set for classic finale – what does history suggest could happen?",
+  "source_summary": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2515/live/dcdcd0b0-d47f-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-30T17:03:40+00:00",
+  "headline": "South Africa Forces Epic Fourth-Day Battle in Decisive Test vs Australia",
+  "body": [
+   {
+    "type": "p",
+    "text": "South Africa have set the stage for a dramatic conclusion to their Test series against Australia by occupying the crease for the entire fourth day. Their long batting spell has turned the match into a winner‑takes‑all contest, with both sides needing a decisive result to claim the series."
+   },
+   {
+    "type": "p",
+    "text": "Analysts point to past encounters where teams that have batted for extended periods on the final day have either secured a hard‑won victory or forced a draw that preserved a series lead. The historical pattern suggests that the outcome will hinge on whether Australia can break through South Africa's resilient defence before the final session ends."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result will determine the series winner and could influence player rankings and upcoming international fixtures."
+   }
+  ],
+  "key_points": [
+   "South Africa batted through the fourth day, creating a decisive final‑day showdown.",
+   "Historical precedents indicate the team that can claim the last wickets often wins the series."
+  ],
+  "meta_description": "South Africa's all‑day fourth‑innings spell sets up a decisive Test finale against Australia, with history hinting at a tight finish.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "South Africa",
+   "Australia",
+   "Test cricket",
+   "fourth day",
+   "cricket history"
+  ],
+  "slug": "south-africa-forces-epic-fourth-day-battle-decisive-test-0eca21",
+  "reading_minutes": 1,
+  "added": "2026-10-30T18:48:35Z"
+ },
+ {
+  "id": "554a75574f7cc5c7",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o",
+  "source": "BBC Sport",
+  "source_title": "What Howe could bring to Man Utd - and what are the challenges?",
+  "source_summary": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6804/live/b15b30a0-d47d-11f1-80bc-6d398902272f.jpg",
+  "published": "2026-10-30T16:27:13+00:00",
+  "headline": "Eddie Howe Linked to Manchester United Managerial Role Amid Challenges",
+  "body": [
+   {
+    "type": "p",
+    "text": "Eddie Howe has emerged as a leading candidate in recent speculation surrounding the vacant Manchester United managerial position. The former Bournemouth and Newcastle United boss is being discussed by pundits and insiders as a possible fit for the club's next chapter."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that Howe would need to navigate several key considerations, including adapting his playing style to United's expectations, managing a squad with high-profile personalities, and meeting the intense scrutiny that accompanies the role. The club's recent performance record and the pressure to secure trophies add further complexity to any prospective appointment."
+   },
+   {
+    "type": "p",
+    "text": "For Howe, the move would represent a significant step up from his previous assignments, requiring him to balance his proven tactical approach with the demands of a globally recognised brand. The discussion highlights both the opportunities and the hurdles that would accompany such a high‑profile appointment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Manchester United's managerial choice influences one of the world's most watched football clubs, affecting fans and markets in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Eddie Howe is being widely linked with the Manchester United managerial vacancy.",
+   "Potential challenges include adapting his tactics to United's expectations and handling intense media scrutiny.",
+   "The appointment would mark a major career step for Howe, requiring navigation of a high‑pressure environment."
+  ],
+  "meta_description": "Eddie Howe is linked to the Manchester United job, with analysts weighing the tactical and pressure-related challenges of the potential appointment.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Eddie Howe",
+   "Manchester United",
+   "managerial speculation",
+   "Premier League",
+   "football"
+  ],
+  "slug": "eddie-howe-linked-manchester-united-managerial-role-amid-challenges-554a75",
+  "reading_minutes": 1,
+  "added": "2026-10-30T18:48:55Z"
+ },
+ {
   "id": "fe8f1b0e40710433",
   "source_url": "https://www.nytimes.com/2026/10/30/style/melania-trump-halloween-coat-white-house.html",
   "source": "The New York Times",
