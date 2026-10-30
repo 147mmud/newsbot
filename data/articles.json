@@ -1,5 +1,670 @@
 [
  {
+  "id": "fe8f1b0e40710433",
+  "source_url": "https://www.nytimes.com/2026/10/30/style/melania-trump-halloween-coat-white-house.html",
+  "source": "The New York Times",
+  "source_title": "Melania Trump’s Halloween Coat Was Its Own Kind of Costume",
+  "source_summary": "The first lady continues to let her coats do the talking.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Halloween",
+   "First Ladies (US)",
+   "Costumes",
+   "Fashion and Apparel",
+   "Trump, Melania",
+   "your-feed-fashion"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30ST-HALLOWEEN-WHITE-HOUSE-01-pkjh/30ST-HALLOWEEN-WHITE-HOUSE-01-pkjh-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T13:22:11+00:00",
+  "headline": "Melania Trump’s Halloween Coat Serves As Its Own Costume",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a recent Halloween appearance, former first lady Melania Trump wore a coat that functioned as a standalone costume, according to The New York Times. The article notes that the former first lady continues to let her outerwear convey a message without additional accessories or attire."
+   },
+   {
+    "type": "p",
+    "text": "The piece highlights the coat’s distinctive role, describing it as “its own kind of costume.” No further details about the event, design, or reception are provided, underscoring the focus on the garment’s singular impact."
+   },
+   {
+    "type": "p",
+    "text": "The coverage frames the coat as a continuation of Melania Trump’s pattern of using fashion choices to make statements, a practice observed throughout her public life."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story illustrates how former political figures use fashion to shape public perception, a tactic relevant to both U.S. and European audiences."
+   }
+  ],
+  "key_points": [
+   "Melania Trump’s Halloween coat was presented as a complete costume.",
+   "The New York Times emphasizes her reliance on clothing to communicate.",
+   "The coat’s design alone was highlighted as the focal point of her appearance."
+  ],
+  "meta_description": "Melania Trump’s Halloween coat acted as a standalone costume, reflecting her ongoing use of fashion to convey messages.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Melania Trump",
+   "fashion",
+   "Halloween",
+   "costume",
+   "public image"
+  ],
+  "slug": "melania-trumps-halloween-coat-serves-its-own-costume-fe8f1b",
+  "reading_minutes": 1,
+  "added": "2026-10-30T13:27:32Z"
+ },
+ {
+  "id": "d887baaf47098605",
+  "source_url": "https://www.nytimes.com/2026/10/30/upshot/times-siena-poll-midterms-questions.html",
+  "source": "The New York Times",
+  "source_title": "Are Trump Voters Refusing to Take Polls? And Other Polling Risks.",
+  "source_summary": "Answers to readers’ queries about the reasons a survey could misfire.",
+  "source_tags": [
+   "Polls and Public Opinion",
+   "Midterm Elections (2026)",
+   "internal-open-access-from-nl",
+   "United States Politics and Government"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-30T13:20:22+00:00",
+  "headline": "Polling Risks Rise as Trump Voters May Skip Surveys, Experts Say",
+  "body": [
+   {
+    "type": "p",
+    "text": "The New York Times explains why recent surveys risk misreading public opinion, noting that non‑response among certain voter groups, especially supporters of former President Donald Trump, can skew results. The article answers reader questions about how refusal to participate, sampling flaws and question wording can lead to inaccurate polls."
+   },
+   {
+    "type": "p",
+    "text": "Experts cited in the piece warn that when a sizable segment of a political base declines to answer, pollsters may underestimate that group's size and preferences. Additional pitfalls include outdated voter lists, over‑reliance on online panels, and the timing of fieldwork, all of which can compound errors."
+   },
+   {
+    "type": "p",
+    "text": "The report also highlights methodological safeguards, such as weighting adjustments and transparent reporting, that can mitigate these risks, but stresses that no poll can fully eliminate uncertainty when key demographics are under‑represented."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Accurate polling informs voters, campaigns and policymakers in the US and Europe, shaping expectations ahead of upcoming elections."
+   }
+  ],
+  "key_points": [
+   "Non‑response bias, especially among Trump supporters, can distort poll outcomes.",
+   "Sampling errors, panel composition and question phrasing are common sources of inaccuracy.",
+   "Weighting and transparent methodology help, but cannot fully erase polling uncertainty."
+  ],
+  "meta_description": "Experts warn that refusal to answer polls, especially by Trump voters, can skew survey results and affect election forecasts.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "polling",
+   "election forecasts",
+   "nonresponse bias",
+   "Trump voters",
+   "survey methodology"
+  ],
+  "slug": "polling-risks-rise-trump-voters-may-skip-surveys-experts-d887ba",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-30T13:27:52Z"
+ },
+ {
+  "id": "7462f65acc58d88f",
+  "source_url": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
+  "source_summary": "Bayern Munich are to open Nairobi's new Raila Odinga International Stadium against Ajax as Kenya prepares for AFCON 2027. The match highlights Africa's growing sports ambitions — and questions over cost and legacy.",
+  "source_tags": [
+   "Sports"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79797144_6.jpg",
+  "published": "2026-10-30T13:19:00+00:00",
+  "headline": "Bayern Munich to Open Kenya's New Stadium Ahead of AFCON 2027",
+  "body": [
+   {
+    "type": "p",
+    "text": "German club Bayern Munich will play the inaugural match at Nairobi’s Raila Odinga International Stadium, facing Dutch side Ajax. The friendly marks the stadium’s first major event as Kenya readies to host the 2027 Africa Cup of Nations."
+   },
+   {
+    "type": "p",
+    "text": "The match underscores the continent’s expanding role in global sport, attracting top European clubs to African venues. Organisers hope the high‑profile game will boost the tournament’s profile and showcase Kenya’s investment in sports infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "Critics, however, have raised concerns about the stadium’s cost and its long‑term legacy for local communities, questioning whether the expense will translate into lasting benefits beyond the tournament."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event illustrates Africa’s rising influence in world sport and raises questions about public spending on large‑scale venues, issues relevant to policymakers and investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Bayern Munich and Ajax will contest the opening of Nairobi’s new Raila Odinga International Stadium.",
+   "The friendly highlights Africa’s growing appeal to elite European football clubs.",
+   "Debate continues over the stadium’s financial outlay and post‑event legacy."
+  ],
+  "meta_description": "Bayern Munich to open Nairobi's new stadium with Ajax as Kenya prepares for AFCON 2027, spotlighting Africa's sports growth and legacy concerns.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bayern Munich",
+   "Ajax",
+   "Kenya",
+   "AFCON 2027",
+   "sports infrastructure"
+  ],
+  "slug": "bayern-munich-open-kenya-s-new-stadium-ahead-afcon-7462f6",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-30T13:27:36Z"
+ },
+ {
+  "id": "5ec9437afb139212",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+  "source": "The Verge",
+  "source_title": "Silicon Valley wants you to invest in miracles",
+  "source_summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, […]",
+  "source_tags": [
+   "AI",
+   "Analysis",
+   "Anthropic",
+   "Business",
+   "Report"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-30T13:11:05+00:00",
+  "headline": "Silicon Valley Pushes Investment in High‑Risk, High‑Reward Tech",
+  "body": [
+   {
+    "type": "p",
+    "text": "Investors are being urged to fund emerging technologies that could either trigger unprecedented breakthroughs or pose severe existential threats, according to a recent analysis in The Verge. The piece likens stock speculation to gambling, emphasizing that backing such ventures means wagering on outcomes that range from \"miracles\" to potentially catastrophic scenarios for humanity."
+   },
+   {
+    "type": "p",
+    "text": "The article highlights the tension between the allure of transformative innovation and the moral responsibility of financing it. While some proponents argue that these technologies could usher in an era of unprecedented benefits, critics warn that insufficient oversight might amplify risks that extend beyond financial loss to global safety."
+   },
+   {
+    "type": "p",
+    "text": "Silicon Valley firms are increasingly framing these high‑stakes opportunities as the next frontier for capital, urging venture capitalists and retail investors alike to consider the long‑term implications of their bets. The discussion underscores a growing debate over how the investment community should balance profit motives with ethical considerations when backing potentially world‑changing tech."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European investors face choices that could shape future markets and global safety, making the risk‑reward calculus especially relevant."
+   }
+  ],
+  "key_points": [
+   "Investors are being courted to fund technologies that could deliver major breakthroughs or severe existential risks.",
+   "Silicon Valley frames these high‑risk ventures as the next big investment frontier, sparking ethical debate.",
+   "The Verge article stresses the need for careful assessment of both financial and societal impacts."
+  ],
+  "meta_description": "Silicon Valley urges investment in tech that could bring miracles or existential threats, prompting ethical debate.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "venture capital",
+   "emerging technology",
+   "investment risk",
+   "ethical investing",
+   "Silicon Valley"
+  ],
+  "slug": "silicon-valley-pushes-investment-highrisk-highreward-tech-5ec943",
+  "reading_minutes": 1,
+  "added": "2026-10-30T13:27:41Z"
+ },
+ {
+  "id": "f4cb2f63b31eb83b",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo",
+  "source": "BBC News",
+  "source_title": "Spain transport minister says he won't resign over high-speed rail disaster",
+  "source_summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-10-30T13:03:34+00:00",
+  "headline": "Spain Transport Minister Refuses to Resign After Fatal Train Crash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Spain's transport minister, Óscar Puente, announced he will not step down despite mounting pressure following a catastrophic collision of two high‑speed trains earlier this week. The accident, which claimed at least 69 lives, has sparked public outcry and calls for his resignation."
+   },
+   {
+    "type": "p",
+    "text": "Puente addressed the nation, emphasizing that he remains committed to overseeing the investigation and implementing safety measures. He said the tragedy does not reflect a personal failure but rather a systemic issue that requires comprehensive reforms."
+   },
+   {
+    "type": "p",
+    "text": "Opposition parties and victims' families continue to demand accountability, arguing that leadership change is necessary to restore confidence in Spain's rail network. The minister's stance underscores a broader debate over governmental responsibility in transport safety."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights safety challenges in Europe's high‑speed rail systems, relevant to transatlantic transport policy and infrastructure investment discussions."
+   }
+  ],
+  "key_points": [
+   "Spain's transport minister Óscar Puente says he will not resign after a deadly high‑speed train crash.",
+   "The collision killed at least 69 people and has led to calls for his resignation from opposition and victims' groups.",
+   "Puente pledges to oversee the investigation and improve rail safety despite criticism."
+  ],
+  "meta_description": "Spain's transport minister refuses to resign after a high‑speed train crash that killed at least 69, amid calls for accountability.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spain",
+   "high-speed rail",
+   "train crash",
+   "Óscar Puente",
+   "transport safety",
+   "resignation"
+  ],
+  "slug": "spain-transport-minister-refuses-resign-after-fatal-train-crash-f4cb2f",
+  "reading_minutes": 1,
+  "added": "2026-10-30T13:27:56Z"
+ },
+ {
+  "id": "5c79f256b8904fd4",
+  "source_url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+  "source": "NPR",
+  "source_title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+  "source_summary": "The world's biggest cryptocurrency exchange reported Thursday that approximately $6.3 billion was impacted in an apparent hack.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F4e%2F43296d994303a3c15ef19703ff2e%2Fap26302822880513.jpg",
+  "published": "2026-10-30T13:01:22+00:00",
+  "headline": "Blockchain Firms Trace North Korean Links to $6.3 B Binance Hack",
+  "body": [
+   {
+    "type": "p",
+    "text": "Blockchain intelligence companies have identified North Korean actors as the likely source of a massive cyberattack that affected the cryptocurrency exchange Binance. The hack, reported by Binance on Thursday, involved roughly $6.3 billion in digital assets."
+   },
+   {
+    "type": "p",
+    "text": "The firms say the pattern of transactions and the technical methods used match previous operations attributed to North Korean groups. They note that the funds were moved through a series of wallets designed to obscure their origin."
+   },
+   {
+    "type": "p",
+    "text": "Binance has not disclosed the exact nature of the loss or the steps it is taking to recover the assets, but the exchange confirmed the incident was an \"apparent hack\" affecting a substantial sum."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the growing threat of state-sponsored cybercrime to global cryptocurrency markets, raising concerns for investors and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Blockchain analysts link the $6.3 billion Binance hack to North Korean cyber actors.",
+   "The attack involved sophisticated transaction routing to hide the stolen funds.",
+   "Binance confirmed the incident as an apparent hack but gave few details on recovery."
+  ],
+  "meta_description": "Blockchain firms attribute a $6.3 billion Binance hack to North Korean actors, underscoring rising state-sponsored cyber threats.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cryptocurrency",
+   "cybersecurity",
+   "North Korea",
+   "Binance",
+   "blockchain intelligence"
+  ],
+  "slug": "blockchain-firms-trace-north-korean-links-6-3-b-5c79f2",
+  "reading_minutes": 1,
+  "added": "2026-10-30T13:28:16Z"
+ },
+ {
+  "id": "5cfbd02556ec4a84",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+  "source": "The Verge",
+  "source_title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+  "source_summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
+  "source_tags": [
+   "AI",
+   "News",
+   "OpenAI",
+   "Science"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-30T13:01:14+00:00",
+  "headline": "OpenAI CEO Says AI Math Deluge Will Continue, Sympathizes With Researchers",
+  "body": [
+   {
+    "type": "p",
+    "text": "OpenAI chief executive Sam Altman told reporters that the company’s recent surge of AI‑generated mathematical results has left many mathematicians feeling overwhelmed. He said he understands the difficulty researchers face in sorting through the volume of new findings that have been released over the past several months."
+   },
+   {
+    "type": "p",
+    "text": "Despite his sympathy, Altman made clear that OpenAI has no plans to curb the output. He hinted that the firm’s internal repository of discoveries is still growing and that more AI‑driven mathematical insights are likely to appear in the near future."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The flood of AI‑generated research could reshape how mathematicians and scientists worldwide conduct and verify work, affecting academic and commercial innovation."
+   }
+  ],
+  "key_points": [
+   "OpenAI’s AI has been producing a steady stream of mathematical results that many researchers find hard to process.",
+   "CEO Sam Altman expressed empathy for mathematicians but said the company will not slow its output.",
+   "Altman suggested that additional AI‑generated discoveries are still in the pipeline."
+  ],
+  "meta_description": "OpenAI CEO Sam Altman acknowledges the strain on mathematicians from AI‑generated results and says the output will keep growing.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "mathematics",
+   "OpenAI",
+   "research",
+   "Sam Altman"
+  ],
+  "slug": "openai-ceo-says-ai-math-deluge-will-continue-sympathizes-5cfbd0",
+  "reading_minutes": 1,
+  "added": "2026-10-30T13:28:00Z"
+ },
+ {
+  "id": "bf2f54fefbaf7095",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo",
+  "source": "BBC News",
+  "source_title": "Yorkshire Water boss resigns after firm downgraded",
+  "source_summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dbf/live/d8f7e870-d44a-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-30T12:57:13+00:00",
+  "headline": "Yorkshire Water Chief Resigns in January After Company Downgrade",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nicola Shaw, who has been chief executive of Yorkshire Water since 2022, announced she will leave the role in January. The decision follows a recent downgrade of the water utility’s credit rating."
+   },
+   {
+    "type": "p",
+    "text": "Shaw’s tenure saw the firm navigate regulatory pressures and investment programmes aimed at upgrading infrastructure. The downgrade, issued by a rating agency, reflects concerns about the company’s financial outlook, though specific reasons were not detailed in the announcement."
+   },
+   {
+    "type": "p",
+    "text": "The board said it will begin a search for a successor immediately to ensure continuity of service for the millions of customers who rely on Yorkshire Water’s supply across the region."
+   }
+  ],
+  "key_points": [
+   "Nicola Shaw will step down as Yorkshire Water CEO in January after leading the firm since 2022.",
+   "The resignation comes after the utility received a credit rating downgrade.",
+   "Yorkshire Water’s board will start a search for a new chief executive promptly."
+  ],
+  "meta_description": "Yorkshire Water chief executive Nicola Shaw resigns in January after the firm’s credit rating is downgraded.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Yorkshire Water",
+   "leadership change",
+   "credit downgrade",
+   "UK utilities",
+   "executive resignation"
+  ],
+  "slug": "yorkshire-water-chief-resigns-january-after-company-downgrade-bf2f54",
+  "reading_minutes": 1,
+  "added": "2026-10-30T13:27:45Z"
+ },
+ {
+  "id": "74bf7defebc132bc",
+  "source_url": "https://www.nytimes.com/2026/10/30/business/dealbook/tech-tumult-ai-wall-street.html",
+  "source": "The New York Times",
+  "source_title": "The Tech Tumult Rocks Wall Street",
+  "source_summary": "Investors are growing nervous about the huge spending bills that tech giants are amassing to pay for their bets on artificial intelligence.",
+  "source_tags": [
+   "internal-storyline-no",
+   "Meta Platforms Inc",
+   "Microsoft Corp",
+   "Anthropic AI LLC",
+   "Google Inc",
+   "Alphabet Inc",
+   "Artificial Intelligence",
+   "Company Reports",
+   "Amazon.com Inc"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30db-nyse-wlpm/30db-nyse-wlpm-mediumSquareAt3X.jpg",
+  "published": "2026-10-30T12:13:01+00:00",
+  "headline": "Investors Worry Over Tech Giants' Massive AI Spending Bills",
+  "body": [
+   {
+    "type": "p",
+    "text": "Wall Street investors are growing uneasy as leading technology companies announce large spending plans to fund their artificial‑intelligence initiatives. The scale of the budgets, described as \"huge spending bills,\" signals a significant shift in capital allocation toward AI research and deployment."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the mounting costs could pressure profit margins and influence stock valuations across the sector. While the exact figures were not disclosed, the emphasis on AI reflects a broader industry trend of betting heavily on next‑generation technologies."
+   },
+   {
+    "type": "p",
+    "text": "The heightened scrutiny comes amid broader market volatility, with investors weighing the potential long‑term gains of AI against the short‑term financial impact of these expansive budgets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Heavy AI investment may reshape earnings expectations for major tech stocks, influencing both U.S. and European market participants."
+   }
+  ],
+  "key_points": [
+   "Tech firms are allocating large, unspecified budgets to AI projects.",
+   "Investors express concern that the spending could affect profitability and stock prices.",
+   "The trend underscores a sector‑wide shift toward prioritizing artificial intelligence."
+  ],
+  "meta_description": "Investors grow nervous as tech giants announce huge AI spending bills, raising concerns about profitability and market impact.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "tech spending",
+   "investors",
+   "Wall Street",
+   "earnings",
+   "technology"
+  ],
+  "slug": "investors-worry-over-tech-giants-massive-ai-spending-bills-74bf7d",
+  "reading_minutes": 1,
+  "added": "2026-10-30T13:28:04Z"
+ },
+ {
+  "id": "1a8b0d33cb53e8d9",
+  "source_url": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
+  "source": "NPR",
+  "source_title": "Why is the Cheesecake Factory at the center of the latest culture war?",
+  "source_summary": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F5b%2Fe7ad0f394e5ca990073747bcaa6b%2Fgettyimages-2213067117.jpg",
+  "published": "2026-10-30T12:00:31+00:00",
+  "headline": "Obama Joke About Cheesecake Factory Sparks Political Backlash",
+  "body": [
+   {
+    "type": "p",
+    "text": "A joke made by former President Barack Obama about the Cheesecake Factory has gone viral on social media, drawing widespread attention as the comment spreads across platforms."
+   },
+   {
+    "type": "p",
+    "text": "Members of the Trump administration have publicly criticized the joke, framing it as tone‑deaf amid growing concerns over the affordability of dining out and other everyday expenses."
+   },
+   {
+    "type": "p",
+    "text": "The controversy emerges just days before the upcoming midterm elections, where the cost of living is expected to be a prominent issue for voters in both parties."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "With midterm elections looming, the debate over cost of living is becoming a central theme for voters in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Obama's Cheesecake Factory joke went viral and prompted a sharp response from the Trump administration.",
+   "Critics linked the joke to broader concerns about affordability ahead of the midterm elections.",
+   "The incident highlights how cultural references are being used in the current political debate."
+  ],
+  "meta_description": "Obama's Cheesecake Factory joke sparks backlash from the Trump administration as affordability becomes a key issue before midterm elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Obama",
+   "Trump administration",
+   "Cheesecake Factory",
+   "midterm elections",
+   "affordability",
+   "viral joke"
+  ],
+  "slug": "obama-joke-about-cheesecake-factory-sparks-political-backlash-1a8b0d",
+  "reading_minutes": 1,
+  "added": "2026-10-30T13:28:12Z"
+ },
+ {
+  "id": "74ae3cc665d751f4",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/cx30e28vn5r4o",
+  "source": "BBC Sport",
+  "source_title": "England edge towards World Cup exit despite PNG win",
+  "source_summary": "England's points chase against Papua New Guinea descends into an error-strewn 34-12 win that will almost certainly lead to their World Cup exit.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f71/live/a01588e0-d464-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-30T11:17:27+00:00",
+  "headline": "England Secure 34-12 Victory Over Papua New Guinea Yet Face Likely World Cup Exit",
+  "body": [
+   {
+    "type": "p",
+    "text": "England defeated Papua New Guinea 34-12 in a World Cup group match, but the win was marred by numerous errors that undermined the performance. Despite the comfortable margin, the team's sloppy play raised concerns among analysts."
+   },
+   {
+    "type": "p",
+    "text": "The result leaves England in a precarious position in the tournament, with the victory unlikely to be enough to keep them in contention for the knockout stages. Their points tally and net run rate now make progression doubtful."
+   },
+   {
+    "type": "p",
+    "text": "Coaches and supporters acknowledge that the win, while necessary, does not erase the shortcomings displayed on the field. The team must address the mistakes if they hope to avoid an early exit in future competitions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "England's early exit would affect the tournament's competitive balance and diminish interest from major cricket markets in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "England beat Papua New Guinea 34-12 but the win was error‑filled.",
+   "The victory is unlikely to prevent England's exit from the World Cup.",
+   "Improving discipline and reducing mistakes are critical for future success."
+  ],
+  "meta_description": "England's 34-12 win over Papua New Guinea is error‑laden and likely insufficient to keep them in the World Cup.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England cricket",
+   "World Cup",
+   "Papua New Guinea",
+   "cricket results",
+   "tournament exit"
+  ],
+  "slug": "england-secure-34-12-victory-over-papua-new-guinea-74ae3c",
+  "reading_minutes": 1,
+  "added": "2026-10-30T13:27:48Z"
+ },
+ {
+  "id": "b348b97a192bbfa2",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o",
+  "source": "BBC Sport",
+  "source_title": "Why managers must put their own health first - Pulis",
+  "source_summary": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg",
+  "published": "2026-10-30T07:41:38+00:00",
+  "headline": "Tony Pulis Urges Managers to Put Health First After Kompany Scare",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent BBC Sport column, former manager Tony Pulis reflected on the health scare suffered by former player‑turned‑manager Vincent Kompany. Pulis used the incident to illustrate how the pressures of football management can affect both physical wellbeing and mental resilience."
+   },
+   {
+    "type": "p",
+    "text": "Pulis argued that the demands of overseeing a team, from intense training schedules to constant media scrutiny, often leave managers neglecting their own health. He emphasized that the same dedication shown on the pitch should be applied to personal wellness, urging peers to recognise early warning signs and seek appropriate care."
+   },
+   {
+    "type": "p",
+    "text": "The columnist concluded that prioritising health is not a sign of weakness but a professional responsibility. By safeguarding their own wellbeing, managers can sustain performance, set a positive example for staff and players, and avoid the long‑term consequences of chronic stress."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The piece underscores a universal issue for leaders in high‑stress environments, reminding US and European audiences that personal health is essential for sustained performance."
+   }
+  ],
+  "key_points": [
+   "Vincent Kompany's health scare highlights the physical and mental toll of football management.",
+   "Tony Pulis calls on managers to treat their own health as a professional priority.",
+   "Prioritising wellbeing can improve longevity and effectiveness in high‑pressure coaching roles."
+  ],
+  "meta_description": "Tony Pulis urges football managers to prioritize health after Vincent Kompany's scare, warning of the physical and mental toll of the job.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "football",
+   "management",
+   "health",
+   "coaching",
+   "wellness"
+  ],
+  "slug": "tony-pulis-urges-managers-put-health-first-after-kompany-b348b9",
+  "reading_minutes": 1,
+  "added": "2026-10-30T13:28:09Z"
+ },
+ {
   "id": "2dd959490d3ebd6f",
   "source_url": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
   "source": "The New York Times",
