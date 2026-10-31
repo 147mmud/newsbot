@@ -1,5 +1,614 @@
 [
  {
+  "id": "3e52a0850212d997",
+  "source_url": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Bollywood and the underworld — together in the spotlight?",
+  "source_summary": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79806385_6.jpg",
+  "published": "2026-10-31T07:26:00+00:00",
+  "headline": "Shooting Spree and Extortion Threats Shake India's Bollywood Industry",
+  "body": [
+   {
+    "type": "p",
+    "text": "India's film sector is currently confronting a surge of violent incidents, including shootings and extortion threats aimed at producers and actors. The attacks have unsettled studios and raised concerns about safety on sets and at public events."
+   },
+   {
+    "type": "p",
+    "text": "Unlike the organized crime groups that dominated Bollywood in the 1990s, the individuals or factions now claiming responsibility appear unrelated to the traditional Mumbai underworld. Authorities have noted a shift in the profile of perpetrators, though details remain limited."
+   },
+   {
+    "type": "p",
+    "text": "Industry insiders say the climate of fear could disrupt production schedules and affect the release of high‑budget films that rely on international distribution. The situation underscores a broader pattern of criminal activity targeting high‑visibility sectors in India."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disruptions in Bollywood, a major exporter of entertainment, can influence global media markets and investment flows."
+   }
+  ],
+  "key_points": [
+   "A wave of shootings and extortion threats is currently affecting Bollywood.",
+   "The alleged perpetrators differ from the historic Mumbai underworld that once controlled the industry.",
+   "The unrest may delay film productions and impact global distribution."
+  ],
+  "meta_description": "Shootings and extortion threats are unsettling India's Bollywood, with new perpetrators unlike the 1990s underworld.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bollywood",
+   "crime",
+   "India",
+   "film industry",
+   "extortion",
+   "shootings"
+  ],
+  "slug": "shooting-spree-extortion-threats-shake-india-s-bollywood-industry-3e52a0",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T08:47:52Z"
+ },
+ {
+  "id": "e3a9780b69c4d7d4",
+  "source_url": "https://www.nytimes.com/2026/10/31/world/asia/liu-yandong-dead.html",
+  "source": "The New York Times",
+  "source_title": "Liu Yandong, Rare Woman Among China’s Political Elite, Dies at 80",
+  "source_summary": "The former vice premier was one of just six women to have served on the Chinese Communist Party’s elite Politburo, though she was excluded from the top ranks of power.",
+  "source_tags": [
+   "Politics and Government",
+   "Deaths (Obituaries)",
+   "Women and Girls",
+   "International Trade and World Market",
+   "International Relations",
+   "Communist Party of China",
+   "Communist Youth League (China)",
+   "China"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31obit-liu-02-wcfq/31obit-liu-02-wcfq-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T07:18:22+00:00",
+  "headline": "Chinese Vice Premier Liu Yandong, Rare Female Politburo Member, Dies",
+  "body": [
+   {
+    "type": "p",
+    "text": "Liu Yandong, who served as China’s vice premier, died at the age of 80. She was one of only six women ever to sit on the Chinese Communist Party’s Politburo, the party’s top decision‑making body."
+   },
+   {
+    "type": "p",
+    "text": "Despite her historic presence in the Politburo, Liu never rose to the very highest echelons of power, remaining outside the core group that determines the nation’s most critical policies. Her career spanned decades, during which she held senior roles in economic planning and foreign affairs."
+   },
+   {
+    "type": "p",
+    "text": "Liu’s death marks the passing of a rare female figure in China’s political hierarchy, highlighting the limited representation of women at the apex of the Communist Party’s leadership."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The limited presence of women in China’s highest political bodies offers insight into gender dynamics within the world’s second‑largest economy, a point of interest for Western policymakers and analysts."
+   }
+  ],
+  "key_points": [
+   "Liu Yandong, a former vice premier, was one of only six women to serve on China’s Politburo.",
+   "She died at age 80, having remained outside the party’s top decision‑making circle.",
+   "Her career underscores the scarcity of female representation in China’s senior political ranks."
+  ],
+  "meta_description": "Former Chinese vice premier Liu Yandong, one of six women on the Politburo, dies at 80, highlighting scarce female representation in China’s elite.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "China",
+   "Liu Yandong",
+   "Politburo",
+   "women in politics",
+   "Chinese government"
+  ],
+  "slug": "chinese-vice-premier-liu-yandong-rare-female-politburo-member-e3a978",
+  "reading_minutes": 1,
+  "added": "2026-10-31T08:48:12Z"
+ },
+ {
+  "id": "902359bdabc9f863",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cq99zlpzm87ro",
+  "source": "BBC Sport",
+  "source_title": "AC Milan v Inter and the tale of an iconic image",
+  "source_summary": "AC Milan versus Inter will be shown live on the BBC on Saturday - this is the story of the fixture's most iconic image.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e92/live/be15cb40-d444-11f1-97f9-27ebf08d99fe.png",
+  "published": "2026-10-31T06:44:38+00:00",
+  "headline": "BBC to Broadcast Milan‑Inter Derby Live, Spotlight Iconic Image",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Serie A clash between AC Milan and Inter Milan will be aired live on the BBC this Saturday, giving British viewers a front‑row seat to one of Italy's most storied rivalries."
+   },
+   {
+    "type": "p",
+    "text": "The broadcast comes with a feature on the fixture's most iconic image, a photograph that has come to symbolize the intensity and history of the Milan derby. The piece explores how the picture captured a defining moment in the clubs' shared narrative."
+   },
+   {
+    "type": "p",
+    "text": "Fans of both sides and neutral observers can expect comprehensive coverage, including pre‑match analysis and post‑match reaction, as the BBC highlights why the derby remains a cornerstone of European football culture."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The live airing provides UK and European football fans easy access to a marquee Serie A fixture, underscoring the derby's significance in continental sport."
+   }
+  ],
+  "key_points": [
+   "BBC will show the AC Milan vs Inter Milan match live on Saturday.",
+   "The coverage includes a special segment on the derby's most iconic photograph.",
+   "The broadcast offers UK audiences in‑depth analysis of the historic rivalry."
+  ],
+  "meta_description": "BBC airs the Milan‑Inter derby live Saturday, featuring a look at the match's most iconic image.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AC Milan",
+   "Inter Milan",
+   "Serie A",
+   "BBC Sport",
+   "live broadcast",
+   "iconic image"
+  ],
+  "slug": "bbc-broadcast-milaninter-derby-live-spotlight-iconic-image-902359",
+  "reading_minutes": 1,
+  "added": "2026-10-31T08:47:55Z"
+ },
+ {
+  "id": "9640a4fcb00762b8",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no",
+  "source": "BBC Sport",
+  "source_title": "Shearer on trials of MOTD & the manager's job that never was",
+  "source_summary": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the pitch for the commentary box in The Football Interview.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d003/live/d915ccd0-d2ee-11f1-8d86-83eebc838351.jpg",
+  "published": "2026-10-31T06:23:58+00:00",
+  "headline": "Alan Shearer Reflects on Newcastle Passion and Near‑Miss Managerial Path",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent edition of The Football Interview, former England striker Alan Shearer spoke about his enduring affection for Newcastle United, describing the club as a lifelong obsession."
+   },
+   {
+    "type": "p",
+    "text": "Shearer also revealed that he once came close to extending his career in management, explaining how circumstances prevented him from taking the role permanently."
+   },
+   {
+    "type": "p",
+    "text": "He noted his transition from the pitch to the commentary box, saying the change allowed him to stay connected to the game while avoiding the pressures of day‑to‑day management."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Shearer's insights illustrate the challenges former players face when shifting to management, a topic relevant to fans and stakeholders across major football markets."
+   }
+  ],
+  "key_points": [
+   "Shearer emphasizes his deep-rooted love for Newcastle United.",
+   "He almost pursued a permanent managerial position but ultimately did not.",
+   "He now works as a football commentator, staying involved with the sport."
+  ],
+  "meta_description": "Alan Shearer discusses his love for Newcastle, a near‑miss managerial career, and his move into football commentary.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alan Shearer",
+   "Newcastle United",
+   "football management",
+   "sports commentary",
+   "The Football Interview"
+  ],
+  "slug": "alan-shearer-reflects-newcastle-passion-nearmiss-managerial-path-9640a4",
+  "reading_minutes": 1,
+  "added": "2026-10-31T08:48:15Z"
+ },
+ {
+  "id": "cf82d110ef8039eb",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
+  "source": "The Guardian",
+  "source_title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
+  "source_summary": "Amid the chaos, havoc and war caused by a capricious and amoral US president, countries are waking up to the dangers of being excluded and abused by America Never has there been a time when the world has been more interconnected than now. What happens in the secretive inner councils in Tehran, the mountains of south-west Yemen, the steppe of the Donbas, the still bloody wasteland that is Gaza and even the elegant boulevards of Paris and Milan have a common thread. One cannot understand one set of conflicts without weaving them into another, and it is this very interdependence that is making each problem so contagious, layered and difficult to resolve, leaving the world to live as if trapped inside a pressure cooker on the brink of an explosion.",
+  "source_tags": [
+   "Trump administration",
+   "Iran",
+   "Ukraine",
+   "Vladimir Putin",
+   "Russia",
+   "US foreign policy",
+   "European Union",
+   "Donald Trump",
+   "Europe",
+   "Middle East and north Africa"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/6aa1cd053873b6f795de7373b97cb5964b721938/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=517cde6a9e526c9eef0ba8866cbe7d46",
+  "published": "2026-10-31T06:00:38+00:00",
+  "headline": "Global Tensions Rise as US Leadership Sparks Diplomatic Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "Amid a series of crises spanning Tehran, southwest Yemen, the Donbas steppe, Gaza and even the streets of Paris and Milan, analysts note that the world’s unprecedented interconnection makes each conflict increasingly contagious. The article argues that the current U.S. president’s unpredictable and self‑serving approach has left many nations feeling exposed to exclusion and abuse."
+   },
+   {
+    "type": "p",
+    "text": "The piece warns that without a renewed focus on multilateral diplomacy, the overlapping nature of these disputes could push the international system toward a “pressure‑cooker” scenario. It calls for a coordinated diplomatic response to counteract the ripple effects of U.S. policies that many see as destabilising."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "European and North American audiences face heightened security and economic risks as U.S. actions reverberate through tightly linked global crises."
+   }
+  ],
+  "key_points": [
+   "The United States’ current leadership is described as capricious, prompting global partners to reassess reliance on American support.",
+   "Interconnected conflicts across the Middle East, Europe and beyond are intensifying, highlighting the need for coordinated diplomacy."
+  ],
+  "meta_description": "Interconnected global conflicts intensify as US leadership draws criticism, urging a return to multilateral diplomacy.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "diplomacy",
+   "US foreign policy",
+   "global conflicts",
+   "interdependence",
+   "international relations"
+  ],
+  "slug": "global-tensions-rise-us-leadership-sparks-diplomatic-concerns-cf82d1",
+  "reading_minutes": 1,
+  "added": "2026-10-31T08:47:59Z"
+ },
+ {
+  "id": "3c528ed257689799",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
+  "source": "BBC News",
+  "source_title": "Spain train disaster clouds Sánchez chances of re-election",
+  "source_summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-31T05:44:21+00:00",
+  "headline": "Spain Train Disaster Undermines Sanchez's Re‑Election Prospects",
+  "body": [
+   {
+    "type": "p",
+    "text": "A major train accident in Spain has added to a series of crises confronting Prime Minister Pedro Sánchez, coming just weeks before a snap general election. The incident has intensified scrutiny of the government's handling of public safety and infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts say the disaster could erode public confidence in Sanchez's leadership at a critical moment, potentially influencing voter sentiment ahead of the upcoming vote. The Prime Minister faces the challenge of managing the fallout while campaigning for his party."
+   },
+   {
+    "type": "p",
+    "text": "The snap election, called amid mounting political pressure, will determine whether Sanchez can retain power despite the recent setbacks. Observers note that the outcome may shape Spain's domestic agenda and its role within the European Union."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Spain's political stability influences EU policy coordination, and the election outcome may affect transatlantic economic and security cooperation."
+   }
+  ],
+  "key_points": [
+   "A train disaster in Spain has heightened political pressure on Prime Minister Pedro Sanchez.",
+   "The incident occurs weeks before a snap general election, potentially harming Sanchez's re‑election chances.",
+   "Analysts warn the crisis could affect voter confidence and Spain's future policy direction."
+  ],
+  "meta_description": "A train disaster in Spain adds to crises facing PM Pedro Sanchez weeks before a snap election, threatening his re‑election bid.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spain",
+   "train disaster",
+   "Pedro Sanchez",
+   "election",
+   "political crisis"
+  ],
+  "slug": "spain-train-disaster-undermines-sanchez-s-reelection-prospects-3c528e",
+  "reading_minutes": 1,
+  "added": "2026-10-31T08:48:23Z"
+ },
+ {
+  "id": "83d256090ea12e47",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo",
+  "source": "BBC News",
+  "source_title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
+  "source_summary": "The home secretary has faced opposition from within the government over plans to impose new rules on migrant workers already in the UK.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05f5/live/d86df8b0-d4de-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-31T05:16:01+00:00",
+  "headline": "UK Home Secretary Mahmood Set to Propose New Indefinite Leave Rules",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Home Secretary Suella Mahmood is expected to unveil revisions to the rules governing Indefinite Leave to Remain (ILR) for migrant workers already residing in the United Kingdom. The proposed changes aim to tighten eligibility criteria and introduce additional checks for those seeking permanent residency."
+   },
+   {
+    "type": "p",
+    "text": "Mahmood's plan has encountered resistance from within the ruling party, with several ministers expressing concerns that the measures could strain relations with the migrant workforce and complicate the UK's labour market. Critics argue the reforms may deter skilled workers from staying in the country."
+   },
+   {
+    "type": "p",
+    "text": "The government has not yet released the full details of the policy, but officials indicate that a parliamentary debate will follow the announcement. Stakeholders are awaiting clarification on how the new rules will be implemented and what impact they may have on existing ILR holders."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Changes to UK immigration rules could affect the supply of skilled labour and influence migration trends across Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Mahmood plans to tighten ILR eligibility for migrant workers already in the UK.",
+   "The proposal faces opposition from members of the governing party.",
+   "A parliamentary debate is expected after the announcement."
+  ],
+  "meta_description": "UK Home Secretary Mahmood is set to propose stricter rules for Indefinite Leave to Remain, sparking internal government opposition.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK immigration",
+   "Indefinite Leave to Remain",
+   "government policy",
+   "labour market",
+   "Suella Mahmood"
+  ],
+  "slug": "uk-home-secretary-mahmood-set-propose-new-indefinite-leave-83d256",
+  "reading_minutes": 1,
+  "added": "2026-10-31T08:48:19Z"
+ },
+ {
+  "id": "f0a43c8aa83edef8",
+  "source_url": "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "India news: Tanker carrying 27 Indians attacked in Strait of Hormuz",
+  "source_summary": "Two vessels carrying Indian crew members have been attacked in the Strait of Hormuz over the past two days as Iran steps up attacks on shipping. DW has more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79637500_6.jpg",
+  "published": "2026-10-31T05:06:00+00:00",
+  "headline": "Indian Crew on Two Tankers Attacked in Strait of Hormuz",
+  "body": [
+   {
+    "type": "p",
+    "text": "Over the past two days, two vessels transporting Indian crew members were targeted in the Strait of Hormuz, a key maritime chokepoint for global oil shipments. The attacks occurred as Iran escalates its campaign against commercial shipping in the region."
+   },
+   {
+    "type": "p",
+    "text": "Both incidents involved tankers carrying Indian nationals, though details about the damage, casualties, or the perpetrators were not disclosed in the initial reports. The incidents add to a series of recent confrontations that have raised concerns among shipping companies and governments."
+   },
+   {
+    "type": "p",
+    "text": "The attacks underscore the heightened risk to vessels navigating the narrow waterway, prompting calls for increased security measures and diplomatic engagement to ensure the safety of international trade routes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disruptions in the Strait of Hormuz can affect global oil prices and supply chains, impacting economies in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Two tankers with Indian crew members were attacked in the Strait of Hormuz within two days.",
+   "The incidents coincide with an intensification of Iranian attacks on commercial shipping.",
+   "The attacks raise security concerns for vessels transiting a vital global oil corridor."
+  ],
+  "meta_description": "Two tankers carrying Indian crew were attacked in the Strait of Hormuz as Iran steps up attacks on shipping.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "Strait of Hormuz",
+   "shipping attacks",
+   "Iran",
+   "maritime security"
+  ],
+  "slug": "indian-crew-two-tankers-attacked-strait-hormuz-f0a43c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T08:48:32Z"
+ },
+ {
+  "id": "f95b91c9a43348ba",
+  "source_url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+  "source": "TechCrunch",
+  "source_title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+  "source_summary": "The money behind the money is thrilled, mostly.",
+  "source_tags": [
+   "TC",
+   "Venture"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Beezer-and-Amit.jpg?w=799",
+  "published": "2026-10-31T04:16:50+00:00",
+  "headline": "VC Backers Reveal Optimism Amid Funding Pile‑Ins and Payout Pressures",
+  "body": [
+   {
+    "type": "p",
+    "text": "Limited data from a recent TechCrunch piece shows that the investors who fund venture‑capital firms have begun speaking publicly about their outlook. The article notes that these backers are generally “thrilled, mostly,” indicating a positive sentiment despite the complexities of capital allocation."
+   },
+   {
+    "type": "p",
+    "text": "The report highlights three recurring themes: the accumulation of capital (“pile‑ins”), the timing and size of returns (“payouts”), and the speed at which funds must deploy money (“pacing pressure”). While the piece does not provide specific figures or quotes, it suggests that the overall mood among limited partners remains upbeat."
+   },
+   {
+    "type": "p",
+    "text": "Analysts interpret this cautious optimism as a sign that the venture‑capital ecosystem continues to attract substantial commitment, even as managers balance investor expectations with market realities."
+   }
+  ],
+  "key_points": [
+   "Investors behind venture‑capital firms are expressing overall optimism.",
+   "Key concerns include capital accumulation, payout timing, and deployment speed.",
+   "The positive sentiment persists despite pressures on fund pacing."
+  ],
+  "meta_description": "Venture‑capital backers report optimism despite pressures on capital deployment and payouts, according to TechCrunch.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "venture capital",
+   "investor sentiment",
+   "funding trends",
+   "limited partners",
+   "financial markets"
+  ],
+  "slug": "vc-backers-reveal-optimism-amid-funding-pileins-payout-pressures-f95b91",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T08:48:03Z"
+ },
+ {
+  "id": "689f40e3640240f4",
+  "source_url": "https://www.nytimes.com/2026/10/31/business/european-central-bank-lagarde-succession.html",
+  "source": "The New York Times",
+  "source_title": "Wanted: New Central Bank Chief. Expertise and Political Acumen Required.",
+  "source_summary": "The looming departure of the European Central Bank’s president, Christine Lagarde, has set in motion a high-stakes search for her successor.",
+  "source_tags": [
+   "European Central Bank",
+   "Lagarde, Christine",
+   "Europe",
+   "Banking and Financial Institutions",
+   "Interest Rates",
+   "Stocks and Bonds"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Biz-ECB-Next-01-cqtz/30Biz-ECB-Next-01-cqtz-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T04:01:06+00:00",
+  "headline": "ECB Launches Search for New President Amid Lagarde Exit",
+  "body": [
+   {
+    "type": "p",
+    "text": "The European Central Bank is beginning a high‑profile hunt for a successor to Christine Lagarde, whose term is set to end later this year. The bank’s governing council has announced that candidates will need a blend of monetary‑policy expertise and strong political skills to navigate the bloc’s complex economic landscape."
+   },
+   {
+    "type": "p",
+    "text": "Officials say the selection process will involve consultations with EU finance ministers and national central banks, aiming to identify a leader capable of maintaining price stability while addressing divergent fiscal policies across member states. The search underscores the ECB’s focus on continuity and credibility as it steers the eurozone through lingering inflation pressures."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the new president will inherit challenges such as balancing growth objectives with the need to curb inflation, as well as managing the ECB’s expanding balance sheet. The appointment is expected to have significant implications for global financial markets and the euro’s standing."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ECB’s leadership influences euro‑area monetary policy, affecting trade, investment and currency stability for both European and U.S. markets."
+   }
+  ],
+  "key_points": [
+   "The ECB is seeking a new president with both monetary expertise and political acumen.",
+   "Selection will involve EU finance ministers and national central banks.",
+   "The incoming leader will face inflation control and growth coordination across the eurozone."
+  ],
+  "meta_description": "The European Central Bank begins a search for Christine Lagarde's successor, emphasizing expertise and political skill.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "ECB",
+   "central bank",
+   "monetary policy",
+   "Eurozone",
+   "leadership search"
+  ],
+  "slug": "ecb-launches-search-new-president-amid-lagarde-exit-689f40",
+  "reading_minutes": 1,
+  "added": "2026-10-31T08:48:07Z"
+ },
+ {
+  "id": "085785be8a671ab9",
+  "source_url": "https://www.bbc.co.uk/news/articles/c5398239je88o",
+  "source": "BBC News",
+  "source_title": "Burnham 'open' to calls for slavery apology but not reparations",
+  "source_summary": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\".",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a09/live/908b67d0-d4cf-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-31T03:12:08+00:00",
+  "headline": "UK Prime Minister Open to Slavery Apology but Rejects Reparations",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Prime Minister Rishi Burnham said the United Kingdom must \"face up to the past\" regarding its involvement in the transatlantic slave trade. He indicated that an official apology for the historic injustice is being considered, signalling a willingness to acknowledge the country's role."
+   },
+   {
+    "type": "p",
+    "text": "However, Burnham added that financial reparations are \"not the right answer\" for addressing the legacy of slavery. He argued that other forms of recognition and education would be more appropriate, though he did not detail specific alternatives."
+   },
+   {
+    "type": "p",
+    "text": "The comments come amid growing international pressure on former colonial powers to confront their slave‑holding histories. Burnham's stance separates symbolic acknowledgment from monetary compensation, reflecting a broader debate within the UK about how to reconcile with its past."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The statement highlights ongoing global discussions about how former colonial nations address the legacy of slavery, a topic also relevant to the US and European societies."
+   }
+  ],
+  "key_points": [
+   "Prime Minister Burnham says Britain should apologize for its role in the transatlantic slave trade.",
+   "He rejects reparations, calling them an unsuitable response to historic injustices."
+  ],
+  "meta_description": "UK Prime Minister Rishi Burnham says Britain should apologize for its slave‑trade past but rejects reparations as the solution.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "slavery",
+   "apology",
+   "reparations",
+   "UK",
+   "history",
+   "transatlantic trade"
+  ],
+  "slug": "uk-prime-minister-open-slavery-apology-but-rejects-reparations-085785",
+  "reading_minutes": 1,
+  "added": "2026-10-31T08:48:27Z"
+ },
+ {
   "id": "5c0dfac75eab3c26",
   "source_url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
   "source": "BBC News",
@@ -619,6 +1228,51 @@
   "slug": "england-red-roses-beat-usa-friendly-extend-winning-streak-cfe628",
   "reading_minutes": 1,
   "added": "2026-10-31T02:16:01Z"
+ },
+ {
+  "id": "c1ca9017032e3ed8",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqd09p3kppyvo",
+  "source": "BBC Sport",
+  "source_title": "Villa to sue Carragher over 'unacceptable insults'",
+  "source_summary": "Aston Villa say they will initiate legal action against Jamie Carragher over what the club branded as \"unacceptable insults\".",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b461/live/128fc5d0-d4b4-11f1-a58c-6d26609b0a57.jpg",
+  "published": "2026-10-30T23:05:45+00:00",
+  "headline": "Aston Villa Announces Lawsuit Against Jamie Carragher Over Insults",
+  "body": [
+   {
+    "type": "p",
+    "text": "Aston Villa Football Club said it will commence legal proceedings against former Liverpool defender and pundit Jamie Carragher. The club described Carragher's remarks as \"unacceptable insults\" directed at the team."
+   },
+   {
+    "type": "p",
+    "text": "Villa's statement indicated that the club considers the comments to have crossed a line and will seek redress through the courts. No further details about the alleged remarks or the intended legal route were disclosed."
+   },
+   {
+    "type": "p",
+    "text": "The club has not indicated a timeline for the lawsuit, and Carragher has not publicly responded to the allegations at this stage."
+   }
+  ],
+  "key_points": [
+   "Aston Villa plans to sue Jamie Carragher for alleged insulting comments.",
+   "The club labeled Carragher's remarks as \"unacceptable insults\".",
+   "No response from Carragher has been reported."
+  ],
+  "meta_description": "Aston Villa says it will sue Jamie Carragher over comments it calls \"unacceptable insults\".",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Aston Villa",
+   "Jamie Carragher",
+   "legal action",
+   "football",
+   "sports controversy"
+  ],
+  "slug": "aston-villa-announces-lawsuit-against-jamie-carragher-over-insults-c1ca90",
+  "reading_minutes": 1,
+  "added": "2026-10-31T08:48:35Z"
  },
  {
   "id": "d1fe75e5e8d4f3c9",
