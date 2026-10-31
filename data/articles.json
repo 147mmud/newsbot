@@ -1,5 +1,669 @@
 [
  {
+  "id": "5fcb2bc59ce028bf",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o",
+  "source": "BBC Sport",
+  "source_title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+  "source_summary": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/c15e4960-d55e-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-10-31T22:30:16+00:00",
+  "headline": "Chelsea Defeat 10-Man Manchester United 2-0, Carrick Under Pressure",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chelsea secured a 2-0 victory over Manchester United at Stamford Bridge on Saturday, extending the hosts' winning run and deepening United's woes. The match turned decisive after United defender Lisandro Martinez was shown a red card, leaving the visitors with ten men for the remainder of the game."
+   },
+   {
+    "type": "p",
+    "text": "Without Martinez, United struggled to create chances and were unable to respond to Chelsea's attacks, which yielded both goals. The defeat adds to the mounting criticism aimed at Manchester United's manager Michael Carrick, who has been described as under fire following a string of poor results."
+   },
+   {
+    "type": "p",
+    "text": "The win not only boosts Chelsea's confidence but also intensifies the scrutiny on Carrick as he seeks to reverse United's slide in the league standings."
+   }
+  ],
+  "key_points": [
+   "Chelsea beat Manchester United 2-0 at Stamford Bridge.",
+   "Lisandro Martinez was sent off, reducing United to ten men.",
+   "The loss increases pressure on Manchester United manager Michael Carrick."
+  ],
+  "meta_description": "Chelsea's 2-0 win over a 10-man Manchester United heightens pressure on manager Michael Carrick.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chelsea",
+   "Manchester United",
+   "Premier League",
+   "Michael Carrick",
+   "Lisandro Martinez"
+  ],
+  "slug": "chelsea-defeat-10-man-manchester-united-2-0-carrick-5fcb2b",
+  "reading_minutes": 1,
+  "added": "2026-10-31T22:46:41Z"
+ },
+ {
+  "id": "96dc69c4b8141f0a",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cqx28l2gdepxo",
+  "source": "BBC Sport",
+  "source_title": "Brighton pick up first away league victory over Man City to go third",
+  "source_summary": "Brighton pick up their first away league victory at Manchester City after winning 1-0 at the Etihad to condemn City to back-to-back defeats in the Premier League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/ef24d060-d560-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-31T22:30:05+00:00",
+  "headline": "Brighton Earn First Ever Away League Win at Man City, 1-0",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brighton secured a historic 1-0 victory at Manchester City's Etihad Stadium, marking their first away league win against the defending champions. The solitary goal was enough to break City’s unbeaten home run and handed the home side consecutive defeats in the Premier League."
+   },
+   {
+    "type": "p",
+    "text": "The result moved Brighton up to third place in the league table, while Manchester City slipped further down after back-to-back losses. The win underscores Brighton’s growing competitiveness in the top tier and highlights the challenges City face in maintaining their dominance."
+   },
+   {
+    "type": "p",
+    "text": "Both clubs will look to regroup ahead of their next fixtures, with Brighton aiming to build on the momentum and City seeking to halt their recent slide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The upset signals a shift in Premier League dynamics, showing that traditional powerhouses can be challenged by well-organised clubs."
+   }
+  ],
+  "key_points": [
+   "Brighton beat Manchester City 1-0 at the Etihad, their first away league win over the club.",
+   "The loss gave City back-to-back Premier League defeats and dropped them in the standings.",
+   "Brighton’s victory lifted them to third place in the table."
+  ],
+  "meta_description": "Brighton achieve their first away league win at Manchester City, 1-0, sending City to consecutive defeats and moving Brighton to third place.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Premier League",
+   "Brighton",
+   "Manchester City",
+   "football",
+   "upset"
+  ],
+  "slug": "brighton-earn-first-ever-away-league-win-man-city-96dc69",
+  "reading_minutes": 1,
+  "added": "2026-10-31T22:47:01Z"
+ },
+ {
+  "id": "ee0d3108a8b27deb",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cm93zv0zkjqlo",
+  "source": "BBC Sport",
+  "source_title": "Coventry out of bottom three after win over struggling Sunderland",
+  "source_summary": "Frank Lampard's Coventry City lift themselves out of the relegation zone after beating struggling Sunderland, who remain rooted to the bottom of the Premier League table.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6971/live/776ab830-d562-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-31T22:29:50+00:00",
+  "headline": "Coventry City Escape Relegation Zone with Victory Over Sunderland",
+  "body": [
+   {
+    "type": "p",
+    "text": "Frank Lampard's Coventry City moved out of the Premier League's bottom three after a hard‑fought win against Sunderland. The win lifted Coventry off the relegation spots, while Sunderland remained anchored at the foot of the table."
+   },
+   {
+    "type": "p",
+    "text": "The result changes the dynamics at the lower end of the league, giving Coventry a brief respite from the survival scramble and leaving Sunderland still fighting to avoid the drop."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift affects the ongoing relegation battle in the Premier League, a competition closely followed by fans across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Coventry City climbed out of the relegation zone with a win over Sunderland.",
+   "Sunderland stayed at the bottom of the Premier League after the loss."
+  ],
+  "meta_description": "Coventry City lifts themselves out of the Premier League relegation zone after beating Sunderland, who stay at the bottom.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Coventry City",
+   "Sunderland",
+   "Premier League",
+   "relegation battle",
+   "football"
+  ],
+  "slug": "coventry-city-escape-relegation-zone-with-victory-over-sunderland-ee0d31",
+  "reading_minutes": 1,
+  "added": "2026-10-31T22:47:28Z"
+ },
+ {
+  "id": "ebf152df9eedad20",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o",
+  "source": "BBC News",
+  "source_title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+  "source_summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+  "published": "2026-10-31T22:11:45+00:00",
+  "headline": "Binance Recovers 90% of $6.3bn Hack Losses, FBI Blames North Korea",
+  "body": [
+   {
+    "type": "p",
+    "text": "Crypto exchange Binance announced it has reimbursed roughly 90% of the funds lost in the massive $6.3 billion cyber‑theft that hit the platform earlier this year. The company said the restitution was made possible through its insurance pool and internal reserves, though a small portion of the loss remains unrecovered."
+   },
+   {
+    "type": "p",
+    "text": "The Federal Bureau of Investigation identified a North Korean state‑linked hacking group as the perpetrators behind the breach. According to the FBI, the group used sophisticated techniques to infiltrate Binance’s systems and divert assets to a series of offshore wallets."
+   },
+   {
+    "type": "p",
+    "text": "Binance’s swift partial repayment aims to restore confidence among its global user base, which includes millions of retail and institutional investors. The firm also pledged to enhance its security protocols and cooperate with law‑enforcement agencies to trace the remaining funds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights ongoing cyber‑security risks in the cryptocurrency sector, affecting investors and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Binance has covered about 90% of the $6.3 billion loss from the hack.",
+   "The FBI attributes the attack to a North Korean hacking outfit.",
+   "The exchange is strengthening security and working with authorities to recover the rest."
+  ],
+  "meta_description": "Binance reimburses 90% of $6.3bn hack losses after FBI links the attack to North Korea, raising crypto security concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Binance",
+   "hack",
+   "North Korea",
+   "FBI",
+   "cryptocurrency",
+   "cybercrime"
+  ],
+  "slug": "binance-recovers-90-6-3bn-hack-losses-fbi-blames-ebf152",
+  "reading_minutes": 1,
+  "added": "2026-10-31T22:46:45Z"
+ },
+ {
+  "id": "9d5bb642693228a6",
+  "source_url": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+  "source": "The New York Times",
+  "source_title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+  "source_summary": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime.",
+  "source_tags": [
+   "Cyberwarfare and Defense",
+   "Cyberattacks and Hackers",
+   "North Korea",
+   "Kim Jong-un",
+   "Zhou, Ben (Financial Executive)",
+   "Federal Bureau of Investigation",
+   "Bangladesh Bank",
+   "Binance",
+   "Lazarus Group",
+   "Sony Corporation"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-nkorea-hacking-wtk-lpjv/31int-nkorea-hacking-wtk-lpjv-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T22:09:47+00:00",
+  "headline": "FBI Links North Korean Hackers to $6.3 Billion Binance Heist",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal investigators have identified a group of North Korean cyber actors as the perpetrators behind the recent theft of approximately $6.3 billion from the cryptocurrency exchange Binance. The breach, reported this week, represents the largest loss ever recorded in the crypto sector."
+   },
+   {
+    "type": "p",
+    "text": "According to the FBI, the hackers employed sophisticated techniques to infiltrate Binance’s systems and move the stolen assets across multiple digital wallets. This operation follows a pattern of previous cyber‑thefts attributed to the same state‑backed group, which has been active in targeting financial institutions worldwide."
+   },
+   {
+    "type": "p",
+    "text": "The agency warned that the stolen funds could be laundered through a network of shell companies and illicit exchanges, complicating efforts to recover the assets. Binance has pledged to cooperate with authorities and enhance its security protocols to prevent future attacks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The scale of the loss underscores vulnerabilities in global crypto markets, raising concerns for investors and regulators in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "The FBI attributes the $6.3 billion Binance hack to North Korean hackers.",
+   "The theft is the biggest crypto heist on record and part of a series of state‑sponsored cybercrimes.",
+   "Recovery of the stolen funds may be difficult due to complex laundering schemes."
+  ],
+  "meta_description": "FBI says North Korean hackers stole $6.3 billion from Binance, marking the largest crypto hack ever.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "North Korea",
+   "cybercrime",
+   "cryptocurrency",
+   "Binance",
+   "FBI",
+   "financial security"
+  ],
+  "slug": "fbi-links-north-korean-hackers-6-3-billion-binance-9d5bb6",
+  "reading_minutes": 1,
+  "added": "2026-10-31T22:47:12Z"
+ },
+ {
+  "id": "b67a9ee984b3e031",
+  "source_url": "https://www.nytimes.com/2026/10/31/world/europe/france-protests-clashes.html",
+  "source": "The New York Times",
+  "source_title": "Clashes Erupt Again in France, After Festive Start to Day of Protest",
+  "source_summary": "More than 300,000 people took to the streets, some wearing Halloween costumes, before the demonstrations ended in violence.",
+  "source_tags": [
+   "Demonstrations, Protests and Riots",
+   "Politics and Government",
+   "Le Pen, Marine",
+   "France",
+   "Paris (France)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-france-protests-leadall-vpqj/31int-france-protests-leadall-vpqj-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T21:50:29+00:00",
+  "headline": "Violent Clashes Break Out in France After Large Day of Protest",
+  "body": [
+   {
+    "type": "p",
+    "text": "More than 300,000 people gathered in cities across France for a nationally coordinated protest, many dressed in Halloween costumes. The demonstration began with a festive atmosphere, reflecting the holiday spirit that coincided with the planned march."
+   },
+   {
+    "type": "p",
+    "text": "As the day progressed, tensions escalated and the protests turned violent. Police reported confrontations with demonstrators, leading to clashes that spread through several urban areas. Authorities deployed additional forces to restore order as the unrest continued into the evening."
+   },
+   {
+    "type": "p",
+    "text": "The unrest marks a renewed surge of public dissent in France, following earlier episodes of unrest earlier this year. Officials have not yet released detailed casualty figures, but the incidents underscore the volatile nature of the current protest movement."
+   }
+  ],
+  "key_points": [
+   "Over 300,000 participants marched in France, many wearing Halloween costumes.",
+   "The protest, initially festive, devolved into violent clashes with police.",
+   "Authorities responded with increased police presence to quell the unrest."
+  ],
+  "meta_description": "More than 300,000 protestors in France, some in Halloween costumes, saw demonstrations turn violent, prompting police intervention.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "violence",
+   "Halloween costumes",
+   "demonstrations"
+  ],
+  "slug": "violent-clashes-break-out-france-after-large-day-protest-b67a9e",
+  "reading_minutes": 1,
+  "added": "2026-10-31T22:47:36Z"
+ },
+ {
+  "id": "89c6cb6d29717113",
+  "source_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+  "source": "TechCrunch",
+  "source_title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+  "source_summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+  "source_tags": [
+   "AI",
+   "Apple",
+   "John Ternus"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+  "published": "2026-10-31T21:41:00+00:00",
+  "headline": "Apple CEO Says Company Won’t Release AI Just for Its Own Sake",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple’s newly appointed chief executive reaffirmed the company’s cautious stance on artificial intelligence, emphasizing that Apple does not intend to launch AI products merely for the sake of having AI."
+   },
+   {
+    "type": "p",
+    "text": "In a recent statement, the CEO defended Apple’s current approach within the rapidly evolving AI landscape, suggesting that the firm will prioritize meaningful user value over chasing trends."
+   },
+   {
+    "type": "p",
+    "text": "The remarks signal that Apple plans to integrate AI thoughtfully, aligning new features with its broader design and privacy principles rather than rushing to match competitors."
+   }
+  ],
+  "key_points": [
+   "Apple’s CEO says the company will not ship AI simply to be part of the trend.",
+   "The leadership defended a measured, value‑focused AI strategy amid industry hype."
+  ],
+  "meta_description": "Apple's CEO says the firm will not release AI just for its own sake, defending a cautious, value‑driven approach.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "Artificial Intelligence",
+   "CEO",
+   "Technology Strategy",
+   "Industry Trends"
+  ],
+  "slug": "apple-ceo-says-company-wont-release-ai-just-its-89c6cb",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T22:47:08Z"
+ },
+ {
+  "id": "cefcb0bd2478e838",
+  "source_url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+  "source": "TechCrunch",
+  "source_title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+  "source_summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+  "source_tags": [
+   "AI",
+   "Biotech & Health",
+   "Climate",
+   "Fintech",
+   "Fundraising",
+   "Startups",
+   "TC",
+   "Venture",
+   "TechCrunch Founder Summit 2026"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+  "published": "2026-10-31T21:36:07+00:00",
+  "headline": "TechCrunch Founder Summit Offers Networking to Scale Startups",
+  "body": [
+   {
+    "type": "p",
+    "text": "On November 4, TechCrunch will host its Founder Summit at Boston’s SoWa Power Station. The full‑day event is designed to give entrepreneurs a concentrated schedule of meaningful networking, actionable insights and potential partnerships."
+   },
+   {
+    "type": "p",
+    "text": "Attendees can expect a lineup of sessions aimed at helping founders refine their ideas and accelerate growth. Organizers emphasize that the connections made at the summit could alter the trajectory of a startup."
+   },
+   {
+    "type": "p",
+    "text": "Registration is open now, with a warning that ticket prices will increase at the door. Participants are encouraged to secure their spots early to take advantage of the current rates."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European entrepreneurs, the event offers a rare chance to meet investors and peers in a single day, potentially accelerating their business growth."
+   }
+  ],
+  "key_points": [
+   "The summit provides a full day of networking and practical advice for startup founders.",
+   "It takes place on November 4 at Boston’s SoWa Power Station.",
+   "Early registration avoids higher on‑site ticket prices."
+  ],
+  "meta_description": "TechCrunch Founder Summit on Nov 4 in Boston offers a full day of networking and insights for startups; register now before prices rise.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "startup",
+   "networking",
+   "TechCrunch",
+   "founder summit",
+   "Boston event"
+  ],
+  "slug": "techcrunch-founder-summit-offers-networking-scale-startups-cefcb0",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T22:47:32Z"
+ },
+ {
+  "id": "79463c6a033445bb",
+  "source_url": "https://www.npr.org/2026/10/31/nx-s1-6023294/what-a-midterm-race-in-kentucky-says-about-how-democrats-may-do-in-trump-strongholds",
+  "source": "NPR",
+  "source_title": "What a midterm race in Kentucky says about how Democrats may do in Trump strongholds",
+  "source_summary": "Democrats are putting up a fight in midterm races this year that went for President Donald Trump by double digits in 2024. Kentucky Public Radio's Sylvia Goodman explains what we can learn from one Kentucky district.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-31T21:14:36+00:00",
+  "headline": "Democrats Challenge Trump Strongholds in Kentucky Midterm Race",
+  "body": [
+   {
+    "type": "p",
+    "text": "In Kentucky, Democratic candidates are mounting competitive campaigns in districts that President Donald Trump carried by double digits in the 2024 election. The effort reflects a broader strategy by the party to contest seats in traditionally Republican areas during this year's midterm cycle."
+   },
+   {
+    "type": "p",
+    "text": "Sylvia Goodman of Kentucky Public Radio highlighted the significance of the race, noting that while the GOP maintains a sizable advantage, the Democrats are focusing on grassroots organizing and targeted messaging to narrow margins. The campaign’s emphasis on local issues aims to resonate with voters who previously supported Trump."
+   },
+   {
+    "type": "p",
+    "text": "Analysts suggest that the outcomes in such districts could offer insight into the Democratic Party’s ability to make inroads in other Trump-favoring regions across the country. The Kentucky contest serves as a test case for whether intensified outreach can translate into electoral gains despite historical voting patterns."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The race illustrates how U.S. political dynamics are shifting in traditionally Republican areas, a trend that could influence future congressional balances and inform European observers of American electoral changes."
+   }
+  ],
+  "key_points": [
+   "Democrats are actively contesting Kentucky districts Trump won by double digits in 2024.",
+   "The campaign relies on grassroots efforts and local issue focus to appeal to Republican voters.",
+   "Results may indicate the party's potential to compete in other Trump-leaning strongholds."
+  ],
+  "meta_description": "Democrats are fighting hard in Kentucky districts Trump won by double digits, testing their ability to win in Republican strongholds.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterms",
+   "Kentucky",
+   "Democrats",
+   "Republicans",
+   "Trump",
+   "grassroots"
+  ],
+  "slug": "democrats-challenge-trump-strongholds-kentucky-midterm-race-79463c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T22:46:59Z"
+ },
+ {
+  "id": "a6f4d82f698bd79b",
+  "source_url": "https://www.npr.org/2026/10/31/nx-s1-6019312/election-officials-worry-about-doj-monitoring-of-tuesdays-vote",
+  "source": "NPR",
+  "source_title": "Election officials worry about DOJ monitoring of Tuesday's vote",
+  "source_summary": "Some election officials have been notified that the DOJ will be monitoring their polling stations. NPR's voting correspondent Miles Parks explains what he's watching for on election day - and afterwards.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-10-31T21:14:31+00:00",
+  "headline": "Election Officials Alerted to DOJ Monitoring of Polling Sites on Tuesday",
+  "body": [
+   {
+    "type": "p",
+    "text": "Several local election officials have received notices that the Department of Justice will be observing voting operations at their polling places on Tuesday. The notification, which has prompted concern among some officials, indicates that federal monitors will be present to ensure compliance with voting laws."
+   },
+   {
+    "type": "p",
+    "text": "NPR voting correspondent Miles Parks says he will be tracking how the DOJ presence affects the administration of the vote and any subsequent legal challenges. He plans to report on whether the monitoring leads to changes in procedures, delays, or disputes over ballot handling."
+   },
+   {
+    "type": "p",
+    "text": "The announcement comes amid heightened scrutiny of election integrity across the United States, with officials and observers watching for any impact on voter access and confidence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Federal oversight of polling places could influence voter experience and legal outcomes in a closely watched election cycle."
+   }
+  ],
+  "key_points": [
+   "Local officials have been told the DOJ will monitor polling stations on Tuesday.",
+   "NPR correspondent Miles Parks will report on the effects of federal monitoring during and after the vote.",
+   "The move adds to ongoing national focus on election security and voter confidence."
+  ],
+  "meta_description": "Election officials learn DOJ will monitor polling stations Tuesday; NPR's Miles Parks tracks potential impacts on voting and post-election proceedings.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "DOJ",
+   "election monitoring",
+   "voting",
+   "polling stations",
+   "election integrity"
+  ],
+  "slug": "election-officials-alerted-doj-monitoring-polling-sites-tuesday-a6f4d8",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T22:47:27Z"
+ },
+ {
+  "id": "1f18179676b73eaa",
+  "source_url": "https://www.nytimes.com/2026/10/31/business/media/trump-wsj-defamation-suit-10-billion.html",
+  "source": "The New York Times",
+  "source_title": "Judge Tosses Trump’s $10 Billion Suit Against The Wall Street Journal",
+  "source_summary": "The defamation suit focused on an article about a birthday note to Jeffrey Epstein. It was the president’s second attempt to claim the publication had acted with actual malice.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Newspapers",
+   "Libel and Slander",
+   "News and News Media",
+   "Suits and Litigation (Civil)",
+   "Decisions and Verdicts",
+   "Dow Jones & Co",
+   "Wall Street Journal",
+   "News Corporation",
+   "Trump, Donald J"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00hfo-wsj-defamation-1-zklh/00hfo-wsj-defamation-1-zklh-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T21:01:29+00:00",
+  "headline": "Judge Dismisses Trump’s $10 Billion Defamation Suit Against WSJ",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge in New York has thrown out former President Donald Trump’s $10 billion defamation lawsuit against The Wall Street Journal. The case centered on a WSJ article that reported a birthday note allegedly sent to convicted sex offender Jeffrey Epstein, which Trump claimed was published with actual malice."
+   },
+   {
+    "type": "p",
+    "text": "The dismissal marks the second time a court has rejected Trump’s claim that the newspaper acted maliciously. The judge found that the plaintiff failed to demonstrate the level of intent required for an actual‑malice defamation claim under New York law."
+   },
+   {
+    "type": "p",
+    "text": "Legal analysts say the ruling underscores the high burden plaintiffs face in proving actual malice in defamation suits involving public figures. The decision also removes a major legal hurdle for the newspaper as it continues to cover high‑profile political controversies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision limits Trump’s ability to use costly lawsuits to challenge media coverage, reinforcing legal protections for press reporting on public figures."
+   }
+  ],
+  "key_points": [
+   "A New York judge dismissed Donald Trump’s $10 billion defamation suit against The Wall Street Journal.",
+   "The case involved a WSJ story about a birthday note to Jeffrey Epstein and failed to meet the actual‑malice standard.",
+   "The ruling highlights the difficulty of winning defamation claims by public figures."
+  ],
+  "meta_description": "Judge dismisses Donald Trump's $10 billion defamation suit against The Wall Street Journal over an Epstein birthday note article.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Wall Street Journal",
+   "defamation",
+   "lawsuit",
+   "court ruling"
+  ],
+  "slug": "judge-dismisses-trumps-10-billion-defamation-suit-against-wsj-1f1817",
+  "reading_minutes": 1,
+  "added": "2026-10-31T22:47:05Z"
+ },
+ {
+  "id": "6b71f2733154d341",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
+  "source": "The Guardian",
+  "source_title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
+  "source_summary": "Ruling ‘with prejudice’ means US president may not amend or refile his lawsuit over his alleged birthday letter to Jeffrey Epstein A US judge dismissed Donald Trump’s lawsuit against the Wall Street Journal with prejudice on Saturday, according to a court filing, bringing an end to his legal challenge over the newspaper’s reporting on his alleged birthday letter to Jeffrey Epstein. The decision follows an earlier dismissal in April that had allowed Trump to revise his complaint. As of Saturday, the case is dismissed with prejudice, meaning the lawsuit cannot be amended or refiled.",
+  "source_tags": [
+   "Donald Trump",
+   "Wall Street Journal",
+   "Jeffrey Epstein",
+   "US justice system",
+   "US news",
+   "US politics",
+   "Law (US)",
+   "US press and publishing"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/b9b8039600f6a03b057c969340b192043c8db15b/0_560_3600_2879/master/3600.jpg?width=700&quality=85&auto=format&fit=max&s=d18af55a7a39f68ed36f3a63f553955a",
+  "published": "2026-10-31T20:31:39+00:00",
+  "headline": "Judge Dismisses Trump Lawsuit Against WSJ Over Epstein Letter",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge in New York has thrown out former President Donald Trump's lawsuit against The Wall Street Journal, ruling the case dismissed with prejudice. The suit challenged the newspaper's reporting that Trump sent a birthday greeting to convicted sex offender Jeffrey Epstein, a claim the former president has repeatedly denied."
+   },
+   {
+    "type": "p",
+    "text": "The dismissal follows an earlier April ruling that had allowed Trump to amend his complaint. This latest order means the case cannot be revived or refiled, ending the legal battle over the alleged birthday letter. Court filings indicate the judge found the plaintiff's claims insufficient to proceed."
+   },
+   {
+    "type": "p",
+    "text": "The decision underscores the judiciary's stance on defamation and false‑statement claims brought by public figures, reinforcing the high burden of proof required to overturn published reporting. It also marks another setback for Trump’s post‑presidential legal strategy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The verdict ends a high‑profile legal challenge by a former U.S. president, illustrating limits on defamation claims against the press for both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "A New York judge dismissed Trump’s lawsuit against the WSJ with prejudice, preventing any future filing.",
+   "The case centered on the newspaper’s report that Trump sent a birthday letter to Jeffrey Epstein.",
+   "The ruling highlights the difficulty for public figures to win defamation suits against major media outlets."
+  ],
+  "meta_description": "Judge dismisses Trump’s lawsuit against the Wall Street Journal over alleged Epstein birthday letter, ending the case with prejudice.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Wall Street Journal",
+   "lawsuit",
+   "Epstein",
+   "legal dismissal"
+  ],
+  "slug": "judge-dismisses-trump-lawsuit-against-wsj-over-epstein-letter-6b71f2",
+  "reading_minutes": 1,
+  "added": "2026-10-31T22:47:40Z"
+ },
+ {
   "id": "95fa5e617dcbaff8",
   "source_url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
   "source": "The New York Times",
