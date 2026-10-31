@@ -1,5 +1,626 @@
 [
  {
+  "id": "5c0dfac75eab3c26",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o",
+  "source": "BBC News",
+  "source_title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+  "source_summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-31T02:12:19+00:00",
+  "headline": "North Korean Elite Hackers Suspected in Record Binance Theft",
+  "body": [
+   {
+    "type": "p",
+    "text": "Authorities and cybersecurity analysts are pointing to a group of elite North Korean hackers as the primary suspects behind the recent massive breach of cryptocurrency exchange Binance. The intrusion, described as a record‑making heist, resulted in the unauthorized transfer of a substantial amount of digital assets from the platform."
+   },
+   {
+    "type": "p",
+    "text": "Investigators note that the tactics employed in the attack align with methods previously linked to North Korean state‑backed hacking units, including sophisticated phishing schemes and the use of custom malware to bypass security protocols. While definitive proof remains pending, the scale of the operation suggests a high level of technical capability and resources."
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores the growing reach of state‑sponsored cyber actors in the global financial ecosystem, raising concerns about the vulnerability of major crypto exchanges to coordinated, high‑profile attacks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The breach illustrates how state‑linked cyber threats can impact major financial platforms, posing risks to investors and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "North Korean elite hackers are the leading suspects in the Binance breach.",
+   "The hack is described as a record‑setting theft in the cryptocurrency sector.",
+   "The attack highlights the expanding power of state‑backed cyber groups."
+  ],
+  "meta_description": "North Korean elite hackers are suspected in a record Binance hack, highlighting growing cyber threats to global finance.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "North Korea",
+   "cybersecurity",
+   "Binance",
+   "cryptocurrency",
+   "hackers",
+   "financial crime"
+  ],
+  "slug": "north-korean-elite-hackers-suspected-record-binance-theft-5c0dfa",
+  "reading_minutes": 1,
+  "added": "2026-10-31T02:15:20Z"
+ },
+ {
+  "id": "9ebb7dd86eb13337",
+  "source_url": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "European diplomats shun Russia at G20 gathering in the US",
+  "source_summary": "Russian Foreign Minister Sergey Lavrov declined to comment on Russia's participation in the G20 summit in December, telling DW that Volodymyr Zelenskyy should travel to Russia if he wanted talks with Vladimir Putin.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79813949_6.jpg",
+  "published": "2026-10-31T01:56:00+00:00",
+  "headline": "European Diplomats Skip Russia at US G20 Summit as Lavrov Declines Comment",
+  "body": [
+   {
+    "type": "p",
+    "text": "At the G20 summit in the United States, European diplomats largely avoided engagement with Russia, underscoring the continent’s continued diplomatic distancing from Moscow. Russian Foreign Minister Sergey Lavrov refused to comment on Russia’s participation in the meeting when approached by Deutsche Welle."
+   },
+   {
+    "type": "p",
+    "text": "Lavrov redirected the discussion to Ukraine, stating that President Volodymyr Zelenskyy would need to travel to Russia if he wished to hold talks with President Vladimir Putin. The remark highlighted the strained relations and the lack of direct dialogue between the two leaders at the summit."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The diplomatic snub reflects ongoing tensions between Europe and Russia, affecting cooperation on security and economic issues that also impact the United States."
+   }
+  ],
+  "key_points": [
+   "European diplomats largely shunned Russia at the US‑hosted G20 summit.",
+   "Russian Foreign Minister Sergey Lavrov declined to discuss Russia’s role and suggested Zelenskyy travel to Russia for talks with Putin."
+  ],
+  "meta_description": "European diplomats avoid Russia at the US G20 summit; Lavrov declines comment and urges Zelenskyy to visit Russia for talks with Putin.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "G20",
+   "Russia",
+   "Lavrov",
+   "Europe",
+   "diplomacy",
+   "Ukraine"
+  ],
+  "slug": "european-diplomats-skip-russia-us-g20-summit-lavrov-declines-9ebb7d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T02:15:25Z"
+ },
+ {
+  "id": "26b3b41e2fa36276",
+  "source_url": "https://www.nytimes.com/2026/10/30/us/politics/justice-dept-alaska-senate-inquiry.html",
+  "source": "The New York Times",
+  "source_title": "Justice Dept. Confirms Alaska Inquiry Even as Its Focus Remains Unclear",
+  "source_summary": "Democrats and former officials have accused the department of pursuing a political goal in the guise of a legal one: to publicize a scheme, sordid but not illegal under state law, damaging to Democrats.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Federal-State Relations (US)",
+   "Midterm Elections (2026)",
+   "Democratic Party",
+   "Federal Bureau of Investigation",
+   "Justice Department",
+   "Republican Party",
+   "Dunleavy, Mike J",
+   "Peltola, Mary",
+   "Sullivan, Daniel Scott (1964- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30dc-alaska-pkvb/30dc-alaska-pkvb-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T01:33:31+00:00",
+  "headline": "Justice Department Confirms Alaska Inquiry Amid Political Claims",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Justice Department announced that it will continue an investigation in Alaska, though officials said the inquiry’s specific focus remains undefined. The confirmation came after months of speculation about the scope and purpose of the probe."
+   },
+   {
+    "type": "p",
+    "text": "Democratic lawmakers and several former officials have charged that the investigation serves a political agenda rather than a purely legal one. They argue the department is trying to publicize a scheme that, while considered sordid, does not violate state law, and that the effort could harm Democratic interests in the state."
+   },
+   {
+    "type": "p",
+    "text": "The Justice Department has not responded to the accusations, and no charges have been filed. The lack of clarity about the inquiry’s target has drawn criticism from both sides of the aisle, raising questions about the balance between law enforcement and political influence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights concerns about federal investigations being used for partisan purposes, a topic of interest for both U.S. and European audiences monitoring rule‑of‑law standards."
+   }
+  ],
+  "key_points": [
+   "The Justice Department confirmed an ongoing Alaska inquiry but did not specify its focus.",
+   "Democrats and former officials claim the probe is politically motivated to expose a non‑illegal scheme.",
+   "No charges have been announced, and the department has not addressed the accusations."
+  ],
+  "meta_description": "Justice Dept. confirms Alaska inquiry amid claims it serves a political agenda, sparking criticism from Democrats.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "Justice Department",
+   "inquiry",
+   "political controversy",
+   "Democrats"
+  ],
+  "slug": "justice-department-confirms-alaska-inquiry-amid-political-claims-26b3b4",
+  "reading_minutes": 1,
+  "added": "2026-10-31T02:15:29Z"
+ },
+ {
+  "id": "ee64ff86ac7f08a4",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots",
+  "source": "The Guardian",
+  "source_title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
+  "source_summary": "Order says local officials can’t be forced to separate or stop counting ballots that the government deems to be disputed A federal judge has barred the justice department from threatening or coercing election workers to stop processing ballots. The order issued late Friday also bars the justice department from demanding local election officials segregate or not count ballots that the federal government deems may have been cast by ineligible voters.",
+  "source_tags": [
+   "US news",
+   "Law (US)",
+   "Trump administration",
+   "California",
+   "US politics",
+   "West Coast",
+   "US voting rights"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/0335a1833425e9c9cbea5d82dbb76888d662896a/641_0_5417_4335/master/5417.jpg?width=700&quality=85&auto=format&fit=max&s=e3b0619698dcd4c54f2480fae09feb31",
+  "published": "2026-10-31T01:30:07+00:00",
+  "headline": "Federal Judge Bars DOJ Threats to Election Workers on Ballots",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge issued an order late Friday that prohibits the Department of Justice from threatening or coercing local election officials to halt the processing of ballots. The ruling specifically prevents the DOJ from demanding that officials separate or refuse to count ballots the government labels as potentially cast by ineligible voters."
+   },
+   {
+    "type": "p",
+    "text": "The injunction applies to any attempts by the Justice Department to force local jurisdictions to segregate disputed ballots or to stop counting them altogether. By barring such actions, the court aims to safeguard the routine duties of election workers and preserve the integrity of the ballot‑counting process."
+   },
+   {
+    "type": "p",
+    "text": "The decision underscores the judiciary’s role in checking federal overreach in election administration, ensuring that local officials can carry out their responsibilities without undue pressure from the Justice Department."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The injunction protects the independence of local election officials in the United States, a principle that resonates with democratic safeguards valued across Europe."
+   }
+  ],
+  "key_points": [
+   "A federal judge has blocked the DOJ from threatening election workers to stop processing ballots.",
+   "The order also forbids the Justice Department from demanding segregation or non‑counting of disputed ballots.",
+   "The ruling reinforces judicial oversight of federal involvement in local election administration."
+  ],
+  "meta_description": "Federal judge stops DOJ from threatening election workers and demanding segregation of disputed ballots.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "DOJ",
+   "election workers",
+   "federal judge",
+   "ballot processing",
+   "voting rights"
+  ],
+  "slug": "federal-judge-bars-doj-threats-election-workers-ballots-ee64ff",
+  "reading_minutes": 1,
+  "added": "2026-10-31T02:15:45Z"
+ },
+ {
+  "id": "1d23d404259ade8f",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo",
+  "source": "BBC News",
+  "source_title": "Global nature talks reach deal but money remains an issue",
+  "source_summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg",
+  "published": "2026-10-31T01:27:05+00:00",
+  "headline": "Global Nature Talks Secure Agreement, Funding Gaps Remain",
+  "body": [
+   {
+    "type": "p",
+    "text": "Delegates at the latest global nature summit announced that they have reached a consensus to put the world back on track to halt the decline of biodiversity. The agreement outlines a set of collective actions that participating countries will adopt to protect ecosystems and species at risk."
+   },
+   {
+    "type": "p",
+    "text": "Despite the diplomatic breakthrough, negotiators highlighted that financing the agreed measures remains a major obstacle. Many nations expressed concerns that without sufficient monetary support, the implementation of conservation programmes could falter."
+   },
+   {
+    "type": "p",
+    "text": "The talks reflected a renewed political will to address environmental degradation, but the gap between pledged commitments and available resources underscores the challenge of turning policy into practice. Observers note that securing reliable funding will be essential for the agreement to achieve its intended impact."
+   }
+  ],
+  "key_points": [
+   "World leaders have concluded a new agreement aimed at stopping biodiversity loss.",
+   "Funding shortfalls were identified as a critical barrier to implementing the deal."
+  ],
+  "meta_description": "Global nature talks produce a new biodiversity agreement, but lack of funding threatens its effectiveness.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "nature",
+   "biodiversity",
+   "international agreement",
+   "funding",
+   "conservation"
+  ],
+  "slug": "global-nature-talks-secure-agreement-funding-gaps-remain-1d23d4",
+  "reading_minutes": 1,
+  "added": "2026-10-31T02:15:41Z"
+ },
+ {
+  "id": "6336aff37e57b820",
+  "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+  "source": "TechCrunch",
+  "source_title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+  "source_summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+  "source_tags": [
+   "AI",
+   "TC"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+  "published": "2026-10-31T01:20:05+00:00",
+  "headline": "Nvidia Considers Cosigning Loan for Nscale AI Data Center in West Virginia",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia is evaluating the possibility of acting as a cosigner for a loan that would fund Nscale's new artificial intelligence data center in West Virginia. The move is being discussed as a way to reassure investors who are showing caution toward AI-related capital expenditures."
+   },
+   {
+    "type": "p",
+    "text": "By potentially attaching its creditworthiness to the financing, Nvidia aims to lower the perceived risk for lenders and help secure the necessary funding for the project. The partnership would align Nvidia's chip sales with the operational needs of the data center, creating a tighter link between hardware supply and infrastructure development."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that such financial involvement by a chipmaker could set a precedent for how AI infrastructure projects are financed, especially in regions seeking to attract high‑tech investment."
+   }
+  ],
+  "key_points": [
+   "Nvidia is weighing a cosigner role for a loan to fund Nscale's AI data center in West Virginia.",
+   "The arrangement is intended to calm investor concerns about AI spending.",
+   "Linking chip sales with financing could influence future AI infrastructure funding models."
+  ],
+  "meta_description": "Nvidia may cosign a loan for Nscale's AI data center in West Virginia, aiming to ease investor worries about AI spending.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "AI data center",
+   "Financing",
+   "West Virginia",
+   "Nscale",
+   "Chip industry"
+  ],
+  "slug": "nvidia-considers-cosigning-loan-nscale-ai-data-center-west-6336af",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T02:15:36Z"
+ },
+ {
+  "id": "29a5a2198f7239cb",
+  "source_url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o",
+  "source": "BBC News",
+  "source_title": "Police deployed during stand-off over control of top Poland court",
+  "source_summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-10-31T01:11:43+00:00",
+  "headline": "Polish Police Deploy Amid Standoff Over Supreme Court Control",
+  "body": [
+   {
+    "type": "p",
+    "text": "Police forces were sent to a stand‑off in Warsaw after the Polish government moved to suspend two senior judges of the country’s top court. The deployment came as officials sought to assert control over the judiciary, prompting a tense confrontation between law‑enforcement officers and court supporters."
+   },
+   {
+    "type": "p",
+    "text": "The escalation followed the government’s decision to suspend the two justices and to initiate criminal proceedings against them. Authorities said the actions were necessary to address alleged misconduct, while critics warned that the steps threatened the independence of the judiciary."
+   },
+   {
+    "type": "p",
+    "text": "The presence of police heightened the standoff, with both sides remaining on the scene as the dispute over the court’s leadership continued. No further details on arrests or injuries were released at the time of reporting."
+   }
+  ],
+  "key_points": [
+   "Polish police were deployed after the government suspended two senior Supreme Court judges.",
+   "The government also announced plans to bring criminal charges against the suspended justices.",
+   "The move sparked a stand‑off, raising concerns about judicial independence in Poland."
+  ],
+  "meta_description": "Polish police intervene as the government suspends two senior judges and seeks criminal charges, sparking a stand‑off over court control.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Poland",
+   "judiciary",
+   "police",
+   "government",
+   "court"
+  ],
+  "slug": "polish-police-deploy-amid-standoff-over-supreme-court-control-29a5a2",
+  "reading_minutes": 1,
+  "added": "2026-10-31T02:15:52Z"
+ },
+ {
+  "id": "40ca6a02ebe3f7fb",
+  "source_url": "https://www.nytimes.com/2026/10/30/world/americas/el-salvador-haiti-soldiers-bukele.html",
+  "source": "The New York Times",
+  "source_title": "Could El Salvador’s Bukele Be Haiti’s Savior?",
+  "source_summary": "The Salvadoran government dispatched more than 2,000 troops to Haiti this week in an extraordinary deployment on foreign soil.",
+  "source_tags": [
+   "International Relations",
+   "Politics and Government",
+   "United States International Relations",
+   "Defense and Military Forces",
+   "Gangs",
+   "Security Council (UN)",
+   "Bukele, Nayib",
+   "Fils-Aime, Alix Didier",
+   "Trump, Donald J",
+   "El Salvador"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-Haiti-Salvador-zgwj/30int-Haiti-Salvador-zgwj-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T00:51:38+00:00",
+  "headline": "El Salvador Sends Over 2,000 Troops to Haiti in Unprecedented Move",
+  "body": [
+   {
+    "type": "p",
+    "text": "The government of El Salvador has dispatched more than 2,000 soldiers to Haiti this week, marking an extraordinary deployment of forces on foreign soil."
+   },
+   {
+    "type": "p",
+    "text": "The arrival of the Salvadoran troops represents a significant escalation in the country's overseas military involvement, a step that observers describe as unprecedented for the Central American nation."
+   },
+   {
+    "type": "p",
+    "text": "The deployment underscores the growing willingness of El Salvador to project its security apparatus beyond its borders, with the troops now stationed in Haiti as part of this latest operation."
+   }
+  ],
+  "key_points": [
+   "El Salvador sent over 2,000 troops to Haiti this week.",
+   "The deployment is described as an extraordinary foreign‑soil operation for the country."
+  ],
+  "meta_description": "El Salvador has sent more than 2,000 troops to Haiti, an unprecedented foreign deployment noted this week.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "El Salvador",
+   "Haiti",
+   "troops",
+   "deployment",
+   "foreign military",
+   "security"
+  ],
+  "slug": "el-salvador-sends-over-2-000-troops-haiti-unprecedented-40ca6a",
+  "reading_minutes": 1,
+  "added": "2026-10-31T02:16:04Z"
+ },
+ {
+  "id": "51483923b955f266",
+  "source_url": "https://www.nytimes.com/2026/10/30/us/politics/children-asylum-fast-track-deport.html",
+  "source": "The New York Times",
+  "source_title": "Judge Blocks Expediting Migrant Children’s Asylum Cases, For Now",
+  "source_summary": "Lawyers for the children praised the pause on fast-tracked interviews of unaccompanied minors, calling it a blow against the Trump administration’s “deportation assembly line.”",
+  "source_tags": [
+   "Deportation",
+   "Children and Childhood",
+   "Asylum, Right of",
+   "Amica Center for Immigrant Rights",
+   "Citizenship and Immigration Services (US)",
+   "Homeland Security Department",
+   "Hurson, Brendan A",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/dc-immig-lwfm/dc-immig-lwfm-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T00:50:07+00:00",
+  "headline": "Judge Blocks Fast-Track Asylum Hearings for Unaccompanied Children",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge has issued an order halting the expedited interview process for unaccompanied migrant children seeking asylum in the United States. The ruling temporarily stops the fast‑track system that had been used to speed up cases for minors without a parent or guardian."
+   },
+   {
+    "type": "p",
+    "text": "Attorneys representing the children welcomed the decision, describing the pause as a setback to the Trump administration’s approach, which they characterized as a “deportation assembly line.” The lawyers said the injunction protects the rights of vulnerable minors while broader immigration reforms are considered."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling affects how the U.S. handles asylum claims for vulnerable children, a key issue for immigration policy observers in both the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "A judge has temporarily blocked the fast‑track asylum interviews for unaccompanied migrant children.",
+   "Lawyers for the minors praised the pause, calling it a blow to the former administration’s deportation policies."
+  ],
+  "meta_description": "A judge halts fast‑track asylum interviews for unaccompanied migrant children, a move praised by their lawyers as a setback to prior deportation policies.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "immigration",
+   "asylum",
+   "unaccompanied minors",
+   "court ruling",
+   "U.S. policy"
+  ],
+  "slug": "judge-blocks-fast-track-asylum-hearings-unaccompanied-children-514839",
+  "reading_minutes": 1,
+  "added": "2026-10-31T02:15:56Z"
+ },
+ {
+  "id": "825eaa33102fe9b3",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o",
+  "source": "BBC Sport",
+  "source_title": "Verstappen says Lawson 'not very smart' after collision in Mexico practice",
+  "source_summary": "Max Verstappen accuses Liam Lawson of \"not very smart behaviour\" after the two collided in Friday practice at the Mexico City Grand Prix.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fd/live/fec5d270-d4c1-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-31T00:38:31+00:00",
+  "headline": "Verstappen Calls Lawson \"Not Very Smart\" After Mexico Practice Crash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Red Bull driver Max Verstappen criticised fellow racer Liam Lawson following a collision during Friday's practice session for the Mexico City Grand Prix. Verstappen described Lawson's actions as \"not very smart behaviour\" after the two cars made contact on the circuit."
+   },
+   {
+    "type": "p",
+    "text": "The incident occurred in the final minutes of the practice run, prompting Verstappen to voice his frustration in post‑session comments. He did not elaborate on any penalties or further repercussions, focusing solely on the perceived lack of judgement on Lawson's part."
+   },
+   {
+    "type": "p",
+    "text": "Lawson, a member of the Red Bull junior programme, has not yet responded publicly to Verstappen's remarks. The practice session will continue as teams prepare for qualifying later in the weekend."
+   }
+  ],
+  "key_points": [
+   "Max Verstappen labeled Liam Lawson's conduct \"not very smart\" after they collided in Mexico City practice.",
+   "The criticism was made publicly by Verstappen during post‑session remarks.",
+   "Lawson has not issued a response to the accusation."
+  ],
+  "meta_description": "Max Verstappen calls Liam Lawson's behavior \"not very smart\" after a practice collision at the Mexico City Grand Prix.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Max Verstappen",
+   "Liam Lawson",
+   "Mexico City Grand Prix",
+   "practice collision"
+  ],
+  "slug": "verstappen-calls-lawson-not-very-smart-after-mexico-practice-825eaa",
+  "reading_minutes": 1,
+  "added": "2026-10-31T02:15:32Z"
+ },
+ {
+  "id": "5e3118706e90628f",
+  "source_url": "https://www.bbc.co.uk/sport/darts/articles/crkg7p1z3p3lo",
+  "source": "BBC Sport",
+  "source_title": "Sherrock upsets Littler to claim £501,000 prize",
+  "source_summary": "Fallon Sherrock defeats reigning world champion Luke Littler in one leg of darts to win £501,000.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d1/live/6f7d0770-d4b5-11f1-a58c-6d26609b0a57.jpg",
+  "published": "2026-10-30T23:38:06+00:00",
+  "headline": "Fallon Sherrock Upsets Luke Littler to Win £501,000 Darts Prize",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a surprising turn of events, Fallon Sherrock defeated the reigning world champion Luke Littler in a single leg of darts. The victory marked a major upset in the sport, with Sherrock overcoming the favored champion in a decisive match."
+   },
+   {
+    "type": "p",
+    "text": "Sherrock's win secured her a prize of £501,000, underscoring the high stakes of professional darts competitions. The sizable payout highlights the financial rewards available to top performers in the sport."
+   }
+  ],
+  "key_points": [
+   "Fallon Sherrock beat world champion Luke Littler in a single-leg darts match.",
+   "The upset earned Sherrock a £501,000 prize."
+  ],
+  "meta_description": "Fallon Sherrock upsets world champion Luke Littler in darts, winning a £501,000 prize.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "darts",
+   "Fallon Sherrock",
+   "Luke Littler",
+   "sports upset",
+   "prize money"
+  ],
+  "slug": "fallon-sherrock-upsets-luke-littler-win-501-000-darts-5e3118",
+  "reading_minutes": 1,
+  "added": "2026-10-31T02:15:49Z"
+ },
+ {
+  "id": "cfe628fa77b15813",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq98zrj5dj6ro",
+  "source": "BBC Sport",
+  "source_title": "England see off USA to return to winning ways",
+  "source_summary": "England's Red Roses return to winning ways, but without entirely vanquishing doubts over their position at the top of the women's game, as they see off the United States.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7525/live/5d8a5800-d4b6-11f1-a58c-6d26609b0a57.jpg",
+  "published": "2026-10-30T23:15:38+00:00",
+  "headline": "England Red Roses Beat USA in Friendly to Extend Winning Streak",
+  "body": [
+   {
+    "type": "p",
+    "text": "The England women's rugby team, known as the Red Roses, secured a victory over the United States in a friendly match, marking a return to winning form. The win helped the side regain confidence after a period of mixed results, though questions linger about their claim to the top spot in the women's game."
+   },
+   {
+    "type": "p",
+    "text": "While the result was welcomed by supporters, analysts noted that the performance did not fully dispel doubts about England's consistency against elite opposition. The Red Roses displayed solid attacking play and defensive resilience, but some areas still require refinement ahead of upcoming international fixtures."
+   },
+   {
+    "type": "p",
+    "text": "The match serves as a benchmark for both teams as they prepare for future tournaments, with England aiming to cement its status as a leading nation in women's rugby and the United States seeking to close the gap."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result influences world rankings and sets the tone for forthcoming women's rugby tournaments in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "England's Red Roses defeated the United States in a friendly, ending a winless spell.",
+   "The victory restores momentum but leaves questions about England's dominance unanswered.",
+   "Both sides will use the result to shape preparations for upcoming international competitions."
+  ],
+  "meta_description": "England's Red Roses beat the USA in a friendly, returning to winning ways while still facing doubts about their top‑rank status.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England",
+   "USA",
+   "Red Roses",
+   "women's rugby",
+   "rugby union"
+  ],
+  "slug": "england-red-roses-beat-usa-friendly-extend-winning-streak-cfe628",
+  "reading_minutes": 1,
+  "added": "2026-10-31T02:16:01Z"
+ },
+ {
   "id": "d1fe75e5e8d4f3c9",
   "source_url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
   "source": "The Guardian",
