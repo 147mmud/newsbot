@@ -1,5 +1,663 @@
 [
  {
+  "id": "95fa5e617dcbaff8",
+  "source_url": "https://www.nytimes.com/live/2026/10/31/world/france-student-protests-halloween",
+  "source": "The New York Times",
+  "source_title": "Live Updates: Hundreds of Thousands Join Another Round of Protests in France",
+  "source_summary": "The interior ministry estimated that 320,000 people had demonstrated nationwide, a smaller number than the previous two Saturdays. The police and protesters clashed in Paris and other cities.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31france-protests-promo-310-bwfz/31france-protests-promo-310-bwfz-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T19:11:56+00:00",
+  "headline": "Hundreds of Thousands Protest Across France, Interior Ministry Says 320,000 Demonstrators",
+  "body": [
+   {
+    "type": "p",
+    "text": "France saw another wave of nationwide protests on Saturday, with the interior ministry estimating that about 320,000 people took to the streets. The figure is lower than the turnout recorded on the two previous Saturdays, though still represents a substantial mobilization across the country."
+   },
+   {
+    "type": "p",
+    "text": "Clashes erupted between police and demonstrators in Paris and several other cities, highlighting tensions over the issues driving the protests. Authorities reported confrontations but did not release detailed casualty numbers."
+   },
+   {
+    "type": "p",
+    "text": "The demonstrations spanned a range of locations, reflecting a broad geographic spread of dissent. Organizers and officials alike noted the continued high level of public engagement despite the slight dip in overall numbers."
+   }
+  ],
+  "key_points": [
+   "The interior ministry reported roughly 320,000 participants in Saturday's protests, a decrease from the previous two weekends.",
+   "Police and protesters clashed in Paris and multiple other French cities.",
+   "The protests maintain a high level of nationwide participation despite a modest drop in turnout."
+  ],
+  "meta_description": "Around 320,000 people protested across France on Saturday, a slight decline from earlier rallies, with police clashes reported in Paris and other cities.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "demonstrations",
+   "police clashes",
+   "interior ministry"
+  ],
+  "slug": "hundreds-thousands-protest-across-france-interior-ministry-says-320-95fa5e",
+  "reading_minutes": 1,
+  "added": "2026-10-31T19:30:36Z"
+ },
+ {
+  "id": "86537bb3d6770a0e",
+  "source_url": "https://www.nytimes.com/2026/10/31/us/politics/trump-arch-virginia-dc.html",
+  "source": "The New York Times",
+  "source_title": "Trump’s Arch Faces New Legal Challenge From Virginia and D.C.",
+  "source_summary": "The two jurisdictions contend that President Trump’s proposed 250-foot arch is “flagrantly unlawful,” citing concerns over traffic, the environment and historic preservation.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States Triumphal Arch",
+   "Veterans",
+   "United States Defense and Military Forces",
+   "Monuments and Memorials (Structures)",
+   "Arlington National Cemetery",
+   "Defense Department",
+   "Homeland Security Department",
+   "Arlington (Va)",
+   "Virginia"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31dc-arch-suit-zflw/31dc-arch-suit-zflw-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T19:11:06+00:00",
+  "headline": "Virginia and D.C. Sue Over Trump’s Proposed 250‑Foot Arch",
+  "body": [
+   {
+    "type": "p",
+    "text": "The governments of Virginia and the District of Columbia have filed a joint legal challenge to President Donald Trump’s plan to erect a 250‑foot monument shaped like an arch. The filing argues that the structure violates multiple statutes, describing it as “flagrantly unlawful.”"
+   },
+   {
+    "type": "p",
+    "text": "Officials from both jurisdictions cite three primary concerns: the arch would disrupt traffic flow on heavily used roadways, it could cause irreversible environmental damage, and it threatens the preservation of historic sites in the surrounding area. The lawsuit seeks to halt construction until the issues are fully examined."
+   },
+   {
+    "type": "p",
+    "text": "The challenge adds to a growing list of legal obstacles facing the president’s ambitious infrastructure projects, highlighting the tension between symbolic architecture and regulatory compliance at the federal, state, and local levels."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores how large‑scale construction projects can clash with local regulations, a dynamic familiar to both U.S. and European planners."
+   }
+  ],
+  "key_points": [
+   "Virginia and D.C. have jointly sued to stop Trump’s 250‑foot arch, calling it unlawful.",
+   "The lawsuit focuses on traffic disruption, environmental impact, and historic preservation."
+  ],
+  "meta_description": "Virginia and D.C. sue to block Trump’s 250‑foot arch, citing traffic, environmental and historic preservation concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "arch",
+   "lawsuit",
+   "Virginia",
+   "Washington DC",
+   "historic preservation"
+  ],
+  "slug": "virginia-d-c-sue-over-trumps-proposed-250foot-arch-86537b",
+  "reading_minutes": 1,
+  "added": "2026-10-31T19:30:40Z"
+ },
+ {
+  "id": "b6bc5cc7830c9ce9",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cve8rkd8r302o",
+  "source": "BBC Sport",
+  "source_title": "Maresca's big test is to address mounting Man City issues",
+  "source_summary": "Enzo Maresca enjoyed a flawless start as Manchester City manager, winning his first seven Premier League games in charge, but the honeymoon period is now over.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg",
+  "published": "2026-10-31T19:05:41+00:00",
+  "headline": "Maresca Faces First Test as Manchester City Hits Early Slump",
+  "body": [
+   {
+    "type": "p",
+    "text": "Enzo Maresca began his tenure at Manchester City with an unbeaten run, securing victories in his first seven Premier League matches. The flawless start sparked optimism among fans and pundits, who praised his immediate impact on a side accustomed to winning."
+   },
+   {
+    "type": "p",
+    "text": "However, the early honeymoon period is now ending as the club confronts a series of emerging challenges. Analysts note that injuries, fixture congestion and tactical adjustments are testing Maresca’s ability to maintain the high standards set by his predecessor. The manager must address these mounting issues to keep City on course for domestic and European success."
+   },
+   {
+    "type": "p",
+    "text": "The coming weeks will be crucial for Maresca, who will need to demonstrate adaptability and strategic depth beyond the initial winning streak. His performance will shape the narrative of his long‑term prospects at one of England’s most prominent clubs."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Manchester City’s performance influences the Premier League title race and European competition, affecting fans and markets across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Maresca won his first seven Premier League games as Manchester City manager.",
+   "The early success is now under pressure from injuries and tactical demands.",
+   "How he handles these issues will determine his future at the club."
+  ],
+  "meta_description": "Enzo Maresca's perfect start at Manchester City faces new challenges as injuries and tactics test his early success.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester City",
+   "Premier League",
+   "Enzo Maresca",
+   "football management",
+   "English football"
+  ],
+  "slug": "maresca-faces-first-test-manchester-city-hits-early-slump-b6bc5c",
+  "reading_minutes": 1,
+  "added": "2026-10-31T19:30:45Z"
+ },
+ {
+  "id": "039cd73c94c74886",
+  "source_url": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "More than 290 arrested in France as some weekend protests turn violent",
+  "source_summary": "Protests continue across France as 320,000 people take to the streets over rising living costs and poor school conditions for a third consecutive weekend, with clashes reported in several cities.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79818860_6.jpg",
+  "published": "2026-10-31T18:49:00+00:00",
+  "headline": "Over 290 Arrested as French Protests Against Cost of Living Turn Violent",
+  "body": [
+   {
+    "type": "p",
+    "text": "More than 290 people were detained as demonstrations across France turned confrontational for the third weekend in a row. Police reported clashes in several cities as protesters gathered to demand action on rising living costs and deteriorating school conditions."
+   },
+   {
+    "type": "p",
+    "text": "Organisers said roughly 320,000 participants took to the streets nationwide, continuing a wave of unrest that began earlier this month. Demonstrators cited soaring prices for basic goods and concerns over overcrowded, under‑funded classrooms as primary grievances."
+   },
+   {
+    "type": "p",
+    "text": "Authorities responded with a heightened police presence, employing crowd‑control measures in major urban centers. While many marches remained peaceful, incidents of vandalism and confrontations with law enforcement were reported in multiple locations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest highlights growing economic pressure on European households, a trend that could influence policy debates in the US and across Europe."
+   }
+  ],
+  "key_points": [
+   "More than 290 arrests were made during weekend protests in France.",
+   "Around 320,000 people have demonstrated over three consecutive weekends against rising living costs and poor school conditions.",
+   "Clashes occurred in several French cities, prompting a strong police response."
+  ],
+  "meta_description": "Over 290 arrests as French protests over cost of living and school conditions turn violent, with 320,000 demonstrators across the country.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "cost of living",
+   "arrests",
+   "education",
+   "civil unrest"
+  ],
+  "slug": "over-290-arrested-french-protests-against-cost-living-turn-039cd7",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T19:30:52Z"
+ },
+ {
+  "id": "c5e05211993fe4c5",
+  "source_url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+  "source": "NPR",
+  "source_title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
+  "source_summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Faa%2F00209429492ba03523634db38c54%2Fap26303093614138.jpg",
+  "published": "2026-10-31T18:42:33+00:00",
+  "headline": "Meeting Stresses Anti‑Corruption, Discipline Before Xi’s Fourth Term",
+  "body": [
+   {
+    "type": "p",
+    "text": "China’s Communist Party central committee convened this week for a key political meeting in Beijing, centering its agenda on strict party discipline and an intensified anti‑corruption drive. Party officials highlighted the need to enforce internal rules, punish misconduct, and tighten oversight of cadres at all levels."
+   },
+   {
+    "type": "p",
+    "text": "The timing of the meeting is significant, as analysts expect President Xi Jinping to seek a fourth term in the next year’s leadership transition. By foregrounding discipline and corruption control, the party aims to project stability and consolidate Xi’s authority ahead of the upcoming succession process."
+   },
+   {
+    "type": "p",
+    "text": "Party documents released after the session underscore a commitment to “clean governance” and warn that any deviation from party norms will face severe penalties. The emphasis on internal rectitude is presented as essential for maintaining public confidence and ensuring the party’s continued dominance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The crackdown on corruption and emphasis on discipline signal a further consolidation of power in China, affecting foreign policy stability and economic relations with the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The central committee meeting focused on tightening party discipline and expanding anti‑corruption measures.",
+   "The agenda signals preparation for Xi Jinping’s anticipated bid for a fourth term next year."
+  ],
+  "meta_description": "China's party meeting stresses anti‑corruption and discipline as Xi prepares for a potential fourth term, highlighting power consolidation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "China",
+   "anti-corruption",
+   "party discipline",
+   "Xi Jinping",
+   "leadership transition"
+  ],
+  "slug": "meeting-stresses-anticorruption-discipline-before-xis-fourth-term-c5e052",
+  "reading_minutes": 1,
+  "added": "2026-10-31T19:31:08Z"
+ },
+ {
+  "id": "7d968577e0ca1ac4",
+  "source_url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+  "source": "The Verge",
+  "source_title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+  "source_summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less […]",
+  "source_tags": [
+   "Crypto",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-31T18:40:32+00:00",
+  "headline": "Binance CEO Says 90% of Stolen Crypto Funds Restored After $6.3B Heist",
+  "body": [
+   {
+    "type": "p",
+    "text": "Binance CEO Changpeng Zhao announced that the exchange has replenished roughly 90 percent of the $6.3 billion taken by hackers in what is described as a record‑breaking crypto theft. The company says it directly covered the recovered portion of the loss."
+   },
+   {
+    "type": "p",
+    "text": "The remaining 10 percent of the stolen assets, which includes assets that are “less liquid,” will also be compensated by Binance, according to Zhao. The firm did not disclose the exact timeline for completing the final reimbursements."
+   },
+   {
+    "type": "p",
+    "text": "The incident marks one of the largest cryptocurrency breaches to date, prompting heightened scrutiny of security practices across the industry."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The restitution effort affects millions of crypto investors worldwide and underscores the importance of security safeguards in the rapidly growing digital asset market."
+   }
+  ],
+  "key_points": [
+   "Binance reports that 90% of the $6.3 billion stolen in a major hack has been restored.",
+   "The exchange will cover the remaining 10% of the loss itself.",
+   "The breach is among the biggest crypto thefts ever recorded."
+  ],
+  "meta_description": "Binance says it has restored 90% of the $6.3 billion lost in a major hack and will cover the remaining 10%, marking a significant restitution effort.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Binance",
+   "crypto theft",
+   "security breach",
+   "digital assets",
+   "financial restitution"
+  ],
+  "slug": "binance-ceo-says-90-stolen-crypto-funds-restored-after-7d9685",
+  "reading_minutes": 1,
+  "added": "2026-10-31T19:30:48Z"
+ },
+ {
+  "id": "38053a77617858bc",
+  "source_url": "https://www.bbc.co.uk/iplayer/episode/l00590gm",
+  "source": "BBC Sport",
+  "source_title": "Watch: Youth Olympics Opening Ceremony",
+  "source_summary": "Follow for live coverage of the Youth Olympics Opening Ceremony from Dakar, Senegal.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pk0zdj.jpg",
+  "published": "2026-10-31T18:16:27+00:00",
+  "headline": "Youth Olympics Opening Ceremony Kicks Off in Dakar, Senegal",
+  "body": [
+   {
+    "type": "p",
+    "text": "The inaugural ceremony of the 2026 Youth Olympic Games began today in Dakar, Senegal, marking the first time the event has been hosted on the African continent. Athletes, officials and spectators gathered at the newly built stadium for a showcase of music, dance and cultural performances that highlighted Senegalese heritage."
+   },
+   {
+    "type": "p",
+    "text": "The program featured a parade of participants from more than 200 nations, each carrying their national flags as they entered the arena. The ceremony also included a symbolic lighting of the Olympic flame, a tradition that signals the start of the Games and underscores the Olympic values of friendship, respect and excellence."
+   },
+   {
+    "type": "p",
+    "text": "Live coverage of the event is being streamed worldwide, allowing fans across the globe to watch the opening moments of the youth competition. The Games, which run for two weeks, will feature a range of sports from athletics to swimming, providing a platform for the next generation of elite athletes."
+   }
+  ],
+  "key_points": [
+   "The Youth Olympic Games opened in Dakar, Senegal, the first African host city.",
+   "More than 200 nations participated in the opening ceremony parade.",
+   "The Olympic flame was lit, officially starting the two‑week competition."
+  ],
+  "meta_description": "The 2026 Youth Olympic Games opened in Dakar, Senegal, with a ceremony featuring athletes from over 200 nations and the lighting of the Olympic flame.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Youth Olympics",
+   "Dakar",
+   "Senegal",
+   "opening ceremony",
+   "global sports"
+  ],
+  "slug": "youth-olympics-opening-ceremony-kicks-off-dakar-senegal-38053a",
+  "reading_minutes": 1,
+  "added": "2026-10-31T19:30:56Z"
+ },
+ {
+  "id": "5264fc9787aaebc2",
+  "source_url": "https://www.bbc.co.uk/sport/boxing/articles/crpdg3qwjg4eo",
+  "source": "BBC Sport",
+  "source_title": "Usyk eyes 'final chapter' at cruiserweight against Benavidez",
+  "source_summary": "Former undisputed heavyweight champion Oleksandr Usyk is eyeing a return to cruiserweight to fight David Benavidez before retiring from boxing, says his adviser.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7580/live/d2a756e0-d553-11f1-bcb7-8f812b44c2e5.png",
+  "published": "2026-10-31T18:11:22+00:00",
+  "headline": "Usyk Plans Cruiserweight Return Against Benavidez Before Retirement",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former undisputed heavyweight champion Oleksandr Usyk is considering a comeback in the cruiserweight division, targeting a bout with rising star David Benavidez. The move would mark a shift back to the weight class where Usyk first made his name, before he ultimately hangs up his gloves."
+   },
+   {
+    "type": "p",
+    "text": "Usyk’s adviser disclosed the plan, saying the Ukrainian fighter sees the fight with Benavidez as a potential \"final chapter\" of his career. Both fighters have expressed interest in the matchup, which could generate significant attention given Usyk’s legacy and Benavidez’s status as a top contender."
+   },
+   {
+    "type": "p",
+    "text": "If confirmed, the fight would likely take place later this year, offering fans a high‑profile showdown and providing Usyk an opportunity to end his career on his own terms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The fight would attract major interest in the US and Europe, pitting a celebrated former champion against a rising star and potentially shaping the cruiserweight landscape."
+   }
+  ],
+  "key_points": [
+   "Oleksandr Usyk is eyeing a return to cruiserweight to fight David Benavidez.",
+   "His adviser describes the bout as a possible final chapter before retirement.",
+   "The matchup would pit a former heavyweight champion against a leading cruiserweight prospect."
+  ],
+  "meta_description": "Oleksandr Usyk plans a cruiserweight comeback against David Benavidez, aiming for a final bout before retirement.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Usyk",
+   "Benavidez",
+   "cruiserweight",
+   "boxing",
+   "retirement"
+  ],
+  "slug": "usyk-plans-cruiserweight-return-against-benavidez-before-retirement-5264fc",
+  "reading_minutes": 1,
+  "added": "2026-10-31T19:31:13Z"
+ },
+ {
+  "id": "ede3ae9d57fd4ca7",
+  "source_url": "https://www.nytimes.com/2026/10/31/world/europe/poland-court-police-president.html",
+  "source": "The New York Times",
+  "source_title": "Poland Deploys Riot Police in Standoff Over Country’s Top Court",
+  "source_summary": "After years of legal wrangling, judges backed by the current government suspended the chief justice, as a feud escalated with the right-wing party that last held power.",
+  "source_tags": [
+   "Poland",
+   "Courts and the Judiciary",
+   "Politics and Government",
+   "Elections, Courts and the Judiciary",
+   "Law and Justice (Poland)",
+   "Tusk, Donald",
+   "Nawrocki, Karol",
+   "Warsaw (Poland)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-poland-court-hgvz/31int-poland-court-hgvz-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T18:06:13+00:00",
+  "headline": "Poland Deploys Riot Police Amid Standoff Over Supreme Court Chief Justice",
+  "body": [
+   {
+    "type": "p",
+    "text": "Polish authorities sent riot police to the Supreme Court building after a confrontation erupted over the suspension of the chief justice. The move follows a decision by judges aligned with the current government to remove the court’s head, a step that has intensified tensions in the capital."
+   },
+   {
+    "type": "p",
+    "text": "The suspension marks the latest development in a protracted legal battle that pits the incumbent administration against the right‑wing party that previously held power. Both sides accuse each other of undermining the independence of the judiciary, and the presence of riot police underscores the seriousness of the dispute."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the standoff reflects broader political friction in Poland, where control of the highest court has become a flashpoint for competing visions of the nation’s legal framework."
+   }
+  ],
+  "key_points": [
+   "Riot police were deployed to the Supreme Court after judges backed by the government suspended the chief justice.",
+   "The incident escalates a long‑running feud between the current government and the former right‑wing ruling party over judicial control."
+  ],
+  "meta_description": "Polish riot police confront protesters after judges suspend the Supreme Court chief justice, heightening a political feud over judicial authority.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Poland",
+   "Supreme Court",
+   "Riot Police",
+   "Chief Justice",
+   "Government Conflict"
+  ],
+  "slug": "poland-deploys-riot-police-amid-standoff-over-supreme-court-ede3ae",
+  "reading_minutes": 1,
+  "added": "2026-10-31T19:31:21Z"
+ },
+ {
+  "id": "2e89c3febb5d7023",
+  "source_url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+  "source": "The Verge",
+  "source_title": "Happy Pikmin Day Eve",
+  "source_summary": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]",
+  "source_tags": [
+   "Entertainment",
+   "Gaming",
+   "News",
+   "Nintendo"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-31T17:50:12+00:00",
+  "headline": "Nintendo Launches First Annual Pikmin Day With New Game Updates",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nintendo announced that November 1 will mark the inaugural Pikmin Day, a new annual celebration for fans of the franchise. The company introduced a brief Pikmin Day Direct presentation, during which longtime series creator Shigeru Miyamoto revealed fresh details about the upcoming Pikmin 4 title for the forthcoming Switch 2 console."
+   },
+   {
+    "type": "p",
+    "text": "In addition to the console update, Miyamoto confirmed an upcoming enhancement for the mobile game Pikmin Bloom, promising players new content and features. The Direct also unveiled \"Hello! Pikmin,\" a series of short videos designed to expand the series' storytelling beyond the games."
+   },
+   {
+    "type": "p",
+    "text": "The announcements signal Nintendo's continued investment in both its flagship hardware lineup and its mobile portfolio, aiming to keep the Pikmin brand active across multiple platforms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event highlights Nintendo's strategy to boost engagement with its iconic franchise across console and mobile markets, relevant to gamers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Nintendo will hold its first Pikmin Day on November 1.",
+   "Shigeru Miyamoto shared new information about Pikmin 4 for the Switch 2.",
+   "Updates to the Pikmin Bloom mobile app and a new \"Hello! Pikmin\" short series were announced."
+  ],
+  "meta_description": "Nintendo announces the first Pikmin Day, revealing Pikmin 4 details for Switch 2 and updates to Pikmin Bloom.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nintendo",
+   "Pikmin",
+   "Switch 2",
+   "mobile gaming",
+   "gaming events"
+  ],
+  "slug": "nintendo-launches-first-annual-pikmin-day-with-new-game-2e89c3",
+  "reading_minutes": 1,
+  "added": "2026-10-31T19:31:17Z"
+ },
+ {
+  "id": "1581f6cb400fb1cd",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+  "source": "The Guardian",
+  "source_title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+  "source_summary": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions more Americans going to the polls compared with the last such election amid a series of tight contests that will determine control of Congress. More than 50.5m early votes have been cast across the US as of Saturday morning, according to an analysis by the University of Florida . This is already nearly 5m more votes than the total number of early votes made in the last midterm elections, in 2022.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Democrats",
+   "Republicans",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/5be30a14eb0d454a08ebdb9b506b0bd380833fdb/2_0_6348_5081/master/6348.jpg?width=700&quality=85&auto=format&fit=max&s=e0e2188297694832f3da5b81adde5bb3",
+  "published": "2026-10-31T16:13:17+00:00",
+  "headline": "Over 50 Million Early Votes Cast Nationwide Ahead of Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "More than 50.5 million Americans have voted early as of Saturday morning, according to an analysis by the University of Florida. This figure already exceeds the total early‑vote count from the 2022 midterm elections by nearly five million, marking a record surge in pre‑election participation."
+   },
+   {
+    "type": "p",
+    "text": "The early‑voting surge is especially pronounced in states that track party affiliation, where Democratic voters outnumber Republicans. The heightened turnout comes amid a slate of tightly contested races that will decide which party controls the House of Representatives and the Senate."
+   },
+   {
+    "type": "p",
+    "text": "Election officials say the early‑voting numbers reflect growing voter engagement and the impact of expanded voting options such as mail‑in ballots and extended polling hours. The trend could shape campaign strategies as candidates and parties adjust to a larger pool of early voters."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher early‑voting participation signals increased voter engagement and may influence the balance of power in Congress, a development of interest to both US and European observers."
+   }
+  ],
+  "key_points": [
+   "Over 50.5 million early votes have been cast, surpassing the total early‑vote count from the 2022 midterms.",
+   "Democrats outpace Republicans in early‑vote totals in states that record party affiliation.",
+   "The record early turnout occurs ahead of closely watched congressional races that will determine control of Congress."
+  ],
+  "meta_description": "Record early voting with over 50 million Americans casting ballots ahead of the midterms, Democrats leading in tracked states.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "early voting",
+   "midterms",
+   "US elections",
+   "voter turnout",
+   "Democrats",
+   "Republicans"
+  ],
+  "slug": "over-50-million-early-votes-cast-nationwide-ahead-midterms-1581f6",
+  "reading_minutes": 1,
+  "added": "2026-10-31T19:31:09Z"
+ },
+ {
+  "id": "e6278e13f31ca761",
+  "source_url": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
+  "source": "The New York Times",
+  "source_title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
+  "source_summary": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them.",
+  "source_tags": [
+   "Food and Drug Administration",
+   "Parenting",
+   "Snack Foods",
+   "Asphyxiation, Choking, and Suffocation",
+   "Recalls and Bans of Products",
+   "Tractor Wheels"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-31T15:43:44+00:00",
+  "headline": "FDA Recalls Once Upon a Farm Tractor Wheels Bars Over Choking Hazard",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Food and Drug Administration has issued a warning and a voluntary recall of Once Upon a Farm’s Tractor Wheels soft‑baked snack bars after multiple reports that toddlers experienced difficulty breathing while eating the product."
+   },
+   {
+    "type": "p",
+    "text": "The FDA’s alert follows incidents in which young children allegedly choked on the bars, prompting the manufacturer to pull the items from shelves nationwide. Parents are advised to stop using the product immediately and to return any unopened packages to the point of purchase for a full refund."
+   },
+   {
+    "type": "p",
+    "text": "The recall affects all sizes and flavors of the Tractor Wheels bars sold in the United States. The agency is monitoring the situation and will provide updates if additional safety concerns arise."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The recall highlights the importance of rigorous safety testing for child‑focused food products, a concern shared by consumers and regulators in both the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "The FDA has ordered a recall of Tractor Wheels snack bars due to choking incidents involving toddlers.",
+   "Parents should stop using the product and return it for a refund.",
+   "The recall covers all U.S. shipments of the soft‑baked bars."
+  ],
+  "meta_description": "FDA recalls Once Upon a Farm Tractor Wheels bars after toddler choking reports; parents urged to stop use and seek refunds.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FDA",
+   "product recall",
+   "food safety",
+   "children",
+   "snack bars"
+  ],
+  "slug": "fda-recalls-once-upon-farm-tractor-wheels-bars-over-e6278e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T19:31:01Z"
+ },
+ {
   "id": "7b5ed5dd303b816a",
   "source_url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
   "source": "The Verge",
