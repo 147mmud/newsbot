@@ -1,5 +1,690 @@
 [
  {
+  "id": "7b5ed5dd303b816a",
+  "source_url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+  "source": "The Verge",
+  "source_title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+  "source_summary": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improvements are quite comprehensive. You can now filter results for files, actions, or web results. […]",
+  "source_tags": [
+   "Microsoft",
+   "News",
+   "Tech",
+   "Windows"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-31T15:12:19+00:00",
+  "headline": "Windows 11 Insider Build Adds Xbox Mode Shortcuts and Enhanced Search",
+  "body": [
+   {
+    "type": "p",
+    "text": "The latest Windows 11 Insider build introduces a set of keyboard shortcuts that work while the system is in Xbox gaming mode. Users can now toggle Bluetooth, Wi‑Fi, and power settings without leaving the game, streamlining the transition between gameplay and system adjustments."
+   },
+   {
+    "type": "p",
+    "text": "In addition to the gaming shortcuts, the build expands the search experience across the OS. The new search bar lets users filter results by file type, specific actions, or web content, making it easier to locate local documents or launch tasks directly from the search pane."
+   },
+   {
+    "type": "p",
+    "text": "Both features aim to keep users in the flow of their activities—whether gaming or working—by reducing the need to switch contexts or open separate settings menus."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Gamers and power users in the US and Europe can stay immersed in games or work while quickly adjusting system settings, improving productivity and convenience."
+   }
+  ],
+  "key_points": [
+   "Xbox mode now includes shortcuts for Bluetooth, Wi‑Fi and power controls.",
+   "Windows 11 search can filter results by files, actions, or web results.",
+   "The updates are part of the current Insider build and target smoother multitasking."
+  ],
+  "meta_description": "Windows 11 Insider build adds Xbox mode shortcuts for Bluetooth, Wi‑Fi and power, plus searchable filters for files, actions and web results.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "windows",
+   "xbox",
+   "search",
+   "shortcuts",
+   "insider build",
+   "gaming"
+  ],
+  "slug": "windows-11-insider-build-adds-xbox-mode-shortcuts-enhanced-7b5ed5",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:15:47Z"
+ },
+ {
+  "id": "a4f6498adccbad68",
+  "source_url": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
+  "source": "The New York Times",
+  "source_title": "What Does Running the N.Y.C. Marathon Sound Like?",
+  "source_summary": "Mike Dang, a 10-time marathoner and New York Times business editor, relives the unique sonic experience of running the New York City Marathon.",
+  "source_tags": [
+   "Running",
+   "New York City Marathon",
+   "Marathon Running",
+   "New York Times",
+   "New York City"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-10-31T15:06:50+00:00",
+  "headline": "NYT Business Editor Describes the Soundscape of the NYC Marathon",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mike Dang, a New York Times business editor who has completed the New York City Marathon ten times, shares his personal recollection of the race’s distinctive audio environment. He recounts the blend of cheering crowds, rhythmic footsteps, and the city’s ambient noises that together create a unique auditory backdrop for runners."
+   },
+   {
+    "type": "p",
+    "text": "Dang emphasizes how the evolving soundscape—from the early miles through the bridges to the finish line in Central Park—shapes the experience of the marathon. He notes that the collective energy of spectators and the city’s own hum become a motivating force for participants."
+   },
+   {
+    "type": "p",
+    "text": "The piece offers readers a sensory glimpse into what it feels like to run the marathon, highlighting how sound contributes to the event’s iconic status among both athletes and the broader public."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the sensory aspects of major sporting events like the NYC Marathon adds depth to coverage of a race that draws participants and viewers worldwide."
+   }
+  ],
+  "key_points": [
+   "Mike Dang, a ten‑time marathoner and NYT business editor, recounts the race’s distinctive sounds.",
+   "The marathon’s audio mix of crowds, footsteps, and city noise creates a motivating atmosphere for runners."
+  ],
+  "meta_description": "NYT business editor Mike Dang describes the unique sounds that define the New York City Marathon experience.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "New York City Marathon",
+   "Mike Dang",
+   "marathon experience",
+   "sports soundscape",
+   "running"
+  ],
+  "slug": "nyt-business-editor-describes-soundscape-nyc-marathon-a4f649",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-10-31T15:15:51Z"
+ },
+ {
+  "id": "2013e3473778b2c5",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/crwydk35zlnvo",
+  "source": "BBC Sport",
+  "source_title": "Hirakawa replaces Ocon for Mexico City Grand Prix",
+  "source_summary": "Ryo Hirakawa will race for Haas at the Mexico City Grand Prix, replacing Esteban Ocon.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec99/live/88031980-d53a-11f1-b64c-03717a6e5b71.jpg",
+  "published": "2026-10-31T15:05:11+00:00",
+  "headline": "Ryo Hirakawa Steps In for Esteban Ocon at Haas for Mexico City GP",
+  "body": [
+   {
+    "type": "p",
+    "text": "Japanese driver Ryo Hirakawa has been confirmed to take the seat at Haas for the upcoming Mexico City Grand Prix. He will replace Frenchman Esteban Ocon for this event, marking his first appearance with the team in the 2026 Formula One season."
+   },
+   {
+    "type": "p",
+    "text": "The change comes as Haas seeks to maintain competitive performance on the high‑altitude circuit in Mexico City. Hirakawa, who has previously competed in various junior formulas, will now have the opportunity to showcase his skills in a top‑tier race environment."
+   },
+   {
+    "type": "p",
+    "text": "Team officials have not disclosed the specific reasons for Ocon's absence, but the substitution ensures that Haas fields a full lineup for the weekend. Hirakawa's participation adds a new dynamic to the grid and could influence the team's points haul from the race."
+   }
+  ],
+  "key_points": [
+   "Ryo Hirakawa will race for Haas at the Mexico City Grand Prix, replacing Esteban Ocon.",
+   "The driver change ensures Haas fields a complete entry for the event.",
+   "Hirakawa's debut with Haas introduces fresh competition on the high‑altitude track."
+  ],
+  "meta_description": "Ryo Hirakawa replaces Esteban Ocon at Haas for the Mexico City Grand Prix, marking his first race with the team this season.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Haas",
+   "Ryo Hirakawa",
+   "Esteban Ocon",
+   "Mexico City Grand Prix"
+  ],
+  "slug": "ryo-hirakawa-steps-esteban-ocon-haas-mexico-city-gp-2013e3",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:15:55Z"
+ },
+ {
+  "id": "e633ba7ef11ee06f",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/31/political-ads-midterms-epstein-republican-candidate",
+  "source": "The Guardian",
+  "source_title": "Ads accusing Republican candidates of protecting Epstein fill airwaves in final midterm push",
+  "source_summary": "But select Democrats, too, are being accused of having ties to the late sex offender as country prepares to vote In races across the country, Democratic candidates or groups that support them have released ads accusing Republicans of protecting pedophiles by voting against legislation to release files related to Jeffrey Epstein . The ads appear intended to evoke an emotional response by accusing candidates of “protecting” Epstein, a notorious pedophile accused of running a sex-trafficking ring involving minors.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Jeffrey Epstein",
+   "Republicans",
+   "Democrats",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/0bd9a7c72e36f34bac2827b73743f2b6a7646857/346_0_2496_1997/master/2496.jpg?width=700&quality=85&auto=format&fit=max&s=ca0801381a2ccfe650f605d164b7fc03",
+  "published": "2026-10-31T15:00:45+00:00",
+  "headline": "Ads Blame Republicans for Shielding Epstein in Final Midterm Push",
+  "body": [
+   {
+    "type": "p",
+    "text": "Television and radio spots released by Democratic candidates and supportive groups are accusing Republican office‑holders of protecting Jeffrey Epstein by opposing legislation that would make his case files public. The ads, which have intensified as the 2026 midterm elections near, claim the GOP is defending a \"notorious pedophile\" and his alleged sex‑trafficking network."
+   },
+   {
+    "type": "p",
+    "text": "The campaign messages also note that some Democrats have faced accusations of their own connections to Epstein, though the new ads focus primarily on Republican opposition to the transparency bill. The advertisements aim to stir an emotional response by linking voting records to the protection of a convicted sex offender."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts say the strategy reflects a broader trend of using high‑profile criminal cases to frame election narratives, especially in tightly contested races across the country."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ads illustrate how contentious criminal‑justice issues are being leveraged in the 2026 U.S. midterm campaigns, potentially influencing voter sentiment in key districts."
+   }
+  ],
+  "key_points": [
+   "Democratic ads allege Republicans are blocking a bill to release Jeffrey Epstein files.",
+   "The ads suggest GOP opposition equates to protecting a convicted sex trafficker.",
+   "Both parties have faced scrutiny over alleged ties to Epstein, but the new ads target Republicans."
+  ],
+  "meta_description": "Democratic ads accuse Republicans of protecting Jeffrey Epstein by opposing a transparency bill as the 2026 midterms approach.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterm elections",
+   "Jeffrey Epstein",
+   "political advertising",
+   "Republican",
+   "Democratic",
+   "legislation"
+  ],
+  "slug": "ads-blame-republicans-shielding-epstein-final-midterm-push-e633ba",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:15:59Z"
+ },
+ {
+  "id": "19744f759fa3ee2f",
+  "source_url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+  "source": "The New York Times",
+  "source_title": "Rare Evacuation Announced by Melania Trump Begins in Ukrainian City of Oleshky",
+  "source_summary": "A few days of truce allowed the removal of remaining civilians from Oleshky, which continual Russian attacks have made all but uninhabitable.",
+  "source_tags": [
+   "Oleshky (Ukraine)",
+   "Kherson (Ukraine)",
+   "Russian Invasion of Ukraine (2022)",
+   "Humanitarian Aid",
+   "Drones (Pilotless Planes)",
+   "Evacuations and Evacuees"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30int-ukraine-oleshky-wtk-01-pwbk/30int-ukraine-oleshky-wtk-01-pwbk-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T15:00:37+00:00",
+  "headline": "Melania Trump Leads Rare Evacuation of Oleshky Amid Russian Assault",
+  "body": [
+   {
+    "type": "p",
+    "text": "A rare humanitarian operation was launched in the Ukrainian city of Oleshky after a brief truce allowed aid workers to reach the area. Former first lady Melania Trump announced the evacuation, marking an unusual involvement by a former U.S. official in the conflict zone."
+   },
+   {
+    "type": "p",
+    "text": "The truce, which lasted only a few days, enabled the removal of the remaining civilian population from Oleshky. Continuous Russian attacks have rendered the city largely uninhabitable, prompting the urgent need to relocate residents to safer locations."
+   },
+   {
+    "type": "p",
+    "text": "Officials said the evacuation aims to protect the few families still living in the war‑torn town and to prevent further civilian casualties as fighting continues in the region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The evacuation underscores the escalating humanitarian crisis in Ukraine, a concern for U.S. and European partners providing aid and diplomatic support."
+   }
+  ],
+  "key_points": [
+   "Melania Trump announced a rare evacuation of civilians from Oleshky, Ukraine.",
+   "A short truce allowed aid workers to extract the remaining residents from a city devastated by Russian attacks.",
+   "The operation highlights the dire humanitarian situation in areas of ongoing conflict."
+  ],
+  "meta_description": "Melania Trump announces a rare evacuation of civilians from Oleshky, Ukraine, after a brief truce amid continuous Russian attacks.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "evacuation",
+   "Melania Trump",
+   "Oleshky",
+   "humanitarian",
+   "Russia"
+  ],
+  "slug": "melania-trump-leads-rare-evacuation-oleshky-amid-russian-assault-19744f",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:16:03Z"
+ },
+ {
+  "id": "e40050fcf4c191a3",
+  "source_url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+  "source": "The Verge",
+  "source_title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+  "source_summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops available in 14- or 16-inch […]",
+  "source_tags": [
+   "Apple",
+   "Apple Event 2026",
+   "Deals",
+   "Gadgets",
+   "Laptops",
+   "Tech",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-31T15:00:00+00:00",
+  "headline": "Best Buy Adds $100 Gift Card to MacBook Pro Touchscreen Preorders",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple’s newest MacBook Pro, featuring a touch‑enabled PROLED XDR display, is now available for preorder at several major retailers. The high‑end laptop comes in 14‑inch and 16‑inch configurations and targets professionals seeking advanced screen technology."
+   },
+   {
+    "type": "p",
+    "text": "Best Buy is offering an additional incentive: a $100 gift card that is automatically added to the shopping cart when customers preorder the device through the retailer. The promotion applies to all eligible MacBook Pro models with the new touchscreen feature."
+   },
+   {
+    "type": "p",
+    "text": "The gift‑card bonus is intended to make the premium laptop more attractive amid strong competition in the high‑performance notebook market. Shoppers can claim the card without entering a promo code, simplifying the checkout process."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The added incentive could sway tech‑savvy consumers in the US and Europe toward Best Buy for high‑end Apple laptops, impacting retail competition."
+   }
+  ],
+  "key_points": [
+   "Best Buy includes a $100 gift card with every touchscreen MacBook Pro preorder.",
+   "The offer applies to both 14‑inch and 16‑inch PROLED XDR models.",
+   "The gift card is added automatically at checkout, requiring no extra steps."
+  ],
+  "meta_description": "Best Buy bundles a $100 gift card with preorder purchases of Apple’s touchscreen MacBook Pro, available in 14‑ and 16‑inch models.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "Best Buy",
+   "MacBook Pro",
+   "gift card",
+   "preorder",
+   "PROLED XDR"
+  ],
+  "slug": "best-buy-adds-100-gift-card-macbook-pro-touchscreen-e40050",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:16:07Z"
+ },
+ {
+  "id": "589329f72aa8c948",
+  "source_url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+  "source": "The Verge",
+  "source_title": "Vic Mensa can’t live without the Voice Memos app",
+  "source_summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single \"Down On My Luck\"? Maybe you […]",
+  "source_tags": [
+   "Entertainment",
+   "Interview",
+   "Music",
+   "Report"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-31T15:00:00+00:00",
+  "headline": "Vic Mensa Credits Voice Memos App as Essential Creative Tool",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rapper and songwriter Vic Mensa says the Voice Memos app is indispensable for capturing musical ideas on the go. He explained that the app allows him to quickly record melodies, lyrics, and beats whenever inspiration strikes, whether he’s in the studio or traveling."
+   },
+   {
+    "type": "p",
+    "text": "Mensa highlighted that the simplicity of the built‑in iPhone app lets him focus on the creative process without the distraction of complex software. He often revisits these recordings later to develop full tracks, noting that many of his recent releases began as short voice memos."
+   },
+   {
+    "type": "p",
+    "text": "The artist’s reliance on the app underscores a broader trend among musicians who favor lightweight, readily available tools for songwriting. By keeping his workflow streamlined, Mensa aims to maintain a steady flow of new material."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story illustrates how widely used consumer apps can shape professional creative workflows, a trend relevant to both artists and tech users in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Vic Mensa uses the Voice Memos app to capture song ideas instantly.",
+   "He values the app’s simplicity for focusing on creativity rather than technical setup.",
+   "Mensa’s approach reflects a growing preference for minimalist tech in music production."
+  ],
+  "meta_description": "Vic Mensa says the Voice Memos app is essential for recording ideas, highlighting a minimalist tech trend in music creation.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Vic Mensa",
+   "Voice Memos",
+   "music production",
+   "creative tools",
+   "technology"
+  ],
+  "slug": "vic-mensa-credits-voice-memos-app-essential-creative-tool-589329",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:16:27Z"
+ },
+ {
+  "id": "e7b3033ec65d3c31",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo",
+  "source": "BBC News",
+  "source_title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+  "source_summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-10-31T14:53:34+00:00",
+  "headline": "Evacuees From War‑Torn Russian‑Occupied City Arrive in Ukraine",
+  "body": [
+   {
+    "type": "p",
+    "text": "A group of residents fled the heavily damaged city under Russian occupation and reached safety in Ukraine on Friday. The exodus followed a cease‑fire agreement that was negotiated by U.S. First Lady Melania Trump."
+   },
+   {
+    "type": "p",
+    "text": "The displaced persons left a city that had been described as devastated, with reports that some inhabitants resorted to eating weeds to survive. Their arrival in Ukraine marks the first organized movement of civilians out of the enclave since the cease‑fire took effect."
+   },
+   {
+    "type": "p",
+    "text": "Humanitarian agencies are preparing to provide assistance to the evacuees, who are expected to receive food, medical care and shelter as they settle in temporary facilities near the border."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The cease‑fire and evacuation illustrate the role of U.S. diplomatic efforts in easing humanitarian crises in the Russia‑Ukraine conflict, a concern for European security and aid planning."
+   }
+  ],
+  "key_points": [
+   "Residents escaped a war‑damaged Russian‑occupied city after a cease‑fire brokered by Melania Trump.",
+   "The evacuees arrived in Ukraine on Friday and will receive humanitarian aid.",
+   "The situation highlights ongoing civilian hardship in the conflict zone."
+  ],
+  "meta_description": "Residents flee a devastated Russian‑occupied city and arrive in Ukraine after a cease‑fire negotiated by U.S. First Lady Melania Trump.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Russia",
+   "evacuation",
+   "humanitarian",
+   "ceasefire",
+   "Melania Trump"
+  ],
+  "slug": "evacuees-from-wartorn-russianoccupied-city-arrive-ukraine-e7b303",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:16:23Z"
+ },
+ {
+  "id": "801b6743dfbf1722",
+  "source_url": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
+  "source": "The New York Times",
+  "source_title": "The New Hot Job in Law Doesn’t Require a J.D.",
+  "source_summary": "Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. skills.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Legal Profession",
+   "Hiring and Promotion",
+   "Labor and Jobs"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DB-legal-engineers-puri-gzhc/31DB-legal-engineers-puri-gzhc-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T14:48:29+00:00",
+  "headline": "Legal Engineers Surge as Big Law Firms Seek AI‑Savvy Lawyers",
+  "body": [
+   {
+    "type": "p",
+    "text": "Major law firms, legal‑technology vendors, and corporate legal departments are adding a new role called legal engineer to their staff. The position blends traditional legal training with expertise in artificial‑intelligence tools, allowing firms to automate routine tasks and improve document analysis."
+   },
+   {
+    "type": "p",
+    "text": "Companies such as Microsoft and Nvidia have announced openings for legal engineers within their in‑house teams, signaling a broader shift toward AI integration across the legal sector. Recruiters emphasize that a Juris Doctor is not required; instead, candidates need strong technical skills and familiarity with AI applications."
+   },
+   {
+    "type": "p",
+    "text": "The trend reflects growing demand for professionals who can bridge the gap between law and technology, offering firms a competitive edge in managing large volumes of data and delivering faster client services."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rise of legal engineers could reshape hiring practices for lawyers in the US and Europe, highlighting the importance of tech fluency in the legal profession."
+   }
+  ],
+  "key_points": [
+   "Law firms and corporate legal departments are hiring legal engineers to combine legal knowledge with AI skills.",
+   "A J.D. is not mandatory for the role; technical proficiency in AI tools is the primary requirement.",
+   "Tech giants like Microsoft and Nvidia are among the first companies to create in‑house legal‑engineer positions."
+  ],
+  "meta_description": "Law firms and tech firms are hiring legal engineers, a new AI‑focused role that doesn't require a J.D., to boost efficiency and data handling.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "legal tech",
+   "AI",
+   "hiring",
+   "law firms",
+   "in‑house counsel"
+  ],
+  "slug": "legal-engineers-surge-big-law-firms-seek-aisavvy-lawyers-801b67",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:16:11Z"
+ },
+ {
+  "id": "673ad4fa24284c13",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o",
+  "source": "BBC Sport",
+  "source_title": "A 3/10 that might be generous - player ratings for Chelsea v Man Utd",
+  "source_summary": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3256/live/7a023db0-d53b-11f1-93e1-3b657b665bcf.png",
+  "published": "2026-10-31T14:35:50+00:00",
+  "headline": "Chelsea Defeat Manchester United as Rogers and Palmer Score",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chelsea secured a home victory over Manchester United, with Morgan Rogers and Cole Palmer each finding the net in the second half. The win was highlighted by a series of player ratings that placed the Chelsea attackers among the top performers on the pitch."
+   },
+   {
+    "type": "p",
+    "text": "Manchester United were hampered by a red card for defender Lisandro Martinez, who was sent off during the match. The dismissal further limited United's ability to respond to Chelsea's attacking surge."
+   },
+   {
+    "type": "p",
+    "text": "Overall, the ratings reflected a dominant display from Chelsea, while United's defensive frailties were exposed after Martinez's departure. The result leaves both teams with points to consider as the season progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result impacts the Premier League standings, influencing title and European qualification battles for clubs in England and across Europe."
+   }
+  ],
+  "key_points": [
+   "Morgan Rogers and Cole Palmer scored second‑half goals for Chelsea.",
+   "Lisandro Martinez was sent off, weakening Manchester United's defense.",
+   "Player ratings rated Chelsea's performers higher than United's."
+  ],
+  "meta_description": "Chelsea beat Manchester United with goals from Rogers and Palmer as Martinez receives a red card; player ratings highlight the performances.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chelsea",
+   "Manchester United",
+   "Premier League",
+   "player ratings",
+   "red card",
+   "Morgan Rogers"
+  ],
+  "slug": "chelsea-defeat-manchester-united-rogers-palmer-score-673ad4",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:16:15Z"
+ },
+ {
+  "id": "501269b9996e0604",
+  "source_url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+  "source": "The New York Times",
+  "source_title": "How Binance’s $6.3 Billion Hack Went Down",
+  "source_summary": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
+  "source_tags": [
+   "Virtual Currency",
+   "Robberies and Thefts",
+   "Money Laundering",
+   "Cyberattacks and Hackers",
+   "Cyberwarfare and Defense",
+   "Computers and the Internet",
+   "Banking and Financial Institutions",
+   "Binance",
+   "Bybit Fintech Ltd",
+   "Chainalysis Inc"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/30/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T14:29:34+00:00",
+  "headline": "Inside Binance’s $6.3 Billion Hack and the 24‑Hour War Room Response",
+  "body": [
+   {
+    "type": "p",
+    "text": "The world’s largest cryptocurrency exchange, Binance, suffered a $6.3 billion theft, prompting an emergency war room to be set up within hours of the breach. Executives and security teams coordinated a global conference call to assess the damage and begin containment measures."
+   },
+   {
+    "type": "p",
+    "text": "During the crisis, Binance’s founder took to social media, live‑posting updates about the unfolding heist, which has been described as the biggest crypto robbery in history. The rapid communication aimed to keep stakeholders informed while investigators traced the illicit transfers."
+   },
+   {
+    "type": "p",
+    "text": "The incident highlighted the vulnerabilities inherent in digital asset platforms and sparked intense scrutiny of security protocols across the industry. Binance’s swift, coordinated response underscored the high stakes involved when billions of dollars move through a single exchange."
+   }
+  ],
+  "key_points": [
+   "Binance lost $6.3 billion in a single hack, the largest crypto theft recorded.",
+   "The exchange activated a 24‑hour war room and global conference call to manage the breach.",
+   "Founder’s live‑posted updates kept the public and investors informed during the crisis."
+  ],
+  "meta_description": "Binance’s $6.3 billion hack triggered a 24‑hour war room and live updates from its founder, marking the biggest crypto theft ever.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Binance",
+   "crypto hack",
+   "security breach",
+   "digital assets",
+   "exchange"
+  ],
+  "slug": "inside-binances-6-3-billion-hack-24hour-war-room-501269",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:16:31Z"
+ },
+ {
+  "id": "ea5ffaf9c4b4394a",
+  "source_url": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
+  "source": "The New York Times",
+  "source_title": "Susan Collins Is Always Keeping Score",
+  "source_summary": "The long-serving senator has delivered millions of dollars to every corner of her state. But in Maine, people say, it’s best to avoid getting on her bad side.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Collins, Susan M",
+   "Jackson, Troy D (1968- )",
+   "Maine",
+   "Senate"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-collins-maine-boss-04-clqp/31pol-collins-maine-boss-04-clqp-mediumSquareAt3X.jpg",
+  "published": "2026-10-31T14:29:18+00:00",
+  "headline": "Senator Susan Collins Delivers Millions Across Maine While Keeping Score",
+  "body": [
+   {
+    "type": "p",
+    "text": "Long‑time Maine Republican Senator Susan Collins has a reputation for channeling federal dollars into projects throughout the state. According to the New York Times, she has secured millions of dollars for communities in every corner of Maine, reflecting her focus on delivering tangible benefits to constituents."
+   },
+   {
+    "type": "p",
+    "text": "Despite the flow of funds, the article notes a contrasting sentiment among some Mainers: many advise others to steer clear of crossing Collins, suggesting that her influence can be a double‑edged sword. This perception underscores the political weight she carries in the state."
+   },
+   {
+    "type": "p",
+    "text": "Collins’s track record of directing resources highlights her role in shaping Maine’s infrastructure and services, while the cautionary remarks illustrate the personal dynamics that often accompany long‑standing political power."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Collins’s ability to direct federal funding impacts Maine’s local economies and illustrates the broader influence of senior members of the U.S. Senate."
+   }
+  ],
+  "key_points": [
+   "Senator Susan Collins has secured millions of dollars for projects across Maine.",
+   "Some Mainers warn that it is wise to avoid antagonizing the influential senator."
+  ],
+  "meta_description": "Senator Susan Collins has delivered millions to Maine while maintaining a reputation that prompts locals to avoid her bad side.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Susan Collins",
+   "Maine",
+   "federal funding",
+   "U.S. Senate",
+   "political influence"
+  ],
+  "slug": "senator-susan-collins-delivers-millions-across-maine-while-keeping-ea5ffa",
+  "reading_minutes": 1,
+  "added": "2026-10-31T15:16:19Z"
+ },
+ {
   "id": "3e52a0850212d997",
   "source_url": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
