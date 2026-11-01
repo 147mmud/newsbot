@@ -1,5 +1,436 @@
 [
  {
+  "id": "1c70fcd9c86136ad",
+  "source_url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "FBI says North Korea behind $6 billion Binance crypto theft",
+  "source_summary": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79819974_6.jpg",
+  "published": "2026-11-01T01:53:00+00:00",
+  "headline": "FBI Blames North Korea for $6 Billion Binance Crypto Heist",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Federal Bureau of Investigation announced that a $6 billion theft from the cryptocurrency exchange Binance was linked to malicious cyber activity originating from North Korea. The agency identified the hacking group as TraderTraitor, which it says orchestrated the breach."
+   },
+   {
+    "type": "p",
+    "text": "TraderTraitor is also accused of carrying out the $1.5 billion hack of rival platform Bybit last year, suggesting a pattern of large‑scale attacks by the same actors. The FBI’s statement did not provide further technical details about how the theft was executed or the current status of the stolen funds."
+   },
+   {
+    "type": "p",
+    "text": "U.S. authorities are continuing to investigate the incident and are working with international partners to trace the assets and hold the perpetrators accountable. The case underscores ongoing concerns about the vulnerability of crypto exchanges to state‑sponsored cybercrime."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The theft highlights the growing threat of state‑backed cyber attacks on global crypto markets, affecting investors in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "The FBI attributes a $6 billion Binance theft to a North Korean hacking group called TraderTraitor.",
+   "TraderTraitor was also behind a $1.5 billion Bybit hack last year.",
+   "U.S. officials are coordinating with allies to investigate and recover the stolen cryptocurrency."
+  ],
+  "meta_description": "FBI says North Korean group TraderTraitor stole $6 billion from Binance, linking it to a prior $1.5 billion Bybit hack.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cryptocurrency",
+   "cybersecurity",
+   "North Korea",
+   "FBI",
+   "Binance",
+   "crypto theft"
+  ],
+  "slug": "fbi-blames-north-korea-6-billion-binance-crypto-heist-1c70fc",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-01T02:06:50Z"
+ },
+ {
+  "id": "d931d79e15935141",
+  "source_url": "https://www.nytimes.com/2026/10/31/us/politics/trump-habba-mildon-lawyer.html",
+  "source": "The New York Times",
+  "source_title": "Trump Calls Former Lawyer’s $50 Million Deal ‘Obnoxious and Outrageous’",
+  "source_summary": "At a Halloween event in Florida, President Trump told reporters that Alina Habba Mildon’s lucrative work for someone seeking a pardon was “not acceptable.”",
+  "source_tags": [
+   "United States Politics and Government",
+   "Legal Profession",
+   "Justice Department",
+   "Habba, Alina",
+   "Trump, Donald J",
+   "Amnesties, Commutations and Pardons"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31dc-mildon-fchv/31dc-mildon-fchv-mediumSquareAt3X.jpg",
+  "published": "2026-11-01T01:37:37+00:00",
+  "headline": "Trump Labels Former Lawyer’s $50 Million Pardon Deal ‘Obnoxious’",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump criticized a $50 million arrangement made by former attorney Alina Habba Mildon on behalf of a client seeking a presidential pardon. Speaking at a Halloween gathering in Florida, Trump called the deal \"obnoxious and outrageous\" and said it was \"not acceptable.\""
+   },
+   {
+    "type": "p",
+    "text": "Habba Mildon, who previously served as Trump's personal lawyer, was reported to have secured the lucrative contract for a person hoping to obtain clemency. The president’s remarks highlighted his disapproval of the financial terms and the perceived exploitation of the pardon process."
+   },
+   {
+    "type": "p",
+    "text": "The comments were made to reporters covering the event and underscore ongoing scrutiny of how legal services related to presidential pardons are priced and disclosed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remarks raise questions about the ethics of monetizing pardon requests, a topic of interest to both U.S. and European audiences monitoring political accountability."
+   }
+  ],
+  "key_points": [
+   "Trump denounced a $50 million pardon‑related contract arranged by former lawyer Alina Habba Mildon.",
+   "He described the deal as \"obnoxious and outrageous\" during a Florida Halloween event.",
+   "The criticism adds to broader concerns about the commercialization of presidential clemency."
+  ],
+  "meta_description": "Trump calls a former lawyer's $50 million pardon deal 'obnoxious' at a Florida Halloween event, sparking ethics concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "pardon",
+   "legal ethics",
+   "Florida",
+   "Alina Habba Mildon",
+   "$50 million"
+  ],
+  "slug": "trump-labels-former-lawyers-50-million-pardon-deal-obnoxious-d931d7",
+  "reading_minutes": 1,
+  "added": "2026-11-01T02:06:54Z"
+ },
+ {
+  "id": "bb27708950618af6",
+  "source_url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
+  "source": "BBC News",
+  "source_title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+  "source_summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-01T01:37:26+00:00",
+  "headline": "Obscure Firms Amplify Concerns Over AI Bubble Debt Burden",
+  "body": [
+   {
+    "type": "p",
+    "text": "A group of little‑known companies operating data centres are said to be stoking worries that the artificial‑intelligence investment boom could collapse. These firms hold debt that runs into the tens of billions of pounds, according to the report."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the sheer scale of borrowing tied to data‑centre infrastructure creates a financial risk if AI‑related spending slows. The opaque nature of these firms makes it difficult for investors to gauge the true exposure."
+   },
+   {
+    "type": "p",
+    "text": "The situation highlights a broader issue of hidden liabilities within the fast‑growing AI sector, prompting calls for greater transparency and scrutiny of the financing behind data‑centre operations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "US and European investors are exposed to similar AI‑related financing risks, making the hidden debt in data‑centre firms a potential global market concern."
+   }
+  ],
+  "key_points": [
+   "Data‑centre firms with little public profile hold debt measured in tens of billions of pounds.",
+   "The high debt load fuels fears that a slowdown in AI spending could trigger a bubble burst.",
+   "Lack of transparency around these firms complicates risk assessment for investors."
+  ],
+  "meta_description": "Obscure data‑centre firms hold tens of billions of pounds in debt, raising fears of an AI bubble burst.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "data centres",
+   "debt",
+   "investment risk",
+   "financial transparency"
+  ],
+  "slug": "obscure-firms-amplify-concerns-over-ai-bubble-debt-burden-bb2770",
+  "reading_minutes": 1,
+  "added": "2026-11-01T02:06:58Z"
+ },
+ {
+  "id": "fe25a1682cd9d2b4",
+  "source_url": "https://www.bbc.co.uk/news/articles/c893z699q401o",
+  "source": "BBC News",
+  "source_title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+  "source_summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg",
+  "published": "2026-11-01T00:55:06+00:00",
+  "headline": "Serbia's Vučić Defeated in Vote Mirrors Orbán's Hungarian Loss",
+  "body": [
+   {
+    "type": "p",
+    "text": "Aleksandar Vučić of Serbia suffered a defeat in last weekend's election, an outcome that analysts say closely parallels Viktor Orbán's recent loss in Hungary. Both leaders, who have dominated their respective political landscapes for years, faced unexpected setbacks that ended their long‑standing grip on power."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the two defeats share similar dynamics, including voter fatigue with entrenched rule and rising opposition coalitions. While specific vote counts were not disclosed, the results signal a shift in Central and Eastern European politics toward greater electoral competition."
+   },
+   {
+    "type": "p",
+    "text": "The parallel draws attention to broader regional trends, suggesting that even established populist leaders are vulnerable to changing public sentiment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The defeats of two long‑time leaders in neighboring countries could reshape political alliances and policy directions across Central Europe, affecting EU relations and regional stability."
+   }
+  ],
+  "key_points": [
+   "Serbian Prime Minister Aleksandar Vučić lost a recent vote, echoing Viktor Orbán's defeat in Hungary.",
+   "Both leaders had long‑standing dominance before the unexpected setbacks.",
+   "Analysts link the outcomes to voter fatigue and stronger opposition alliances."
+  ],
+  "meta_description": "Serbian leader Aleksandar Vučić's recent electoral loss mirrors Viktor Orbán's defeat in Hungary, highlighting shifting political tides in the region.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Serbia",
+   "Hungary",
+   "Aleksandar Vučić",
+   "Viktor Orbán",
+   "elections",
+   "European politics"
+  ],
+  "slug": "serbia-s-vucic-defeated-vote-mirrors-orban-s-hungarian-fe25a1",
+  "reading_minutes": 1,
+  "added": "2026-11-01T02:07:06Z"
+ },
+ {
+  "id": "7ded277d430915bd",
+  "source_url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+  "source": "BBC News",
+  "source_title": "India's opposition set to hold mega rally seeking election chief's resignation",
+  "source_summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e057/live/87e1b610-d44e-11f1-8780-edcbf4859104.jpg",
+  "published": "2026-11-01T00:12:07+00:00",
+  "headline": "India's Opposition Plans Massive Rally Demanding Election Chief Resign",
+  "body": [
+   {
+    "type": "p",
+    "text": "India's main opposition parties are set to stage a large-scale rally demanding the resignation of the country's election chief. The demonstration is being organized as protests grow over a recent voter‑roll revision exercise that critics say could remove up to 130 million voters from the electoral register."
+   },
+   {
+    "type": "p",
+    "text": "The opposition argues that the revision threatens the integrity of the upcoming elections and calls for an independent review of the process. Organisers have warned that the rally will draw thousands of participants from across the nation, aiming to pressure the election commission into stepping down and revisiting the roll‑cleaning measures."
+   },
+   {
+    "type": "p",
+    "text": "Election officials have defended the revision as necessary to eliminate duplicate and outdated entries, but the opposition maintains that the scale of the deletions could disenfranchise a significant portion of the electorate."
+   }
+  ],
+  "key_points": [
+   "Opposition parties plan a mega rally to force the election chief's resignation.",
+   "Critics say the voter‑roll cleanup could exclude as many as 130 million voters.",
+   "The rally seeks an independent review of the roll‑revision process."
+  ],
+  "meta_description": "India's opposition plans a massive rally demanding the election chief's resignation over a voter‑roll revision that could affect 130 million voters.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "opposition",
+   "election chief",
+   "voter rolls",
+   "rally"
+  ],
+  "slug": "india-s-opposition-plans-massive-rally-demanding-election-chief-7ded27",
+  "reading_minutes": 1,
+  "added": "2026-11-01T02:07:14Z"
+ },
+ {
+  "id": "0f42070470ec3ca8",
+  "source_url": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
+  "source": "The New York Times",
+  "source_title": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
+  "source_summary": "Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.",
+  "source_tags": [
+   "Chili's Restaurants",
+   "Food Safety",
+   "Chemicals",
+   "Cocktails and Mixed Drinks",
+   "Restaurants",
+   "Bars and Nightclubs",
+   "North Carolina"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31xp-drinks/31xp-drinks-mediumSquareAt3X.jpg",
+  "published": "2026-11-01T00:08:24+00:00",
+  "headline": "Chili’s Margaritas Cause Degreaser Burns for Five North Carolina Patrons",
+  "body": [
+   {
+    "type": "p",
+    "text": "Health officials in North Carolina reported that three customers and two employees suffered burns to their mouths and surrounding areas after a granulated substance was mistakenly used as sugar on the rim of Chili’s margaritas. The substance, identified as a kitchen degreaser, was applied to the glasses before serving."
+   },
+   {
+    "type": "p",
+    "text": "The incident was discovered when the affected individuals experienced immediate irritation and burning sensations while drinking the cocktails. Emergency responders treated the victims, and the restaurant chain initiated an internal investigation to determine how the cleaning product was confused with a sweetener."
+   },
+   {
+    "type": "p",
+    "text": "Chili’s management said it is cooperating with local health authorities and has removed the contaminated product from all locations while reviewing safety protocols. The North Carolina Department of Health and Human Services is monitoring the situation and will release further guidance if needed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights the importance of strict kitchen safety protocols to prevent cross‑contamination, a concern for restaurants and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Five people were burned after a degreaser was used instead of sugar on margarita rims at Chili’s in North Carolina.",
+   "The mistake was identified by health officials, prompting an investigation and removal of the product.",
+   "Chili’s is working with authorities to improve safety procedures."
+  ],
+  "meta_description": "Five people burned after a degreaser was used on Chili's margarita rims in North Carolina, prompting an investigation.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "food safety",
+   "restaurant incident",
+   "North Carolina",
+   "Chili's",
+   "public health"
+  ],
+  "slug": "chilis-margaritas-cause-degreaser-burns-five-north-carolina-patrons-0f4207",
+  "reading_minutes": 1,
+  "added": "2026-11-01T02:07:02Z"
+ },
+ {
+  "id": "3cd8b2a86b335030",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/31/abdul-el-sayed-haley-stevens-disinvited-from-events",
+  "source": "The Guardian",
+  "source_title": "Abdul El-Sayed’s campaign disinvites Haley Stevens from events to limit ‘distractions’",
+  "source_summary": "A public spat has cast Democratic tensions in the spotlight as the close US Senate race draws to a head Abdul El-Sayed, the Democratic nominee for Michigan’s tightly fought US Senate race, has asked Democratic congresswoman Haley Stevens to stay away from his campaign events. “I don’t want any distractions,” El-Sayed told reporters after a campaign rally, according to the New York Times . “It seems as though other folks are more interested in making this race about things that it’s not about.”",
+  "source_tags": [
+   "Michigan",
+   "US news",
+   "Democrats",
+   "US politics",
+   "US Senate"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/caeaea960a76da981f528171c51ccb376fbd0424/0_0_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=0d3736c98236df14becd6b55be0a2d6b",
+  "published": "2026-10-31T23:58:44+00:00",
+  "headline": "Michigan Senate Candidate El‑Sayed Bars Rep. Stevens From Events",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic Senate hopeful Abdul El‑Sayed asked fellow Democrat Rep. Haley Stevens to stay away from his campaign gatherings in Michigan, saying he wants to avoid any distractions that could shift focus from the race itself. The request was made public after a rally, with El‑Sayed telling reporters he does not want the contest turned into something it is not, according to the New York Times."
+   },
+   {
+    "type": "p",
+    "text": "El‑Sayed’s move highlights growing tension within the Democratic Party as the closely watched Michigan Senate race heads toward the November ballot. Stevens, a congresswoman from the state’s 11th district, has been a prominent supporter of the party’s broader agenda, but El‑Sayed indicated that her presence could draw attention away from his own campaign messaging."
+   },
+   {
+    "type": "p",
+    "text": "The decision underscores the candidate’s strategy to keep the campaign narrative tightly controlled and to prevent intra‑party dynamics from dominating media coverage in the final weeks before the election."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute illustrates the challenges the Democratic Party faces in maintaining unity ahead of a pivotal Senate contest that could affect control of Congress."
+   }
+  ],
+  "key_points": [
+   "Democratic Senate candidate Abdul El‑Sayed asked Rep. Haley Stevens to avoid his campaign events.",
+   "El‑Sayed said he wants to prevent distractions that could shift the race’s focus.",
+   "The request reflects internal tensions as the Michigan Senate race tightens."
+  ],
+  "meta_description": "Michigan Senate candidate Abdul El‑Sayed asks Rep. Haley Stevens to stay away from his events to avoid distractions, highlighting intra‑party tension.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Michigan",
+   "Senate race",
+   "Abdul El‑Sayed",
+   "Haley Stevens",
+   "Democratic Party"
+  ],
+  "slug": "michigan-senate-candidate-elsayed-bars-rep-stevens-from-events-3cd8b2",
+  "reading_minutes": 1,
+  "added": "2026-11-01T02:07:10Z"
+ },
+ {
+  "id": "fdc667fffbbb4be4",
+  "source_url": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+  "source": "NPR",
+  "source_title": "Virginia and D.C. sue to block construction of Trump arch",
+  "source_summary": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3979x2653+0+0/resize/3979x2653!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa2%2F645cbd55439bbd497811fb489444%2Fap26291517141879.jpg",
+  "published": "2026-10-31T22:48:51+00:00",
+  "headline": "Virginia, D.C. Seek Halt to Trump Arch; Judge Sets Briefing Deadline",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Commonwealth of Virginia and the District of Columbia have filed a lawsuit aiming to stop the construction of a proposed Trump memorial arch. The case centers on a request for a temporary restraining order to block the project."
+   },
+   {
+    "type": "p",
+    "text": "U.S. District Court Judge Tanya Chutkin ordered both parties to engage in discussions and to agree on a proposed briefing schedule for the restraining order motion by Saturday evening. The judge’s directive moves the litigation forward toward a potential hearing on the injunction."
+   }
+  ],
+  "key_points": [
+   "Virginia and D.C. are suing to block a Trump memorial arch.",
+   "Judge Tanya Chutkin set a deadline for both sides to agree on a briefing schedule by Saturday."
+  ],
+  "meta_description": "Virginia and D.C. sue to stop a Trump arch; a federal judge orders briefing schedule by Saturday.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Virginia",
+   "Washington DC",
+   "lawsuit",
+   "monument",
+   "court"
+  ],
+  "slug": "virginia-d-c-seek-halt-trump-arch-judge-sets-fdc667",
+  "reading_minutes": 1,
+  "added": "2026-11-01T02:07:18Z"
+ },
+ {
   "id": "5fcb2bc59ce028bf",
   "source_url": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o",
   "source": "BBC Sport",
@@ -144,6 +575,101 @@
   "slug": "coventry-city-escape-relegation-zone-with-victory-over-sunderland-ee0d31",
   "reading_minutes": 1,
   "added": "2026-10-31T22:47:28Z"
+ },
+ {
+  "id": "b43a29b8fd92fcda",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c8qln4qq2656o",
+  "source": "BBC Sport",
+  "source_title": "Enciso's stunning goal earns Ipswich draw at Hull",
+  "source_summary": "Julio Enciso scores the equalising goal for Ipswich as they draw 2-2 with Hull at the MKM Stadium.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4cb/live/4de6b580-d563-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-10-31T22:29:40+00:00",
+  "headline": "Julio Enciso’s Late Equaliser Secures 2-2 Draw for Ipswich at Hull",
+  "body": [
+   {
+    "type": "p",
+    "text": "Julio Enciso delivered the decisive strike for Ipswich Town as the visitors fought back to level the score against Hull City. The Paraguayan forward found the net in the second half, restoring parity and sparking a tense finish at the MKM Stadium."
+   },
+   {
+    "type": "p",
+    "text": "The match concluded in a 2-2 stalemate, with both sides sharing the spoils after a series of attacking moves. Hull had opened the scoring, but Ipswich responded quickly, only for Hull to regain the lead before Enciso's goal forced the draw."
+   },
+   {
+    "type": "p",
+    "text": "Both clubs earned a point from the encounter, leaving their positions in the English Championship unchanged for the moment. The result highlights Ipswich's resilience and Hull's ability to stay competitive in a tightly contested league."
+   }
+  ],
+  "key_points": [
+   "Julio Enciso scored the equalising goal for Ipswich Town.",
+   "The game ended 2-2 between Ipswich and Hull at the MKM Stadium.",
+   "Both teams collected one point from the match."
+  ],
+  "meta_description": "Julio Enciso's late goal secures a 2-2 draw for Ipswich Town against Hull City at the MKM Stadium.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "football",
+   "English Championship",
+   "Ipswich Town",
+   "Hull City",
+   "Julio Enciso"
+  ],
+  "slug": "julio-encisos-late-equaliser-secures-2-2-draw-ipswich-b43a29",
+  "reading_minutes": 1,
+  "added": "2026-11-01T02:07:22Z"
+ },
+ {
+  "id": "ddf5451327cb15f2",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cxvgdrg33m72o",
+  "source": "BBC Sport",
+  "source_title": "Spurs revival continues with victory over 10-man Crystal Palace",
+  "source_summary": "Jean-Philippe Mateta was shown an early red card as Crystal Palace lose 2-0 at Tottenham to increase the pressure on manager Pierre Sage.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9230/live/038f60d0-d564-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-10-31T22:29:29+00:00",
+  "headline": "Spurs Extend Winning Run with 2-0 Victory Over 10-Man Crystal Palace",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tottenham Hotspur secured a 2-0 win at home, further boosting their recent form in the Premier League. The goals came as the Spurs maintained pressure throughout the match, capitalising on the advantage of playing on familiar ground."
+   },
+   {
+    "type": "p",
+    "text": "Crystal Palace were reduced to ten men early in the game when Jean‑Philippe Mateta received a straight red card, leaving manager Pierre Sage with a depleted side. The dismissal limited Palace's attacking options and contributed to their inability to respond to Tottenham's scoring chances."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result impacts the Premier League standings as Tottenham continue their resurgence, while Palace faces a challenging period under their manager."
+   }
+  ],
+  "key_points": [
+   "Tottenham defeated Crystal Palace 2-0 at home.",
+   "Jean‑Philippe Mateta was sent off early, leaving Palace with ten players.",
+   "The loss adds pressure on Palace manager Pierre Sage."
+  ],
+  "meta_description": "Tottenham beat 10‑man Crystal Palace 2-0, with early red card to Jean‑Philippe Mateta adding pressure on manager Pierre Sage.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tottenham",
+   "Crystal Palace",
+   "Premier League",
+   "Jean-Philippe Mateta",
+   "red card",
+   "Pierre Sage"
+  ],
+  "slug": "spurs-extend-winning-run-with-2-0-victory-over-ddf545",
+  "reading_minutes": 1,
+  "added": "2026-11-01T02:07:30Z"
  },
  {
   "id": "ebf152df9eedad20",
@@ -429,6 +955,66 @@
   "added": "2026-10-31T22:47:32Z"
  },
  {
+  "id": "bc398a80a0dffe88",
+  "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+  "source": "TechCrunch",
+  "source_title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+  "source_summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+  "source_tags": [
+   "AI",
+   "Government & Policy",
+   "SpaceX",
+   "xAI"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+  "published": "2026-10-31T21:17:03+00:00",
+  "headline": "Judge Grants NAACP Suit to Proceed Against xAI Over Air Pollution",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge has ruled that the NAACP's lawsuit against xAI, the artificial‑intelligence subsidiary of SpaceX, can move forward. The legal action alleges that the company's data center operations are in violation of the Clean Air Act, claiming that emissions from the facility have adversely impacted surrounding communities."
+   },
+   {
+    "type": "p",
+    "text": "The NAACP contends that the data center's pollutants exceed permissible limits and that the company failed to obtain necessary environmental permits. By allowing the case to continue, the court acknowledges that the plaintiffs have presented sufficient factual allegations to merit further judicial review."
+   },
+   {
+    "type": "p",
+    "text": "The decision comes amid heightened scrutiny of tech firms' environmental footprints, particularly as large‑scale AI infrastructure expands across the United States. Industry observers note that the outcome could set a precedent for how environmental regulations are applied to high‑energy computing facilities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights growing regulatory focus on the environmental impact of AI data centers, a concern for both US and European policymakers."
+   }
+  ],
+  "key_points": [
+   "A judge has permitted the NAACP's Clean Air Act lawsuit against SpaceX‑owned xAI to proceed.",
+   "The suit alleges the AI data center emits pollutants that exceed legal limits.",
+   "The ruling may influence future enforcement of environmental standards on AI infrastructure."
+  ],
+  "meta_description": "Judge allows NAACP lawsuit alleging xAI data center air pollution to move forward, citing Clean Air Act violations.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "xAI",
+   "NAACP",
+   "Clean Air Act",
+   "environmental law",
+   "SpaceX",
+   "AI data centers"
+  ],
+  "slug": "judge-grants-naacp-suit-proceed-against-xai-over-air-bc398a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-01T02:07:26Z"
+ },
+ {
   "id": "79463c6a033445bb",
   "source_url": "https://www.npr.org/2026/10/31/nx-s1-6023294/what-a-midterm-race-in-kentucky-says-about-how-democrats-may-do-in-trump-strongholds",
   "source": "NPR",
@@ -536,6 +1122,65 @@
   "reading_minutes": 1,
   "img_checked": 2,
   "added": "2026-10-31T22:47:27Z"
+ },
+ {
+  "id": "691dfa44ca49e397",
+  "source_url": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+  "source": "The Verge",
+  "source_title": "Get in the spirit with these horrors from YouTube",
+  "source_summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]",
+  "source_tags": [
+   "Column",
+   "Entertainment",
+   "Film",
+   "Streaming",
+   "YouTube"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-10-31T21:06:58+00:00",
+  "headline": "YouTube Curates a Collection of Surreal Horror Shorts for Halloween",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Verge highlighted a selection of unsettling and unconventional horror videos available on YouTube as part of its final spooky‑season recommendations. Rather than focusing on a single film or album, the piece points readers to a variety of short clips that span surreal art‑house pieces, cosmic horror, and other bizarre visual experiences."
+   },
+   {
+    "type": "p",
+    "text": "The curated list is intended to offer something for every taste, from fans of experimental storytelling to those who enjoy classic jump‑scare aesthetics. Each video is described as creepy, disturbing, or simply weird, emphasizing the platform’s role as a repository for niche horror content that might not appear on mainstream streaming services."
+   },
+   {
+    "type": "p",
+    "text": "By showcasing these YouTube selections, the article underscores how creators continue to use the platform to experiment with horror tropes, blending visual art and narrative in ways that appeal to a broad, internet‑savvy audience during the Halloween period."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The piece reflects the growing popularity of online platforms as sources for alternative horror media, a trend relevant to U.S. and European audiences seeking non‑traditional entertainment."
+   }
+  ],
+  "key_points": [
+   "The Verge compiled a diverse set of horror‑themed YouTube videos for Halloween.",
+   "The collection includes surreal art‑house shorts, cosmic horror, and other oddities.",
+   "YouTube remains a key venue for niche and experimental horror content."
+  ],
+  "meta_description": "The Verge curates a mix of surreal and disturbing horror shorts on YouTube for Halloween viewers.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "YouTube",
+   "horror",
+   "Halloween",
+   "online video",
+   "digital media"
+  ],
+  "slug": "youtube-curates-collection-surreal-horror-shorts-halloween-691dfa",
+  "reading_minutes": 1,
+  "added": "2026-11-01T02:07:34Z"
  },
  {
   "id": "1f18179676b73eaa",
