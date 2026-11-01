@@ -1,5 +1,618 @@
 [
  {
+  "id": "1d8c4e1b50dd6d5a",
+  "source_url": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Germany news: Merkel calls for first female president",
+  "source_summary": "Former Chancellor Angela Merkel says it's time to consider a woman as Germany's next president. Meanwhile, Berlin's Left Party is deciding whether to enter coalition talks. DW has more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/59627628_6.jpg",
+  "published": "2026-11-01T08:53:00+00:00",
+  "headline": "Merkel Urges Consideration of First Female German President",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Chancellor Angela Merkel told a news conference that Germany should now look at a woman for the largely ceremonial presidency, saying the time is right for a female candidate. Her comments come as the nation prepares for the upcoming presidential election, a post that has never been held by a woman since the office was created."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, Berlin’s Left Party is weighing whether to join coalition negotiations with the governing parties. The decision could shape the composition of the next federal government and influence the political climate in which a new president will be chosen."
+   },
+   {
+    "type": "p",
+    "text": "Merkel’s call adds pressure on the major parties to consider gender balance in their candidate selections, while the Left Party’s coalition stance may affect the broader power balance in German politics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The discussion could shape Germany’s presidential race and coalition dynamics, influencing the country’s political direction and gender representation."
+   }
+  ],
+  "key_points": [
+   "Angela Merkel says Germany should consider a woman for its next president.",
+   "Berlin’s Left Party is deciding whether to enter coalition talks, impacting government formation.",
+   "The debate highlights growing calls for gender diversity in German political leadership."
+  ],
+  "meta_description": "Angela Merkel urges Germany to consider a female president as the Left Party debates coalition talks, affecting upcoming elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Germany",
+   "presidency",
+   "Angela Merkel",
+   "gender equality",
+   "coalition talks",
+   "Left Party"
+  ],
+  "slug": "merkel-urges-consideration-first-female-german-president-1d8c4e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-01T09:08:53Z"
+ },
+ {
+  "id": "cd9f25e4ebbd402e",
+  "source_url": "https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html",
+  "source": "The New York Times",
+  "source_title": "India’s Congress Party Holds Mass Protest in New Delhi",
+  "source_summary": "Many more are still streaming into the city for what organizers hope will be one of the biggest demonstrations yet in a string of recent rallies.",
+  "source_tags": [
+   "Demonstrations, Protests and Riots",
+   "New Delhi (India)",
+   "Indian National Congress",
+   "Bharatiya Janata Party",
+   "Cockroach Janta Party (India)",
+   "Gandhi, Rahul",
+   "Modi, Narendra"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg",
+  "published": "2026-11-01T08:49:47+00:00",
+  "headline": "Congress Party’s Massive Delhi Protest Draws Record Crowds",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Indian National Congress staged a large-scale rally in New Delhi, aiming to create one of the biggest demonstrations in recent weeks. Organizers said thousands continued to arrive in the capital, swelling the crowd as the event progressed."
+   },
+   {
+    "type": "p",
+    "text": "The protest, part of a series of rallies organized by the party, was intended to showcase public support for its political agenda ahead of upcoming electoral contests. Participants gathered at key locations in the city, chanting slogans and displaying banners."
+   },
+   {
+    "type": "p",
+    "text": "Authorities monitored the gathering, while the Congress leadership highlighted the turnout as evidence of growing momentum for its platform."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The protest signals heightened political activity in India, a major global economy, which may influence regional stability and trade relations."
+   }
+  ],
+  "key_points": [
+   "The Congress Party organized a massive rally in New Delhi, drawing a large crowd.",
+   "Organizers expect the demonstration to be among the biggest in a recent string of rallies."
+  ],
+  "meta_description": "India's Congress Party holds a massive rally in New Delhi, drawing a large crowd in a series of recent demonstrations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "Congress Party",
+   "protest",
+   "Delhi",
+   "demonstration",
+   "politics"
+  ],
+  "slug": "congress-partys-massive-delhi-protest-draws-record-crowds-cd9f25",
+  "reading_minutes": 1,
+  "added": "2026-11-01T09:09:12Z"
+ },
+ {
+  "id": "b1f994c77c83451e",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+  "source": "BBC News",
+  "source_title": "Shops looted as German cost of living protests turn violent",
+  "source_summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a374/live/2c3746d0-d5d0-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-01T08:43:00+00:00",
+  "headline": "German Cost‑of‑Living Protests Lead to Shop Looting in Major Cities",
+  "body": [
+   {
+    "type": "p",
+    "text": "Demonstrations over the rising cost of living erupted in several German cities on Thursday, with participants gathering in Berlin, Hamburg and Frankfurt. While many protesters marched peacefully, a number of incidents turned violent as crowds broke into retail outlets, resulting in shops being looted and damaged."
+   },
+   {
+    "type": "p",
+    "text": "Police forces in the affected cities responded with arrests and deployed additional units to restore order. Authorities reported that the unrest coincided with a coordinated wave of protests across Europe, as hundreds of thousands of people also took to the streets in France on the same day."
+   },
+   {
+    "type": "p",
+    "text": "German officials condemned the looting and emphasized that the protests reflect deep frustration over inflation and stagnant wages. The government has pledged to review social support measures, while business groups warned of the economic impact of the disruptions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest highlights growing economic pressure on European households, which could influence policy debates and market confidence across the EU."
+   }
+  ],
+  "key_points": [
+   "Cost‑of‑living protests in Berlin, Hamburg and Frankfurt escalated into shop looting.",
+   "Hundreds of thousands of demonstrators also protested in France on the same day.",
+   "German authorities condemned the violence and said they will examine social‑policy measures."
+  ],
+  "meta_description": "Cost‑of‑living protests in German cities turned violent, leading to shop looting as similar demonstrations unfolded in France.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Germany",
+   "protests",
+   "cost of living",
+   "looting",
+   "France",
+   "Europe"
+  ],
+  "slug": "german-costofliving-protests-lead-shop-looting-major-cities-b1f994",
+  "reading_minutes": 1,
+  "added": "2026-11-01T09:09:21Z"
+ },
+ {
+  "id": "e61fb9bb11a007b3",
+  "source_url": "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Donald Trump loses allies after elections in Serbia and Brazil",
+  "source_summary": "Flavio Bolsonaro failed to gain power, Aleksandar Vucic was voted out of office, and even Benjamin Netanyahu's position has weakened. An unhappy US President Trump is crying electoral fraud.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79567904_6.jpg",
+  "published": "2026-11-01T08:11:00+00:00",
+  "headline": "Trump Loses Key International Allies After Serbia and Brazil Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "Recent elections in Brazil and Serbia have altered the political landscape for former U.S. President Donald Trump, who has seen support wane among several of his foreign allies. In Brazil, Flavio Bolsonaro failed to secure a governing position, limiting the influence of the Trump‑aligned faction in the country."
+   },
+   {
+    "type": "p",
+    "text": "In Serbia, long‑time ally Aleksandar Vučić was voted out of office, ending his tenure as prime minister and reducing a prominent pro‑Trump voice in the Balkans. The shift in Serbian leadership further isolates Trump on the international stage."
+   },
+   {
+    "type": "p",
+    "text": "The weakening of Israeli Prime Minister Benjamin Netanyahu’s position adds to the pattern of diminishing support for Trump’s agenda abroad. Amid these developments, Trump has publicly claimed electoral fraud in the United States, intensifying his domestic rhetoric while his overseas network contracts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The erosion of Trump’s foreign backing signals shifting geopolitical alignments that could affect U.S. diplomatic and economic relations with Brazil, Serbia and Israel."
+   }
+  ],
+  "key_points": [
+   "Flavio Bolsonaro did not win power in Brazil, curbing Trump‑aligned influence.",
+   "Serbian leader Aleksandar Vučić was voted out, ending his pro‑Trump tenure.",
+   "Benjamin Netanyahu’s standing has also declined, adding to Trump’s loss of allies."
+  ],
+  "meta_description": "Trump's allies in Brazil, Serbia and Israel lose power after recent elections, shrinking his international support.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Brazil",
+   "Serbia",
+   "elections",
+   "international relations"
+  ],
+  "slug": "trump-loses-key-international-allies-after-serbia-brazil-elections-e61fb9",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-01T09:09:32Z"
+ },
+ {
+  "id": "8b2a1228d482333a",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c9e8lp357je7o",
+  "source": "BBC Sport",
+  "source_title": "Third-choice? Inside Alexander-Arnold's struggles in Madrid",
+  "source_summary": "Trent Alexander-Arnold is currently third-choice right-back at Real Madrid - where does his future lie?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b465/live/040177b0-d460-11f1-ab12-eb0c94f5b382.jpg",
+  "published": "2026-11-01T07:42:08+00:00",
+  "headline": "Alexander-Arnold Drops to Third-Choice Right-Back at Real Madrid",
+  "body": [
+   {
+    "type": "p",
+    "text": "Trent Alexander-Arnold has found himself listed as the third-choice right-back for Real Madrid, according to recent reports. The English defender, once a regular starter, now sits behind two other options in the club's pecking order."
+   },
+   {
+    "type": "p",
+    "text": "The shift in his standing has sparked speculation about his next career move. Observers note that being third in line for a position typically limits a player's minutes on the pitch, prompting questions about his development and role within the squad."
+   },
+   {
+    "type": "p",
+    "text": "Club insiders and analysts alike are watching closely to see whether Alexander-Arnold will fight for a higher place, seek a loan, or consider a permanent transfer. His future trajectory remains uncertain as the season progresses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The situation highlights the challenges top clubs face in integrating high-profile signings, a dynamic that influences transfer markets and team performance across Europe and the U.S."
+   }
+  ],
+  "key_points": [
+   "Trent Alexander-Arnold is currently the third-choice right-back at Real Madrid.",
+   "His reduced role has raised questions about his future with the club."
+  ],
+  "meta_description": "Trent Alexander-Arnold drops to third-choice right-back at Real Madrid, prompting speculation about his future.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trent Alexander-Arnold",
+   "Real Madrid",
+   "football transfers",
+   "player status",
+   "European soccer"
+  ],
+  "slug": "alexander-arnold-drops-third-choice-right-back-real-madrid-8b2a12",
+  "reading_minutes": 1,
+  "added": "2026-11-01T09:08:56Z"
+ },
+ {
+  "id": "005d7ad60d843f2e",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo",
+  "source": "BBC Sport",
+  "source_title": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
+  "source_summary": "Liverpool fans are finding joy at Anfield again with a feel-good factor around the club before the visit of reigning champions Arsenal on Sunday.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5c/live/b3329da0-d45a-11f1-93d9-89af68edb68a.jpg",
+  "published": "2026-11-01T07:38:15+00:00",
+  "headline": "Liverpool Fans Reignite Joy at Anfield Under Iraola Ahead of Arsenal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Supporters at Anfield are reporting a renewed sense of optimism as the club embraces a more intense and rotational style under new manager Luis Iraola. The atmosphere around Liverpool has become noticeably upbeat, with fans citing a tangible feel‑good factor throughout the stadium."
+   },
+   {
+    "type": "p",
+    "text": "The positive shift comes as Liverpool prepares to host reigning champions Arsenal on Sunday, a match that will test the effectiveness of Iraola's tactical adjustments. Observers note that the team's increased intensity and squad rotation are contributing to a more cohesive performance on the pitch."
+   },
+   {
+    "type": "p",
+    "text": "While the outcome of the upcoming fixture remains uncertain, the revived enthusiasm among the Liverpool faithful underscores the impact of the managerial changes and the club's renewed ambition in the Premier League."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Premier League remains a major draw for international audiences, and Liverpool's resurgence could influence the title race and broader European competition."
+   }
+  ],
+  "key_points": [
+   "Liverpool fans feel a renewed optimism at Anfield under manager Luis Iraola.",
+   "Iraola's emphasis on intensity and squad rotation is reshaping the team's play.",
+   "The club heads into a high‑profile clash with Arsenal with heightened confidence."
+  ],
+  "meta_description": "Liverpool fans feel renewed optimism at Anfield as manager Luis Iraola boosts intensity ahead of an Arsenal showdown.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Premier League",
+   "Arsenal",
+   "Luis Iraola",
+   "Anfield",
+   "football"
+  ],
+  "slug": "liverpool-fans-reignite-joy-anfield-under-iraola-ahead-arsenal-005d7a",
+  "reading_minutes": 1,
+  "added": "2026-11-01T09:09:16Z"
+ },
+ {
+  "id": "568873b9e95c713d",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/cked34glxp0no",
+  "source": "BBC Sport",
+  "source_title": "Wales hit by Australia century in World Cup record defeat",
+  "source_summary": "Wales women concede 21 tries in Sydney as defending Rugby League World Cup champions Australia rewrite the international record books.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbef/live/0e215400-d5b8-11f1-a012-e5d60a7e6c41.jpg",
+  "published": "2026-11-01T06:57:05+00:00",
+  "headline": "Australia Crush Wales Women 21 Tries in Record Rugby League Defeat",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a historic match at Sydney's stadium, the defending Rugby League World Cup champions Australia overwhelmed the Wales women's team, conceding an unprecedented 21 tries. The lopsided score set a new international record for the most tries allowed by a side in a single women's rugby league fixture."
+   },
+   {
+    "type": "p",
+    "text": "Wales, who entered the game as the underdogs, were unable to contain the Australian attack, which repeatedly broke through their defensive line. The Australian side, fresh off their World Cup triumph, demonstrated the depth and skill that have made them the benchmark in the sport."
+   },
+   {
+    "type": "p",
+    "text": "The result not only highlighted the gap between the two nations but also rewrote the record books, underscoring Australia's dominance in women's rugby league on the global stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result reshapes the international rankings in women's rugby league and showcases the growing competitiveness of the sport ahead of future World Cup tournaments."
+   }
+  ],
+  "key_points": [
+   "Australia set a new record by scoring 21 tries against Wales in a women's rugby league match.",
+   "The defeat marks the heaviest loss for Wales women in international competition.",
+   "Australia's performance reinforces their status as the sport's leading nation."
+  ],
+  "meta_description": "Australia's women's team scores a record 21 tries against Wales, marking a historic defeat in the Rugby League World Cup.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby league",
+   "women's sport",
+   "Australia",
+   "Wales",
+   "World Cup",
+   "record defeat"
+  ],
+  "slug": "australia-crush-wales-women-21-tries-record-rugby-league-568873",
+  "reading_minutes": 1,
+  "added": "2026-11-01T09:09:24Z"
+ },
+ {
+  "id": "c0647d64a034306a",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cm1j3yd6994yo",
+  "source": "BBC Sport",
+  "source_title": "Cummins concerns and weaknesses to target - takeaways from SA-Australia",
+  "source_summary": "With both sides to face over the next 12 months, what can England take from South Africa and Australia's enthralling Test series?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5afe/live/b29d1e10-d54f-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-01T06:29:50+00:00",
+  "headline": "England Can Learn From South Africa and Australia Test Series",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent BBC Sport analysis looks at the lessons England could draw from the dramatic Test series between South Africa and Australia. The piece highlights the importance of addressing specific concerns around Australian fast bowler Pat Cummins and the broader weaknesses exposed by both sides during the contest."
+   },
+   {
+    "type": "p",
+    "text": "The author suggests that England’s upcoming fixtures over the next year could benefit from targeting the tactical gaps identified in the South Africa‑Australia matches. By focusing on the areas where Cummins proved decisive and where the teams showed vulnerability, England may improve its own performance in the longer format."
+   },
+   {
+    "type": "p",
+    "text": "While the article does not provide detailed statistics, it emphasizes strategic adjustments rather than individual player criticism. The takeaways are intended to inform England’s preparation for future Test series, ensuring they are better equipped to handle high‑quality opposition."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the strengths of top teams helps England refine its strategy ahead of upcoming international Test matches."
+   }
+  ],
+  "key_points": [
+   "England should study Pat Cummins' impact and the weaknesses revealed in the SA‑Australia series.",
+   "Targeting identified tactical gaps could strengthen England's Test preparations for the next 12 months."
+  ],
+  "meta_description": "BBC Sport outlines how England can use insights from the South Africa‑Australia Test series to address weaknesses and improve future performance.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cricket",
+   "England",
+   "Test series",
+   "South Africa",
+   "Australia",
+   "Pat Cummins"
+  ],
+  "slug": "england-can-learn-from-south-africa-australia-test-series-c0647d",
+  "reading_minutes": 1,
+  "added": "2026-11-01T09:09:36Z"
+ },
+ {
+  "id": "5a87e24f6f376867",
+  "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/us-midterms-trump-blue-wave",
+  "source": "The Guardian",
+  "source_title": "Are the US midterms going to see a blue wave of Democrats winning seats – or a blue flood?",
+  "source_summary": "Donald Trump uttered five words this summer that could seal the Republican party’s fate: ‘Pretend I’m on the ticket’ He spoke admiringly of a senator’s posterior. He baselessly accused a Muslim candidate of being a terrorist . He boasted about his renovations of the White House. He quipped that his own supporters couldn’t afford a hamburger at his Mar-a-Lago club. Every now and then, he spoke about the cost of living, and other everyday concerns of voters. Donald Trump has held dozens of campaign rallies before next week’s US midterm elections. The 80-year-old remains convinced that he can prove the doubters wrong again and help Republicans retain control of the US Congress. But it was five words he uttered at this summer’s Republican convention in Dallas that could seal his party’s fate: “Pretend I’m on the ticket.”",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Donald Trump",
+   "Republicans",
+   "US news",
+   "US politics",
+   "Trump administration",
+   "Democrats",
+   "US Congress"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/253d405840173ebdf67082205ca9f9953db824d7/829_0_5034_4028/master/5034.jpg?width=700&quality=85&auto=format&fit=max&s=c458e594f73518ed4e8293722d69687e",
+  "published": "2026-11-01T05:00:03+00:00",
+  "headline": "Trump’s “Pretend I’m on the Ticket” Remark Fuels Midterm Uncertainty",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former president Donald Trump has been touring the country with dozens of campaign rallies ahead of next week’s U.S. midterm elections. The 80‑year‑old Republican continues to assert that he can still sway voters and help his party keep control of Congress, despite a string of controversial statements made this summer."
+   },
+   {
+    "type": "p",
+    "text": "At the Republican convention in Dallas, Trump delivered a five‑word phrase – “Pretend I’m on the ticket” – that analysts say could shape the GOP’s fortunes. In the weeks that followed he praised a senator’s appearance, falsely labeled a Muslim candidate as a terrorist, boasted about White House renovations, and joked that his supporters could not afford a hamburger at Mar‑a‑Lago, while intermittently touching on cost‑of‑living concerns."
+   },
+   {
+    "type": "p",
+    "text": "These remarks have drawn sharp criticism and heightened attention to the midterm race, with Democrats hoping the controversies will dampen Republican enthusiasm, while Republicans argue the comments illustrate Trump’s willingness to confront the media and appeal to his base."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The midterms will determine control of the U.S. Congress, affecting legislation that impacts both American and European economies and foreign policy."
+   }
+  ],
+  "key_points": [
+   "Trump’s “Pretend I’m on the ticket” comment at the Dallas convention has become a focal point of midterm election coverage.",
+   "The former president’s recent rallies feature a mix of personal boasts, unfounded accusations and occasional voter‑issue references.",
+   "Analysts suggest the remarks could influence Republican voter turnout and Democratic campaign strategies."
+  ],
+  "meta_description": "Trump’s controversial “Pretend I’m on the ticket” comment fuels debate over the GOP’s prospects in the upcoming U.S. midterm elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "U.S. midterms",
+   "Republican Party",
+   "campaign rhetoric",
+   "Congressional control"
+  ],
+  "slug": "trumps-pretend-im-ticket-remark-fuels-midterm-uncertainty-5a87e2",
+  "reading_minutes": 1,
+  "added": "2026-11-01T09:09:00Z"
+ },
+ {
+  "id": "38902cd268e96b4c",
+  "source_url": "https://www.nytimes.com/2026/10/31/us/politics/trump-halloween-party-scene.html",
+  "source": "The New York Times",
+  "source_title": "‘I Came as Donald Trump’: The President Hosts a Luxury Halloween at Mar-a-Lago",
+  "source_summary": "President Trump attended his jungle-themed Halloween party at Mar-a-Lago dressed as a distinctly recognizable figure.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Habba, Alina",
+   "Stevens, Haley",
+   "Trump, Donald J",
+   "Halloween",
+   "Mar-a-Lago (Palm Beach, Fla)",
+   "Blanche, Todd (Attorney)",
+   "Vance, J D",
+   "Palm Beach (Fla)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31DC-TRUMP-PARTY-SCENE-01-bmvk/31DC-TRUMP-PARTY-SCENE-01-bmvk-mediumSquareAt3X.jpg",
+  "published": "2026-11-01T03:37:24+00:00",
+  "headline": "President Trump Throws Jungle-Themed Luxury Halloween Party at Mar-a-Lago",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump hosted a Halloween celebration at his Mar-a-Lago resort on Saturday, turning the estate into a jungle-themed venue. The event featured elaborate decorations, upscale catering and a guest list that included close associates and supporters."
+   },
+   {
+    "type": "p",
+    "text": "Trump arrived in costume, portraying a well‑known public figure, a detail highlighted in the party’s promotional materials. Attendees were encouraged to dress in elaborate outfits, and the evening included live music and a display of fireworks over the property’s grounds."
+   },
+   {
+    "type": "p",
+    "text": "The gathering underscored the former president’s continued use of personal properties for high‑profile social events, blending political symbolism with personal branding. Organizers described the night as a “luxury” affair, emphasizing the festive atmosphere amid ongoing national political discussions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The party highlights how former presidents leverage private venues for political networking and public image building, a practice observed in both U.S. and European political circles."
+   }
+  ],
+  "key_points": [
+   "President Trump hosted a jungle‑themed Halloween party at Mar-a‑Lago with upscale décor and entertainment.",
+   "He attended in costume as a recognizable public figure, reinforcing his personal brand at the event."
+  ],
+  "meta_description": "President Trump held a jungle‑themed luxury Halloween party at Mar‑a‑Lago, arriving in costume as a well‑known figure.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Mar-a-Lago",
+   "Halloween",
+   "political events",
+   "luxury party"
+  ],
+  "slug": "president-trump-throws-jungle-themed-luxury-halloween-party-mar-38902c",
+  "reading_minutes": 1,
+  "added": "2026-11-01T09:09:28Z"
+ },
+ {
+  "id": "a8e3b1a57cd292df",
+  "source_url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+  "source": "TechCrunch",
+  "source_title": "Data centers are now a midterm issue, even in Brooklyn",
+  "source_summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+  "source_tags": [
+   "Government & Policy",
+   "Media & Entertainment",
+   "AI",
+   "data centers"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
+  "published": "2026-11-01T02:22:10+00:00",
+  "headline": "Brooklyn Midterm Party Highlights Data Centers as Hot Political Topic",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a Brooklyn gathering held five days before Election Day, attendees found that every discussion—whether a council member’s informal fireside chat or a broader debate about the Democratic Party—repeatedly returned to artificial intelligence and data centers. The focus on these technology issues underscored how they have entered the local political conversation ahead of the midterm elections."
+   },
+   {
+    "type": "p",
+    "text": "The recurring mention of AI and data centers across diverse conversation threads suggests that voters and officials alike are weighing the implications of tech infrastructure as part of the upcoming electoral discourse in Brooklyn."
+   }
+  ],
+  "key_points": [
+   "Brooklyn political conversations before the midterms centered on AI and data centers.",
+   "Both a council member’s chat and a Democratic Party debate highlighted the tech topics.",
+   "The emphasis indicates growing relevance of tech infrastructure in local elections."
+  ],
+  "meta_description": "Brooklyn midterm event shows AI and data centers becoming key topics in local political discussions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "data centers",
+   "AI",
+   "midterms",
+   "Brooklyn",
+   "local politics",
+   "tech policy"
+  ],
+  "slug": "brooklyn-midterm-party-highlights-data-centers-hot-political-topic-a8e3b1",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-01T09:09:04Z"
+ },
+ {
   "id": "1c70fcd9c86136ad",
   "source_url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
@@ -223,6 +836,59 @@
   "slug": "serbia-s-vucic-defeated-vote-mirrors-orban-s-hungarian-fe25a1",
   "reading_minutes": 1,
   "added": "2026-11-01T02:07:06Z"
+ },
+ {
+  "id": "222a215da624e634",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo",
+  "source": "BBC News",
+  "source_title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+  "source_summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg",
+  "published": "2026-11-01T00:17:05+00:00",
+  "headline": "Airbnb Bars Hosts From Asking Guests to Wash Up or Take Out Bins",
+  "body": [
+   {
+    "type": "p",
+    "text": "Starting in November, Airbnb will enforce new house‑rule guidelines that prohibit hosts from requesting guests to wash dishes or empty rubbish bins during their stay. The platform says the change is intended to standardise expectations and reduce friction between hosts and travelers."
+   },
+   {
+    "type": "p",
+    "text": "Under the updated policy, hosts must remove any language in listings or private messages that asks guests to perform these chores. Airbnb will monitor compliance and may suspend accounts that repeatedly breach the rule. The move follows complaints from guests who felt such requests were unreasonable."
+   },
+   {
+    "type": "p",
+    "text": "The company stresses that the rule does not affect other cleaning expectations, such as leaving the property tidy. Hosts are still encouraged to outline any specific checkout procedures that comply with local regulations, but direct requests for washing up or taking out bins are now disallowed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rule could reshape expectations for short‑term rentals in the US and Europe, influencing how hosts manage turnover costs and guest satisfaction."
+   }
+  ],
+  "key_points": [
+   "Airbnb's November rule change bans hosts from asking guests to wash dishes or take out trash.",
+   "Non‑compliant hosts risk account suspension as Airbnb enforces the new standard.",
+   "The policy aims to reduce guest‑host disputes while keeping other cleaning expectations intact."
+  ],
+  "meta_description": "Airbnb will forbid hosts from asking guests to wash up or take out bins, a rule set to start in November.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Airbnb",
+   "short-term rentals",
+   "host policies",
+   "hospitality",
+   "consumer rights"
+  ],
+  "slug": "airbnb-bars-hosts-from-asking-guests-wash-up-or-222a21",
+  "reading_minutes": 1,
+  "added": "2026-11-01T09:09:08Z"
  },
  {
   "id": "7ded277d430915bd",
