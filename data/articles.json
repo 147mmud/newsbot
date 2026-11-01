@@ -1,5 +1,675 @@
 [
  {
+  "id": "d667ec971d21af41",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/crd6dezj8v86o",
+  "source": "BBC Sport",
+  "source_title": "Alcaraz wins Vienna Open to maintain perfect record",
+  "source_summary": "Carlos Alcaraz extends his winning run in ATP 500 events with a straight-set victory over Alex de Minaur at the Vienna Open.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d330/live/a3223b70-d60b-11f1-bdc5-33a5057f63d4.jpg",
+  "published": "2026-11-01T16:10:39+00:00",
+  "headline": "Alcaraj Beats De Minaur to Keep Perfect Record at Vienna Open",
+  "body": [
+   {
+    "type": "p",
+    "text": "Spain's Carlos Alcaraz continued his unbeaten streak in ATP 500 tournaments with a straight‑set win over Australia's Alex de Minaur at the Vienna Open. The 23‑year‑old secured the title without dropping a set, reinforcing his dominance on the indoor hard courts of Austria."
+   },
+   {
+    "type": "p",
+    "text": "Alcaraz dispatched de Minaur 6‑3, 6‑4, showcasing a blend of aggressive baseline play and precise serving that left the Australian challenger unable to mount a sustained comeback. The victory marks Alcaraz's latest addition to a flawless run in the ATP 500 series this season."
+   },
+   {
+    "type": "p",
+    "text": "The win in Vienna extends Alcaraz's winning run in the tier‑one events and solidifies his position near the top of the world rankings as the season heads toward its final stretch."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Alcaraz's continued success in high‑level tournaments keeps him in contention for the year‑end No. 1 ranking and adds excitement to the upcoming ATP Finals."
+   }
+  ],
+  "key_points": [
+   "Carlos Alcaraz won the Vienna Open final in straight sets.",
+   "The victory maintains his perfect record in ATP 500 events this year.",
+   "Alcaraz defeated Alex de Minaur 6‑3, 6‑4."
+  ],
+  "meta_description": "Carlos Alcaraz beats Alex de Minaur in straight sets to keep his perfect ATP 500 record at the Vienna Open.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alcaraz",
+   "Vienna Open",
+   "ATP 500",
+   "tennis",
+   "de Minaur"
+  ],
+  "slug": "alcaraj-beats-de-minaur-keep-perfect-record-vienna-open-d667ec",
+  "reading_minutes": 1,
+  "added": "2026-11-01T16:17:23Z"
+ },
+ {
+  "id": "78996addd31773e1",
+  "source_url": "https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections",
+  "source": "The Guardian",
+  "source_title": "What are the races to watch in the US midterm elections and why do they matter?",
+  "source_summary": "US voters will decide whether Republicans will retain control of Congress or whether Democrats will rise up to stymie Trump’s agenda Donald Trump will still be US president on the morning of 4 November. But he could be facing a very different political landscape, depending on the results of the US midterm elections held the previous day. As the name implies, midterm elections fall nearly halfway through a president’s term. They are often a telling referendum on the sitting president’s performance, something Trump is actively encouraging by telling voters “pretend I’m on the ballot”. In this case, voters will decide whether Trump’s Republican party can retain its grip on Congress. All 435 seats in the House of Representatives. Republicans are defending a narrow majority, with Democrats needing a net gain of four seats to take control. 35 seats in the Senate. Thirty-three seats are up in regular elections, along with two special elections in Florida and Ohio to fill the remainder of terms that were vacated early. Republicans currently hold 53 seats, against 47 held by Democrats and independents who caucus with them. Democrats need to gain four seats to secure a majority. 39 governorships. Voters will choose governors in 36 states and three US territories. Thousands of state legislative seats , as well as local offices, judicial contests and ballot measures on issues including taxes, abortion rights and voting rules.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US politics",
+   "US news",
+   "Republicans",
+   "Democrats",
+   "Donald Trump",
+   "House of Representatives",
+   "US Senate"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/16f745e77377a0064a56c41e20d64dc335278514/0_0_3434_2747/master/3434.jpg?width=700&quality=85&auto=format&fit=max&s=130cbd2d3de314eb0d98bf3c4d1ad4a2",
+  "published": "2026-11-01T15:55:59+00:00",
+  "headline": "Midterm Elections Decide House, Senate and Governorship Control",
+  "body": [
+   {
+    "type": "p",
+    "text": "On November 4, 2026, American voters will cast ballots in a nationwide midterm election that could reshape the balance of power in Congress. All 435 seats in the House of Representatives are up for grabs, with Republicans defending a slim majority and Democrats needing a net gain of four seats to take control."
+   },
+   {
+    "type": "p",
+    "text": "In the Senate, 35 of the 100 seats are contested, including 33 regular elections and two special races in Florida and Ohio. Republicans currently hold 53 seats, while Democrats and independents caucusing with them hold 47; Democrats must win four additional seats to claim a majority."
+   },
+   {
+    "type": "p",
+    "text": "Voters will also choose governors in 36 states and three U.S. territories, adding to thousands of state legislative, local, judicial and ballot‑measure contests on issues such as taxes, abortion rights and voting rules."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The midterms serve as a referendum on President Trump’s agenda and will determine whether his party can continue to shape U.S. policy, a development closely watched by European partners."
+   }
+  ],
+  "key_points": [
+   "Republicans defend narrow majorities in both the House and Senate, needing only a few seats to retain control.",
+   "Democrats require a net gain of four seats in each chamber to seize a congressional majority.",
+   "The election also includes 39 governorships and numerous state and local races that could affect policy on taxes, abortion and voting."
+  ],
+  "meta_description": "Midterm elections on Nov. 4 will decide control of the U.S. House, Senate and 39 governorships, influencing President Trump's agenda.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US midterms",
+   "House of Representatives",
+   "Senate",
+   "governorships",
+   "Trump",
+   "Congress control"
+  ],
+  "slug": "midterm-elections-decide-house-senate-governorship-control-78996a",
+  "reading_minutes": 1,
+  "added": "2026-11-01T16:17:27Z"
+ },
+ {
+  "id": "0e6a3f5c3581f807",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cmrlyw2y0gxzo",
+  "source": "BBC Sport",
+  "source_title": "How Dart revived career with help of Wimbledon champion",
+  "source_summary": "Britain's Harriet Dart knows people doubted whether she would ever win a WTA title, but says the belief of her coach Marion Bartoli helped achieve the best week of her career.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc98/live/7e9cac50-d60a-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-01T15:55:46+00:00",
+  "headline": "Harriet Dart Credits Bartoli’s Belief for Career‑Reviving Week",
+  "body": [
+   {
+    "type": "p",
+    "text": "British tennis player Harriet Dart says doubts about ever winning a WTA title faded after she began working with former Wimbledon champion Marion Bartoli. The former champion’s confidence, Dart explained, was a key factor in what she describes as the best week of her professional career."
+   },
+   {
+    "type": "p",
+    "text": "Dart highlighted how Bartoli’s guidance helped her overcome mental hurdles and improve her on‑court performance. The partnership, built on mutual belief, allowed Dart to play with greater freedom and achieve results that had previously seemed out of reach."
+   },
+   {
+    "type": "p",
+    "text": "The revival of Dart’s form underscores the growing influence of former top players transitioning into coaching roles, offering current competitors both technical insight and psychological support."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story illustrates how elite former players can reshape the careers of rising talents, a trend of interest to tennis fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Harriet Dart attributes her recent career surge to coach Marion Bartoli’s belief in her abilities.",
+   "The former Wimbledon champion’s coaching helped Dart overcome doubts and deliver her best week on the WTA Tour."
+  ],
+  "meta_description": "Harriet Dart says Marion Bartoli’s confidence sparked a career‑reviving week, marking her best performance on the WTA Tour.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tennis",
+   "Harriet Dart",
+   "Marion Bartoli",
+   "WTA",
+   "coaching",
+   "British sport"
+  ],
+  "slug": "harriet-dart-credits-bartolis-belief-careerreviving-week-0e6a3f",
+  "reading_minutes": 1,
+  "added": "2026-11-01T16:17:43Z"
+ },
+ {
+  "id": "4f3096dc51d9d3c9",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6x2wkp7e0q9o",
+  "source": "BBC News",
+  "source_title": "Green Party at 'crossroads', says former co-leader",
+  "source_summary": "Adrian Ramsay suggested the party needs to focus on its \"core values\", including environmental issues.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/802c/live/e0b8cef0-c403-11f1-a64c-550be9e3c66b.png",
+  "published": "2026-11-01T15:52:51+00:00",
+  "headline": "Green Party at 'Crossroads', Says Former Co-leader",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a developing political story, BBC News reports:"
+   },
+   {
+    "type": "quote",
+    "text": "Adrian Ramsay suggested the party needs to focus on its \"core values\", including environmental issues.",
+    "cite": "BBC News"
+   }
+  ],
+  "key_points": [],
+  "meta_description": "Adrian Ramsay suggested the party needs to focus on its \"core values\", including environmental issues.",
+  "category": "politics",
+  "mode": "offline",
+  "index": false,
+  "tags": [
+   "Green Party",
+   "Adrian Ramsay"
+  ],
+  "slug": "green-party-crossroads-says-former-co-leader-4f3096",
+  "reading_minutes": 1,
+  "added": "2026-11-01T16:17:47Z"
+ },
+ {
+  "id": "744d8e49b4038e4c",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o",
+  "source": "BBC Sport",
+  "source_title": "Defeat for London City against Man City - but is Europe a real possibility?",
+  "source_summary": "London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9d/live/7fcb7d70-d60c-11f1-bdc5-33a5057f63d4.jpg",
+  "published": "2026-11-01T15:49:47+00:00",
+  "headline": "London City Lionesses Lose to Man City, Edge Closer to Europe",
+  "body": [
+   {
+    "type": "p",
+    "text": "The London City Lionesses were beaten by Manchester City in their latest league encounter, according to the BBC Sport report. While the result added another loss to their record, the match highlighted a notable improvement in the Lionesses' play."
+   },
+   {
+    "type": "p",
+    "text": "Observers noted that the Lionesses' performance against the league leaders suggested they are narrowing the gap to the top of the table. Their tactical discipline and attacking intent were cited as signs that they are nearer to a Champions League qualification spot than many had anticipated."
+   },
+   {
+    "type": "p",
+    "text": "The defeat, however, leaves the Lionesses still short of the points needed for European competition, but the upward trajectory offers optimism for the remainder of the season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A tighter race for Champions League places in women's football raises the profile of the sport across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "London City Lionesses lost to Manchester City but showed a stronger performance.",
+   "Their play indicates they are closer to Champions League qualification than previously expected.",
+   "The result keeps them out of European spots for now, though prospects have improved."
+  ],
+  "meta_description": "London City Lionesses fall to Manchester City yet demonstrate progress toward Champions League qualification, according to BBC Sport.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "London City",
+   "Manchester City",
+   "Women's football",
+   "Champions League",
+   "FA WSL"
+  ],
+  "slug": "london-city-lionesses-lose-man-city-edge-closer-europe-744d8e",
+  "reading_minutes": 1,
+  "added": "2026-11-01T16:17:55Z"
+ },
+ {
+  "id": "17e1160779e43130",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+  "source": "The Guardian",
+  "source_title": "Republican senator Dan Sullivan says he will accept Alaska election results",
+  "source_summary": "Senator was allegedly targeted in ballot-stacking ploy by his Democratic opponent to peel away votes from him Senator Dan Sullivan, the Alaska Republican allegedly targeted in a ballot-stacking ploy by his Democratic opponent, Mary Peltola, told CNN this morning that he would accept the results of his upcoming election. According to a recent New York Times investigation, aides from Peltola’s campaign recruited another man who shared Sullivan’s name to join the race in a ploy to peel away votes from the Republican incumbent.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Alaska",
+   "US Senate",
+   "US news",
+   "US politics",
+   "Republicans"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/905c40bae467f184fb98410952a04dd275140865/379_0_4588_3668/master/4588.jpg?width=700&quality=85&auto=format&fit=max&s=e6a876a7f109e18698ab0e5a6c32b626",
+  "published": "2026-11-01T15:39:02+00:00",
+  "headline": "Alaska Senator Dan Sullivan Says He Will Accept Election Outcome Amid Ballot‑Stacking Allegations",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republican Senator Dan Sullivan announced on CNN that he will respect the results of his upcoming Alaska Senate race, despite claims that his Democratic opponent, Mary Peltola, orchestrated a ballot‑stacking scheme. Sullivan said he trusts the electoral process and will concede if the vote count confirms his defeat."
+   },
+   {
+    "type": "p",
+    "text": "A recent investigation by The New York Times reported that aides from Peltola’s campaign allegedly recruited a third‑party candidate who shares Sullivan’s name. The purpose, according to the report, was to siphon votes away from the incumbent Republican, potentially influencing the tight contest."
+   },
+   {
+    "type": "p",
+    "text": "The allegations have sparked calls for closer scrutiny of candidate filing practices in Alaska, though no formal charges have been filed. Both campaigns have declined to comment further on the investigation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights concerns about election integrity in the United States, a topic of interest for voters and policymakers in both the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Senator Dan Sullivan pledged to accept the Alaska Senate race results.",
+   "The New York Times investigation alleges Peltola’s aides recruited a namesake candidate to split Sullivan’s vote.",
+   "No legal action has been taken, but the claims raise questions about ballot‑stacking tactics."
+  ],
+  "meta_description": "Alaska Senator Dan Sullivan says he will accept election results as a New York Times report alleges his opponent used a ballot‑stacking scheme.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alaska",
+   "Senate race",
+   "election integrity",
+   "ballot stacking",
+   "Dan Sullivan",
+   "Mary Peltola"
+  ],
+  "slug": "alaska-senator-dan-sullivan-says-he-will-accept-election-17e116",
+  "reading_minutes": 1,
+  "added": "2026-11-01T16:17:59Z"
+ },
+ {
+  "id": "5681054e97fe3db4",
+  "source_url": "https://www.nytimes.com/2026/11/01/business/media/advertising-paxton-talarico-texas-television.html",
+  "source": "The New York Times",
+  "source_title": "As Political Ad Spending Skyrockets, Broadcast TV Remains King",
+  "source_summary": "Even though marketers have increasingly shifted their dollars to other media, local stations are reaping a bonanza during these midterm elections. Nowhere is this is more evident than in Texas.",
+  "source_tags": [
+   "Television",
+   "Political Advertising",
+   "Midterm Elections (2026)",
+   "Media",
+   "Sinclair Broadcast Group Inc",
+   "Texas",
+   "Musk, Elon",
+   "Paxton, Ken",
+   "Talarico, James"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/TEXAS-ADS-1-01-wlzk/TEXAS-ADS-1-01-wlzk-mediumSquareAt3X.jpg",
+  "published": "2026-11-01T15:04:46+00:00",
+  "headline": "Political Ad Spending Soars While Broadcast TV Dominates Midterms in Texas",
+  "body": [
+   {
+    "type": "p",
+    "text": "Despite a broader shift of marketing dollars toward digital platforms, political advertisers are pouring unprecedented amounts of money into broadcast television as the 2026 midterm elections approach. The surge in ad spending has made local TV stations a lucrative venue for campaign messages."
+   },
+   {
+    "type": "p",
+    "text": "The trend is most pronounced in Texas, where local broadcasters are experiencing a significant revenue boost from political spots. Stations across the state report a sharp increase in ad sales, underscoring broadcast TV’s continued relevance in reaching voters despite the rise of online media."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the high cost of airtime and the ability to target specific regional audiences make television an attractive option for campaigns seeking broad exposure. This dynamic contrasts with the declining share of advertising spend allocated to other media channels."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The continued dominance of TV advertising highlights the medium’s influence on voter outreach, affecting both U.S. election dynamics and international observers of American political campaigning."
+   }
+  ],
+  "key_points": [
+   "Political ad spending has reached record levels for the 2026 midterms.",
+   "Broadcast television remains the primary medium for campaign ads, especially in Texas.",
+   "Local TV stations are seeing a revenue surge as advertisers prioritize airtime."
+  ],
+  "meta_description": "Political ad spending hits record highs as broadcast TV, especially in Texas, remains the top channel for midterm campaign ads.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "political advertising",
+   "broadcast TV",
+   "midterm elections",
+   "Texas",
+   "media spending"
+  ],
+  "slug": "political-ad-spending-soars-while-broadcast-tv-dominates-midterms-568105",
+  "reading_minutes": 1,
+  "added": "2026-11-01T16:17:31Z"
+ },
+ {
+  "id": "5d82caa07468e19d",
+  "source_url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+  "source": "TechCrunch",
+  "source_title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+  "source_summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+  "source_tags": [
+   "Gadgets",
+   "TC",
+   "Google",
+   "PIXEL"
+  ],
+  "category_hint": "tech",
+  "image": null,
+  "published": "2026-11-01T15:00:00+00:00",
+  "headline": "Google Unveils Pixel 11 Pro Fold, Emphasizes Durability Amid Rising Competition",
+  "body": [
+   {
+    "type": "p",
+    "text": "Google has introduced the Pixel 11 Pro Fold, a new entry in the foldable smartphone market that the outlet describes as a \"sturdy rectangle\" built to withstand everyday use. The device aims to address durability concerns that have long been a criticism of foldable phones."
+   },
+   {
+    "type": "p",
+    "text": "The launch comes at a time when the foldable segment is becoming increasingly crowded, with multiple manufacturers rolling out their own designs. TechCrunch notes that the competition is intensifying, pushing companies to differentiate through build quality and user experience."
+   },
+   {
+    "type": "p",
+    "text": "Analysts see the Pixel 11 Pro Fold as Google's effort to capture a share of a market that is still in its early growth phase. By focusing on a robust construction, Google hopes to appeal to consumers who have been hesitant about the fragility of earlier foldable models."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "US and European consumers now have more durable foldable options, expanding choices in a rapidly evolving smartphone segment."
+   }
+  ],
+  "key_points": [
+   "Google's Pixel 11 Pro Fold is marketed for its sturdy build.",
+   "The foldable smartphone market is seeing heightened competition.",
+   "Durability is becoming a key selling point for new foldable devices."
+  ],
+  "meta_description": "Google's Pixel 11 Pro Fold focuses on durability as competition heats up in the foldable phone market.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Google",
+   "Pixel 11 Pro Fold",
+   "foldable phones",
+   "smartphone durability",
+   "tech competition"
+  ],
+  "slug": "google-unveils-pixel-11-pro-fold-emphasizes-durability-amid-5d82ca",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-01T16:17:35Z"
+ },
+ {
+  "id": "0aa93bceb36df064",
+  "source_url": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "France opens attempted murder probe after protest attack",
+  "source_summary": "Paris prosecutors have opened an attempted murder investigation after a Molotov attack on police. France reported 779 arrests during nationwide protests and Halloween night, fewer than on previous weekends.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79823013_6.jpg",
+  "published": "2026-11-01T14:50:00+00:00",
+  "headline": "France Opens Attempted Murder Probe After Molotov Attack on Police",
+  "body": [
+   {
+    "type": "p",
+    "text": "Paris prosecutors have launched an attempted murder investigation following a Molotov cocktail attack on police officers during recent nationwide protests. The incident prompted authorities to treat the assault as a serious violent crime against law enforcement."
+   },
+   {
+    "type": "p",
+    "text": "The protests, which spread across France and culminated on Halloween night, resulted in 779 arrests, according to officials. This figure is lower than the number of detentions recorded during the preceding weekends."
+   },
+   {
+    "type": "p",
+    "text": "French authorities have not released further details about the suspects or the broader context of the demonstrations, but the probe underscores heightened security concerns amid ongoing public unrest."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The investigation highlights escalating tensions in France’s streets and the government's response to violent protest tactics, which could affect public safety policies across Europe."
+   }
+  ],
+  "key_points": [
+   "Prosecutors in Paris opened an attempted murder case after a Molotov cocktail was thrown at police.",
+   "Nationwide protests and Halloween night demonstrations led to 779 arrests, fewer than earlier weekends."
+  ],
+  "meta_description": "Paris prosecutors open an attempted murder probe after a Molotov attack on police during protests that saw 779 arrests.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "protests",
+   "police",
+   "Molotov",
+   "arrests",
+   "attempted murder"
+  ],
+  "slug": "france-opens-attempted-murder-probe-after-molotov-attack-police-0aa93b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-01T16:17:40Z"
+ },
+ {
+  "id": "d47dca67557a5eeb",
+  "source_url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+  "source": "The Verge",
+  "source_title": "North Korea linked to massive Binance crypto heist",
+  "source_summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other […]",
+  "source_tags": [
+   "Crypto",
+   "Law",
+   "News",
+   "Policy",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-01T14:33:11+00:00",
+  "headline": "North Korea Tied to $6.3 Billion Binance Crypto Heist",
+  "body": [
+   {
+    "type": "p",
+    "text": "The FBI has identified North Korean actors as the perpetrators of a $6.3 billion cryptocurrency theft that struck Binance on Oct. 29. The agency described the operation as “TraderTraitor” and said it tracked the hackers as they moved the stolen assets into Ethereum."
+   },
+   {
+    "type": "p",
+    "text": "According to the FBI, the suspects converted the pilfered tokens to Ethereum and were preparing additional steps to launder the funds. The investigation highlights a coordinated effort to exploit the crypto exchange’s infrastructure and evade detection."
+   },
+   {
+    "type": "p",
+    "text": "The case underscores growing concerns about state‑linked cybercrime targeting digital‑asset platforms. Law‑enforcement officials continue to monitor the situation as they work to trace and recover the illicit proceeds."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The theft represents one of the largest crypto breaches to date, raising security and regulatory concerns for investors and platforms in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "The FBI attributes a $6.3 billion Binance hack to North Korean actors.",
+   "The operation, dubbed “TraderTraitor,” involved converting stolen tokens to Ethereum.",
+   "Authorities are investigating further laundering steps for the illicit funds."
+  ],
+  "meta_description": "FBI links North Korea to a $6.3 billion Binance crypto heist, detailing token conversion to Ethereum and ongoing laundering efforts.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cryptocurrency",
+   "cybercrime",
+   "North Korea",
+   "Binance",
+   "FBI",
+   "money laundering"
+  ],
+  "slug": "north-korea-tied-6-3-billion-binance-crypto-heist-d47dca",
+  "reading_minutes": 1,
+  "added": "2026-11-01T16:17:51Z"
+ },
+ {
+  "id": "c0f8e37d433c0d4d",
+  "source_url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+  "source": "TechCrunch",
+  "source_title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+  "source_summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+  "source_tags": [
+   "Climate",
+   "Exclusive",
+   "material science"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6045.jpeg?resize=1200,900",
+  "published": "2026-11-01T14:00:00+00:00",
+  "headline": "Everbloom Unveils Renoa, First New Fiber in 25 Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "Startup Everbloom has introduced a material called renoa, which TechCrunch reports as the first new fiber to appear in the market in a quarter‑century. The company describes the fiber as feeling very familiar, suggesting it may integrate smoothly with existing textile processes."
+   },
+   {
+    "type": "p",
+    "text": "Renoa represents a notable development in fiber technology, breaking a 25‑year period without any newly launched fiber types. While details about its composition or performance are not provided, the launch signals a fresh entry into a sector that has seen little innovation at the material level for decades."
+   },
+   {
+    "type": "p",
+    "text": "The announcement highlights Everbloom's role in advancing material science, positioning the firm as a potential player in future textile applications. Observers will be watching how the industry responds to a fiber that claims both novelty and a familiar feel."
+   }
+  ],
+  "key_points": [
+   "Everbloom's renoa is the first new fiber introduced in 25 years.",
+   "The fiber is described as feeling very familiar despite being a new material.",
+   "Its launch marks a rare instance of innovation in the fiber market."
+  ],
+  "meta_description": "Everbloom launches renoa, the first new fiber in 25 years, described as feeling familiar, marking a rare innovation in textile materials.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "fiber",
+   "material",
+   "startup",
+   "Everbloom",
+   "innovation",
+   "textiles"
+  ],
+  "slug": "everbloom-unveils-renoa-first-new-fiber-25-years-c0f8e3",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-01T16:18:08Z"
+ },
+ {
+  "id": "b3c6e770b055b629",
+  "source_url": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
+  "source": "The New York Times",
+  "source_title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+  "source_summary": "South Korea’s Sinokor controls about half the tanker transits through the Strait of Hormuz, benefiting from a big bet just before the war in Iran started.",
+  "source_tags": [
+   "Ships and Shipping",
+   "Freight (Cargo)",
+   "Oil (Petroleum) and Gasoline",
+   "US and Israeli Attack on Iran (2026)",
+   "Sinokor Merchant Marine Co Ltd",
+   "Strait of Hormuz",
+   "Persian Gulf",
+   "South Korea",
+   "Iran"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-11-01T10:02:30+00:00",
+  "headline": "South Korean Sinokor Controls Half of Oil Tanker Traffic Through Strait of Hormuz After Pre‑War Bet Impacts Global Oil Market",
+  "body": [
+   {
+    "type": "p",
+    "text": "South Korea’s shipping firm Sinokor now handles roughly fifty percent of the tanker movements that pass through the Strait of Hormuz, the narrow waterway that links the Persian Gulf with the open ocean. The company’s dominant share stems from a strategic investment made shortly before hostilities began in Iran, a move that positioned it to capture a large portion of the regional oil flow."
+   },
+   {
+    "type": "p",
+    "text": "The surge in Sinokor’s market share has turned the little‑known carrier into a pivotal player in the Persian Gulf oil trade. By operating a substantial fleet that regularly traverses the strait, the firm benefits from the high volume of crude shipments that rely on this chokepoint for export to global markets."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that Sinokor’s control of half the transits gives it considerable influence over the timing and routing of oil deliveries, a factor that could affect pricing and supply dynamics beyond the Middle East."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Control of a key oil shipping route influences global fuel supplies and prices, a concern for U.S. and European energy markets."
+   }
+  ],
+  "key_points": [
+   "Sinokor, a South Korean company, now manages about half of all tanker transits through the Strait of Hormuz.",
+   "The firm’s dominance results from a major investment made just before the outbreak of war in Iran."
+  ],
+  "meta_description": "South Korean Sinokor controls half of oil tanker traffic through the Strait of Hormuz after a pre‑war bet, shaping global oil trade.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Sinokor",
+   "Strait of Hormuz",
+   "oil trade",
+   "South Korea",
+   "tanker traffic"
+  ],
+  "slug": "south-korean-sinokor-controls-half-oil-tanker-traffic-through-b3c6e7",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-01T16:18:05Z"
+ },
+ {
   "id": "1d8c4e1b50dd6d5a",
   "source_url": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
