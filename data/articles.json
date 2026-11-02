@@ -1,5 +1,671 @@
 [
  {
+  "id": "6ed85a5ffc1a7da6",
+  "source_url": "https://www.npr.org/2026/11/02/nx-s1-6007693/wars-in-iran-and-yemen-dent-saudi-modernization-mega-projects",
+  "source": "NPR",
+  "source_title": "Wars in Iran and Yemen dent Saudi modernization mega-projects",
+  "source_summary": "Saudi Crown Prince Mohammed bin Salman's vision to transform the economy and draw tourists collides with his long-running war against Yemen's Houthis",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-11-02T23:45:31+00:00",
+  "headline": "Saudi Mega-Projects Face Setbacks From Iran and Yemen Conflicts",
+  "body": [
+   {
+    "type": "p",
+    "text": "Saudi Arabia's ambitious plan to diversify its economy and boost tourism is being hampered by ongoing regional wars. Crown Prince Mohammed bin Salman’s Vision 2030 initiatives, including large-scale tourism and infrastructure projects, are encountering delays and cost overruns as Saudi forces remain engaged in combat with Iran-backed Houthi rebels in Yemen."
+   },
+   {
+    "type": "p",
+    "text": "The conflict in Yemen has strained Saudi resources and diverted attention from domestic development, while tensions with Iran have added diplomatic and security challenges. These pressures are slowing progress on flagship ventures such as the Red Sea luxury resorts and the NEOM megacity, which rely on stability and investor confidence."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the prolonged wars could undermine Saudi Arabia’s efforts to attract foreign investment and reshape its global image, potentially affecting the kingdom’s long‑term economic diversification goals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The setbacks could impact global energy markets and investment flows, influencing economic outlooks in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Regional wars in Yemen and tensions with Iran are delaying Saudi Vision 2030 tourism and infrastructure projects.",
+   "Saudi military commitments are diverting resources away from domestic mega‑development plans.",
+   "Delays risk reducing foreign investment and slowing the kingdom’s economic diversification."
+  ],
+  "meta_description": "Saudi Arabia's Vision 2030 projects face delays as wars in Iran and Yemen strain resources and deter investors.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Saudi Arabia",
+   "Vision 2030",
+   "Yemen war",
+   "Iran tensions",
+   "tourism",
+   "foreign investment"
+  ],
+  "slug": "saudi-mega-projects-face-setbacks-from-iran-yemen-conflicts-6ed85a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T23:51:40Z"
+ },
+ {
+  "id": "7d4af86f906cf116",
+  "source_url": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+  "source": "The New York Times",
+  "source_title": "Apple’s Profit Grows 12% Despite Component Price Worries",
+  "source_summary": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
+  "source_tags": [
+   "Computers and the Internet",
+   "Smartphones",
+   "Shortages",
+   "Company Reports",
+   "Computer Chips",
+   "iPhone",
+   "Apple Inc"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/APPLE-EARNINGS-1-fjml/APPLE-EARNINGS-1-fjml-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T23:41:50+00:00",
+  "headline": "Apple Posts 12% Profit Gain as iPhone Sales Stay Strong",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple Inc. announced a 12 percent increase in quarterly profit, attributing the growth to continued strength in iPhone sales. The company said demand for its flagship smartphones remained robust despite broader market uncertainty."
+   },
+   {
+    "type": "p",
+    "text": "In the same report, Apple warned that the cost of memory chips used in its devices is rising, adding pressure on component expenses. The higher prices for these chips could affect margins if they are not offset by pricing adjustments or efficiency gains."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the profit rise demonstrates Apple’s ability to sustain earnings while navigating supply‑chain cost pressures. The company’s financial performance will be closely watched as it balances consumer pricing with the escalating cost of essential components."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Higher chip costs could influence the price of iPhones for consumers in the US and Europe, while Apple’s profit growth signals resilience in the tech sector."
+   }
+  ],
+  "key_points": [
+   "Apple’s profit grew 12 percent, driven by strong iPhone sales.",
+   "The company highlighted rising memory‑chip costs as a potential margin challenge.",
+   "Analysts see the results as a test of Apple’s pricing power amid component price inflation."
+  ],
+  "meta_description": "Apple reports a 12% profit increase thanks to solid iPhone sales, but warns of rising memory‑chip costs.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "profit",
+   "iPhone",
+   "memory chips",
+   "earnings",
+   "technology"
+  ],
+  "slug": "apple-posts-12-profit-gain-iphone-sales-stay-strong-7d4af8",
+  "reading_minutes": 1,
+  "added": "2026-11-02T23:51:43Z"
+ },
+ {
+  "id": "28218a29216599f7",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
+  "source": "BBC News",
+  "source_title": "Legal challenge to Australia's social media ban to start in High Court",
+  "source_summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg",
+  "published": "2026-11-02T23:37:31+00:00",
+  "headline": "Australia’s High Court to Hear Challenge to Youth Social Media Ban",
+  "body": [
+   {
+    "type": "p",
+    "text": "A rights group has filed a legal challenge that will be heard by Australia’s High Court, contesting the nation’s ban on social‑media platforms for users under 16. The group argues the policy infringes on minors’ right to free communication."
+   },
+   {
+    "type": "p",
+    "text": "The Australian government introduced the ban as part of a broader effort to protect children from online harms, making the country one of the first to impose a nationwide age‑based restriction on social‑media access. The upcoming court case will test the legality of the measure and its compatibility with free‑speech protections."
+   },
+   {
+    "type": "p",
+    "text": "If the High Court rules against the ban, it could reshape Australia’s approach to online safety for young people and set a precedent for similar regulations elsewhere."
+   }
+  ],
+  "key_points": [
+   "A rights group is challenging Australia’s under‑16 social‑media ban in the High Court.",
+   "The group claims the ban violates minors’ right to free communication.",
+   "The case will determine the legality of the country’s pioneering online‑safety policy."
+  ],
+  "meta_description": "Australia's High Court will hear a rights group's challenge to the under‑16 social‑media ban, citing free‑communication concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Australia",
+   "social media",
+   "High Court",
+   "youth ban",
+   "free speech"
+  ],
+  "slug": "australias-high-court-hear-challenge-youth-social-media-ban-28218a",
+  "reading_minutes": 1,
+  "added": "2026-11-02T23:52:06Z"
+ },
+ {
+  "id": "8b5bcac4a657cc17",
+  "source_url": "https://www.dw.com/en/us-trump-labels-democrats-dangerous-ahead-of-midterms/a-79834945?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "US: Trump labels Democrats 'dangerous' ahead of midterms",
+  "source_summary": "US President Donald Trump said the Democrats nominated \"the most extreme and dangerous\" candidates in US history in the midterms. He also lowered expectations by saying a sitting president \"doesn't win\" the midterms.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-11-02T23:37:00+00:00",
+  "headline": "Trump Labels Democrats 'Most Extreme and Dangerous' Ahead of 2026 Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump said the Democratic Party has nominated what he described as \"the most extreme and dangerous\" candidates in U.S. history for the upcoming 2026 midterm elections. The comment was made during a campaign rally where Trump urged voters to reject the Democratic slate."
+   },
+   {
+    "type": "p",
+    "text": "Trump also tempered expectations for his own party, noting that a sitting president historically does not win the midterm contests. He warned that Republicans must focus on local races and not rely on presidential coattails to secure victories."
+   },
+   {
+    "type": "p",
+    "text": "The remarks come as both parties gear up for a highly contested midterm cycle, with national attention on swing districts and the potential impact on congressional control."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The comments signal the intensity of the 2026 midterm battle, which could reshape congressional power and affect U.S. policy directions important to transatlantic partners."
+   }
+  ],
+  "key_points": [
+   "Trump called Democratic midterm candidates the most extreme and dangerous in history.",
+   "He reminded voters that a sitting president rarely wins midterm elections.",
+   "The statements highlight the heightened partisan tension ahead of the 2026 midterms."
+  ],
+  "meta_description": "Trump brands Democratic midterm candidates as the most extreme in history and notes a sitting president rarely wins midterms, ahead of the 2026 elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Democrats",
+   "midterms",
+   "2026 election",
+   "US politics"
+  ],
+  "slug": "trump-labels-democrats-most-extreme-dangerous-ahead-2026-midterms-8b5bca",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T23:52:26Z"
+ },
+ {
+  "id": "b2ac5b17672feeb4",
+  "source_url": "https://www.npr.org/2026/11/02/nx-s1-6026399/trump-offered-a-closing-message-to-voters-by-touting-his-d-c-renovations",
+  "source": "NPR",
+  "source_title": "Trump offered a closing message to voters by touting his D.C. renovations",
+  "source_summary": "In Washington, President Trump delivered his last expected public address, pushing a weaving message to the public about why they should support Republicans.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-11-02T23:35:51+00:00",
+  "headline": "Trump Gives Final Public Address Emphasizing Republican Support",
+  "body": [
+   {
+    "type": "p",
+    "text": "In Washington, former President Donald Trump delivered what is expected to be his last public address. The speech combined a call for voters to back Republican candidates with a showcase of recent renovations to federal buildings in the capital."
+   },
+   {
+    "type": "p",
+    "text": "Trump highlighted the upgrades to the White House and other D.C. landmarks, presenting them as evidence of Republican stewardship. He urged listeners to consider these improvements when deciding whom to support at the ballot box."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The speech comes ahead of upcoming elections, signaling the former president’s continued influence on the Republican base in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "Trump’s final address focused on urging voter support for Republicans.",
+   "He used recent D.C. renovations as a tangible example of Republican achievements."
+  ],
+  "meta_description": "Trump delivers his last expected public address, urging voter support for Republicans and highlighting D.C. renovations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Republicans",
+   "public address",
+   "Washington",
+   "elections",
+   "renovations"
+  ],
+  "slug": "trump-gives-final-public-address-emphasizing-republican-support-b2ac5b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T23:51:56Z"
+ },
+ {
+  "id": "506ee0cb24f3b92e",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections",
+  "source": "The Guardian",
+  "source_title": "Five dimensional chess: inside James Talarico’s extraordinary bid to break Texas Democrats’ losing streak",
+  "source_summary": "The Texan could pull off a historic victory in the Lone Star state, which hasn’t elected a Democratic senator since 1988 When a young, untested former school teacher stood up to address a modest gathering of local donors in Austin, the state capital of Texas, Wendy Davis felt sorry for him. “Poor kid,” she remembers thinking. Then James Talarico began speaking. “He was like five or six sentences in and I knew that something was different about him,” recalls Davis, a former Democratic state senator. “He was as articulate and unique then as he is now. From that day, I started calling him ‘Baby Obama’.”",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Democrats",
+   "US politics",
+   "Texas",
+   "Ken Paxton",
+   "US Senate",
+   "US Congress",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/e351c4e929d5a090b6a9b2b06f98d9b25f6ba4f0/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=08b31bf245e9f57c32617fbcb2077aa4",
+  "published": "2026-11-02T23:32:17+00:00",
+  "headline": "James Talarico Launches Historic Texas Senate Bid After Long Democratic Drought",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former school teacher James Talarico announced his candidacy for the U.S. Senate in Texas, aiming to become the first Democratic senator from the state since 1988. Speaking to a small group of local donors in Austin, Talarico impressed former Democratic state senator Wendy Davis with his articulate delivery, prompting her to nickname him “Baby Obama.”"
+   },
+   {
+    "type": "p",
+    "text": "Talarico’s campaign seeks to break the Republican hold on Texas’s Senate seats, positioning his youthful energy and teaching background as assets in a state that has not elected a Democrat to the Senate for nearly four decades. His message resonates with donors looking for a fresh face capable of challenging the entrenched GOP dominance."
+   },
+   {
+    "type": "p",
+    "text": "While still early in the race, Talarico’s emergence signals a renewed effort by Texas Democrats to contest statewide offices, a strategy that could reshape the political landscape if it gains broader support."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A Democratic win in Texas would alter the balance of power in the Senate and reflect shifting political dynamics in a key U.S. state."
+   }
+  ],
+  "key_points": [
+   "James Talarico, a former teacher, is running for U.S. Senate in Texas, targeting the first Democratic win since 1988.",
+   "Former state senator Wendy Davis praised his speaking ability and dubbed him “Baby Obama.”",
+   "His campaign aims to revitalize Democratic prospects in a traditionally Republican stronghold."
+  ],
+  "meta_description": "Former teacher James Talarico launches a Senate bid aiming to end Texas's 38-year Democratic Senate drought.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "James Talarico",
+   "Texas Senate",
+   "Democratic Party",
+   "Wendy Davis",
+   "U.S. politics"
+  ],
+  "slug": "james-talarico-launches-historic-texas-senate-bid-after-long-506ee0",
+  "reading_minutes": 1,
+  "added": "2026-11-02T23:52:14Z"
+ },
+ {
+  "id": "afe3fb82e935c525",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo",
+  "source": "BBC Sport",
+  "source_title": "From nightmare debut season to Everton hero - Barry's revival",
+  "source_summary": "Last season Thierno Barry scored eight goals in 41 appearances. This season it's taken him just 12 games to match that tally.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f34/live/8799e290-d70a-11f1-81b9-c76bd127a61a.jpg",
+  "published": "2026-11-02T23:28:17+00:00",
+  "headline": "Barry Matches Season‑High Goal Total in Just 12 Games for Everton",
+  "body": [
+   {
+    "type": "p",
+    "text": "Everton forward Thierno Barry has equalled his previous season’s goal tally after only 12 league appearances this term. He finished last season with eight goals from 41 matches, a modest return for the striker."
+   },
+   {
+    "type": "p",
+    "text": "The rapid start this campaign sees Barry reach the same eight‑goal mark in just a fraction of the games, highlighting a significant improvement in his scoring rate. His early form has drawn attention from supporters and analysts alike as he seeks to build on the early momentum."
+   },
+   {
+    "type": "p",
+    "text": "Barry’s resurgence comes as Everton aim to improve their standing in the Premier League, with the striker’s contributions expected to play a key role in the club’s attacking options moving forward."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Barry’s early goal surge may influence Everton’s performance in the highly competitive Premier League, affecting both club ambitions and the league’s overall dynamics."
+   }
+  ],
+  "key_points": [
+   "Thierno Barry has scored eight goals in his first 12 games this season.",
+   "He matched his previous season’s total of eight goals, which came from 41 appearances.",
+   "Barry’s improved strike rate could boost Everton’s offensive prospects."
+  ],
+  "meta_description": "Everton’s Thierno Barry has matched his previous season’s eight‑goal tally in just 12 games, signaling a strong start to the campaign.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Everton",
+   "Thierno Barry",
+   "Premier League",
+   "football",
+   "goal scoring"
+  ],
+  "slug": "barry-matches-seasonhigh-goal-total-just-12-games-everton-afe3fb",
+  "reading_minutes": 1,
+  "added": "2026-11-02T23:51:58Z"
+ },
+ {
+  "id": "a7d0781bd51244f1",
+  "source_url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+  "source": "TechCrunch",
+  "source_title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+  "source_summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
+  "source_tags": [
+   "Hardware",
+   "TC",
+   "Apple",
+   "iPhone"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+  "published": "2026-11-02T23:25:32+00:00",
+  "headline": "Apple Says iPhone Duo Supply Lag May Extend Into Next Year",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple announced that production of its iPhone Duo model is increasing, but the company could not provide a timeline for when supply will meet the strong consumer demand."
+   },
+   {
+    "type": "p",
+    "text": "The tech giant noted that current shipping delays are expected to continue, with the shortfall potentially persisting into 2027. Apple did not disclose specific figures for the production ramp‑up or the size of the backlog."
+   },
+   {
+    "type": "p",
+    "text": "Analysts have warned that prolonged shortages could affect Apple’s quarterly earnings and may prompt customers to consider alternative smartphones if the gap remains unresolved."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "US and European consumers may face longer wait times for the iPhone Duo, while investors watch the supply issue for potential effects on Apple’s earnings."
+   }
+  ],
+  "key_points": [
+   "Apple is ramping up iPhone Duo production but cannot predict when supply will catch up with demand.",
+   "Shipping delays are expected to continue, possibly extending into next year.",
+   "The ongoing shortage could impact Apple’s sales performance and consumer choices."
+  ],
+  "meta_description": "Apple says iPhone Duo production is increasing but supply may not meet demand until next year, extending current shipping delays.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "iPhone Duo",
+   "supply chain",
+   "production",
+   "consumer electronics"
+  ],
+  "slug": "apple-says-iphone-duo-supply-lag-may-extend-into-a7d078",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T23:52:09Z"
+ },
+ {
+  "id": "164a99f78778529f",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cm70pgrd22x4o",
+  "source": "BBC Sport",
+  "source_title": "Grealish can still have Everton future - Moyes",
+  "source_summary": "Everton boss David Moyes says there is a way back for Jack Grealish at the club - but does not know when he might return to the team.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f4e/live/f69cc0c0-d711-11f1-b19c-4d0080e30e42.jpg",
+  "published": "2026-11-02T23:14:27+00:00",
+  "headline": "Moyes Says Jack Grealish Could Return to Everton, Timing Unclear",
+  "body": [
+   {
+    "type": "p",
+    "text": "Everton manager David Moyes told reporters that a pathway remains open for former captain Jack Grealish to rejoin the club. Moyes emphasized that the door is not closed, suggesting the player could still feature for Everton in the future."
+   },
+   {
+    "type": "p",
+    "text": "The manager did not provide a specific timetable for Grealish's potential comeback, noting that the exact moment of any return is uncertain. Moyes said he is waiting for the right circumstances before making any definitive plans."
+   },
+   {
+    "type": "p",
+    "text": "Both the club and supporters will be watching developments closely, as Grealish's status continues to be a topic of discussion within the Premier League."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Grealish remains a high-profile Premier League player, and his possible return could impact Everton's performance and transfer market dynamics."
+   }
+  ],
+  "key_points": [
+   "David Moyes confirms Everton could welcome Jack Grealish back.",
+   "No timeline has been set for when Grealish might return to the squad."
+  ],
+  "meta_description": "Everton boss David Moyes says Jack Grealish could still rejoin the club, but no timeline is set.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Everton",
+   "Jack Grealish",
+   "David Moyes",
+   "Premier League",
+   "football transfers"
+  ],
+  "slug": "moyes-says-jack-grealish-could-return-everton-timing-unclear-164a99",
+  "reading_minutes": 1,
+  "added": "2026-11-02T23:52:18Z"
+ },
+ {
+  "id": "d43289e094ee76f3",
+  "source_url": "https://www.nytimes.com/2026/11/02/business/economy/williiam-nordhaus-nobel-dead.html",
+  "source": "The New York Times",
+  "source_title": "William Nordhaus Has Died. Nobelist Influenced Climate Policy.",
+  "source_summary": "The Yale professor moved climate change into mainstream economic analysis.",
+  "source_tags": [
+   "Global Warming",
+   "Nobel Prizes",
+   "Deaths (Obituaries)",
+   "Nordhaus, William D"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02obit-Nordhaus-vhzj/02obit-Nordhaus-vhzj-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T23:13:58+00:00",
+  "headline": "Nobel-Winning Economist William Nordhaus Dies, Shaped Climate Policy",
+  "body": [
+   {
+    "type": "p",
+    "text": "William Nordhaus, a professor at Yale University and recipient of the 2018 Nobel Prize in Economic Sciences, died on November 2, 2026. His pioneering work integrated climate change into mainstream economic analysis, creating the field of integrated assessment modeling that quantifies the costs and benefits of mitigation strategies."
+   },
+   {
+    "type": "p",
+    "text": "Nordhaus’s research provided a framework for policymakers to evaluate carbon pricing and the economic impacts of greenhouse‑gas emissions. His influential 1992 book, \"The Climate Casino,\" and subsequent studies helped shape international climate agreements and U.S. carbon‑tax proposals."
+   },
+   {
+    "type": "p",
+    "text": "Colleagues remember him as a rigorous scholar whose models bridged science and economics, making climate risk a central consideration in fiscal planning. His legacy endures in the many academic programs and policy institutions that continue to use his methods to guide climate action."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Nordhaus’s models continue to inform U.S. and European climate legislation, helping leaders balance economic growth with emissions reductions."
+   }
+  ],
+  "key_points": [
+   "William Nordhaus, Nobel laureate and Yale economist, died at age 78.",
+   "He introduced integrated assessment models that link climate change with economic policy.",
+   "His work underpins carbon‑pricing debates and international climate agreements."
+  ],
+  "meta_description": "Nobel-winning economist William Nordhaus dies, leaving a legacy of climate‑economics models that shape policy worldwide.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "climate",
+   "economics",
+   "Nobel Prize",
+   "Yale",
+   "policy",
+   "carbon pricing"
+  ],
+  "slug": "nobel-winning-economist-william-nordhaus-dies-shaped-climate-policy-d43289",
+  "reading_minutes": 1,
+  "added": "2026-11-02T23:52:02Z"
+ },
+ {
+  "id": "19ce29ebfa962815",
+  "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+  "source": "TechCrunch",
+  "source_title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+  "source_summary": "The one-year-old startup is now valued at $300 million.",
+  "source_tags": [
+   "AI",
+   "Fundraising",
+   "Startups",
+   "Venture",
+   "fine-tuning",
+   "Sequoia"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
+  "published": "2026-11-02T23:13:53+00:00",
+  "headline": "Trajectory Secures $45 Million Funding, Valued at $300M",
+  "body": [
+   {
+    "type": "p",
+    "text": "Trajectory, a startup that is just a year old, announced it has closed a $45 million financing round. The capital will be used to expand its platform that aims to simplify AI model training for users without technical backgrounds."
+   },
+   {
+    "type": "p",
+    "text": "The new funding brings the company's valuation to $300 million, reflecting investor confidence in its approach to democratize artificial intelligence development. By targeting non‑technical experts, Trajectory seeks to lower barriers to entry for organizations looking to build custom AI models."
+   }
+  ],
+  "key_points": [
+   "Trajectory raised $45 million in new funding.",
+   "The startup is now valued at $300 million.",
+   "Its platform focuses on making AI model training accessible to non‑technical users."
+  ],
+  "meta_description": "Trajectory, a year-old AI startup, raised $45M and is now valued at $300M to broaden model training for non‑technical users.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "startup funding",
+   "machine learning",
+   "venture capital",
+   "enterprise software"
+  ],
+  "slug": "trajectory-secures-45-million-funding-valued-300m-19ce29",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T23:52:30Z"
+ },
+ {
+  "id": "0d7f17b03c89f6f0",
+  "source_url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
+  "source": "The New York Times",
+  "source_title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
+  "source_summary": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Law and Legislation",
+   "Pregnancy and Childbirth",
+   "Workplace Hazards and Violations",
+   "Discrimination",
+   "Labor and Jobs",
+   "Abortion",
+   "Equal Employment Opportunity Commission",
+   "Lucas, Andrea R"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-pregnant-workers--01-lcqm/00biz-pregnant-workers--01-lcqm-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T23:10:20+00:00",
+  "headline": "Trump Administration Plans to Roll Back Pregnancy Job Protections",
+  "body": [
+   {
+    "type": "p",
+    "text": "The White House is preparing to rescind key provisions of a Biden-era law that expanded workplace protections for pregnant workers. The legislation, enacted to help women remain employed during pregnancy, also included rules covering abortion and fertility treatments, which some conservatives argue exceed the law's original intent."
+   },
+   {
+    "type": "p",
+    "text": "According to officials familiar with the plan, the administration will seek to narrow the scope of the protections, limiting coverage to core pregnancy-related discrimination and removing the broader health‑care components. The move follows criticism from right‑leaning groups that the original rule imposed undue burdens on employers and intruded on personal medical decisions."
+   },
+   {
+    "type": "p",
+    "text": "If implemented, the rollback could alter how employers across the United States handle accommodations for pregnant employees, potentially reducing the legal obligations to provide leave or adjustments related to reproductive health services."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift could affect millions of working women in the U.S. and signals a broader debate over reproductive‑health rights that resonates with European policy discussions."
+   }
+  ],
+  "key_points": [
+   "The Trump administration intends to narrow a Biden-era law that broadened pregnancy‑related workplace protections.",
+   "Conservative critics say the original rule overreached by including abortion and fertility treatment coverage.",
+   "The proposed changes would limit employer obligations to core pregnancy discrimination issues."
+  ],
+  "meta_description": "The Trump administration plans to roll back expanded pregnancy job protections, citing conservative concerns over abortion and fertility coverage.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "pregnancy discrimination",
+   "employment law",
+   "Trump administration",
+   "Biden era",
+   "abortion",
+   "fertility treatment"
+  ],
+  "slug": "trump-administration-plans-roll-back-pregnancy-job-protections-0d7f17",
+  "reading_minutes": 1,
+  "added": "2026-11-02T23:52:22Z"
+ },
+ {
   "id": "dbfca6e2ba299102",
   "source_url": "https://www.bbc.co.uk/news/articles/c6n4en89nd2xo",
   "source": "BBC News",
