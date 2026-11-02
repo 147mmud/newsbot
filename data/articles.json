@@ -1,5 +1,651 @@
 [
  {
+  "id": "96d758e187bef221",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo",
+  "source": "BBC Sport",
+  "source_title": "'We've got big problems' - Hamilton says Ferrari need 'serious talks'",
+  "source_summary": "Lewis Hamilton says Ferrari need \"some serious talks behind closed doors\" after fighting between their two drivers in Mexico.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1abc/live/c33d2200-d64f-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-02T00:28:28+00:00",
+  "headline": "Hamilton Calls for Ferrari to Hold Serious Talks After Mexico Driver Clash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Lewis Hamilton urged Ferrari to arrange \"some serious talks behind closed doors\" following a dispute between the team's two drivers at the Mexican Grand Prix. The former seven‑time champion said the internal conflict could harm the team's performance if not addressed promptly."
+   },
+   {
+    "type": "p",
+    "text": "Hamilton did not specify the nature of the disagreement, but his comments highlight growing concerns about Ferrari's cohesion as the Formula 1 season progresses. He emphasized that resolving the issue quietly would be in the best interest of the team and the sport."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Ferrari is a marquee team in Formula 1, and internal strife could affect the championship battle that draws global audiences, including fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Hamilton says Ferrari must hold private discussions to settle a driver fight in Mexico.",
+   "He warns that unresolved tension could damage the team's competitiveness."
+  ],
+  "meta_description": "Lewis Hamilton urges Ferrari to hold private talks after a driver dispute at the Mexican Grand Prix, warning of potential performance impacts.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Lewis Hamilton",
+   "Ferrari",
+   "Formula 1",
+   "driver dispute",
+   "Mexico Grand Prix"
+  ],
+  "slug": "hamilton-calls-ferrari-hold-serious-talks-after-mexico-driver-96d758",
+  "reading_minutes": 1,
+  "added": "2026-11-02T00:35:00Z"
+ },
+ {
+  "id": "ff254917f921cc63",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+  "source": "BBC News",
+  "source_title": "Binance users withdraw billions after record crypto hack",
+  "source_summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-02T00:26:30+00:00",
+  "headline": "Binance Users Pull Billions After $6.3bn Crypto Hack",
+  "body": [
+   {
+    "type": "p",
+    "text": "Following a record‑breaking cyber‑attack that compromised roughly $6.3 billion in digital assets, users of the Binance exchange began withdrawing billions of dollars from their accounts. The massive outflow prompted the platform to freeze all transactions as it worked to assess the breach."
+   },
+   {
+    "type": "p",
+    "text": "The freeze affected both retail and institutional clients, halting deposits, withdrawals and trading activity across the exchange. Binance has not released details on the attackers or the exact mechanism of the hack, but the scale of the incident marks it as the largest crypto‑theft reported to date."
+   },
+   {
+    "type": "p",
+    "text": "Regulators in several jurisdictions have been alerted to the incident, and industry observers note that the event could intensify scrutiny of security practices at major cryptocurrency platforms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the systemic risk posed by security failures at leading crypto exchanges, a concern for investors and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "A hack targeting Binance compromised about $6.3 billion in digital assets.",
+   "Users responded by withdrawing billions, leading the exchange to freeze all transactions.",
+   "The breach is the largest crypto theft reported so far, drawing regulatory attention."
+  ],
+  "meta_description": "Binance users withdrew billions after a $6.3bn crypto hack, prompting the exchange to freeze all transactions.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Binance",
+   "crypto hack",
+   "digital assets",
+   "withdrawals",
+   "security",
+   "regulation"
+  ],
+  "slug": "binance-users-pull-billions-after-6-3bn-crypto-hack-ff2549",
+  "reading_minutes": 1,
+  "added": "2026-11-02T00:35:05Z"
+ },
+ {
+  "id": "9cf6a04116c0a0bf",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+  "source": "The Guardian",
+  "source_title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+  "source_summary": "President again took aim at progressive Senate candidate and lauded Haley Stevens for endorsing Mike Rogers Donald Trump railed against Democratic US senate hopeful Abdul El-Sayed at a campaign event in Iowa Sunday, repeatedly referring to the Michigan progressive as a “jihadist”. Trump’s comments aimed to influence a neck-and-neck race that will play an outsized role in determining which party controls the senate after Tuesday’s midterm elections.",
+  "source_tags": [
+   "Donald Trump",
+   "US midterm elections 2026",
+   "Iowa",
+   "Michigan",
+   "US news",
+   "US politics",
+   "US Senate"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/bd7c662bbdcb7022f36caae8cd4aa1f30f919f2e/452_0_4249_3398/master/4249.jpg?width=700&quality=85&auto=format&fit=max&s=4e866f7f94058f54ff253474f816a9c7",
+  "published": "2026-11-02T00:16:25+00:00",
+  "headline": "Trump Calls Senate Candidate Abdul El‑Sayed a “Jihadist” at Iowa Rally",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump used a campaign stop in Iowa on Sunday to attack Democratic Senate hopeful Abdul El‑Sayed, repeatedly labeling the Michigan progressive as a “jihadist.” The remarks were part of a broader effort to sway a closely contested Senate race that could determine party control after the upcoming midterm elections."
+   },
+   {
+    "type": "p",
+    "text": "During the same event, Trump praised Republican Representative Haley Stevens for her endorsement of fellow Republican Mike Rogers, highlighting the GOP’s unified front in the state. The president’s comments came as the Senate contest in Michigan remains neck‑and‑neck, with both parties vying for crucial seats."
+   },
+   {
+    "type": "p",
+    "text": "El‑Sayed, a former health official and progressive figure, has not responded publicly to the accusations. Political analysts note that Trump’s rhetoric is intended to energize his base and draw attention to the race ahead of Tuesday’s voting."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Senate balance will affect U.S. legislation on issues ranging from health care to foreign policy, influencing both American and European interests."
+   }
+  ],
+  "key_points": [
+   "Trump labeled Democratic Senate candidate Abdul El‑Sayed a “jihadist” at an Iowa rally.",
+   "He highlighted Republican Haley Stevens’ endorsement of Mike Rogers as part of GOP unity.",
+   "The comments target a tight Senate race that could decide Senate control after the midterms."
+  ],
+  "meta_description": "Trump calls Michigan Senate candidate Abdul El‑Sayed a “jihadist” at Iowa rally, aiming to impact a tight Senate race.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Abdul El‑Sayed",
+   "Senate race",
+   "Iowa rally",
+   "midterm elections"
+  ],
+  "slug": "trump-calls-senate-candidate-abdul-elsayed-jihadist-iowa-rally-9cf6a0",
+  "reading_minutes": 1,
+  "added": "2026-11-02T00:35:09Z"
+ },
+ {
+  "id": "e357fd1c5c59e570",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o",
+  "source": "BBC Sport",
+  "source_title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+  "source_summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-02T00:00:03+00:00",
+  "headline": "Arsenal Avoid Penalty After Liverpool Claim Over Isak Pull",
+  "body": [
+   {
+    "type": "p",
+    "text": "During Liverpool's recent Premier League clash with Arsenal, the home side argued that a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber warranted a penalty. The incident was reviewed by the referee and the decision stood as a free‑kick rather than a spot‑kick."
+   },
+   {
+    "type": "p",
+    "text": "BBC Sport analysts Kelly Cates, Danny Murphy and Micah Richards debated whether Liverpool were denied a clear penalty and if the Reds could feel aggrieved. They noted that the contact was brief and that the referee may have judged it insufficient for a penalty under current guidelines."
+   },
+   {
+    "type": "p",
+    "text": "The discussion highlighted the fine margins that can influence match outcomes and the ongoing scrutiny of refereeing standards in the English top flight."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Penalty decisions can swing league points, affecting title races and European qualification for clubs across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Liverpool claimed Arsenal defender Jurrien Timber pulled Alexander Isak's shirt, seeking a penalty.",
+   "Referee ruled the incident a free‑kick, prompting debate among pundits about the decision.",
+   "The incident underscores the impact of marginal calls on Premier League results."
+  ],
+  "meta_description": "Liverpool argued Arsenal should have been penalised for a shirt pull on Isak, but officials ruled a free‑kick, sparking pundit debate.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Liverpool",
+   "Premier League",
+   "VAR",
+   "penalty controversy"
+  ],
+  "slug": "arsenal-avoid-penalty-after-liverpool-claim-over-isak-pull-e357fd",
+  "reading_minutes": 1,
+  "added": "2026-11-02T00:35:17Z"
+ },
+ {
+  "id": "9bbc0ed4b174b98a",
+  "source_url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go",
+  "source": "BBC News",
+  "source_title": "Don't get caught out by new Buy Now Pay Later rules",
+  "source_summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
+  "published": "2026-11-01T23:34:49+00:00",
+  "headline": "New Affordability Checks Tighten Buy Now Pay Later Access",
+  "body": [
+   {
+    "type": "p",
+    "text": "The latest regulatory update introduces stricter affordability assessments for Buy Now Pay Later (BNPL) services. Under the new rules, providers must verify a consumer's ability to repay before approving a purchase, which could result in some users being denied the option altogether."
+   },
+   {
+    "type": "p",
+    "text": "Consumers who rely on BNPL may find themselves blocked unless they meet the enhanced criteria. The guidelines aim to curb debt accumulation by ensuring that credit is only extended to those who can afford it, aligning BNPL practices with traditional lending standards."
+   },
+   {
+    "type": "p",
+    "text": "Industry experts suggest several strategies to navigate the new checks, such as maintaining a strong credit history, limiting the number of active BNPL accounts, and using alternative payment methods for smaller purchases. These approaches can help shoppers continue to benefit from flexible financing while complying with the updated requirements."
+   }
+  ],
+  "key_points": [
+   "New affordability checks may prevent some users from accessing BNPL services.",
+   "Providers must now confirm repayment ability before approving purchases.",
+   "Maintaining good credit and managing BNPL usage can help avoid denial."
+  ],
+  "meta_description": "Stricter affordability checks could block Buy Now Pay Later use, but consumers can mitigate impact with credit‑smart strategies.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Buy Now Pay Later",
+   "affordability checks",
+   "consumer finance",
+   "credit",
+   "regulation"
+  ],
+  "slug": "new-affordability-checks-tighten-buy-now-pay-later-access-9bbc0e",
+  "reading_minutes": 1,
+  "added": "2026-11-02T00:35:13Z"
+ },
+ {
+  "id": "a43bd939362bf177",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o",
+  "source": "BBC Sport",
+  "source_title": "Antonelli becomes world champion as Verstappen wins in Mexico",
+  "source_summary": "Kimi Antonelli becomes the youngest world champion in Formula 1 history as Max Verstappen wins the Mexico City Grand Prix.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1694/live/d0cd8590-d64a-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-01T23:20:54+00:00",
+  "headline": "Antonelli Crowned Youngest F1 World Champion as Verstappen Wins Mexico",
+  "body": [
+   {
+    "type": "p",
+    "text": "Italian driver Kimi Antonelli secured the Formula 1 World Championship, becoming the youngest champion in the sport's history. His title was clinched after the season finale in Mexico City, where he outscored his rivals in the points tally."
+   },
+   {
+    "type": "p",
+    "text": "In the same race, Dutch driver Max Verstappen took victory at the Mexico City Grand Prix, adding another win to his record for the season. The race concluded with Antonelli celebrating his championship while Verstappen celebrated his individual Grand Prix triumph."
+   },
+   {
+    "type": "p",
+    "text": "Both achievements were highlighted in the closing events of the 2026 Formula 1 calendar, marking a notable shift in the sport's competitive landscape."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The emergence of a new, record‑breaking champion signals a generational change in Formula 1, while Verstappen's win underscores his continued dominance, both of which affect team strategies and fan engagement worldwide."
+   }
+  ],
+  "key_points": [
+   "Kimi Antonelli became the youngest Formula 1 World Champion in history.",
+   "Max Verstappen won the Mexico City Grand Prix, securing his latest race victory."
+  ],
+  "meta_description": "Kimi Antonelli becomes the youngest F1 world champion as Max Verstappen wins the Mexico City Grand Prix.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Kimi Antonelli",
+   "Max Verstappen",
+   "World Championship",
+   "Mexico Grand Prix"
+  ],
+  "slug": "antonelli-crowned-youngest-f1-world-champion-verstappen-wins-mexico-a43bd9",
+  "reading_minutes": 1,
+  "added": "2026-11-02T00:35:28Z"
+ },
+ {
+  "id": "1d0bfb3219eea6a6",
+  "source_url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+  "source": "BBC News",
+  "source_title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+  "source_summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-01T22:38:24+00:00",
+  "headline": "Ukraine Air‑Raid App Hacked, Users Sent False Radiation Alerts",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukraine's air‑raid warning application appears to have been compromised, sending users messages about a non‑existent radiation threat, the Ukrainian Air Force said on Tuesday. The false alerts prompted concern among civilians who rely on the app for real‑time safety information during the ongoing conflict."
+   },
+   {
+    "type": "p",
+    "text": "Military officials confirmed there is no radiation danger and urged the public to remain calm, stressing that only official channels should be trusted for accurate updates. The Air Force is investigating the breach and working to restore the app's integrity."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have asked users to verify any warnings through established government sources and to report suspicious messages. The incident highlights the vulnerability of digital tools used in wartime communications."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Misinformation from compromised emergency apps can destabilize public response in conflict zones, a risk that extends to allied nations monitoring the war."
+   }
+  ],
+  "key_points": [
+   "A hack of Ukraine's air‑raid alert app sent false radiation warnings to users.",
+   "The Ukrainian Air Force confirmed no radiation threat and advised calm.",
+   "Officials urge reliance on official channels for accurate safety information."
+  ],
+  "meta_description": "Ukraine's air‑raid warning app was hacked, sending false radiation alerts; officials say there is no threat and urge calm.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "cyberattack",
+   "air raid app",
+   "radiation alert",
+   "misinformation"
+  ],
+  "slug": "ukraine-airraid-app-hacked-users-sent-false-radiation-alerts-1d0bfb",
+  "reading_minutes": 1,
+  "added": "2026-11-02T00:35:25Z"
+ },
+ {
+  "id": "a5b3e5ea6f9c70ac",
+  "source_url": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+  "source": "NPR",
+  "source_title": "This legendary board game could take decades to complete",
+  "source_summary": "Andy Taeger & James Purcell are trying to become the first people ever complete the board game Campaign for North Africa. The is so complex it could take decades to finish.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-11-01T22:30:00+00:00",
+  "headline": "Two Gamers Aim to Finish Decades‑Long Campaign for North Africa Board Game Quest in Historic First Attempt",
+  "body": [
+   {
+    "type": "p",
+    "text": "Andy Taeger and James Purcell have set out to become the first players ever to complete the legendary board game Campaign for North Africa. The game, renowned for its extraordinary complexity, simulates the entire World War II North African campaign and is famed among hobbyists for its sprawling rule set and massive playing time."
+   },
+   {
+    "type": "p",
+    "text": "According to NPR, the duo’s effort could span decades, reflecting the game’s reputation as one of the most demanding tabletop experiences ever created. Their goal is not only to finish the game but also to document the process, offering a rare glimpse into a pastime that has long been considered a near‑impossible undertaking."
+   },
+   {
+    "type": "p",
+    "text": "The pair’s undertaking highlights a niche yet growing interest in ultra‑complex board games, where enthusiasts seek immersive historical simulations that go far beyond typical hobby offerings."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The project illustrates a niche trend in gaming culture where deep historical simulations attract dedicated players, offering insight into how complex hobbies can foster long‑term collaboration."
+   }
+  ],
+  "key_points": [
+   "Andy Taeger and James Purcell aim to be the first to finish Campaign for North Africa.",
+   "The game’s intricate design could require decades of play to complete.",
+   "Their attempt underscores a rising fascination with highly detailed historical board games."
+  ],
+  "meta_description": "Two gamers pursue a historic first by attempting to finish the decades‑long board game Campaign for North Africa.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "board games",
+   "Campaign for North Africa",
+   "gaming culture",
+   "historical simulations",
+   "long‑term projects"
+  ],
+  "slug": "two-gamers-aim-finish-decadeslong-campaign-north-africa-board-a5b3e5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T00:35:51Z"
+ },
+ {
+  "id": "4fc8a5a21005c5a9",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo",
+  "source": "BBC Sport",
+  "source_title": "Antonelli - the boy 'born in a garage' who became world champion",
+  "source_summary": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg",
+  "published": "2026-11-01T22:25:01+00:00",
+  "headline": "Kimi Antonelli: From Garage Birth to F1 World Champion at 20",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kimi Antonelli, described by his father as a natural driver from the age of three, rose from humble beginnings to claim the Formula One world title at just 20 years old. The British‑Italian racer’s early life was famously linked to a garage where he was said to have been 'born', a detail that has become part of his legend."
+   },
+   {
+    "type": "p",
+    "text": "Antonelli’s rapid ascent through the junior ranks culminated in his historic championship win, marking him as one of the youngest ever to secure the sport’s top honor. His story has captured the imagination of motorsport fans worldwide, highlighting both raw talent and a supportive family environment."
+   },
+   {
+    "type": "p",
+    "text": "The champion’s achievement underscores the growing trend of teenage drivers reaching the pinnacle of Formula One, a development that continues to reshape the sport’s competitive landscape."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Antonelli’s youthful triumph reflects the accelerating pace at which new talent reaches elite levels in global motorsport, a trend of interest to fans and sponsors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Kimi Antonelli became Formula One world champion at age 20.",
+   "His father says he showed natural driving ability from three years old.",
+   "Antonelli’s story began with a garage birth narrative that adds to his mythic status."
+  ],
+  "meta_description": "Kimi Antonelli, dubbed the boy 'born in a garage', clinched the F1 world title at 20, a record‑breaking rise highlighted by his father's praise of his…",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kimi Antonelli",
+   "Formula One",
+   "World Champion",
+   "Motorsport",
+   "Young Athletes"
+  ],
+  "slug": "kimi-antonelli-from-garage-birth-f1-world-champion-20-4fc8a5",
+  "reading_minutes": 1,
+  "added": "2026-11-02T00:35:53Z"
+ },
+ {
+  "id": "ef58a7b02961bdd1",
+  "source_url": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+  "source": "NPR",
+  "source_title": "Do you know signs of a stroke? BE FAST are the words to remember",
+  "source_summary": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x4128+0+0/resize/6192x4128!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F26%2F33%2F05a3ab594f34b831e3232c2b7a2f%2Fap26064767491306.jpg",
+  "published": "2026-11-01T22:22:12+00:00",
+  "headline": "Sen. Chris Murphy Expected to Fully Recover After Stroke",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senator Chris Murphy is reported to be on track for a complete recovery following a recent stroke. Medical updates indicate that his condition is improving and doctors are optimistic about his full return to health."
+   },
+   {
+    "type": "p",
+    "text": "Health officials continue to stress the importance of recognizing stroke symptoms quickly. The acronym BE FAST—Balance, Eyes, Face, Arms, Speech, Time—helps the public identify warning signs and act fast by calling 911."
+   },
+   {
+    "type": "p",
+    "text": "Early intervention can dramatically improve outcomes for stroke victims, underscoring why public awareness campaigns remain critical."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stroke remains a leading cause of disability in the U.S. and Europe; quick recognition saves lives and reduces long‑term impacts."
+   }
+  ],
+  "key_points": [
+   "Sen. Chris Murphy is expected to make a full recovery after his stroke.",
+   "The BE FAST acronym aids rapid identification of stroke symptoms and prompts immediate emergency calls."
+  ],
+  "meta_description": "Sen. Chris Murphy is expected to fully recover from a stroke; experts urge use of BE FAST to spot symptoms and call 911 promptly.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "stroke",
+   "health awareness",
+   "BE FAST",
+   "Chris Murphy",
+   "recovery",
+   "emergency response"
+  ],
+  "slug": "sen-chris-murphy-expected-fully-recover-after-stroke-ef58a7",
+  "reading_minutes": 1,
+  "added": "2026-11-02T00:35:37Z"
+ },
+ {
+  "id": "33c086ca1438f528",
+  "source_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+  "source": "TechCrunch",
+  "source_title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+  "source_summary": "Data centers are deeply unpopular. But what if we called them something else?",
+  "source_tags": [
+   "AI",
+   "Government & Policy",
+   "Chris Lehane",
+   "OpenAI"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+  "published": "2026-11-01T21:55:23+00:00",
+  "headline": "OpenAI Considers Renaming Data Centers to “AI Compute Campuses”",
+  "body": [
+   {
+    "type": "p",
+    "text": "OpenAI is reportedly exploring a rebrand of its data center facilities, proposing the term “AI compute campuses” as an alternative to the traditional “data center” label. The move reflects growing public discomfort with the term, which has become associated with high energy use and environmental concerns."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the proposed nomenclature could shift focus toward the purpose of the facilities—running large‑scale artificial‑intelligence models—rather than the physical infrastructure itself. By emphasizing “compute” and “campus,” OpenAI may aim to present a more progressive image and align its branding with the broader AI ecosystem."
+   },
+   {
+    "type": "p",
+    "text": "If adopted, the new terminology could influence how other tech firms describe similar sites, potentially reshaping public discourse around the environmental and societal impact of AI‑driven computing."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rebranding effort highlights how tech companies respond to public concerns about energy use and environmental impact, a topic of interest for regulators and consumers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "OpenAI is weighing a rebrand of its data centers to “AI compute campuses.”",
+   "The change seeks to address negative public perception of traditional data centers.",
+   "Adopting the new term could set a naming trend for AI infrastructure across the industry."
+  ],
+  "meta_description": "OpenAI may rename its data centers as “AI compute campuses” to improve public perception of its high‑energy facilities.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "data centers",
+   "AI infrastructure",
+   "branding",
+   "technology",
+   "environment"
+  ],
+  "slug": "openai-considers-renaming-data-centers-ai-compute-campuses-33c086",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T00:35:21Z"
+ },
+ {
+  "id": "3604bfbf152b4f6e",
+  "source_url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+  "source": "The Verge",
+  "source_title": "NASA hopes the commercial space industry can help save Hubble",
+  "source_summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from […]",
+  "source_tags": [
+   "NASA",
+   "News",
+   "Policy",
+   "Politics",
+   "Science",
+   "Space"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-01T21:09:21+00:00",
+  "headline": "NASA Seeks Commercial Help to Extend Hubble’s Orbit Into 2030s",
+  "body": [
+   {
+    "type": "p",
+    "text": "NASA announced it is reviewing proposals from commercial space firms to boost the Hubble Space Telescope’s orbit, which is gradually decaying due to Earth’s gravity. The telescope, launched in 1990, faces a potential end of service in the early to mid‑2030s unless its altitude is raised."
+   },
+   {
+    "type": "p",
+    "text": "The agency said the boost would not involve re‑entering the atmosphere, but rather a controlled maneuver to raise Hubble to a higher, more stable orbit. NASA is evaluating cost‑effective solutions from the growing commercial space sector, hoping to leverage private launch capabilities."
+   },
+   {
+    "type": "p",
+    "text": "If successful, the orbit‑raising mission could preserve Hubble’s scientific output for several more years, allowing continued observations that complement newer telescopes such as the James Webb Space Telescope."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Extending Hubble’s life would keep a vital source of astronomical data available to researchers in the US and Europe, supporting ongoing studies of the universe."
+   }
+  ],
+  "key_points": [
+   "NASA is soliciting commercial proposals to raise Hubble’s orbit before it decays in the 2030s.",
+   "The telescope’s altitude loss is caused by Earth’s gravity, not atmospheric re‑entry.",
+   "A successful boost would extend Hubble’s scientific contributions alongside newer observatories."
+  ],
+  "meta_description": "NASA looks to commercial space firms for a cost‑effective boost to Hubble's orbit, aiming to extend its service into the 2030s.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "NASA",
+   "Hubble Telescope",
+   "commercial space",
+   "orbit boost",
+   "astronomy"
+  ],
+  "slug": "nasa-seeks-commercial-help-extend-hubbles-orbit-into-2030s-3604bf",
+  "reading_minutes": 1,
+  "added": "2026-11-02T00:35:33Z"
+ },
+ {
   "id": "9877efd2ac358667",
   "source_url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
