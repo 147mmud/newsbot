@@ -1,5 +1,695 @@
 [
  {
+  "id": "dbfca6e2ba299102",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6n4en89nd2xo",
+  "source": "BBC News",
+  "source_title": "Reform council leader quits after staff comments leaked",
+  "source_summary": "Dan Harrison was recorded as saying 76 council solicitors he branded \"incompetent\" would be made redundant.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a23/live/8862bc30-d6db-11f1-b2be-0146bf989691.jpg",
+  "published": "2026-11-02T16:55:42+00:00",
+  "headline": "Council Leader Dan Harrison Resigns After Redundancy Remarks Leak",
+  "body": [
+   {
+    "type": "p",
+    "text": "Dan Harrison, the leader of a local council, stepped down on Wednesday following the public release of a recording in which he described 76 council solicitors as \"incompetent\" and announced plans to make them redundant. The comments, made during an internal meeting, were leaked to the media, prompting widespread criticism."
+   },
+   {
+    "type": "p",
+    "text": "The leaked remarks sparked immediate backlash from council staff and local officials, who argued that the language used was unprofessional and the proposed redundancies could disrupt essential legal services. Harrison's resignation was announced shortly after the leak, with the council issuing a statement that it would review its staffing and communication policies."
+   },
+   {
+    "type": "p",
+    "text": "While the council has not disclosed the next steps regarding the alleged redundancies, the incident highlights tensions within public sector workplaces and raises questions about leadership accountability in local government."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode underscores how internal disputes and leadership conduct can affect public services and trust in local government across Europe and the US."
+   }
+  ],
+  "key_points": [
+   "Council leader Dan Harrison resigned after a leaked recording where he called 76 solicitors incompetent.",
+   "He announced plans to make those solicitors redundant, prompting criticism from staff and officials.",
+   "The council will review its staffing and communication procedures following the incident."
+  ],
+  "meta_description": "Council leader Dan Harrison resigns after leaked remarks calling 76 solicitors incompetent and announcing redundancies.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "local government",
+   "leadership resignation",
+   "public sector",
+   "staff redundancy",
+   "BBC News"
+  ],
+  "slug": "council-leader-dan-harrison-resigns-after-redundancy-remarks-leak-dbfca6",
+  "reading_minutes": 1,
+  "added": "2026-11-02T16:59:17Z"
+ },
+ {
+  "id": "2d1a7e8ef61fa74f",
+  "source_url": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+  "source": "The Verge",
+  "source_title": "Squarespace is laying off 19 percent of employees",
+  "source_summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge. The job cuts will affect around 300 of Squarespace's 1,800 employees. \"The changes are intended to simplify how we operate, sharpen our priorities and enable […]",
+  "source_tags": [
+   "Labor",
+   "News",
+   "Tech",
+   "Web"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-1247870734.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-02T16:50:47+00:00",
+  "headline": "Squarespace Cuts 300 Jobs, Laying Off 19% of Workforce",
+  "body": [
+   {
+    "type": "p",
+    "text": "Website‑building platform Squarespace announced it will eliminate roughly 300 positions, representing about 19 percent of its 1,800‑person staff. The company said the reductions are part of a plan to \"simplify\" its operations and sharpen strategic priorities, according to a statement from spokesperson Jeff Seedman."
+   },
+   {
+    "type": "p",
+    "text": "The layoffs are being framed as a move to streamline processes and focus on core products, rather than a response to a specific financial crisis. Seedman emphasized that the changes are intended to improve efficiency and enable the firm to better serve its customers moving forward."
+   },
+   {
+    "type": "p",
+    "text": "While the exact timeline for the cuts was not disclosed, the announcement follows a broader trend of tech firms adjusting workforce sizes amid shifting market conditions. Squarespace did not provide details on which departments will be affected or any severance arrangements."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The layoffs highlight ongoing restructuring in the tech industry, affecting employment and service delivery for businesses that rely on Squarespace's platform."
+   }
+  ],
+  "key_points": [
+   "Squarespace will lay off about 300 employees, or 19% of its workforce.",
+   "The cuts aim to simplify operations and sharpen the company's priorities.",
+   "The move reflects a wider pattern of staffing adjustments in the tech sector."
+  ],
+  "meta_description": "Squarespace is cutting 300 jobs, about 19% of its staff, to simplify operations and sharpen priorities, spokesperson says.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Squarespace",
+   "layoffs",
+   "tech industry",
+   "employment",
+   "business restructuring"
+  ],
+  "slug": "squarespace-cuts-300-jobs-laying-off-19-workforce-2d1a7e",
+  "reading_minutes": 1,
+  "added": "2026-11-02T16:59:22Z"
+ },
+ {
+  "id": "cf2f62e31b11ce37",
+  "source_url": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
+  "source": "The New York Times",
+  "source_title": "Trump Administration Asks Supreme Court to Intervene in California Ballot Case",
+  "source_summary": "In an emergency application, administration lawyers asked the justices to immediately order California to set aside 20,000 mail-in ballots.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Federal-State Relations (US)",
+   "Midterm Elections (2026)",
+   "Absentee Voting",
+   "Elections, Courts and the Judiciary",
+   "Citizenship and Naturalization",
+   "Appeals Courts (US)",
+   "Justice Department",
+   "Supreme Court (US)",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-scotus-california-pglk/02dc-scotus-california-pglk-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T16:48:54+00:00",
+  "headline": "Trump Administration Seeks Supreme Court Order to Void 20,000 California Mail‑In Ballots",
+  "body": [
+   {
+    "type": "p",
+    "text": "In an emergency filing, lawyers for the Trump administration asked the U.S. Supreme Court to intervene in a California election dispute. The petition urges the Court to direct the state to set aside roughly 20,000 mail‑in ballots that the administration claims are problematic."
+   },
+   {
+    "type": "p",
+    "text": "The request comes amid ongoing legal battles over the handling of mail‑in voting in the 2026 elections. The administration argues that the ballots in question were cast under conditions that could compromise election integrity, though specific allegations were not detailed in the filing."
+   },
+   {
+    "type": "p",
+    "text": "California officials have not yet responded to the emergency application, and the Supreme Court has not indicated when it might rule on the matter. The case adds to a series of recent challenges to state voting procedures that have drawn national attention."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case could set a precedent for federal involvement in state election processes, affecting how mail‑in voting is administered across the United States and potentially influencing similar disputes in other democracies."
+   }
+  ],
+  "key_points": [
+   "The Trump administration filed an emergency petition asking the Supreme Court to order California to discard about 20,000 mail‑in ballots.",
+   "The filing alleges issues with the ballots but provides no detailed evidence in the request.",
+   "The Supreme Court has not yet scheduled a hearing, and California has not commented on the request."
+  ],
+  "meta_description": "Trump administration asks Supreme Court to void 20,000 California mail‑in ballots in emergency filing, raising questions about federal role in elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Supreme Court",
+   "California elections",
+   "mail‑in voting",
+   "Trump administration",
+   "election law"
+  ],
+  "slug": "trump-administration-seeks-supreme-court-order-void-20-000-cf2f62",
+  "reading_minutes": 1,
+  "added": "2026-11-02T16:59:38Z"
+ },
+ {
+  "id": "4f733b45ad54fc15",
+  "source_url": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
+  "source": "The New York Times",
+  "source_title": "Why Orban and Vucic Broke With Trump on Election Denial",
+  "source_summary": "Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Politics and Government",
+   "Midterm Elections (2026)",
+   "United States International Relations",
+   "Presidential Election of 2024",
+   "Legislatures and Parliaments",
+   "Right-Wing Extremism and Alt-Right",
+   "Elections",
+   "Presidential Election of 2020",
+   "European Union"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02right-concede-01-btjv/02right-concede-01-btjv-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T16:48:12+00:00",
+  "headline": "Orban and Vucic Reject Trump’s Election Denial Playbook Ahead of Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "Hungarian Prime Minister Viktor Orbán and Serbian President Aleksandar Vučić have publicly distanced themselves from former U.S. President Donald Trump’s strategy of denying election results. Both leaders chose to abandon the rhetoric that has fueled unrest in the United States, opting instead for a more orderly political transition in their own countries."
+   },
+   {
+    "type": "p",
+    "text": "The shift signals a break with the “election denial playbook” that Trump popularized, as Orbán and Vučić emphasize stability over confrontation. Their decision comes as both nations approach upcoming electoral cycles, where maintaining legitimacy and avoiding domestic upheaval are paramount."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the move underscores a pragmatic approach by nationalist leaders who recognize the risks of importing American‑style contestation into European politics. By rejecting Trump’s tactics, they aim to preserve institutional credibility while still pursuing their broader political agendas."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The break with Trump’s playbook may curb the spread of election‑denial rhetoric in Europe, affecting U.S. influence on democratic norms."
+   }
+  ],
+  "key_points": [
+   "Orbán and Vučić have rejected Donald Trump’s election‑denial tactics.",
+   "Both leaders favor an orderly political transition ahead of upcoming elections.",
+   "The decision highlights a pragmatic shift among European nationalist leaders."
+  ],
+  "meta_description": "Orbán and Vučić reject Trump’s election denial tactics, choosing orderly transitions ahead of elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Viktor Orbán",
+   "Aleksandar Vučić",
+   "election denial",
+   "Donald Trump",
+   "European politics"
+  ],
+  "slug": "orban-vucic-reject-trumps-election-denial-playbook-ahead-elections-4f733b",
+  "reading_minutes": 1,
+  "added": "2026-11-02T16:59:27Z"
+ },
+ {
+  "id": "8f81a5b7fe99bd97",
+  "source_url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+  "source": "TechCrunch",
+  "source_title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+  "source_summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+  "source_tags": [
+   "Space",
+   "EchoStar",
+   "cellular networks",
+   "Starlink"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/09/starlink-direct-to-cell.jpg?resize=1200,601",
+  "published": "2026-11-02T16:44:48+00:00",
+  "headline": "SpaceX Explores Purchase of Boost Mobile to Leverage Starlink",
+  "body": [
+   {
+    "type": "p",
+    "text": "SpaceX is reportedly evaluating a purchase of Boost Mobile, the prepaid cellular brand owned by Dish Network. The move would give the rocket company a foothold in the U.S. wireless market and provide terrestrial infrastructure to complement its Starlink satellite service."
+   },
+   {
+    "type": "p",
+    "text": "Analysts say the acquisition could position SpaceX to compete directly with established carriers such as AT&T, T‑Mobile and Verizon. By combining Boost Mobile’s spectrum holdings and retail network with Starlink’s satellite broadband, SpaceX could offer bundled mobile and internet plans."
+   },
+   {
+    "type": "p",
+    "text": "The potential deal reflects SpaceX’s broader strategy to monetize Starlink beyond satellite‑only services. Sources familiar with the talks declined to comment on pricing or timeline."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A successful deal could reshape the U.S. telecom landscape, offering consumers more competition and potentially lower prices."
+   }
+  ],
+  "key_points": [
+   "SpaceX is considering buying Boost Mobile to add terrestrial wireless assets to its Starlink network.",
+   "The acquisition would allow SpaceX to challenge the three largest U.S. carriers.",
+   "Combining Boost’s spectrum with satellite broadband could enable new bundled services."
+  ],
+  "meta_description": "SpaceX is eyeing a purchase of Boost Mobile to pair its Starlink satellite service with terrestrial wireless assets, aiming to rival major carriers.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "SpaceX",
+   "Boost Mobile",
+   "Starlink",
+   "telecom",
+   "acquisition",
+   "wireless"
+  ],
+  "slug": "spacex-explores-purchase-boost-mobile-leverage-starlink-8f81a5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T16:59:42Z"
+ },
+ {
+  "id": "d3da2496b731511f",
+  "source_url": "https://www.bbc.co.uk/news/articles/c63dj21yvjd3o",
+  "source": "BBC News",
+  "source_title": "Labour ends power-sharing with Greens in 11 councils over Zionism row",
+  "source_summary": "Labour's ruling National Executive Committee sets out where it is cutting ties with the Greens.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b296/live/c09906d0-d45c-11f1-ab12-eb0c94f5b382.png",
+  "published": "2026-11-02T16:38:56+00:00",
+  "headline": "Labour Cuts Ties With Greens in 11 Councils Over Zionism Dispute",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Labour Party's National Executive Committee announced it will end power‑sharing arrangements with Green Party councillors in 11 local authorities. The decision follows a row over the Greens' stance on Zionism, which the party said breached its anti‑racism policy."
+   },
+   {
+    "type": "p",
+    "text": "The move affects councils across England where Labour and the Greens have previously collaborated on joint administrations. Labour officials said the step was necessary to uphold party standards, while Green representatives expressed disappointment but pledged to continue working on local issues."
+   },
+   {
+    "type": "p",
+    "text": "No further details on which specific councils are involved were provided in the announcement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The split highlights tensions within progressive parties in the UK over Middle‑East policy, which could influence local governance and broader party dynamics ahead of upcoming elections."
+   }
+  ],
+  "key_points": [
+   "Labour's NEC ends cooperation with Greens in 11 councils due to a Zionism controversy.",
+   "The split reflects Labour's enforcement of its anti‑racism rules.",
+   "Green Party leaders criticized the decision but intend to remain active locally."
+  ],
+  "meta_description": "Labour ends power‑sharing with Greens in 11 councils over a Zionism dispute, citing anti‑racism policy breaches.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Labour Party",
+   "Green Party",
+   "local government",
+   "Zionism controversy",
+   "UK politics"
+  ],
+  "slug": "labour-cuts-ties-with-greens-11-councils-over-zionism-d3da24",
+  "reading_minutes": 1,
+  "added": "2026-11-02T16:59:58Z"
+ },
+ {
+  "id": "c898d39a154d8142",
+  "source_url": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+  "source": "The New York Times",
+  "source_title": "Trump’s Tariffs Are On the Ballot in Michigan",
+  "source_summary": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach.",
+  "source_tags": [
+   "United States Politics and Government",
+   "International Trade and World Market",
+   "Customs (Tariff)",
+   "Factories and Manufacturing",
+   "Presidential Election of 2024",
+   "Midterm Elections (2026)",
+   "United States Economy"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02dc-trade-midterms-01-lmfk/02dc-trade-midterms-01-lmfk-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T16:37:50+00:00",
+  "headline": "Michigan Ballot Tests Trump Tariffs and Canada Trade Dispute",
+  "body": [
+   {
+    "type": "p",
+    "text": "Voters in Michigan will decide next year whether to keep President Donald Trump's recent tariffs on steel, aluminum and other imports, as well as a pending trade dispute with Canada. The measures, introduced as a bid to protect domestic manufacturers, have been placed on the state ballot after a petition drive by consumer groups."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts say the ballot reflects a broader skepticism among Midwestern voters toward both free‑trade policies and the president's unpredictable style. While some residents hope the tariffs will shield local jobs, others fear higher costs for consumers and strained relations with Canada, a key trading partner."
+   },
+   {
+    "type": "p",
+    "text": "The outcome could influence future federal trade strategy, as Michigan is a pivotal swing state and a major hub for the auto and manufacturing sectors. A rejection of the tariffs would signal voter fatigue with protectionist tactics, whereas approval could embolden further trade actions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision could affect U.S.-Canada trade flows and set a precedent for how protectionist measures are evaluated by voters in a key industrial region."
+   }
+  ],
+  "key_points": [
+   "Michigan voters will vote on keeping Trump's tariffs and a trade dispute with Canada.",
+   "The ballot highlights local doubts about protectionism and the president's erratic approach.",
+   "Results may shape future U.S. trade policy and affect the auto‑manufacturing corridor."
+  ],
+  "meta_description": "Michigan voters will decide on Trump’s tariffs and a Canada trade dispute, a test of protectionist policies in a pivotal swing state.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "tariffs",
+   "Michigan ballot",
+   "Canada trade",
+   "US politics"
+  ],
+  "slug": "michigan-ballot-tests-trump-tariffs-canada-trade-dispute-c898d3",
+  "reading_minutes": 1,
+  "added": "2026-11-02T16:59:30Z"
+ },
+ {
+  "id": "8bc6bfdc537ad1fe",
+  "source_url": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
+  "source": "The New York Times",
+  "source_title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
+  "source_summary": "During the king’s visits to three former colonies, many people came out for celebratory parades and events. Others said the British state needed to atone for slavery’s toll.",
+  "source_tags": [
+   "Slavery (Historical)",
+   "Royal Families",
+   "Reparations",
+   "Colonization",
+   "Buckingham Palace",
+   "Charles III, King of the United Kingdom",
+   "Burnham, Andrew M (1970- )",
+   "Caribbean Area",
+   "Antigua and Barbuda",
+   "Bahama Islands"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/01/multimedia/2int-uk-king-voices-1-tvmw/2int-uk-king-voices-1-tvmw-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T16:36:08+00:00",
+  "headline": "King Charles Faces Celebration and Criticism on Caribbean Tour",
+  "body": [
+   {
+    "type": "p",
+    "text": "During a three‑day visit to former British colonies in the Caribbean, King Charles attended parades and public events that drew large crowds celebrating his presence. The itinerary included stops in Jamaica, the Bahamas and Barbados, where local officials highlighted the historic ties between the United Kingdom and the islands."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, activists and community leaders used the royal tour to call for the British state to acknowledge and atone for the legacy of slavery. Demonstrations and statements emphasized the need for reparative measures, contrasting sharply with the festive atmosphere of the official ceremonies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The tour highlights ongoing debates over colonial history and reparations, issues that resonate in the US and Europe as societies reassess historical injustices."
+   }
+  ],
+  "key_points": [
+   "King Charles toured three Caribbean nations, receiving public celebrations and official welcomes.",
+   "Human‑rights groups and local activists demanded British acknowledgment of slavery’s impact during the visit."
+  ],
+  "meta_description": "King Charles' Caribbean tour sparked both celebratory parades and calls for British atonement for slavery.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "King Charles",
+   "Caribbean",
+   "slavery reparations",
+   "monarchy",
+   "protests",
+   "UK"
+  ],
+  "slug": "king-charles-faces-celebration-criticism-caribbean-tour-8bc6bf",
+  "reading_minutes": 1,
+  "added": "2026-11-02T16:59:46Z"
+ },
+ {
+  "id": "6e11dddc7a7cc4c3",
+  "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+  "source": "TechCrunch",
+  "source_title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+  "source_summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+  "source_tags": [
+   "Startups",
+   "AI",
+   "Exclusive",
+   "predictive analytics",
+   "behavioral analysis",
+   "world models"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
+  "published": "2026-11-02T16:30:00+00:00",
+  "headline": "42AI Raises $62.5M, Unveils World Model Claiming Behavior Prediction",
+  "body": [
+   {
+    "type": "p",
+    "text": "AI startup 42AI announced it has emerged from stealth mode after securing $62.5 million in funding. The capital raise was disclosed in a brief statement accompanying the company’s public launch."
+   },
+   {
+    "type": "p",
+    "text": "Alongside the financing, 42AI introduced a new \"world model\" that the firm says is capable of predicting human behavior, even in situations the system has not previously encountered. The claim positions the technology as a step toward anticipatory AI applications."
+   },
+   {
+    "type": "p",
+    "text": "The company’s announcement highlights both the sizable investor interest in advanced AI research and the growing focus on models that aim to understand and forecast human actions."
+   }
+  ],
+  "key_points": [
+   "42AI raised $62.5 million as it exited stealth mode.",
+   "The startup unveiled a world model that it claims can predict human behavior in novel scenarios."
+  ],
+  "meta_description": "AI startup 42AI exits stealth with $62.5M funding and a world model that claims to predict human behavior.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "startup funding",
+   "world model",
+   "behavior prediction",
+   "technology"
+  ],
+  "slug": "42ai-raises-62-5m-unveils-world-model-claiming-behavior-6e11dd",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T17:00:02Z"
+ },
+ {
+  "id": "a15e978a30fd7f4b",
+  "source_url": "https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html",
+  "source": "The New York Times",
+  "source_title": "Martha Stewart Apologizes for Homeless Halloween Costume",
+  "source_summary": "Stewart, the media mogul and entrepreneur, had posted a photo of a costume with tattered clothes and a sign asking for help.",
+  "source_tags": [
+   "Stewart, Martha",
+   "Costumes",
+   "Halloween",
+   "Homeless Persons",
+   "Apologies"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02ST-MARTHA-wbvg/02ST-MARTHA-wbvg-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T16:29:24+00:00",
+  "headline": "Martha Stewart Issues Apology Over Controversial Halloween Post",
+  "body": [
+   {
+    "type": "p",
+    "text": "Media entrepreneur Martha Stewart has publicly apologized after sharing a photo of a Halloween costume that depicted a homeless person wearing tattered clothing and holding a sign that read “Help.” The image, posted on her social media accounts, sparked criticism for its perceived insensitivity toward people experiencing homelessness."
+   },
+   {
+    "type": "p",
+    "text": "In a statement released on Tuesday, Stewart said she regretted the “poor judgment” behind the costume and acknowledged that it “failed to respect the dignity of those who are struggling.” She added that she would remove the post and consider ways to support charitable causes that aid the homeless."
+   },
+   {
+    "type": "p",
+    "text": "The apology comes amid broader conversations about the portrayal of poverty in media and the responsibility of public figures to avoid reinforcing stereotypes. Stewart’s brand, which spans publishing, television, and retail, has not disclosed any further actions beyond the statement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights how high‑profile personalities can influence public perception of social issues, prompting scrutiny of corporate social responsibility."
+   }
+  ],
+  "key_points": [
+   "Martha Stewart apologized for a Halloween costume portraying a homeless person.",
+   "She described the post as a lapse in judgment and removed the image.",
+   "The incident adds to ongoing debates about media representation of vulnerable groups."
+  ],
+  "meta_description": "Martha Stewart apologizes for a controversial Halloween costume depicting homelessness, sparking debate on media representation.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Martha Stewart",
+   "Halloween",
+   "social media",
+   "homelessness",
+   "public apology"
+  ],
+  "slug": "martha-stewart-issues-apology-over-controversial-halloween-post-a15e97",
+  "reading_minutes": 1,
+  "added": "2026-11-02T16:59:50Z"
+ },
+ {
+  "id": "b6c90f8b8114c860",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/crz654jdzdqpo",
+  "source": "BBC Sport",
+  "source_title": "Can Alcaraz's ex-coach help Shelton challenge his former protege?",
+  "source_summary": "US Open runner-up Ben Shelton joins forces with Juan Carlos Ferrer, the former coach of Carlos Alcaraz - BBC Sport analyses why the partnership suits both parties.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490d/live/18b0c730-d6b1-11f1-b5fb-3b1e7f14caa9.jpg",
+  "published": "2026-11-02T16:21:12+00:00",
+  "headline": "Ben Shelton Teams Up With Alcaraz’s Former Coach Juan Carlos Ferrer",
+  "body": [
+   {
+    "type": "p",
+    "text": "US Open runner‑up Ben Shelton has announced a coaching partnership with Juan Carlos Ferrer, who previously guided Spanish star Carlos Alcaraz. The BBC Sport analysis highlights how the collaboration could be mutually beneficial."
+   },
+   {
+    "type": "p",
+    "text": "Ferrer brings experience from his work with a world‑number‑one player, offering tactical insight that could help Shelton refine his aggressive baseline game. In turn, Shelton provides Ferrer an opportunity to re‑establish his reputation after parting ways with Alcaraz."
+   },
+   {
+    "type": "p",
+    "text": "The article suggests that the pairing aligns with Shelton’s ambition to break into the sport’s elite, while giving Ferrer a platform to showcase his coaching credentials on the ATP Tour."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The alliance could reshape the competitive landscape on the ATP Tour, affecting fans and tournaments in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Ben Shelton has hired Juan Carlos Ferrer, former coach of Carlos Alcaraz.",
+   "Ferrer’s experience with a top‑ranked player may enhance Shelton’s game.",
+   "The partnership offers Ferrer a chance to rebuild his coaching profile."
+  ],
+  "meta_description": "Ben Shelton partners with former Alcaraz coach Juan Carlos Ferrer, a move that could boost his game and revive Ferrer's coaching career.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tennis",
+   "Ben Shelton",
+   "Juan Carlos Ferrer",
+   "coaching",
+   "ATP Tour"
+  ],
+  "slug": "ben-shelton-teams-up-with-alcarazs-former-coach-juan-b6c90f",
+  "reading_minutes": 1,
+  "added": "2026-11-02T16:59:34Z"
+ },
+ {
+  "id": "fca0ed1a3b7d4a10",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do",
+  "source": "BBC Sport",
+  "source_title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+  "source_summary": "Under-pressure Michael Carrick says it might be \"crazy\" but he is looking forward to Manchester United's Champions League match against Roma at Old Trafford.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925e/live/560b7790-d6db-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-02T16:00:07+00:00",
+  "headline": "Carrick Calls United's Roma Clash 'Crazy' Yet Excited for Showdown",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United midfielder Michael Carrick admitted that the upcoming Champions League tie against Roma feels \"crazy\" amid growing scrutiny of the team's recent performances. The Englishman said the pressure has intensified but he remains eager to face the Italian side at Old Trafford."
+   },
+   {
+    "type": "p",
+    "text": "Carrick, who has been vocal about the squad's need to improve, emphasized that the match offers a chance to reset the season's trajectory. He highlighted the importance of the home crowd and the club's European heritage as motivating factors for the players."
+   },
+   {
+    "type": "p",
+    "text": "United's next fixture against Roma is scheduled for later this week, marking a critical moment in the group stage. Carrick's comments reflect a broader sentiment within the dressing room that the team must deliver a strong performance to stay in contention."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result will influence Manchester United's chances of advancing in Europe's premier club competition, affecting fans and broadcasters across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Michael Carrick describes the upcoming United‑Roma Champions League game as \"crazy\" but looks forward to it.",
+   "The midfielder says the match is an opportunity to reverse recent poor form.",
+   "United host Roma at Old Trafford in a pivotal group‑stage encounter."
+  ],
+  "meta_description": "Michael Carrick says United's Champions League clash with Roma feels crazy but he is excited for the crucial Old Trafford match.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Champions League",
+   "Michael Carrick",
+   "Roma",
+   "European football"
+  ],
+  "slug": "carrick-calls-united-s-roma-clash-crazy-yet-excited-fca0ed",
+  "reading_minutes": 1,
+  "added": "2026-11-02T16:59:54Z"
+ },
+ {
   "id": "a5c6aa7d489f8d93",
   "source_url": "https://www.dw.com/en/india-news-gandhi-vows-to-step-up-pressure-on-modi-at-protest-rally/live-79825419?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
