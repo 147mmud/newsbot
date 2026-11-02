@@ -1,5 +1,668 @@
 [
  {
+  "id": "a5c6aa7d489f8d93",
+  "source_url": "https://www.dw.com/en/india-news-gandhi-vows-to-step-up-pressure-on-modi-at-protest-rally/live-79825419?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "India news: Gandhi vows to step up pressure on Modi at protest rally",
+  "source_summary": "Rahul Gandhi said the removal of election chief Gyanesh Kumar will be the first step to getting the country on the right track. Follow DW for more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79822037_6.jpg",
+  "published": "2026-11-02T06:38:00+00:00",
+  "headline": "Rahul Gandhi Calls for Election Chief’s Removal, Pressures Modi",
+  "body": [
+   {
+    "type": "p",
+    "text": "At a protest rally, opposition leader Rahul Gandhi announced that his party will intensify pressure on Prime Minister Narendra Modi. Gandhi said the dismissal of election chief Gyanesh Kumar would be the first step toward putting India back on the right track."
+   },
+   {
+    "type": "p",
+    "text": "Gandhi’s remarks were made during a public gathering where he urged the government to act quickly on the election chief’s removal. He framed the move as essential for restoring confidence in the country’s electoral system."
+   }
+  ],
+  "key_points": [
+   "Rahul Gandhi vows to increase pressure on Prime Minister Narendra Modi.",
+   "He calls the removal of election chief Gyanesh Kumar the first step to correcting the nation’s course."
+  ],
+  "meta_description": "Rahul Gandhi pledges to step up pressure on Modi, calling for the removal of election chief Gyanesh Kumar as a first step for India.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "Rahul Gandhi",
+   "Narendra Modi",
+   "election chief",
+   "protest rally"
+  ],
+  "slug": "rahul-gandhi-calls-election-chiefs-removal-pressures-modi-a5c6aa",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T06:45:49Z"
+ },
+ {
+  "id": "1a34c867b63e7ea0",
+  "source_url": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html",
+  "source": "The New York Times",
+  "source_title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
+  "source_summary": "The relationship shattered in part because of Israel, but also because of their sensitive egos and hurt feelings. The split had been months in the making.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Democratic Party",
+   "Republican Party",
+   "Senate",
+   "El-Sayed, Abdul",
+   "Stevens, Haley"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-michigan-tick-tock-kgtf/02pol-michigan-tick-tock-kgtf-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T06:31:55+00:00",
+  "headline": "Michigan Political Alliance Crumbles Over Israel Dispute",
+  "body": [
+   {
+    "type": "p",
+    "text": "The partnership between Michigan politicians Abdul El‑Sayed and Haley Stevens has disintegrated, according to sources familiar with the matter. The split, which had been developing for months, was fueled by disagreements tied to Israel as well as personal sensitivities and wounded egos."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the rift emerged gradually, with both leaders reportedly feeling slighted as tensions over policy positions on Israel intensified. The breakdown underscores how personal dynamics can intersect with foreign‑policy debates to destabilize political collaborations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dissolution may reshape Michigan's political landscape and affect upcoming legislative priorities, offering insight into how foreign‑policy issues influence U.S. state politics."
+   }
+  ],
+  "key_points": [
+   "Abdul El‑Sayed and Haley Stevens ended their political alliance after months of growing tension.",
+   "The split was driven by disagreements over Israel and personal ego clashes."
+  ],
+  "meta_description": "Michigan politicians Abdul El‑Sayed and Haley Stevens end alliance after months of tension over Israel and personal grievances.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Michigan",
+   "Abdul El‑Sayed",
+   "Haley Stevens",
+   "Israel",
+   "political split"
+  ],
+  "slug": "michigan-political-alliance-crumbles-over-israel-dispute-1a34c8",
+  "reading_minutes": 1,
+  "added": "2026-11-02T06:45:52Z"
+ },
+ {
+  "id": "8b5c937ea31d227f",
+  "source_url": "https://www.nytimes.com/2026/11/01/upshot/poll-times-siena-senate-midterms.html",
+  "source": "The New York Times",
+  "source_title": "The Final Polls Show a Blue Surge. Can We Trust Them?",
+  "source_summary": "Democrats lead in all the key states that will decide Senate control, according to new Times/Siena surveys.",
+  "source_tags": [
+   "New York Times/Siena College Poll",
+   "Midterm Elections (2026)",
+   "Polls and Public Opinion",
+   "United States Politics and Government",
+   "Elections, Senate",
+   "Voting and Voters",
+   "Trump, Donald J",
+   "internal-open-access-from-nl"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01up-talarico2-jbpq/01up-talarico2-jbpq-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T06:07:37+00:00",
+  "headline": "Final Polls Show Democrats Leading Key Senate States, Survey Finds",
+  "body": [
+   {
+    "type": "p",
+    "text": "New surveys conducted by The New York Times in partnership with Siena College indicate that Democratic candidates hold a lead in every pivotal state that will determine control of the U.S. Senate. The polling data, released ahead of the upcoming elections, cover the battleground states that analysts consider decisive for the chamber's balance of power."
+   },
+   {
+    "type": "p",
+    "text": "The Times/Siena surveys, which combine telephone and online interviewing methods, show consistent Democratic advantages across the sampled states. While the exact margins vary, the overall trend points to a potential shift toward a Democratic majority, a scenario that would influence legislative agendas and committee leadership."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that these findings arrive amid heightened scrutiny of poll reliability, prompting discussions about methodology and voter turnout assumptions. The results will be closely watched by campaign strategists and political commentators as the election draws near."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Control of the Senate shapes U.S. legislation and impacts transatlantic policy coordination, making the race relevant for American and European audiences."
+   }
+  ],
+  "key_points": [
+   "Democrats lead in all key Senate states according to the latest Times/Siena polls.",
+   "The surveys suggest a possible Democratic majority in the Senate.",
+   "Poll reliability is being debated as the election approaches."
+  ],
+  "meta_description": "Times/Siena polls show Democrats ahead in every pivotal Senate state, hinting at a possible majority shift.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "elections",
+   "Senate",
+   "Democrats",
+   "polls",
+   "United States"
+  ],
+  "slug": "final-polls-show-democrats-leading-key-senate-states-survey-8b5c93",
+  "reading_minutes": 1,
+  "added": "2026-11-02T06:46:13Z"
+ },
+ {
+  "id": "6fc4fa1bd0fe85e2",
+  "source_url": "https://www.theguardian.com/commentisfree/2026/nov/02/us-midterms-donald-trump-democrats-us-politics",
+  "source": "The Guardian",
+  "source_title": "These midterms could effectively end the Trump era – but neither side is yet ready for what comes next | Nesrine Malik",
+  "source_summary": "Despite the US president’s ratings being at rock bottom, undoing his legacy will be difficult, not least because the Democrats are in disarray The stats and polling all suggest one thing: the Republicans are set for a hammering in the midterms. Donald Trump has the lowest approval rating of any US president going into a midterm election since Harry Truman. And it’s still dropping. The Democrats are projected to win by a margin of 11 percentage points , the largest swing by any party in almost 20 years. It is possible that the Democrats flip the Senate and secure a large majority in Congress. Those majorities would make a material difference, perhaps finally establishing oversight of the policies Trump has brought in during his second term: immigration enforcement, trade disputes, gutting the federal workforce, the Iran war, to say nothing of his own family’s corruption. The tide seems to be turning, and one question is on everyone’s mind: is the Trump era really ending? “Nobody wants to jinx it,” wrote David Wallace-Wells of the New York Times, but: “All the signs we have suggest that, historic or not, these midterms are likely to mark the end of a political era.” What that gives way to is a much more complicated picture in which the US will be delivered from Trump himself, but remains a country riven and undermined by what he has unleashed. By the time he is gone, Trump will have been president for eight years, and a toxic force for more than 12. That is a long time even for",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Donald Trump",
+   "Democrats",
+   "Republicans",
+   "US politics",
+   "US news",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/4c947f37a37e529535e640a65f00e3e53ba71a76/5_0_4240_3392/master/4240.jpg?width=700&quality=85&auto=format&fit=max&s=38b04337d48667bafae2590189e11d5f",
+  "published": "2026-11-02T06:00:32+00:00",
+  "headline": "Midterms Poised to End Trump Era as Democrats Project Big Wins",
+  "body": [
+   {
+    "type": "p",
+    "text": "Polling ahead of the November midterm elections shows Republicans heading for a decisive defeat, with the Democratic Party projected to lead by about 11 percentage points – the largest swing in nearly two decades. President Donald Trump’s approval rating has fallen to the lowest level any incumbent president has held before a midterm, trailing only Harry Truman’s record low in 1946, and it continues to slide."
+   },
+   {
+    "type": "p",
+    "text": "Analysts say the expected Democratic gains could flip the Senate and secure a sizable majority in the House, giving Congress the leverage to scrutinise and potentially reverse policies enacted during Trump’s second term, including stricter immigration enforcement, trade disputes, cuts to the federal workforce and ongoing involvement in the Iran conflict. However, the article notes that the Democratic Party is also dealing with internal disarray, which could complicate any effort to dismantle the former president’s legacy."
+   },
+   {
+    "type": "p",
+    "text": "While the midterms may signal the end of the so‑called Trump era, the piece warns that the United States will remain grappling with the political and institutional fallout of twelve years of his influence, leaving a complex and uncertain path ahead for both parties."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A shift in U.S. congressional control could reshape trade, security and climate policies that affect Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Republicans are expected to suffer a major loss in the midterms, with Democrats leading by roughly 11 points.",
+   "A Democratic majority could enable congressional oversight of Trump-era policies, though internal party divisions pose challenges.",
+   "The election may mark the end of Trump’s political dominance, but his long‑term impact will persist."
+  ],
+  "meta_description": "Midterm polls show Democrats leading by 11 points, poised to end the Trump era and potentially flip Congress.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US midterms",
+   "Donald Trump",
+   "Democratic gains",
+   "Congressional control",
+   "political shift"
+  ],
+  "slug": "midterms-poised-end-trump-era-democrats-project-big-wins-6fc4fa",
+  "reading_minutes": 1,
+  "added": "2026-11-02T06:46:25Z"
+ },
+ {
+  "id": "f114a8aba2b35ffb",
+  "source_url": "https://www.nytimes.com/2026/11/02/business/fifa-infantino-taxes.html",
+  "source": "The New York Times",
+  "source_title": "FIFA Quietly Paid Millions in Gianni Infantino’s Taxes",
+  "source_summary": "FIFA promises to disclose its executives’ compensation. But its under-fire president received tax benefits that were never made public, according to documents and interviews.",
+  "source_tags": [
+   "Soccer",
+   "International Federation of Association Football (FIFA)",
+   "Infantino, Gianni"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Infantino-Tax-01-ctzl/02Biz-Infantino-Tax-01-ctzl-mediumSquareAt3X.jpg",
+  "published": "2026-11-02T05:01:08+00:00",
+  "headline": "FIFA Reveals President Infantino Received Undisclosed Tax Benefits",
+  "body": [
+   {
+    "type": "p",
+    "text": "FIFA announced it will make the compensation of its senior officials public, a move aimed at increasing transparency after years of scrutiny. The organization’s president, Gianni Infantino, however, was found to have received tax advantages that were never disclosed to the public, according to internal documents and interviews with sources familiar with the matter."
+   },
+   {
+    "type": "p",
+    "text": "The undisclosed tax benefits relate to payments made to Infantino that were structured in a way that reduced his personal tax liability. While FIFA has pledged to release full details of executive pay, the specific arrangements that granted Infantino these advantages remain absent from the forthcoming disclosures."
+   },
+   {
+    "type": "p",
+    "text": "The revelation adds to ongoing criticism of FIFA’s governance practices and raises questions about the consistency of its new transparency commitments with past financial handling."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Transparency in the world’s leading soccer body affects global fans and sponsors, and tax practices of high‑profile officials draw interest from regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "FIFA will publish executive compensation details but omitted tax benefits received by President Gianni Infantino.",
+   "Internal documents show Infantino’s payments were arranged to lower his tax burden, a fact not previously disclosed.",
+   "The disclosure intensifies scrutiny of FIFA’s governance and transparency efforts."
+  ],
+  "meta_description": "FIFA promises to reveal executive pay but omitted tax benefits received by President Gianni Infantino, sparking fresh calls for transparency.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FIFA",
+   "Gianni Infantino",
+   "tax benefits",
+   "governance",
+   "sports finance"
+  ],
+  "slug": "fifa-reveals-president-infantino-received-undisclosed-tax-benefits-f114a8",
+  "reading_minutes": 1,
+  "added": "2026-11-02T06:45:57Z"
+ },
+ {
+  "id": "d09cd0a6db448140",
+  "source_url": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "South Korea to pour billions into AI",
+  "source_summary": "President Lee Jae Myung has presented his record-breaking budget proposal for 2027, including major investments in AI and other tech.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79825218_6.jpg",
+  "published": "2026-11-02T05:01:00+00:00",
+  "headline": "South Korea Proposes Record‑Breaking 2027 Budget With Billions for AI",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Lee Jae Myung unveiled South Korea's 2027 budget proposal, marking a historic increase in public spending. The plan earmarks several billion dollars for artificial intelligence research, development and deployment across multiple sectors."
+   },
+   {
+    "type": "p",
+    "text": "The funding package also includes sizable allocations for other emerging technologies, aiming to boost the country's competitiveness in the global digital economy. Officials say the investment will support startups, expand AI education, and strengthen infrastructure needed for large‑scale data processing."
+   },
+   {
+    "type": "p",
+    "text": "Lawmakers are expected to debate the proposal in the National Assembly later this year. If approved, the budget would make South Korea one of the few nations committing such a large share of its fiscal plan to AI in a single year."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The sizable AI investment signals South Korea's intent to compete with the United States and Europe in next‑generation technology, potentially reshaping global tech supply chains."
+   }
+  ],
+  "key_points": [
+   "South Korea's 2027 budget proposes several billion dollars for AI initiatives.",
+   "The plan also funds broader tech projects to enhance the nation’s digital competitiveness.",
+   "Legislative approval is pending, with the proposal set for parliamentary debate."
+  ],
+  "meta_description": "South Korea's 2027 budget proposes billions for AI and other tech, aiming to boost its digital economy and global competitiveness.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "South Korea",
+   "AI",
+   "budget",
+   "technology investment",
+   "2027",
+   "government spending"
+  ],
+  "slug": "south-korea-proposes-recordbreaking-2027-budget-with-billions-ai-d09cd0",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T06:46:09Z"
+ },
+ {
+  "id": "f684a9de507974c5",
+  "source_url": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Kimi Antonelli makes history as youngest F1 champion",
+  "source_summary": "Kimi Antonelli became Formula One's youngest world champion and Italy's first since 1953 when he finished third in Sunday's thrilling and crash-hit Mexico City Grand Prix.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79825175_6.jpg",
+  "published": "2026-11-02T05:01:00+00:00",
+  "headline": "Kimi Antonelli Becomes Youngest F1 Champion, Italy’s First Since 1953",
+  "body": [
+   {
+    "type": "p",
+    "text": "Italian driver Kimi Antonelli secured his place in Formula One history by clinching the world championship title at the Mexico City Grand Prix. The 22-year-old finished third in a race described as thrilling and marked by multiple crashes, which sealed his overall points lead for the season."
+   },
+   {
+    "type": "p",
+    "text": "Antonelli’s triumph makes him the youngest driver ever to win the F1 championship and ends a 73‑year title drought for Italy, the last Italian champion having won in 1953. His performance in Mexico City was the decisive factor that lifted him above his rivals in the final standings."
+   },
+   {
+    "type": "p",
+    "text": "The achievement has been hailed as a milestone for both the driver and Italian motorsport, highlighting a new generation of talent emerging in the sport’s premier category."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The victory signals a shift in the competitive landscape of Formula One, offering fresh interest for fans in the US and Europe as a new, young champion emerges."
+   }
+  ],
+  "key_points": [
+   "Kimi Antonelli became the youngest Formula One world champion.",
+   "He is the first Italian driver to win the title since 1953.",
+   "Antonelli secured the championship with a third‑place finish in Mexico City."
+  ],
+  "meta_description": "Kimi Antonelli becomes the youngest F1 champion and Italy's first titleholder since 1953 after a third‑place finish in Mexico City.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula One",
+   "Kimi Antonelli",
+   "Italy",
+   "Mexico City Grand Prix",
+   "youngest champion"
+  ],
+  "slug": "kimi-antonelli-becomes-youngest-f1-champion-italys-first-since-f684a9",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T06:46:21Z"
+ },
+ {
+  "id": "c22e5e7d6e8110bc",
+  "source_url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+  "source": "The Verge",
+  "source_title": "Jackery made its portable power stations even smaller",
+  "source_summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 inches and weighing just 1.87 pounds. […]",
+  "source_tags": [
+   "Gadgets",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-02T05:00:00+00:00",
+  "headline": "Jackery Unveils Smallest Portable Power Station, Explorer 100D",
+  "body": [
+   {
+    "type": "p",
+    "text": "Jackery has introduced the Explorer 100D, its most compact portable power station to date. The unit measures 4.6 × 3.4 × 3.4 inches and weighs just 1.87 pounds, making it easier to carry than previous models."
+   },
+   {
+    "type": "p",
+    "text": "The new station uses lithium iron phosphate (LFP) batteries, the same safer and longer‑lasting chemistry Jackery first rolled out in 2023. LFP cells are known for improved thermal stability and a higher cycle life compared with traditional lithium‑ion packs."
+   },
+   {
+    "type": "p",
+    "text": "Despite its reduced size, the Explorer 100D retains the output capabilities expected of Jackery’s power stations, offering users a lightweight solution for charging devices on the go."
+   }
+  ],
+  "key_points": [
+   "Jackery’s Explorer 100D is the company’s smallest power station, at under 5 inches on each side and under 2 pounds.",
+   "It employs lithium iron phosphate batteries, a technology Jackery introduced in 2023 for better safety and longevity."
+  ],
+  "meta_description": "Jackery launches the Explorer 100D, its tiniest portable power station featuring LFP batteries for safer, longer‑lasting outdoor power.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jackery",
+   "portable power station",
+   "lithium iron phosphate",
+   "Explorer 100D",
+   "outdoor tech"
+  ],
+  "slug": "jackery-unveils-smallest-portable-power-station-explorer-100d-c22e5e",
+  "reading_minutes": 1,
+  "added": "2026-11-02T06:46:00Z"
+ },
+ {
+  "id": "f0029d766dd0209e",
+  "source_url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o",
+  "source": "BBC News",
+  "source_title": "How a Democrat in Michigan rocked the party days before the US midterms",
+  "source_summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8c3/live/4a47a4d0-d66b-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-02T04:40:00+00:00",
+  "headline": "Michigan Democrat Sparks Party Turmoil Ahead of Midterm Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "A Democratic lawmaker in Michigan caused a sudden rift within the state party just days before the United States midterm elections, according to BBC correspondent Nada Tawfik. The internal dispute unfolded in Detroit, where Tawfik observed party members confronting the unexpected development."
+   },
+   {
+    "type": "p",
+    "text": "The incident, described as a \"party spat,\" highlighted tensions among Michigan Democrats as they grappled with the timing of the controversy so close to the national voting deadline. Observers noted that the discord could influence campaign strategies and voter perceptions in a key swing state."
+   },
+   {
+    "type": "p",
+    "text": "While details of the disagreement remain limited, the episode underscores the challenges political parties face when internal conflicts arise during critical electoral periods."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute emerges just before a pivotal midterm election, potentially affecting party unity and voter sentiment in Michigan, a crucial battleground for both US and European observers of American politics."
+   }
+  ],
+  "key_points": [
+   "A Michigan Democrat triggered a party dispute days before the US midterms.",
+   "The conflict was observed in Detroit by BBC reporter Nada Tawfik.",
+   "The timing raises concerns about its impact on campaign dynamics in a swing state."
+  ],
+  "meta_description": "A Michigan Democrat sparked a party dispute in Detroit days before the US midterms, raising concerns about party unity ahead of the election.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Michigan",
+   "Democratic Party",
+   "midterms",
+   "party conflict",
+   "Detroit"
+  ],
+  "slug": "michigan-democrat-sparks-party-turmoil-ahead-midterm-elections-f0029d",
+  "reading_minutes": 1,
+  "added": "2026-11-02T06:46:33Z"
+ },
+ {
+  "id": "6ecb156b783c39ec",
+  "source_url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+  "source": "TechCrunch",
+  "source_title": "Borrowed reading: stories from our extended colleagues",
+  "source_summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+  "source_tags": [
+   "Media & Entertainment",
+   "TC"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2023/03/newspaper-stack_GettyImages648942926.jpeg?resize=1200,800",
+  "published": "2026-11-02T04:23:48+00:00",
+  "headline": "TechCrunch Curates Five Must‑Read Stories From CIO, Computerworld, Macworld and PCWorld",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch has compiled a short list of five stories that its editorial partners at CIO, Computerworld, Macworld and PCWorld consider worth readers' time. The collection brings together a variety of tech‑focused reporting from these established outlets."
+   },
+   {
+    "type": "p",
+    "text": "Each selected piece reflects the expertise of its originating publication, covering topics that range from enterprise IT trends to consumer gadget reviews. By aggregating these stories, TechCrunch offers a convenient snapshot of current discussions across the broader technology media landscape."
+   },
+   {
+    "type": "p",
+    "text": "The curated list is presented as a quick‑read guide for professionals and enthusiasts who want to stay informed about the latest developments without navigating multiple sites."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Aggregating top stories from leading tech publications helps US and European readers stay updated on industry trends efficiently."
+   }
+  ],
+  "key_points": [
+   "TechCrunch highlights five noteworthy stories from its partner publications.",
+   "The selection spans enterprise, consumer, and industry‑wide tech topics.",
+   "Readers receive a concise overview of current tech news across multiple outlets."
+  ],
+  "meta_description": "TechCrunch curates five essential stories from CIO, Computerworld, Macworld and PCWorld for quick tech news insight.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "TechNews",
+   "CIO",
+   "Computerworld",
+   "Macworld",
+   "PCWorld",
+   "Industry roundup"
+  ],
+  "slug": "techcrunch-curates-five-mustread-stories-from-cio-computerworld-macworld-6ecb15",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-02T06:46:16Z"
+ },
+ {
+  "id": "5b419886d786909d",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o",
+  "source": "BBC Sport",
+  "source_title": "How Antonelli 'blew everyone away' to make Formula 1 history",
+  "source_summary": "Kimi Antonelli seems destined for Formula 1 greatness after winning his first world title, writes Andrew Benson.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6698/live/f3d07d40-d654-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-02T01:47:30+00:00",
+  "headline": "Kimi Antonelli Wins First World Title, Heralded as Future F1 Star",
+  "body": [
+   {
+    "type": "p",
+    "text": "British journalist Andrew Benson reports that Italian driver Kimi Antonelli has secured his first Formula 1 world championship, a milestone that has prompted widespread acclaim within the sport. The victory marks Antonelli's rapid ascent and has been described as a performance that \"blew everyone away,\" underscoring his potential to become a leading figure in Formula 1."
+   },
+   {
+    "type": "p",
+    "text": "The win not only adds Antonelli's name to the list of world champions but also signals a new era for the sport, with many observers noting his youthful vigor and technical skill. While details of the race and his season statistics were not provided, the emphasis on his historic achievement reflects the high expectations placed on his future career."
+   },
+   {
+    "type": "p",
+    "text": "Fans and analysts across Europe and North America are watching Antonelli's progress closely, as his success could influence the next generation of drivers and attract broader audiences to Formula 1 events worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Antonelli's breakthrough could boost Formula 1's appeal in the US and Europe, drawing new fans and sponsors to the series."
+   }
+  ],
+  "key_points": [
+   "Kimi Antonelli has claimed his first Formula 1 world title.",
+   "His performance was praised as exceptionally dominant.",
+   "The victory positions him as a potential future star of the sport."
+  ],
+  "meta_description": "Kimi Antonelli wins his first F1 world title, hailed as a future star, sparking excitement for the sport's growth.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Kimi Antonelli",
+   "World Championship",
+   "Motorsport",
+   "Racing"
+  ],
+  "slug": "kimi-antonelli-wins-first-world-title-heralded-future-f1-5b4198",
+  "reading_minutes": 1,
+  "added": "2026-11-02T06:46:04Z"
+ },
+ {
+  "id": "5af1e9c5785ad181",
+  "source_url": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
+  "source": "The New York Times",
+  "source_title": "After Tech Sell-Off, Investors Brace for More Market Volatility",
+  "source_summary": "Futures on the S&P 500, which allow investors to bet on the market before the official start of trading, rose slightly on Sunday night.",
+  "source_tags": [
+   "Stocks and Bonds",
+   "Standard & Poor's 500-Stock Index",
+   "Midterm Elections (2026)",
+   "Artificial Intelligence",
+   "Government Bonds"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/01/multimedia/01biz-markets-bhqp/01biz-markets-bhqp-mediumSquareAt3X-v2.jpg",
+  "published": "2026-11-02T01:37:46+00:00",
+  "headline": "Tech Sell-Off Triggers Investor Caution as S&P Futures Edge Up",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent decline in technology stocks has left investors on alert for further market swings. The sell‑off in the tech sector has been the catalyst for heightened caution across equity markets."
+   },
+   {
+    "type": "p",
+    "text": "Futures tied to the S&P 500, which let traders position themselves before the official opening, posted a modest rise on Sunday night. This slight uptick suggests a tentative optimism despite the broader concerns."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the combination of a tech pullback and modestly higher futures points to a market that may experience continued volatility in the coming days."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European investors watch S&P futures as an early gauge of market sentiment, influencing trading decisions across both regions."
+   }
+  ],
+  "key_points": [
+   "Tech stocks have recently fallen, prompting investor wariness.",
+   "S&P 500 futures rose slightly on Sunday night, indicating cautious optimism.",
+   "Market volatility is expected to persist after the tech sell‑off."
+  ],
+  "meta_description": "Tech sell‑off fuels investor caution as S&P 500 futures edge higher, hinting at continued market volatility.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tech sell-off",
+   "S&P futures",
+   "market volatility",
+   "investors",
+   "trading"
+  ],
+  "slug": "tech-sell-off-triggers-investor-caution-s-p-futures-5af1e9",
+  "reading_minutes": 1,
+  "added": "2026-11-02T06:46:29Z"
+ },
+ {
   "id": "96d758e187bef221",
   "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cmwy7dl879gzo",
   "source": "BBC Sport",
