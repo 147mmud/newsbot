@@ -1,5 +1,693 @@
 [
  {
+  "id": "2e646e2e8cafd9c4",
+  "source_url": "https://www.bbc.co.uk/news/articles/c63elky79np7o",
+  "source": "BBC News",
+  "source_title": "Reform UK councillor charged with rape and sexual assault",
+  "source_summary": "The Crown Prosecution Service (CPS) said on Tuesday that it had charged George Madgwick with 35 offences.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7348/live/ba0862c0-ac57-11f1-be57-03729df1d736.jpg",
+  "published": "2026-11-03T14:35:04+00:00",
+  "headline": "Reform UK Councillor George Madgwick Charged with 35 Offences",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Crown Prosecution Service announced on Tuesday that George Madgwick, a councillor for the Reform UK party, has been charged with 35 criminal offences, including rape and sexual assault."
+   },
+   {
+    "type": "p",
+    "text": "The CPS statement detailed the breadth of the allegations but did not provide further specifics about the incidents or the timeline. Madgwick has not yet entered a plea, and the case is expected to proceed through the courts."
+   },
+   {
+    "type": "p",
+    "text": "The charges come as the Reform UK party faces scrutiny over the conduct of its elected officials, highlighting the legal processes that apply to public representatives in the United Kingdom."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The charges against a sitting councillor illustrate how criminal allegations can affect political parties and public trust in democratic institutions across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Councillor George Madgwick of Reform UK faces 35 charges, among them rape and sexual assault.",
+   "The Crown Prosecution Service disclosed the charges but gave no additional details.",
+   "The case underscores legal accountability for elected officials in the UK."
+  ],
+  "meta_description": "Reform UK councillor George Madgwick has been charged with 35 offences, including rape and sexual assault, according to the CPS.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Reform UK",
+   "George Madgwick",
+   "rape charge",
+   "sexual assault",
+   "CPS",
+   "UK politics"
+  ],
+  "slug": "reform-uk-councillor-george-madgwick-charged-with-35-offences-2e646e",
+  "reading_minutes": 1,
+  "added": "2026-11-03T14:37:28Z"
+ },
+ {
+  "id": "954137d8d070f957",
+  "source_url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+  "source": "TechCrunch",
+  "source_title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+  "source_summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+  "source_tags": [
+   "TC",
+   "Startups",
+   "Crypto",
+   "Climate",
+   "Fintech",
+   "Biotech & Health",
+   "Venture",
+   "AI",
+   "Fundraising",
+   "TechCrunch Founder Summit 2026"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking_2.jpg?resize=1200,800",
+  "published": "2026-11-03T14:30:00+00:00",
+  "headline": "TechCrunch Founder Summit Draws Startups and VCs to Boston Nov 4",
+  "body": [
+   {
+    "type": "p",
+    "text": "The TechCrunch Founder Summit 2026 will take place on November 4 at Boston's SoWa Power Station. The event is aimed at founders and venture‑capital investors seeking practical insights and networking opportunities."
+   },
+   {
+    "type": "p",
+    "text": "Attendees can expect a schedule focused on actionable advice and connections that help early‑stage companies grow. Organizers encourage participants to register early, noting that door‑price increases will apply after a certain deadline."
+   },
+   {
+    "type": "p",
+    "text": "The summit is part of TechCrunch's broader effort to bring together the startup community in a venue that supports both learning and deal‑making."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The gathering offers U.S. and European entrepreneurs a chance to connect with investors and peers, potentially accelerating cross‑border startup collaborations."
+   }
+  ],
+  "key_points": [
+   "TechCrunch Founder Summit 2026 convenes founders and VCs in Boston on Nov. 4.",
+   "The agenda emphasizes practical insights and networking for early‑stage companies.",
+   "Early registration is advised to avoid higher door‑ticket prices."
+  ],
+  "meta_description": "TechCrunch Founder Summit 2026 brings founders and VCs to Boston on Nov 4 for practical insights and networking; early registration recommended.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tech",
+   "startup",
+   "venture capital",
+   "conference",
+   "Boston",
+   "founder summit"
+  ],
+  "slug": "techcrunch-founder-summit-draws-startups-vcs-boston-nov-4-954137",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-03T14:37:32Z"
+ },
+ {
+  "id": "772b6b8019a21193",
+  "source_url": "https://www.dw.com/en/from-non-aligned-to-pro-western-how-cyprus-has-loosened-ties-with-moscow-built-partner-ship-with-the-us/a-79841251?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "From non-aligned to pro-Western: How Cyprus has loosened ties with Moscow, built partner-ship with the US",
+  "source_summary": "The Republic of Cyprus long balanced ties between Russia and the West. Now it is phasing out Russian weapons, expanding defense cooperation with Washington and redefining its place in the Eastern Mediterranean.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79839641_6.jpg",
+  "published": "2026-11-03T14:28:00+00:00",
+  "headline": "Cyprus Shifts From Russia to US, Phases Out Russian Arms",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Republic of Cyprus, which has historically balanced its foreign policy between Moscow and Western capitals, is now actively reducing its reliance on Russian military equipment. Recent steps include the gradual removal of Russian weapons from its armed forces."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, Cyprus is expanding defence cooperation with the United States, seeking new partnerships and joint initiatives. Officials describe the move as part of a broader effort to redefine the island nation's strategic role in the Eastern Mediterranean."
+   },
+   {
+    "type": "p",
+    "text": "The policy shift reflects a wider realignment in the region, as Cyprus seeks closer ties with NATO allies while distancing itself from Russia's influence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The pivot strengthens NATO cohesion in a volatile region and signals a broader Western alignment among Mediterranean states."
+   }
+  ],
+  "key_points": [
+   "Cyprus is phasing out Russian weapons from its military stockpiles.",
+   "The island is deepening defence cooperation with the United States.",
+   "The realignment aims to reshape Cyprus' strategic position in the Eastern Mediterranean."
+  ],
+  "meta_description": "Cyprus is ending its reliance on Russian arms and boosting defence ties with the US, reshaping its role in the Eastern Mediterranean.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Cyprus",
+   "Russia",
+   "United States",
+   "defence",
+   "Eastern Mediterranean",
+   "NATO"
+  ],
+  "slug": "cyprus-shifts-from-russia-us-phases-out-russian-arms-772b6b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-03T14:37:36Z"
+ },
+ {
+  "id": "2cddb55cf6229a90",
+  "source_url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+  "source_summary": "Donald Trump's Republicans control the US Congress, but that could change after the midterm elections. The outcome of the ballot will not only impact domestic policy but also conflicts in Europe and the Middle East.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79832271_6.jpg",
+  "published": "2026-11-03T14:26:00+00:00",
+  "headline": "US Midterms Could Shift Congressional Power, Affect Ukraine and Iran",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republicans led by former President Donald Trump currently hold a majority in both chambers of the United States Congress, according to DW. The upcoming midterm elections could alter that balance, potentially reshaping the legislative agenda in Washington."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that any change in congressional control would extend beyond domestic issues, influencing the United States' stance on ongoing conflicts in Europe and the Middle East. In particular, policy toward Ukraine and Iran could see adjustments depending on which party commands the House and Senate."
+   },
+   {
+    "type": "p",
+    "text": "The election outcome will therefore be watched closely by European allies and regional partners, as U.S. legislative direction plays a key role in diplomatic and security strategies affecting both continents."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. congressional composition influences foreign policy decisions that affect security and diplomatic relations in Europe and the Middle East."
+   }
+  ],
+  "key_points": [
+   "Republicans currently control Congress, but the midterms could shift that majority.",
+   "A change in congressional leadership may alter U.S. policy toward Ukraine and Iran.",
+   "European and Middle Eastern stakeholders are monitoring the elections for potential foreign‑policy impacts."
+  ],
+  "meta_description": "Midterm elections could change U.S. congressional control, impacting policy toward Ukraine and Iran, says DW.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US elections",
+   "Congress",
+   "Ukraine",
+   "Iran",
+   "foreign policy",
+   "midterms"
+  ],
+  "slug": "us-midterms-could-shift-congressional-power-affect-ukraine-iran-2cddb5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-03T14:37:56Z"
+ },
+ {
+  "id": "9f8e9ab53c9798a1",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+  "source": "The Guardian",
+  "source_title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
+  "source_summary": "Polls open across the US where key Senate and House races will decide which party controls Congress for remainder of Donald Trump’s second term Sign up for the Breaking News US email What are the races to watch and why do they matter? Midterm elections 2026: what time do the polls close today? It has just gone past 06:30 in North Carolina , Ohio and West Virginia where polls have now opened. Here are some of the key voter issues shaping the US midterm elections: The economy : Despite Trump’s 2024 campaign pledge to tackle affordability issues, the economy consistently ranks as voters’ top concern. Iran : Trump’s decision to go to war with the Tehran regime has exacerbated economic worries. Iran’s retaliatory decision to close the strait of Hormuz has driven up gasoline prices for US motorists. It also represents a breach of his pledge to end the US’s supposed addiction to “forever wars”. Immigration : Enforcement and closing the border remains a signature issue for Trump. He repeatedly boasts of the impact of his closure of the southern border as one of his biggest achievements, making comparisons with the performance of Joe Biden. AI and datacenters: AI has emerged as a key campaign issue, with surveys showing a majority of voters holding negative views on it, even as Trump champions its development and attempts to rename it “super intelligence”.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US Congress",
+   "Donald Trump",
+   "Trump administration",
+   "US Senate",
+   "House of Representatives",
+   "Republicans",
+   "Democrats",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/210edea69d6da127f4ca539fe823e9d3c0d5b1d9/98_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=a3ba604ddec4ee6caa44eb24b950a7a6",
+  "published": "2026-11-03T14:24:09+00:00",
+  "headline": "US Midterms 2026: Voters Decide Congress Amid Trump Agenda",
+  "body": [
+   {
+    "type": "p",
+    "text": "Polls opened early this morning in North Carolina, Ohio and West Virginia as Americans head to the ballot in the 2026 midterm elections. Key Senate and House contests will determine which party controls Congress for the remainder of Donald Trump’s second term."
+   },
+   {
+    "type": "p",
+    "text": "Voters are weighing several dominant issues. The economy remains the top concern despite Trump’s 2024 pledge to curb affordability problems. A war with Iran, sparked by Trump’s decision to confront Tehran, has raised gasoline prices after Iran closed the Strait of Hormuz, intensifying economic anxieties and contradicting his promise to end “forever wars.”"
+   },
+   {
+    "type": "p",
+    "text": "Immigration and border enforcement continue to be signature points of Trump’s campaign, with the president highlighting the southern border closure as a major achievement. Meanwhile, artificial intelligence has emerged as a contentious topic; surveys show most voters view AI negatively even as Trump promotes its development and seeks to rename it “super intelligence.”"
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The election outcome will influence US economic policy, foreign relations with Iran and technology regulation, areas that affect European markets and security."
+   }
+  ],
+  "key_points": [
+   "Midterm races will decide congressional control for the rest of Trump’s second term.",
+   "Economic worries, the Iran conflict, immigration and AI dominate voter concerns.",
+   "Trump’s foreign and tech policies are shaping the election narrative."
+  ],
+  "meta_description": "US midterms 2026 open with key Senate and House races; economy, Iran war, immigration and AI dominate voter concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US elections",
+   "midterms",
+   "Trump",
+   "economy",
+   "immigration",
+   "AI"
+  ],
+  "slug": "us-midterms-2026-voters-decide-congress-amid-trump-agenda-9f8e9a",
+  "reading_minutes": 1,
+  "added": "2026-11-03T14:37:48Z"
+ },
+ {
+  "id": "7cfed7d03ac06e97",
+  "source_url": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+  "source": "CNBC",
+  "source_title": "Pfizer hikes full-year outlook as newer products grow, taps company veteran as new CFO",
+  "source_summary": "Pfizer announced that Cecile Guegan, who has held various leadership roles at the company over the last 20 years, stepped in as CFO this month.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108218653-1761752333854-gettyimages-2243676983-299665final.jpeg?v=1770120637&w=1920&h=1080",
+  "published": "2026-11-03T14:18:27+00:00",
+  "headline": "Pfizer Raises Full-Year Outlook and Names Veteran Cecile Guegan CFO",
+  "body": [
+   {
+    "type": "p",
+    "text": "Pfizer announced an upward revision to its full-year financial outlook, citing growth from newer products in its portfolio. The company said the stronger performance reflects continued demand for its recent launches and a robust pipeline."
+   },
+   {
+    "type": "p",
+    "text": "In a leadership change, the drugmaker appointed Cecile Guegan as chief financial officer. Guegan, who has held multiple senior roles at Pfizer over the past two decades, takes over the finance helm this month."
+   },
+   {
+    "type": "p",
+    "text": "The outlook upgrade and CFO appointment come as Pfizer seeks to sustain momentum after a period of restructuring and investment in innovative therapies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The revised outlook signals stronger earnings potential for investors in the U.S. and Europe, while the CFO change underscores continuity in Pfizer's financial strategy."
+   }
+  ],
+  "key_points": [
+   "Pfizer lifted its full-year outlook, driven by sales of newer products.",
+   "Cecile Guegan, a 20-year Pfizer veteran, was named chief financial officer.",
+   "The moves aim to reinforce the company's growth trajectory and financial leadership."
+  ],
+  "meta_description": "Pfizer raises its full-year outlook on newer product growth and appoints long-time executive Cecile Guegan as CFO.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pfizer",
+   "financial outlook",
+   "Cecile Guegan",
+   "CFO appointment",
+   "pharmaceuticals"
+  ],
+  "slug": "pfizer-raises-full-year-outlook-names-veteran-cecile-guegan-7cfed7",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-03T14:37:40Z"
+ },
+ {
+  "id": "e207e0c8c62f9eb4",
+  "source_url": "https://www.theverge.com/science/1025227/nasa-swift-observatory-falling-to-earth",
+  "source": "The Verge",
+  "source_title": "A truck-sized NASA space telescope is about to crash to Earth",
+  "source_summary": "Almost 22 years after it was launched, NASA's Swift Observatory is now about to fall back to Earth on Wednesday after attempts to push it back into a higher orbit failed. NASA announced that the aging space telescope is anticipated to re-enter Earth's atmosphere at approximately 3:30AM ET (give or take 11 hours), and that […]",
+  "source_tags": [
+   "NASA",
+   "News",
+   "Science",
+   "Space"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/NASA-Swift-rescue-mission-failure.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-03T14:17:55+00:00",
+  "headline": "NASA's 22-Year-Old Swift Telescope Set to Re‑Enter Earth Atmosphere",
+  "body": [
+   {
+    "type": "p",
+    "text": "NASA's Swift Observatory, a space telescope launched nearly 22 years ago, is slated to fall back to Earth on Wednesday after multiple attempts to raise its orbit were unsuccessful."
+   },
+   {
+    "type": "p",
+    "text": "The agency said the uncontrolled re‑entry is expected around 3:30 a.m. Eastern Time, with a possible variance of up to 11 hours, meaning the exact time could range from early morning to late afternoon."
+   },
+   {
+    "type": "p",
+    "text": "Swift, which has been used for observing gamma‑ray bursts and other high‑energy phenomena, will burn up in the atmosphere, and NASA does not anticipate any hazardous debris reaching the ground."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The telescope's return marks the end of a long‑running mission that contributed to astrophysical research, highlighting challenges of managing aging space assets."
+   }
+  ],
+  "key_points": [
+   "NASA's Swift Observatory will re‑enter Earth's atmosphere on Wednesday.",
+   "Efforts to boost the aging telescope into a higher orbit failed.",
+   "Re‑entry is expected around 3:30 a.m. ET, with a possible 11‑hour window."
+  ],
+  "meta_description": "NASA's 22‑year‑old Swift space telescope will re‑enter Earth's atmosphere on Wednesday after failed orbit‑raising attempts.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "NASA",
+   "Swift Observatory",
+   "space telescope",
+   "re‑entry",
+   "orbital debris"
+  ],
+  "slug": "nasa-s-22-year-old-swift-telescope-set-reenter-e207e0",
+  "reading_minutes": 1,
+  "added": "2026-11-03T14:37:51Z"
+ },
+ {
+  "id": "a16710665a9ae25c",
+  "source_url": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+  "source": "CNBC",
+  "source_title": "Versant earnings beat expectations as digital platforms drive growth",
+  "source_summary": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108351052-1787071877038-NV1F62R.jpg?v=1793654489&w=1920&h=1080",
+  "published": "2026-11-03T14:17:42+00:00",
+  "headline": "Versant Beats Q3 Earnings Estimates, Cites Digital Platform Growth",
+  "body": [
+   {
+    "type": "p",
+    "text": "Versant reported third-quarter earnings that surpassed Wall Street forecasts, according to the company's latest financial release. The results highlighted stronger-than-expected performance across its digital platform services."
+   },
+   {
+    "type": "p",
+    "text": "The firm also reaffirmed its full-year guidance, indicating confidence that the momentum from its digital offerings will continue to support revenue and profit targets for the remainder of the fiscal year."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the earnings beat underscores the growing importance of Versant's technology-driven solutions in a competitive market, though the company did not disclose specific figures in the announcement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Strong earnings from a tech-focused firm signal robust demand for digital services, a trend relevant to investors and businesses in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Versant's Q3 earnings exceeded analyst expectations.",
+   "Digital platforms were identified as the primary growth driver.",
+   "The company maintained its full-year financial outlook."
+  ],
+  "meta_description": "Versant beats Q3 earnings expectations, driven by digital platform growth, and reaffirms full-year guidance.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Versant",
+   "earnings",
+   "digital platforms",
+   "Q3 results",
+   "financial guidance"
+  ],
+  "slug": "versant-beats-q3-earnings-estimates-cites-digital-platform-growth-a16710",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-03T14:38:00Z"
+ },
+ {
+  "id": "eb5324f953b38773",
+  "source_url": "https://www.nytimes.com/2026/11/03/us/politics/election-day-weather-storms.html",
+  "source": "The New York Times",
+  "source_title": "Election Day Could Be a Rainy One in Some Areas",
+  "source_summary": "Researchers have found that bad weather can deter certain voters.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Weather",
+   "United States"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03midterms-weather-forecast-1-zhvk/03midterms-weather-forecast-1-zhvk-mediumSquareAt3X.jpg",
+  "published": "2026-11-03T14:11:06+00:00",
+  "headline": "Rain Could Suppress Voter Turnout in Parts of Election Day",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent study highlighted that inclement weather on Election Day may discourage some voters from casting ballots. Researchers examined historical voting patterns and weather data, finding a correlation between rain and lower participation in certain precincts."
+   },
+   {
+    "type": "p",
+    "text": "The analysis indicated that the impact is not uniform; urban areas with extensive public transit showed less of a decline, while suburban and rural locales with limited transportation options experienced more pronounced drops in turnout. The study did not specify exact numbers, but emphasized the trend across multiple election cycles."
+   },
+   {
+    "type": "p",
+    "text": "Experts suggest that weather‑related barriers could affect the outcome in tightly contested races, prompting officials to consider additional voting options such as expanded early voting or mobile polling stations to mitigate the effect of bad weather."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Lower turnout in rainy conditions can influence close elections in the United States and Europe, highlighting the need for resilient voting infrastructure."
+   }
+  ],
+  "key_points": [
+   "Researchers found a link between rainy weather and reduced voter turnout.",
+   "The turnout dip is stronger in areas with limited transportation options.",
+   "Officials may need to expand alternative voting methods to offset weather impacts."
+  ],
+  "meta_description": "Study shows rain may lower voter turnout, especially where transport is limited, prompting calls for more flexible voting options.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "election",
+   "weather",
+   "voter turnout",
+   "research",
+   "democracy"
+  ],
+  "slug": "rain-could-suppress-voter-turnout-parts-election-day-eb5324",
+  "reading_minutes": 1,
+  "added": "2026-11-03T14:38:08Z"
+ },
+ {
+  "id": "38794739d94a51e8",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/cqn06nk1rx4xo",
+  "source": "BBC Sport",
+  "source_title": "RFL backs Wilkin's £30m funding plea to Burnham",
+  "source_summary": "The new head of English rugby league backs a call for Prime Minister Andy Burnham to approve a £30m community funding plan for the sport.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47c6/live/c711ea50-d758-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-03T14:02:47+00:00",
+  "headline": "RFL Supports New Leader’s £30 Million Funding Request to PM Burnham",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Rugby Football League (RFL) has publicly endorsed the appeal made by its new chief executive, Wilkin, for Prime Minister Andy Burnham to sign off on a £30 million community funding package for English rugby league. The proposal is aimed at bolstering grassroots programmes, facility upgrades and youth participation across the sport."
+   },
+   {
+    "type": "p",
+    "text": "Wilkin’s plea highlights the need for sustained investment to maintain the sport’s growth trajectory and to ensure that local clubs can continue to provide opportunities for players of all ages. The RFL argues that the funding would deliver social and health benefits while preserving rugby league’s cultural heritage in northern England."
+   },
+   {
+    "type": "p",
+    "text": "The call comes as the government reviews its sport‑related spending, and the RFL hopes the funding will be approved before the next fiscal planning cycle."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Investing in rugby league could boost community health and cohesion in the UK, offering a model for how sport funding can support local economies and youth development."
+   }
+  ],
+  "key_points": [
+   "The RFL backs its new head’s request for a £30 million community funding plan for rugby league.",
+   "The funding is intended to support grassroots development, facilities and youth engagement.",
+   "Approval is sought from Prime Minister Andy Burnham as part of broader sport‑spending reviews."
+  ],
+  "meta_description": "The Rugby Football League backs its new chief's £30 million funding request to PM Andy Burnham for community rugby league projects.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby league",
+   "funding",
+   "UK sport",
+   "government",
+   "community",
+   "Andy Burnham"
+  ],
+  "slug": "rfl-supports-new-leaders-30-million-funding-request-pm-387947",
+  "reading_minutes": 1,
+  "added": "2026-11-03T14:37:44Z"
+ },
+ {
+  "id": "2b376a551173279b",
+  "source_url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+  "source": "TechCrunch",
+  "source_title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+  "source_summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+  "source_tags": [
+   "TC",
+   "Startups",
+   "Climate",
+   "Fintech",
+   "Biotech & Health",
+   "Venture",
+   "AI",
+   "Fundraising"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+  "published": "2026-11-03T14:00:00+00:00",
+  "headline": "TechCrunch Founder Summit Passes Discount Until Tomorrow 9 a.m. ET",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch announced that discounts on Founder Summit passes will end tomorrow at 9 a.m. Eastern Time. Attendees can save up to $100 on a pass and receive a second pass at no additional cost if they purchase before the deadline."
+   },
+   {
+    "type": "p",
+    "text": "The promotion is aimed at encouraging early registration for the event, which will take place in Boston. After the price increase takes effect, the savings and free second pass offer will no longer be available."
+   },
+   {
+    "type": "p",
+    "text": "Interested founders and startup leaders are advised to act quickly to secure the reduced rates before the price change occurs."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Early‑bird discounts can lower attendance costs for U.S. and European startup founders planning to network at the Boston summit."
+   }
+  ],
+  "key_points": [
+   "Pass discounts end tomorrow at 9 a.m. ET, with savings up to $100.",
+   "A free second pass is included for early buyers.",
+   "Prices will rise after the deadline, ending the promotion."
+  ],
+  "meta_description": "TechCrunch Founder Summit offers up to $100 off passes and a free second ticket until tomorrow 9 a.m. ET; prices rise after that.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "TechCrunch",
+   "Founder Summit",
+   "Boston event",
+   "early bird discount",
+   "startup conference"
+  ],
+  "slug": "techcrunch-founder-summit-passes-discount-until-tomorrow-9-m-2b376a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-03T14:38:11Z"
+ },
+ {
+  "id": "0bfea6edf3f958b0",
+  "source_url": "https://www.bbc.co.uk/sport/golf/articles/cmqlnxp5e9lqo",
+  "source": "BBC Sport",
+  "source_title": "Rahm was not 'willing to follow' LIV 2.0 path",
+  "source_summary": "Jon Rahm says he left LIV Golf because there were \"too many unknowns\", it was \"going away from team golf\" and becoming \"more of a regular tournament\".",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/224f/live/bbf9b2e0-d782-11f1-a391-ad4d37bef273.jpg",
+  "published": "2026-11-03T13:04:31+00:00",
+  "headline": "Jon Rahm Exits LIV Golf Over Uncertainties and Move Toward Individual Tournaments",
+  "body": [
+   {
+    "type": "p",
+    "text": "World number one Jon Rahm announced his departure from LIV Golf, explaining that the league presented \"too many unknowns\" for him to continue. He said the organization was shifting away from its original team‑based format and evolving into a more conventional, individual‑focused tournament structure, which did not align with his preferences."
+   },
+   {
+    "type": "p",
+    "text": "Rahm emphasized that the change in LIV Golf's direction made it less appealing, noting that the emphasis on team competition had been a key attraction for many players. With the league moving toward a standard tournament model, he chose to return to the traditional PGA Tour environment where he feels the competitive format better suits his game."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Rahm's exit highlights ongoing tensions in professional golf as players weigh the stability of established tours against the emerging LIV Golf circuit."
+   }
+  ],
+  "key_points": [
+   "Jon Rahm left LIV Golf because of uncertainty about the league's future.",
+   "He cited the shift from team golf to a regular tournament format as a primary factor.",
+   "Rahm prefers the traditional PGA Tour structure over LIV's evolving model."
+  ],
+  "meta_description": "Jon Rahm quits LIV Golf, citing too many unknowns and a shift toward solo tournaments.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jon Rahm",
+   "LIV Golf",
+   "professional golf",
+   "PGA Tour",
+   "sports business"
+  ],
+  "slug": "jon-rahm-exits-liv-golf-over-uncertainties-move-toward-0bfea6",
+  "reading_minutes": 1,
+  "added": "2026-11-03T14:38:04Z"
+ },
+ {
   "id": "bd00c40b174e0d2e",
   "source_url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
   "source": "BBC News",
