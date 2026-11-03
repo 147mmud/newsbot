@@ -1,5 +1,668 @@
 [
  {
+  "id": "bd00c40b174e0d2e",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
+  "source": "BBC News",
+  "source_title": "North Korea denies being behind record $6.3bn Binance hack",
+  "source_summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+  "published": "2026-11-03T06:22:29+00:00",
+  "headline": "North Korea Denies Role in Record $6.3 Billion Binance Hack",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. government agencies and independent cyber analysts have attributed the massive theft of $6.3 billion from the cryptocurrency exchange Binance to actors linked to North Korea. The allegations point to a coordinated cyber operation that targeted the platform's hot wallets."
+   },
+   {
+    "type": "p",
+    "text": "North Korean officials have publicly rejected the accusations, stating that the country had no involvement in the hack. They called the claims unfounded and urged the international community to refrain from baseless speculation."
+   },
+   {
+    "type": "p",
+    "text": "The dispute comes as Binance works to recover the stolen assets and reassure users, while regulators in several jurisdictions intensify scrutiny of cryptocurrency exchanges and their security practices."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The hack highlights vulnerabilities in digital asset platforms and may influence regulatory approaches to cryptocurrency in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "U.S. agencies and cyber analysts blame North Korea for the $6.3 bn Binance hack.",
+   "Pyongyang denies any involvement in the cryptocurrency theft.",
+   "The incident raises renewed concerns about security in the crypto sector."
+  ],
+  "meta_description": "U.S. agencies and analysts accuse North Korea of a $6.3 bn Binance hack, which Pyongyang denies, sparking security concerns for crypto markets.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "North Korea",
+   "Binance",
+   "cryptocurrency",
+   "cyberattack",
+   "hack",
+   "security"
+  ],
+  "slug": "north-korea-denies-role-record-6-3-billion-binance-bd00c4",
+  "reading_minutes": 1,
+  "added": "2026-11-03T06:33:22Z"
+ },
+ {
+  "id": "5b89bdd5c21e0f1c",
+  "source_url": "https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "India news: Cyclone Murasu wreaks havoc after landfall",
+  "source_summary": "Cyclone Murasu made landfall in Andhra Pradesh, leaving a trail of destruction. Weather agencies have warned of heavy rainfall in the next 12 hours. Follow DW for more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79835382_6.jpg",
+  "published": "2026-11-03T06:12:00+00:00",
+  "headline": "Cyclone Murasu Hits Andhra Pradesh, Forecasts Heavy Rain Within 12 Hours",
+  "body": [
+   {
+    "type": "p",
+    "text": "Cyclone Murasu made landfall in the Indian state of Andhra Pradesh, causing widespread damage across the coastal region. Local authorities reported destruction of homes, infrastructure and agricultural fields as the storm surged inland."
+   },
+   {
+    "type": "p",
+    "text": "Meteorological agencies have issued warnings that the system will continue to bring heavy rainfall over the next twelve hours, raising the risk of flooding and landslides in affected districts. Emergency services are on standby to respond to rescue and relief needs."
+   },
+   {
+    "type": "p",
+    "text": "The impact of the cyclone is expected to strain regional resources and may affect transportation routes that connect the area to broader national and international supply chains."
+   }
+  ],
+  "key_points": [
+   "Cyclone Murasu struck Andhra Pradesh, leaving extensive damage.",
+   "Weather agencies warn of heavy rain for the next 12 hours, increasing flood risk."
+  ],
+  "meta_description": "Cyclone Murasu hits Andhra Pradesh, causing damage and prompting forecasts of heavy rain for the next 12 hours.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cyclone",
+   "India",
+   "Andhra Pradesh",
+   "weather",
+   "disaster"
+  ],
+  "slug": "cyclone-murasu-hits-andhra-pradesh-forecasts-heavy-rain-within-5b89bd",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-03T06:33:27Z"
+ },
+ {
+  "id": "2b4b92e06fa0db1e",
+  "source_url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+  "source": "The New York Times",
+  "source_title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
+  "source_summary": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+  "source_tags": [
+   "Refrigerators",
+   "United States Defense and Military Forces",
+   "Shopping and Retail",
+   "Computer Security",
+   "Supermarkets and Grocery Stores",
+   "Cyberattacks and Hackers",
+   "Supply Chain",
+   "United States Army",
+   "SUPERVALU INC",
+   "Europe"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg",
+  "published": "2026-11-03T06:06:32+00:00",
+  "headline": "Europe and U.S. Military Probe Grocery Store Disruptions Over Possible Hacks",
+  "body": [
+   {
+    "type": "p",
+    "text": "A series of interruptions at grocery stores across Europe has prompted officials to consider cyberattacks as a possible cause, underscoring the fragility of modern supply chains."
+   },
+   {
+    "type": "p",
+    "text": "The incidents, which resurfaced on Monday, have drawn the attention of both European authorities and the U.S. military, who are now investigating the extent and source of the disruptions."
+   },
+   {
+    "type": "p",
+    "text": "While no definitive evidence has been released, the situation highlights growing concerns about the security of critical food distribution networks amid rising digital threats."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The investigations signal that cyber threats to essential food supplies could affect consumers in the U.S. and Europe, prompting heightened security measures."
+   }
+  ],
+  "key_points": [
+   "Grocery store disruptions in Europe are being examined for potential cyberattack links.",
+   "Both European officials and the U.S. military have launched investigations into the incidents.",
+   "The events illustrate the vulnerability of supply chains to digital threats."
+  ],
+  "meta_description": "Europe and the U.S. military investigate grocery store disruptions that may be linked to cyberattacks, highlighting supply chain vulnerabilities.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cybersecurity",
+   "supply chain",
+   "grocery stores",
+   "Europe",
+   "U.S. military",
+   "investigation"
+  ],
+  "slug": "europe-u-s-military-probe-grocery-store-disruptions-over-2b4b92",
+  "reading_minutes": 1,
+  "added": "2026-11-03T06:33:37Z"
+ },
+ {
+  "id": "99e1db94f739cd3d",
+  "source_url": "https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "North Korea denies role in record Binance hack, calls US charge 'provocation'",
+  "source_summary": "Kim Yo Jong dismissed FBI claims that North Korean hackers stole more than $6 billion from Binance, as the exchange began reopening withdrawals on more networks.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79824743_6.jpg",
+  "published": "2026-11-03T05:34:00+00:00",
+  "headline": "North Korea Rejects FBI Claim It Hacked Binance for $6 Billion",
+  "body": [
+   {
+    "type": "p",
+    "text": "North Korean official Kim Yo Jong dismissed the FBI's allegation that state‑linked hackers stole over $6 billion from cryptocurrency exchange Binance. She called the U.S. charge a \"provocation\" and denied any involvement in the cyber‑theft."
+   },
+   {
+    "type": "p",
+    "text": "The accusation follows a record‑breaking hack on Binance that forced the platform to suspend withdrawals on several blockchain networks. The exchange has now begun restoring withdrawal services across those networks as it works to recover from the breach."
+   },
+   {
+    "type": "p",
+    "text": "U.S. authorities have linked the attack to a North Korean hacking unit, but Pyongyang has repeatedly rejected claims of illicit cyber activity targeting foreign firms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights growing concerns over state‑sponsored cybercrime affecting global financial platforms and the diplomatic tension between the U.S. and North Korea."
+   }
+  ],
+  "key_points": [
+   "Kim Yo Jong labeled the FBI's $6 billion Binance hack accusation as a provocation.",
+   "Binance is gradually reopening withdrawals on multiple blockchain networks after the breach.",
+   "North Korea continues to deny any involvement in the cyber‑theft."
+  ],
+  "meta_description": "North Korea denies FBI's claim it stole $6 billion in a Binance hack, calling the charge a provocation as the exchange restores withdrawals.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "North Korea",
+   "Binance",
+   "cybercrime",
+   "FBI",
+   "cryptocurrency"
+  ],
+  "slug": "north-korea-rejects-fbi-claim-it-hacked-binance-6-99e1db",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-03T06:33:42Z"
+ },
+ {
+  "id": "13d596e78196a644",
+  "source_url": "https://www.bbc.co.uk/sport/horse-racing/articles/cr3wv0476z5do",
+  "source": "BBC Sport",
+  "source_title": "King's former horse wins prestigious Melbourne Cup",
+  "source_summary": "Point of Law ridden by Ethan Brown has won Australia's \"race that stops a nation\".",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6718/live/8b889960-d740-11f1-9ecd-137d429a1395.jpg",
+  "published": "2026-11-03T05:15:11+00:00",
+  "headline": "Point of Law Wins Melbourne Cup, King’s Former Racehorse Triumphs",
+  "body": [
+   {
+    "type": "p",
+    "text": "Point of Law, the former mount of King Charles III, secured victory in Australia’s premier thoroughbred event, the Melbourne Cup. The horse was piloted to the finish line by jockey Ethan Brown, delivering a decisive win in what is often described as the nation‑stopping race."
+   },
+   {
+    "type": "p",
+    "text": "The Melbourne Cup, held annually at Flemington Racecourse, draws a massive crowd and extensive television viewership across Australia. Point of Law’s success adds a royal connection to the race’s storied history, highlighting the international appeal of the event."
+   },
+   {
+    "type": "p",
+    "text": "Ethan Brown’s skillful ride and the horse’s strong performance were praised by race officials, underscoring the high level of competition that defines the Melbourne Cup each year."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Melbourne Cup is a cultural highlight in Australia, attracting nationwide attention and showcasing elite horse racing, which may interest readers who follow global sports events."
+   }
+  ],
+  "key_points": [
+   "Point of Law, once ridden by King Charles III, won the 2026 Melbourne Cup.",
+   "Jockey Ethan Brown guided the horse to victory in Australia’s most watched race.",
+   "The win links the royal family to a major Australian sporting tradition."
+  ],
+  "meta_description": "Point of Law, King Charles III's former horse, wins the Melbourne Cup with jockey Ethan Brown, highlighting the race's national significance.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Melbourne Cup",
+   "Point of Law",
+   "Ethan Brown",
+   "horse racing",
+   "Australia",
+   "royal connection"
+  ],
+  "slug": "point-law-wins-melbourne-cup-kings-former-racehorse-triumphs-13d596",
+  "reading_minutes": 1,
+  "added": "2026-11-03T06:33:30Z"
+ },
+ {
+  "id": "f84b5cd217987d6d",
+  "source_url": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
+  "source": "CNBC",
+  "source_title": "Baked by Melissa enters Target with first at-home cupcake mix",
+  "source_summary": "Baked by Melissa is launching bite-size cupcake kits at Target as the retailer heads into the critical holiday shopping season.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108505688-1793648900669-Product_white_SV_0863.jpg?v=1793649030&w=1920&h=1080",
+  "published": "2026-11-03T05:01:01+00:00",
+  "headline": "Baked by Melissa Debuts Bite‑Size Cupcake Kits at Target for Holiday Season",
+  "body": [
+   {
+    "type": "p",
+    "text": "Baked by Melissa, known for its miniature cupcakes, is expanding its retail footprint by offering new at‑home cupcake kits in Target stores across the United States. The bite‑size kits let shoppers bake the brand’s signature cupcakes at home, providing a convenient treat for the upcoming holiday shopping rush."
+   },
+   {
+    "type": "p",
+    "text": "The launch coincides with Target’s critical holiday season, a period when the retailer typically sees a surge in consumer spending on food and gift items. By adding Baked by Melissa’s kits to its shelves, Target aims to attract customers looking for quick, festive desserts that can be prepared with minimal effort."
+   },
+   {
+    "type": "p",
+    "text": "The partnership marks the first time the bakery brand’s products will be sold in a mass‑market chain, expanding its reach beyond specialty stores and online channels. Industry observers note that such collaborations reflect a broader trend of niche food brands seeking wider distribution through large retailers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move highlights how specialty food brands are leveraging big‑box retailers to capture holiday shoppers in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "Baked by Melissa introduces bite‑size cupcake kits in Target stores nationwide.",
+   "The product launch aligns with Target’s holiday shopping season to boost sales.",
+   "This is the bakery’s first entry into a major mass‑market retailer."
+  ],
+  "meta_description": "Baked by Melissa launches bite‑size cupcake kits at Target, targeting holiday shoppers with a new at‑home dessert option.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Baked by Melissa",
+   "Target",
+   "cupcake kits",
+   "holiday shopping",
+   "food retail"
+  ],
+  "slug": "baked-melissa-debuts-bitesize-cupcake-kits-target-holiday-season-f84b5c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-03T06:33:54Z"
+ },
+ {
+  "id": "0a7e018d6792c5d0",
+  "source_url": "https://www.theguardian.com/politics/audio/2026/nov/03/backstabbing-endorsements-dodgy-ads-nicki-minaj-midterm-awards-podcast",
+  "source": "The Guardian",
+  "source_title": "Backstabbing endorsements, dodgy ads and Nicki Minaj: our midterm awards – podcast",
+  "source_summary": "It’s election day in the US, so Jonathan Freedland is chatting to humour writer Alexandra Petri of the Atlantic to run through this campaign cycle’s most effective ad campaigns, surprising allies and embarrassing gaffes before the polls close later, and we start learning who the big winners and losers are Buy your tickets to the Guardian’s post-midterms live event , hosted by Jonathan Freedland. Watch Jonathan Freedland on our new Politics Weekly YouTube channel . Send your questions and feedback to politicsweeklyamerica@theguardian.com",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/2037e9ed9c862e4d7cb11e33c19fd037ae1535c9/544_0_5466_4373/master/5466.jpg?width=700&quality=85&auto=format&fit=max&s=ff3c20824c45d1ffb0e390c1613f1d8e",
+  "published": "2026-11-03T05:00:39+00:00",
+  "headline": "Guardian Podcast Reviews Midterm Ads, Alliances and Gaffes",
+  "body": [
+   {
+    "type": "p",
+    "text": "On US election day, Guardian columnist Jonathan Freedland sits down with Atlantic humour writer Alexandra Petri for a podcast that dissects the 2026 midterm campaign. The conversation spotlights the most effective political advertisements, unexpected endorsements and the most embarrassing missteps that have defined the race so far."
+   },
+   {
+    "type": "p",
+    "text": "Freedland and Petri also preview the Guardian’s post‑midterms live event, which Freedland will host, and point listeners to the new Politics Weekly YouTube channel for further analysis. They invite audience questions via politicsweeklyamerica@theguardian.com."
+   },
+   {
+    "type": "p",
+    "text": "The episode serves as a quick recap of the campaign’s key moments before the polls close, offering listeners a concise overview of who appears to be winning and losing in this tightly contested election."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the tactics and missteps of the US midterm race helps voters and observers gauge the political climate that will influence both American and European policy discussions."
+   }
+  ],
+  "key_points": [
+   "The podcast breaks down the most successful ad strategies of the 2026 US midterms.",
+   "It highlights surprising cross‑party endorsements and notable campaign gaffes.",
+   "Listeners are directed to a live post‑midterms event and a new YouTube channel for deeper coverage."
+  ],
+  "meta_description": "Guardian podcast examines 2026 US midterm ads, surprise endorsements and campaign gaffes ahead of election day.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterms",
+   "political advertising",
+   "podcast",
+   "US election",
+   "Guardian",
+   "Jonathan Freedland"
+  ],
+  "slug": "guardian-podcast-reviews-midterm-ads-alliances-gaffes-0a7e01",
+  "reading_minutes": 1,
+  "added": "2026-11-03T06:33:34Z"
+ },
+ {
+  "id": "fa7f4557e6a86c92",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o",
+  "source": "BBC News",
+  "source_title": "Mahmood scraps settlement plans for migrant care workers",
+  "source_summary": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f63e/live/cc23f870-d6ff-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-03T04:28:37+00:00",
+  "headline": "UK Home Secretary Mahmood Abandons Settlement Plans for Migrant Care Workers",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Home Secretary Suella Mahmood announced the cancellation of a previously proposed settlement scheme aimed at migrant care workers. The decision marks a shift in the government's approach to the immigration route for those employed in the health and social care sector."
+   },
+   {
+    "type": "p",
+    "text": "Mahmood presented a revised proposal that alters the timeline for when migrants can apply for permanent residency in the United Kingdom. The new framework adjusts the qualifying period, though specific details of the changes were not disclosed in the announcement."
+   },
+   {
+    "type": "p",
+    "text": "The policy reversal follows internal reviews of the settlement plan and reflects the Home Office's ongoing efforts to balance workforce needs with immigration controls. Officials indicated that the revised rules will be outlined in forthcoming guidance to affected workers and employers."
+   }
+  ],
+  "key_points": [
+   "The UK government has scrapped its earlier settlement scheme for migrant care workers.",
+   "A new proposal changes the eligibility period for permanent residency, but details remain pending."
+  ],
+  "meta_description": "UK Home Secretary Suella Mahmood cancels settlement plans for migrant care workers and proposes new residency timing.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "migration",
+   "settlement",
+   "permanent residency",
+   "UK",
+   "home secretary"
+  ],
+  "slug": "uk-home-secretary-mahmood-abandons-settlement-plans-migrant-care-fa7f45",
+  "reading_minutes": 1,
+  "added": "2026-11-03T06:33:50Z"
+ },
+ {
+  "id": "0ac62967d11c4c2d",
+  "source_url": "https://www.nytimes.com/2026/11/02/us/politics/us-military-strike-defensive-iran.html",
+  "source": "The New York Times",
+  "source_title": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+  "source_summary": "The action was limited, the officials said, with no immediate plans to escalate. The strikes come on the eve of the midterm elections.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "United States Politics and Government",
+   "Politics and Government",
+   "United States Defense and Military Forces",
+   "Missiles and Missile Defense Systems",
+   "United States International Relations",
+   "Oil (Petroleum) and Gasoline",
+   "Defense and Military Forces",
+   "Islamic Revolutionary Guards Corps",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/06/01/multimedia/02DC-military/01xp-iran-01-mcgh-mediumSquareAt3X.jpg",
+  "published": "2026-11-03T04:10:38+00:00",
+  "headline": "U.S. Military Hits Iran’s Qeshm Island in Limited Defensive Strike",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. forces carried out air strikes on Iran’s Qeshm Island, a move officials described as a defensive measure. The operation was confined to a specific target area and did not involve a broader campaign against Iranian facilities."
+   },
+   {
+    "type": "p",
+    "text": "American officials emphasized that the action was limited in scope and that there are no immediate plans to expand the conflict. They stressed the strikes were intended to neutralize a perceived threat rather than to provoke further hostilities."
+   },
+   {
+    "type": "p",
+    "text": "The timing of the strikes coincides with the approach of the U.S. midterm elections, adding a political dimension to the military response. Authorities indicated the decision was driven by security considerations, not electoral calculations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The strike could influence U.S. domestic politics ahead of the midterm elections and affect broader U.S.-Iran relations."
+   }
+  ],
+  "key_points": [
+   "U.S. military conducted a limited strike on Iran’s Qeshm Island, labeling it defensive.",
+   "Officials say the operation is confined and there are no plans to escalate.",
+   "The action occurs just before the U.S. midterm elections, raising political interest."
+  ],
+  "meta_description": "U.S. forces launch a limited defensive strike on Iran's Qeshm Island, with officials saying no escalation is planned as midterm elections near.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US military",
+   "Iran",
+   "Qeshm Island",
+   "defensive strike",
+   "midterm elections"
+  ],
+  "slug": "u-s-military-hits-irans-qeshm-island-limited-defensive-0ac629",
+  "reading_minutes": 1,
+  "added": "2026-11-03T06:34:06Z"
+ },
+ {
+  "id": "27a620f67ac8e6f3",
+  "source_url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+  "source": "BBC News",
+  "source_title": "US strikes Iran ahead of midterm elections",
+  "source_summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-03T03:39:08+00:00",
+  "headline": "US Launches Limited Strikes on Iran Ahead of Midterm Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United States carried out air strikes against targets on Iran's Qeshm Island, describing the operation as limited and defensive. The attacks were reported by CBS, a partner of the BBC, and were said to be a response to undisclosed provocations."
+   },
+   {
+    "type": "p",
+    "text": "The timing of the strikes coincides with the approaching US midterm elections, prompting analysts to consider the potential impact on domestic political narratives. Officials emphasized that the action was measured and intended to deter further escalation."
+   },
+   {
+    "type": "p",
+    "text": "No casualties or extensive damage were reported in the initial statements, and the US has not provided further details on the specific objectives of the operation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The strikes could influence US electoral discourse and affect regional security dynamics in the Middle East."
+   }
+  ],
+  "key_points": [
+   "The US conducted limited defensive strikes on Iran's Qeshm Island.",
+   "Officials described the operation as measured and aimed at preventing escalation.",
+   "The attacks occur just before the US midterm elections, raising political interest."
+  ],
+  "meta_description": "US conducts limited defensive strikes on Iran's Qeshm Island ahead of midterm elections, officials say.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US military",
+   "Iran",
+   "Qeshm Island",
+   "midterm elections",
+   "defensive strike"
+  ],
+  "slug": "us-launches-limited-strikes-iran-ahead-midterm-elections-27a620",
+  "reading_minutes": 1,
+  "added": "2026-11-03T06:34:02Z"
+ },
+ {
+  "id": "4c7d73c3037dd08e",
+  "source_url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+  "source": "TechCrunch",
+  "source_title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+  "source_summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+  "source_tags": [
+   "AI",
+   "Apps",
+   "Android",
+   "Google",
+   "iOS",
+   "Dreambeans"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+  "published": "2026-11-03T03:30:00+00:00",
+  "headline": "Google Expands Dreambeans AI Story Service to India, Adds 13 Languages",
+  "body": [
+   {
+    "type": "p",
+    "text": "Google has launched its Dreambeans platform in India, extending the AI experiment that creates personalized stories to a new market. The rollout includes support for 13 Indian languages, allowing users to generate narratives in their native tongues."
+   },
+   {
+    "type": "p",
+    "text": "The move aims to make AI‑generated personal storytelling accessible to a broader audience, leveraging Google's multilingual capabilities. By localising the service, Google seeks to engage Indian users who prefer content in regional languages."
+   },
+   {
+    "type": "p",
+    "text": "Dreambeans, part of Google's broader AI portfolio, will now operate alongside the company's existing products in the region, offering a novel way for individuals to craft custom stories using artificial intelligence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The launch illustrates how major tech firms are tailoring AI tools for non‑English markets, potentially influencing content creation trends in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Google's Dreambeans AI story platform is now available in India.",
+   "The service supports 13 Indian languages for localized storytelling.",
+   "The expansion targets wider adoption of AI‑generated personal content."
+  ],
+  "meta_description": "Google brings its Dreambeans AI storytelling platform to India, adding support for 13 local languages.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Google",
+   "AI",
+   "Dreambeans",
+   "India",
+   "multilingual",
+   "storytelling"
+  ],
+  "slug": "google-expands-dreambeans-ai-story-service-india-adds-13-4c7d73",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-03T06:33:58Z"
+ },
+ {
+  "id": "045cd46ba8736b7a",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo",
+  "source": "BBC Sport",
+  "source_title": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
+  "source_summary": "Three months into a four-year contract, the problems are mounting for Newcastle boss Matthias Jaissle after his side were booed off the pitch by their own fans following another defeat.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342b/live/53db6f00-d719-11f1-93e1-3b657b665bcf.png",
+  "published": "2026-11-02T23:53:46+00:00",
+  "headline": "Newcastle Fans Boo Coach Jaissle Amid Early Season Woes",
+  "body": [
+   {
+    "type": "p",
+    "text": "Three months into a four-year deal, Newcastle United manager Matthias Jaissle is facing mounting pressure after his side suffered another defeat. The disappointment boiled over when supporters jeered the team off the pitch, directing their frustration at the coach."
+   },
+   {
+    "type": "p",
+    "text": "The hostile reception highlights a growing rift between the fan base and the coaching staff, with many questioning Jaissle's tactics and his ability to turn the club's fortunes around so early in his tenure. The incident follows a string of poor results that have left Newcastle languishing near the bottom of the Premier League table."
+   },
+   {
+    "type": "p",
+    "text": "Club officials have yet to comment publicly on the fans' reaction, but the episode underscores the intense scrutiny that managers face in the English top flight, especially when expectations are high and early-season performances falter."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest at Newcastle illustrates how quickly fan sentiment can influence managerial stability in the Premier League, a league watched worldwide."
+   }
+  ],
+  "key_points": [
+   "Matthias Jaissle was booed by Newcastle fans after a recent defeat, just three months into his four-year contract.",
+   "The incident reflects increasing dissatisfaction with the team's poor results and the coach's tactics."
+  ],
+  "meta_description": "Newcastle fans booed coach Matthias Jaissle after a defeat, intensifying pressure on the manager just three months into his contract.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Newcastle United",
+   "Matthias Jaissle",
+   "Premier League",
+   "fan protests",
+   "football management"
+  ],
+  "slug": "newcastle-fans-boo-coach-jaissle-amid-early-season-woes-045cd4",
+  "reading_minutes": 1,
+  "added": "2026-11-03T06:33:46Z"
+ },
+ {
   "id": "6ed85a5ffc1a7da6",
   "source_url": "https://www.npr.org/2026/11/02/nx-s1-6007693/wars-in-iran-and-yemen-dent-saudi-modernization-mega-projects",
   "source": "NPR",
