@@ -1,5 +1,667 @@
 [
  {
+  "id": "9aa87a974061ab8d",
+  "source_url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "US midterm election results: How Americans voted and what the data tells us",
+  "source_summary": "Results are starting to come in from across the US, where people voted on their next Congress. DW takes a look at who voted Republican, who voted Democrat and what it all means.",
+  "source_tags": [
+   "TOP STORIES"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79809693_6.jpg",
+  "published": "2026-11-04T01:10:00+00:00",
+  "headline": "Midterm Vote Tally Shows Shifting Republican and Democratic Support",
+  "body": [
+   {
+    "type": "p",
+    "text": "Preliminary results from the United States midterm elections are now being reported as voters decide the composition of the next Congress. Early counts indicate varied outcomes across states, with some regions favoring Republican candidates while others lean toward Democrats."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the emerging patterns reflect differing regional priorities, such as economic concerns in the Midwest and social issues on the coasts. Voter turnout appears robust, suggesting heightened public interest in the legislative direction for the coming years."
+   },
+   {
+    "type": "p",
+    "text": "The data also highlights the continued importance of swing districts, where small shifts can determine control of the House and Senate. Political parties are closely monitoring these trends as they plan post-election strategies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The composition of the U.S. Congress will affect legislation on trade, security, and climate policy, issues that also impact European economies and diplomatic relations."
+   }
+  ],
+  "key_points": [
+   "Early midterm results show a mixed picture of Republican and Democratic victories across the country.",
+   "Regional issues appear to influence voter preferences, with economic and social topics driving turnout.",
+   "Swing districts remain pivotal in shaping the balance of power in Congress."
+  ],
+  "meta_description": "Preliminary U.S. midterm results reveal varied Republican and Democratic support, highlighting regional issues and swing district importance.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US midterms",
+   "Congress",
+   "Republican",
+   "Democrat",
+   "voter trends"
+  ],
+  "slug": "midterm-vote-tally-shows-shifting-republican-democratic-support-9aa87a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T01:14:28Z"
+ },
+ {
+  "id": "46d2f92392533470",
+  "source_url": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+  "source": "The Verge",
+  "source_title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+  "source_summary": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo 64, has a much more realistic visual style and […]",
+  "source_tags": [
+   "Entertainment",
+   "Gaming",
+   "News",
+   "Nintendo"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-04T01:02:53+00:00",
+  "headline": "Nintendo Announces Switch 2 Remake of Zelda: Ocarina of Time",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nintendo revealed that a remake of the 1998 classic The Legend of Zelda: Ocarina of Time will launch for the upcoming Switch 2 console. The new version arrives 28 years after the original Nintendo 64 release and features a significantly more realistic visual style."
+   },
+   {
+    "type": "p",
+    "text": "The announcement comes as the gaming industry anticipates the release of Rockstar Games' Grand Theft Auto VI, positioning Nintendo's remake as a major fall title. Details about the remake's release date and pricing have not been disclosed."
+   },
+   {
+    "type": "p",
+    "text": "Fans can expect the classic adventure to be rebuilt with modern graphics while preserving the core gameplay that defined the original title."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remake highlights Nintendo's strategy to leverage legacy franchises on new hardware, offering a fresh experience for both longtime fans and new players in major markets."
+   }
+  ],
+  "key_points": [
+   "Nintendo will release a Switch 2 remake of The Legend of Zelda: Ocarina of Time.",
+   "The remake arrives 28 years after the original and uses a realistic visual style.",
+   "It is slated as a flagship fall release alongside industry buzz around GTA VI."
+  ],
+  "meta_description": "Nintendo announces a Switch 2 remake of Zelda: Ocarina of Time, 28 years after the original, featuring realistic graphics.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nintendo",
+   "Switch 2",
+   "Zelda",
+   "Ocarina of Time",
+   "gaming"
+  ],
+  "slug": "nintendo-announces-switch-2-remake-zelda-ocarina-time-46d2f9",
+  "reading_minutes": 1,
+  "added": "2026-11-04T01:14:32Z"
+ },
+ {
+  "id": "7240ee344c610393",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+  "source": "The Guardian",
+  "source_title": "US midterm elections 2026 live updates: Ossoff and Warner win re-election as Democrats vie for Senate control",
+  "source_summary": "Democratic US senators from Georgia and Virginia win re-election; polls close in Ohio, North Carolina, and South Carolina as Americans decide the direction of Congress Track live results from all 50 states As we bring you the latest from around the country, Donald Trump is certainly paying attention. From the White House, the president said that he was tuning into coverage on Fox News. “I can’t stand Jessica Tarlov’s voice,” Trump said of the Democratic strategist and Fox News contributor in a post on Truth Social . The president called Tarlov “DUMB AS A ROCK” .",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US Congress",
+   "Donald Trump",
+   "Trump administration",
+   "US Senate",
+   "House of Representatives",
+   "Republicans",
+   "Democrats",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/f4b214d88f5c5331331ce81d44e48d134bf5fe55/376_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=b83e0ccf98efee6f9c1bbc290eaf505a",
+  "published": "2026-11-04T01:00:08+00:00",
+  "headline": "Ossoff and Warner Re‑Elected as Democrats Seek Senate Control",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic incumbents Senator Raphael Ossoff of Georgia and Senator Mark Warner of Virginia both secured re‑election in the 2026 midterm contests, keeping their seats for the party as the Senate balance remains in focus. As polls closed in pivotal swing states such as Ohio, North Carolina and South Carolina, the final tally will determine whether Democrats can retain or gain control of the upper chamber."
+   },
+   {
+    "type": "p",
+    "text": "The races unfolded amid heightened national attention, with President Donald Trump noting he was watching the results on Fox News. In a post on his Truth Social platform, Trump criticized Fox contributor and Democratic strategist Jessica Tarlov, describing her voice as “I can’t stand …” and calling her “dumb as a rock.”"
+   },
+   {
+    "type": "p",
+    "text": "Election officials across all 50 states continued to report vote counts, while political analysts highlighted the significance of the Senate outcome for upcoming legislative agendas, including budget priorities and foreign policy decisions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Control of the U.S. Senate will shape legislation that affects trade, security and climate policy, issues of interest to European partners."
+   }
+  ],
+  "key_points": [
+   "Senators Raphael Ossoff and Mark Warner won re‑election, preserving Democratic seats.",
+   "The Senate control battle hinges on results from Ohio, North Carolina and South Carolina.",
+   "President Trump publicly commented on the coverage and criticized Democratic strategist Jessica Tarlov."
+  ],
+  "meta_description": "Democrats hold Senate seats as Ossoff and Warner win re‑election; Senate control remains uncertain pending results from key swing states.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US midterms",
+   "Senate elections",
+   "Democratic Party",
+   "Republican Party",
+   "Trump",
+   "Jessica Tarlov"
+  ],
+  "slug": "ossoff-warner-reelected-democrats-seek-senate-control-7240ee",
+  "reading_minutes": 1,
+  "added": "2026-11-04T01:14:37Z"
+ },
+ {
+  "id": "130e3434c36ac2ba",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
+  "source": "The Guardian",
+  "source_title": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
+  "source_summary": "Rising Democratic star made his re-election campaign a referendum on the Trump administration’s misdeeds US midterm elections – live updates Track live results from all 50 states Jon Ossoff has been re-elected to the Senate in Georgia, defeating Mike Collins, his Republican challenger. Ossoff made his re-election campaign a referendum on the Trump administration’s misdeeds, highlighting self-serving stock trades and business deals by the president and those in the president’s orbit, as well as the consequences of the war in Iran and Trump’s trade policies on the pocketbooks of Georgia’s voters.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Georgia",
+   "Republicans",
+   "Democrats",
+   "US politics",
+   "Far right (US)",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/a8a2468cf86e121bf772fd951dc3411eeb18d984/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=41351ccf79fcec997861f582e2f74b1d",
+  "published": "2026-11-04T00:57:23+00:00",
+  "headline": "Jon Ossoff Defeats Mike Collins in Georgia Senate Race 2026",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic incumbent Jon Ossoff has won re-election to the U.S. Senate from Georgia, beating Republican challenger Mike Collins. The vote count confirmed Ossoff's victory in a race that attracted national attention."
+   },
+   {
+    "type": "p",
+    "text": "During his campaign, Ossoff framed the contest as a referendum on the policies and conduct of former President Donald Trump, citing the president's stock trades, business dealings, the war in Iran and trade measures that he said hurt Georgian voters' finances."
+   },
+   {
+    "type": "p",
+    "text": "The result keeps the Senate seat in Democratic hands and adds to the broader narrative of the 2026 midterm elections, where control of Congress remains a focal point for both parties."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome influences the partisan balance of the U.S. Senate and signals voter sentiment on issues tied to the former president, which may affect U.S. policy directions relevant to European partners."
+   }
+  ],
+  "key_points": [
+   "Jon Ossoff secured a second term in the Georgia Senate seat, defeating Mike Collins.",
+   "Ossoff's campaign highlighted alleged misdeeds of the Trump administration as a central issue.",
+   "The win maintains Democratic representation for Georgia in the Senate."
+  ],
+  "meta_description": "Jon Ossoff defeats Mike Collins to retain Georgia's Senate seat, framing the race as a referendum on Trump-era policies.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Georgia",
+   "Senate",
+   "Jon Ossoff",
+   "Mike Collins",
+   "US elections"
+  ],
+  "slug": "jon-ossoff-defeats-mike-collins-georgia-senate-race-2026-130e34",
+  "reading_minutes": 1,
+  "added": "2026-11-04T01:14:57Z"
+ },
+ {
+  "id": "b0936e6dce0dd067",
+  "source_url": "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
+  "source": "NPR",
+  "source_title": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
+  "source_summary": "A year ago, the Georgia Senate race was considered one of the cycle's marquee Senate showdowns. In the end, Ossoff easily defeated Collins.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F9b%2F5f0048314f919a511997c05131ff%2Fap26304584937038.jpg",
+  "published": "2026-11-04T00:55:57+00:00",
+  "headline": "Jon Ossoff Wins Reelection in Georgia, Defeats Mike Collins",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic incumbent Jon Ossoff secured a second term in the U.S. Senate, easily beating Republican challenger Mike Collins in Georgia's November 2026 election. The race, once highlighted as a marquee contest, concluded with a clear margin in Ossoff's favor."
+   },
+   {
+    "type": "p",
+    "text": "Ossoff's victory maintains the Democratic hold on the seat he first won in 2020. Collins, a former U.S. Representative, was unable to narrow the gap despite a vigorous campaign that drew national attention."
+   },
+   {
+    "type": "p",
+    "text": "The result preserves the current partisan balance in the Senate, keeping the Democrats in a position to influence legislative priorities heading into the next Congress."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The election keeps the Senate evenly divided, affecting the passage of U.S. legislation and policy direction."
+   }
+  ],
+  "key_points": [
+   "Jon Ossoff was reelected to the U.S. Senate from Georgia, defeating Mike Collins.",
+   "The win sustains the Democratic Party's control of the Georgia Senate seat.",
+   "The outcome leaves the Senate's partisan composition unchanged."
+  ],
+  "meta_description": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins, preserving Democratic Senate control.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Georgia",
+   "Senate",
+   "Jon Ossoff",
+   "Mike Collins",
+   "US elections"
+  ],
+  "slug": "jon-ossoff-wins-reelection-georgia-defeats-mike-collins-b0936e",
+  "reading_minutes": 1,
+  "added": "2026-11-04T01:15:09Z"
+ },
+ {
+  "id": "d37e45f983778ee5",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqkg5dgvygr1o",
+  "source": "BBC Sport",
+  "source_title": "Fernandes critical of media 'lies' about Carrick relationship",
+  "source_summary": "Bruno Fernandes says \"a lot of lies\" have been reported about his relationship with Manchester United head coach Michael Carrick.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60bc/live/f12e0680-d7d4-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-04T00:45:33+00:00",
+  "headline": "Bruno Fernandes Calls Media Reports on Carrick Relationship Lies",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United midfielder Bruno Fernandes said there have been \"a lot of lies\" in the press concerning his relationship with the club's head coach Michael Carrick. Fernandes made the comments in a recent interview, expressing frustration with the coverage he feels misrepresents their professional rapport."
+   },
+   {
+    "type": "p",
+    "text": "The player emphasized that the rumors do not reflect the reality of his working relationship with Carrick, who was appointed head coach earlier this season. Fernandes did not provide specific examples of the alleged falsehoods, but stressed that the media narrative is inaccurate."
+   },
+   {
+    "type": "p",
+    "text": "Both Fernandes and Carrick have been under heightened scrutiny as United seeks to improve its performance after a challenging start to the campaign. The midfielder's remarks highlight ongoing tensions between club figures and the press."
+   }
+  ],
+  "key_points": [
+   "Bruno Fernandes alleges the media has spread numerous false stories about his rapport with coach Michael Carrick.",
+   "He claims the coverage does not reflect the true nature of their professional relationship."
+  ],
+  "meta_description": "Bruno Fernandes says media reports about his relationship with Manchester United coach Michael Carrick are false.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bruno Fernandes",
+   "Michael Carrick",
+   "Manchester United",
+   "media criticism",
+   "football"
+  ],
+  "slug": "bruno-fernandes-calls-media-reports-carrick-relationship-lies-d37e45",
+  "reading_minutes": 1,
+  "added": "2026-11-04T01:14:40Z"
+ },
+ {
+  "id": "5d47252e76d42d67",
+  "source_url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+  "source": "The Verge",
+  "source_title": "The biggest modding site in PC gaming is taking a stance on AI",
+  "source_summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent […]",
+  "source_tags": [
+   "AI",
+   "Gaming",
+   "News",
+   "PC Gaming"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-04T00:42:10+00:00",
+  "headline": "Nexus Mods Requires AI Disclosure for All New Mod Uploads",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nexus Mods, the leading repository for PC gaming modifications, announced that creators must now disclose any use of artificial intelligence in their work. The policy, detailed in a platform-wide post, mandates that mod authors indicate whether AI tools were employed during development before a mod can be published."
+   },
+   {
+    "type": "p",
+    "text": "The new requirement aims to increase transparency for the gaming community, which has seen a rise in AI‑generated assets and scripts. Nexus Mods said the rule applies to all new submissions and will be enforced through its existing moderation system."
+   },
+   {
+    "type": "p",
+    "text": "The site did not specify penalties for non‑compliance, but emphasized that the measure is part of a broader effort to address concerns about originality, copyright, and the impact of AI on user‑generated content."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "As AI tools become more prevalent in game development, clear disclosure helps gamers and developers understand the origins of mod content and protects intellectual property rights."
+   }
+  ],
+  "key_points": [
+   "Nexus Mods now obliges mod creators to declare AI involvement in new uploads.",
+   "The disclosure rule is intended to improve transparency and address copyright concerns.",
+   "Enforcement will be handled through the platform's existing moderation processes."
+  ],
+  "meta_description": "Nexus Mods now requires creators to disclose AI use in new mods, aiming for greater transparency in the gaming community.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nexus Mods",
+   "AI disclosure",
+   "gaming mods",
+   "copyright",
+   "user-generated content"
+  ],
+  "slug": "nexus-mods-requires-ai-disclosure-all-new-mod-uploads-5d4725",
+  "reading_minutes": 1,
+  "added": "2026-11-04T01:14:52Z"
+ },
+ {
+  "id": "5919d4e338aca1b9",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6q8n98y4023o",
+  "source": "BBC Sport",
+  "source_title": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
+  "source_summary": "At 2-0 down Michael Carrick's position as Manchester United head coach looked terminal - but will the win over Roma prove a turning point?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8e8/live/5bf089a0-d7e1-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-04T00:27:37+00:00",
+  "headline": "Manchester United Turn Around 2-0 Deficit to Beat Roma, Boosting Carrick’s Job Security",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United rallied from a two‑goal halftime deficit to secure a victory against Roma, sparking speculation that the win could safeguard head coach Michael Carrick’s position. The turnaround followed a decisive half‑time team talk delivered by Carrick, according to match reports."
+   },
+   {
+    "type": "p",
+    "text": "United’s comeback was highlighted by a controversial retaken penalty that was successfully converted, shifting momentum in their favor. The decisive goal helped the English side overturn the early disadvantage and claim all three points."
+   },
+   {
+    "type": "p",
+    "text": "The result arrives at a critical juncture for Carrick, whose tenure had been under intense scrutiny after a string of poor performances. Club officials and fans are now assessing whether this win marks a turning point for the manager."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome influences the managerial stability of one of the Premier League’s most high‑profile clubs, affecting future team performance and market dynamics."
+   }
+  ],
+  "key_points": [
+   "Manchester United erased a 2‑0 halftime hole to defeat Roma.",
+   "A retaken penalty proved pivotal in the comeback.",
+   "The victory may improve Michael Carrick’s prospects of retaining his job."
+  ],
+  "meta_description": "Manchester United rallied from 2-0 down to beat Roma, a win that could secure Michael Carrick's job amid mounting pressure.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Serie A",
+   "football",
+   "coach job security"
+  ],
+  "slug": "manchester-united-turn-around-2-0-deficit-beat-roma-5919d4",
+  "reading_minutes": 1,
+  "added": "2026-11-04T01:15:00Z"
+ },
+ {
+  "id": "e75e2e57e983d4a7",
+  "source_url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "US to cut nearly $4 billion in Israel military aid, Trump says",
+  "source_summary": "President Donald Trump said that the United States would still sell weapons to Israel. He added that Democratic candidates were using US military support for Israel against Republicans in the midterm elections.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/75336437_6.jpg",
+  "published": "2026-11-04T00:21:00+00:00",
+  "headline": "Trump Announces Nearly $4 B Cut to Israel Military Aid Funding",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump said the United States will reduce its military assistance to Israel by almost $4 billion, while confirming that arms sales to the country will continue."
+   },
+   {
+    "type": "p",
+    "text": "The announcement came as Trump criticized Democratic candidates for using U.S. support for Israel as a campaign issue in the upcoming midterm elections, suggesting the aid cut is a political response."
+   },
+   {
+    "type": "p",
+    "text": "Despite the reduction in aid, the administration indicated that existing contracts for weapons deliveries to Israel will not be affected."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift in aid levels could influence U.S. foreign policy in the Middle East and affect political dynamics ahead of the U.S. midterm elections."
+   }
+  ],
+  "key_points": [
+   "The U.S. plans to cut roughly $4 billion from Israel's military aid package.",
+   "Arms sales to Israel are slated to continue unchanged.",
+   "Trump linked the aid decision to Democratic campaign tactics in the midterms."
+  ],
+  "meta_description": "Trump says the U.S. will cut nearly $4 billion in Israel military aid but will keep weapons sales ongoing, citing political motives.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US aid",
+   "Israel",
+   "Trump",
+   "military assistance",
+   "midterm elections"
+  ],
+  "slug": "trump-announces-nearly-4-b-cut-israel-military-aid-e75e2e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T01:14:50Z"
+ },
+ {
+  "id": "57e44e3d60a9882d",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo",
+  "source": "BBC News",
+  "source_title": "Canva announces major job cuts after 'our hardest year yet'",
+  "source_summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d51/live/dae95de0-d7dc-11f1-ac18-75727aac8238.jpg",
+  "published": "2026-11-04T00:09:35+00:00",
+  "headline": "Canva Announces Over 1,000 Job Cuts for Its Toughest Year Yet",
+  "body": [
+   {
+    "type": "p",
+    "text": "Design platform Canva said it will cut more than 1,000 positions as it confronts what CEO Melanie Perkins described as the company's hardest year on record. The layoffs will affect staff across multiple functions, with some employees offered alternative roles within the firm."
+   },
+   {
+    "type": "p",
+    "text": "Perkins told employees that the reductions are intended to streamline operations and preserve the long‑term health of the business. The move follows a period of rapid expansion for Canva, which has become a staple tool for freelancers, small businesses and large enterprises alike."
+   },
+   {
+    "type": "p",
+    "text": "The cuts come at a time when many technology firms are reassessing staffing levels after years of growth fueled by venture capital and pandemic‑driven demand. Analysts note that Canva's decision reflects broader pressures in the digital‑creative market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The layoffs highlight tightening conditions in the tech and creative‑software sector, which could affect suppliers and partners in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Canva will eliminate over 1,000 jobs or reassign staff amid a challenging fiscal year.",
+   "CEO Melanie Perkins said the action is aimed at sustaining the company's long‑term viability."
+  ],
+  "meta_description": "Canva plans to cut more than 1,000 jobs as CEO Melanie Perkins calls it the company's hardest year yet.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canva",
+   "job cuts",
+   "layoffs",
+   "tech industry",
+   "Melanie Perkins"
+  ],
+  "slug": "canva-announces-over-1-000-job-cuts-its-toughest-57e44e",
+  "reading_minutes": 1,
+  "added": "2026-11-04T01:14:45Z"
+ },
+ {
+  "id": "d4e1ba88ef8e8a1b",
+  "source_url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o",
+  "source": "BBC News",
+  "source_title": "Graduates are managing AI - but are they learning much else?",
+  "source_summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d9/live/cc0124d0-cd54-11f1-a64c-550be9e3c66b.jpg",
+  "published": "2026-11-04T00:04:35+00:00",
+  "headline": "Graduates Spend More Time Managing AI, Risk Missing Broader Experience",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent analysis shows that recent university graduates are devoting a growing share of their early careers to overseeing artificial‑intelligence tools rather than performing traditional tasks. Employers report that new hires are often tasked with fine‑tuning chatbots, monitoring algorithm outputs and integrating AI platforms into daily workflows."
+   },
+   {
+    "type": "p",
+    "text": "While this shift gives graduates valuable exposure to cutting‑edge technology, experts warn it may limit opportunities to develop other essential workplace skills. The focus on AI management can crowd out experiences such as project leadership, client interaction and cross‑functional collaboration that traditionally enrich early‑career development."
+   },
+   {
+    "type": "p",
+    "text": "Universities and training providers are being urged to balance AI‑centric curricula with broader professional competencies. Without such balance, the next generation of workers could emerge highly proficient with AI but less prepared for the full spectrum of responsibilities in modern organisations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "In the US and Europe, where AI adoption is accelerating, the skill mix of new employees will shape productivity and competitiveness across industries."
+   }
+  ],
+  "key_points": [
+   "Graduates are increasingly assigned to manage AI systems in their first jobs.",
+   "The emphasis on AI may reduce exposure to other valuable work experiences.",
+   "Educators are called to integrate broader skill development alongside AI training."
+  ],
+  "meta_description": "New graduates are spending more time managing AI tools, raising concerns about missed broader work experience.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "graduates",
+   "AI management",
+   "work experience",
+   "employment",
+   "skills",
+   "higher education"
+  ],
+  "slug": "graduates-spend-more-time-managing-ai-risk-missing-broader-d4e1ba",
+  "reading_minutes": 1,
+  "added": "2026-11-04T01:15:05Z"
+ },
+ {
+  "id": "c95dd5ccda11e865",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cjwy9496qe7ko",
+  "source": "BBC Sport",
+  "source_title": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
+  "source_summary": "Aston Villa boss Unai Emery says his team have \"work to do\" to reach Barcelona's level after a 3-0 Champions League defeat at the Nou Camp.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de38/live/9ad09e20-d7e2-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-03T23:58:22+00:00",
+  "headline": "Emery Says Villa Must Close Gap to Barcelona After 3-0 Loss",
+  "body": [
+   {
+    "type": "p",
+    "text": "Aston Villa manager Unai Emery acknowledged that his side have “work to do” if they are to match the standards set by Barcelona, following a 3-0 defeat at the Camp Nou in the Champions League."
+   },
+   {
+    "type": "p",
+    "text": "The loss highlighted the disparity between the English club and the Spanish giants, with Emery noting the need for improvement across all areas of play. He emphasized that the experience will serve as a learning point for his squad as they continue their European campaign."
+   },
+   {
+    "type": "p",
+    "text": "Villa will now focus on addressing the shortcomings exposed by the heavy defeat, aiming to raise their performance level in upcoming fixtures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result underscores the challenge English clubs face in Europe and could influence Villa’s strategy in the competition."
+   }
+  ],
+  "key_points": [
+   "Villa lost 3-0 to Barcelona in the Champions League at the Camp Nou.",
+   "Manager Unai Emery said the team has significant work to do to reach Barcelona’s level."
+  ],
+  "meta_description": "Aston Villa manager Unai Emery says his team must improve after a 3-0 Champions League loss to Barcelona.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Aston Villa",
+   "Barcelona",
+   "Champions League",
+   "Unai Emery",
+   "football"
+  ],
+  "slug": "emery-says-villa-must-close-gap-barcelona-after-3-c95dd5",
+  "reading_minutes": 1,
+  "added": "2026-11-04T01:15:12Z"
+ },
+ {
   "id": "ffa68dda07f67e18",
   "source_url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno",
   "source": "BBC News",
