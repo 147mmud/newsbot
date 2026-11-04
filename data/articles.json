@@ -1,5 +1,668 @@
 [
  {
+  "id": "7a7257c5db3f3af2",
+  "source_url": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+  "source": "The Verge",
+  "source_title": "Rian Johnson explains why he had to build his own iPhone camera app",
+  "source_summary": "Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier to reach for a phone. So Johnson started wondering if the photos from his iPhone could be […]",
+  "source_tags": [
+   "Apps",
+   "Cameras",
+   "Entertainment",
+   "Gadgets",
+   "Podcasts",
+   "Tech",
+   "Vergecast"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Rian-Johnson-Portrait.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-04T16:10:05+00:00",
+  "headline": "Rian Johnson Builds Custom iPhone Camera App to Blend Analog and Digital",
+  "body": [
+   {
+    "type": "p",
+    "text": "Director Rian Johnson, known for \"Knives Out\" and \"The Last Jedi,\" is a longtime advocate of analog photography, often seen on set with a Leica M6 documenting scenes on film. While his preference leans toward traditional methods, he acknowledges that a smartphone can sometimes be the most convenient tool for quick captures."
+   },
+   {
+    "type": "p",
+    "text": "To bridge the gap between his analog sensibilities and the convenience of a phone, Johnson developed a bespoke iPhone camera application. The app allows him to apply specific settings and processing that mimic the look and feel of his Leica work, giving him greater control over the images he captures on set without sacrificing speed."
+   },
+   {
+    "type": "p",
+    "text": "Johnson’s initiative reflects a growing trend among filmmakers who seek to integrate classic photographic techniques with modern digital devices. By customizing the iPhone’s camera software, he demonstrates how personal tech solutions can enhance creative workflows in the film industry."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move shows how film professionals can use personalized tech to maintain artistic standards while benefiting from the speed of smartphones."
+   }
+  ],
+  "key_points": [
+   "Rian Johnson, an analog photography enthusiast, created his own iPhone camera app.",
+   "The custom app lets him apply Leica‑style settings to phone photos for on‑set documentation.",
+   "His effort highlights a blend of traditional film aesthetics with modern mobile technology."
+  ],
+  "meta_description": "Director Rian Johnson builds a custom iPhone camera app to combine analog photography style with mobile convenience.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rian Johnson",
+   "iPhone",
+   "camera app",
+   "analog photography",
+   "film industry",
+   "technology"
+  ],
+  "slug": "rian-johnson-builds-custom-iphone-camera-app-blend-analog-7a7257",
+  "reading_minutes": 1,
+  "added": "2026-11-04T16:11:13Z"
+ },
+ {
+  "id": "0c9cbd4df150e7b2",
+  "source_url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+  "source": "The Verge",
+  "source_title": "Data centers lost the midterms",
+  "source_summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 […]",
+  "source_tags": [
+   "AI",
+   "Analysis",
+   "Policy",
+   "Politics",
+   "Report",
+   "US Elections"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-04T16:05:39+00:00",
+  "headline": "Midterm Wins for Anti-Data-Center Candidates Tighten AI Hub Growth",
+  "body": [
+   {
+    "type": "p",
+    "text": "Voters across the United States elected officials who support moratoriums and ballot measures that add new hurdles for data‑center construction. The shift creates a more restrictive environment for developers seeking to expand the massive facilities that power artificial‑intelligence services."
+   },
+   {
+    "type": "p",
+    "text": "According to an NBC News poll conducted on Election Day, 76% of respondents indicated that the election outcome would make it harder for data‑center projects to obtain permits and approvals. The emerging regulatory landscape is expected to slow the rollout of new sites that have become a cornerstone of the AI industry’s rapid growth."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts warn that tighter building rules could limit the United States' ability to meet rising demand for computing power, potentially prompting companies to look abroad for expansion. The political momentum behind these measures reflects growing public concern over energy use, land impact, and community effects of large‑scale data facilities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Data‑center capacity underpins AI services used worldwide; tighter U.S. building rules may affect global AI supply chains and competitiveness."
+   }
+  ],
+  "key_points": [
+   "Midterm elections brought in candidates favoring moratoriums on new data‑center construction.",
+   "An NBC News poll found 76% of voters believe the results will tighten building approvals for data centers.",
+   "Stricter regulations could curb AI industry expansion and shift investment toward other regions."
+  ],
+  "meta_description": "Midterm election results favor candidates who support data‑center moratoriums, tightening building rules and challenging AI industry growth.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "data centers",
+   "AI industry",
+   "elections",
+   "building regulations",
+   "infrastructure"
+  ],
+  "slug": "midterm-wins-anti-data-center-candidates-tighten-ai-hub-0c9cbd",
+  "reading_minutes": 1,
+  "added": "2026-11-04T16:11:33Z"
+ },
+ {
+  "id": "e818c1486ecfa20d",
+  "source_url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+  "source": "The Verge",
+  "source_title": "Uber only fulfilled 4 rides from AI agents last quarter",
+  "source_summary": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during […]",
+  "source_tags": [
+   "AI",
+   "News",
+   "Ride-sharing",
+   "Transportation",
+   "Uber"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-04T15:58:45+00:00",
+  "headline": "Uber Reports Only Four Rides Booked by AI Agents in Q3 2026",
+  "body": [
+   {
+    "type": "p",
+    "text": "During its earnings call on November 4, Uber disclosed that third‑party artificial‑intelligence agents arranged just four rides in the third quarter of 2026. The figure reflects the total number of passenger trips initiated by external AI services during the period."
+   },
+   {
+    "type": "p",
+    "text": "The company said the use of AI agents for its Uber Eats platform was slightly higher, with roughly 500 food‑delivery orders placed through such agents in the same quarter. Uber did not provide a precise count, describing the volume as \"around 500.\""
+   },
+   {
+    "type": "p",
+    "text": "Executives emphasized that the modest numbers indicate AI‑driven booking has not yet become a significant channel for Uber’s core ride‑hailing business. The data suggest that, for now, human‑initiated requests remain the dominant source of trips and deliveries."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The limited adoption of AI agents for ride‑hailing shows that the technology is not yet reshaping consumer behavior in the transportation sector."
+   }
+  ],
+  "key_points": [
+   "Only four Uber rides were booked by third‑party AI agents in Q3 2026.",
+   "Approximately 500 Uber Eats orders were placed through AI agents in the same period.",
+   "Uber sees AI‑driven bookings as a minor portion of its overall service volume."
+  ],
+  "meta_description": "Uber disclosed that AI agents arranged just four rides and about 500 food orders in Q3 2026, indicating limited impact on its core services.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Uber",
+   "AI agents",
+   "ride-hailing",
+   "food delivery",
+   "Q3 2026"
+  ],
+  "slug": "uber-reports-only-four-rides-booked-ai-agents-q3-e818c1",
+  "reading_minutes": 1,
+  "added": "2026-11-04T16:11:52Z"
+ },
+ {
+  "id": "6f17732e22d92c39",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+  "source": "The Guardian",
+  "source_title": "US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump",
+  "source_summary": "Democrats flip seven Senate seats in Kansas, Iowa, Texas, Maine, Ohio, North Carolina and South Carolina; ‘blue wave’ rejects Trump’s agenda Track live results from all 50 states Full report: Democrats win control of Congress Tell us: how do you feel about the midterm results? Wall Street surged at the open, after Democrats scored historic victories in midterm elections and secured control of US Congress. The Dow Jones rose 2%, while the tech-heavy Nasdaq and the benchmark S&P 500 both gained more than 1%. That’s quite a reversal: Overnight, stock futures fell sharply as investors worried about the prospect of tougher regulation of the AI sector and the impact on economic growth.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US news",
+   "US Congress",
+   "US Senate",
+   "Trump administration",
+   "House of Representatives",
+   "Republicans",
+   "Democrats",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/2289c25cb92bd6c75d4bf752e0d4b85e41ef3df2/459_0_4162_3329/master/4162.jpg?width=700&quality=85&auto=format&fit=max&s=5a075ac0aabbb051aefa2cde47df7713",
+  "published": "2026-11-04T15:58:15+00:00",
+  "headline": "Democrats Capture Senate Seats, Seize Congress in 2026 Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democrats won a decisive victory in the 2026 U.S. midterm elections, flipping seven Senate seats in Kansas, Iowa, Texas, Maine, Ohio, North Carolina and South Carolina. The gains give the party control of both chambers of Congress, marking a major setback for former President Donald Trump’s agenda."
+   },
+   {
+    "type": "p",
+    "text": "Wall Street reacted positively to the outcome, with the Dow Jones Industrial Average rising 2% at the opening bell. The Nasdaq Composite and the S&P 500 each climbed more than 1%, reversing earlier declines in futures that had reflected concerns over potential AI regulation and slower economic growth."
+   },
+   {
+    "type": "p",
+    "text": "The results underscore a broad rejection of Trump‑aligned policies among voters, as the so‑called ‘blue wave’ reshapes the legislative landscape for the next two years."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Control of Congress will shape U.S. policy on regulation, trade and technology, affecting markets and economies in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Democrats flipped seven Senate seats, securing control of Congress.",
+   "The Dow jumped 2% and both the Nasdaq and S&P 500 rose over 1% after the results.",
+   "The election is viewed as a repudiation of former President Trump’s agenda."
+  ],
+  "meta_description": "Democrats win seven Senate seats, take Congress and boost Wall Street in 2026 midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "U.S. elections",
+   "Democratic Party",
+   "Congress control",
+   "stock market",
+   "AI regulation"
+  ],
+  "slug": "democrats-capture-senate-seats-seize-congress-2026-midterms-6f1773",
+  "reading_minutes": 1,
+  "added": "2026-11-04T16:11:16Z"
+ },
+ {
+  "id": "c6f96d4d723ddd38",
+  "source_url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko",
+  "source": "BBC News",
+  "source_title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+  "source_summary": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
+  "published": "2026-11-04T15:51:37+00:00",
+  "headline": "Musk PAC's $47 Million Boost to Ken Paxton Falls Short in Texas Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk's political action committee poured $47 million (about £35 million) into Texas Attorney General Ken Paxton's campaign ahead of the 2026 midterm elections. The massive contribution was intended to help secure the state for Republican candidates, including Paxton, who is a prominent figure in the party."
+   },
+   {
+    "type": "p",
+    "text": "Despite the unprecedented financial backing, the money failed to translate into a decisive Republican victory in Texas. Analysts note that the state's electoral outcomes were influenced by a range of factors beyond campaign spending, and the expected swing toward the GOP did not materialise."
+   },
+   {
+    "type": "p",
+    "text": "The shortfall highlights the limits of even the largest private political donations in shaping election results. Observers say the episode may prompt a reassessment of how high‑profile donors allocate resources in future contests."
+   }
+  ],
+  "key_points": [
+   "Musk's PAC contributed $47 million to Ken Paxton's campaign.",
+   "The funding did not secure a Republican sweep in Texas during the 2026 midterms.",
+   "The outcome underscores the limited impact of large private donations on election results."
+  ],
+  "meta_description": "Elon Musk's PAC gave $47 million to Ken Paxton, but the money failed to deliver a Republican win in Texas midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "Ken Paxton",
+   "political donations",
+   "Texas elections",
+   "midterms 2026"
+  ],
+  "slug": "musk-pac-s-47-million-boost-ken-paxton-falls-c6f96d",
+  "reading_minutes": 1,
+  "added": "2026-11-04T16:11:21Z"
+ },
+ {
+  "id": "7edbc2f5cfcf87e3",
+  "source_url": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+  "source": "CNBC",
+  "source_title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+  "source_summary": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108406684-1791947160380-gettyimages-2299545247-dsc03491_xjuaucn0.jpeg?v=1792510126&w=1920&h=1080",
+  "published": "2026-11-04T15:45:51+00:00",
+  "headline": "Trump Blames Fox News for GOP Election Losses as Network Ratings Slide",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Donald Trump intensified his criticism of Fox News, accusing the cable network of contributing to recent Republican defeats. In remarks that echo his long‑standing distrust of mainstream broadcasters, Trump said the channel’s coverage has hurt the GOP’s electoral prospects."
+   },
+   {
+    "type": "p",
+    "text": "Trump also noted that Fox’s viewership has been declining, linking the ratings slide to what he described as a bias against him and the party. He suggested that the network’s audience erosion reflects broader dissatisfaction among conservative viewers."
+   },
+   {
+    "type": "p",
+    "text": "The comments come as the network reports lower ratings in recent weeks, a trend that analysts say could influence its future programming and advertising revenue. Trump’s statements add to ongoing tensions between the former president and media outlets that he frequently labels as hostile."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute underscores how media performance and perceived bias can shape political narratives and campaign strategies in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "Trump claims Fox News is responsible for recent GOP election losses.",
+   "He points to a decline in the network’s ratings as evidence of bias.",
+   "The remarks highlight growing friction between Trump and major news outlets."
+  ],
+  "meta_description": "Donald Trump blames Fox News for GOP losses and cites the network's slipping ratings, intensifying his long‑standing media criticism.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Fox News",
+   "GOP",
+   "media bias",
+   "ratings decline"
+  ],
+  "slug": "trump-blames-fox-news-gop-election-losses-network-ratings-7edbc2",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T16:11:42Z"
+ },
+ {
+  "id": "6b286be5efa07823",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo",
+  "source": "BBC News",
+  "source_title": "Israel's president to begin consultations with parties after election deadlock",
+  "source_summary": "Herzog warned politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/4104b7f0-d869-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-04T15:45:45+00:00",
+  "headline": "Israel President Herzog to Consult Parties After Election Stalemate",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Isaac Herzog said he will start talks with Israel's political parties following a deadlock in the recent election that left no clear governing majority. The consultations aim to explore coalition options and avoid the need for a repeat vote."
+   },
+   {
+    "type": "p",
+    "text": "Herzog warned lawmakers that \"not every commitment and promise can be fulfilled\" if they wish to prevent another election, underscoring the urgency of reaching a workable agreement. He emphasized that political stability is essential for the country's governance and public confidence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Israel's political stability influences regional security and has implications for U.S. and European diplomatic and security interests in the Middle East."
+   }
+  ],
+  "key_points": [
+   "President Herzog will begin formal consultations with parties after an election deadlock.",
+   "He cautioned that not all promises can be kept if another election is to be avoided."
+  ],
+  "meta_description": "Israel's President Herzog initiates party talks after an election stalemate, warning that not all promises can be kept to avoid a new vote.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "Isaac Herzog",
+   "election deadlock",
+   "coalition talks",
+   "Middle East politics"
+  ],
+  "slug": "israel-president-herzog-consult-parties-after-election-stalemate-6b286b",
+  "reading_minutes": 1,
+  "added": "2026-11-04T16:11:25Z"
+ },
+ {
+  "id": "d53b16808656f327",
+  "source_url": "https://www.dw.com/en/gold-for-palestine-karate-s-mariam-bsharat-a-rare-sporting-success/a-79851806?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Gold for Palestine: Karate's Mariam Bsharat a rare sporting success",
+  "source_summary": "The occupied West Bank is not an obvious breeding ground for sporting success. But Mariam Bsharat, 17, has beaten the odds to become a karate world champion and is making a new life in Germany.",
+  "source_tags": [
+   "Sports"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79851997_6.jpg",
+  "published": "2026-11-04T15:40:00+00:00",
+  "headline": "Palestinian Teen Wins Karate World Title, Moves to Germany",
+  "body": [
+   {
+    "type": "p",
+    "text": "Seventeen‑year‑old Mariam Bsharat from the occupied West Bank has become a karate world champion, a rare achievement for athletes from the region. Her victory marks a significant milestone in a territory where sporting infrastructure is limited."
+   },
+   {
+    "type": "p",
+    "text": "Bsharat’s success has opened the door to a new chapter in her life, as she relocates to Germany to continue training and competing at the highest level. The move reflects both personal ambition and the broader challenges faced by Palestinian athletes seeking international opportunities."
+   },
+   {
+    "type": "p",
+    "text": "Her triumph highlights the potential of talent emerging from conflict‑affected areas, underscoring how sport can provide pathways to personal development and global recognition despite difficult circumstances."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story illustrates how sport can offer hope and mobility for youth from conflict zones, resonating with audiences interested in human‑interest and international development."
+   }
+  ],
+  "key_points": [
+   "Mariam Bsharat, 17, became a karate world champion representing the West Bank.",
+   "She is relocating to Germany to further her training and career.",
+   "Her achievement is unusual for athletes from the occupied Palestinian territories."
+  ],
+  "meta_description": "Palestinian teen Mariam Bsharat wins a karate world title and moves to Germany to pursue her career.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Karate",
+   "Palestine",
+   "Germany",
+   "Youth Sports",
+   "World Champion"
+  ],
+  "slug": "palestinian-teen-wins-karate-world-title-moves-germany-d53b16",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T16:11:45Z"
+ },
+ {
+  "id": "08492df78e7338e7",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/04/mike-johnson-house-leadership",
+  "source": "The Guardian",
+  "source_title": "Mike Johnson says he will not pursue House minority leader role – reports",
+  "source_summary": "Reported move from Republican speaker of House comes in light of party’s disastrous midterms defeat US midterms 2026 live – latest updates Tell us: what do you want to know about the midterm election results? Mike Johnson, the Republican speaker of the House, has said he is not planning to pursue the role of minority leader once his party loses its majority in the chamber, according to multiple reports. Coming in light of Republicans’ disastrous midterm defeat, Johnson’s decision effectively yields the position of highest-ranking Republican in the House to whichever member of his party can claim it.",
+  "source_tags": [
+   "Mike Johnson",
+   "Republicans",
+   "US Congress",
+   "House of Representatives",
+   "US news",
+   "US politics",
+   "US midterm elections 2026"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/bfbd5bcc0d20249a1bd0721d60fcc41cef9cd629/63_0_4110_3287/master/4110.jpg?width=700&quality=85&auto=format&fit=max&s=22c513cd96d039b53c28c70c927caabf",
+  "published": "2026-11-04T15:36:38+00:00",
+  "headline": "Mike Johnson Declines to Seek House Minority Leader Position After GOP Defeat",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republican Speaker of the House Mike Johnson announced he will not run for the role of minority leader once the GOP loses its majority, according to multiple reports. The decision comes as the party faces a severe setback in the 2026 midterm elections."
+   },
+   {
+    "type": "p",
+    "text": "Johnson's choice leaves the top Republican spot in the House open for any member of his party who can secure the position. The move signals a shift in leadership dynamics as the GOP prepares to transition to the opposition bench."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the vacancy could spark a contest among senior Republican lawmakers, potentially reshaping the party's strategy in the upcoming Congress."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The leadership change will affect how the Republican Party organizes its opposition in Congress, influencing US legislative priorities and its stance toward Europe."
+   }
+  ],
+  "key_points": [
+   "Mike Johnson will not pursue the House minority leader role after the GOP's midterm losses.",
+   "The decision opens the leadership contest to other Republican members.",
+   "The GOP faces a leadership vacuum as it moves to the minority side of the House."
+  ],
+  "meta_description": "Speaker Mike Johnson says he will not run for House minority leader after Republicans' 2026 midterm defeat, opening a leadership contest.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mike Johnson",
+   "House leadership",
+   "Republican Party",
+   "midterm elections",
+   "US Congress"
+  ],
+  "slug": "mike-johnson-declines-seek-house-minority-leader-position-after-08492d",
+  "reading_minutes": 1,
+  "added": "2026-11-04T16:11:36Z"
+ },
+ {
+  "id": "4bc1bbd35f699ea7",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o",
+  "source": "BBC News",
+  "source_title": "Time to focus on cost of living, says PM after US election results",
+  "source_summary": "Andy Burnham says prices won't come down until the US's conflict with Iran is resolved.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5caa/live/138c7900-d85c-11f1-94f3-cf7d1e52bb8c.jpg",
+  "published": "2026-11-04T15:35:09+00:00",
+  "headline": "UK Prime Minister Calls for Cost‑of‑Living Focus After US Election, Cites Iran Conflict",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Prime Minister Andy Burnham urged the government to prioritize measures that ease the cost‑of‑living pressures facing households, speaking shortly after the United States announced the results of its recent election. Burnham said the outcome in the United States has significant implications for global markets and domestic price trends."
+   },
+   {
+    "type": "p",
+    "text": "He added that any meaningful decline in consumer prices is unlikely until the United States resolves its ongoing conflict with Iran, suggesting that geopolitical stability is a key factor in curbing inflation. The prime minister called for coordinated policy action to protect vulnerable families while the international situation remains unsettled."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The US election and its foreign‑policy stance can affect global supply chains and energy prices, influencing inflation and living standards in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "UK Prime Minister Andy Burnham linked the US election outcome to domestic cost‑of‑living concerns.",
+   "He warned that prices are unlikely to fall until the US‑Iran conflict is resolved.",
+   "Burnham called for focused government action to support households amid global uncertainty."
+  ],
+  "meta_description": "UK Prime Minister Andy Burnham says cost‑of‑living relief must be a priority after US election, noting prices depend on US‑Iran conflict resolution.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cost of living",
+   "US election",
+   "Iran conflict",
+   "UK government",
+   "inflation"
+  ],
+  "slug": "uk-prime-minister-calls-costofliving-focus-after-us-election-4bc1bb",
+  "reading_minutes": 1,
+  "added": "2026-11-04T16:11:57Z"
+ },
+ {
+  "id": "70b811da46f92b07",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo",
+  "source": "BBC Sport",
+  "source_title": "Ocon dropped - is it the end of his F1 career?",
+  "source_summary": "Esteban Ocon's career as a Formula 1 race driver is over - at least for the foreseeable future - after falling out with Haas. Andrew Benson looks at what the future holds for the Frenchman.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3822/live/1d503240-d859-11f1-94f3-cf7d1e52bb8c.jpg",
+  "published": "2026-11-04T15:00:26+00:00",
+  "headline": "Esteban Ocon Dropped by Haas, Future in F1 Uncertain",
+  "body": [
+   {
+    "type": "p",
+    "text": "French driver Esteban Ocon has been released from his contract with the Haas Formula 1 team, according to a BBC Sport analysis. The separation follows a reported falling‑out between Ocon and the team, leaving his immediate racing prospects unclear."
+   },
+   {
+    "type": "p",
+    "text": "The article, written by Andrew Benson, suggests that Ocon’s career in Formula 1 is effectively on hold for the foreseeable future. While the Frenchman has not announced retirement, the lack of a seat with a current team means he may be absent from the grid in upcoming seasons."
+   },
+   {
+    "type": "p",
+    "text": "The piece does not detail any alternative opportunities for Ocon, nor does it mention any statements from Haas or the driver himself. It focuses on the implications of the split and the challenges Ocon could face in securing a new drive amid a competitive driver market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Ocon’s exit highlights the volatility of driver contracts in Formula 1, a sport followed closely by fans and sponsors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Esteban Ocon has been dropped by Haas after a reported disagreement.",
+   "His participation in Formula 1 is uncertain for the near future.",
+   "No new team or contract has been announced for the French driver."
+  ],
+  "meta_description": "Esteban Ocon is out of Haas F1 team, leaving his future in the sport uncertain.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Esteban Ocon",
+   "Haas F1 Team",
+   "driver contracts",
+   "motorsport"
+  ],
+  "slug": "esteban-ocon-dropped-haas-future-f1-uncertain-70b811",
+  "reading_minutes": 1,
+  "added": "2026-11-04T16:11:29Z"
+ },
+ {
+  "id": "68d6afe5a9befa59",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cq3dj37m1kddo",
+  "source": "BBC Sport",
+  "source_title": "West Ham confirm Parker as boss",
+  "source_summary": "West Ham confirm the appointment of former midfielder Scott Parker as their head coach on a two-and-a-half-year deal.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9c1/live/c06b7600-d7b0-11f1-9092-abeae3cab3b1.jpg",
+  "published": "2026-11-04T11:54:59+00:00",
+  "headline": "West Ham Appoints Former Midfielder Scott Parker as Head Coach",
+  "body": [
+   {
+    "type": "p",
+    "text": "West Ham United have confirmed the hiring of former midfielder Scott Parker as their new head coach. The club announced a two-and-a-half-year contract, marking Parker's first senior managerial role since leaving his playing career."
+   },
+   {
+    "type": "p",
+    "text": "Parker, who spent more than a decade in the Premier League with clubs such as Chelsea, Tottenham and West Ham, brings extensive top‑flight experience to the role. The appointment follows the departure of the previous manager earlier this season."
+   },
+   {
+    "type": "p",
+    "text": "The club said Parker will be tasked with improving the team's performance in the league and guiding them in domestic cup competitions. West Ham supporters will be watching closely to see how the former player translates his on‑field knowledge into coaching success."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The hiring of a high‑profile former player underscores West Ham's ambition to compete more strongly in the Premier League, a league followed closely by fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Scott Parker has been appointed head coach of West Ham United on a 2.5‑year deal.",
+   "The former Premier League midfielder takes his first senior managerial position.",
+   "West Ham expect Parker to lift the club's league and cup performances."
+  ],
+  "meta_description": "West Ham United name former midfielder Scott Parker as head coach on a two-and-a-half-year contract.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "West Ham",
+   "Scott Parker",
+   "Premier League",
+   "Coaching",
+   "Football"
+  ],
+  "slug": "west-ham-appoints-former-midfielder-scott-parker-head-coach-68d6af",
+  "reading_minutes": 1,
+  "added": "2026-11-04T16:11:49Z"
+ },
+ {
   "id": "1ce7d8d1f6f1127e",
   "source_url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
   "source": "BBC News",
