@@ -1,5 +1,696 @@
 [
  {
+  "id": "4c512ea8aa4a9d13",
+  "source_url": "https://www.npr.org/2026/11/04/nx-s1-6029646/south-carolina-winner-annie-andrews-talks-about-her-win-and-the-path-ahead",
+  "source": "NPR",
+  "source_title": "South Carolina winner Annie Andrews talks about her win and the path ahead",
+  "source_summary": "NPR's Ailsa Chang talks with Democrat Dr. Annie Andrews, who bested Republican candidate Darline Graham, the incumbent and sister of the late Sen. Lindsey Graham.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-11-04T22:04:23+00:00",
+  "headline": "Democrat Annie Andrews Defeats Incumbent Darline Graham in SC Senate",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democrat Dr. Annie Andrews won South Carolina's Senate race, unseating Republican Darline Graham, who had held the seat since succeeding her brother, the late Sen. Lindsey Graham. Andrews secured the victory after a campaign that highlighted her policy positions and contrasted them with Graham's record as the incumbent."
+   },
+   {
+    "type": "p",
+    "text": "Graham, the sister of the former senator, had been expected to retain the seat for the GOP, but Andrews' win marks a notable shift in a state traditionally dominated by Republicans. The result adds a new Democratic voice to the Senate from a region where party control has long been contested."
+   },
+   {
+    "type": "p",
+    "text": "Andrews said she looks forward to focusing on issues important to South Carolinians, while Graham conceded the race and praised her opponent's efforts. The outcome will shape the balance of power in the Senate as the new term begins."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The upset could affect Senate party dynamics and signals shifting political attitudes in a traditionally red state."
+   }
+  ],
+  "key_points": [
+   "Democrat Annie Andrews defeated incumbent Republican Darline Graham in South Carolina's Senate race.",
+   "The win gives Democrats a seat in a state historically dominated by Republicans.",
+   "Graham, sister of the late Sen. Lindsey Graham, had been the incumbent."
+  ],
+  "meta_description": "Democrat Annie Andrews beats incumbent Republican Darline Graham in South Carolina Senate race, shifting the state's political landscape.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "South Carolina",
+   "Senate",
+   "Annie Andrews",
+   "Darline Graham",
+   "Democrats",
+   "Republicans"
+  ],
+  "slug": "democrat-annie-andrews-defeats-incumbent-darline-graham-sc-senate-4c512e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T22:07:55Z"
+ },
+ {
+  "id": "6b7d070620dea460",
+  "source_url": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-trump-midterm-elections.html",
+  "source": "The New York Times",
+  "source_title": "For Israelis, U.S. Midterms Show How Far Their Star Has Fallen in America",
+  "source_summary": "Israel once had bipartisan support in the United States, but a strong showing for Democrats, some of whom are deeply critical of the war in Gaza, has left the country with fewer friends in Congress.",
+  "source_tags": [
+   "International Relations",
+   "Democratic Party",
+   "Republican Party",
+   "Netanyahu, Benjamin",
+   "United States International Relations",
+   "Elections",
+   "Midterm Elections (2026)",
+   "Eisenkot, Gadi",
+   "Trump, Donald J",
+   "United States Politics and Government"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-midterms01a-photo-jqck/04int-israel-midterms01a-photo-jqck-mediumSquareAt3X.jpg",
+  "published": "2026-11-04T22:04:04+00:00",
+  "headline": "U.S. Midterms Reveal Declining Congressional Support for Israel",
+  "body": [
+   {
+    "type": "p",
+    "text": "Israel’s traditionally bipartisan backing in Washington has eroded after the 2026 U.S. midterm elections, which delivered a strong showing for Democrats who are openly critical of the war in Gaza. The shift leaves the Israeli government with fewer allies in Congress and raises questions about future legislative support."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the election results reflect growing partisan divisions over Israel’s military actions, with many Democratic lawmakers calling for stricter scrutiny and conditional aid. While Republicans continue to voice strong support for Israel, the overall balance of power in the House and Senate now includes a larger cohort of legislators willing to challenge the status quo."
+   },
+   {
+    "type": "p",
+    "text": "The change could affect U.S. policy tools such as foreign aid packages and diplomatic initiatives, potentially altering the dynamics of the U.S.-Israel relationship at a time when the conflict in Gaza remains unresolved."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. congressional backing influences foreign aid and diplomatic pressure on Israel, affecting regional stability and European partners’ security calculations."
+   }
+  ],
+  "key_points": [
+   "The 2026 midterms gave Democrats a stronger foothold, reducing bipartisan support for Israel in Congress.",
+   "Democratic lawmakers are increasingly critical of Israel’s war in Gaza, influencing future aid decisions.",
+   "The shift may reshape U.S. policy tools and diplomatic engagement with Israel."
+  ],
+  "meta_description": "Midterm results show waning bipartisan U.S. support for Israel as Democrats criticize the Gaza war, reshaping future policy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "U.S. elections",
+   "Israel",
+   "Gaza war",
+   "Congress",
+   "Democrats",
+   "foreign policy"
+  ],
+  "slug": "u-s-midterms-reveal-declining-congressional-support-israel-6b7d07",
+  "reading_minutes": 1,
+  "added": "2026-11-04T22:07:57Z"
+ },
+ {
+  "id": "abc9c74e90449b14",
+  "source_url": "https://www.nytimes.com/2026/11/04/us/politics/susan-collins-defeat-donald-trump.html",
+  "source": "The New York Times",
+  "source_title": "Susan Collins Finally Falls to an Election Foe: Donald Trump",
+  "source_summary": "The Maine Republican survived tough cycles in the past even as the political ground shifted underneath her. But the anti-Trump fever in her state doomed her this time.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Federal Aid (US)",
+   "Senate",
+   "Senate Committee on Appropriations",
+   "Collins, Susan M",
+   "Jackson, Troy D (1968- )",
+   "Maine",
+   "Bangor (Me)",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-collins-jcwp/04dc-collins-jcwp-mediumSquareAt3X.jpg",
+  "published": "2026-11-04T21:57:56+00:00",
+  "headline": "Susan Collins Defeated in Maine Senate Race by Donald Trump",
+  "body": [
+   {
+    "type": "p",
+    "text": "Long‑time Maine Republican Senator Susan Collins was unseated in the latest election, losing to former President Donald Trump. Collins, who has weathered shifting political tides in past cycles, faced a surge of anti‑Trump sentiment in the state that ultimately proved decisive."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the heightened opposition to Trump in Maine played a pivotal role in the outcome, marking a significant change for the state's representation in Washington. The result underscores the evolving dynamics within the Republican Party and the impact of local voter attitudes on national races."
+   }
+  ],
+  "key_points": [
+   "Maine Senator Susan Collins lost her seat to Donald Trump.",
+   "Anti‑Trump sentiment in Maine contributed to Collins' defeat."
+  ],
+  "meta_description": "Maine Republican Senator Susan Collins was defeated by Donald Trump, highlighting shifting voter sentiment in the state.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Susan Collins",
+   "Maine",
+   "Republican",
+   "Donald Trump",
+   "election"
+  ],
+  "slug": "susan-collins-defeated-maine-senate-race-donald-trump-abc9c7",
+  "reading_minutes": 1,
+  "added": "2026-11-04T22:08:12Z"
+ },
+ {
+  "id": "f3f4f568585b6de9",
+  "source_url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+  "source": "TechCrunch",
+  "source_title": "Almost no one uses AI agents to book their Uber, company says",
+  "source_summary": "During its busiest week last quarter, Uber said only 4 people booked a ride using an AI agent.",
+  "source_tags": [
+   "AI",
+   "Transportation",
+   "Uber"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
+  "published": "2026-11-04T21:56:01+00:00",
+  "headline": "Uber Reports Only Four Rides Booked via AI Agents in Busy Week",
+  "body": [
+   {
+    "type": "p",
+    "text": "Uber disclosed that during its busiest week of the last quarter, just four riders used an artificial‑intelligence agent to request a trip. The figure comes from internal data the company shared in a recent statement."
+   },
+   {
+    "type": "p",
+    "text": "The low number highlights that, despite Uber’s push to integrate AI assistants into its platform, consumer uptake remains minimal. The company has been testing AI‑driven features aimed at streamlining the booking process, but the trial shows limited real‑world use."
+   },
+   {
+    "type": "p",
+    "text": "Uber did not provide details on how many total rides were booked that week or how the AI agent was promoted to users. The data point serves as a snapshot of early adoption rates for AI‑based services in the ride‑hailing market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The finding underscores the slow consumer adoption of AI assistants in everyday services, a trend relevant to tech firms and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Only four Uber rides were booked using an AI agent during the company's busiest week last quarter.",
+   "The result suggests that AI‑driven booking tools have yet to gain traction among Uber’s customers.",
+   "Uber has not released broader usage statistics for its AI features."
+  ],
+  "meta_description": "Uber says just four rides were booked via AI agents during its busiest week last quarter, indicating low consumer uptake.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Uber",
+   "AI agents",
+   "ride-hailing",
+   "consumer adoption",
+   "technology"
+  ],
+  "slug": "uber-reports-only-four-rides-booked-via-ai-agents-f3f4f5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T22:08:00Z"
+ },
+ {
+  "id": "6e069981a3b20370",
+  "source_url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+  "source": "The New York Times",
+  "source_title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
+  "source_summary": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time.",
+  "source_tags": [
+   "Health Insurance and Managed Care",
+   "Arbitration, Conciliation and Mediation",
+   "Law and Legislation",
+   "United States Politics and Government",
+   "Consumer Protection",
+   "Government Contracts and Procurement",
+   "Doctors",
+   "Prices (Fares, Fees and Rates)",
+   "Centers for Medicare and Medicaid Services",
+   "Island Peer Review Organization"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
+  "published": "2026-11-04T21:53:45+00:00",
+  "headline": "Trump Administration Seeks to Remove Arbitrators Amid Rising Doctor Payouts",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Trump administration announced plans to eliminate the use of private arbitrators in medical billing disputes, a move that comes as payments to doctors have surged. The policy shift aims to alter how disagreements between physicians and insurers are resolved, potentially increasing the role of courts."
+   },
+   {
+    "type": "p",
+    "text": "Two companies that previously handled such disputes have begun settling billing cases directly with doctors, removing patients from the conflict. One of these firms reported that doctors prevailed in 96 percent of the cases it adjudicated, highlighting the high success rate for physicians under the arbitration system."
+   },
+   {
+    "type": "p",
+    "text": "Critics argue that the removal of arbitrators could lengthen litigation and raise costs for both insurers and providers, while supporters claim it will bring greater transparency and fairness to the settlement process."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Changes to arbitration could affect healthcare costs and legal processes in the US and Europe, influencing how insurers and doctors resolve payment disputes."
+   }
+  ],
+  "key_points": [
+   "The administration plans to end the use of private arbitrators in medical billing disputes.",
+   "Doctor payouts have risen sharply, with one settlement firm reporting a 96% win rate for physicians.",
+   "Direct settlements by two companies aim to keep patients out of billing conflicts."
+  ],
+  "meta_description": "Trump admin moves to end medical billing arbitration as doctor payouts surge, with firms reporting a 96% win rate for physicians.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "healthcare",
+   "arbitration",
+   "Trump administration",
+   "doctor payments",
+   "insurance disputes"
+  ],
+  "slug": "trump-administration-seeks-remove-arbitrators-amid-rising-doctor-payouts-6e0699",
+  "reading_minutes": 1,
+  "added": "2026-11-04T22:08:04Z"
+ },
+ {
+  "id": "c903252aff8213af",
+  "source_url": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no",
+  "source": "BBC Sport",
+  "source_title": "LIV to wind down after backers withdraw support",
+  "source_summary": "LIV Golf is set to announce on Thursday it will wind down after a financing firm retracted its support.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/241b/live/33625a90-d890-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-04T21:52:13+00:00",
+  "headline": "LIV Golf to Wind Down After Financing Firm Pulls Support",
+  "body": [
+   {
+    "type": "p",
+    "text": "LIV Golf announced it will begin winding down operations following the withdrawal of backing from a key financing firm. The decision, set to be confirmed on Thursday, marks a significant shift for the breakaway golf circuit that has relied heavily on external investment since its launch."
+   },
+   {
+    "type": "p",
+    "text": "The financing firm’s retraction of support leaves LIV Golf without the capital needed to sustain its tournament schedule and player contracts. Organisers have indicated that the lack of funding makes it impossible to continue the league in its current form, prompting the wind‑down plan."
+   },
+   {
+    "type": "p",
+    "text": "Stakeholders, including players, sponsors and tournament venues, are expected to be notified of the forthcoming changes as the league prepares to cease activities. The move underscores the challenges faced by alternative sports leagues that depend on substantial private financing to compete with established organizations."
+   }
+  ],
+  "key_points": [
+   "LIV Golf will begin winding down after a financing firm withdrew its backing.",
+   "The loss of funding makes it impossible for the league to maintain its current operations.",
+   "Players, sponsors and venues will be affected as the circuit prepares to cease activities."
+  ],
+  "meta_description": "LIV Golf will wind down after a financing firm pulls its support, ending the breakaway league's operations.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "LIV Golf",
+   "sports financing",
+   "golf league",
+   "investment withdrawal",
+   "sports business"
+  ],
+  "slug": "liv-golf-wind-down-after-financing-firm-pulls-support-c90325",
+  "reading_minutes": 1,
+  "added": "2026-11-04T22:08:08Z"
+ },
+ {
+  "id": "907828307bc3a562",
+  "source_url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+  "source": "TechCrunch",
+  "source_title": "Snapchat surpasses 30M paid subscribers",
+  "source_summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+  "source_tags": [
+   "Apps",
+   "Social",
+   "Snap",
+   "Snapchat"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800",
+  "published": "2026-11-04T21:49:29+00:00",
+  "headline": "Snapchat Hits Over 30 Million Paid Subscribers for Memories Storage",
+  "body": [
+   {
+    "type": "p",
+    "text": "Snapchat announced that more than 30 million users have now signed up for paid storage options for its Memories feature. The figure marks a significant milestone for the company, coming a year after it introduced a limit on free storage and warned users that additional space would require a $1.99 monthly fee or a Snapchat+ subscription."
+   },
+   {
+    "type": "p",
+    "text": "The new pricing model gives users the choice of paying a modest monthly charge for extra cloud storage or upgrading to the broader Snapchat+ service, which bundles the storage benefit with other premium features. Since the policy change, the platform has seen a steady increase in subscribers willing to pay for the convenience of preserving their photos and videos within the app."
+   },
+   {
+    "type": "p",
+    "text": "Snapchat did not disclose revenue details tied to the subscriber base, but the growth suggests that the company’s subscription strategy is resonating with its audience. The company continues to expand its premium offerings as part of a broader shift toward recurring revenue streams in the social media sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The surge in paid subscribers highlights a growing acceptance of subscription fees for core social‑media features among US and European users."
+   }
+  ],
+  "key_points": [
+   "Snapchat now has over 30 million users paying for additional Memories storage.",
+   "The paid options include a $1.99 per month add‑on or a Snapchat+ subscription.",
+   "Subscriber growth follows the introduction of a free‑storage limit last year."
+  ],
+  "meta_description": "Snapchat surpasses 30 million paid subscribers for Memories storage after introducing a $1.99 monthly fee or Snapchat+ option.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Snapchat",
+   "paid subscribers",
+   "subscription",
+   "Memories",
+   "social media"
+  ],
+  "slug": "snapchat-hits-over-30-million-paid-subscribers-memories-storage-907828",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T22:08:20Z"
+ },
+ {
+  "id": "f1011b98799be210",
+  "source_url": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
+  "source": "CNBC",
+  "source_title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
+  "source_summary": "E.l.f. Beauty posted stronger-than-expected quarterly results on Wednesday as the company continues to see broad-based growth across its portfolio.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/107369762-1707244882546-031622_SLHaloGroup-V1_Main_0186_STACK_FINAL_IGF.jpg?v=1707245325&w=1920&h=1080",
+  "published": "2026-11-04T21:47:22+00:00",
+  "headline": "E.l.f. Beauty Reports 51% Sales Surge, Boosts Full-Year Outlook on Broad Portfolio Growth",
+  "body": [
+   {
+    "type": "p",
+    "text": "E.l.f. Beauty announced a 51% increase in sales for its latest quarter, surpassing analysts' expectations. The company said the growth was driven by strong performance across its entire product range, highlighting the brand's expanding appeal."
+   },
+   {
+    "type": "p",
+    "text": "Along with the sales jump, E.l.f. raised its full-year revenue guidance, signaling confidence in continued momentum. The firm attributed the results to effective pricing strategies and expanding distribution channels."
+   },
+   {
+    "type": "p",
+    "text": "Investors responded positively to the upbeat results, and the company expects the trend to persist as it rolls out new product lines and deepens its presence in key markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The stronger earnings and raised guidance suggest continued growth for the affordable beauty sector, impacting investors and consumers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "E.l.f. Beauty posted a 51% quarterly sales increase, beating forecasts.",
+   "The company lifted its full-year revenue outlook on the back of broad portfolio growth.",
+   "Analysts view the results as a sign of sustained demand for affordable cosmetics."
+  ],
+  "meta_description": "E.l.f. Beauty posts 51% sales rise and lifts full-year guidance, driven by broad portfolio growth.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "e.l.f.",
+   "beauty",
+   "sales growth",
+   "earnings",
+   "guidance",
+   "cosmetics"
+  ],
+  "slug": "e-l-f-beauty-reports-51-sales-surge-boosts-f1011b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T22:08:25Z"
+ },
+ {
+  "id": "4c9b76bc0bf942e0",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+  "source": "The Verge",
+  "source_title": "17 better ways Elon Musk could have wasted $446 million",
+  "source_summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you […]",
+  "source_tags": [
+   "AI",
+   "Electric Cars",
+   "Elon Musk",
+   "Policy",
+   "Politics",
+   "Science",
+   "Space",
+   "SpaceX",
+   "Tech",
+   "Tesla"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-04T21:45:00+00:00",
+  "headline": "Elon Musk Could Have Redirected $446 Million to 17 Better Uses",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Verge outlines seventeen alternative ways Elon Musk might have spent the $446 million he reportedly poured into his social‑media platform, formerly known as Twitter. The piece argues that the funds could have been allocated to projects with clearer returns or societal benefits, rather than sustaining a contentious online environment."
+   },
+   {
+    "type": "p",
+    "text": "Among the suggested alternatives are investments in renewable energy, space exploration, and public infrastructure, as well as charitable contributions and research initiatives. The article emphasizes that re‑channeling the money could have bolstered Musk’s other ventures, such as Tesla and SpaceX, or addressed pressing global challenges."
+   },
+   {
+    "type": "p",
+    "text": "While the list is speculative, it underscores a broader critique of the financial priorities tied to the platform’s management and the opportunity costs of maintaining a high‑profile social‑media presence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The allocation of such a large sum highlights how private spending decisions can impact technology development and public welfare, topics of interest to both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "The Verge lists 17 potential uses for the $446 million Musk spent on his social‑media platform.",
+   "Suggested alternatives include renewable energy, space projects, infrastructure, and charitable giving.",
+   "Reallocating the funds could have supported Musk’s other businesses and broader societal goals."
+  ],
+  "meta_description": "The Verge details 17 alternative ways Elon Musk could have spent $446 million, from renewable energy to charitable causes.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "social media",
+   "investment",
+   "technology spending",
+   "renewable energy"
+  ],
+  "slug": "elon-musk-could-have-redirected-446-million-17-better-4c9b76",
+  "reading_minutes": 1,
+  "added": "2026-11-04T22:08:36Z"
+ },
+ {
+  "id": "42fdda40fd3050b0",
+  "source_url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
+  "source": "The New York Times",
+  "source_title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
+  "source_summary": "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "US and Israeli Attack on Iran (2026)",
+   "International Relations",
+   "Oil (Petroleum) and Gasoline",
+   "Midterm Elections (2026)",
+   "International Trade and World Market",
+   "House of Representatives",
+   "Republican Party",
+   "Trump, Donald J"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-global-midterm-reax-zbjv/04int-global-midterm-reax-zbjv-mediumSquareAt3X.jpg",
+  "published": "2026-11-04T21:20:36+00:00",
+  "headline": "Trump Midterm Loss Raises Questions on Iran Conflict and Oil Prices",
+  "body": [
+   {
+    "type": "p",
+    "text": "International commentators are analyzing the potential fallout from President Donald Trump's recent midterm defeats. Observers note that the electoral outcome could influence U.S. policy toward Iran, a country already at the center of regional tensions."
+   },
+   {
+    "type": "p",
+    "text": "Analysts also speculate that the shift in political momentum may affect global oil markets, as U.S. stance on sanctions and military actions often shape price dynamics. The uncertainty surrounding the war on Iran adds another layer of complexity for investors and policymakers alike."
+   },
+   {
+    "type": "p",
+    "text": "Beyond geopolitics, the results are seen as a bellwether for the future direction of American politics, with implications for both domestic governance and the United States' role on the world stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "European and U.S. readers watch oil price trends and Middle East stability closely, as both affect economies and energy security."
+   }
+  ],
+  "key_points": [
+   "Trump's midterm defeat may alter U.S. strategy toward Iran.",
+   "Changes in U.S. policy could impact global oil price stability.",
+   "The election outcome signals possible shifts in American political dynamics."
+  ],
+  "meta_description": "Trump's midterm loss could reshape U.S. policy on Iran and influence global oil prices, analysts say.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "midterms",
+   "oil prices",
+   "Iran",
+   "U.S. politics",
+   "elections"
+  ],
+  "slug": "trump-midterm-loss-raises-questions-iran-conflict-oil-prices-42fdda",
+  "reading_minutes": 1,
+  "added": "2026-11-04T22:08:16Z"
+ },
+ {
+  "id": "7967eeb8c02e227a",
+  "source_url": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
+  "source_summary": "Aiwanger was Bavaria's Economy Minister and the chairman of the right-wing populist Free Voters Party. The circumstances surrounding his death are still unclear.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/66706960_6.jpg",
+  "published": "2026-11-04T21:00:00+00:00",
+  "headline": "Bavarian Economy Minister and Party Leader Found Dead in Berlin Hotel",
+  "body": [
+   {
+    "type": "p",
+    "text": "Hubert Aiwanger, who served as Bavaria's Economy Minister and chaired the right‑wing populist Free Voters party, was discovered dead in a Berlin hotel on Saturday night. The report from Deutsche Welle noted that officials have not yet clarified the circumstances surrounding his death."
+   },
+   {
+    "type": "p",
+    "text": "Aiwanger was a prominent figure in Bavarian politics, known for his role in the regional government and his leadership of the Free Voters, a party that has gained influence in recent elections. His unexpected death has prompted statements from local authorities, though details remain limited."
+   },
+   {
+    "type": "p",
+    "text": "The incident has raised questions about the impact on the Free Voters' leadership and the broader political landscape in Bavaria. Investigations are ongoing, and further information is expected to be released by German officials."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Aiwanger's position in Bavaria's government and his party's growing influence make his death a significant development for German regional politics."
+   }
+  ],
+  "key_points": [
+   "Hubert Aiwanger, Bavaria's Economy Minister and Free Voters chairman, was found dead in a Berlin hotel.",
+   "The cause of death has not been disclosed by authorities.",
+   "Aiwanger's death could affect the Free Voters' role in Bavarian politics."
+  ],
+  "meta_description": "Bavarian Economy Minister and Free Voters leader Hubert Aiwanger was found dead in a Berlin hotel; cause remains unclear.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bavaria",
+   "Free Voters",
+   "Hubert Aiwanger",
+   "Berlin",
+   "German politics"
+  ],
+  "slug": "bavarian-economy-minister-party-leader-found-dead-berlin-hotel-7967ee",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T22:08:34Z"
+ },
+ {
+  "id": "fb8d05504dd37172",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5x2vzplg43go",
+  "source": "BBC Sport",
+  "source_title": "GB sprint star Hunt visits England training camp",
+  "source_summary": "Great Britain sprint star Amy Hunt visited England's training base before Sunday's Nations Championship match against Australia.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3353/live/7b56d9b0-d887-11f1-ad49-25abedf165e8.jpg",
+  "published": "2026-11-04T19:59:18+00:00",
+  "headline": "GB Sprint Star Amy Hunt Visits England Camp Ahead of Nations Match",
+  "body": [
+   {
+    "type": "p",
+    "text": "Great Britain’s sprint champion Amy Hunt made a surprise appearance at England’s training base on Saturday, joining the squad as they prepared for the upcoming Nations Championship clash with Australia."
+   },
+   {
+    "type": "p",
+    "text": "Hunt’s visit came a day before the Sunday fixture, giving the English team a morale boost and an opportunity to observe the Olympic medalist’s preparation routine. Coaches welcomed the chance to integrate insights from a world‑class sprinter into the team’s warm‑up drills."
+   },
+   {
+    "type": "p",
+    "text": "The Nations Championship match, scheduled for Sunday, pits England against a strong Australian side. Both teams are expected to field their best line‑ups as the competition intensifies ahead of next year’s major tournaments."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The match is a key encounter in the Nations Championship, a tournament that shapes rankings and preparation for upcoming global events, making it relevant to international sports fans."
+   }
+  ],
+  "key_points": [
+   "Amy Hunt visited England’s training camp ahead of the Nations Championship match with Australia.",
+   "Her presence offered a morale boost and a glimpse into elite sprint preparation for the English squad.",
+   "England and Australia are set to meet in a high‑stakes Sunday fixture."
+  ],
+  "meta_description": "GB sprint star Amy Hunt visits England camp before Sunday's Nations Championship match against Australia.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Amy Hunt",
+   "England rugby",
+   "Nations Championship",
+   "Australia",
+   "sprint star",
+   "training camp"
+  ],
+  "slug": "gb-sprint-star-amy-hunt-visits-england-camp-ahead-fb8d05",
+  "reading_minutes": 1,
+  "added": "2026-11-04T22:08:28Z"
+ },
+ {
   "id": "7a7257c5db3f3af2",
   "source_url": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
   "source": "The Verge",
