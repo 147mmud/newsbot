@@ -1,5 +1,691 @@
 [
  {
+  "id": "1ce7d8d1f6f1127e",
+  "source_url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro",
+  "source": "BBC News",
+  "source_title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+  "source_summary": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/383e2830-d810-11f1-bc0e-b5a9e0785e4b.jpg",
+  "published": "2026-11-04T07:39:38+00:00",
+  "headline": "Delhi's Air Quality Deteriorates to 'Very Poor' Level Ahead of Diwali",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Wednesday morning Delhi recorded an Air Quality Index of 377, placing the capital in the \"very poor\" category, according to the latest government data. The reading reflects a sharp rise in particulate matter as the city approaches the Diwali festival, when fireworks are traditionally set off."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have activated firework restrictions aimed at curbing the surge in pollution. The measures, which came into force earlier this week, limit the sale and use of fireworks in and around the city in an effort to protect public health during the holiday period."
+   },
+   {
+    "type": "p",
+    "text": "Health officials warn that sustained exposure to such high pollution levels can exacerbate respiratory conditions and increase hospital admissions, especially for vulnerable groups such as children and the elderly."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Similar spikes in air pollution during festivals have raised health concerns in major cities worldwide, highlighting the challenge of balancing cultural celebrations with public health."
+   }
+  ],
+  "key_points": [
+   "Delhi's AQI hit 377 on Wednesday, classifying the air as \"very poor\".",
+   "Firework restrictions have been imposed ahead of Diwali to try to limit further pollution.",
+   "Officials caution that the poor air quality poses serious health risks."
+  ],
+  "meta_description": "Delhi's air quality fell to a 'very poor' level of 377 as firework restrictions start ahead of Diwali, raising health concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Delhi",
+   "air quality",
+   "Diwali",
+   "pollution",
+   "firework restrictions"
+  ],
+  "slug": "delhi-s-air-quality-deteriorates-very-poor-level-ahead-1ce7d8",
+  "reading_minutes": 1,
+  "added": "2026-11-04T07:57:18Z"
+ },
+ {
+  "id": "50bbcdb080cd2b84",
+  "source_url": "https://www.dw.com/en/us-midterms-democrats-gain-control-of-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "US midterms: Democrats gain control of House and Senate from Republicans",
+  "source_summary": "The Democratic Party gained control of the House and Senate, delivering a stinging rebuke to US President Donald Trump and his Republican Party. Follow DW's live updates.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79850193_6.jpg",
+  "published": "2026-11-04T07:38:00+00:00",
+  "headline": "Democrats Secure Both House and Senate in Midterm Upset",
+  "body": [
+   {
+    "type": "p",
+    "text": "In the latest U.S. midterm elections, the Democratic Party won a majority in both the House of Representatives and the Senate, ending Republican control of Congress. The results were seen as a direct rebuke of President Donald Trump and his party's agenda."
+   },
+   {
+    "type": "p",
+    "text": "The shift gives Democrats the legislative power to advance their policy priorities without needing Republican support, while Republicans will move to the opposition benches. The outcome also reshapes the political landscape ahead of the upcoming presidential election cycle."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the dual chamber victory could influence U.S. domestic and foreign policy decisions, affecting issues ranging from economic measures to international cooperation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Control of Congress determines the U.S. legislative agenda, impacting transatlantic trade, security cooperation, and climate initiatives that affect European partners."
+   }
+  ],
+  "key_points": [
+   "Democrats now control both chambers of Congress after the midterm elections.",
+   "The results are interpreted as a rebuke of President Donald Trump and Republican policies."
+  ],
+  "meta_description": "Democrats win House and Senate in midterms, delivering a rebuke to President Donald Trump and reshaping U.S. politics.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "U.S. elections",
+   "Democratic Party",
+   "Republican Party",
+   "Congress",
+   "Donald Trump",
+   "midterms"
+  ],
+  "slug": "democrats-secure-both-house-senate-midterm-upset-50bbcd",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T07:57:35Z"
+ },
+ {
+  "id": "ef66b94ce0de5327",
+  "source_url": "https://www.nytimes.com/2026/11/04/us/politics/democratic-newcomers-congress.html",
+  "source": "The New York Times",
+  "source_title": "These Wins Could Mint a New Generation of Democratic Stars",
+  "source_summary": "Voters from South Carolina to Ohio to Texas have elevated a new class of Democrats who could not be more different from one another.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Elections, Senate",
+   "Elections, House of Representatives",
+   "Elections, Governors",
+   "Democratic Party",
+   "Republican Party",
+   "Democratic Socialists of America",
+   "Talarico, James",
+   "Andrews, Annie (1980- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04pol-new-stars-01-zgkc/04pol-new-stars-01-zgkc-mediumSquareAt3X.jpg",
+  "published": "2026-11-04T07:35:38+00:00",
+  "headline": "Diverse New Wave of Democrats Wins Seats From South Carolina to Texas",
+  "body": [
+   {
+    "type": "p",
+    "text": "Recent elections have lifted a varied cohort of Democratic candidates from states as far apart as South Carolina, Ohio and Texas.  The winners differ markedly in background, policy focus and regional outlook, signaling a broader shift within the party’s electoral base."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the newcomers represent a mix of urban progressives, suburban moderates and rural reformers, each bringing distinct priorities to state and national legislatures.  Their victories suggest that voters are rewarding candidates who can connect with local concerns while aligning with broader Democratic goals."
+   },
+   {
+    "type": "p",
+    "text": "Party leaders see the influx of these officials as an opportunity to refresh the Democratic agenda and appeal to a wider electorate ahead of upcoming midterm contests.  The diversity of the group may also influence the party’s strategy on issues ranging from economic development to climate policy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The emergence of a heterogeneous Democratic bench could reshape U.S. policy debates and affect transatlantic cooperation on shared issues such as trade and climate action."
+   }
+  ],
+  "key_points": [
+   "Democrats have won seats in South Carolina, Ohio and Texas with a highly diverse group of candidates.",
+   "The new legislators span urban, suburban and rural constituencies, offering varied policy perspectives.",
+   "Party officials view the cohort as a chance to broaden appeal before the next midterm elections."
+  ],
+  "meta_description": "A new, diverse group of Democrats wins seats from South Carolina to Texas, offering fresh perspectives for upcoming elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Democrats",
+   "elections",
+   "new generation",
+   "diversity",
+   "US politics",
+   "midterms"
+  ],
+  "slug": "diverse-new-wave-democrats-wins-seats-from-south-carolina-ef66b9",
+  "reading_minutes": 1,
+  "added": "2026-11-04T07:57:22Z"
+ },
+ {
+  "id": "5bf2f4786a3ad482",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+  "source": "The Guardian",
+  "source_title": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+  "source_summary": "Democrat defeats Mike Rogers in race marked by Islamophobic attacks from Trump and Republican allies Abdul El-Sayed, the doctor and progressive insurgent, has made history in winning the closely watched US Senate race in Michigan, defeating the Republican Mike Rogers and becoming the country’s first Muslim senator. El-Sayed’s victory adds to a decisive Democratic majority in the Senate after the party wrested control of the upper chamber on Tuesday.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "Michigan",
+   "US news",
+   "Democrats",
+   "US Senate",
+   "US politics",
+   "Super Pacs"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/962825a1cc0faaec411418d7850b922d8dd48894/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=bbecb061621e8d3c43960b285937e095",
+  "published": "2026-11-04T07:32:42+00:00",
+  "headline": "Abdul El‑Sayed Wins Michigan Senate, Becomes First Muslim Senator",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic challenger Abdul El‑Sayed, a physician and progressive activist, defeated Republican incumbent Mike Rogers in Michigan’s closely watched U.S. Senate race. The victory makes El‑Sayed the first Muslim to serve in the United States Senate."
+   },
+   {
+    "type": "p",
+    "text": "El‑Sayed’s campaign faced a wave of Islamophobic attacks, including statements from former President Donald Trump and other Republican allies. Despite the rhetoric, the election result added to the Democratic Party’s decisive majority in the Senate, which it secured earlier in the week."
+   },
+   {
+    "type": "p",
+    "text": "The win marks a historic milestone for religious diversity in American politics and underscores the growing influence of progressive candidates in traditionally competitive swing states."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The election expands religious representation in U.S. government and solidifies the Democratic control of the Senate, affecting legislative agendas on both sides of the Atlantic."
+   }
+  ],
+  "key_points": [
+   "Abdul El‑Sayed became the first Muslim U.S. senator after beating Republican Mike Rogers in Michigan.",
+   "The race featured prominent Islamophobic attacks from Trump and other Republicans.",
+   "El‑Sayed’s victory strengthens the Democratic majority in the Senate."
+  ],
+  "meta_description": "Abdul El‑Sayed wins Michigan Senate, becoming the first Muslim U.S. senator and boosting the Democratic majority.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Michigan",
+   "U.S. Senate",
+   "Abdul El‑Sayed",
+   "Muslim representation",
+   "Democratic majority"
+  ],
+  "slug": "abdul-elsayed-wins-michigan-senate-becomes-first-muslim-senator-5bf2f4",
+  "reading_minutes": 1,
+  "added": "2026-11-04T07:57:50Z"
+ },
+ {
+  "id": "7f280f946fc74fe5",
+  "source_url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o",
+  "source": "BBC News",
+  "source_title": "South Carolina elects Democratic senator for first time in almost three decades",
+  "source_summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a3/live/caaae0c0-d822-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-04T07:32:02+00:00",
+  "headline": "South Carolina Elects Democratic Senator for First Time in 30 Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "Annie Andrews has been projected to win the U.S. Senate race in South Carolina, marking the state's first Democratic senator in almost three decades. The election follows the death of the previous officeholder, whose seat was temporarily filled by a candidate selected by former President Donald Trump."
+   },
+   {
+    "type": "p",
+    "text": "The Republican contender, Darline Graham, was handpicked by Trump to succeed her late brother’s seat. Despite the high-profile endorsement, Andrews secured a decisive lead in the vote count, according to the latest projections."
+   },
+   {
+    "type": "p",
+    "text": "Andrews' victory reflects a notable shift in voter sentiment in a traditionally Republican stronghold, potentially influencing the balance of power in the Senate as the new term begins."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The win alters the partisan composition of the Senate and highlights a rare Democratic breakthrough in a deep-red state, relevant for U.S. and European observers of American politics."
+   }
+  ],
+  "key_points": [
+   "Annie Andrews is projected to become South Carolina's first Democratic senator in nearly 30 years.",
+   "Republican Darline Graham was appointed by former President Trump but lost the election.",
+   "The result could affect Senate dynamics and signal changing political trends in the South."
+  ],
+  "meta_description": "Annie Andrews projected to win South Carolina Senate seat, the first Democratic win there in almost 30 years, defeating Trump‑backed Darline Graham.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "South Carolina",
+   "Senate election",
+   "Democratic win",
+   "Annie Andrews",
+   "Darline Graham",
+   "U.S. politics"
+  ],
+  "slug": "south-carolina-elects-democratic-senator-first-time-30-years-7f280f",
+  "reading_minutes": 1,
+  "added": "2026-11-04T07:57:46Z"
+ },
+ {
+  "id": "43d16c1970abe6ad",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do",
+  "source": "BBC News",
+  "source_title": "Poundland supplier 'will lose millions' if retailer collapses",
+  "source_summary": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222a/live/3804e900-d7be-11f1-8a3d-5320e3fab176.jpg",
+  "published": "2026-11-04T07:31:21+00:00",
+  "headline": "Poundland Supplier Faces Multi‑Million Loss If Retailer Fails",
+  "body": [
+   {
+    "type": "p",
+    "text": "A supplier to the UK discount chain Poundland has warned that it would lose millions of pounds if the retailer were to collapse. The warning highlights the financial exposure that suppliers have to the fortunes of large discount retailers."
+   },
+   {
+    "type": "p",
+    "text": "Other suppliers to Poundland have gone further, stating that a collapse of the chain could force them out of business entirely. The comments underscore the dependence of many small and medium‑sized manufacturers on the steady demand generated by Poundland’s extensive network of stores."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that such supplier vulnerabilities could have broader implications for the discount retail sector, potentially affecting product availability and pricing for consumers if a major player were to falter."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The potential fallout could ripple through the UK discount market, affecting product supply and pricing for shoppers across Europe and beyond."
+   }
+  ],
+  "key_points": [
+   "A Poundland supplier says it would lose millions if the retailer collapses.",
+   "Additional suppliers claim they could go out of business under the same scenario.",
+   "The situation illustrates the financial risk that suppliers face from large discount chains."
+  ],
+  "meta_description": "A Poundland supplier warns of multi‑million losses if the retailer fails, while other suppliers say they could go under.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Poundland",
+   "supplier",
+   "retail",
+   "supply chain",
+   "UK retail",
+   "discount stores"
+  ],
+  "slug": "poundland-supplier-faces-multimillion-loss-if-retailer-fails-43d16c",
+  "reading_minutes": 1,
+  "added": "2026-11-04T07:57:26Z"
+ },
+ {
+  "id": "bf2e0fd7d6aeffd3",
+  "source_url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
+  "source": "The New York Times",
+  "source_title": "Bomb Threats Disrupt Several Flights Across Europe",
+  "source_summary": "Officials are investigating threats against at least seven planes. The aircraft landed safely and no explosives were found, the authorities said.",
+  "source_tags": [
+   "Airlines and Airplanes",
+   "Bombs and Explosives",
+   "Threats and Threatening Messages"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-europe-bomb-threats-wqfj/03int-europe-bomb-threats-wqfj-mediumSquareAt3X.jpg",
+  "published": "2026-11-04T07:29:45+00:00",
+  "headline": "Bomb Threats Disrupt Multiple European Flights, All Land Safely",
+  "body": [
+   {
+    "type": "p",
+    "text": "European aviation authorities are probing bomb threats that affected at least seven scheduled flights on Monday. The alerts prompted emergency procedures, but each aircraft completed its journey and touched down without incident."
+   },
+   {
+    "type": "p",
+    "text": "Security teams inspected the planes after landing and found no explosives or suspicious devices. Officials emphasized that the investigations are ongoing and that the threats appear to have been hoaxes rather than actual plots."
+   },
+   {
+    "type": "p",
+    "text": "Travelers experienced delays and heightened security checks, though no injuries were reported. The coordinated response demonstrated the readiness of European airports to manage potential terror threats while maintaining passenger safety."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The events highlight ongoing security challenges for transatlantic travelers and underscore the importance of rapid response protocols in European air travel."
+   }
+  ],
+  "key_points": [
+   "Bomb threats forced the diversion and inspection of seven European flights, but all landed safely.",
+   "Authorities found no explosives and continue to investigate the source of the threats.",
+   "The incidents caused travel delays and heightened security measures across affected airports."
+  ],
+  "meta_description": "Bomb threats disrupted seven European flights on Monday; all planes landed safely and no explosives were found, prompting ongoing investigations.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "bomb threat",
+   "aviation safety",
+   "Europe",
+   "flight disruptions",
+   "security"
+  ],
+  "slug": "bomb-threats-disrupt-multiple-european-flights-all-land-safely-bf2e0f",
+  "reading_minutes": 1,
+  "added": "2026-11-04T07:57:58Z"
+ },
+ {
+  "id": "d97d56f6980a5020",
+  "source_url": "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
+  "source": "NPR",
+  "source_title": "Democrat Abdul El-Sayed defeats Republican Mike Rogers in key Michigan Senate race",
+  "source_summary": "El-Sayed's campaign tested how an antiestablishment candidate on the left would fare in a perennial Midwest battleground. With the win, he'll become the first Muslim American to serve in the Senate.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F9f%2F085af6944a96884a0918ee82798c%2Fgettyimages-2301843751.jpg",
+  "published": "2026-11-04T07:28:02+00:00",
+  "headline": "Democrat Abdul El‑Sayed Beats Republican Mike Rogers in Michigan Senate Race",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democrat Abdul El‑Sayed won the Michigan Senate race, defeating Republican state senator Mike Rogers. The contest was seen as a test of how an anti‑establishment, progressive candidate could perform in a traditionally competitive Midwestern battleground."
+   },
+   {
+    "type": "p",
+    "text": "El‑Sayed’s victory makes him the first Muslim American to serve in the United States Senate, marking a historic milestone for religious representation in federal office."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result signals a shift in voter openness to progressive candidates in swing states and adds a new dimension to religious diversity in the Senate."
+   }
+  ],
+  "key_points": [
+   "Abdul El‑Sayed, a Democrat, defeated Republican Mike Rogers in Michigan’s Senate contest.",
+   "His win makes him the first Muslim American senator in U.S. history."
+  ],
+  "meta_description": "Democrat Abdul El‑Sayed defeats Republican Mike Rogers in Michigan, becoming the first Muslim American U.S. senator.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Michigan",
+   "U.S. Senate",
+   "Democratic Party",
+   "Republican Party",
+   "Muslim American",
+   "election 2026"
+  ],
+  "slug": "democrat-abdul-elsayed-beats-republican-mike-rogers-michigan-senate-d97d56",
+  "reading_minutes": 1,
+  "added": "2026-11-04T07:58:02Z"
+ },
+ {
+  "id": "15108311fdbcee34",
+  "source_url": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
+  "source": "The New York Times",
+  "source_title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
+  "source_summary": "On TV, the outcome of the midterm elections became clear early on. Pundits celebrated and grieved by turns.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "United States Politics and Government",
+   "Television",
+   "News and News Media",
+   "CNN",
+   "Fox News Channel",
+   "MS NOW",
+   "National Broadcasting Co",
+   "Baier, Bret",
+   "Gutfeld, Greg"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-11-04T06:22:18+00:00",
+  "headline": "Midterm Results Clear Early on TV as Pundits Celebrate and Mourn",
+  "body": [
+   {
+    "type": "p",
+    "text": "Television networks reported that the outcome of the 2026 midterm elections became evident early in the evening, allowing viewers to see the emerging balance of power before the night concluded. As the results unfolded, news anchors and analysts provided real‑time updates that highlighted which parties were gaining ground and which were losing it."
+   },
+   {
+    "type": "p",
+    "text": "The swift clarity sparked a wave of contrasting emotions among political commentators. Some pundits expressed celebration, pointing to gains for their preferred candidates, while others voiced disappointment, lamenting setbacks for the parties they support. Their reactions alternated between upbeat commentary and somber analysis as the vote count progressed."
+   },
+   {
+    "type": "p",
+    "text": "These televised reactions underscored the polarized nature of the current political climate, with experts on both sides using the early results to frame narratives about the upcoming legislative agenda and the broader direction of U.S. politics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Early clarity on election results shapes public perception and influences political discourse in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "TV coverage showed the midterm election outcome becoming clear early in the night.",
+   "Pundits alternated between celebration and disappointment as results unfolded."
+  ],
+  "meta_description": "Midterm election results were evident early on TV, prompting pundits to celebrate wins and mourn losses.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterms",
+   "election results",
+   "TV coverage",
+   "pundits",
+   "political analysis"
+  ],
+  "slug": "midterm-results-clear-early-tv-pundits-celebrate-mourn-151083",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T07:57:38Z"
+ },
+ {
+  "id": "1a955dc22bf755bf",
+  "source_url": "https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html",
+  "source": "The New York Times",
+  "source_title": "How the Stock Market Is Reacting to the Midterm Elections",
+  "source_summary": "U.S. stock futures and Asian semiconductor shares dropped as investors weighed the future of the artificial intelligence boom.",
+  "source_tags": [
+   "Midterm Elections (2026)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-midterms-stocks-mjvc/03biz-midterms-stocks-mjvc-mediumSquareAt3X.jpg",
+  "published": "2026-11-04T05:41:51+00:00",
+  "headline": "US Stock Futures Slip as Midterm Outlook Dampens AI Boom Hopes",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. stock futures fell on Sunday following the release of midterm election projections, signaling investor caution ahead of the November vote. The decline came as market participants assessed how potential policy shifts could affect the rapidly expanding artificial intelligence sector."
+   },
+   {
+    "type": "p",
+    "text": "Asian markets mirrored the sentiment, with semiconductor shares in the region dropping sharply. Traders cited concerns that a change in congressional control might alter funding and regulatory frameworks that have been fueling the AI surge."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that while the AI boom continues to drive growth in tech, uncertainty surrounding election outcomes can quickly sway sentiment, prompting short‑term pullbacks in both U.S. and Asian equities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The election could reshape U.S. tech policy, influencing AI investment and supply chains that affect both American and European markets."
+   }
+  ],
+  "key_points": [
+   "U.S. stock futures declined as investors evaluated midterm election implications for AI.",
+   "Asian semiconductor stocks also fell, reflecting global sensitivity to U.S. political risk.",
+   "The AI sector's momentum may be tempered by policy uncertainty ahead of the November vote."
+  ],
+  "meta_description": "US stock futures and Asian semiconductor shares drop as investors weigh midterm election impact on the AI boom.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterm elections",
+   "stock market",
+   "artificial intelligence",
+   "semiconductors",
+   "investor sentiment"
+  ],
+  "slug": "us-stock-futures-slip-midterm-outlook-dampens-ai-boom-1a955d",
+  "reading_minutes": 1,
+  "added": "2026-11-04T07:57:54Z"
+ },
+ {
+  "id": "a007c586a31ad83f",
+  "source_url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+  "source": "TechCrunch",
+  "source_title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+  "source_summary": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+  "source_tags": [
+   "Apps",
+   "India",
+   "microdramas",
+   "NBCUniversal"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-2.32.22-PM.jpeg?resize=1200,675",
+  "published": "2026-11-04T04:45:00+00:00",
+  "headline": "EloElo Secures $80M from NBCUniversal to Expand India Microdrama Platform",
+  "body": [
+   {
+    "type": "p",
+    "text": "Indian short‑form video startup EloElo has raised an $80 million financing round led by NBCUniversal, according to a TechCrunch report dated November 4, 2026. The funding will be used to develop and distribute microdrama content, a genre that has been gaining traction among Indian viewers."
+   },
+   {
+    "type": "p",
+    "text": "The investment follows data from analytics firm Sensor Tower showing that EloElo’s StoryTV service now attracts more than 33 million monthly active users. NBCUniversal’s involvement signals major media companies’ interest in tapping the fast‑growing Indian micro‑entertainment market."
+   },
+   {
+    "type": "p",
+    "text": "EloElo plans to allocate the capital toward content creation, platform enhancements, and expanding its reach across regional languages, aiming to capture a larger share of the country’s burgeoning short‑form video audience."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The deal highlights growing investor confidence in India's short‑form video sector, a market that could present new opportunities for global media firms and advertisers."
+   }
+  ],
+  "key_points": [
+   "EloElo received $80 million from NBCUniversal to scale its microdrama platform in India.",
+   "StoryTV, EloElo’s flagship service, reports over 33 million monthly active users.",
+   "The funding will support content production, technology upgrades, and regional expansion."
+  ],
+  "meta_description": "EloElo raises $80M from NBCUniversal to grow its Indian microdrama platform, now serving over 33M monthly users.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "microdrama",
+   "investment",
+   "NBCUniversal",
+   "streaming",
+   "StoryTV"
+  ],
+  "slug": "eloelo-secures-80m-from-nbcuniversal-expand-india-microdrama-platform-a007c5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-04T07:57:30Z"
+ },
+ {
+  "id": "1965c7f85c2d7549",
+  "source_url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+  "source": "The Verge",
+  "source_title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+  "source_summary": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next quarter of $17 billion. The company's data center business is […]",
+  "source_tags": [
+   "AMD",
+   "Business",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-04T01:15:34+00:00",
+  "headline": "AMD Reports Record $13.4 Billion Revenue, Calls Quarter Most Profitable Ever",
+  "body": [
+   {
+    "type": "p",
+    "text": "AMD said its third quarter of 2026 was the \"largest and most profitable in our history,\" CEO Lisa Su told analysts during the earnings call on Tuesday. The company posted a record $13.4 billion in revenue for the quarter."
+   },
+   {
+    "type": "p",
+    "text": "The surge was driven largely by the data‑center segment, which continues to expand as customers adopt AMD’s processors for cloud and AI workloads. The firm expects the momentum to accelerate, projecting $17 billion in revenue for the next quarter."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the strong performance underscores AMD’s growing competitiveness against rivals in the high‑performance computing market, while the outlook suggests continued growth in the sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The results signal a shift in the semiconductor landscape, with AMD challenging rivals and potentially influencing pricing and supply for U.S. and European tech firms."
+   }
+  ],
+  "key_points": [
+   "AMD’s Q3 2026 revenue hit a record $13.4 billion, the highest in the company’s history.",
+   "CEO Lisa Su highlighted the data‑center business as the primary driver of growth.",
+   "The company forecasts $17 billion in revenue for the upcoming quarter."
+  ],
+  "meta_description": "AMD reports a record $13.4 billion revenue in Q3 2026, calling it its most profitable quarter and forecasting $17 billion next quarter.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AMD",
+   "quarterly earnings",
+   "data center",
+   "semiconductor",
+   "revenue record"
+  ],
+  "slug": "amd-reports-record-13-4-billion-revenue-calls-quarter-1965c7",
+  "reading_minutes": 1,
+  "added": "2026-11-04T07:57:42Z"
+ },
+ {
   "id": "9aa87a974061ab8d",
   "source_url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
