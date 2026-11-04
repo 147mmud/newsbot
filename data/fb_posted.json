@@ -1700,9 +1700,10 @@
  },
  "7a7257c5db3f3af2": {
   "link": "https://thepressandscore.com/news/rian-johnson-builds-custom-iphone-camera-app-blend-analog-7a7257/",
-  "status": "posting",
+  "note": "reconciled",
+  "status": "failed",
   "title": "Rian Johnson Builds Custom iPhone Camera App to Blend Analog and Digital",
-  "ts": "2026-11-04T16:25:41Z"
+  "ts": "2026-11-04T22:09:15Z"
  },
  "7aa7ab3f9af082e2": {
   "status": "bootstrap",
