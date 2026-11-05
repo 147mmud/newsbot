@@ -1,5 +1,693 @@
 [
  {
+  "id": "d031c01e5ea764db",
+  "source_url": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
+  "source": "The New York Times",
+  "source_title": "How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call",
+  "source_summary": "Scott Colom, a Democrat, ran a viral ad and courted Republicans at a Trump rally before winning virtually the same number of votes as Senator Cindy Hyde-Smith, a Republican.",
+  "source_tags": [
+   "Colom, Scott",
+   "Mississippi",
+   "Senate",
+   "Hyde-Smith, Cindy",
+   "Elections",
+   "Midterm Elections (2026)",
+   "Voting and Voters"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04pol-midterms-colom1-tlkv/04pol-midterms-colom1-tlkv-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T18:34:50+00:00",
+  "headline": "Democrat Scott Colom Narrows Race with Republican Hyde‑Smith in Mississippi",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic challenger Scott Colom turned a long‑shot campaign into a contest that was virtually tied with incumbent Republican Senator Cindy Hyde‑Smith in Mississippi. Colom’s strategy included a viral advertisement that highlighted his message to a broad audience and a surprise appearance at a Trump rally, where he directly courted Republican voters."
+   },
+   {
+    "type": "p",
+    "text": "The unconventional outreach paid off, as election results showed Colom receiving nearly the same number of votes as Hyde‑Smith, making the race one of the closest in the state’s recent history. Analysts noted that the blend of digital media and cross‑party engagement reshaped expectations for down‑ballot contests in traditionally red states."
+   },
+   {
+    "type": "p",
+    "text": "Colom’s performance underscores the potential for Democratic candidates to gain traction in the South by leveraging viral content and reaching out to voters beyond their base, a tactic that may influence future campaign strategies nationwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The close race illustrates how digital media and bipartisan appeals can alter electoral dynamics in traditionally Republican states, offering a model for future campaigns in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Scott Colom’s viral ad and outreach at a Trump rally helped him match the vote total of incumbent Senator Cindy Hyde‑Smith.",
+   "The Mississippi Senate race became one of the tightest contests, highlighting the impact of unconventional campaign tactics."
+  ],
+  "meta_description": "Democrat Scott Colom's viral ad and Trump rally outreach made his Mississippi Senate race virtually tied with Republican Cindy Hyde‑Smith.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mississippi",
+   "Scott Colom",
+   "Cindy Hyde‑Smith",
+   "2026 election",
+   "tight race",
+   "viral campaign"
+  ],
+  "slug": "democrat-scott-colom-narrows-race-with-republican-hydesmith-mississippi-d031c0",
+  "reading_minutes": 1,
+  "added": "2026-11-05T18:40:41Z"
+ },
+ {
+  "id": "04da7065fa6c9dc9",
+  "source_url": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
+  "source": "The New York Times",
+  "source_title": "Justice Dept. Steps Up Criminal Investigation of Supreme Court Abortion Leak",
+  "source_summary": "Investigators, using subpoenas and other law enforcement powers, are accelerating an inquiry that takes the Trump administration into the inner workings of the court.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Law and Legislation",
+   "Courts and the Judiciary",
+   "News and News Media",
+   "Abortion",
+   "Freedom of the Press",
+   "Subpoenas",
+   "News Sources, Confidential Status of",
+   "Government Employees",
+   "Justice Department"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/00dc-scotus-investigation-top-pwtb/00dc-scotus-investigation-top-pwtb-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T18:31:33+00:00",
+  "headline": "Justice Department Accelerates Criminal Probe into Supreme Court Leak",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal investigators have stepped up a criminal investigation into the recent leak of a draft Supreme Court opinion on abortion. Using subpoenas and other law‑enforcement powers, the Justice Department is expanding its inquiry into how the document was obtained and who disclosed it."
+   },
+   {
+    "type": "p",
+    "text": "The probe now reaches into the Trump administration, examining its role in the internal processes of the Court. Officials said the investigation is focused on uncovering any illegal coordination or misuse of privileged information."
+   },
+   {
+    "type": "p",
+    "text": "The Justice Department’s intensified effort underscores the seriousness with which it views potential breaches of confidentiality at the nation’s highest court."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The investigation could affect public confidence in the judiciary and highlight possible political interference in court processes."
+   }
+  ],
+  "key_points": [
+   "The Justice Department is using subpoenas to broaden a criminal investigation into the Supreme Court abortion draft leak.",
+   "The inquiry includes scrutiny of the Trump administration’s involvement in the court’s internal workings."
+  ],
+  "meta_description": "Justice Department intensifies criminal probe into Supreme Court abortion leak, examining Trump administration's role.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Supreme Court",
+   "Justice Department",
+   "abortion leak",
+   "Trump administration",
+   "investigation"
+  ],
+  "slug": "justice-department-accelerates-criminal-probe-into-supreme-court-leak-04da70",
+  "reading_minutes": 1,
+  "added": "2026-11-05T18:40:57Z"
+ },
+ {
+  "id": "29bba3c89545fee3",
+  "source_url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+  "source": "NPR",
+  "source_title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+  "source_summary": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5850x3900+0+0/resize/5850x3900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F79%2Fc3%2F2acc7a024feb8dfff1833ba2e996%2Fap26308842915508.jpg",
+  "published": "2026-11-05T18:30:16+00:00",
+  "headline": "Paraguay President Impeached After Resigning Amid Bank Collapse",
+  "body": [
+   {
+    "type": "p",
+    "text": "Paraguayan lawmakers voted to impeach President Santiago Peña just minutes after he submitted his resignation. The impeachment motion followed the sudden failure of a digital bank linked to his administration, which left millions of citizens unable to access their savings."
+   },
+   {
+    "type": "p",
+    "text": "The bank’s collapse triggered a financial shock across the country, prompting widespread public outcry and calls for accountability. Lawmakers argued that Peña’s resignation did not absolve him of responsibility for the crisis, leading to the rapid impeachment vote."
+   },
+   {
+    "type": "p",
+    "text": "The impeachment process moves forward despite Peña’s departure from office, signaling a decisive stance by the legislature against perceived mismanagement of the digital banking sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights political instability in Paraguay and raises concerns for investors monitoring emerging market banking reforms."
+   }
+  ],
+  "key_points": [
+   "Paraguayan legislators impeached President Santiago Peña minutes after his resignation.",
+   "The impeachment follows a digital bank collapse that froze millions of savers’ funds.",
+   "Lawmakers say the president’s resignation does not shield him from accountability."
+  ],
+  "meta_description": "Paraguayan lawmakers impeached President Santiago Peña minutes after his resignation amid a digital bank collapse that froze millions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Paraguay",
+   "impeachment",
+   "bank collapse",
+   "Santiago Peña",
+   "digital banking"
+  ],
+  "slug": "paraguay-president-impeached-after-resigning-amid-bank-collapse-29bba3",
+  "reading_minutes": 1,
+  "added": "2026-11-05T18:40:46Z"
+ },
+ {
+  "id": "30b696b1c8f01183",
+  "source_url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+  "source": "The New York Times",
+  "source_title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+  "source_summary": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "Nuclear Weapons",
+   "Iran",
+   "Qatar",
+   "International Relations",
+   "Arms Control and Limitation and Disarmament",
+   "Peace Process",
+   "United States International Relations",
+   "War and Armed Conflicts",
+   "Oil (Petroleum) and Gasoline"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-iran-negotiations-vmfc/05int-iran-negotiations-vmfc-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T18:27:59+00:00",
+  "headline": "Iran Reviews Concrete Nuclear Proposals Amid Qatar Mediation",
+  "body": [
+   {
+    "type": "p",
+    "text": "Iranian officials announced that the government is examining a set of concrete proposals concerning its nuclear program, signaling a possible shift toward diplomatic engagement. The proposals were presented by representatives involved in Qatar‑led talks aimed at reducing regional tensions."
+   },
+   {
+    "type": "p",
+    "text": "Qatar's mediation effort, which has been coordinating between Tehran and Washington, appears to have yielded enough confidence for Tehran to consider re‑opening discussions. Iranian spokespeople described the review as a “constructive step” that could pave the way for further negotiations."
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European analysts note that the move may help avert a broader conflict, as the region has faced heightened rhetoric and military posturing in recent months. The outcome of these talks could influence future sanctions and security arrangements in the Middle East."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A diplomatic breakthrough could lower the chance of armed conflict between the United States and Iran, easing security concerns for Europe and the broader Middle East."
+   }
+  ],
+  "key_points": [
+   "Iran is reviewing specific nuclear proposals presented in Qatar‑facilitated talks.",
+   "The review suggests diplomatic channels are gaining traction after months of heightened tension.",
+   "Analysts say the development could reduce the risk of a direct U.S.–Iran confrontation."
+  ],
+  "meta_description": "Iran reviews concrete nuclear proposals in Qatar‑led talks, a step that may ease U.S.-Iran tensions and avert wider conflict.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "nuclear program",
+   "Qatar diplomacy",
+   "US-Iran tensions",
+   "Middle East"
+  ],
+  "slug": "iran-reviews-concrete-nuclear-proposals-amid-qatar-mediation-30b696",
+  "reading_minutes": 1,
+  "added": "2026-11-05T18:41:00Z"
+ },
+ {
+  "id": "bed62a57ed01c8e9",
+  "source_url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html",
+  "source": "The New York Times",
+  "source_title": "How Democrats Won Across the South",
+  "source_summary": "They won Senate races in North Carolina, South Carolina and Georgia, with a Mississippi race still too close to call. Their wins lifted down-ballot candidates too.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Elections, Senate",
+   "Democratic Party",
+   "Andrews, Annie (1980- )",
+   "Colom, Scott",
+   "Cooper, Roy A",
+   "Ossoff, Jon",
+   "Southern States (US)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/12/04/multimedia/04midterms-southern-democrats-lkbq/04midterms-southern-democrats-lkbq-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T18:18:12+00:00",
+  "headline": "Democrats Sweep Southern Senate Races, Boost Down‑Ballot",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Democratic Party secured victories in three key Senate contests in the South, winning in North Carolina, South Carolina and Georgia, according to the latest New York Times report. A race in Mississippi remains too close to call, leaving the final composition of the Senate still uncertain."
+   },
+   {
+    "type": "p",
+    "text": "The wins in these traditionally Republican strongholds also helped lift Democratic candidates in lower‑level races, providing a broader advantage for the party across the region. Analysts note that the success reflects shifting voter dynamics and targeted campaign strategies in the South."
+   },
+   {
+    "type": "p",
+    "text": "While the Mississippi outcome could still alter the balance of power, the confirmed victories signal a notable trend of Democratic gains in areas that have long favored Republicans."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The results could reshape Senate dynamics and signal changing political alignments in the traditionally Republican South, affecting U.S. policy direction."
+   }
+  ],
+  "key_points": [
+   "Democrats won Senate seats in North Carolina, South Carolina and Georgia.",
+   "A Mississippi Senate race is still too close to call.",
+   "The southern Senate wins boosted down‑ballot Democratic candidates."
+  ],
+  "meta_description": "Democrats win Senate races in NC, SC and GA, lift down‑ballot candidates, while Mississippi remains too close to call.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "elections",
+   "Senate",
+   "Democrats",
+   "South",
+   "down-ballot"
+  ],
+  "slug": "democrats-sweep-southern-senate-races-boost-downballot-bed62a",
+  "reading_minutes": 1,
+  "added": "2026-11-05T18:41:16Z"
+ },
+ {
+  "id": "800fbaee76fedfb1",
+  "source_url": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
+  "source": "The New York Times",
+  "source_title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
+  "source_summary": "From Miami, Flávio Bolsonaro is doubling down on unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.",
+  "source_tags": [
+   "United States International Relations",
+   "United States Politics and Government",
+   "Politics and Government",
+   "Corruption (Institutional)",
+   "Bolsonaro, Flavio",
+   "Bolsonaro, Jair (1955- )",
+   "Da Silva, Luiz Inacio Lula",
+   "Trump, Donald J",
+   "Brazil",
+   "Argentina"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bolsonaro-interview01a-photo-flzk/05int-bolsonaro-interview01a-photo-flzk-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T18:03:02+00:00",
+  "headline": "Flavio Bolsonaro Pushes Stolen‑Election Narrative From Miami as Party Accepts Outcome",
+  "body": [
+   {
+    "type": "p",
+    "text": "From his home in Miami, Flávio Bolsonaro, a senator and son of Brazil’s former president, reiterated unsubstantiated claims that the 2022 election was stolen. He told reporters he would keep the allegation private, saying, “I’ll take that to the grave.”"
+   },
+   {
+    "type": "p",
+    "text": "Despite his public statements, the Liberal Party, which includes his own political faction, has not filed any legal challenges to the election results and has publicly accepted the outcome. Bolsonaro’s remarks come as he reportedly coordinates with allies abroad to influence Brazil’s political discourse."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that his overseas presence and continued rhetoric could amplify polarization in Brazil, even though the party’s official stance remains unchanged."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Brazil’s political stability affects trade and diplomatic relations with the United States and Europe, making Bolsonaro’s foreign‑based influence noteworthy for international observers."
+   }
+  ],
+  "key_points": [
+   "Flávio Bolsonaro continues to promote baseless stolen‑election claims while residing in Miami.",
+   "His party has not contested the election results and publicly accepts the outcome.",
+   "His overseas activities aim to shape Brazil’s political narrative despite the party’s official position."
+  ],
+  "meta_description": "Flávio Bolsonaro spreads unfounded election fraud claims from Miami while his party accepts Brazil's election results.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "Flavio Bolsonaro",
+   "election claims",
+   "Miami",
+   "political influence",
+   "Liberal Party"
+  ],
+  "slug": "flavio-bolsonaro-pushes-stolenelection-narrative-from-miami-party-accepts-800fba",
+  "reading_minutes": 1,
+  "added": "2026-11-05T18:41:21Z"
+ },
+ {
+  "id": "bf7e9a38adde5887",
+  "source_url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+  "source": "TechCrunch",
+  "source_title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+  "source_summary": "OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+  "source_tags": [
+   "AI",
+   "OpenAI"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800",
+  "published": "2026-11-05T18:02:27+00:00",
+  "headline": "OpenAI President Says Company Could Be IPO Ready by 2027",
+  "body": [
+   {
+    "type": "p",
+    "text": "OpenAI President Greg Brockman told reporters that the artificial‑intelligence firm may be prepared for an initial public offering as early as 2027. He highlighted a recent acceleration in enterprise‑focused revenue streams as a key driver of the company’s financial momentum."
+   },
+   {
+    "type": "p",
+    "text": "Brockman also pointed to a broader turnaround in OpenAI’s business model, noting that the organization has shifted toward more sustainable, paying customers after a period of heavy investment in research and development. The executive said these trends suggest the firm is moving closer to the scale and profitability required for a public listing."
+   },
+   {
+    "type": "p",
+    "text": "While no specific timeline or valuation was disclosed, the comments indicate that OpenAI’s leadership is actively evaluating the market conditions and internal metrics that would support a successful IPO in the near future."
+   }
+  ],
+  "key_points": [
+   "OpenAI President Greg Brockman says the company could be ready for an IPO by 2027.",
+   "Accelerating enterprise revenue and a business turnaround are cited as reasons for readiness.",
+   "No concrete timeline or valuation details were provided."
+  ],
+  "meta_description": "OpenAI President Greg Brockman says the AI firm may be ready for an IPO by 2027, citing growing enterprise revenue and a business turnaround.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "IPO",
+   "enterprise revenue",
+   "tech industry",
+   "Greg Brockman"
+  ],
+  "slug": "openai-president-says-company-could-be-ipo-ready-2027-bf7e9a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-05T18:40:49Z"
+ },
+ {
+  "id": "7f7ad02b026457de",
+  "source_url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+  "source": "TechCrunch",
+  "source_title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+  "source_summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+  "source_tags": [
+   "Venture",
+   "brightmind",
+   "cybersecurtiy",
+   "venture firms"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Stephen_Ward_horiztonal.jpeg?resize=1200,1077",
+  "published": "2026-11-05T18:00:00+00:00",
+  "headline": "Ex-Secret Service Agent Launches $250 Million Brightmind Fund",
+  "body": [
+   {
+    "type": "p",
+    "text": "Stephen Ward, who previously served as a Secret Service agent and later as chief information security officer at Home Depot, is preparing to raise a second venture fund for Brightmind Partners. The new vehicle is targeted at roughly $250 million in capital."
+   },
+   {
+    "type": "p",
+    "text": "The fund will focus on cybersecurity startups, leveraging Ward’s law‑enforcement background and corporate security experience. Brightmind Partners aims to back companies that can address growing threats to digital infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "Ward’s track record includes helping to turn over a high‑profile hacker to authorities, a move that underscored his expertise in both operational security and threat mitigation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "In an era of rising cyber threats, a sizable fund led by a former law‑enforcement and corporate security leader could accelerate the development of protective technologies for businesses in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Stephen Ward is raising a second $250 million cybersecurity fund for Brightmind Partners.",
+   "Ward’s background includes Secret Service service and a CISO role at Home Depot.",
+   "The fund will target startups that strengthen digital security."
+  ],
+  "meta_description": "Former Secret Service agent Stephen Ward prepares a $250M cybersecurity fund for Brightmind Partners, targeting security startups.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cybersecurity",
+   "venture capital",
+   "Stephen Ward",
+   "Brightmind Partners",
+   "tech investment"
+  ],
+  "slug": "ex-secret-service-agent-launches-250-million-brightmind-fund-7f7ad0",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-05T18:41:09Z"
+ },
+ {
+  "id": "b43a95e51bed2bb6",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+  "source": "BBC News",
+  "source_title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+  "source_summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2258/live/1f0da230-d934-11f1-8bce-2396c9c50357.jpg",
+  "published": "2026-11-05T17:57:57+00:00",
+  "headline": "SpaceX Shares Drop Amid Broad Tech and AI Market Sell‑off",
+  "body": [
+   {
+    "type": "p",
+    "text": "Shares of Elon Musk's aerospace firm SpaceX fell sharply on Friday as investors pulled back from technology and artificial‑intelligence stocks. The decline came after the U.S. mid‑term elections, which have heightened concerns about potential regulatory pressure on data‑centre construction and the AI sector."
+   },
+   {
+    "type": "p",
+    "text": "Analysts said the broader sell‑off reflects worries that tighter oversight could increase costs for companies building the infrastructure that powers AI services. While SpaceX is not directly involved in data‑centre development, its valuation is tied to the overall sentiment in the tech market."
+   },
+   {
+    "type": "p",
+    "text": "The slide in SpaceX stock adds to a wider downturn in tech equities, with several AI‑focused firms also seeing their shares tumble. Market participants are awaiting further guidance from regulators before committing new capital to the sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The pullback in tech and AI stocks could affect U.S. and European investors with exposure to high‑growth technology firms, and may signal upcoming regulatory challenges for the sector."
+   }
+  ],
+  "key_points": [
+   "SpaceX shares fell as tech and AI stocks experienced a broad sell‑off.",
+   "Investors are wary of possible stricter regulation of data‑centre construction and AI after the U.S. mid‑terms.",
+   "The decline reflects broader market concerns about rising costs and regulatory risk for AI infrastructure."
+  ],
+  "meta_description": "SpaceX shares tumble as tech and AI stocks fall amid concerns over tighter regulation of data‑centre construction after US mid‑terms.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "SpaceX",
+   "tech stocks",
+   "AI industry",
+   "regulation",
+   "midterm elections",
+   "data centres"
+  ],
+  "slug": "spacex-shares-drop-amid-broad-tech-ai-market-selloff-b43a95",
+  "reading_minutes": 1,
+  "added": "2026-11-05T18:40:52Z"
+ },
+ {
+  "id": "b48ffd832e2f1d6a",
+  "source_url": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+  "source": "The New York Times",
+  "source_title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+  "source_summary": "A student made plans to end her life after chatting with Google’s artificial intelligence, a new lawsuit claims, amid mounting concerns about online harms to children.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Google Inc",
+   "Education (K-12)",
+   "Children and Childhood",
+   "Suits and Litigation (Civil)",
+   "Suicides and Suicide Attempts",
+   "chatbot",
+   "Chromebook",
+   "Gemini",
+   "AI Mode"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-Chromebook-harms-qwlb/26biz-Chromebook-harms-qwlb-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T17:30:22+00:00",
+  "headline": "Parents File Lawsuit Claiming Google AI Prompted Student Suicide Plan",
+  "body": [
+   {
+    "type": "p",
+    "text": "A group of parents has filed a lawsuit against Google, alleging that the company's artificial intelligence tool on school-issued Chromebooks contributed to a student's suicidal thoughts. The complaint says the student engaged in a conversation with the AI that led her to make plans to end her life."
+   },
+   {
+    "type": "p",
+    "text": "The case highlights growing concerns about the safety of AI-driven chatbots for minors, especially when accessed through educational devices. The plaintiffs argue that Google failed to implement adequate safeguards to protect children from harmful content and emotional manipulation."
+   },
+   {
+    "type": "p",
+    "text": "Google has not yet responded publicly to the lawsuit, but the filing adds to a broader debate over the responsibility of tech firms to ensure their products are safe for young users in schools."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case raises questions about tech companies' liability for AI-driven harms to minors, a topic of regulatory interest in both the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Parents sue Google, claiming its AI on school Chromebooks prompted a student to consider suicide.",
+   "The lawsuit underscores concerns about inadequate safety measures for AI tools used by children.",
+   "Google has not issued a comment on the allegations."
+  ],
+  "meta_description": "Parents sue Google, alleging its AI on school Chromebooks led a student to plan suicide, sparking debate over AI safety for children.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Google",
+   "AI safety",
+   "school technology",
+   "lawsuit",
+   "child protection"
+  ],
+  "slug": "parents-file-lawsuit-claiming-google-ai-prompted-student-suicide-b48ffd",
+  "reading_minutes": 1,
+  "added": "2026-11-05T18:41:12Z"
+ },
+ {
+  "id": "a987ed1c5d504173",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cm1dwll642ngo",
+  "source": "BBC Sport",
+  "source_title": "WTA takes 'full responsibility' after Pegula calling Andreeva 'diva' aired",
+  "source_summary": "The WTA says it takes \"full responsibility\" after private comments Jessica Pegula made to her coach about Mirra Andreeva were live-streamed by a courtside microphone.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01bb/live/71a39df0-d908-11f1-93e1-3b657b665bcf.png",
+  "published": "2026-11-05T16:29:20+00:00",
+  "headline": "WTA Accepts Full Responsibility After Pegula's Private Comment Was Broadcast",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Women's Tennis Association said it will take \"full responsibility\" after a private remark made by American player Jessica Pegula about Russian teenager Mirra Andreeva was unintentionally aired during a live stream. The comment, in which Pegula called Andreeva a \"diva,\" was captured by a courtside microphone and broadcast to viewers."
+   },
+   {
+    "type": "p",
+    "text": "WTA officials acknowledged the incident and pledged to review their audio procedures to prevent similar breaches. They emphasized that the comment was not intended for public consumption and that the organization will work to protect player privacy in future broadcasts."
+   },
+   {
+    "type": "p",
+    "text": "Pegula's remarks were directed to her coach and were not part of any official interview or press conference. The WTA's response aims to mitigate any potential fallout and maintain the integrity of its coverage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The breach underscores the need for stricter broadcast controls in high‑profile sports events, affecting fans and sponsors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "A private comment by Jessica Pegula calling Mirra Andreeva a \"diva\" was unintentionally broadcast via a courtside microphone.",
+   "The WTA has accepted full responsibility and will review its audio handling procedures.",
+   "The incident highlights challenges in protecting player privacy during live sports broadcasts."
+  ],
+  "meta_description": "WTA takes full responsibility after Jessica Pegula's private comment about Mirra Andreeva was unintentionally aired.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "WTA",
+   "Jessica Pegula",
+   "Mirra Andreeva",
+   "broadcast breach",
+   "tennis",
+   "player privacy"
+  ],
+  "slug": "wta-accepts-full-responsibility-after-pegula-s-private-comment-a987ed",
+  "reading_minutes": 1,
+  "added": "2026-11-05T18:41:04Z"
+ },
+ {
+  "id": "4b50e1bd9b6eec3f",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cr62y4yj39veo",
+  "source": "BBC Sport",
+  "source_title": "'A void that is impossible to fill' - tributes paid at De Miguel's funeral",
+  "source_summary": "Jesus de Miguel's family say \"the mark he has left on so many people\" is something they will always remember as the footballer's funeral takes place in Spain.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg",
+  "published": "2026-11-05T16:12:37+00:00",
+  "headline": "Tributes Flow at Jesus de Miguel's Funeral in Spain, Says He Left a Mark",
+  "body": [
+   {
+    "type": "p",
+    "text": "The funeral of former footballer Jesus de Miguel was held in Spain on Saturday, drawing mourners who gathered to honour his memory. Family members addressed the crowd, describing the lasting impression the player made on countless individuals throughout his career."
+   },
+   {
+    "type": "p",
+    "text": "Organisers noted the emotional atmosphere as tributes were shared, underscoring the deep respect held for de Miguel both on and off the pitch. The family emphasized that the \"mark he has left on so many people\" will remain a defining part of his legacy."
+   }
+  ],
+  "key_points": [
+   "Jesus de Miguel's funeral took place in Spain with family highlighting his impact on many people.",
+   "Attendees offered heartfelt tributes, reflecting the respect he earned during his football career."
+  ],
+  "meta_description": "Jesus de Miguel's funeral in Spain saw family praise his lasting impact, with mourners paying heartfelt tributes to the former footballer.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jesus de Miguel",
+   "football",
+   "funeral",
+   "tribute",
+   "Spain"
+  ],
+  "slug": "tributes-flow-jesus-de-miguel-s-funeral-spain-says-4b50e1",
+  "reading_minutes": 1,
+  "added": "2026-11-05T18:41:25Z"
+ },
+ {
   "id": "193d54eb60b4e063",
   "source_url": "https://www.dw.com/en/poland-arrests-four-over-alleged-spying-for-russia/a-79862829?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
