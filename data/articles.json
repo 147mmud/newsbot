@@ -1,5 +1,639 @@
 [
  {
+  "id": "193d54eb60b4e063",
+  "source_url": "https://www.dw.com/en/poland-arrests-four-over-alleged-spying-for-russia/a-79862829?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Poland arrests four over alleged spying for Russia",
+  "source_summary": "Poland has charged four people with espionage and says they were spying for Moscow. Two more have been accused of shipping military components to Russia.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/69105330_6.jpg",
+  "published": "2026-11-05T10:39:00+00:00",
+  "headline": "Poland Arrests Four for Alleged Russian Espionage, Two Charged With Exporting Military Parts in Warsaw Amid Security Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "Polish prosecutors said they have formally charged four individuals with espionage, accusing them of gathering information for Russia's intelligence services. The suspects were detained in Warsaw after investigators linked them to a network that allegedly transmitted classified data to Moscow."
+   },
+   {
+    "type": "p",
+    "text": "In a related case, two other persons face charges for allegedly transporting military components to Russia. Authorities claim the items, described as parts for weapons systems, were shipped without the required export permits, violating national and EU regulations."
+   },
+   {
+    "type": "p",
+    "text": "The arrests come as Poland intensifies its counter‑intelligence efforts following a series of security alerts across the region. Officials have not disclosed the identities of the accused or the specific nature of the information they are alleged to have supplied."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The cases highlight ongoing security tensions in Europe and underscore the importance of safeguarding military technology within NATO member states."
+   }
+  ],
+  "key_points": [
+   "Four people were arrested in Poland on suspicion of spying for Russia.",
+   "Two additional suspects are charged with illegally exporting military components to Russia."
+  ],
+  "meta_description": "Poland arrests four for alleged Russian espionage and charges two for illegal export of military parts, raising security concerns in Europe.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Poland",
+   "espionage",
+   "Russia",
+   "military exports",
+   "security"
+  ],
+  "slug": "poland-arrests-four-alleged-russian-espionage-two-charged-with-193d54",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-05T10:43:39Z"
+ },
+ {
+  "id": "bcf06149965b6542",
+  "source_url": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Finland court jails captain and crew member over Baltic cable sabotage",
+  "source_summary": "Finland seized the Fitburg freighter last year over the suspected sabotage of cables linking Helsinki and Tallinn. It's one of several incidents of damaged infrastructure in the Baltic since Russia's invasion of Ukraine.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/75369613_6.jpg",
+  "published": "2026-11-05T10:31:00+00:00",
+  "headline": "Finland Court Jails Captain and Crew Member for Baltic Cable Sabotage",
+  "body": [
+   {
+    "type": "p",
+    "text": "A Finnish court sentenced the captain and a crew member of the freighter Fitburg to prison after the vessel was seized last year on suspicion of sabotaging undersea cables that connect Helsinki and Tallinn."
+   },
+   {
+    "type": "p",
+    "text": "The court found the two men guilty of damaging critical communications infrastructure, a case that follows a series of incidents targeting Baltic Sea facilities since Russia’s invasion of Ukraine."
+   },
+   {
+    "type": "p",
+    "text": "Authorities said the sabotage threatened the reliability of data and voice traffic between the two capitals, prompting heightened security measures for maritime routes in the region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disruption of undersea cables can affect international communications and data flows, highlighting security risks for Europe and allied nations."
+   }
+  ],
+  "key_points": [
+   "Finland convicted the Fitburg captain and a crew member for damaging Helsinki‑Tallinn undersea cables.",
+   "The case is part of a broader pattern of Baltic infrastructure attacks since the Ukraine war.",
+   "The sabotage raised concerns about the security of critical communications links in the region."
+  ],
+  "meta_description": "Finland courts jail the Fitburg captain and crew member for sabotaging Helsinki‑Tallinn undersea cables, amid rising Baltic infrastructure attacks.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Finland",
+   "cable sabotage",
+   "Baltic Sea",
+   "maritime security",
+   "undersea cables"
+  ],
+  "slug": "finland-court-jails-captain-crew-member-baltic-cable-sabotage-bcf061",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-05T10:43:54Z"
+ },
+ {
+  "id": "179aa43485e666a5",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+  "source": "BBC News",
+  "source_title": "France gears up for strikes and protests as unions promise national mobilisation",
+  "source_summary": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c4c/live/4a3cc930-d8f9-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-05T10:26:03+00:00",
+  "headline": "France Prepares for Nationwide Strikes as Five Unions Mobilize",
+  "body": [
+   {
+    "type": "p",
+    "text": "Five French trade unions have announced they will join a wave of strikes and protests slated for a national day of action. The unions say they are coordinating a broad mobilisation across the country."
+   },
+   {
+    "type": "p",
+    "text": "The planned demonstrations are part of a larger movement of industrial action that has been building in recent weeks. Organisers intend to stage coordinated activities to press their demands, though specific sectors and dates have not been detailed in the announcement."
+   }
+  ],
+  "key_points": [
+   "Five unions have pledged to take part in a national day of strikes and protests in France.",
+   "The unions are organising a coordinated mobilisation as part of a wider wave of industrial action."
+  ],
+  "meta_description": "Five French unions join a wave of strikes, promising a coordinated national day of protest.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "France",
+   "unions",
+   "strikes",
+   "protests",
+   "national mobilisation"
+  ],
+  "slug": "france-prepares-nationwide-strikes-five-unions-mobilize-179aa4",
+  "reading_minutes": 1,
+  "added": "2026-11-05T10:44:09Z"
+ },
+ {
+  "id": "477e2f283706763c",
+  "source_url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
+  "source": "The New York Times",
+  "source_title": "In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump",
+  "source_summary": "Some Democrats quickly signaled they could try to roll back the president’s tax and trade policies, ignoring his early veto threats.",
+  "source_tags": [
+   "United States Politics and Government",
+   "US and Israeli Attack on Iran (2026)",
+   "Midterm Elections (2026)",
+   "United States Economy",
+   "Politics and Government",
+   "Prices (Fares, Fees and Rates)",
+   "Trump, Donald J",
+   "Inflation (Economics)",
+   "Democratic Party",
+   "House of Representatives"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-econ-01-qtbk/05dc-trump-econ-01-qtbk-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T10:04:56+00:00",
+  "headline": "Democrats Say Victory Mandates Cutting Costs, Reversing Policies",
+  "body": [
+   {
+    "type": "p",
+    "text": "Following their recent electoral win, Democratic leaders announced that the result provides a clear economic mandate to reduce government spending and roll back several of President Trump’s signature tax and trade measures. Party officials said the victory empowers them to pursue cost‑cutting reforms without fearing immediate vetoes, despite the president’s earlier warnings."
+   },
+   {
+    "type": "p",
+    "text": "In statements to the press, Democrats indicated they will move quickly to revisit the 2024 tax cuts and the trade tariffs imposed during the Trump administration. While specific legislative proposals were not detailed, the party emphasized a focus on lowering deficits and restoring market confidence."
+   },
+   {
+    "type": "p",
+    "text": "The new congressional majority plans to use its control of both chambers to advance these initiatives, signaling a shift toward more traditional fiscal policies. Critics warn that reversing entrenched policies could spark partisan battles, but Democrats argue the changes are necessary to sustain economic growth."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift could affect transatlantic trade relations and fiscal policy, influencing markets in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Democrats view their electoral win as a mandate to cut government costs.",
+   "The party intends to reverse key Trump-era tax and trade policies.",
+   "Early veto threats from the president are being set aside."
+  ],
+  "meta_description": "Democrats claim their victory gives a mandate to cut costs and reverse Trump-era tax and trade policies, despite early veto warnings.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Democrats",
+   "economic policy",
+   "tax reform",
+   "trade",
+   "Trump",
+   "Congress"
+  ],
+  "slug": "democrats-say-victory-mandates-cutting-costs-reversing-policies-477e2f",
+  "reading_minutes": 1,
+  "added": "2026-11-05T10:43:43Z"
+ },
+ {
+  "id": "d39892909fefad32",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o",
+  "source": "BBC News",
+  "source_title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+  "source_summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcfc/live/126e9360-d900-11f1-9c68-d767468fa269.jpg",
+  "published": "2026-11-05T10:04:51+00:00",
+  "headline": "UK Government Proposes On‑The‑Spot Fines for Dangerous E‑Bike Riders",
+  "body": [
+   {
+    "type": "p",
+    "text": "The UK transport department has launched a public consultation on new measures aimed at curbing reckless behaviour among electric bicycle users. The proposal includes the introduction of on‑the‑spot fines for riders who break traffic laws while under the influence of alcohol or who otherwise endanger other road users."
+   },
+   {
+    "type": "p",
+    "text": "Officials say the consultation will also explore additional tools such as increased enforcement powers for police and stricter licensing requirements for e‑bike owners. The goal is to create a regulatory framework that matches the rapid growth of e‑bike usage with appropriate safety standards."
+   },
+   {
+    "type": "p",
+    "text": "The move follows a series of incidents involving intoxicated e‑bike riders that have raised concerns among road safety advocates. If adopted, the fines could be issued directly at the scene, similar to existing penalties for drink‑driving in cars."
+   }
+  ],
+  "key_points": [
+   "A UK consultation will consider on‑the‑spot fines for unsafe e‑bike riders.",
+   "Proposals also include stronger police powers and possible licensing changes.",
+   "The initiative responds to rising safety concerns over intoxicated e‑bike use."
+  ],
+  "meta_description": "UK officials propose on‑the‑spot fines and tougher rules to tackle dangerous e‑bike riding, aiming to improve road safety.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "e‑bike",
+   "road safety",
+   "transport policy",
+   "UK",
+   "regulation"
+  ],
+  "slug": "uk-government-proposes-onthespot-fines-dangerous-ebike-riders-d39892",
+  "reading_minutes": 1,
+  "added": "2026-11-05T10:43:57Z"
+ },
+ {
+  "id": "64803e70f0a4d310",
+  "source_url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
+  "source": "The New York Times",
+  "source_title": "Triumphal Arch Set to Win Final Approval Despite Court Challenges",
+  "source_summary": "President Trump’s 250-foot arch project is expected to win approval on Thursday from a federal planning board. Court action and Democrats’ upcoming control of Congress could halt the plans.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Decisions and Verdicts",
+   "Cemeteries",
+   "Building (Construction)",
+   "Monuments and Memorials (Structures)",
+   "White House East Wing and Ballroom (Washington, DC)",
+   "Trump, Donald J",
+   "Arlington National Cemetery",
+   "National Capital Planning Commission",
+   "National Trust for Historic Preservation"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/09/24/multimedia/05dc-arch/24dc-trump-security-p1-gwmp-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T10:04:47+00:00",
+  "headline": "Trump’s 250‑Foot Triumphal Arch Expected to Win Federal Approval Thursday",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal planning board is slated to give final approval on President Donald Trump’s proposed 250‑foot triumphal arch on Thursday, according to a New York Times report. The project, promoted as a symbolic monument, has advanced despite ongoing legal challenges."
+   },
+   {
+    "type": "p",
+    "text": "Lawyers have filed court actions seeking to block the arch, and Democratic leaders anticipate that their upcoming control of Congress could further impede the initiative. The timing of the board’s decision coincides with heightened partisan scrutiny of Trump‑related infrastructure proposals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The approval highlights a clash between a high‑profile Trump‑backed monument and emerging Democratic legislative power, illustrating broader political battles over infrastructure and legacy projects."
+   }
+  ],
+  "key_points": [
+   "The federal planning board is expected to approve Trump’s 250‑foot triumphal arch on Thursday.",
+   "Court lawsuits and the prospect of Democratic control of Congress could stall the project."
+  ],
+  "meta_description": "Federal board set to approve Trump’s 250‑foot triumphal arch Thursday, amid court challenges and looming Democratic congressional control.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "trump",
+   "triumphal arch",
+   "federal planning board",
+   "court challenges",
+   "congress",
+   "infrastructure"
+  ],
+  "slug": "trumps-250foot-triumphal-arch-expected-win-federal-approval-thursday-64803e",
+  "reading_minutes": 1,
+  "added": "2026-11-05T10:44:13Z"
+ },
+ {
+  "id": "c72ba9b8aa6c3310",
+  "source_url": "https://www.nytimes.com/2026/11/05/technology/personaltech/amazon-kindle-colorsoft-review.html",
+  "source": "The New York Times",
+  "source_title": "Amazon Kindle Colorsoft Review: The Single-Task Gadget of Our Times",
+  "source_summary": "E-book reader sales are soaring as consumers seek technology offering respite from social media and artificial intelligence hype. It’s even better in color.",
+  "source_tags": [
+   "E-Books and Readers",
+   "Artificial Intelligence",
+   "Amazon Kindle",
+   "Amazon.com Inc",
+   "Computers and the Internet"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-techfix-1-02-jlmg/04biz-techfix-1-02-jlmg-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T10:03:28+00:00",
+  "headline": "Amazon Kindle Colorsoft Boosts E‑Reader Sales Amid AI Fatigue",
+  "body": [
+   {
+    "type": "p",
+    "text": "Amazon has introduced the Kindle Colorsoft, a new e‑book reader that adds a color e‑ink display to its traditionally monochrome lineup. The device is positioned as a single‑task gadget designed for reading, without the distractions of social media or artificial‑intelligence driven apps."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that e‑reader sales are climbing as consumers look for technology that offers a break from the constant stream of notifications and AI hype. The Colorsoft’s color capability is seen as an upgrade that could attract readers who want richer visuals for magazines, comics and illustrated books."
+   },
+   {
+    "type": "p",
+    "text": "The Kindle Colorsoft continues Amazon’s focus on a dedicated reading experience, reinforcing the market trend toward devices that prioritize simplicity and immersion over multitasking features."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For readers in the US and Europe, the Colorsoft reflects a growing demand for devices that limit digital overload and support focused leisure reading."
+   }
+  ],
+  "key_points": [
+   "Amazon’s Kindle Colorsoft adds color to the e‑reader market, emphasizing a distraction‑free reading experience.",
+   "E‑reader sales are rising as users seek technology that offers respite from social media and AI hype."
+  ],
+  "meta_description": "Amazon launches the Kindle Colorsoft, a color e‑reader aimed at readers seeking a distraction‑free experience amid rising e‑reader sales.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Amazon",
+   "Kindle",
+   "e‑reader",
+   "color display",
+   "digital wellbeing"
+  ],
+  "slug": "amazon-kindle-colorsoft-boosts-ereader-sales-amid-ai-fatigue-c72ba9",
+  "reading_minutes": 1,
+  "added": "2026-11-05T10:43:45Z"
+ },
+ {
+  "id": "074d7df6583bd1b7",
+  "source_url": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
+  "source": "The New York Times",
+  "source_title": "In the Style of P.C. Vey: The Funniest Reader Cartoons We Received",
+  "source_summary": "More than 200 people answered our call for cartoons in the spirit of P.C. Vey. Here are some of the best ones.",
+  "source_tags": [
+   "Comedy and Humor",
+   "Vey, PC (1955-2026)",
+   "Cartoons and Cartoonists"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-11-05T10:01:47+00:00",
+  "headline": "Over 200 Readers Submit P.C. Vey‑Style Cartoons to NYT",
+  "body": [
+   {
+    "type": "p",
+    "text": "The New York Times reported that more than 200 readers responded to its invitation for cartoons inspired by the late humorist P.C. Vey. The newspaper curated a selection of the most notable submissions for publication."
+   },
+   {
+    "type": "p",
+    "text": "The featured collection showcases a range of satirical drawings that echo Vey’s trademark blend of absurdity and social commentary. The pieces were chosen from the large pool of entries submitted by the public."
+   },
+   {
+    "type": "p",
+    "text": "The article highlights the enduring appeal of Vey’s style, noting that contemporary cartoonists continue to draw on his influence for humor that resonates with today’s audiences."
+   }
+  ],
+  "key_points": [
+   "Over 200 readers sent cartoons in the spirit of P.C. Vey.",
+   "The New York Times selected and published a handful of the best entries.",
+   "The collection reflects ongoing interest in Vey’s distinctive satirical approach."
+  ],
+  "meta_description": "More than 200 readers submitted P.C. Vey‑style cartoons, with the NYT showcasing the top entries in a new feature.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "P.C. Vey",
+   "cartoons",
+   "reader submissions",
+   "satire",
+   "New York Times"
+  ],
+  "slug": "over-200-readers-submit-p-c-veystyle-cartoons-nyt-074d7d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-05T10:44:17Z"
+ },
+ {
+  "id": "eb0fa5ee6198e221",
+  "source_url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
+  "source": "The New York Times",
+  "source_title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
+  "source_summary": "Some call him a doomer. Others see him as a responsible technologist. Here’s how the Anthropic chief executive’s thinking on artificial intelligence was shaped.",
+  "source_tags": [
+   "Amodei, Dario",
+   "Amodei, Daniela",
+   "Anthropic AI LLC",
+   "OpenAI Labs",
+   "Rationalists (Philosophical Movement)",
+   "Artificial Intelligence",
+   "Philosophy",
+   "Computers and the Internet",
+   "Philanthropy",
+   "Altruism"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
+  "published": "2026-11-05T10:00:24+00:00",
+  "headline": "Anthropic CEO Dario Amodei’s Views on AI: From Doomer to Responsible Technologist",
+  "body": [
+   {
+    "type": "p",
+    "text": "The New York Times profile examines the forces that have shaped Dario Amodei’s thinking on artificial intelligence. As the chief executive of Anthropic, Amodei is portrayed by some observers as a “doomer,” while others describe him as a responsible technologist who emphasizes safety and ethical considerations in AI development."
+   },
+   {
+    "type": "p",
+    "text": "The article traces how Amodei’s experiences and perspectives have contributed to his current stance, highlighting the tension between alarmist warnings about AI risks and a measured approach that seeks to balance innovation with precaution. By detailing the influences behind his leadership at Anthropic, the piece offers insight into the broader debate over how AI should be governed and deployed."
+   }
+  ],
+  "key_points": [
+   "Dario Amodei leads Anthropic and is viewed both as a doomer and a responsible technologist.",
+   "The profile explores the personal and professional influences that shape his AI outlook."
+  ],
+  "meta_description": "A New York Times profile looks at how Anthropic CEO Dario Amodei’s AI views were formed, amid contrasting labels of doomer and responsible technologist.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Artificial Intelligence",
+   "Anthropic",
+   "Dario Amodei",
+   "Tech Leadership",
+   "AI Safety"
+  ],
+  "slug": "anthropic-ceo-dario-amodeis-views-ai-from-doomer-responsible-eb0fa5",
+  "reading_minutes": 1,
+  "added": "2026-11-05T10:44:01Z"
+ },
+ {
+  "id": "bb99e9e741f89b5d",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cmd9345vdy8do",
+  "source": "BBC Sport",
+  "source_title": "Former F1 champion Jones dies aged 80",
+  "source_summary": "Alan Jones, the last Australian and first Williams driver to win the Formula 1 world title, dies at the age of 80.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3f/live/0b723ee0-d900-11f1-9c68-d767468fa269.jpg",
+  "published": "2026-11-05T09:46:51+00:00",
+  "headline": "Former F1 Champion Alan Jones, First Williams Titleholder, Dies at 80",
+  "body": [
+   {
+    "type": "p",
+    "text": "Alan Jones, the 1980 Formula 1 world champion, has died at the age of 80. Jones was the last Australian driver to win the championship and the first driver for the Williams team to secure the title."
+   },
+   {
+    "type": "p",
+    "text": "His victory marked a milestone for both his home country and the emerging Williams outfit, which would go on to become one of the sport’s most successful constructors. Jones’s aggressive driving style and technical skill earned him a place among the sport’s legends."
+   },
+   {
+    "type": "p",
+    "text": "The motorsport community has paid tribute to his achievements, recalling his 1980 season as a defining moment in Formula 1 history. While details of his later life remain private, his legacy endures through the records he set and the inspiration he provided to future Australian racers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Jones’s championship highlighted Australia’s presence in elite motorsport and helped launch the Williams team, a cornerstone of Formula 1 history."
+   }
+  ],
+  "key_points": [
+   "Alan Jones, the 1980 Formula 1 world champion, died at 80.",
+   "He was the last Australian and the first Williams driver to win the title.",
+   "Jones’s 1980 victory is remembered as a pivotal moment for both Australia and the Williams team."
+  ],
+  "meta_description": "Former F1 champion Alan Jones, the last Australian and first Williams driver to win the world title, dies at 80.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Alan Jones",
+   "Formula 1",
+   "Williams",
+   "Australian sport",
+   "motorsport",
+   "death"
+  ],
+  "slug": "former-f1-champion-alan-jones-first-williams-titleholder-dies-bb99e9",
+  "reading_minutes": 1,
+  "added": "2026-11-05T10:43:49Z"
+ },
+ {
+  "id": "66e067d3647cd213",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9146d7g0reyo",
+  "source": "BBC Sport",
+  "source_title": "Wales opt for centre power pair against Japan",
+  "source_summary": "Wales head coach Steve Tandy has selected Max Llewellyn alongside Eddie James in midfield to face Japan in the Nations Championship on Saturday.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1f7/live/c45a1800-d8f2-11f1-9c68-d767468fa269.png",
+  "published": "2026-11-05T09:02:56+00:00",
+  "headline": "Wales Name Centre Pair Llewellyn and James for Japan Clash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Wales head coach Steve Tandy has announced his midfield selection for the upcoming Nations Championship match against Japan on Saturday. The duo of Max Llewellyn and Eddie James will form the central partnership in the Welsh side."
+   },
+   {
+    "type": "p",
+    "text": "Both players bring different strengths to the midfield; Llewellyn is noted for his physical presence while James offers dynamic ball‑carrying ability. Their combined skill set is expected to provide Wales with the balance needed to compete against the Japanese team."
+   }
+  ],
+  "key_points": [
+   "Steve Tandy picks Max Llewellyn and Eddie James as Wales' midfield pair for the Japan game.",
+   "The selection aims to boost Wales' central power in the Nations Championship match on Saturday."
+  ],
+  "meta_description": "Wales coach Steve Tandy selects Max Llewellyn and Eddie James to anchor the midfield against Japan in the Nations Championship.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Wales",
+   "Japan",
+   "Nations Championship",
+   "rugby",
+   "Steve Tandy",
+   "midfield"
+  ],
+  "slug": "wales-name-centre-pair-llewellyn-james-japan-clash-66e067",
+  "reading_minutes": 1,
+  "added": "2026-11-05T10:44:05Z"
+ },
+ {
+  "id": "0728407c59cdbc68",
+  "source_url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+  "source": "The Verge",
+  "source_title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+  "source_summary": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. But the mingling of time periods also extends to the development team. While Ocarina's remake was led by […]",
+  "source_tags": [
+   "Entertainment",
+   "Gaming",
+   "Interview",
+   "Nintendo",
+   "Report"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-05T05:00:00+00:00",
+  "headline": "Nintendo Designers Prioritized Elegance in Ocarina of Time Switch 2 Remake",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nintendo’s development team approached the Switch 2 remake of The Legend of Ocarina of Time with a focus on “elegance,” blending the classic N64 experience with modern graphics and gameplay. The project retained core elements of the original while updating visuals and controls to meet contemporary standards."
+   },
+   {
+    "type": "p",
+    "text": "The remake’s design philosophy reflects a broader trend of revisiting classic titles for new hardware, aiming to satisfy longtime fans and attract new players. The team’s effort to balance nostalgia with innovation was central to the project’s direction."
+   },
+   {
+    "type": "p",
+    "text": "The development process also highlighted a mix of past and present influences within the studio, as veteran designers worked alongside newer talent to achieve the desired aesthetic and functional upgrades."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remake shows how major publishers can revitalize iconic games for new consoles, impacting both legacy fans and the broader gaming market."
+   }
+  ],
+  "key_points": [
+   "Nintendo emphasized elegance while modernizing Ocarina of Time for Switch 2.",
+   "The remake preserves core gameplay but features updated graphics and controls.",
+   "Veteran and newer designers collaborated to blend classic and contemporary elements."
+  ],
+  "meta_description": "Nintendo’s designers focused on elegance to modernize Ocarina of Time for Switch 2, merging classic gameplay with updated graphics.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nintendo",
+   "Ocarina of Time",
+   "Switch 2",
+   "game remake",
+   "video game design"
+  ],
+  "slug": "nintendo-designers-prioritized-elegance-ocarina-time-switch-2-remake-072840",
+  "reading_minutes": 1,
+  "added": "2026-11-05T10:44:21Z"
+ },
+ {
   "id": "bedbdbdbcf262f76",
   "source_url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo",
   "source": "BBC News",
