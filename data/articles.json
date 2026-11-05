@@ -1,5 +1,672 @@
 [
  {
+  "id": "bedbdbdbcf262f76",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo",
+  "source": "BBC News",
+  "source_title": "UK commits to 'time-bound' talks on slavery apology",
+  "source_summary": "Andy Burnham signed up to a broader process to address \"historical harms\" of the transatlantic slave trade, Chris Mason writes.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d167/live/fa72efc0-d8b6-11f1-aa81-e1435663d61c.jpg",
+  "published": "2026-11-05T02:17:18+00:00",
+  "headline": "UK Sets Time‑Bound Talks on Slavery Apology, Burnham Joins Process",
+  "body": [
+   {
+    "type": "p",
+    "text": "The UK government has agreed to a time‑limited series of discussions aimed at reaching an official apology for the transatlantic slave trade. The initiative, described as a \"time‑bound\" process, seeks to address the historical harms inflicted by the trade and to outline steps for formal recognition."
+   },
+   {
+    "type": "p",
+    "text": "Manchester Mayor Andy Burnham has signed up to the broader framework, signalling support from regional leaders for a coordinated national effort. The talks are intended to involve multiple stakeholders and to produce a clear timetable for any eventual apology or remedial measures."
+   },
+   {
+    "type": "p",
+    "text": "The move follows growing calls within the UK and internationally for governments to confront the legacy of slavery. While details of the timetable and the specific outcomes remain to be defined, officials say the process will be transparent and aimed at delivering a definitive statement of regret."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The talks reflect a wider global push for governments to acknowledge and remedy the legacy of slavery, a topic also debated in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The UK has committed to a time‑bound series of talks on a slavery apology.",
+   "Mayor Andy Burnham has joined the broader effort to address historical harms.",
+   "The process aims to produce a clear timetable and transparent outcomes."
+  ],
+  "meta_description": "The UK launches time‑bound talks on a slavery apology, with Mayor Andy Burnham joining the effort to address historic harms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "slavery",
+   "apology",
+   "historical harms",
+   "Andy Burnham",
+   "reparations"
+  ],
+  "slug": "uk-sets-timebound-talks-slavery-apology-burnham-joins-process-bedbdb",
+  "reading_minutes": 1,
+  "added": "2026-11-05T02:44:24Z"
+ },
+ {
+  "id": "34d3fec6677e0257",
+  "source_url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+  "source": "The New York Times",
+  "source_title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
+  "source_summary": "How an unpopular president and an unpopular war provided an opening for Democrats to make sweeping gains in the midterms.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Presidential Election of 2024",
+   "US and Israeli Attack on Iran (2026)",
+   "Political Action Committees",
+   "Polls and Public Opinion",
+   "Political Advertising",
+   "Campaign Finance",
+   "Elections, Senate",
+   "Congressional Leadership Fund",
+   "Democratic Congressional Campaign Committee"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04pol-midterms-ticktok-top-01-kcwp/04pol-midterms-ticktok-top-01-kcwp-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T02:02:47+00:00",
+  "headline": "Democrats Capitalize on President Trump's Unpopularity to Win Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "The 2026 midterm elections saw the Republican Party suffer a historic defeat, with President Trump's low approval ratings and a widely criticized war eroding voter support. Analysts attribute the sharp decline in Republican votes to the president's unpopularity and the public's fatigue with the ongoing conflict."
+   },
+   {
+    "type": "p",
+    "text": "Democratic candidates leveraged this discontent, achieving sweeping gains across the House and Senate. Their victories were most pronounced in swing districts where voters expressed frustration with the administration's policies and the war effort."
+   },
+   {
+    "type": "p",
+    "text": "Political observers note that the outcome could reshape the legislative agenda for the next two years, giving Democrats a stronger platform to advance their priorities."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift in congressional power could affect U.S. domestic and foreign policy, influencing issues that also impact European partners."
+   }
+  ],
+  "key_points": [
+   "President Trump's low approval and an unpopular war drove a historic Republican loss in the 2026 midterms.",
+   "Democrats secured sweeping gains in both chambers of Congress.",
+   "The results may shift the U.S. legislative agenda for the coming term."
+  ],
+  "meta_description": "Democrats win big in 2026 midterms as President Trump's unpopularity and a contested war lead to a historic Republican collapse.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterm elections",
+   "Democratic gains",
+   "Republican decline",
+   "President Trump",
+   "war opposition"
+  ],
+  "slug": "democrats-capitalize-president-trump-s-unpopularity-win-midterms-34d3fe",
+  "reading_minutes": 1,
+  "added": "2026-11-05T02:44:36Z"
+ },
+ {
+  "id": "536c75ac15737ad9",
+  "source_url": "https://www.theguardian.com/technology/2026/nov/04/elon-musk-midterm-spending-analysis",
+  "source": "The Guardian",
+  "source_title": "Elon Musk’s nearly half a billion dollars in midterms spending was a flop",
+  "source_summary": "The tech billionaire set spending record as he poured $446m into campaigns for failed Republican candidates Elon Musk set a record for election spending this year after pouring nearly half a billion dollars into backing Republicans in the US midterm elections . It turned out to be a poor investment. The SpaceX and Tesla CEO contributed at least $446m to Republican-aligned Super Pacs and groups over the course of the elections, specifically targeting several key Senate races in an effort to help the Trump administration retain Republican control of Congress. He outdid his own 2024 spending of nearly $290m. Yet as Democrats swept to power across the country on Tuesday night, it became clear that Musk would get nearly nothing in return for his hundreds of millions in spending.",
+  "source_tags": [
+   "Elon Musk",
+   "US midterm elections 2026",
+   "US political financing",
+   "Technology",
+   "US news",
+   "US politics",
+   "Republicans",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/f5beb4426227616f86699d732ff704168d8ca0a1/1_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=570f9f62bfecb32329fa21b4672e7b5e",
+  "published": "2026-11-05T02:00:50+00:00",
+  "headline": "Elon Musk Spends $446 Million on Midterms, Yet Republicans Lose",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tech billionaire Elon Musk poured at least $446 million into Republican‑aligned super PACs and campaign groups during the 2026 U.S. midterm elections, eclipsing his own 2024 outlay of roughly $290 million. The spending targeted several high‑profile Senate contests in an effort to help the Trump administration maintain control of Congress."
+   },
+   {
+    "type": "p",
+    "text": "Despite the unprecedented financial backing, Democratic candidates swept many races on election night, leaving Musk’s investment with little apparent effect on the outcome. The record‑setting outlay failed to secure victories for the Republican candidates he supported."
+   },
+   {
+    "type": "p",
+    "text": "Musk’s campaign contributions highlight the growing role of wealthy individuals in American elections, but the results underscore that large sums do not guarantee political success."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode illustrates how even massive private funding may not sway electoral outcomes, a point of interest for voters and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Elon Musk contributed at least $446 million to Republican‑aligned super PACs in the 2026 midterms.",
+   "Democrats won a majority of the contested races, limiting the impact of Musk’s spending.",
+   "The spending set a new record for private election financing in the United States."
+  ],
+  "meta_description": "Elon Musk spent $446 million on Republican super PACs in the 2026 US midterms, but Democrats won key races, limiting his influence.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "US midterms",
+   "campaign finance",
+   "Republican Party",
+   "super PACs"
+  ],
+  "slug": "elon-musk-spends-446-million-midterms-yet-republicans-lose-536c75",
+  "reading_minutes": 1,
+  "added": "2026-11-05T02:44:56Z"
+ },
+ {
+  "id": "1c7da4acfcdd25cb",
+  "source_url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+  "source": "TechCrunch",
+  "source_title": "Apple is reportedly cutting budgets for its internal AI usage",
+  "source_summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+  "source_tags": [
+   "AI",
+   "TC"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+  "published": "2026-11-05T01:26:22+00:00",
+  "headline": "Apple Slashes Internal AI Spending for Engineering Teams in Cost Cut",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple is reportedly reducing the budget allocated to artificial‑intelligence tools used by its internal engineering groups. Sources say the company is making a “significant” cut to the amount it spends on AI resources for product development and internal workflows."
+   },
+   {
+    "type": "p",
+    "text": "The budget reduction reflects a broader effort to tighten spending across the tech giant’s operations. While Apple has continued to invest in consumer‑facing AI features, the internal allocation for engineering teams is being scaled back sharply."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the move could slow the pace of AI‑driven innovation within Apple’s hardware and software teams, potentially affecting the rollout of new features that rely on machine‑learning models."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reduced internal AI spending could influence the speed of new AI‑powered features in Apple devices, affecting both US and European consumers."
+   }
+  ],
+  "key_points": [
+   "Apple is cutting its internal AI budget for engineering teams significantly.",
+   "The reduction is part of a wider cost‑saving initiative at the company.",
+   "The cut may slow AI‑related development inside Apple’s product pipelines."
+  ],
+  "meta_description": "Apple is sharply cutting internal AI budgets for its engineering teams as part of a broader cost‑saving effort.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "AI",
+   "budget cuts",
+   "engineering",
+   "technology spending"
+  ],
+  "slug": "apple-slashes-internal-ai-spending-engineering-teams-cost-cut-1c7da4",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-05T02:44:12Z"
+ },
+ {
+  "id": "2c368bf7ce921244",
+  "source_url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+  "source": "TechCrunch",
+  "source_title": "After the midterms, a bigger clash over data centers could be coming",
+  "source_summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+  "source_tags": [
+   "AI",
+   "Government & Policy",
+   "data centers"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677",
+  "published": "2026-11-05T01:02:14+00:00",
+  "headline": "Bipartisan Opposition to Data Centers Emerges After Midterm Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. midterm elections held on Tuesday revealed a rare bipartisan pushback against new data center projects. Voters from both major parties expressed concerns, marking a departure from the typically partisan nature of technology infrastructure debates."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts note that the cross‑party resistance could foreshadow a larger confrontation over data center siting, zoning, and environmental impact in the coming months. Stakeholders anticipate that lawmakers may face heightened pressure to balance economic benefits with community and ecological considerations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Data centers power the digital economy, so a political fight over their placement could affect infrastructure investment and environmental policy in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "Midterm voters from both parties voiced opposition to data center developments.",
+   "The bipartisan backlash may signal an upcoming larger policy clash over data center siting.",
+   "Lawmakers could face increased scrutiny on balancing tech growth with local concerns."
+  ],
+  "meta_description": "Midterm elections show bipartisan resistance to data centers, hinting at a looming policy clash over tech infrastructure.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "data centers",
+   "midterms",
+   "bipartisan",
+   "technology policy",
+   "infrastructure"
+  ],
+  "slug": "bipartisan-opposition-data-centers-emerges-after-midterm-elections-2c368b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-05T02:44:28Z"
+ },
+ {
+  "id": "18321e4037104e60",
+  "source_url": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
+  "source": "The New York Times",
+  "source_title": "How Trump’s Energy Policies Helped Trigger Midterm Rout",
+  "source_summary": "The war in Iran, efforts to promote fossil fuels and attacks on renewable energy contributed to higher prices for gas and electricity that drove voter discontent.",
+  "source_tags": [
+   "Oil (Petroleum) and Gasoline",
+   "Alternative and Renewable Energy",
+   "US and Israeli Attack on Iran (2026)",
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Energy and Power"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04cli-energy-midterms-wmvb/04cli-energy-midterms-wmvb-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T00:31:06+00:00",
+  "headline": "Trump Energy Policies, Iran War Fuel Gas Price Surge, Midterm Losses",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new analysis links President Donald Trump’s energy agenda to the Republican setbacks in the recent midterm elections. The report cites the war in Iran, a push to expand fossil‑fuel production and a series of attacks on renewable‑energy projects as key drivers of rising gasoline and electricity costs that angered voters."
+   },
+   {
+    "type": "p",
+    "text": "Higher energy bills, according to the study, created a climate of economic discontent that translated into lower turnout for Trump‑aligned candidates and a swing toward Democratic challengers in several swing districts. The combination of geopolitical tension and domestic policy choices appears to have amplified price pressures at a time when many households were already feeling financial strain."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Energy price spikes can sway electoral outcomes, highlighting how policy and geopolitics intersect with domestic politics in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Trump’s promotion of fossil fuels and opposition to renewables coincided with a war in Iran, pushing energy prices higher.",
+   "Rising gas and electricity costs contributed to voter frustration and helped Democrats win key midterm races."
+  ],
+  "meta_description": "Analysis ties Trump’s energy policies and the Iran war to higher energy costs that fueled voter discontent and Republican midterm losses.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "energy",
+   "Trump",
+   "midterms",
+   "gas prices",
+   "renewable energy",
+   "Iran war"
+  ],
+  "slug": "trump-energy-policies-iran-war-fuel-gas-price-surge-18321e",
+  "reading_minutes": 1,
+  "added": "2026-11-05T02:44:16Z"
+ },
+ {
+  "id": "182ee85c676e9ee3",
+  "source_url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+  "source": "The Verge",
+  "source_title": "X says its updated web app is way faster",
+  "source_summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli said in a blog post about the changes. […]",
+  "source_tags": [
+   "News",
+   "Tech",
+   "Twitter - X"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-05T00:25:12+00:00",
+  "headline": "X Launches Faster Web App Version, Rolling Out Gradually to Users",
+  "body": [
+   {
+    "type": "p",
+    "text": "X announced a new version of its web application that it says delivers significantly faster performance than the previous build. The company is deploying the update to signed‑in users on a country‑by‑country basis, allowing it to monitor the rollout and address any issues locally."
+   },
+   {
+    "type": "p",
+    "text": "Principal engineer Yagiz Nizipli explained in a blog post that the new architecture reduces load times, especially on slower connections. He encouraged users to test the experience by opening a profile on X.com with a limited bandwidth link to see the improvement firsthand."
+   },
+   {
+    "type": "p",
+    "text": "The upgrade is part of X’s broader effort to enhance its platform’s responsiveness and retain engagement across its global user base. No specific performance metrics or timelines for full worldwide availability were disclosed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Faster access to X’s services can improve user experience for audiences in the US and Europe, where mobile and broadband speeds vary widely."
+   }
+  ],
+  "key_points": [
+   "X’s updated web app promises noticeably faster load times for signed‑in users.",
+   "The rollout is being conducted one country at a time to manage performance and stability.",
+   "Engineers highlight benefits for users on slow internet connections."
+  ],
+  "meta_description": "X rolls out a faster web app version, deploying it country by country to improve performance for signed‑in users.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "X",
+   "web app",
+   "performance",
+   "rollout",
+   "social media",
+   "engineer"
+  ],
+  "slug": "x-launches-faster-web-app-version-rolling-out-gradually-182ee8",
+  "reading_minutes": 1,
+  "added": "2026-11-05T02:44:40Z"
+ },
+ {
+  "id": "bfd986f819869537",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
+  "source": "BBC News",
+  "source_title": "Interest rates expected to rise for first time in over three years",
+  "source_summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
+  "published": "2026-11-05T00:00:09+00:00",
+  "headline": "Interest Rates Projected to Rise to 4% After Three-Year Pause",
+  "body": [
+   {
+    "type": "p",
+    "text": "Analysts expect central banks to lift the benchmark interest rate from its current 3.75% level to 4%, marking the first increase in more than three years. The consensus among most forecasters points to a modest 0.25 percentage‑point hike."
+   },
+   {
+    "type": "p",
+    "text": "The anticipated move reflects growing confidence that inflation pressures are easing enough to allow tighter monetary policy. Market participants are adjusting expectations for borrowing costs across mortgages, loans and corporate financing."
+   },
+   {
+    "type": "p",
+    "text": "If the forecast holds, the rate rise could influence financial markets and consumer credit conditions, as higher rates typically increase the cost of borrowing and can temper spending growth."
+   }
+  ],
+  "key_points": [
+   "Most analysts predict a 0.25‑point increase in the benchmark rate to 4%.",
+   "The hike would be the first in over three years, signaling a shift in monetary policy.",
+   "Higher rates are likely to raise borrowing costs for households and businesses."
+  ],
+  "meta_description": "Analysts forecast the first interest‑rate increase in three years, lifting the benchmark to 4% and affecting borrowing costs.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "interest rates",
+   "monetary policy",
+   "inflation",
+   "financial markets",
+   "economy"
+  ],
+  "slug": "interest-rates-projected-rise-4-after-three-year-pause-bfd986",
+  "reading_minutes": 1,
+  "added": "2026-11-05T02:44:44Z"
+ },
+ {
+  "id": "ecaf925198953772",
+  "source_url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Democrats take House and Senate from Republicans in US midterm rout",
+  "source_summary": "Democrats will control both chambers of Congress after flipping seats in Republican strongholds across the US in an election seen as a repudiation of President Donald Trump.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79850193_6.jpg",
+  "published": "2026-11-04T23:04:00+00:00",
+  "headline": "Democrats Win Control of House and Senate in Midterm Upset",
+  "body": [
+   {
+    "type": "p",
+    "text": "In the 2026 midterm elections, the Democratic Party secured majorities in both the House of Representatives and the Senate, ending Republican control of Congress. The victories came from flipping seats in traditionally Republican districts across the country, giving Democrats a clear legislative advantage."
+   },
+   {
+    "type": "p",
+    "text": "Analysts describe the outcome as a broad repudiation of former President Donald Trump, whose influence remains strong within the Republican base. The shift in power is expected to reshape the federal agenda on issues ranging from climate policy to trade and foreign aid."
+   },
+   {
+    "type": "p",
+    "text": "With control of both chambers, Democrats now have the capacity to advance their policy priorities without needing Republican support, though they will still face a Republican president in the White House. The new congressional makeup sets the stage for a potentially contentious legislative season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift gives Democrats legislative leverage to influence US domestic and foreign policy, affecting transatlantic trade, climate commitments and security cooperation."
+   }
+  ],
+  "key_points": [
+   "Democrats captured majorities in both the House and Senate in the 2026 midterms.",
+   "The wins came from flipping traditionally Republican districts, signaling voter backlash against Donald Trump.",
+   "Control of Congress gives Democrats the ability to pursue their agenda despite a Republican president."
+  ],
+  "meta_description": "Democrats win House and Senate in 2026 midterms, ending Republican control and signaling a backlash against Donald Trump.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Democrats",
+   "Republicans",
+   "US Congress",
+   "midterm elections",
+   "Donald Trump",
+   "legislation"
+  ],
+  "slug": "democrats-win-control-house-senate-midterm-upset-ecaf92",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-05T02:44:33Z"
+ },
+ {
+  "id": "7f5a2e7845539490",
+  "source_url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
+  "source": "BBC News",
+  "source_title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+  "source_summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png",
+  "published": "2026-11-04T22:48:43+00:00",
+  "headline": "Ukraine Releases Bodycam Footage of Deadly Russian Double‑Tap Bombing",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukraine's interior ministry said a body‑camera video captured a Russian double‑tap bombing that struck a village on Monday, killing at least 40 people. The footage shows the initial explosion followed moments later by a second blast that intensified the devastation."
+   },
+   {
+    "type": "p",
+    "text": "Officials in Kyiv estimate that another 30 residents may still be trapped beneath the rubble. The attack, described as a deliberate tactic to maximize civilian casualties, has prompted renewed calls for stronger international condemnation of Russia's methods."
+   },
+   {
+    "type": "p",
+    "text": "The Ukrainian government is using the video to document the incident and to bolster its appeals for humanitarian aid and accountability."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the ongoing civilian toll of the Ukraine war, a concern for European and U.S. policymakers monitoring the conflict’s humanitarian impact."
+   }
+  ],
+  "key_points": [
+   "A body‑camera video released by Ukraine shows a Russian double‑tap bombing that killed at least 40 people.",
+   "Up to 30 more victims may remain buried under the wreckage of the village.",
+   "Kyiv says the attack illustrates a tactic aimed at increasing civilian casualties."
+  ],
+  "meta_description": "Ukraine releases bodycam video of a Russian double‑tap bombing that killed at least 40, with dozens possibly still trapped.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Russia",
+   "war",
+   "civilian casualties",
+   "bodycam",
+   "double‑tap"
+  ],
+  "slug": "ukraine-releases-bodycam-footage-deadly-russian-doubletap-bombing-7f5a2e",
+  "reading_minutes": 1,
+  "added": "2026-11-05T02:44:48Z"
+ },
+ {
+  "id": "1d239a06286d0bc6",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o",
+  "source": "BBC Sport",
+  "source_title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+  "source_summary": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola, as former Reds hero Dirk Kuyt celebrates a \"miracle\" in Istanbul.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg",
+  "published": "2026-11-04T22:38:24+00:00",
+  "headline": "Liverpool Lose to Fenerbahce as Iraola Decries Cheap Goals",
+  "body": [
+   {
+    "type": "p",
+    "text": "Liverpool were beaten by Turkish side Fenerbahce in Istanbul, with manager Andoni Iraola blaming the defeat on \"cheap\" and \"messy\" goals conceded by his team. The loss ended Liverpool's hopes of progressing further in the competition."
+   },
+   {
+    "type": "p",
+    "text": "Former Liverpool striker Dirk Kuyt, now associated with the Turkish club, hailed the victory as a \"miracle\" for Fenerbahce, celebrating the upset in front of a passionate Istanbul crowd. His comments underscored the emotional weight of the win for the Turkish side."
+   },
+   {
+    "type": "p",
+    "text": "Iraola said the defensive lapses were uncharacteristic for a club of Liverpool's stature and promised a review of the team's performance. The defeat adds pressure on the English side as they look to regroup for upcoming domestic fixtures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The defeat curtails Liverpool's European campaign, affecting their season objectives and financial prospects."
+   }
+  ],
+  "key_points": [
+   "Liverpool were eliminated after conceding two goals described as cheap and messy by manager Andoni Iraola.",
+   "Former Liverpool hero Dirk Kuyt called Fenerbahce's win a \"miracle\" in Istanbul.",
+   "The loss raises concerns about Liverpool's defensive solidity ahead of their next matches."
+  ],
+  "meta_description": "Liverpool exit the competition after a loss to Fenerbahce, with manager Iraola citing cheap goals and former player Kuyt calling the win a miracle.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Fenerbahce",
+   "Andoni Iraola",
+   "Dirk Kuyt",
+   "European football"
+  ],
+  "slug": "liverpool-lose-fenerbahce-iraola-decries-cheap-goals-1d239a",
+  "reading_minutes": 1,
+  "added": "2026-11-05T02:44:20Z"
+ },
+ {
+  "id": "2099677174aae71e",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo",
+  "source": "BBC Sport",
+  "source_title": "Haaland scores winner as Man City beat Leipzig",
+  "source_summary": "Erling Haaland scores the winning goal as Manchester City overcome being pegged back twice to beat RB Leipzig 3-2 on match day four of the UEFA Champions League group phase.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-04T22:15:31+00:00",
+  "headline": "Haaland Nets Late Winner as Man City Beats Leipzig 3-2",
+  "body": [
+   {
+    "type": "p",
+    "text": "Erling Haaland delivered the decisive strike for Manchester City as they edged past RB Leipzig 3-2 in their fourth group‑stage match of the UEFA Champions League. City fell behind twice, first conceding an early goal before equalising, only to see Leipzig level again before Haaland's winner in the closing minutes."
+   },
+   {
+    "type": "p",
+    "text": "The Norwegian forward's goal capped a comeback that highlighted City’s resilience under pressure. Leipzig, who had pushed the English side back on two occasions, were unable to find a third equaliser, leaving the match in Manchester’s favour."
+   },
+   {
+    "type": "p",
+    "text": "The victory keeps City in contention for a top‑two finish in Group A, while Leipzig must seek points in their remaining fixtures to stay in the competition."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The win improves Manchester City’s position in a tightly contested group, influencing the knockout‑stage picture for European clubs and fans across the continent."
+   }
+  ],
+  "key_points": [
+   "Erling Haaland scored the late winner to secure a 3-2 win for Manchester City over RB Leipzig.",
+   "City recovered from two setbacks in the match, demonstrating strong comeback ability.",
+   "The result strengthens City’s chances of advancing from the Champions League group stage."
+  ],
+  "meta_description": "Erling Haaland's late goal gives Manchester City a 3-2 comeback win over RB Leipzig in the Champions League group stage.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester City",
+   "RB Leipzig",
+   "UEFA Champions League",
+   "Erling Haaland",
+   "Group Stage"
+  ],
+  "slug": "haaland-nets-late-winner-man-city-beats-leipzig-3-209967",
+  "reading_minutes": 1,
+  "added": "2026-11-05T02:44:52Z"
+ },
+ {
   "id": "4c512ea8aa4a9d13",
   "source_url": "https://www.npr.org/2026/11/04/nx-s1-6029646/south-carolina-winner-annie-andrews-talks-about-her-win-and-the-path-ahead",
   "source": "NPR",
