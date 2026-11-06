@@ -1,5 +1,692 @@
 [
  {
+  "id": "2cfe3d57227d59f4",
+  "source_url": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "US judge temporarily blocks Trump's arch project after panel approval",
+  "source_summary": "A judge ordered a two-week stop to construction on US President Trump's arch project in Washington. A federal panel had approved Trump's triumphal arch plans in an 8-4 vote.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79871720_6.jpg",
+  "published": "2026-11-06T06:30:00+00:00",
+  "headline": "Judge Halts Construction of Trump’s Washington Arch Project",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge issued an order on Sunday that temporarily stops work on the proposed triumphal arch for President Donald Trump in Washington, D.C. The injunction will remain in effect for two weeks, pausing all construction activities while legal challenges are considered."
+   },
+   {
+    "type": "p",
+    "text": "The ruling comes after a federal review panel gave the project a narrow 8‑4 vote of approval earlier this month. The panel’s endorsement allowed the design to move forward, but the judge’s temporary block underscores ongoing disputes over the arch’s funding, location and compliance with historic preservation rules."
+   },
+   {
+    "type": "p",
+    "text": "Lawyers for the project argue that the arch is a private initiative that should proceed without further delay, while opponents contend that the structure raises constitutional and environmental concerns. The court’s decision does not resolve the underlying issues but merely provides a pause to assess them."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights how federal oversight can impact high‑profile private construction projects in the nation’s capital, a point of interest for both U.S. and European observers of American governance."
+   }
+  ],
+  "key_points": [
+   "A judge ordered a two‑week halt to construction of Trump’s Washington arch.",
+   "The pause follows an 8‑4 panel vote that had previously approved the project.",
+   "Legal challenges focus on funding, historic preservation and constitutional issues."
+  ],
+  "meta_description": "A federal judge orders a two‑week stop to construction of Donald Trump's proposed Washington arch after an 8‑4 panel approval.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Washington",
+   "arch project",
+   "federal judge",
+   "construction halt"
+  ],
+  "slug": "judge-halts-construction-trumps-washington-arch-project-2cfe3d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-06T06:31:20Z"
+ },
+ {
+  "id": "9889510bec40cd60",
+  "source_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+  "source": "TechCrunch",
+  "source_title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+  "source_summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+  "source_tags": [
+   "AI",
+   "Security",
+   "Lightspeed Venture Capital",
+   "M&A",
+   "palo alto networks",
+   "signalfire"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+  "published": "2026-11-06T06:28:32+00:00",
+  "headline": "Palo Alto Networks Negotiates $500M Purchase of AI Security Startup Clutch",
+  "body": [
+   {
+    "type": "p",
+    "text": "Palo Alto Networks is reportedly in discussions to acquire Clutch, an artificial‑intelligence‑driven security startup, for approximately $500 million. The deal, if finalized, would represent a significant premium over Clutch’s most recent valuation of $85 million."
+   },
+   {
+    "type": "p",
+    "text": "Clutch, which focuses on AI agents for threat detection and response, has attracted backing from venture firms Lightspeed and SignalFire. The startup’s technology is positioned to augment Palo Alto’s existing portfolio of cybersecurity solutions."
+   },
+   {
+    "type": "p",
+    "text": "Industry sources indicate that the acquisition would expand Palo Alto’s capabilities in automated security operations, a segment experiencing rapid growth as enterprises seek to counter increasingly sophisticated cyber threats."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The deal highlights the accelerating consolidation in the cybersecurity market as large vendors seek AI tools to meet rising demand for automated threat protection."
+   }
+  ],
+  "key_points": [
+   "Palo Alto Networks is in talks to buy AI security firm Clutch for about $500 million.",
+   "Clutch was last valued at $85 million and is backed by Lightspeed and SignalFire.",
+   "The acquisition would enhance Palo Alto’s AI‑driven threat detection offerings."
+  ],
+  "meta_description": "Palo Alto Networks is negotiating a $500M acquisition of AI security startup Clutch, valued at $85M and backed by Lightspeed and SignalFire.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Palo Alto Networks",
+   "Clutch",
+   "AI security",
+   "cybersecurity acquisitions",
+   "venture capital"
+  ],
+  "slug": "palo-alto-networks-negotiates-500m-purchase-ai-security-startup-988951",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-06T06:31:24Z"
+ },
+ {
+  "id": "e1ce07e1c610889c",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo",
+  "source": "BBC Sport",
+  "source_title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+  "source_summary": "Former Manchester United and England captain Wayne Rooney is named pundit of the year at the prestigious Broadcast Sport Awards.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968f/live/1d5335f0-d84d-11f1-b870-55415e6a9944.png",
+  "published": "2026-11-06T06:22:00+00:00",
+  "headline": "Wayne Rooney Wins Pundit of the Year at Broadcast Sport Awards",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Manchester United and England captain Wayne Rooney has been honoured with the Pundit of the Year trophy at this year’s Broadcast Sport Awards. The accolade recognises his work as a football analyst across television and radio platforms."
+   },
+   {
+    "type": "p",
+    "text": "The award, presented by the industry‑wide ceremony, highlights Rooney’s transition from player to respected commentator. His insights have been praised for combining tactical knowledge with engaging delivery, earning him the support of both peers and audiences."
+   },
+   {
+    "type": "p",
+    "text": "Organisers noted that Rooney’s performance this season helped elevate the quality of football coverage, reinforcing the importance of former athletes contributing to sports broadcasting."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Rooney’s recognition underscores the growing influence of former players in shaping sports media, a trend that resonates with football fans across the US, UK and Europe."
+   }
+  ],
+  "key_points": [
+   "Wayne Rooney was named Pundit of the Year at the Broadcast Sport Awards.",
+   "The award acknowledges his impact as a football analyst after retiring from playing.",
+   "His commentary is credited with enhancing the depth of football broadcasts."
+  ],
+  "meta_description": "Wayne Rooney wins Pundit of the Year at the Broadcast Sport Awards, highlighting his impact as a top football analyst.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Wayne Rooney",
+   "Broadcast Sport Awards",
+   "pundit of the year",
+   "football",
+   "sports media"
+  ],
+  "slug": "wayne-rooney-wins-pundit-year-broadcast-sport-awards-e1ce07",
+  "reading_minutes": 1,
+  "added": "2026-11-06T06:31:28Z"
+ },
+ {
+  "id": "fa785fffcec5f960",
+  "source_url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+  "source": "The Guardian",
+  "source_title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+  "source_summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the country’s largest lenders, claiming to have about 60% of Paraguay’s adult population as customers.",
+  "source_tags": [
+   "Paraguay",
+   "Financial crisis",
+   "Banking",
+   "Americas",
+   "World news"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=700&quality=85&auto=format&fit=max&s=5ed3c0943e5233ed409e6bf5a4d8a789",
+  "published": "2026-11-06T06:16:22+00:00",
+  "headline": "Paraguay President Santiago Peña Resigns Amid Bank Collapse",
+  "body": [
+   {
+    "type": "p",
+    "text": "Paraguayan President Santiago Peña stepped down on Thursday as a political and financial crisis toppled the nation’s banking system. The turmoil centers on Ueno Bank, which under Peña’s right‑wing administration was authorized to rapidly expand its operations."
+   },
+   {
+    "type": "p",
+    "text": "Ueno Bank, once a little‑known digital lender, grew to become one of Paraguay’s largest banks, claiming roughly 60% of the adult population as customers. The swift expansion preceded the bank’s sudden collapse, which froze millions of Paraguayans’ savings."
+   },
+   {
+    "type": "p",
+    "text": "The president’s resignation follows mounting pressure from opposition parties and public outrage over the loss of deposits, marking a dramatic shift in Paraguay’s political landscape."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The collapse highlights risks of rapid financial deregulation in emerging markets, a concern for investors and policymakers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "President Santiago Peña resigned amid a banking crisis that froze millions in savings.",
+   "Ueno Bank expanded dramatically under Peña’s administration before collapsing.",
+   "The bank claimed to serve about 60% of Paraguay’s adult population before the crisis."
+  ],
+  "meta_description": "Paraguayan President Santiago Peña resigns as Ueno Bank's collapse freezes millions in savings, sparking a national financial crisis.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Paraguay",
+   "banking crisis",
+   "Santiago Peña",
+   "Ueno Bank",
+   "financial stability"
+  ],
+  "slug": "paraguay-president-santiago-pena-resigns-amid-bank-collapse-fa785f",
+  "reading_minutes": 1,
+  "added": "2026-11-06T06:31:31Z"
+ },
+ {
+  "id": "e3cb7a4059dddc69",
+  "source_url": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
+  "source": "NPR",
+  "source_title": "A judge blocks construction of Trump's arch moments after it won federal approval",
+  "source_summary": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5722x3815+0+0/resize/5722x3815!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fad%2F519ddb20452ca88d55aff277fc30%2Fgettyimages-2303244303.jpg",
+  "published": "2026-11-06T05:05:43+00:00",
+  "headline": "Federal Judge Blocks Construction of Trump’s Proposed Arch for 14 Days After Panel Approval",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge issued an order just after midnight that halts work on the Trump administration’s planned arch for a two‑week period. The injunction came shortly after a federal panel gave the project its final approval late Thursday, a move the administration had hoped would allow construction to begin immediately."
+   },
+   {
+    "type": "p",
+    "text": "The judge’s order does not cancel the project but requires a 14‑day pause while legal challenges are considered. Officials from the administration have not provided a new timeline for when work might resume, and the pause underscores the ongoing scrutiny of high‑profile infrastructure proposals."
+   },
+   {
+    "type": "p",
+    "text": "The decision illustrates the checks and balances that can intervene even after a project clears regulatory review, highlighting the role of the judiciary in overseeing federal initiatives."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling shows how judicial review can delay high‑profile federal projects, affecting timelines and political messaging."
+   }
+  ],
+  "key_points": [
+   "A federal judge blocked construction of the Trump administration’s arch for 14 days.",
+   "The injunction follows a federal panel’s approval that was expected to start work immediately."
+  ],
+  "meta_description": "A federal judge has halted construction of the Trump administration's proposed arch for two weeks after panel approval.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "arch",
+   "federal judge",
+   "construction",
+   "legal ruling"
+  ],
+  "slug": "federal-judge-blocks-construction-trumps-proposed-arch-14-days-e3cb7a",
+  "reading_minutes": 1,
+  "added": "2026-11-06T06:31:40Z"
+ },
+ {
+  "id": "7738513119a2525e",
+  "source_url": "https://www.theguardian.com/politics/audio/2026/nov/06/us-midterm-elections-politics-weekly-america-panel-podcast",
+  "source": "The Guardian",
+  "source_title": "As the Republican civil war kicks off, Democrats start plotting – podcast",
+  "source_summary": "After the midterms earthquake that shook US politics, Jonathan Freedland hosts a Guardian Live event panel to look at what happens next – for Donald Trump, the Republicans who might want to succeed him, and for Democrats looking ahead to 2028. He’s joined by the Guardian’s Washington bureau chief, David Smith; Tara Setmayer, a co-founder and CEO of the Seneca project; the Guardian’s global editor, Devika Bhat; Adam Smith, a professor of US politics and political history at the University of Oxford; and the clinical psychologist, author and political commentator Mary Trump Listen out for the latest episode of Radical Thinking with Aditya Chakrabortty Watch Jonathan Freedland on our new Politics Weekly YouTube channel . Send your questions and feedback to politicsweeklyamerica@theguardian.com",
+  "source_tags": [
+   "US politics",
+   "US midterm elections 2026",
+   "Donald Trump",
+   "Republicans",
+   "Democrats",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/8e8cd47b174da0b9a5a789282d35cf45cc41ff0a/1465_0_5987_4791/master/5987.jpg?width=700&quality=85&auto=format&fit=max&s=f94ea12253f557c65fb1a3d8e256deec",
+  "published": "2026-11-06T05:00:43+00:00",
+  "headline": "Guardian Live Panel Analyzes Post‑Midterm GOP Turmoil and Democratic Strategy",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a Guardian Live event hosted by Jonathan Freedland, a panel examined the fallout from the recent U.S. midterm elections, which the host described as an \"earthquake\" for American politics. The discussion focused on the future of former President Donald Trump, potential successors within the Republican Party, and the Democratic Party’s outlook heading toward the 2028 election cycle."
+   },
+   {
+    "type": "p",
+    "text": "Freedland was joined by the Guardian’s Washington bureau chief David Smith, Tara Setmayer – co‑founder and CEO of the Seneca Project, global editor Devika Bhat, Oxford professor of U.S. politics Adam Smith, and clinical psychologist and political commentator Mary Trump. Each panelist offered perspectives on the emerging intra‑party conflict among Republicans and the strategic options Democrats might pursue."
+   },
+   {
+    "type": "p",
+    "text": "Listeners are invited to submit questions and feedback via politicsweeklyamerica@theguardian.com, and the episode will be available on the Radical Thinking podcast with Aditya Chakrabortty as well as on the new Politics Weekly YouTube channel."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The analysis offers U.S. and European audiences insight into the shifting dynamics of American politics after a pivotal election, highlighting potential impacts on future policy and international relations."
+   }
+  ],
+  "key_points": [
+   "The panel addressed the Republican Party’s internal divisions following the midterms.",
+   "Democrats are planning their approach for the 2028 election cycle.",
+   "The discussion featured a mix of journalists, political analysts, and a Trump family member."
+  ],
+  "meta_description": "Guardian Live panel discusses post‑midterm GOP turmoil and Democratic plans for 2028 with journalists and political experts.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US midterms",
+   "Republican Party",
+   "Democratic strategy",
+   "Jonathan Freedland",
+   "Political analysis"
+  ],
+  "slug": "guardian-live-panel-analyzes-postmidterm-gop-turmoil-democratic-strategy-773851",
+  "reading_minutes": 1,
+  "added": "2026-11-06T06:31:52Z"
+ },
+ {
+  "id": "171fa26b482b13f0",
+  "source_url": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Ex-lawmaker jailed in Macau's first national security trial",
+  "source_summary": "Pro-democracy former lawmaker Au Kam San was found guilty of \"subversion against the political power of the State.\" He was handed a prison sentence of 12-and-a-half years.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79871604_6.jpg",
+  "published": "2026-11-06T04:54:00+00:00",
+  "headline": "Ex‑Lawmaker Au Kam San Sentenced to 12½ Years in Macau’s First National Security Trial",
+  "body": [
+   {
+    "type": "p",
+    "text": "Pro‑democracy former Macau legislator Au Kam San was convicted of \"subversion against the political power of the State\" by a local court. The verdict marks the territory’s inaugural national‑security case under China’s sweeping security legislation."
+   },
+   {
+    "type": "p",
+    "text": "The court handed Au a prison term of twelve and a half years. Authorities said the sentence reflects the seriousness of the charge, which they described as an attempt to undermine state authority."
+   },
+   {
+    "type": "p",
+    "text": "Human‑rights observers have warned that the expanding use of national‑security laws in Macau and Hong Kong could curb political dissent and limit civil liberties in the region."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling underscores Beijing’s tightening grip on political expression in Macau, echoing concerns in the US and Europe about the erosion of democratic freedoms in Chinese‑controlled territories."
+   }
+  ],
+  "key_points": [
+   "Au Kam San, a former pro‑democracy lawmaker, was found guilty of subversion in Macau’s first national‑security trial.",
+   "He received a 12½‑year prison sentence.",
+   "The case highlights the growing application of China’s national‑security framework in its special administrative regions."
+  ],
+  "meta_description": "Former Macau lawmaker Au Kam San sentenced to 12½ years after the territory's first national security trial for subversion.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Macau",
+   "national security law",
+   "Au Kam San",
+   "China",
+   "political repression"
+  ],
+  "slug": "exlawmaker-au-kam-san-sentenced-1212-years-macaus-first-171fa2",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-06T06:32:00Z"
+ },
+ {
+  "id": "c538f6bb90c3acce",
+  "source_url": "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html",
+  "source": "The New York Times",
+  "source_title": "House G.O.P. Leaders Ask Nvidia’s Huang to Speak in Closed-Door Briefing",
+  "source_summary": "The New York Times reported last week that Mr. Huang had a close relationship with an executive that U.S. officials determined was funneling information to Chinese intelligence.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Data Centers",
+   "Computer Chips",
+   "Megaspeed International Pte Ltd",
+   "NVIDIA Corporation",
+   "Huang, Jen-Hsun",
+   "Mast, Brian J (1980- )",
+   "Crawford, Rick",
+   "China"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05biz-jensen-congress-gwjh/05biz-jensen-congress-gwjh-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T01:10:46+00:00",
+  "headline": "House GOP Leaders Call Nvidia CEO Huang for Closed‑Door Briefing",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republican leaders in the U.S. House have asked Nvidia chief executive Jensen Huang to appear at a closed‑door briefing. The request follows a New York Times report that Huang maintains a close relationship with an executive whom U.S. officials have identified as passing information to Chinese intelligence agencies."
+   },
+   {
+    "type": "p",
+    "text": "The briefing is expected to address concerns about potential security risks linked to Nvidia’s technology and its ties to individuals under investigation for espionage. Lawmakers have not disclosed the specific agenda, but the meeting underscores heightened scrutiny of high‑tech firms amid ongoing geopolitical tensions."
+   },
+   {
+    "type": "p",
+    "text": "Nvidia has not commented publicly on the invitation or the allegations surrounding the executive. The company continues to play a pivotal role in the development of artificial intelligence hardware, a sector that has attracted increased attention from both U.S. policymakers and foreign intelligence services."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The meeting highlights U.S. concerns over technology firms’ connections to foreign intelligence, a issue of interest to both American and European security policymakers."
+   }
+  ],
+  "key_points": [
+   "House Republican leaders have invited Nvidia CEO Jensen Huang to a private briefing.",
+   "The invitation follows a report of Huang’s close ties to an executive accused of funneling data to Chinese intelligence."
+  ],
+  "meta_description": "House GOP leaders request Nvidia CEO Jensen Huang for a closed‑door briefing after reports of his ties to an executive linked to Chinese intelligence.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "House GOP",
+   "China intelligence",
+   "tech security"
+  ],
+  "slug": "house-gop-leaders-call-nvidia-ceo-huang-closeddoor-briefing-c538f6",
+  "reading_minutes": 1,
+  "added": "2026-11-06T06:31:48Z"
+ },
+ {
+  "id": "85f398082dadd860",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+  "source": "The Verge",
+  "source_title": "OpenAI is stepping back from NDAs for data center projects",
+  "source_summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]",
+  "source_tags": [
+   "AI",
+   "News",
+   "OpenAI"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-06T00:37:56+00:00",
+  "headline": "OpenAI Drops NDAs for Public Officials in Data Center Projects",
+  "body": [
+   {
+    "type": "p",
+    "text": "OpenAI announced it will no longer require non‑disclosure agreements when dealing with public officials on its data‑center projects. The change comes after recent midterm elections, where voters expressed strong opposition to expanding data‑center footprints."
+   },
+   {
+    "type": "p",
+    "text": "The company said the new commitment is part of broader efforts to be more transparent with the communities where it builds infrastructure. OpenAI added that it will engage directly with local leaders without the secrecy that NDAs have traditionally provided."
+   },
+   {
+    "type": "p",
+    "text": "OpenAI’s shift follows criticism that NDAs have been used to conceal details of site selection, environmental impact and community concerns. By removing these agreements, the firm aims to address public distrust and demonstrate accountability in its expansion plans."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision signals heightened scrutiny of AI firms' infrastructure growth, a trend relevant to regulators and citizens in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "OpenAI will stop using NDAs with public officials for data‑center projects.",
+   "The policy change follows voter backlash against data‑center expansion in recent midterms.",
+   "OpenAI says the move will increase transparency and community engagement."
+  ],
+  "meta_description": "OpenAI will no longer require NDAs with public officials on data‑center projects, aiming for greater transparency after voter opposition.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "data centers",
+   "NDAs",
+   "public policy",
+   "AI infrastructure"
+  ],
+  "slug": "openai-drops-ndas-public-officials-data-center-projects-85f398",
+  "reading_minutes": 1,
+  "added": "2026-11-06T06:32:04Z"
+ },
+ {
+  "id": "4da0a601b9076e0a",
+  "source_url": "https://www.nytimes.com/2026/11/05/health/bird-flu-death-us.html",
+  "source": "The New York Times",
+  "source_title": "Bird Flu Death in Washington State Renews Concern Over the Virus",
+  "source_summary": "The death follows reports of infections in cattle on dozens of American farms across the country over the past month and a worrying outbreak in mink.",
+  "source_tags": [
+   "Agriculture and Farming",
+   "Avian Influenza",
+   "Workplace Hazards and Violations",
+   "Deaths (Fatalities)",
+   "Birds",
+   "Epidemics",
+   "Respiratory Diseases",
+   "Livestock Diseases",
+   "Poultry",
+   "Animals"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-bird-flu-cfvb/05dc-bird-flu-cfvb-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T00:26:37+00:00",
+  "headline": "Bird Flu Fatality in Washington Revives Nationwide Animal Outbreak Fears",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent death from avian influenza in Washington state has heightened alarm over the spread of the virus among U.S. livestock. The case follows a series of confirmed infections in cattle on dozens of farms across the country during the past month."
+   },
+   {
+    "type": "p",
+    "text": "Health officials also reported a concerning outbreak of the disease in mink populations, adding to worries that the virus could cross species barriers more readily than previously thought. The Washington fatality underscores the need for heightened surveillance and biosecurity measures on farms."
+   },
+   {
+    "type": "p",
+    "text": "Veterinary and public‑health agencies are monitoring the situation closely, emphasizing that while human cases remain rare, the economic impact on agriculture could be significant if the virus continues to spread among animals."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The spread of bird flu among livestock threatens food supply chains and could prompt trade restrictions, affecting both U.S. and European markets."
+   }
+  ],
+  "key_points": [
+   "A death from bird flu was confirmed in Washington state.",
+   "Cattle infections have been reported on dozens of U.S. farms in the last month.",
+   "An outbreak of the virus has also been identified in mink."
+  ],
+  "meta_description": "A bird flu death in Washington and recent cattle and mink infections raise concerns for U.S. agriculture and trade.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "bird flu",
+   "livestock",
+   "Washington",
+   "cattle",
+   "mink",
+   "animal health"
+  ],
+  "slug": "bird-flu-fatality-washington-revives-nationwide-animal-outbreak-fears-4da0a6",
+  "reading_minutes": 1,
+  "added": "2026-11-06T06:31:43Z"
+ },
+ {
+  "id": "8e908305639edbea",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo",
+  "source": "BBC Sport",
+  "source_title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+  "source_summary": "Martin O'Neill has previously said he is unsure of his best team, but it is now obvious that Camilo Duran is Celtic's best option through the middle.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/2cdec430-d96f-11f1-9fd0-cdf612d1539f.jpg",
+  "published": "2026-11-06T00:10:28+00:00",
+  "headline": "Camilo Duran Emerges as Celtic’s Key Midfield Choice, O'Neill Says",
+  "body": [
+   {
+    "type": "p",
+    "text": "Celtic manager Martin O'Neill, who previously admitted uncertainty about his optimal lineup, has now identified Camilo Duran as the club’s most effective option in midfield. The Argentine’s recent performances have sparked a noticeable uplift in the team’s play."
+   },
+   {
+    "type": "p",
+    "text": "Alongside Duran, midfielder Osmand has also contributed to Celtic’s renewed energy on the pitch, prompting O'Neill to reassess the role of veteran player Hogh. The manager’s comments suggest a shift in the squad hierarchy as the club seeks consistency in upcoming fixtures."
+   },
+   {
+    "type": "p",
+    "text": "O'Neill’s remarks come as Celtic aim to translate this midfield resurgence into results, with the coaching staff monitoring how the new dynamics affect overall team balance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Celtic’s midfield restructuring could influence the Scottish league race and European competition prospects, topics of interest to football fans across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Martin O'Neill now views Camilo Duran as Celtic’s best midfield option.",
+   "Osmand’s impact alongside Duran has revived Celtic’s on‑field momentum.",
+   "The manager’s comments raise questions about the future role of veteran Hogh."
+  ],
+  "meta_description": "Martin O'Neill names Camilo Duran Celtic's top midfield choice as the team gains new momentum.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Celtic FC",
+   "Martin O'Neill",
+   "Camilo Duran",
+   "midfield",
+   "Scottish football"
+  ],
+  "slug": "camilo-duran-emerges-celtics-key-midfield-choice-o-neill-8e9083",
+  "reading_minutes": 1,
+  "added": "2026-11-06T06:31:36Z"
+ },
+ {
+  "id": "8a3fdc3831a56a0c",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
+  "source": "BBC News",
+  "source_title": "The engine parts that 'fight the laws of the universe'",
+  "source_summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97f5/live/b17307a0-d37b-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-06T00:06:06+00:00",
+  "headline": "Investment Soars in Production of Complex Jet Turbine Blades",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manufacturers are seeing a sharp rise in funding for the production of jet turbine blades, a component renowned for its manufacturing challenges. The blades, essential for high‑performance aircraft engines, require advanced materials and precision engineering that push the limits of current technology."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the surge in capital reflects growing demand for more efficient and reliable engines in both commercial and military aviation. Companies are investing in new casting techniques, additive manufacturing, and sophisticated quality‑control systems to meet these exacting standards."
+   },
+   {
+    "type": "p",
+    "text": "The heightened focus on blade production is also driving collaborations between aerospace firms and research institutions, aiming to shorten development cycles and reduce costs while maintaining safety and performance benchmarks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Stronger investment in turbine blade technology could lower airline operating costs and enhance aircraft efficiency for passengers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Funding for jet turbine blade manufacturing has increased markedly.",
+   "Advanced casting and additive processes are being adopted to tackle production difficulties.",
+   "Collaboration between aerospace companies and research labs is intensifying."
+  ],
+  "meta_description": "Investors are pouring money into the complex production of jet turbine blades, boosting aerospace innovation and efficiency.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "jet engines",
+   "aerospace manufacturing",
+   "investment",
+   "technology",
+   "aviation"
+  ],
+  "slug": "investment-soars-production-complex-jet-turbine-blades-8a3fdc",
+  "reading_minutes": 1,
+  "added": "2026-11-06T06:31:55Z"
+ },
+ {
   "id": "ffa17f4d8f8a70b0",
   "source_url": "https://www.nytimes.com/2026/11/05/us/politics/democrats-blue-wave-elections-districts.html",
   "source": "The New York Times",
