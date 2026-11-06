@@ -1,5 +1,668 @@
 [
  {
+  "id": "f8db21410a19a04e",
+  "source_url": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
+  "source": "The Verge",
+  "source_title": "Stranger Things is getting a live-action spinoff called Other Worlds",
+  "source_summary": "Netflix isn't done with Hawkins, Indiana just yet. The streamer just announced a live-action spinoff of Stranger Things which is expected to debut in 2028. It's called Other Worlds: A Stranger Things Adventure. There aren't a lot of details, but the show will be going back in time quite a bit. According to Netflix, Other […]",
+  "source_tags": [
+   "Entertainment",
+   "Netflix",
+   "News",
+   "Streaming",
+   "TV Shows"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Other_Worlds_Logo_v37_16x9.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-06T14:25:48+00:00",
+  "headline": "Netflix Announces Live‑Action Stranger Things Spinoff “Other Worlds”",
+  "body": [
+   {
+    "type": "p",
+    "text": "Netflix said it will expand the Stranger Things universe with a new live‑action series titled Other Worlds: A Stranger Things Adventure. The spinoff is slated to premiere in 2028 and will return to the fictional town of Hawkins, Indiana."
+   },
+   {
+    "type": "p",
+    "text": "While details remain scarce, the streamer indicated that the show will travel further back in time than the original series, suggesting a deeper exploration of the franchise’s supernatural lore. No cast or production crew have been confirmed yet."
+   },
+   {
+    "type": "p",
+    "text": "The announcement follows Netflix’s recent push to broaden its original content slate, especially in the competitive streaming market where established franchises continue to draw subscriber interest."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The series adds another high‑profile title to Netflix’s lineup, reinforcing its strategy to retain viewers with familiar, franchise‑based content."
+   }
+  ],
+  "key_points": [
+   "Netflix will launch a live‑action Stranger Things spinoff called Other Worlds in 2028.",
+   "The new series will revisit Hawkins and explore earlier time periods within the franchise’s mythology."
+  ],
+  "meta_description": "Netflix announces Other Worlds, a live‑action Stranger Things spinoff set for a 2028 debut, expanding the franchise’s timeline.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Netflix",
+   "Stranger Things",
+   "TV spinoff",
+   "streaming",
+   "entertainment"
+  ],
+  "slug": "netflix-announces-liveaction-stranger-things-spinoff-other-worlds-f8db21",
+  "reading_minutes": 1,
+  "added": "2026-11-06T14:33:25Z"
+ },
+ {
+  "id": "0161e188ff477670",
+  "source_url": "https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html",
+  "source": "The New York Times",
+  "source_title": "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+  "source_summary": "The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.",
+  "source_tags": [
+   "War and Armed Conflicts",
+   "Civilian Casualties",
+   "Houthis",
+   "Saudi Arabia",
+   "Yemen"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/20/world/middleeast/Screenshot-2026-10-29-at-15/Screenshot-2026-10-29-at-15-mediumSquareAt3X.png",
+  "published": "2026-11-06T14:24:45+00:00",
+  "headline": "Saudi-Led Airstrike Hits Yemeni Home, Killing Nine Relatives",
+  "body": [
+   {
+    "type": "p",
+    "text": "In October, a Saudi-led coalition strike hit a residential home in Yemen, killing nine members of a single family, relatives said. The attack occurred amid the coalition's ongoing air campaign, which is supported by the United States, against the Houthi movement."
+   },
+   {
+    "type": "p",
+    "text": "The incident has drawn renewed attention to civilian casualties in the conflict, highlighting concerns from humanitarian groups about the toll on non‑combatants. Officials have not provided an official casualty count for the broader campaign, but the family’s loss underscores the human cost of the air strikes."
+   },
+   {
+    "type": "p",
+    "text": "The coalition has defended its operations as targeting Houthi positions, while critics argue that the bombing of civilian structures violates international humanitarian law."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack highlights the United States' role in a conflict that is generating civilian deaths, raising concerns for Western policymakers about the humanitarian impact of allied military actions."
+   }
+  ],
+  "key_points": [
+   "A Saudi-led, US‑assisted airstrike in October killed nine family members in a Yemeni home.",
+   "The strike intensifies scrutiny of civilian casualties in the coalition's campaign against the Houthis.",
+   "Humanitarian groups warn the bombing may breach international law."
+  ],
+  "meta_description": "A Saudi-led, US‑backed airstrike in Yemen killed nine family members, sparking renewed focus on civilian casualties in the coalition's campaign against…",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Yemen",
+   "Saudi Arabia",
+   "civilian casualties",
+   "Houthis",
+   "US involvement"
+  ],
+  "slug": "saudi-led-airstrike-hits-yemeni-home-killing-nine-relatives-0161e1",
+  "reading_minutes": 1,
+  "added": "2026-11-06T14:33:29Z"
+ },
+ {
+  "id": "9585df0056dbdac5",
+  "source_url": "https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html",
+  "source": "The New York Times",
+  "source_title": "John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89",
+  "source_summary": "The rare Democrat in a fabled family of wealthy Republicans, he served 30 years as senator and helped bring health insurance to millions of low-income children.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Mines and Mining",
+   "Law and Legislation",
+   "Deaths (Obituaries)",
+   "Elections, Senate",
+   "Chase Manhattan Bank",
+   "Lincoln Center for the Performing Arts",
+   "Rockefeller, John D IV",
+   "Appalachian Region",
+   "West Virginia"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06rockefeller_jay-nyt-top/06rockefeller_jay-nyt-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T14:10:45+00:00",
+  "headline": "John D. Rockefeller IV, Former WV Governor and Senator, Dies at 89",
+  "body": [
+   {
+    "type": "p",
+    "text": "John D. Rockefeller IV, a member of the storied Rockefeller family, died at age 89. Though his relatives were long associated with the Republican Party, Rockefeller built a career as a Democrat, serving West Virginia as governor from 1977 to 1985 and then as a U.S. senator for three decades."
+   },
+   {
+    "type": "p",
+    "text": "During his 30‑year tenure in the Senate, Rockefeller was known for championing health‑care initiatives that extended insurance coverage to millions of low‑income children. His legislative work helped shape the expansion of public health programs that continue to benefit vulnerable families across the nation."
+   },
+   {
+    "type": "p",
+    "text": "Rockefeller’s death marks the passing of a rare Democratic voice from a lineage traditionally linked to wealth and Republican politics, highlighting the complex interplay of family legacy and public service in American political history."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Rockefeller’s work on child health insurance continues to influence U.S. health policy, while his bipartisan family background underscores shifting political alignments."
+   }
+  ],
+  "key_points": [
+   "John D. Rockefeller IV served 30 years in the U.S. Senate after two terms as West Virginia governor.",
+   "He was instrumental in expanding health‑insurance coverage for low‑income children.",
+   "His career was notable for being a Democrat from a historically Republican, wealthy family."
+  ],
+  "meta_description": "John D. Rockefeller IV, former West Virginia governor and long‑time senator, dies at 89 after a career shaping health insurance for low‑income children.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rockefeller",
+   "West Virginia",
+   "Senate",
+   "health insurance",
+   "Democratic Party",
+   "political legacy"
+  ],
+  "slug": "john-d-rockefeller-iv-former-wv-governor-senator-dies-9585df",
+  "reading_minutes": 1,
+  "added": "2026-11-06T14:33:33Z"
+ },
+ {
+  "id": "34489981bf71cb06",
+  "source_url": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
+  "source": "The New York Times",
+  "source_title": "Day Drinking With the President",
+  "source_summary": "On a visit to Lyndon Johnson’s Texas ranch, a cub reporter learned why it pays to get out of Washington.",
+  "source_tags": [
+   "Johnson, Lyndon Baines",
+   "Nineteen Hundred Sixties",
+   "Presidents and Presidency (US)",
+   "Ranches",
+   "Texas",
+   "internal-paywall-exempt",
+   "anniversary-175",
+   "archives-informed"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06-EYEWITNESS-LBJ-RANCH-1-qclk/06-EYEWITNESS-LBJ-RANCH-1-qclk-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T14:07:34+00:00",
+  "headline": "Cub Reporter Finds Value in Leaving Washington on LBJ Ranch Visit",
+  "body": [
+   {
+    "type": "p",
+    "text": "During a recent trip to former President Lyndon Johnson’s Texas ranch, a junior reporter experienced a stark contrast to the routine of Capitol Hill. The setting offered a relaxed atmosphere far removed from the pressures of Washington, allowing the journalist to observe the former president’s legacy in a personal environment."
+   },
+   {
+    "type": "p",
+    "text": "The reporter noted that the informal surroundings highlighted why many political figures and staffers find it worthwhile to step away from the capital. The visit underscored the practical benefits of networking and relationship‑building outside the usual corridors of power, a lesson the cub reporter took to heart."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story shows how stepping away from Washington can provide political insiders with valuable connections and perspective, a dynamic relevant to both U.S. and European political observers."
+   }
+  ],
+  "key_points": [
+   "A junior reporter visited Lyndon Johnson’s Texas ranch and noted the contrast with Washington life.",
+   "The experience illustrated the advantages of networking and informal interactions outside the capital."
+  ],
+  "meta_description": "A junior reporter's visit to LBJ's Texas ranch reveals why leaving Washington can be advantageous for political networking.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Lyndon Johnson",
+   "Texas ranch",
+   "political reporting",
+   "Washington",
+   "media",
+   "networking"
+  ],
+  "slug": "cub-reporter-finds-value-leaving-washington-lbj-ranch-visit-344899",
+  "reading_minutes": 1,
+  "added": "2026-11-06T14:33:53Z"
+ },
+ {
+  "id": "14b7c20705ab7ef0",
+  "source_url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+  "source": "CNBC",
+  "source_title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
+  "source_summary": "The Cybertruck and its polarizing design gained a niche following, but it did not achieve mass-market sales and Tesla has issued several voluntary recalls.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108134675-1745324912221-gettyimages-2210779954-TESLA_SHARES.jpeg?v=1745324973&w=1920&h=1080",
+  "published": "2026-11-06T14:01:03+00:00",
+  "headline": "Tesla to Phase Out Texas Cybertruck Production for Cybercab Rollout",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tesla announced it will wind down production of the Cybertruck at its Texas factory next year, shifting resources to accelerate the launch of a new electric taxi concept called the Cybercab, CEO Elon Musk said."
+   },
+   {
+    "type": "p",
+    "text": "The futuristic Cybertruck, known for its polarizing design, has cultivated a niche following but failed to achieve broad market sales, prompting the company to reallocate manufacturing capacity."
+   },
+   {
+    "type": "p",
+    "text": "Tesla has also issued several voluntary recalls of the Cybertruck, citing safety and quality concerns, which have further limited its commercial momentum."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move signals Tesla's pivot toward services-oriented electric vehicles, impacting investors and consumers interested in the future of EV mobility in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Tesla will halt Cybertruck production in Texas in 2027 to focus on the Cybercab.",
+   "The Cybertruck never reached mass-market sales and faced multiple voluntary recalls.",
+   "The shift reflects Tesla's strategy to prioritize new vehicle platforms with broader appeal."
+  ],
+  "meta_description": "Tesla will stop Texas Cybertruck production next year to prioritize the upcoming Cybercab, after limited sales and recalls.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "Cybertruck",
+   "Cybercab",
+   "electric vehicles",
+   "auto industry"
+  ],
+  "slug": "tesla-phase-out-texas-cybertruck-production-cybercab-rollout-14b7c2",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-06T14:33:37Z"
+ },
+ {
+  "id": "d425920da104e527",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv4g11wr6l5jo",
+  "source": "BBC Sport",
+  "source_title": "Fly-half Smith fit to steer England against Wallabies",
+  "source_summary": "Fly-half Fin Smith recovers from a calf injury and will start for England in their opening Test of the autumn against Australia on Sunday.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c9/live/a7ef4800-d9e9-11f1-bbe5-797ee05bee69.jpg",
+  "published": "2026-11-06T14:00:55+00:00",
+  "headline": "Fin Smith Fit to Lead England Against Wallabies in Autumn Test",
+  "body": [
+   {
+    "type": "p",
+    "text": "England’s fly‑half Fin Smith has recovered from a calf injury and is set to start in the national side’s opening autumn Test against Australia on Sunday. The selection confirms his fitness ahead of the high‑profile encounter with the Wallabies."
+   },
+   {
+    "type": "p",
+    "text": "Smith’s return comes after missing recent training sessions while undergoing rehabilitation. Coaching staff have cleared him to play, indicating confidence in his physical condition and readiness to direct England’s attack."
+   },
+   {
+    "type": "p",
+    "text": "The match marks the first of a series of autumn internationals for England, offering Smith an opportunity to re‑establish his form on the international stage against a traditionally strong Australian side."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "England’s performance in the autumn Test series influences world rankings and sets the tone for upcoming tournaments, drawing interest from rugby fans across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Fin Smith is cleared to start for England after a calf injury.",
+   "He will face Australia’s Wallabies in the opening autumn Test on Sunday.",
+   "His selection signals confidence in his fitness and role as playmaker."
+  ],
+  "meta_description": "Fin Smith is fit to start for England against Australia in the opening autumn Test, confirming his recovery from a calf injury.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "England",
+   "Australia",
+   "Fin Smith",
+   "Test match",
+   "injury recovery"
+  ],
+  "slug": "fin-smith-fit-lead-england-against-wallabies-autumn-test-d42592",
+  "reading_minutes": 1,
+  "added": "2026-11-06T14:33:41Z"
+ },
+ {
+  "id": "a3a76987cf68416a",
+  "source_url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+  "source": "The Verge",
+  "source_title": "TikTok’s For You page needs to change, says the EU",
+  "source_summary": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users. In an announcement on Friday, the regulators allege TikTok's algorithm can harm users with \"endless and repeated exposure\" to content related to sadness, isolation, or body image. The findings come months after […]",
+  "source_tags": [
+   "Creators",
+   "Policy",
+   "Social Media",
+   "Tech",
+   "TikTok"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK051_VRG_Illo_N_Barclay_9_tiktok.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-06T14:00:49+00:00",
+  "headline": "EU Finds TikTok’s Recommendation Engine Breaches Platform Rules",
+  "body": [
+   {
+    "type": "p",
+    "text": "The European Commission announced on Friday that TikTok has violated the bloc’s online platform rules. Regulators say the app’s recommendation algorithm creates a “rabbit‑hole effect,” repeatedly serving users content that can intensify feelings of sadness, isolation or body‑image concerns."
+   },
+   {
+    "type": "p",
+    "text": "According to the commission, the algorithm’s endless loop of similar videos may expose users to harmful material for prolonged periods. The findings follow a months‑long investigation into TikTok’s compliance with the Digital Services Act, which requires platforms to mitigate systemic risks and protect user well‑being."
+   },
+   {
+    "type": "p",
+    "text": "The EU has opened formal proceedings against TikTok and may impose fines or demand changes to the recommendation system. TikTok has not yet responded publicly to the allegations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights growing regulatory scrutiny of social‑media algorithms that could affect users in the United States and Europe alike."
+   }
+  ],
+  "key_points": [
+   "The EU Commission says TikTok’s algorithm creates a harmful “rabbit‑hole effect.”",
+   "The platform is accused of violating the Digital Services Act by exposing users to repeated negative content.",
+   "Formal proceedings could lead to fines or mandatory changes to TikTok’s recommendation system."
+  ],
+  "meta_description": "EU regulators claim TikTok’s algorithm breaches platform rules by repeatedly exposing users to harmful content.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "TikTok",
+   "EU regulation",
+   "algorithm",
+   "Digital Services Act",
+   "online safety"
+  ],
+  "slug": "eu-finds-tiktoks-recommendation-engine-breaches-platform-rules-a3a769",
+  "reading_minutes": 1,
+  "added": "2026-11-06T14:33:45Z"
+ },
+ {
+  "id": "55a0c07b629a1a73",
+  "source_url": "https://www.nytimes.com/live/2026/11/06/business/jobs-report-stocks-market-economy/economy-jobs-unemployment",
+  "source": "The New York Times",
+  "source_title": "Here’s the latest.",
+  "source_summary": "A job fair in New York last month.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-jobs-report-hjct/06biz-jobs-report-hjct-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T14:00:40+00:00",
+  "headline": "Here’s the Latest",
+  "body": [
+   {
+    "type": "p",
+    "text": "In business and markets news, The New York Times reports:"
+   },
+   {
+    "type": "quote",
+    "text": "A job fair in New York last month.",
+    "cite": "The New York Times"
+   }
+  ],
+  "key_points": [],
+  "meta_description": "A job fair in New York last month.",
+  "category": "business",
+  "mode": "offline",
+  "index": false,
+  "tags": [
+   "Here",
+   "New York"
+  ],
+  "slug": "heres-latest-55a0c0",
+  "reading_minutes": 1,
+  "added": "2026-11-06T14:33:57Z"
+ },
+ {
+  "id": "e7abd8e164ae4b63",
+  "source_url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
+  "source_summary": "Czech arms makers have thrived on demand linked to the war in Ukraine. But to sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/75314141_6.jpg",
+  "published": "2026-11-06T14:00:00+00:00",
+  "headline": "Czech Defense Firms Turn to Space Tech to Extend Ukraine‑Era Growth",
+  "body": [
+   {
+    "type": "p",
+    "text": "Czech weapons manufacturers have enjoyed a surge in orders linked to the conflict in Ukraine, boosting production of ammunition and other conventional armaments. Industry leaders say the wartime demand cannot be sustained indefinitely, prompting a strategic shift toward advanced technologies."
+   },
+   {
+    "type": "p",
+    "text": "To diversify, companies are investing in research and development for space‑based defense solutions, including satellite communications and surveillance capabilities. The move aims to position Czech firms in emerging markets that complement traditional arms sales."
+   },
+   {
+    "type": "p",
+    "text": "Government officials and trade groups support the transition, highlighting the potential for new export opportunities and the creation of high‑skill jobs. The sector hopes that by expanding into the space domain, it can maintain its recent growth trajectory even as the immediate demand from the Ukraine war wanes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The initiative could reshape Europe's defence supply chain and affect transatlantic security collaborations, offering new opportunities for U.S. and European firms in space‑defence markets."
+   }
+  ],
+  "key_points": [
+   "Czech arms producers seek growth beyond ammunition by developing space‑related defense technologies.",
+   "The shift is driven by the need to sustain revenue after the Ukraine conflict-driven boom.",
+   "Investments in satellite and surveillance systems aim to open new export markets and jobs."
+  ],
+  "meta_description": "Czech weapons makers pivot to space‑defence tech to sustain growth after Ukraine war boom.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Czech Republic",
+   "defence industry",
+   "space technology",
+   "Ukraine war",
+   "arms exports",
+   "innovation"
+  ],
+  "slug": "czech-defense-firms-turn-space-tech-extend-ukraineera-growth-e7abd8",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-06T14:33:49Z"
+ },
+ {
+  "id": "35ab47bbc76cac8b",
+  "source_url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+  "source": "The Verge",
+  "source_title": "Amazon will let you text Alexa your shopping list",
+  "source_summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]",
+  "source_tags": [
+   "AI",
+   "Amazon",
+   "Amazon Alexa",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Amazon-Alexa-for-Shopping-text-order.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-06T14:00:00+00:00",
+  "headline": "Amazon Enables Text Messaging for Alexa Shopping Assistant",
+  "body": [
+   {
+    "type": "p",
+    "text": "Amazon is rolling out a new capability for its Alexa for Shopping service that lets customers place orders by sending a text message. Users can describe the item they want or attach a photo, and the AI will scan Amazon’s catalog for matches, then reply with product recommendations via SMS."
+   },
+   {
+    "type": "p",
+    "text": "The feature aims to streamline the buying process for shoppers who prefer texting over voice commands or app navigation. After receiving the suggestions, customers can confirm a purchase directly through the text thread, completing the transaction without opening the Amazon app or website."
+   },
+   {
+    "type": "p",
+    "text": "Amazon says the service leverages its existing AI and image‑recognition technology to deliver accurate results quickly. The company plans to expand the feature to more product categories over the coming months."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The addition offers a hands‑free, low‑friction shopping option for U.S. and European consumers who rely on mobile texting, potentially boosting Amazon’s retail volume."
+   }
+  ],
+  "key_points": [
+   "Alexa for Shopping will now accept text messages with product descriptions or photos.",
+   "The AI searches Amazon listings and replies with purchase options via SMS.",
+   "Customers can finalize orders directly through the text conversation."
+  ],
+  "meta_description": "Amazon adds SMS ordering to Alexa Shopping, letting users text product details or photos and receive purchase recommendations.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Amazon",
+   "Alexa",
+   "shopping",
+   "text messaging",
+   "AI assistant"
+  ],
+  "slug": "amazon-enables-text-messaging-alexa-shopping-assistant-35ab47",
+  "reading_minutes": 1,
+  "added": "2026-11-06T14:34:05Z"
+ },
+ {
+  "id": "ddde8c49208d7b59",
+  "source_url": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
+  "source": "NPR",
+  "source_title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
+  "source_summary": "Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6911x4607+0+0/resize/6911x4607!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F8e%2F42f5136c40b8aaae31a8117554fb%2Fap26309516866031.jpg",
+  "published": "2026-11-06T13:56:43+00:00",
+  "headline": "Ex-Lawmaker Sentenced to 12.5 Years in Macau’s First Security Trial",
+  "body": [
+   {
+    "type": "p",
+    "text": "A former Macau legislator, identified as Au, was sentenced to 12.5 years in prison after being convicted in the territory’s inaugural national security case. The sentencing marks the first publicly known prosecution under Macau’s national security law, which was enacted in 2009."
+   },
+   {
+    "type": "p",
+    "text": "Au was arrested last year, becoming the initial figure to face charges under the law. The court’s decision underscores the authorities’ willingness to apply the security legislation to high‑profile individuals."
+   },
+   {
+    "type": "p",
+    "text": "The case has drawn attention from observers who note that Macau’s legal system, long regarded as separate from mainland China’s, is now actively enforcing the national security framework."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling illustrates how Macau is increasingly using its national security law, a development that may affect perceptions of legal autonomy in the region."
+   }
+  ],
+  "key_points": [
+   "Former Macau lawmaker Au received a 12.5‑year prison term.",
+   "The case is the first public prosecution under Macau’s 2009 national security law.",
+   "The sentencing signals a new phase of law enforcement in the Special Administrative Region."
+  ],
+  "meta_description": "Former Macau legislator Au sentenced to 12.5 years in the territory's first national security case since the 2009 law.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Macau",
+   "national security law",
+   "court sentencing",
+   "politics",
+   "legal enforcement"
+  ],
+  "slug": "ex-lawmaker-sentenced-12-5-years-macaus-first-security-ddde8c",
+  "reading_minutes": 1,
+  "added": "2026-11-06T14:34:09Z"
+ },
+ {
+  "id": "6913d0b805a11d3a",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo",
+  "source": "BBC Sport",
+  "source_title": "Two-year ban for 'Clicky Ponting' cricketer",
+  "source_summary": "An amateur cricketer is banned for two years for his role in the ‘Clicky Ponting’ cheating scandal that made headlines across the globe.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8850/live/cc8c8630-d9dc-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-06T12:00:21+00:00",
+  "headline": "Amateur Cricketer Receives Two-Year Ban Over Clicky Ponting Scandal",
+  "body": [
+   {
+    "type": "p",
+    "text": "An amateur cricketer has been handed a two‑year suspension after being found involved in the so‑called “Clicky Ponting” cheating scandal. The disciplinary action was announced by the governing body overseeing amateur cricket competitions."
+   },
+   {
+    "type": "p",
+    "text": "The scandal, which attracted worldwide media attention, centered on allegations that the player used illicit methods to gain an unfair advantage during matches. Officials said the ban reflects the seriousness of the breach and aims to deter similar conduct in the sport."
+   },
+   {
+    "type": "p",
+    "text": "The suspended player will be barred from participating in any organized amateur cricket events for the duration of the ban and will also lose any coaching or administrative privileges linked to the sport."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights ongoing concerns about integrity in sports, a topic of interest to fans and regulators in the US, UK, Canada, Germany and Switzerland."
+   }
+  ],
+  "key_points": [
+   "An amateur cricketer received a two‑year ban for involvement in the Clicky Ponting cheating scandal.",
+   "The scandal drew global headlines and prompted strict disciplinary action from cricket authorities."
+  ],
+  "meta_description": "Amateur cricketer banned for two years over the globally reported Clicky Ponting cheating scandal.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cricket",
+   "cheating scandal",
+   "sports bans",
+   "amateur sport",
+   "integrity"
+  ],
+  "slug": "amateur-cricketer-receives-two-year-ban-over-clicky-ponting-6913d0",
+  "reading_minutes": 1,
+  "added": "2026-11-06T14:34:01Z"
+ },
+ {
   "id": "2cfe3d57227d59f4",
   "source_url": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
