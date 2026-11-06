@@ -1,5 +1,690 @@
 [
  {
+  "id": "ffa17f4d8f8a70b0",
+  "source_url": "https://www.nytimes.com/2026/11/05/us/politics/democrats-blue-wave-elections-districts.html",
+  "source": "The New York Times",
+  "source_title": "These 5 Midterm Races Tell the Story of the Democrats’ Blue Wave",
+  "source_summary": "The districts are very different, but they all explain how the Democrats won so big.",
+  "source_tags": [
+   "Politics and Government",
+   "Elections",
+   "Midterm Elections (2026)",
+   "Elections, House of Representatives",
+   "Jeffries, Hakeem",
+   "Bohannan, Christina (1971- )",
+   "Figures, Shomari",
+   "Conley, Cait",
+   "Hudson, Richard L (1971- )",
+   "Garcia, Johnny (1987- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05pol-onpolitics-newsletter-01-vzbc/05pol-onpolitics-newsletter-01-vzbc-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T00:03:36+00:00",
+  "headline": "Five Diverse Midterm Races Illustrate Democrats' sweeping Victory",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent analysis highlights five congressional districts that, despite their varied demographics and political histories, collectively demonstrate how the Democratic Party secured a substantial win in the 2026 midterm elections."
+   },
+   {
+    "type": "p",
+    "text": "Each race showcased unique local factors—ranging from shifting suburban attitudes to changing economic concerns—that aligned with broader national trends favoring Democratic candidates. Together, these contests paint a picture of a party that succeeded across a spectrum of voter bases."
+   },
+   {
+    "type": "p",
+    "text": "The findings suggest that the Democratic surge was not confined to a single region or demographic, but rather reflected a coordinated appeal that resonated in disparate parts of the country."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the varied districts that contributed to the Democratic wave helps voters and analysts gauge the party's nationwide appeal and potential policy direction."
+   }
+  ],
+  "key_points": [
+   "Five distinct districts exemplify the breadth of the Democrats' 2026 midterm gains.",
+   "Local issues in each race aligned with national Democratic messaging.",
+   "The party's victory spanned diverse geographic and demographic areas."
+  ],
+  "meta_description": "Five varied districts illustrate how Democrats achieved a sweeping win in the 2026 midterm elections.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterms",
+   "Democratic Party",
+   "election analysis",
+   "U.S. politics",
+   "voter trends"
+  ],
+  "slug": "five-diverse-midterm-races-illustrate-democrats-sweeping-victory-ffa17f",
+  "reading_minutes": 1,
+  "added": "2026-11-06T00:06:36Z"
+ },
+ {
+  "id": "fb3e595a55ebe30c",
+  "source_url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+  "source": "TechCrunch",
+  "source_title": "Meta, Google, and TikTok sue California AG over teen social media law",
+  "source_summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+  "source_tags": [
+   "Government & Policy"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
+  "published": "2026-11-06T00:01:38+00:00",
+  "headline": "Meta, Google and TikTok Challenge California Teen Social Media Law",
+  "body": [
+   {
+    "type": "p",
+    "text": "Meta Platforms, Alphabet's Google and ByteDance's TikTok have filed a lawsuit against California Attorney General Rob Bonta, contesting a pending state law that would limit social‑media access for users younger than 16. The companies argue that the measure exceeds the state’s authority and could infringe on their constitutional rights."
+   },
+   {
+    "type": "p",
+    "text": "If enacted next year, the legislation would require platforms to verify ages and block or restrict accounts of minors under 16, aiming to curb exposure to harmful content. The plaintiffs claim the rule would impose costly technical burdens and disrupt existing parental‑control features."
+   },
+   {
+    "type": "p",
+    "text": "The case adds to a growing wave of legal challenges by major tech firms against state‑level regulations targeting online safety. A court decision could shape how similar policies are crafted across the United States and potentially influence regulatory approaches in Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome may affect how U.S. states and European regulators design age‑verification and safety rules for digital platforms."
+   }
+  ],
+  "key_points": [
+   "Meta, Google and TikTok are suing California over a law that would restrict social‑media use for under‑16s.",
+   "The companies say the rule exceeds state authority and would create costly compliance hurdles.",
+   "The lawsuit could set precedent for future state and international regulations on teen online safety."
+  ],
+  "meta_description": "Meta, Google and TikTok sue California over a law that would limit social‑media access for users under 16.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "meta",
+   "google",
+   "tiktok",
+   "california",
+   "teen law",
+   "social media"
+  ],
+  "slug": "meta-google-tiktok-challenge-california-teen-social-media-law-fb3e59",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-06T00:06:53Z"
+ },
+ {
+  "id": "e604e040f8bc9821",
+  "source_url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+  "source": "NPR",
+  "source_title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+  "source_summary": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4943x3295+0+0/resize/4943x3295!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2F47%2F2b0ce1bb4a2d829d15fd15e5bab2%2Fgettyimages-2303676947.jpg",
+  "published": "2026-11-05T23:52:48+00:00",
+  "headline": "Melania Trump Highlights Six-Day Oleshky Pause She Says She Brokered",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former First Lady Melania Trump announced that she helped negotiate a six‑day cease‑fire in the Russian‑occupied Ukrainian city of Oleshky. The pause, which began on Tuesday, marks a rare lull in fighting in the region."
+   },
+   {
+    "type": "p",
+    "text": "Trump described the agreement as a \"rare\" diplomatic breakthrough and said it demonstrates her personal involvement in seeking a path to end the war. The pause comes as the U.S. administration intensifies its own diplomatic push for a broader settlement between Russia and Ukraine."
+   },
+   {
+    "type": "p",
+    "text": "Ukrainian officials have not confirmed the details of the arrangement, and Russian authorities have not publicly commented on Melania Trump's role. Observers note that any reduction in hostilities could create space for further negotiations, though the durability of the cease‑fire remains uncertain."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A reduction in fighting could ease humanitarian pressures and provide a window for diplomatic talks that involve the United States and its European allies."
+   }
+  ],
+  "key_points": [
+   "Melania Trump claims she brokered a six‑day cease‑fire in Oleshky, a city under Russian occupation.",
+   "The pause coincides with heightened U.S. diplomatic efforts to secure a wider peace agreement in Ukraine."
+  ],
+  "meta_description": "Melania Trump says she helped arrange a six‑day cease‑fire in Oleshky, aligning with U.S. efforts to push for a broader Ukraine peace deal.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Melania Trump",
+   "Ukraine",
+   "Russia",
+   "ceasefire",
+   "diplomacy"
+  ],
+  "slug": "melania-trump-highlights-six-day-oleshky-pause-she-says-e604e0",
+  "reading_minutes": 1,
+  "added": "2026-11-06T00:06:56Z"
+ },
+ {
+  "id": "b2d385c02ab5ba3e",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+  "source": "The Guardian",
+  "source_title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
+  "source_summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brought a series of dramatic developments, unexpected results and closely contested races across the US. We have put together this video capturing the key moments and offering a quick overview of one of the most important nights in US politics: The Senate race in Mississippi has become one of the most closely watched contests in the midterms, with Republican incumbent Cindy Hyde-Smith and Democratic challenger Scott Colom separated by a remarkably narrow margin.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US Congress",
+   "House of Representatives",
+   "US Senate",
+   "US politics",
+   "Trump administration",
+   "Democrats",
+   "Republicans",
+   "US news",
+   "Donald Trump"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=af25341c8cd038c833e375f181e02a98",
+  "published": "2026-11-05T23:49:39+00:00",
+  "headline": "Democrats Expand House Lead to Nearly 100 Seats in 2026 Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "The 2026 midterm elections saw Democrats widen their advantage in the U.S. House of Representatives, gaining enough seats to hold roughly 100 more than Republicans. The party flipped additional districts in Ohio, Arizona and North Carolina, extending the blue wave that began earlier in the cycle."
+   },
+   {
+    "type": "p",
+    "text": "Republican Senator Ted Cruz described the results as a “Watergate‑level repudiation,” underscoring the depth of the setback for GOP leaders. Meanwhile, the Senate race in Mississippi drew intense attention as incumbent Republican Cindy Hyde‑Smith and Democratic challenger Scott Colom remained separated by a razor‑thin margin, making it one of the closest contests nationwide."
+   },
+   {
+    "type": "p",
+    "text": "The expanding Democratic majority is expected to shape legislative priorities for the next two years, while the tight Mississippi Senate tally could determine the balance of power in the upper chamber."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A larger Democratic House majority will influence U.S. policy direction, while a contested Senate seat could affect the overall partisan balance in Congress, impacting transatlantic trade and security discussions."
+   }
+  ],
+  "key_points": [
+   "Democrats now hold about 100 more House seats than Republicans after flipping districts in Ohio, Arizona and North Carolina.",
+   "Republican leaders, including Ted Cruz, labeled the outcome a historic repudiation of their agenda.",
+   "Mississippi’s Senate race remains undecided, with a narrow gap between incumbent Cindy Hyde‑Smith and challenger Scott Colom."
+  ],
+  "meta_description": "Democrats expand House lead to nearly 100 seats after flipping key districts; Mississippi Senate race remains too close to call.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "U.S. House",
+   "midterm elections",
+   "Democratic gains",
+   "Republican response",
+   "Mississippi Senate",
+   "Ted Cruz"
+  ],
+  "slug": "democrats-expand-house-lead-nearly-100-seats-2026-midterms-b2d385",
+  "reading_minutes": 1,
+  "added": "2026-11-06T00:07:13Z"
+ },
+ {
+  "id": "6cb9709d0028d98c",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o",
+  "source": "BBC Sport",
+  "source_title": "Anderson could be given chance to join Surrey",
+  "source_summary": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab1c/live/9118e0c0-d96f-11f1-9fd0-cdf612d1539f.jpg",
+  "published": "2026-11-05T23:33:52+00:00",
+  "headline": "James Anderson May Extend Legendary Cricket Career with Surrey",
+  "body": [
+   {
+    "type": "p",
+    "text": "England fast‑bowling great James Anderson is being considered for a move to Surrey County Cricket Club, according to reports. The potential switch could give the 45‑year‑old a chance to continue playing at a high level beyond his current tenure with the national side."
+   },
+   {
+    "type": "p",
+    "text": "Surrey officials are said to be evaluating the possibility of adding Anderson to their squad, which would mark a rare late‑career transition for a player of his stature. The club hopes his experience could bolster their bowling attack and mentor younger talent."
+   },
+   {
+    "type": "p",
+    "text": "If the deal materialises, Anderson would join a storied county side and potentially extend a career that has spanned more than two decades, cementing his status as one of England’s most enduring cricketers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Anderson’s continued presence in English cricket could influence the development of emerging talent and maintain high standards in domestic competitions."
+   }
+  ],
+  "key_points": [
+   "James Anderson is being offered a possible contract with Surrey County Cricket Club.",
+   "The move could allow the veteran fast bowler to extend his playing career.",
+   "Surrey hopes Anderson’s experience will strengthen their squad and guide younger players."
+  ],
+  "meta_description": "James Anderson may join Surrey, extending his legendary cricket career and bringing veteran expertise to the county side.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "James Anderson",
+   "Surrey",
+   "cricket",
+   "career extension",
+   "English cricket"
+  ],
+  "slug": "james-anderson-may-extend-legendary-cricket-career-with-surrey-6cb970",
+  "reading_minutes": 1,
+  "added": "2026-11-06T00:06:41Z"
+ },
+ {
+  "id": "622fcd0f80ec228c",
+  "source_url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal",
+  "source_summary": "US President Donald Trump said the Ukraine war was close to being settled and that ending it might involve \"all of Europe.\"",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/78407063_6.jpg",
+  "published": "2026-11-05T23:32:00+00:00",
+  "headline": "Trump Says Ukraine War Near Settlement, Europe May Play Role",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump told reporters that the conflict in Ukraine is close to being resolved. He suggested that a final agreement could involve \"all of Europe,\" implying a broader diplomatic effort beyond the two warring nations."
+   },
+   {
+    "type": "p",
+    "text": "Trump’s comments came as the war has entered its third year, with Western leaders still seeking a path to peace. The president’s remarks hint at a possible shift in U.S. diplomatic messaging, though no specific details about a deal were provided."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A U.S. president’s suggestion of a Europe-wide role in ending the war could influence diplomatic negotiations and affect U.S. and European policy approaches."
+   }
+  ],
+  "key_points": [
+   "Trump claimed the Ukraine war is near a settlement.",
+   "He indicated that any resolution might involve all European countries."
+  ],
+  "meta_description": "President Trump says the Ukraine war is close to settlement and may require involvement from all of Europe.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Ukraine war",
+   "Europe",
+   "peace talks",
+   "US foreign policy"
+  ],
+  "slug": "trump-says-ukraine-war-near-settlement-europe-may-play-622fcd",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-06T00:06:45Z"
+ },
+ {
+  "id": "e27480be66cc23e2",
+  "source_url": "https://www.nytimes.com/2026/11/05/business/media/salon-online-magazine-shutters.html",
+  "source": "The New York Times",
+  "source_title": "Salon, a Pioneer of Digital Journalism, Shuts Down",
+  "source_summary": "The progressive website, founded in 1995, said its business was “no longer sustainable.”",
+  "source_tags": [
+   "News and News Media",
+   "Salon.com"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/05/business/05biz-salon/05biz-salon-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T23:29:23+00:00",
+  "headline": "Salon, Pioneering Progressive Digital News Site Shuts Down",
+  "body": [
+   {
+    "type": "p",
+    "text": "The online magazine Salon, which launched in 1995 as a progressive voice in digital journalism, announced it will cease operations. The outlet cited that its business model had become unsustainable, leading to the decision to shut down."
+   },
+   {
+    "type": "p",
+    "text": "Founded during the early days of the internet, Salon built a reputation for long‑form commentary and investigative reporting. Over three decades, it expanded its readership but struggled to generate sufficient revenue in a changing media market."
+   },
+   {
+    "type": "p",
+    "text": "The closure marks the end of one of the first websites dedicated to progressive news and cultural analysis, highlighting the ongoing financial challenges faced by independent digital publishers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shutdown illustrates the broader difficulty of sustaining independent online journalism in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Salon, a progressive website founded in 1995, is shutting down due to an unsustainable business model.",
+   "The closure underscores financial pressures on independent digital news outlets."
+  ],
+  "meta_description": "Salon, the pioneering progressive digital news site founded in 1995, is closing as its business becomes unsustainable.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "digital media",
+   "journalism",
+   "Salon",
+   "shutdown",
+   "online news"
+  ],
+  "slug": "salon-pioneering-progressive-digital-news-site-shuts-down-e27480",
+  "reading_minutes": 1,
+  "added": "2026-11-06T00:06:49Z"
+ },
+ {
+  "id": "40c4cf2373f2ea24",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo",
+  "source": "BBC News",
+  "source_title": "California governor commutes sentences for state's 548 death row inmates",
+  "source_summary": "California has historically had the largest population of people on death row in the US.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e11/live/430c9930-d956-11f1-b7f4-8bd3c0617693.jpg",
+  "published": "2026-11-05T23:09:33+00:00",
+  "headline": "California Governor Commutes Sentences of All 548 Death Row Inmates",
+  "body": [
+   {
+    "type": "p",
+    "text": "California Governor Gavin Newsom announced a blanket commutation of the sentences of the state's 548 inmates on death row, effectively removing them from the capital punishment roster. The decision follows years of legal challenges and a moratorium on executions that has left the death row population at the highest level in the United States."
+   },
+   {
+    "type": "p",
+    "text": "The commutations mean that the affected prisoners will have their sentences reduced to life imprisonment without the possibility of parole. Officials say the move aligns with ongoing debates over the fairness, cost and efficacy of the death penalty, as well as concerns about wrongful convictions."
+   },
+   {
+    "type": "p",
+    "text": "Advocates for abolition praised the action as a significant step toward ending capital punishment in the nation, while critics warned it could undermine public safety and the victims' families' sense of justice."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The United States remains one of the few Western democracies that still use capital punishment, and California's decision could influence other states and European perspectives on human rights and criminal justice."
+   }
+  ],
+  "key_points": [
+   "Governor Gavin Newsom commuted the sentences of all 548 California death row inmates.",
+   "The commutations convert death sentences to life without parole.",
+   "The action intensifies the national debate over the death penalty's future."
+  ],
+  "meta_description": "California Governor Gavin Newsom commutes the sentences of all 548 death row inmates, sparking renewed debate on capital punishment.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "California",
+   "death penalty",
+   "commutation",
+   "Gavin Newsom",
+   "criminal justice",
+   "US law"
+  ],
+  "slug": "california-governor-commutes-sentences-all-548-death-row-inmates-40c4cf",
+  "reading_minutes": 1,
+  "added": "2026-11-06T00:07:05Z"
+ },
+ {
+  "id": "31aea314f8f91c6e",
+  "source_url": "https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html",
+  "source": "The New York Times",
+  "source_title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
+  "source_summary": "The roughly $330 million deal for the cinephile community site would be part of an effort to add new products and services to the company’s portfolio.",
+  "source_tags": [
+   "News and News Media",
+   "Mergers, Acquisitions and Divestitures",
+   "Movies",
+   "Letterboxd Ltd",
+   "New York Times Company",
+   "A24 Films LLC",
+   "Sony Corporation",
+   "Buchanan, Matthew (Web Designer)",
+   "von Randow, Karl"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/10/29/business/29BIZ-LETTERBOXD/29BIZ-LETTERBOXD-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T23:09:27+00:00",
+  "headline": "NY Times Company in Advanced Talks to Acquire Letterboxd",
+  "body": [
+   {
+    "type": "p",
+    "text": "The New York Times Company is in advanced negotiations to purchase Letterboxd, a social platform for film enthusiasts. The deal is valued at roughly $330 million, according to the newspaper’s report."
+   },
+   {
+    "type": "p",
+    "text": "Letterboxd, which allows users to log, rate, and discuss movies, would become part of the Times’ expanding digital portfolio. The acquisition is aimed at adding new products and services that complement the publisher’s existing news and media offerings."
+   },
+   {
+    "type": "p",
+    "text": "If completed, the transaction would mark a significant move by the Times into the niche of online cinephile communities, potentially broadening its audience and advertising reach."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The deal would extend a major U.S. media brand into a specialized online community, reflecting broader trends of traditional publishers diversifying into niche digital services for global audiences."
+   }
+  ],
+  "key_points": [
+   "The New York Times Company is negotiating a $330 million purchase of Letterboxd.",
+   "The acquisition seeks to broaden the Times’ digital product lineup with a film‑focused community platform.",
+   "Letterboxd would join the Times’ portfolio, potentially expanding its audience and ad revenue."
+  ],
+  "meta_description": "The New York Times Company is in advanced talks to buy film‑social site Letterboxd for about $330 million, expanding its digital portfolio.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "NY Times",
+   "Letterboxd",
+   "acquisition",
+   "media",
+   "digital expansion",
+   "film community"
+  ],
+  "slug": "ny-times-company-advanced-talks-acquire-letterboxd-31aea3",
+  "reading_minutes": 1,
+  "added": "2026-11-06T00:07:09Z"
+ },
+ {
+  "id": "9f5725933b929a26",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo",
+  "source": "BBC Sport",
+  "source_title": "Antonelli says 2027 preparation starts now",
+  "source_summary": "New world champion Kimi Antonelli says he is treating the final races of the season as the beginnings of his campaign to retain the title next year.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f013/live/16615b50-d956-11f1-b7f4-8bd3c0617693.jpg",
+  "published": "2026-11-05T21:19:56+00:00",
+  "headline": "World Champion Kimi Antonelli Plans Early 2027 Title Defense",
+  "body": [
+   {
+    "type": "p",
+    "text": "New Formula One world champion Kimi Antonelli said he is treating the remaining races of the 2026 season as the start of his campaign to keep the title next year. The 22‑year‑old Italian explained that every point and every lap in the closing events will help shape his preparation for 2027."
+   },
+   {
+    "type": "p",
+    "text": "Antonelli emphasized a long‑term approach, focusing on data analysis, fitness work and car development rather than short‑term results. He noted that the team’s engineers are already gathering information that will feed into the off‑season programme, aiming to refine the car before the next championship begins."
+   },
+   {
+    "type": "p",
+    "text": "The champion’s comments underline the importance of continuity in a sport where driver changes and technical upgrades are frequent. By framing the final races as a testing ground, Antonelli hopes to give his team a competitive edge heading into the new season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Antonelli’s early focus on 2027 gives fans in the US and Europe a glimpse of the next championship battle and signals how teams may prioritize off‑season work."
+   }
+  ],
+  "key_points": [
+   "Kimi Antonelli views the last 2026 races as the foundation of his 2027 title defence.",
+   "He is focusing on data, fitness and car development to stay ahead of rivals.",
+   "The approach highlights the value of early preparation in Formula One."
+  ],
+  "meta_description": "World champion Kimi Antonelli says the final 2026 races are the start of his preparation for a 2027 title defence.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kimi Antonelli",
+   "Formula One",
+   "World Champion",
+   "2027 season",
+   "title defence"
+  ],
+  "slug": "world-champion-kimi-antonelli-plans-early-2027-title-defense-9f5725",
+  "reading_minutes": 1,
+  "added": "2026-11-06T00:07:01Z"
+ },
+ {
+  "id": "159c8b63c8bb58ad",
+  "source_url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+  "source": "The New York Times",
+  "source_title": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
+  "source_summary": "Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Russian Invasion of Ukraine (2022)",
+   "United States International Relations",
+   "Peace Process",
+   "Evacuations and Evacuees",
+   "Putin, Vladimir V",
+   "Trump, Donald J",
+   "Trump, Melania",
+   "Zelensky, Volodymyr",
+   "Leo XIV"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-oleshky-hgtc/05int-ukraine-oleshky-hgtc-mediumSquareAt3X.jpg",
+  "published": "2026-11-05T21:07:31+00:00",
+  "headline": "Melania Trump Leads Evacuation Effort in Besieged Ukrainian City",
+  "body": [
+   {
+    "type": "p",
+    "text": "Melania Trump has emerged as an unexpected diplomatic figure in the Ukraine conflict, according to reports from both Moscow and Kyiv. Her team is credited with orchestrating the evacuation of civilians from a city under siege, a move described by officials on both sides as a pivotal humanitarian intervention."
+   },
+   {
+    "type": "p",
+    "text": "The former first lady’s involvement appears to have aligned with the interests of both the Russian and Ukrainian governments, each seeing the operation as a chance to claim a humanitarian success. While details of the evacuation remain limited, the joint acknowledgment underscores her growing influence in international crisis response."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the episode highlights the potential for non‑governmental actors to shape outcomes in war zones, especially when their actions receive endorsement from opposing parties."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode shows how high‑profile individuals can impact humanitarian efforts in Europe, offering a model for future private diplomacy that may affect U.S. and European policy approaches to conflict relief."
+   }
+  ],
+  "key_points": [
+   "Melania Trump’s team coordinated the evacuation of civilians from a besieged Ukrainian city.",
+   "Both Russian and Ukrainian officials say her involvement served their humanitarian interests.",
+   "The episode illustrates the expanding role of private diplomatic initiatives in conflict zones."
+  ],
+  "meta_description": "Melania Trump led a civilian evacuation in a besieged Ukrainian city, a move praised by both Moscow and Kyiv as a humanitarian win.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Melania Trump",
+   "Ukraine",
+   "humanitarian aid",
+   "diplomacy",
+   "evacuation",
+   "Russia"
+  ],
+  "slug": "melania-trump-leads-evacuation-effort-besieged-ukrainian-city-159c8b",
+  "reading_minutes": 1,
+  "added": "2026-11-06T00:07:20Z"
+ },
+ {
+  "id": "645b98c847a48d5f",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o",
+  "source": "BBC Sport",
+  "source_title": "England check on Palmer - what are Tuchel's other big choices?",
+  "source_summary": "It is the last international break of the year and England have some important Nations League games. Thomas Tuchel has big decisions to make in selecting his squad.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46d7/live/5b9e86d0-d946-11f1-b2ee-87d22b17ac74.jpg",
+  "published": "2026-11-05T19:00:04+00:00",
+  "headline": "Tuchel Faces Squad Decisions Ahead of England's Nations League Tests",
+  "body": [
+   {
+    "type": "p",
+    "text": "England enter the final international break of 2026 with crucial Nations League fixtures looming. Manager Thomas Tuchel must finalize his squad, weighing the form and fitness of several players as the team prepares for the upcoming matches."
+   },
+   {
+    "type": "p",
+    "text": "One of the focal points is the status of forward Harry Palmer, whose condition will be closely monitored before a decision is made on his inclusion. Tuchel also has a range of other options to consider across the midfield and defensive lines, reflecting the depth of talent available to the national side."
+   },
+   {
+    "type": "p",
+    "text": "The selections made during this period could shape England's chances in the competition and set the tone for the next phase of international football, as the squad aims to maintain momentum heading into the new year."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "England's decisions affect the Nations League standings, a tournament that determines European football rankings and future tournament seedings."
+   }
+  ],
+  "key_points": [
+   "Thomas Tuchel must decide whether to include Harry Palmer for the Nations League games.",
+   "England's squad choices this break will influence their performance in the competition."
+  ],
+  "meta_description": "Thomas Tuchel weighs squad options, including Harry Palmer, ahead of England's crucial Nations League matches.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England football",
+   "Thomas Tuchel",
+   "Nations League",
+   "Harry Palmer",
+   "international break"
+  ],
+  "slug": "tuchel-faces-squad-decisions-ahead-england-s-nations-league-645b98",
+  "reading_minutes": 1,
+  "added": "2026-11-06T00:07:16Z"
+ },
+ {
   "id": "d031c01e5ea764db",
   "source_url": "https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html",
   "source": "The New York Times",
