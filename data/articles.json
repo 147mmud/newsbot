@@ -1,5 +1,689 @@
 [
  {
+  "id": "b9637fecb673dfb9",
+  "source_url": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Ueno Bank scandal plunges Paraguay into political crisis",
+  "source_summary": "Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Ueno Bank. President Santiago Pena is facing impeachment.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79870876_6.jpg",
+  "published": "2026-11-06T20:23:00+00:00",
+  "headline": "Paraguay Political Crisis Deepens After Ueno Bank Collapse",
+  "body": [
+   {
+    "type": "p",
+    "text": "The sudden failure of Ueno Bank has sent Paraguay into a severe political crisis, according to local reports. Authorities suspect widespread financial fraud at the institution, putting public funds at risk and leaving millions of customers without access to their accounts."
+   },
+   {
+    "type": "p",
+    "text": "The scandal has intensified scrutiny of President Santiago Pena, who now faces an impeachment process as lawmakers demand accountability for the oversight failures that allowed the bank’s collapse. Opposition parties argue that the crisis reflects deeper systemic problems in the country's financial regulation."
+   },
+   {
+    "type": "p",
+    "text": "Economic analysts warn that the loss of confidence in Paraguay’s banking sector could spill over into broader economic instability, affecting both domestic investors and foreign partners."
+   }
+  ],
+  "key_points": [
+   "Ueno Bank's collapse is linked to suspected financial fraud that endangers public money.",
+   "President Santiago Pena faces impeachment amid growing political turmoil.",
+   "Millions of customers are affected, raising concerns about Paraguay's banking stability."
+  ],
+  "meta_description": "Paraguay faces a political crisis as Ueno Bank collapses amid fraud allegations, prompting impeachment talks against President Santiago Pena.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Paraguay",
+   "Ueno Bank",
+   "financial fraud",
+   "impeachment",
+   "political crisis"
+  ],
+  "slug": "paraguay-political-crisis-deepens-after-ueno-bank-collapse-b9637f",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-06T20:32:22Z"
+ },
+ {
+  "id": "e4f448734a06aaa5",
+  "source_url": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+  "source": "NPR",
+  "source_title": "The incoming class of U.S. senators is full of historic firsts",
+  "source_summary": "From the first Native American elected to the U.S. Senate and the first Muslim who will join the upper chamber to the Senate's first Paralympian, voters elected historic candidates in the midterms.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F45%2Fec329b15426b8f905036518cfcae%2Fdems-senate-history.jpg",
+  "published": "2026-11-06T20:21:13+00:00",
+  "headline": "Historic Firsts Shape New U.S. Senate: Native American, Muslim, Paralympian",
+  "body": [
+   {
+    "type": "p",
+    "text": "The 2026 midterm elections produced a Senate cohort that includes several groundbreaking members. Voters elected the first Native American ever to serve in the upper chamber, marking a milestone for Indigenous representation in federal government."
+   },
+   {
+    "type": "p",
+    "text": "The incoming class also welcomes the first Muslim senator, reflecting the growing religious diversity of the electorate. In addition, the Senate will seat its first Paralympian, bringing a unique perspective on disability issues and sports advocacy."
+   },
+   {
+    "type": "p",
+    "text": "These historic firsts arrive at a time when the Senate faces pressing debates on climate policy, immigration reform, and economic recovery. The new members are expected to contribute distinct viewpoints that could shape legislative priorities in the coming years."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The increased diversity may influence legislative agendas and resonate with voters in the U.S., Europe and beyond who seek broader representation in government."
+   }
+  ],
+  "key_points": [
+   "The 2026 Senate class includes the first Native American, first Muslim, and first Paralympian ever elected.",
+   "These milestones signal expanding demographic diversity within U.S. federal institutions.",
+   "The newcomers will join the Senate amid critical policy discussions on climate, immigration, and the economy."
+  ],
+  "meta_description": "The 2026 Senate class features the first Native American, Muslim and Paralympian, marking historic diversity milestones.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "U.S. Senate",
+   "historic elections",
+   "Native American",
+   "Muslim",
+   "Paralympian",
+   "midterms"
+  ],
+  "slug": "historic-firsts-shape-new-u-s-senate-native-american-e4f448",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:32:38Z"
+ },
+ {
+  "id": "859a3cc21fe85895",
+  "source_url": "https://www.nytimes.com/2026/11/06/arts/television/melania-trump-the-series-amazon-prime.html",
+  "source": "The New York Times",
+  "source_title": "Amazon Follows Melania Trump Film With Two-Part Series by the Same Director",
+  "source_summary": "The documentary, which the first lady executive produces, will debut on Nov. 20. Brett Ratner directs.",
+  "source_tags": [
+   "Documentary Films and Programs",
+   "Television",
+   "First Ladies (US)",
+   "United States Politics and Government",
+   "Amazon.com Inc",
+   "Trump, Melania",
+   "Ratner, Brett",
+   "Melania, The Series (Movie)",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06cul-melania-sub-vmgb/06cul-melania-sub-vmgb-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T20:14:57+00:00",
+  "headline": "Amazon to Release Two-Part Documentary on Melania Trump",
+  "body": [
+   {
+    "type": "p",
+    "text": "Amazon announced that a two-part documentary executive‑produced by former first lady Melania Trump will premiere on November 20. The film follows the earlier Melania Trump feature and is being released as a streaming series on the platform."
+   },
+   {
+    "type": "p",
+    "text": "The series is directed by Brett Ratner, who also helmed the preceding documentary. Amazon’s release adds to the growing catalog of political‑themed content that highlights the personal and public life of the former first lady."
+   },
+   {
+    "type": "p",
+    "text": "The project marks another media venture for Trump, who has taken an active role in shaping the narrative of her tenure and post‑White House activities through executive production."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The series underscores the continued public interest in former first‑lady Melania Trump and reflects Amazon’s strategy to attract viewers with high‑profile political documentaries."
+   }
+  ],
+  "key_points": [
+   "Amazon will debut a two‑part documentary about Melania Trump on Nov. 20.",
+   "The series is executive‑produced by Trump and directed by Brett Ratner.",
+   "It follows a prior Melania Trump film and expands political documentary offerings on the streaming service."
+  ],
+  "meta_description": "Amazon streams a two‑part Melania Trump documentary, executive‑produced by the former first lady and directed by Brett Ratner, debuting Nov. 20.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "melania trump",
+   "amazon",
+   "documentary",
+   "brett ratner",
+   "film",
+   "media"
+  ],
+  "slug": "amazon-release-two-part-documentary-melania-trump-859a3c",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:32:58Z"
+ },
+ {
+  "id": "a0e3033170715478",
+  "source_url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
+  "source": "The New York Times",
+  "source_title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+  "source_summary": "Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after false bomb threats, the latest of a series of security incidents.",
+  "source_tags": [
+   "Threats and Threatening Messages",
+   "Bombs and Explosives",
+   "Hoaxes and Pranks",
+   "Airlines and Airplanes",
+   "News and News Media",
+   "Aer Lingus Airlines",
+   "Raidio Teilifis Eireann (RTE)",
+   "Irish Independent",
+   "Sky News",
+   "European Union"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-ireland-threats-01-mtjw/06int-ireland-threats-01-mtjw-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T20:07:47+00:00",
+  "headline": "Coordinated Bomb Threats Disrupt European Flights, Ireland Says",
+  "body": [
+   {
+    "type": "p",
+    "text": "Irish authorities have warned that a series of false bomb threats targeting airlines and media outlets across Europe appears to be part of a coordinated campaign. The threats forced the cancellation or delay of multiple flights and prompted the evacuation of several newsrooms in Ireland, according to statements from Irish officials."
+   },
+   {
+    "type": "p",
+    "text": "The incidents are the latest in a string of security alerts that have unsettled travelers and journalists alike. While no explosives were found, the warnings triggered extensive safety checks at airports and heightened security measures at media facilities, disrupting normal operations and causing significant inconvenience for passengers and staff."
+   },
+   {
+    "type": "p",
+    "text": "Irish officials are working with European partners to trace the source of the threats and assess whether they are linked to a broader pattern of intimidation. They have urged the public to remain vigilant but not to panic, emphasizing that the threats remain unverified and appear to be designed to cause disruption."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disruptions to European air travel affect transatlantic business and tourism, while media evacuations raise concerns about press freedom and security."
+   }
+  ],
+  "key_points": [
+   "Irish officials say recent bomb threats to airlines and newsrooms in Europe are likely coordinated.",
+   "The threats led to flight cancellations, delays, and evacuations of Irish newsrooms.",
+   "Authorities are collaborating with European counterparts to investigate the source."
+  ],
+  "meta_description": "Irish officials say recent bomb threats across Europe are coordinated, causing flight disruptions and newsroom evacuations.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "bomb threats",
+   "Europe",
+   "Ireland",
+   "aviation security",
+   "media safety"
+  ],
+  "slug": "coordinated-bomb-threats-disrupt-european-flights-ireland-says-a0e303",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:32:42Z"
+ },
+ {
+  "id": "c0641eb0de56205a",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+  "source": "The Verge",
+  "source_title": "All the latest updates on AI data centers",
+  "source_summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
+  "source_tags": [
+   "AI",
+   "Energy",
+   "Environment",
+   "News",
+   "Science"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-06T20:02:22+00:00",
+  "headline": "AI Data Centers Surge, Sparking Grid Strain and Community Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tech firms are rapidly constructing massive AI data centers, creating the physical backbone for next‑generation artificial intelligence services. These facilities house thousands of power‑hungry servers designed to handle the computational demands of large language models and other AI workloads."
+   },
+   {
+    "type": "p",
+    "text": "The rapid expansion has ignited disputes worldwide over the strain on local power grids, rising utility costs, and the environmental footprint of these energy‑intensive sites. Communities near proposed locations report worries about noise, heat, and increased electricity rates, while regulators grapple with how to integrate the new load into existing infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "In the United States, the issue has risen to a bipartisan level, prompting lawmakers to examine the balance between fostering AI innovation and protecting consumers and the environment. Similar debates are emerging in Europe, where energy policy and climate goals intersect with the push for AI competitiveness."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The power demands of AI data centers affect electricity costs and climate targets, issues that are directly relevant to consumers and policymakers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Tech companies are building large AI data centers that consume significant electricity.",
+   "The growth of these facilities is causing disputes over grid capacity, utility bills, and environmental impact.",
+   "Policymakers in the US and Europe are debating how to regulate the expansion while supporting AI development."
+  ],
+  "meta_description": "AI data centers are expanding fast, raising concerns about grid strain, utility costs, and environmental impact, prompting bipartisan debate.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "data centers",
+   "energy",
+   "grid",
+   "policy",
+   "environment"
+  ],
+  "slug": "ai-data-centers-surge-sparking-grid-strain-community-concerns-c0641e",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:32:26Z"
+ },
+ {
+  "id": "dfe4e928b06e9902",
+  "source_url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
+  "source": "The Verge",
+  "source_title": "Shure’s popular podcasting and streaming mic is almost $50 off",
+  "source_summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than its usual price, and just a few dollars […]",
+  "source_tags": [
+   "Deals",
+   "Gadgets",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-06T19:47:02+00:00",
+  "headline": "Shure MV7 Plus Podcast Mic Drops to $255, About $50 Off Regular Price",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Shure MV7 Plus, a microphone favored by podcasters and streamers, is currently listed for $255 at several retailers, including Amazon, Guitar Center, and Shure’s own website. This price represents a discount of roughly $50 compared with its standard retail price."
+   },
+   {
+    "type": "p",
+    "text": "The MV7 Plus is praised for delivering clear audio not only for content creators but also for everyday use in video calls, meetings, and Discord chats. Its popularity stems from its versatility across professional and casual recording scenarios."
+   },
+   {
+    "type": "p",
+    "text": "Shoppers can take advantage of the reduced price while supplies last, as the discount appears to be limited to select online stores."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A lower price makes a high‑quality audio tool more accessible to creators and remote‑work users in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Shure MV7 Plus microphone is now $255, about $50 cheaper than usual.",
+   "Discount is available at Amazon, Guitar Center and directly from Shure.",
+   "The mic is valued for both podcasting/streaming and everyday video calls."
+  ],
+  "meta_description": "Shure MV7 Plus microphone is discounted to $255, roughly $50 off, at Amazon, Guitar Center and Shure's site.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Shure",
+   "podcasting",
+   "streaming",
+   "microphone",
+   "price drop",
+   "audio equipment"
+  ],
+  "slug": "shure-mv7-plus-podcast-mic-drops-255-about-50-dfe4e9",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:32:46Z"
+ },
+ {
+  "id": "c937c61b4a1f1978",
+  "source_url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+  "source": "BBC News",
+  "source_title": "AI stocks climb after trillions wiped from market values",
+  "source_summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-06T19:37:10+00:00",
+  "headline": "AI Stocks Rally as Investors Shift After Market Value Losses",
+  "body": [
+   {
+    "type": "p",
+    "text": "Shares of artificial‑intelligence focused companies rose on Monday after a period of heavy selling that had erased trillions of dollars from global market capitalisation. The rebound came as investors reassessed the outlook for the sector following a broader sell‑off in technology equities."
+   },
+   {
+    "type": "p",
+    "text": "The sell‑off was partly driven by speculation that the recent Democratic victory in the U.S. election could slow the pace of AI development, prompting concerns about future revenue growth for AI firms. As those worries eased, demand for AI‑related stocks returned, lifting prices across the board."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the swing highlights the sensitivity of high‑growth tech stocks to political signals and market sentiment. While the rally does not erase the earlier losses, it suggests that investors are willing to re‑enter the AI space as confidence in policy stability improves."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift affects investors in the US and Europe, where AI companies are a growing part of market indices and economic strategy."
+   }
+  ],
+  "key_points": [
+   "AI‑focused stocks recovered after a market slump that removed trillions from tech valuations.",
+   "The earlier decline was linked to fears that a Democratic win might slow AI progress.",
+   "The recent rally indicates renewed investor confidence in the sector."
+  ],
+  "meta_description": "AI stocks bounce back after a market slump tied to political concerns, signaling renewed investor confidence.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "stocks",
+   "market",
+   "technology",
+   "election",
+   "investors"
+  ],
+  "slug": "ai-stocks-rally-investors-shift-after-market-value-losses-c937c6",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:32:30Z"
+ },
+ {
+  "id": "1f75afdfba2b4795",
+  "source_url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
+  "source": "The New York Times",
+  "source_title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
+  "source_summary": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Lobbying and Lobbyists",
+   "Politics and Government",
+   "Corporations",
+   "Bayer AG",
+   "Food and Drug Administration",
+   "Health and Human Services Department",
+   "Wiles, Susie",
+   "Overton, Heidi",
+   "Rogan, Joe"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/06/us/0dc-wiles-means-promo/0dc-wiles-means-promo-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T19:15:55+00:00",
+  "headline": "Former Adviser Says Trump Aide Blocked Health Policies for Donations",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a candid interview on the Joe Rogan podcast, former senior health adviser Calley Means accused Susie Wiles, chief of staff to former President Donald Trump, of repeatedly obstructing health‑care initiatives to secure campaign contributions. Means said Wiles prioritized fundraising over policy goals, citing specific instances where proposed health measures were stalled."
+   },
+   {
+    "type": "p",
+    "text": "According to Means, the pattern reflected a broader tendency to yield to lobbying pressure, with Wiles allegedly focusing on donor interests rather than public health outcomes. He described the behavior as a systematic effort to align policy decisions with the financial needs of the Trump political operation."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "If true, the allegations highlight how donor-driven politics could shape health policy in the United States, a concern also relevant to European debates on campaign finance and lobbying."
+   }
+  ],
+  "key_points": [
+   "Calley Means alleges Susie Wiles blocked health policies to attract campaign donations.",
+   "The accusations suggest lobbying influence outweighed public‑health considerations in the Trump administration.",
+   "The claims were made during a Joe Rogan interview and have sparked political scrutiny."
+  ],
+  "meta_description": "Former health adviser claims Trump chief of staff blocked policies to secure donations, raising concerns about lobbying influence.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Susie Wiles",
+   "health policy",
+   "campaign finance",
+   "lobbying"
+  ],
+  "slug": "former-adviser-says-trump-aide-blocked-health-policies-donations-1f75af",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:32:50Z"
+ },
+ {
+  "id": "1f18812b2ac851db",
+  "source_url": "https://www.nytimes.com/2026/11/06/travel/villa-vie-residences-odyssey-cruise.html",
+  "source": "The New York Times",
+  "source_title": "They Spent Millions to Keep Their Dream Cruise Afloat. It Died Anyway.",
+  "source_summary": "Secrecy, debt and soaring fuel costs all contributed to the Odyssey’s downfall. Here’s an inside look at how the “endless cruise” unraveled.",
+  "source_tags": [
+   "Cruises",
+   "Ships and Shipping",
+   "Retirement",
+   "Credit and Debt",
+   "Start-ups",
+   "Miray International Cruises & Management",
+   "Villa Vie Residences",
+   "Cambodia",
+   "Singapore"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05trav-cruise-lkwz/05trav-cruise-lkwz-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T18:58:23+00:00",
+  "headline": "Odyssey Cruise Line’s $Millions Investment Fails Amid Debt and Fuel Costs",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Odyssey, billed as an \"endless cruise\" experience, collapsed after years of secrecy, mounting debt and record fuel prices. Investors poured millions into the venture, hoping to create a floating resort that would operate without a fixed itinerary."
+   },
+   {
+    "type": "p",
+    "text": "Internal documents reveal that the company struggled to secure financing, relying on high‑interest loans that quickly became unsustainable. As fuel costs surged, operating expenses outpaced revenue, forcing the cruise line to cut services and delay ship upgrades."
+   },
+   {
+    "type": "p",
+    "text": "The financial strain led to layoffs and the eventual suspension of the Odyssey’s operations, leaving passengers and investors disappointed. Analysts say the failure highlights the risks of ambitious hospitality projects that depend on volatile energy markets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The downfall illustrates how rising fuel costs can jeopardize large tourism ventures, affecting investors and travelers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Odyssey’s ambitious \"endless cruise\" model was undermined by heavy debt and rising fuel prices.",
+   "Investors spent millions but the venture could not achieve financial sustainability.",
+   "The collapse underscores the vulnerability of large‑scale travel projects to energy cost volatility."
+  ],
+  "meta_description": "Odyssey cruise's multi‑million dollar project failed due to debt and soaring fuel costs, highlighting risks for travel investors.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cruise industry",
+   "financial risk",
+   "fuel prices",
+   "investment",
+   "travel sector"
+  ],
+  "slug": "odyssey-cruise-lines-millions-investment-fails-amid-debt-fuel-1f1881",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:33:02Z"
+ },
+ {
+  "id": "8396a2ea777102ea",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po",
+  "source": "BBC Sport",
+  "source_title": "Player-coach rift report will only galvanise England - George",
+  "source_summary": "England hooker Jamie George says the squad are \"really upset\" by a newspaper article claiming the end of their summer tour was marked by player unrest over Steve Borthwick's leadership.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20db/live/d8475e40-da0a-11f1-bbd1-cf41b7fd4e9b.jpg",
+  "published": "2026-11-06T18:30:57+00:00",
+  "headline": "England Hooker Jamie George Says Media Rift Will Unite Squad",
+  "body": [
+   {
+    "type": "p",
+    "text": "England hooker Jamie George told reporters that the squad is \"really upset\" after a newspaper article suggested there was unrest among players at the close of their summer tour. The piece alleged dissent over head coach Steve Borthwick's leadership."
+   },
+   {
+    "type": "p",
+    "text": "George dismissed the claims, insisting that the controversy will only serve to galvanise the team rather than divide it. He emphasized the players' commitment to supporting Borthwick and each other as they move forward."
+   },
+   {
+    "type": "p",
+    "text": "The hooker’s remarks come as England prepares for upcoming international fixtures, with the coaching staff aiming to maintain focus amid the media scrutiny."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The statement underscores how media reports can affect team morale ahead of future international matches."
+   }
+  ],
+  "key_points": [
+   "Jamie George says the squad is upset by a report of player unrest.",
+   "He believes the controversy will strengthen, not weaken, team unity.",
+   "The comments address speculation about head coach Steve Borthwick's leadership."
+  ],
+  "meta_description": "England hooker Jamie George says a newspaper story about player unrest will only unite the squad, rejecting claims of dissent over coach Steve Borthwick.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England rugby",
+   "Jamie George",
+   "Steve Borthwick",
+   "team morale",
+   "media controversy"
+  ],
+  "slug": "england-hooker-jamie-george-says-media-rift-will-unite-8396a2",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:32:34Z"
+ },
+ {
+  "id": "a0f9b81e610a3055",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62yy06dejzo",
+  "source": "BBC Sport",
+  "source_title": "Scotland come full circle for another crack at All Blacks",
+  "source_summary": "Sione Tuipulotu and Scotland have the chance to end one of sport's longest-standing hoodoos against New Zealand on Saturday, writes Andy Burke.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/996d/live/16a61820-d9e8-11f1-bbe5-797ee05bee69.jpg",
+  "published": "2026-11-06T18:29:09+00:00",
+  "headline": "Scotland Face New Zealand in Quest to End Historic Rugby Hoodoo",
+  "body": [
+   {
+    "type": "p",
+    "text": "Scotland will meet New Zealand on Saturday in a test match that offers a chance to break one of rugby's longest‑standing hoodoos, according to BBC Sport's Andy Burke. The fixture pits the Scottish side, featuring centre Sione Tuipulotu, against the All Blacks, who have traditionally dominated such encounters."
+   },
+   {
+    "type": "p",
+    "text": "The upcoming game marks another chapter in the rivalry, with Scotland seeking to overturn a pattern of defeats that has persisted for decades. Tuipulotu, a key figure in Scotland's backline, will look to influence the outcome as the team aims to challenge the New Zealand dominance on the field."
+   },
+   {
+    "type": "p",
+    "text": "Both teams are preparing for a high‑stakes contest that carries significant symbolic weight for Scottish supporters, who hope the match could signal a shift in the historic balance of power between the two nations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The game offers Scottish fans a rare opportunity to see their team potentially overturn a decades‑long pattern of losses against a dominant New Zealand side."
+   }
+  ],
+  "key_points": [
+   "Scotland will play New Zealand on Saturday, aiming to end a long‑standing losing streak.",
+   "Centre Sione Tuipulotu is a notable player for Scotland in the upcoming test.",
+   "The match is highlighted as a pivotal moment in the historic Scotland‑All Blacks rivalry."
+  ],
+  "meta_description": "Scotland faces New Zealand on Saturday, hoping to break a historic rugby hoodoo with centre Sione Tuipulotu in the lineup.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Scotland rugby",
+   "New Zealand All Blacks",
+   "Sione Tuipulotu",
+   "international test",
+   "rugby rivalry"
+  ],
+  "slug": "scotland-face-new-zealand-quest-end-historic-rugby-hoodoo-a0f9b8",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:32:54Z"
+ },
+ {
+  "id": "a460b03fb6ca6635",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o",
+  "source": "BBC Sport",
+  "source_title": "Is Palmer's England career over under Tuchel?",
+  "source_summary": "Cole Palmer faces a fight to save his England career after he was excluded from Thomas Tuchel's latest squad, says chief football writer Phil McNulty.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg",
+  "published": "2026-11-06T16:30:03+00:00",
+  "headline": "Cole Palmer Faces Uncertain Future After England Omission",
+  "body": [
+   {
+    "type": "p",
+    "text": "England forward Cole Palmer was left out of manager Thomas Tuchel's most recent squad, prompting concerns about his international prospects. Chief football writer Phil McNulty highlighted the exclusion as a pivotal moment for the 23-year-old, who has struggled to cement a regular place in the national team."
+   },
+   {
+    "type": "p",
+    "text": "McNulty noted that Palmer must now work to convince Tuchel of his value ahead of upcoming fixtures, emphasizing that the decision reflects the competitive nature of England's attacking options. The midfielder's club form remains strong, but the national team selection underscores the challenges he faces to secure a spot."
+   },
+   {
+    "type": "p",
+    "text": "The omission comes as England prepares for a series of Euro 2028 qualifiers, where squad depth and tactical flexibility are crucial. Palmer's response and performance at the club level will be closely watched by the England coaching staff as they finalize future line‑ups."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "England's squad choices affect the team's chances in upcoming Euro 2028 qualifiers, a tournament of interest to European and U.S. soccer fans."
+   }
+  ],
+  "key_points": [
+   "Cole Palmer was omitted from Thomas Tuchel's latest England squad.",
+   "Chief football writer Phil McNulty says Palmer must fight to retain his international place.",
+   "The decision highlights intense competition for attacking roles ahead of Euro 2028 qualifiers."
+  ],
+  "meta_description": "Cole Palmer was left out of Thomas Tuchel's England squad, sparking debate over his international future, reports chief football writer Phil McNulty.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Cole Palmer",
+   "England football",
+   "Thomas Tuchel",
+   "Euro 2028",
+   "international selection"
+  ],
+  "slug": "cole-palmer-faces-uncertain-future-after-england-omission-a460b0",
+  "reading_minutes": 1,
+  "added": "2026-11-06T20:33:06Z"
+ },
+ {
   "id": "f8db21410a19a04e",
   "source_url": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
   "source": "The Verge",
