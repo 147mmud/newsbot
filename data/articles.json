@@ -1,5 +1,669 @@
 [
  {
+  "id": "5c1a467688bd0803",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+  "source": "The Guardian",
+  "source_title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+  "source_summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump ‘learned nothing from his historic defeat’ in the midterms Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and will take part in a Diwali celebration at the White House at 1:30pm ET. While that’s currently not open to the press we’ll let you know if that opens up.",
+  "source_tags": [
+   "US midterm elections 2026",
+   "US Congress",
+   "US Senate",
+   "House of Representatives",
+   "US politics",
+   "Trump administration",
+   "Democrats",
+   "Republicans",
+   "US news",
+   "Donald Trump"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/f9722987baf4b5522f5f6efd1409295823e842e7/1157_0_6660_5331/master/6660.jpg?width=700&quality=85&auto=format&fit=max&s=fe5ab6c051f3dd9b8609b3670fedd19b",
+  "published": "2026-11-07T00:09:34+00:00",
+  "headline": "Democrats Slam Trump’s Choice of Stephen Miller as Chief of Staff",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senate Majority Leader Chuck Schumer denounced President Donald Trump’s decision to elevate Stephen Miller to White House chief of staff, saying the move shows Trump “learned nothing from his historic defeat” in the recent midterm elections. Miller, known for engineering the former president’s strict immigration policies, was appointed shortly after Republicans suffered significant losses in Congress."
+   },
+   {
+    "type": "p",
+    "text": "The announcement came as Trump began a day of closed‑door meetings in Washington and was scheduled to attend a Diwali celebration at the White House at 1:30 p.m. Eastern time. The event, not open to the press, was noted by the White House but no further details were released."
+   },
+   {
+    "type": "p",
+    "text": "Democratic leaders warned that Miller’s promotion signals a continuation of hard‑line immigration enforcement and could deepen partisan divisions ahead of the next election cycle."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The appointment underscores escalating partisan tensions in Washington and raises concerns for allies monitoring U.S. immigration policy and its global implications."
+   }
+  ],
+  "key_points": [
+   "Chuck Schumer called Trump’s appointment of Stephen Miller a sign the president ignored the midterm defeat.",
+   "Miller, the architect of Trump’s immigration crackdown, becomes White House chief of staff.",
+   "Trump’s schedule included closed meetings and a Diwali celebration at the White House."
+  ],
+  "meta_description": "Democrats criticize Trump for naming immigration hardliner Stephen Miller as chief of staff after Republican midterm losses.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Stephen Miller",
+   "US politics",
+   "midterm elections",
+   "immigration policy"
+  ],
+  "slug": "democrats-slam-trumps-choice-stephen-miller-chief-staff-5c1a46",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:16:45Z"
+ },
+ {
+  "id": "fb901f126df45e17",
+  "source_url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+  "source": "The New York Times",
+  "source_title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
+  "source_summary": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
+  "source_tags": [
+   "Banking and Financial Institutions",
+   "Politics and Government",
+   "Impeachment",
+   "Paraguay",
+   "Pena, Santiago"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T23:59:10+00:00",
+  "headline": "Paraguay President Santiago Peña Impeached and Placed Under House Arrest",
+  "body": [
+   {
+    "type": "p",
+    "text": "Paraguayan authorities impeached President Santiago Peña on Friday, removing him from office and ordering his house arrest. The move follows the collapse of a major bank that had close ties to Peña's administration, triggering a financial crisis in the country."
+   },
+   {
+    "type": "p",
+    "text": "Legislators cited the president's alleged involvement in the bank's mismanagement as the primary reason for the impeachment. The impeachment vote met the constitutional threshold required to strip Peña of his powers, and a court subsequently ordered his confinement to his residence pending further investigation."
+   },
+   {
+    "type": "p",
+    "text": "The former leader's removal marks a rare instance of a sitting South American president being ousted amid a banking scandal. International observers noted the swift legal actions, while opposition parties called for broader reforms to prevent similar crises in the future."
+   }
+  ],
+  "key_points": [
+   "President Santiago Peña was impeached and removed from office in Paraguay.",
+   "He was placed under house arrest after a bank linked to his administration collapsed.",
+   "The impeachment was driven by allegations of the president's role in the bank's failure."
+  ],
+  "meta_description": "Paraguay's President Santiago Peña was impeached and put under house arrest after a bank tied to his administration collapsed, sparking a financial crisis.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Paraguay",
+   "Santiago Peña",
+   "impeachment",
+   "banking crisis",
+   "financial scandal"
+  ],
+  "slug": "paraguay-president-santiago-pena-impeached-placed-under-house-arrest-fb901f",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:16:48Z"
+ },
+ {
+  "id": "4edc16aea8a2d5a3",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go",
+  "source": "BBC Sport",
+  "source_title": "Six tries and a big win - but were Ireland ruthless?",
+  "source_summary": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/238a/live/a0d1cbc0-da3d-11f1-a9ed-ff1feb533701.jpg",
+  "published": "2026-11-06T23:57:05+00:00",
+  "headline": "Ireland's Six‑Try, 30‑Point Win Over Argentina Sparks Ruthlessness Debate",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ireland defeated Argentina on Friday with a dominant display that produced six tries and a 30‑point margin. Coach Andy Farrell and forward Tadhg Beirne praised the performance but cautioned that the team could have shown greater ruthlessness in finishing opportunities."
+   },
+   {
+    "type": "p",
+    "text": "The Irish side capitalised on a strong defensive platform and quick ball movement, allowing them to break through the Argentine line repeatedly. Despite the comprehensive scoreline, Farrell noted moments where the squad hesitated to fully exploit gaps, while Beirne echoed the sentiment, suggesting a sharper edge would benefit future contests."
+   },
+   {
+    "type": "p",
+    "text": "Both men emphasized that tightening the attacking finish will be crucial as Ireland prepares for upcoming international fixtures, where margins are tighter and opposition quality higher."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remarks come as Ireland readies for the Six Nations, where a more clinical attack could be decisive against Europe's top sides."
+   }
+  ],
+  "key_points": [
+   "Ireland beat Argentina by 30 points, scoring six tries.",
+   "Coach Andy Farrell and Tadhg Beirne said the team could have been more ruthless.",
+   "The comments highlight a focus on sharper attacking execution ahead of future matches."
+  ],
+  "meta_description": "Ireland's 30‑point win over Argentina prompts coach Andy Farrell and Tadhg Beirne to call for greater ruthlessness ahead of the Six Nations.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ireland rugby",
+   "Argentina",
+   "Six Nations",
+   "Andy Farrell",
+   "Tadhg Beirne",
+   "rugby union"
+  ],
+  "slug": "ireland-s-sixtry-30point-win-over-argentina-sparks-ruthlessness-4edc16",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:16:53Z"
+ },
+ {
+  "id": "9923dd2784fb3b39",
+  "source_url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html",
+  "source": "The New York Times",
+  "source_title": "Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration",
+  "source_summary": "A wave of high-ranking women have left the Trump administration in the past year. Many were replaced by men.",
+  "source_tags": [
+   "Wiles, Susie",
+   "Trump, Donald J",
+   "Midterm Elections (2026)",
+   "United States Politics and Government",
+   "Appointments and Executive Changes",
+   "Women and Girls",
+   "Presidential Transition (US)",
+   "Dhillon, Harmeet"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06trump-wiles-women1-tbkh/06trump-wiles-women1-tbkh-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T23:53:13+00:00",
+  "headline": "Susie Wiles Joins Wave of Senior Women Departing Trump Administration",
+  "body": [
+   {
+    "type": "p",
+    "text": "Longtime political operative Susie Wiles has left her role in the Trump administration, becoming the latest in a series of high‑ranking women to exit the White House over the past year. Wiles, who served as a senior adviser, announced her departure amid growing reports of turnover among female officials."
+   },
+   {
+    "type": "p",
+    "text": "The departures form a broader pattern, with several prominent women in senior positions stepping down or being replaced. Observers note that many of the vacancies have been filled by men, shifting the gender composition of the administration’s leadership team."
+   },
+   {
+    "type": "p",
+    "text": "Analysts suggest the trend could influence the administration’s policy outlook and its public perception on gender representation. The turnover also underscores ongoing challenges for women seeking and retaining top roles in U.S. federal government."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The turnover highlights persistent gender gaps in U.S. political leadership, a concern shared by European audiences monitoring democratic inclusivity."
+   }
+  ],
+  "key_points": [
+   "Susie Wiles has left the Trump administration, adding to a recent exodus of senior women.",
+   "Many of the vacated positions have been filled by male successors, altering the gender balance.",
+   "The shift may affect both policy direction and public views on female representation in government."
+  ],
+  "meta_description": "Susie Wiles exits the Trump administration, joining a wave of senior women departures and male replacements.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Susie Wiles",
+   "women in politics",
+   "administration turnover",
+   "gender parity"
+  ],
+  "slug": "susie-wiles-joins-wave-senior-women-departing-trump-administration-9923dd",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:17:05Z"
+ },
+ {
+  "id": "1e7af97ae7a95ebb",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go",
+  "source": "BBC Sport",
+  "source_title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+  "source_summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/c55f7ff0-da38-11f1-bde4-c13870167801.jpg",
+  "published": "2026-11-06T23:53:06+00:00",
+  "headline": "Dewsbury-Hall's Goal Powers Everton Comeback After England Snub",
+  "body": [
+   {
+    "type": "p",
+    "text": "Midfielder Kiernan Dewsbury-Hall turned a personal disappointment into a decisive performance on Sunday, after being left out of England's squad. The omission spurred him to lead Everton's attack against Coventry City, where he struck a spectacular goal that shifted the momentum of the match."
+   },
+   {
+    "type": "p",
+    "text": "Everton trailed 1-0 before Dewsbury-Hall's effort, a curling strike from the edge of the box, sparked a rapid turnaround. The goal ignited a flurry of attacking play, and the Toffees went on to score two more times, securing a 3-1 victory and completing a dramatic comeback."
+   },
+   {
+    "type": "p",
+    "text": "The win not only lifted Everton's points tally but also highlighted the player's resilience and determination to prove his worth at club level. Dewsbury-Hall's performance has drawn praise from teammates and fans, who see his display as a statement of intent following the national team snub."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The performance underscores how club players can respond to international setbacks, influencing Premier League standings and player reputations."
+   }
+  ],
+  "key_points": [
+   "Kiernan Dewsbury-Hall scored a stunning goal after being omitted from England's squad.",
+   "His strike helped Everton overturn a 1-0 deficit to win 3-1 against Coventry City."
+  ],
+  "meta_description": "Dewsbury-Hall's spectacular goal fuels Everton's 3-1 comeback win over Coventry after his England omission.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Everton",
+   "Coventry City",
+   "Premier League",
+   "Dewsbury-Hall",
+   "England omission"
+  ],
+  "slug": "dewsbury-hall-s-goal-powers-everton-comeback-after-england-1e7af9",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:17:09Z"
+ },
+ {
+  "id": "6813d62fd92533cd",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+  "source": "The Verge",
+  "source_title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+  "source_summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+  "source_tags": [
+   "AI",
+   "Business",
+   "News",
+   "OpenAI"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-06T23:46:18+00:00",
+  "headline": "OpenAI Hits $1.25 Trillion Valuation After $11 Billion Funding Round",
+  "body": [
+   {
+    "type": "p",
+    "text": "OpenAI's latest financing round has pushed its market value to $1.25 trillion, according to Bloomberg. The round added $11 billion in new capital, making the artificial‑intelligence firm one of the most valuable companies worldwide."
+   },
+   {
+    "type": "p",
+    "text": "The surge follows a massive March fundraising effort that brought in $122 billion and set a valuation of $852 billion. The rapid increase underscores the intense investor appetite for AI-driven businesses."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, rival AI startup Anthropic is reported to be nearing an initial public offering, highlighting growing competition in the sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The valuation places OpenAI among the world’s largest firms, signaling the expanding economic impact of generative AI for investors and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "OpenAI's valuation rose to $1.25 trillion after an $11 billion funding round.",
+   "The company previously raised $122 billion in March at an $852 billion valuation.",
+   "Competitor Anthropic is close to launching an IPO."
+  ],
+  "meta_description": "OpenAI's new $11 billion funding round lifts its valuation to $1.25 trillion, while rival Anthropic nears an IPO.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "AI valuation",
+   "funding round",
+   "Anthropic IPO",
+   "technology investment"
+  ],
+  "slug": "openai-hits-1-25-trillion-valuation-after-11-billion-6813d6",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:16:56Z"
+ },
+ {
+  "id": "49d6b3ab6bf9a995",
+  "source_url": "https://www.nytimes.com/2026/11/06/us/politics/texas-democrats-takeover-what-now.html",
+  "source": "The New York Times",
+  "source_title": "Democrats Took Over Texas. What Now?",
+  "source_summary": "Democrats’ wins in the Lone Star state exceeded their wildest dreams.",
+  "source_tags": [
+   "Politics and Government",
+   "Elections",
+   "Midterm Elections (2026)",
+   "Conservatism (US Politics)",
+   "State Legislatures",
+   "Elections, Senate",
+   "Elections, Governors",
+   "Democratic Party",
+   "Republican Party",
+   "Abbott, Gregory W (1957- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06pol-onpolitics-newsletter-hfqv/06pol-onpolitics-newsletter-hfqv-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T23:27:20+00:00",
+  "headline": "Democrats Celebrate Unexpected Sweep in Texas Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democratic candidates achieved a level of victory in Texas that surpassed even their most optimistic expectations, according to recent reporting. The party's performance in the Lone Star state marked a significant shift from prior election outcomes."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the scale of the wins surprised many observers, highlighting a potential realignment in Texas politics. The results have sparked discussions about the implications for future statewide races and national strategies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome could influence party strategies in upcoming national elections and affect policy priorities across the United States and allied democracies."
+   }
+  ],
+  "key_points": [
+   "Democrats secured victories in Texas that exceeded their highest projections.",
+   "The unexpected success signals a possible shift in the state's political landscape."
+  ],
+  "meta_description": "Democrats achieve unexpected victories in Texas, surpassing their wildest expectations and hinting at a political shift.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Democrats",
+   "Texas",
+   "election results",
+   "political shift",
+   "US politics"
+  ],
+  "slug": "democrats-celebrate-unexpected-sweep-texas-elections-49d6b3",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:17:20Z"
+ },
+ {
+  "id": "f6a0f28c2ad75a62",
+  "source_url": "https://www.dw.com/en/paraguay-senate-dismisses-president-santiago-pena-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Paraguay Senate dismisses President Santiago Pena over bank crisis",
+  "source_summary": "Paraguay’s Senate has ousted President Santiago Pena over the collapse of a major bank tied to his government. Millions of customers' accounts are frozen, with public pension and health care funds also tied up.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79859242_6.jpg",
+  "published": "2026-11-06T23:23:00+00:00",
+  "headline": "Paraguay Senate Ousts President Santiago Pena Amid Bank Collapse",
+  "body": [
+   {
+    "type": "p",
+    "text": "Paraguay’s Senate voted to dismiss President Santiago Pena after a major bank linked to his administration collapsed. The decision follows mounting pressure as the bank’s failure left millions of customers unable to access their accounts."
+   },
+   {
+    "type": "p",
+    "text": "Authorities reported that the freeze also affected public pension and health‑care funds, creating widespread concern among retirees and patients. The Senate’s action marks a rare instance of a South American head of state being removed by legislative vote."
+   },
+   {
+    "type": "p",
+    "text": "The ouster underscores the political fallout from financial mismanagement and raises questions about the stability of Paraguay’s banking sector as the government seeks ways to unfreeze the affected accounts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event signals potential volatility in Latin American markets, which could affect investors and trade partners in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "Paraguay’s Senate removed President Santiago Pena over a bank collapse tied to his government.",
+   "Millions of customers, including pensioners and health‑care beneficiaries, have their funds frozen.",
+   "The move highlights political risk in the region’s financial system."
+  ],
+  "meta_description": "Paraguay's Senate dismisses President Santiago Pena after a major bank collapse freezes millions of accounts, including pensions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Paraguay",
+   "Santiago Pena",
+   "bank crisis",
+   "senate",
+   "pensions",
+   "financial stability"
+  ],
+  "slug": "paraguay-senate-ousts-president-santiago-pena-amid-bank-collapse-f6a0f2",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T00:17:01Z"
+ },
+ {
+  "id": "25495e66a95b74dc",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo",
+  "source": "BBC Sport",
+  "source_title": "Lampard feels hair pull should have led to Coventry penalty",
+  "source_summary": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f45/live/bd3a26b0-da36-11f1-bde4-c13870167801.jpg",
+  "published": "2026-11-06T23:22:21+00:00",
+  "headline": "Lampard Says Hair Pull at Everton Should Have Been a Penalty",
+  "body": [
+   {
+    "type": "p",
+    "text": "Coventry City suffered a defeat to Everton after three contentious refereeing decisions went against them, according to post‑match comments from former England manager Frank Lampard. Lampard highlighted an incident in which a Coventry player was allegedly pulled by the hair, arguing that the foul warranted a penalty kick."
+   },
+   {
+    "type": "p",
+    "text": "The former midfielder, now serving as Coventry’s manager, expressed frustration with the officiating, suggesting that the missed call altered the flow of the game. He did not specify the final score but emphasized that the decision was a key factor in the loss."
+   },
+   {
+    "type": "p",
+    "text": "Everton’s side benefited from the rulings, maintaining their lead and securing the three points. Lampard called for a review of the incident, urging officials to apply the laws of the game more consistently in future fixtures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute underscores ongoing debates about refereeing standards in top‑flight football, a concern for fans and clubs across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Frank Lampard claims a hair‑pulling foul against Coventry should have resulted in a penalty.",
+   "Three disputed decisions contributed to Coventry’s loss to Everton.",
+   "Lampard urges stricter enforcement of rules to avoid similar controversies."
+  ],
+  "meta_description": "Frank Lampard says a hair‑pulling foul in Coventry's loss to Everton should have been a penalty, sparking debate over refereeing standards.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Frank Lampard",
+   "Coventry City",
+   "Everton",
+   "refereeing controversy",
+   "football penalties"
+  ],
+  "slug": "lampard-says-hair-pull-everton-should-have-been-penalty-25495e",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:17:29Z"
+ },
+ {
+  "id": "d9fb5d2e71dc8017",
+  "source_url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
+  "source": "The New York Times",
+  "source_title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
+  "source_summary": "In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.",
+  "source_tags": [
+   "Polls and Public Opinion",
+   "Elections",
+   "Legislatures and Parliaments",
+   "Politics and Government",
+   "Maori",
+   "Labour Party (New Zealand)",
+   "National Party (New Zealand)",
+   "Hipkins, Chris",
+   "Luxon, Christopher",
+   "Peters, Winston (1945- )"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-NZ-elections-gjhz/06int-NZ-elections-gjhz-mediumSquareAt3X.jpg",
+  "published": "2026-11-06T23:05:42+00:00",
+  "headline": "New Zealand Election Faces Voter Revolt Over Rising Costs",
+  "body": [
+   {
+    "type": "p",
+    "text": "As New Zealand heads toward a national election, voters are increasingly focused on soaring living expenses. Economic issues dominate the public discourse, shaping the priorities of the campaign and putting pressure on all parties to address cost‑of‑living concerns."
+   },
+   {
+    "type": "p",
+    "text": "The race lacks a clear front‑runner, and analysts expect that smaller parties will play a decisive role in forming the next government. With no dominant candidate emerging, coalition negotiations among minor parties are likely to determine the policy direction after the vote."
+   }
+  ],
+  "key_points": [
+   "Economic worries, especially rising costs, dominate New Zealand's upcoming election.",
+   "No leading candidate has emerged, making minor parties crucial to government formation."
+  ],
+  "meta_description": "New Zealand's election is shaped by rising living costs, with no clear front‑runner and minor parties set to decide the next government.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "New Zealand",
+   "election",
+   "cost of living",
+   "minor parties",
+   "politics"
+  ],
+  "slug": "new-zealand-election-faces-voter-revolt-over-rising-costs-d9fb5d",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:17:17Z"
+ },
+ {
+  "id": "1bc7ba2a28c4372d",
+  "source_url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+  "source": "The Verge",
+  "source_title": "China reportedly recruited AI exec to spy on Jensen Huang",
+  "source_summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+  "source_tags": [
+   "AI",
+   "News",
+   "Nvidia",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-06T23:00:44+00:00",
+  "headline": "China Recruits Megaspeed Exec to Spy on Nvidia CEO, NYT Reports",
+  "body": [
+   {
+    "type": "p",
+    "text": "According to a report by The New York Times, China’s Ministry of State Security has recruited Alice Huang, an executive at the AI‑chip firm Megaspeed, to gather intelligence on Nvidia CEO Jensen Huang. The recruitment is said to focus on obtaining details about American AI chip technology."
+   },
+   {
+    "type": "p",
+    "text": "The intelligence agency allegedly aims to learn about the capabilities of Nvidia’s latest processors and to explore ways to persuade the company to make its most advanced chips available to China. The effort reflects a broader pattern of state‑backed attempts to acquire cutting‑edge semiconductor knowledge."
+   },
+   {
+    "type": "p",
+    "text": "The report highlights the growing tension between the United States and China over high‑performance computing hardware, a sector critical to national security, artificial intelligence development, and global supply chains."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The alleged espionage underscores U.S. concerns about protecting advanced semiconductor technology from foreign intelligence efforts."
+   }
+  ],
+  "key_points": [
+   "China’s Ministry of State Security recruited a Megaspeed executive to spy on Nvidia’s CEO.",
+   "The operation seeks information on U.S. AI chips and may try to influence Nvidia’s sales to China."
+  ],
+  "meta_description": "China’s intelligence agency recruited a Megaspeed exec to spy on Nvidia CEO, seeking AI chip data and possible influence, NYT reports.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "China",
+   "Nvidia",
+   "espionage",
+   "AI chips",
+   "US-China relations"
+  ],
+  "slug": "china-recruits-megaspeed-exec-spy-nvidia-ceo-nyt-reports-1bc7ba",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:17:13Z"
+ },
+ {
+  "id": "29b565926ae50ea8",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o",
+  "source": "BBC News",
+  "source_title": "Elon Musk appears to signal the end of the road for Cybertruck",
+  "source_summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-06T21:49:50+00:00",
+  "headline": "Elon Musk Signals End of Tesla Cybertruck to Prioritize Cybercabs",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tesla CEO Elon Musk announced that production of the Cybertruck will be halted, stating the decision is intended to free up capacity for the company's upcoming Cybercabs, autonomous taxis that operate without a driver."
+   },
+   {
+    "type": "p",
+    "text": "The shift reflects Musk's focus on expanding Tesla's self‑driving vehicle lineup, with the Cybercabs slated to replace the space currently allocated to the electric pickup. No further details on timelines or the fate of existing Cybertruck orders were provided."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the move underscores Tesla's broader strategy to prioritize autonomous mobility solutions over traditional vehicle models."
+   }
+  ],
+  "key_points": [
+   "Elon Musk says Tesla will stop making the Cybertruck.",
+   "Production capacity will be redirected to autonomous Cybercabs.",
+   "The change highlights Tesla's focus on driverless taxi services."
+  ],
+  "meta_description": "Elon Musk announces Tesla will cease Cybertruck production to make room for autonomous Cybercabs, signaling a shift toward driverless taxis.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "Cybertruck",
+   "Cybercabs",
+   "autonomous taxis",
+   "Tesla",
+   "vehicle production"
+  ],
+  "slug": "elon-musk-signals-end-tesla-cybertruck-prioritize-cybercabs-29b565",
+  "reading_minutes": 1,
+  "added": "2026-11-07T00:17:24Z"
+ },
+ {
   "id": "b9637fecb673dfb9",
   "source_url": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
