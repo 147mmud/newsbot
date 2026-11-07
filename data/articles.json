@@ -1,5 +1,688 @@
 [
  {
+  "id": "26d75bf8d320f5d2",
+  "source_url": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
+  "source": "The New York Times",
+  "source_title": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
+  "source_summary": "At a moment of opportunity for the party, its long-feuding factions are seizing on the midterm results to make their case for tacking to the center or to the left.",
+  "source_tags": [
+   "Democratic Party",
+   "Liberalism (US Politics)",
+   "Progressivism (Theory and Philosophy)",
+   "Midterm Elections (2026)",
+   "Presidential Election of 2028",
+   "Emanuel, Rahm",
+   "Khanna, Ro",
+   "United States Politics and Government"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/07/us/07pol-democrats/07pol-democrats-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T13:11:20+00:00",
+  "headline": "Democrats Split Over Future Direction After Midterm Gains",
+  "body": [
+   {
+    "type": "p",
+    "text": "In the wake of recent midterm elections, the Democratic Party’s long‑standing internal factions are using the results as a platform to argue for divergent strategic paths. One wing urges a shift toward the political center, claiming the electoral outcomes show a need to appeal to moderate voters."
+   },
+   {
+    "type": "p",
+    "text": "The opposing faction pushes the party further left, asserting that the momentum from the midterms demonstrates a growing appetite for progressive policies. Both sides see the current moment as a rare opportunity to shape the party’s ideological trajectory and influence upcoming campaign strategies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome of this internal debate will influence U.S. policy priorities and could affect transatlantic cooperation on issues such as climate and trade."
+   }
+  ],
+  "key_points": [
+   "Democratic factions are debating whether to move toward the center or further left after the midterms.",
+   "Both groups view the election results as a catalyst to define the party’s future direction."
+  ],
+  "meta_description": "Democratic Party factions clash over centrist versus progressive direction following recent midterm results.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Democrats",
+   "party factions",
+   "midterm elections",
+   "centrist",
+   "progressive"
+  ],
+  "slug": "democrats-split-over-future-direction-after-midterm-gains-26d75b",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:28:37Z"
+ },
+ {
+  "id": "d5b05a550a346b22",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
+  "source": "The Guardian",
+  "source_title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
+  "source_summary": "Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footing Donald Trump just gave the middle finger to millions of American voters. Any other president who suffered the kind of drubbing at the polls that Trump did this week might have felt at least a sliver of humility – and perhaps even an obligation to work with the new opposition in Congress.",
+  "source_tags": [
+   "Donald Trump",
+   "Democrats",
+   "US news",
+   "US politics",
+   "US midterm elections 2026",
+   "World news",
+   "Trump administration",
+   "Republicans"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/60d582a626757ec72f79e844a2ef065af7c1b51c/0_0_2881_2305/master/2881.jpg?width=700&quality=85&auto=format&fit=max&s=c2eaf4e36ca2a5c7f0c3695398ba3b16",
+  "published": "2026-11-07T13:00:12+00:00",
+  "headline": "Trump Elevates Stephen Miller Amid Post-Election Fallout",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump has promoted Stephen Miller, the chief architect of his hard‑line immigration policies, to a senior role that makes him the most powerful unelected official in the administration, according to the article."
+   },
+   {
+    "type": "p",
+    "text": "The move is portrayed as a signal that the White House is shifting to a more confrontational stance following Trump’s recent electoral defeat, which the piece describes as a “drubbing” that left many voters feeling ignored."
+   },
+   {
+    "type": "p",
+    "text": "Commentators in the source suggest that such a promotion could deepen the administration’s focus on immigration and signal a readiness for a more aggressive political strategy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The elevation of a key immigration strategist signals potential policy intensification that could affect U.S. immigration debates and international relations."
+   }
+  ],
+  "key_points": [
+   "Stephen Miller has been elevated to a top unelected position in the Trump administration.",
+   "The promotion follows Trump’s significant loss in recent polls, described as a “drubbing.”",
+   "The article frames the move as part of a shift toward a more combative governmental approach."
+  ],
+  "meta_description": "Trump promotes Stephen Miller to top unelected role after electoral loss, indicating a shift toward a more aggressive stance.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Stephen Miller",
+   "US politics",
+   "immigration policy",
+   "administrative changes"
+  ],
+  "slug": "trump-elevates-stephen-miller-amid-post-election-fallout-d5b05a",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:28:57Z"
+ },
+ {
+  "id": "cb9011ce871e680d",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/07/trump-republican-candidates-struggled-midterm-election-results",
+  "source": "The Guardian",
+  "source_title": "Not a pretty sight: Trump’s ‘beautiful’ Republican men flop at midterms",
+  "source_summary": "President spent weeks praising his favored candidates’ physiques, from their jawlines to their shoulders – but most of his hot guys lost ​It was either a last-ditch considered strategy to win votes, or the ramblings of an increasingly unhinged and increasingly amorous party leader. Either way, it didn’t work.",
+  "source_tags": [
+   "Donald Trump",
+   "US midterm elections 2026",
+   "Republicans",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/a0ac1af0ab88da46a37a89c3dbb632476644a46d/480_0_4798_3838/master/4798.jpg?width=700&quality=85&auto=format&fit=max&s=6864d9e0b8dcb54d91ae7a39c2c7b8a7",
+  "published": "2026-11-07T13:00:12+00:00",
+  "headline": "Trump’s Physique‑Focused Endorsements Fail as GOP Midterm Candidates Lose",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump spent weeks highlighting the physical attributes of his preferred Republican candidates, commenting on everything from their jawlines to their shoulders. The campaign narrative framed these men as the party’s “beautiful” representatives."
+   },
+   {
+    "type": "p",
+    "text": "Despite the publicity, most of the candidates singled out for their looks were defeated in the recent midterm elections. Analysts described the tactic as either a last‑ditch effort to sway voters or a sign of Trump’s increasingly erratic and personal style of leadership."
+   },
+   {
+    "type": "p",
+    "text": "The strategy did not translate into electoral success, and the losses underscore the limited impact of appearance‑based endorsements in the current political climate."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome highlights the diminishing effectiveness of Trump’s personal endorsements for the Republican Party, signaling potential shifts in voter priorities in the US and abroad."
+   }
+  ],
+  "key_points": [
+   "Trump praised the looks of select GOP candidates ahead of the midterms.",
+   "The majority of those candidates were defeated in the election.",
+   "The approach was viewed as either a tactical gamble or a sign of Trump’s erratic leadership."
+  ],
+  "meta_description": "Trump’s focus on candidates' looks failed to secure wins as most praised Republicans lost in the midterms.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "GOP",
+   "midterms",
+   "candidate image",
+   "US politics"
+  ],
+  "slug": "trumps-physiquefocused-endorsements-fail-gop-midterm-candidates-lose-cb9011",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:29:13Z"
+ },
+ {
+  "id": "25db57bea725ecb1",
+  "source_url": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+  "source": "The New York Times",
+  "source_title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+  "source_summary": "Crosby, an A.I. law firm, bought it for them. The move speaks to a nascent gap in coverage as major insurers grapple with risks related to artificial intelligence.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Insurance",
+   "Liability for Products",
+   "Prices (Fares, Fees and Rates)",
+   "Regulation and Deregulation of Industry",
+   "Legal Profession",
+   "Malpractice"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07DB-AI-INSURANCE-01-qkvt/07DB-AI-INSURANCE-01-qkvt-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T13:00:06+00:00",
+  "headline": "Law Firm Secures AI Malpractice Insurance as Coverage Gap Widens",
+  "body": [
+   {
+    "type": "p",
+    "text": "Crosby, an artificial‑intelligence‑driven law firm, has purchased a malpractice insurance policy that specifically covers the actions of its AI agents. The policy marks one of the first instances where an insurer has agreed to underwrite the unique risks posed by AI‑based legal services."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts say the move highlights a growing void in traditional malpractice coverage, as major insurers grapple with how to assess and price the liabilities associated with AI tools. While many firms rely on existing policies, those that depend heavily on AI may find themselves exposed if a claim arises from an erroneous algorithmic recommendation."
+   },
+   {
+    "type": "p",
+    "text": "The Crosby deal underscores the need for clearer guidance and product offerings in the insurance market, prompting regulators in the United States and Europe to examine whether current frameworks adequately protect clients and firms from AI‑related errors."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "As AI becomes integral to legal services, both U.S. and European clients face new liability risks that existing insurance frameworks may not cover."
+   }
+  ],
+  "key_points": [
+   "Crosby obtained the first known AI‑specific malpractice insurance for its legal AI agents.",
+   "The policy reveals a gap in traditional coverage as insurers struggle with AI risk assessment.",
+   "Regulators in the US and Europe are watching the development for potential policy updates."
+  ],
+  "meta_description": "Crosby law firm secures AI malpractice insurance, exposing a gap in coverage as insurers and regulators confront AI‑driven legal risks.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "insurance",
+   "legal industry",
+   "malpractice",
+   "risk management"
+  ],
+  "slug": "law-firm-secures-ai-malpractice-insurance-coverage-gap-widens-25db57",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:28:42Z"
+ },
+ {
+  "id": "038f63dccf73b502",
+  "source_url": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
+  "source": "CNBC",
+  "source_title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
+  "source_summary": "Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108527812-1793910488942-Cosm_LA_Dome_HarryPotterSortingHat.jpeg?v=1793921502&w=1920&h=1080",
+  "published": "2026-11-07T13:00:01+00:00",
+  "headline": "Cosm Expands Premium Moviegoing With Immersive Screens and Higher Ticket Prices",
+  "body": [
+   {
+    "type": "p",
+    "text": "Cosm is capitalizing on the growing demand for premium movie experiences by adding more immersive screenings to its lineup. The company’s expanded library now includes a broader selection of titles designed for these enhanced formats."
+   },
+   {
+    "type": "p",
+    "text": "Ticket prices for Cosm’s premium offerings vary widely, with matinee seats starting at about $18 and prime seats or in‑demand showings reaching roughly $70. This pricing structure reflects the company’s focus on delivering higher‑end experiences to moviegoers willing to pay for added comfort and technology."
+   }
+  ],
+  "key_points": [
+   "Cosm is expanding its premium cinema offerings with more immersive screenings and a larger film library.",
+   "Ticket costs range from $18 for matinee seats to around $70 for prime or high‑demand showings."
+  ],
+  "meta_description": "Cosm adds immersive screenings and a wider library, with tickets from $18 to $70, as premium moviegoing gains momentum.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Cosm",
+   "premium cinema",
+   "ticket prices",
+   "immersive screenings",
+   "moviegoing"
+  ],
+  "slug": "cosm-expands-premium-moviegoing-with-immersive-screens-higher-ticket-038f63",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T13:29:01Z"
+ },
+ {
+  "id": "c51ddbc7c8033a48",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po",
+  "source": "BBC News",
+  "source_title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+  "source_summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
+  "published": "2026-11-07T12:49:36+00:00",
+  "headline": "Ukraine Power Grid Hit Again by Russian Strikes Ahead of Abu Dhabi Talks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukraine’s electricity transmission system suffered additional damage on Monday after a new wave of Russian missile and drone attacks targeted several substations across the country. The strikes disrupted power supplies in multiple regions, prompting emergency repairs by Ukrainian energy officials."
+   },
+   {
+    "type": "p",
+    "text": "The attacks occurred just days before scheduled trilateral talks in Abu Dhabi, where delegations from Ukraine, Russia and the United Arab Emirates are expected to discuss a range of issues, including the ongoing conflict and humanitarian concerns. Ukrainian authorities warned that the timing of the strikes could complicate diplomatic efforts."
+   },
+   {
+    "type": "p",
+    "text": "Ukraine’s energy ministry confirmed that restoration crews are working around the clock to repair the damaged infrastructure, but warned that full service may take several days. No casualties were reported in the latest incidents."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disruptions to Ukraine’s energy grid affect regional stability and underscore challenges facing diplomatic negotiations between the warring parties."
+   }
+  ],
+  "key_points": [
+   "Russian strikes caused fresh damage to Ukraine’s power transmission network.",
+   "The attacks came ahead of planned trilateral talks in Abu Dhabi involving Ukraine and Russia.",
+   "Ukrainian crews are conducting emergency repairs, but full power restoration may be delayed."
+  ],
+  "meta_description": "Russian attacks damage Ukraine's power grid just before trilateral talks in Abu Dhabi, raising concerns for energy security and diplomacy.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Russia",
+   "energy infrastructure",
+   "Abu Dhabi talks",
+   "conflict"
+  ],
+  "slug": "ukraine-power-grid-hit-again-russian-strikes-ahead-abu-c51ddb",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:28:45Z"
+ },
+ {
+  "id": "2050cc9f2667ada3",
+  "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+  "source": "The New York Times",
+  "source_title": "This Israeli Vows to Oust Netanyahu. Here’s How.",
+  "source_summary": "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+  "source_tags": [
+   "Israel",
+   "Politics and Government",
+   "Eisenkot, Gadi",
+   "Netanyahu, Benjamin",
+   "Legislatures and Parliaments",
+   "Lieberman, Avigdor",
+   "Israel-Gaza War (2023- )",
+   "Draft and Recruitment (Military)",
+   "Yisrael Beiteinu (Israeli Political Party)",
+   "Bennett, Naftali"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
+  "published": "2026-11-07T12:42:56+00:00",
+  "headline": "Gadi Eisenkot Poised to Form Government to Replace Netanyahu",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Israeli Defense Minister Gadi Eisenkot is emerging as the leading candidate to assemble a new coalition that could unseat long‑time prime minister Benjamin Netanyahu. Political analysts say Eisenkot has secured tentative backing from several centrist and right‑wing parties, positioning him for a possible mandate to lead the next cabinet."
+   },
+   {
+    "type": "p",
+    "text": "Despite this momentum, Eisenkot faces significant hurdles. He must reconcile divergent policy priorities among potential partners, secure enough Knesset seats for a stable majority, and navigate Netanyahu’s entrenched political network, which continues to wield considerable influence."
+   },
+   {
+    "type": "p",
+    "text": "If successful, Eisenkot’s government would mark a major shift in Israeli politics, potentially altering the country’s domestic agenda and its approach to regional security issues."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A change in Israel’s leadership could affect U.S. and European diplomatic and security strategies in the Middle East."
+   }
+  ],
+  "key_points": [
+   "Gadi Eisenkot is the frontrunner to form a coalition that could replace Benjamin Netanyahu as prime minister.",
+   "He must overcome major coalition‑building challenges and Netanyahu’s lingering political power.",
+   "A successful transition would represent a significant change in Israel’s leadership."
+  ],
+  "meta_description": "Gadi Eisenkot aims to form a new Israeli government, facing tough obstacles to replace Benjamin Netanyahu.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "Gadi Eisenkot",
+   "Benjamin Netanyahu",
+   "government formation",
+   "Middle East politics"
+  ],
+  "slug": "gadi-eisenkot-poised-form-government-replace-netanyahu-2050cc",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:29:05Z"
+ },
+ {
+  "id": "8879475e62b3793a",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+  "source": "The Verge",
+  "source_title": "Why a new report on Anthropic automating AI development is alarming researchers",
+  "source_summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+  "source_tags": [
+   "AI",
+   "Anthropic"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-07T12:30:00+00:00",
+  "headline": "Anthropic’s AI Builds Faster AI, Report Finds Acceleration Doubles",
+  "body": [
+   {
+    "type": "p",
+    "text": "A new study released Thursday by the AI safety group METR reveals that Anthropic is using artificial intelligence to design increasingly powerful AI systems. The 11‑week investigation found that the company’s models are improving at roughly twice the rate they were a year ago, and the researchers observed no clear signs that this rapid progress is slowing down."
+   },
+   {
+    "type": "p",
+    "text": "The METR report highlights that Anthropic’s automated development pipeline is allowing the firm to iterate and scale its models faster than traditional human‑led approaches. While the findings demonstrate a significant technical achievement, they also raise concerns among experts about the potential risks of self‑accelerating AI development without adequate oversight."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Accelerated AI development could impact regulatory and safety efforts in the US and Europe, where policymakers are grappling with how to manage increasingly capable systems."
+   }
+  ],
+  "key_points": [
+   "Anthropic’s AI‑driven development is yielding model improvements at about double the speed of the previous year.",
+   "The METR investigation found no immediate indication that the rapid acceleration is decelerating.",
+   "Experts warn that faster, automated AI creation could outpace existing safety and regulatory frameworks."
+  ],
+  "meta_description": "METR reports Anthropic's AI is automating its own development, doubling model improvement speed and raising safety concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "Anthropic",
+   "METR",
+   "AI safety",
+   "automation",
+   "research"
+  ],
+  "slug": "anthropics-ai-builds-faster-ai-report-finds-acceleration-doubles-887947",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:28:49Z"
+ },
+ {
+  "id": "28cb5615c72f6312",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o",
+  "source": "BBC Sport",
+  "source_title": "My dream is to win Ballon d'Or - Gabriel",
+  "source_summary": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg",
+  "published": "2026-11-07T12:25:14+00:00",
+  "headline": "JJ Gabriel Dreams of Ballon d'Or as Real Madrid Move Looms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United striker JJ Gabriel has publicly stated that his ultimate ambition is to win the Ballon d'Or, the sport’s most prestigious individual award. The forward expressed the goal in an interview, emphasizing how winning the accolade would represent the pinnacle of his career."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, Gabriel is reportedly nearing a transfer to Spanish giants Real Madrid. Sources close to the negotiations say the move is advancing, though no official announcement has been made. The potential switch would see the English forward leave Old Trafford for the Bernabeu, aligning his club future with his personal aspirations."
+   },
+   {
+    "type": "p",
+    "text": "If the transfer materialises, Gabriel would join a roster of past Ballon d'Or winners at Real Madrid, a club known for nurturing world‑class talent. The combination of a high‑profile move and his stated dream adds intrigue to the upcoming transfer window."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A transfer to Real Madrid could elevate Gabriel’s profile on the global stage and impact the race for the 2027 Ballon d'Or."
+   }
+  ],
+  "key_points": [
+   "JJ Gabriel says winning the Ballon d'Or is his personal dream.",
+   "He is close to completing a transfer from Manchester United to Real Madrid.",
+   "The move would place him at a club with a strong history of Ballon d'Or winners."
+  ],
+  "meta_description": "Manchester United forward JJ Gabriel aims for the Ballon d'Or as he nears a move to Real Madrid, sparking transfer window interest.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "football",
+   "Manchester United",
+   "Real Madrid",
+   "Ballon d'Or",
+   "transfer",
+   "JJ Gabriel"
+  ],
+  "slug": "jj-gabriel-dreams-ballon-d-or-real-madrid-move-28cb56",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:28:54Z"
+ },
+ {
+  "id": "1d44e8c13f050953",
+  "source_url": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
+  "source": "The New York Times",
+  "source_title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
+  "source_summary": "At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said. The area is a hot spot of the growing Ebola outbreak.",
+  "source_tags": [
+   "Congo, Democratic Republic of (Congo-Kinshasa)",
+   "Ebola Virus",
+   "Allied Democratic Forces",
+   "Epidemics",
+   "Islamic State in Iraq and Syria (ISIS)",
+   "Terrorism"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T12:06:57+00:00",
+  "headline": "Islamist Militant Attack Kills 44 at Congo Ebola Clinic",
+  "body": [
+   {
+    "type": "p",
+    "text": "An armed assault by a group affiliated with the Islamic State left at least 44 people dead at an Ebola treatment center in the Democratic Republic of Congo, officials reported. The militants forced patients and staff to flee the facility amid the violence."
+   },
+   {
+    "type": "p",
+    "text": "The clinic is located in a region that health authorities have identified as a hot spot for the expanding Ebola outbreak. The disruption of medical services threatens to hinder containment efforts and could exacerbate the spread of the disease in an already vulnerable area."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The assault hampers Ebola response efforts, raising concerns about regional health security that could affect neighboring countries and international aid operations."
+   }
+  ],
+  "key_points": [
+   "A militant group linked to the Islamic State killed at least 44 people at a Congo Ebola clinic.",
+   "The attack forced patients and health workers to abandon the treatment center.",
+   "The incident occurs in a region experiencing a surge in Ebola cases."
+  ],
+  "meta_description": "Militant attack by an Islamic State affiliate kills 44 at a Congo Ebola clinic, disrupting outbreak response.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Congo",
+   "Ebola",
+   "Islamic State",
+   "militant attack",
+   "health crisis"
+  ],
+  "slug": "islamist-militant-attack-kills-44-congo-ebola-clinic-1d44e8",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:29:21Z"
+ },
+ {
+  "id": "858a8cc07fe86e45",
+  "source_url": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html",
+  "source": "The New York Times",
+  "source_title": "Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls",
+  "source_summary": "Jeffrey Wigand, who took on Big Tobacco, counsels insiders who think they have a story about wrongdoing. There are quite a few of them.",
+  "source_tags": [
+   "Whistle-Blowers",
+   "Wigand, Jeffrey",
+   "Corruption (Institutional)",
+   "United States Politics and Government",
+   "Smoking and Tobacco",
+   "Social Media",
+   "Ethics and Official Misconduct",
+   "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry",
+   "Suits and Litigation (Civil)",
+   "Watergate Affair"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/WHISTELBLOWER-02-wphl/WHISTELBLOWER-02-wphl-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T10:00:49+00:00",
+  "headline": "Jeffrey Wigand Advises Whistleblowers on Tobacco Misconduct",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former tobacco executive Jeffrey Wigand, renowned for exposing wrongdoing at Big Tobacco, has taken on a new role as a counselor for insiders who believe they have evidence of corporate misconduct. According to the report, a growing number of individuals are reaching out to him for guidance on how to proceed with their stories."
+   },
+   {
+    "type": "p",
+    "text": "Wigand’s experience as a high‑profile whistleblower appears to be drawing a steady stream of contacts seeking his advice. The article notes that “there are quite a few” such callers, indicating sustained interest in exposing alleged irregularities within the industry and possibly beyond."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The continued flow of whistleblower inquiries underscores persistent scrutiny of corporate practices, a topic of interest for regulators and investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Jeffrey Wigand, the former Big Tobacco whistleblower, now advises insiders with potential misconduct stories.",
+   "A notable number of callers are seeking his guidance, reflecting ongoing concerns about corporate wrongdoing."
+  ],
+  "meta_description": "Jeffrey Wigand, famed tobacco whistleblower, now counsels insiders with misconduct tips, highlighting ongoing corporate scrutiny.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "whistleblower",
+   "tobacco industry",
+   "Jeffrey Wigand",
+   "corporate ethics",
+   "insider tips"
+  ],
+  "slug": "jeffrey-wigand-advises-whistleblowers-tobacco-misconduct-858a8c",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:29:09Z"
+ },
+ {
+  "id": "78b9b9fdc4be0a22",
+  "source_url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+  "source": "The New York Times",
+  "source_title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+  "source_summary": "The Commerce Department has approved dozens of Chinese companies to handle Nvidia’s H200 chips, some of which have ties to firms under sanctions over national security.",
+  "source_tags": [
+   "United States Politics and Government",
+   "United States International Relations",
+   "Regulation and Deregulation of Industry",
+   "Computer Chips",
+   "Artificial Intelligence",
+   "Embargoes and Sanctions",
+   "Data Centers",
+   "International Trade and World Market",
+   "Commerce Department",
+   "NVIDIA Corporation"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-china-chips-01-fjhg/07dc-china-chips-01-fjhg-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T10:00:40+00:00",
+  "headline": "U.S. Commerce Dept Clears Nvidia H200 Chips for Chinese Firms With Dubious Links",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Commerce Department has granted export licenses to dozens of Chinese companies, allowing them to receive Nvidia's high‑performance H200 AI chips. The approvals were issued despite concerns that several of the firms lack active offices and have connections to entities subject to U.S. sanctions for national‑security reasons."
+   },
+   {
+    "type": "p",
+    "text": "According to the department, the licenses were issued after a review that deemed the transactions compliant with current export controls. Nvidia, a leading supplier of AI hardware, has been seeking to expand its market in China, and the H200 chips are among its most advanced offerings for data‑center and AI workloads."
+   },
+   {
+    "type": "p",
+    "text": "Critics note that some of the approved firms appear to be shell companies, raising questions about the effectiveness of the vetting process. The move comes as Washington tightens scrutiny of technology transfers that could bolster foreign military capabilities, while also balancing pressures from the semiconductor industry to maintain global sales."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The approvals could affect U.S. national‑security concerns over advanced AI hardware reaching firms with questionable ties, while also impacting the global semiconductor supply chain."
+   }
+  ],
+  "key_points": [
+   "The Commerce Department approved export licenses for Nvidia's H200 chips to dozens of Chinese firms.",
+   "Several of the approved companies have empty offices and links to sanctioned entities.",
+   "The decision highlights tension between U.S. export controls and the push for Chinese AI market access."
+  ],
+  "meta_description": "U.S. Commerce Dept clears Nvidia H200 AI chips for Chinese firms, some linked to sanctioned entities, sparking security concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "U.S. export controls",
+   "China",
+   "AI chips",
+   "national security",
+   "semiconductor industry"
+  ],
+  "slug": "u-s-commerce-dept-clears-nvidia-h200-chips-chinese-78b9b9",
+  "reading_minutes": 1,
+  "added": "2026-11-07T13:29:17Z"
+ },
+ {
   "id": "1716abc5a2df6da0",
   "source_url": "https://www.bbc.co.uk/news/articles/cm89zznj21ylo",
   "source": "BBC News",
