@@ -1,5 +1,676 @@
 [
  {
+  "id": "ed263cbbe1a45523",
+  "source_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+  "source": "TechCrunch",
+  "source_title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+  "source_summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+  "source_tags": [
+   "AI",
+   "Government & Policy",
+   "Elon Musk",
+   "OpenAI"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+  "published": "2026-11-07T22:07:22+00:00",
+  "headline": "Midterm Outcomes Cast Uncertainty Over Elon Musk’s Data Center Plans",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch’s Equity column notes that the recent U.S. midterm elections have introduced a period of uncertainty for Elon Musk’s ventures, particularly his data‑center operations. Analysts highlighted that shifting political dynamics could affect regulatory and fiscal environments that are critical to large‑scale computing infrastructure."
+   },
+   {
+    "type": "p",
+    "text": "The piece also examined broader implications for the technology sector, suggesting that policy shifts emerging from the new congressional composition may influence investment decisions, supply‑chain stability, and the competitive landscape for cloud providers. While the article stops short of forecasting specific outcomes, it underscores that industry leaders will be watching legislative developments closely."
+   }
+  ],
+  "key_points": [
+   "Midterm election results create a less predictable regulatory backdrop for Elon Musk’s data‑center projects.",
+   "Tech industry stakeholders anticipate policy changes that could reshape investment and operational strategies."
+  ],
+  "meta_description": "Midterm election results bring uncertainty to Elon Musk's data center plans and broader tech industry dynamics.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Elon Musk",
+   "data centers",
+   "midterms",
+   "technology industry",
+   "policy impact"
+  ],
+  "slug": "midterm-outcomes-cast-uncertainty-over-elon-musks-data-center-ed263c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T22:14:47Z"
+ },
+ {
+  "id": "4509cb41dc2d6f72",
+  "source_url": "https://www.bbc.co.uk/iplayer/episode/l00592bk",
+  "source": "BBC Sport",
+  "source_title": "Match of the Day",
+  "source_summary": "Highlights of the day's games, including pacesetters Arsenal and Man City.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0plpkcz.jpg",
+  "published": "2026-11-07T21:50:21+00:00",
+  "headline": "Match of the Day Showcases Arsenal and Man City as Premier League Pacesetters",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC Sport's Match of the Day aired highlights from the day's football fixtures, giving viewers a concise recap of the action across the leagues. The programme featured a selection of key moments, goals and tactical highlights from multiple matches played on Saturday."
+   },
+   {
+    "type": "p",
+    "text": "Among the featured teams, Arsenal and Manchester City were highlighted as the day's pacesetters, reflecting their strong performances and influence on the league table. Their inclusion underscored the clubs' continued prominence in English football."
+   },
+   {
+    "type": "p",
+    "text": "The broadcast provided fans with a quick visual summary, allowing them to catch up on crucial developments without watching full matches. As a staple of weekend football coverage, Match of the Day remains a primary source for concise game analysis."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Top clubs like Arsenal and Manchester City attract global audiences, making their performances relevant to football fans across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Match of the Day delivered a roundup of Saturday's football highlights.",
+   "Arsenal and Manchester City were highlighted as the day's leading teams.",
+   "The program offers a quick recap for fans unable to watch full matches."
+  ],
+  "meta_description": "Match of the Day highlighted Saturday's football action, featuring Arsenal and Manchester City as the day's leading teams.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Manchester City",
+   "Premier League",
+   "football highlights",
+   "Match of the Day"
+  ],
+  "slug": "match-day-showcases-arsenal-man-city-premier-league-pacesetters-4509cb",
+  "reading_minutes": 1,
+  "added": "2026-11-07T22:14:51Z"
+ },
+ {
+  "id": "021ad7f7d11da8bb",
+  "source_url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Poland: Gunman kills 6 in Krakow main square",
+  "source_summary": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was fascinated with \"radical\" and \"far right' ideologies.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79887076_6.jpg",
+  "published": "2026-11-07T21:34:00+00:00",
+  "headline": "Gunman Kills Six Including British Tourist in Krakow City Center Square",
+  "body": [
+   {
+    "type": "p",
+    "text": "A gunman opened fire from a car in Krakow's main market square, killing at least six people, among them a British tourist. Police said the attacker fired multiple rounds before fleeing the scene. Emergency services rushed victims to hospitals, where several remain in critical condition."
+   },
+   {
+    "type": "p",
+    "text": "Authorities identified the shooter as being fascinated with radical and far‑right ideologies, according to officials. The motive behind the attack has not been fully established, but investigators are probing possible extremist links. The incident has prompted heightened security measures across Poland and neighboring countries."
+   },
+   {
+    "type": "p",
+    "text": "The shooting marks one of the deadliest attacks in Krakow in recent years and has sparked concern among European leaders about the spread of extremist violence. Local officials urged the public to remain vigilant while investigations continue."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores growing concerns about far‑right extremist violence in Europe, a trend that could affect security policies and travel advisories for U.S. and European citizens."
+   }
+  ],
+  "key_points": [
+   "A gunman killed at least six people, including a British tourist, in Krakow's main square.",
+   "Police say the shooter was interested in radical and far‑right ideologies.",
+   "The attack has led to increased security alerts across Poland and the region."
+  ],
+  "meta_description": "A gunman killed six people, including a British tourist, in Krakow's main square; police link the shooter to far‑right extremist interests.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Poland",
+   "Krakow",
+   "shooting",
+   "far‑right",
+   "terrorism",
+   "UK tourist"
+  ],
+  "slug": "gunman-kills-six-including-british-tourist-krakow-city-center-021ad7",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T22:15:04Z"
+ },
+ {
+  "id": "69c75581d56ff5e1",
+  "source_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+  "source": "TechCrunch",
+  "source_title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+  "source_summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+  "source_tags": [
+   "AI",
+   "Government & Policy"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+  "published": "2026-11-07T21:17:08+00:00",
+  "headline": "China Recruited Tech Exec to Spy on Nvidia CEO, US Memo Says",
+  "body": [
+   {
+    "type": "p",
+    "text": "A United States intelligence memorandum that circulated earlier this year alleges that China’s Ministry of State Security enlisted a female technology executive to gather intelligence on Nvidia’s chief executive. The memo describes the recruitment as part of a broader effort to monitor leading figures in the American semiconductor sector."
+   },
+   {
+    "type": "p",
+    "text": "The document does not disclose the identity of the executive, the methods used for recruitment, or any concrete outcomes of the alleged espionage. It also stops short of confirming whether any information was actually transmitted to Chinese authorities."
+   },
+   {
+    "type": "p",
+    "text": "The claim adds to a growing list of reports suggesting that foreign intelligence services are targeting high‑profile executives in the U.S. technology industry, raising concerns about corporate security and the protection of trade secrets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The report underscores heightened worries in the United States and Europe about foreign intelligence operations aimed at critical tech companies and their leadership."
+   }
+  ],
+  "key_points": [
+   "US intelligence reports say China’s Ministry of State Security recruited a female tech executive to spy on Nvidia’s CEO.",
+   "The memo provides no details on the executive’s identity or any resulting intelligence gains.",
+   "The allegation highlights ongoing concerns about foreign espionage targeting U.S. technology leaders."
+  ],
+  "meta_description": "US intel memo alleges China recruited a tech executive to spy on Nvidia's CEO, raising concerns over foreign espionage in the semiconductor sector.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "China espionage",
+   "technology industry",
+   "intelligence memo",
+   "corporate spying"
+  ],
+  "slug": "china-recruited-tech-exec-spy-nvidia-ceo-us-memo-69c755",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T22:14:59Z"
+ },
+ {
+  "id": "7ef0b596a66bd5ec",
+  "source_url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
+  "source": "The New York Times",
+  "source_title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
+  "source_summary": "On social media, the president offered the now-vacant job of White House press secretary to Dana White, the organization’s C.E.O., and told him to bring along fighters as aides.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Mixed Martial Arts",
+   "Appointments and Executive Changes",
+   "Democratic Party",
+   "Ultimate Fighting Championship",
+   "Trump, Donald J",
+   "White, Dana (1969- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-trump-spokesman-topart-cghm/07dc-trump-spokesman-topart-cghm-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T21:07:34+00:00",
+  "headline": "Trump Offers UFC Boss Dana White White House Press Secretary Job",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump used his social‑media platform to extend an invitation to UFC chief executive Dana White, proposing that the vacant White House press secretary position be filled by the boxing promoter."
+   },
+   {
+    "type": "p",
+    "text": "In the same post, Trump suggested that White bring a group of UFC fighters to serve as aides, blending the world of mixed‑martial‑arts with the administration’s communications team."
+   },
+   {
+    "type": "p",
+    "text": "The offer marks another unconventional staffing move by the president, highlighting his willingness to draw on personalities from outside traditional political circles."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The suggestion signals a departure from standard political appointments, potentially reshaping how the White House handles media relations."
+   }
+  ],
+  "key_points": [
+   "Trump publicly offered the White House press secretary role to UFC CEO Dana White.",
+   "He asked White to include fighters as aides in the communications staff.",
+   "The proposal underscores Trump’s atypical approach to staffing the administration."
+  ],
+  "meta_description": "President Trump offered UFC boss Dana White the White House press secretary job, asking him to bring fighters as aides.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Dana White",
+   "White House",
+   "Press Secretary",
+   "UFC"
+  ],
+  "slug": "trump-offers-ufc-boss-dana-white-white-house-press-7ef0b5",
+  "reading_minutes": 1,
+  "added": "2026-11-07T22:14:55Z"
+ },
+ {
+  "id": "6e1a8650429ac32a",
+  "source_url": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Ebola: Why is there still no vaccine?",
+  "source_summary": "Ebola has been known about for decades, but there is still no vaccine against the Bundibugyo strain of the virus causing the current outbreak. New research raises hopes of protection against the various types of Ebola.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79742933_6.jpg",
+  "published": "2026-11-07T21:03:00+00:00",
+  "headline": "No Vaccine Yet for Bundibugyo Ebola Strain Amid New Research Hope",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ebola has been recognized for decades, yet the Bundibugyo strain responsible for the latest outbreak still lacks an approved vaccine. Health officials continue to confront the virus without a dedicated immunisation tool, relying on supportive care and containment measures."
+   },
+   {
+    "type": "p",
+    "text": "Recent scientific work, however, offers renewed optimism. Researchers have identified approaches that could protect against multiple Ebola variants, including Bundibugyo, suggesting a broader vaccine strategy may be on the horizon. While still experimental, these findings mark a potential shift in the fight against the disease."
+   }
+  ],
+  "key_points": [
+   "The Bundibugyo strain causing the current Ebola outbreak has no approved vaccine.",
+   "New research indicates possible protection across several Ebola types, raising hope for future vaccines."
+  ],
+  "meta_description": "Ebola's Bundibugyo strain lacks a vaccine, but fresh research may pave the way for broader protection against the virus.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ebola",
+   "Bundibugyo",
+   "vaccine research",
+   "outbreak",
+   "virology"
+  ],
+  "slug": "no-vaccine-yet-bundibugyo-ebola-strain-amid-new-research-6e1a86",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T22:15:31Z"
+ },
+ {
+  "id": "7bed623694f05461",
+  "source_url": "https://www.nytimes.com/2026/11/07/us/politics/washington-judge-special-master-trump-golf.html",
+  "source": "The New York Times",
+  "source_title": "Judge Taps Lawyer to Investigate Trump Administration’s Conduct in Golf Course Case",
+  "source_summary": "Judge Ana C. Reyes wrote that she intended to pick a former U.S. attorney in Washington to investigate whether officials misled the court about changes to the East Potomac Golf Links.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Courts and the Judiciary",
+   "Golf",
+   "National Parks, Monuments and Seashores",
+   "East Potomac Golf Links",
+   "Justice Department",
+   "Trump, Donald J",
+   "Liu, Jessie Kong"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-golf-topart-hmct/07dc-golf-topart-hmct-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T20:04:42+00:00",
+  "headline": "Judge Reyes Appoints Former Washington U.S. Attorney to Probe Golf Course Case",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. District Judge Ana C. Reyes announced her intention to select a former United States attorney from Washington, D.C., to examine whether federal officials provided misleading information to the court regarding alterations at the East Potomac Golf Links in Washington, D.C."
+   },
+   {
+    "type": "p",
+    "text": "The investigation will focus on the officials' representations about the changes to the historic golf course, a site that has drawn attention for proposed redevelopment plans. Judge Reyes’ order seeks an independent review to determine if any deception occurred during prior court proceedings."
+   },
+   {
+    "type": "p",
+    "text": "The appointed lawyer will conduct a fact‑finding mission, reviewing communications and documents related to the case. Findings could influence future court decisions about the golf course’s management and any associated federal actions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The inquiry highlights judicial oversight of federal actions, a principle relevant to both U.S. and European audiences concerned with government accountability."
+   }
+  ],
+  "key_points": [
+   "Judge Ana C. Reyes is appointing a former Washington U.S. attorney to investigate alleged court misrepresentations.",
+   "The probe centers on officials' statements about changes to the East Potomac Golf Links.",
+   "Results may affect ongoing legal and policy discussions about the golf course’s future."
+  ],
+  "meta_description": "Judge Reyes names a former Washington U.S. attorney to investigate possible misleading statements about changes to East Potomac Golf Links.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "judiciary",
+   "federal oversight",
+   "East Potomac Golf Links",
+   "legal investigation",
+   "government accountability"
+  ],
+  "slug": "judge-reyes-appoints-former-washington-u-s-attorney-probe-7bed62",
+  "reading_minutes": 1,
+  "added": "2026-11-07T22:15:11Z"
+ },
+ {
+  "id": "bd11f7a826a1a0e4",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo",
+  "source": "BBC Sport",
+  "source_title": "Delap double inspires Forest to stunning win over Man City",
+  "source_summary": "Liam Delap scores a superb double as Nottingham Forest stun Manchester City 3-1 for their first Premier League win at the City Ground this season.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-07T20:02:25+00:00",
+  "headline": "Delap Double Powers Nottingham Forest to 3-1 Victory Over Manchester City",
+  "body": [
+   {
+    "type": "p",
+    "text": "Liam Delap delivered a standout performance for Nottingham Forest, netting two goals as the team secured a 3-1 win against Manchester City at the City Ground. The victory marked Forest's first Premier League triumph at their home venue this season."
+   },
+   {
+    "type": "p",
+    "text": "Manchester City managed only a single reply, unable to overturn Forest's early dominance. Delap's brace proved decisive, giving the visitors a comfortable lead that they maintained until the final whistle."
+   },
+   {
+    "type": "p",
+    "text": "The result underscores Forest's ability to compete against top‑flight opposition, while City will look to regroup ahead of their next fixtures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The upset highlights the competitive balance in the Premier League, showing that mid‑table clubs can challenge traditional powerhouses."
+   }
+  ],
+  "key_points": [
+   "Liam Delap scored both goals in Nottingham Forest's 3-1 win over Manchester City.",
+   "The victory was Forest's first Premier League home win of the season.",
+   "Manchester City were limited to one goal and could not recover."
+  ],
+  "meta_description": "Liam Delap's brace leads Nottingham Forest to a 3-1 Premier League win over Manchester City, their first home victory this season.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nottingham Forest",
+   "Manchester City",
+   "Premier League",
+   "Liam Delap",
+   "football"
+  ],
+  "slug": "delap-double-powers-nottingham-forest-3-1-victory-over-bd11f7",
+  "reading_minutes": 1,
+  "added": "2026-11-07T22:15:07Z"
+ },
+ {
+  "id": "624bb4774e1c97e2",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o",
+  "source": "BBC Sport",
+  "source_title": "Muniz strike denies Newcastle and Jaissle much-needed win",
+  "source_summary": "Rodrigo Muniz scores his first goal since the opening day of last season as Fulham deny Newcastle and head coach Matthias Jaissle a much-needed win at Craven Cottage.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-07T19:59:37+00:00",
+  "headline": "Muniz Goal Snatches Draw as Fulham Hold Newcastle, Jaissle Misses Win",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rodrigo Muniz found the net for the first time since last season's opening day, giving Fulham a 1-0 lead at Craven Cottage. The Brazilian striker's finish came in the first half and proved decisive as the match ended in a 1-1 draw."
+   },
+   {
+    "type": "p",
+    "text": "Newcastle United pressed for an equaliser but were unable to secure the win their manager Matthias Jaissle was seeking. The German coach had hoped the result would provide a much‑needed boost to his team's league position."
+   },
+   {
+    "type": "p",
+    "text": "Fulham's resilience meant they walked away with a point, denying Newcastle the three points that could have eased their recent struggles in the Premier League."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The draw keeps Newcastle in a tight mid‑table battle, while Fulham's point helps them maintain their push for a higher finish in the Premier League."
+   }
+  ],
+  "key_points": [
+   "Rodrigo Muniz scored his first goal since the previous season's opener.",
+   "Fulham held Newcastle to a 1-1 draw, leaving Jaissle without the win he needed.",
+   "The result leaves Newcastle still searching for momentum in the league."
+  ],
+  "meta_description": "Rodrigo Muniz's first goal since last season's start earns Fulham a draw, denying Newcastle and coach Matthias Jaissle a vital win.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "football",
+   "Premier League",
+   "Fulham",
+   "Newcastle United",
+   "Matthias Jaissle",
+   "Rodrigo Muniz"
+  ],
+  "slug": "muniz-goal-snatches-draw-fulham-hold-newcastle-jaissle-misses-624bb4",
+  "reading_minutes": 1,
+  "added": "2026-11-07T22:15:23Z"
+ },
+ {
+  "id": "8fe1ec3ea9030d52",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+  "source": "The Guardian",
+  "source_title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+  "source_summary": "President said the ‘violent Fighter and Warrior’ plus some UFC brawlers would ‘defend us from the Lunatic Left’ Donald Trump has offered the job of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship, the president said in a social media post on Saturday. Trump described White, who staged a cage-fighting spectacle at the White House to mark the president’s 80th birthday in June, as “a violent Fighter and Warrior”, credentials unlike any ever used to describe previous press secretaries.",
+  "source_tags": [
+   "Trump administration",
+   "UFC",
+   "Donald Trump",
+   "Sport",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/9ad051ea99de17ef39487ddc96855295bba6bb89/304_0_3553_2843/master/3553.jpg?width=700&quality=85&auto=format&fit=max&s=748e1d34cef35dbf3bfb59ba92d25bdc",
+  "published": "2026-11-07T19:51:32+00:00",
+  "headline": "Trump Offers UFC Boss Dana White White House Press Secretary Role to Counter ‘Lunatic Left’",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump announced on social media that he has offered the position of White House press secretary to Dana White, the chief executive of the Ultimate Fighting Championship. Trump praised White as a \"violent Fighter and Warrior,\" a description he said set White apart from previous press secretaries."
+   },
+   {
+    "type": "p",
+    "text": "White previously organized a cage‑fighting exhibition at the White House to mark Trump’s 80th birthday in June. The president framed the proposed appointment as a way to defend the administration against what he called the \"Lunatic Left.\""
+   },
+   {
+    "type": "p",
+    "text": "The offer, posted on Saturday, has sparked discussion about the suitability of a sports promoter for a traditionally diplomatic communications role."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The appointment signals the president’s continued use of unconventional figures to shape his administration’s messaging, a trend observed by both U.S. and European observers."
+   }
+  ],
+  "key_points": [
+   "President Trump offered UFC CEO Dana White the White House press secretary job.",
+   "Trump described White as a \"violent Fighter and Warrior\" and linked the move to opposition from the left.",
+   "White staged a cage‑fighting event at the White House for Trump’s 80th birthday in June."
+  ],
+  "meta_description": "President Trump offered UFC boss Dana White the White House press secretary role, calling him a \"violent Fighter and Warrior\" in a Saturday post.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Dana White",
+   "White House",
+   "Press Secretary",
+   "UFC",
+   "Political Appointments"
+  ],
+  "slug": "trump-offers-ufc-boss-dana-white-white-house-press-8fe1ec",
+  "reading_minutes": 1,
+  "added": "2026-11-07T22:15:28Z"
+ },
+ {
+  "id": "6653c5fed6fb0bfb",
+  "source_url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+  "source": "TechCrunch",
+  "source_title": "Parents want safer phones for kids. These companies are answering the call.",
+  "source_summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+  "source_tags": [
+   "Hardware",
+   "Gadgets",
+   "evergreens"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
+  "published": "2026-11-07T19:00:00+00:00",
+  "headline": "Kids’ Safety Phones Gain Momentum as Parents Seek Alternatives",
+  "body": [
+   {
+    "type": "p",
+    "text": "Parents are increasingly looking for phone options that limit unrestricted access for children. In response, a growing number of manufacturers are developing devices specifically designed for kids, offering reduced functionality compared to standard smartphones."
+   },
+   {
+    "type": "p",
+    "text": "These new offerings range from simple feature‑limited mobile phones to minimalist home‑based devices that focus on essential communication while omitting apps, browsers and other distractions. The trend reflects a broader desire for safer, more controlled digital experiences for younger users."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the market for child‑focused phones is expanding as families prioritize privacy and screen‑time management. Companies are positioning these products as alternatives to the conventional smartphone model, aiming to meet parental concerns about safety and exposure."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "As concerns over digital safety grow, US and European families are looking for hardware solutions that help manage children’s screen time and exposure."
+   }
+  ],
+  "key_points": [
+   "Parents are seeking phone alternatives that limit unrestricted smartphone use for children.",
+   "Manufacturers are launching kid‑focused phones with reduced features and minimalist designs.",
+   "The emerging market targets safety, privacy and screen‑time control for younger users."
+  ],
+  "meta_description": "Parents demand safer phones for kids, prompting companies to launch feature‑limited, child‑focused devices.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "kids",
+   "smartphones",
+   "parental control",
+   "mobile safety",
+   "digital wellbeing"
+  ],
+  "slug": "kids-safety-phones-gain-momentum-parents-seek-alternatives-6653c5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T22:15:19Z"
+ },
+ {
+  "id": "40068ba0e8db3369",
+  "source_url": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
+  "source": "The New York Times",
+  "source_title": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
+  "source_summary": "Nintendo’s “Legend of Zelda: Ocarina of Time” was released in 1998. Now, its remake has some fans giddily reliving their childhoods.",
+  "source_tags": [
+   "Computer and Video Games",
+   "Fans (Persons)",
+   "Nineteen Hundred Nineties",
+   "Restoration and Renovation",
+   "3-D Devices and Effects",
+   "Nintendo Co Ltd",
+   "Aonuma, Eiji",
+   "Grand Theft Auto VI (Video Game)",
+   "The Legend of Zelda: Tears of the Kingdom (Video Game)",
+   "Ocarina of Time (Video Game)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/07/multimedia/00xp-zelda-03/00xp-zelda-03-mediumSquareAt3X.png",
+  "published": "2026-11-07T18:52:25+00:00",
+  "headline": "Nintendo Revives 1998 Zelda Classic, Fans Relive Childhood",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nintendo’s flagship adventure, \"The Legend of Zelda: Ocarina of Time,\" first launched in 1998 and quickly became a defining title for the era. The company has now issued a modern remake of the game, updating graphics and controls for current consoles while preserving the original storyline."
+   },
+   {
+    "type": "p",
+    "text": "The updated version has sparked enthusiasm among gamers who grew up with the original, with many describing the experience as a chance to revisit the world of Hyrule through a contemporary lens. Online forums and social media channels are filled with posts from nostalgic players sharing their excitement and memories of the classic adventure."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the remake reflects a broader trend of reviving beloved titles from the 1990s, tapping into a market of older gamers seeking familiar experiences alongside newer audiences discovering the franchise for the first time."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remake highlights the commercial value of nostalgia in the gaming industry, appealing to both longtime fans and new players in the US and European markets."
+   }
+  ],
+  "key_points": [
+   "Nintendo has released a remake of its 1998 title \"The Legend of Zelda: Ocarina of Time.\"",
+   "Fans are celebrating the update as an opportunity to relive their childhood gaming experiences.",
+   "The release aligns with a wider industry pattern of reviving classic games for modern platforms."
+  ],
+  "meta_description": "Nintendo remakes its 1998 Zelda classic, sparking nostalgia among fans and tapping the market for revived retro games.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nintendo",
+   "Zelda",
+   "Ocarina of Time",
+   "remake",
+   "gaming",
+   "nostalgia"
+  ],
+  "slug": "nintendo-revives-1998-zelda-classic-fans-relive-childhood-40068b",
+  "reading_minutes": 1,
+  "added": "2026-11-07T22:15:15Z"
+ },
+ {
   "id": "8d4ce62d62308d7b",
   "source_url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
