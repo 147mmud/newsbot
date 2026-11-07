@@ -1,5 +1,637 @@
 [
  {
+  "id": "1716abc5a2df6da0",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm89zznj21ylo",
+  "source": "BBC News",
+  "source_title": "Parliament restoration delays 'frustrating', says Commons Speaker",
+  "source_summary": "Sir Lindsay Hoyle urges action after a committee warns it is \"crunch time\" for the ailing building.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2f/live/af2a6c10-da5e-11f1-9bf7-670124e03b1b.jpg",
+  "published": "2026-11-07T06:04:32+00:00",
+  "headline": "Commons Speaker Urges Speedy Action on Parliament Restoration",
+  "body": [
+   {
+    "type": "p",
+    "text": "Sir Lindsay Hoyle, the Speaker of the House of Commons, described the ongoing delays to the restoration of the Palace of Westminster as \"frustrating\" and called for immediate progress. He made the remarks after a parliamentary committee warned that the historic building is entering a critical phase, describing it as \"crunch time\" for the ailing structure."
+   },
+   {
+    "type": "p",
+    "text": "The committee’s report highlighted the risk of further deterioration if work does not accelerate, urging the government to allocate the necessary resources and streamline decision‑making. Hoyle echoed these concerns, stressing that the iconic seat of UK democracy must be preserved without further postponement."
+   },
+   {
+    "type": "p",
+    "text": "Stakeholders are now facing pressure to resolve funding and planning issues that have slowed the project, with the speaker emphasizing that swift action is essential to safeguard both the building’s heritage and its functional role."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The state of the UK’s parliament building affects legislative continuity and heritage preservation, issues of interest to democratic institutions in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The Commons Speaker called the restoration delays frustrating and demanded faster action.",
+   "A parliamentary committee warned the Palace of Westminster is at a critical \"crunch time\" stage.",
+   "Accelerating funding and planning decisions is now a priority to prevent further decay."
+  ],
+  "meta_description": "UK Commons Speaker urges swift action on delayed Palace of Westminster restoration after committee warns of critical timing.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "parliament",
+   "restoration",
+   "UK politics",
+   "Sir Lindsay Hoyle",
+   "building delays"
+  ],
+  "slug": "commons-speaker-urges-speedy-action-parliament-restoration-1716ab",
+  "reading_minutes": 1,
+  "added": "2026-11-07T06:30:24Z"
+ },
+ {
+  "id": "d29e41e562774826",
+  "source_url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+  "source": "The Guardian",
+  "source_title": "The end of Maga as we know it",
+  "source_summary": "The Republican party will regroup after their shellacking in the US midterm elections, but it won’t look the same Walking by a tattoo studio and medical spa on the pretty main street of Round Rock , in Texas Hill Country, Tarik Bakir recalled voting for Barack Obama in 2008 and Donald Trump in 2024. But when it came to the 2026 midterm elections, he was firmly back in the Democrats’ column. “I’m not happy with the Iran war,” said Bakir, 41, a financial adviser who served with the US military in Afghanistan. “The economy’s OK , but not great. This election was a rebuttal to Trump. This time people said they didn’t like him, or his policies.”",
+  "source_tags": [
+   "Republicans",
+   "Donald Trump",
+   "US midterm elections 2026",
+   "US politics",
+   "US news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/0312d200602b299fe774847a5f06b6f25056098c/1238_380_2087_1670/master/2087.jpg?width=700&quality=85&auto=format&fit=max&s=572a85d615e904a2cfa136a04022c754",
+  "published": "2026-11-07T06:00:05+00:00",
+  "headline": "Republicans Face Identity Crisis After Midterm Defeat In 2026 Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "The 2026 U.S. midterm elections delivered a decisive loss for the Republican Party, prompting analysts to predict a period of regrouping and internal change. Voters expressed dissatisfaction with former President Donald Trump and his policies, according to post‑election commentary."
+   },
+   {
+    "type": "p",
+    "text": "In Round Rock, Texas, 41‑year‑old financial adviser Tarik Bakir described his shift back to the Democratic column, citing concerns over the war in Iran and a modest economy. Bakir, a former Afghanistan veteran, said the election served as a rebuttal to Trump’s influence."
+   },
+   {
+    "type": "p",
+    "text": "Political observers note that the GOP’s future may look different as it seeks to redefine its platform and leadership in the wake of the midterm setback."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The GOP’s shift could alter legislative dynamics in Washington and affect transatlantic policy coordination."
+   }
+  ],
+  "key_points": [
+   "Republicans suffered a significant defeat in the 2026 midterm elections.",
+   "Voter sentiment reflected opposition to Donald Trump and his policies.",
+   "The party is expected to undergo a period of reorganization and identity reassessment."
+  ],
+  "meta_description": "Republicans face a post‑midterm identity crisis after 2026 losses, with voters rejecting Trump and the party poised for reorganization.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Republicans",
+   "midterms",
+   "elections",
+   "US politics",
+   "party realignment"
+  ],
+  "slug": "republicans-face-identity-crisis-after-midterm-defeat-2026-elections-d29e41",
+  "reading_minutes": 1,
+  "added": "2026-11-07T06:30:40Z"
+ },
+ {
+  "id": "48ae0d68c3dee931",
+  "source_url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+  "source": "TechCrunch",
+  "source_title": "Sequoia shutting down its Scouts program marks the end of an era",
+  "source_summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+  "source_tags": [
+   "Venture",
+   "scout programs",
+   "Sequoia Capital"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1283080307.jpg?resize=1200,800",
+  "published": "2026-11-07T05:01:54+00:00",
+  "headline": "Sequoia Ends Scouts Program, Signaling Limits of VC Scout Model",
+  "body": [
+   {
+    "type": "p",
+    "text": "Sequoia Capital announced it is shutting down its Scouts program, a move that marks the conclusion of a venture‑capital model the firm helped create. The scouts initiative, which allowed individual investors to source early‑stage deals on Sequoia’s behalf, was widely adopted by other firms seeking to expand their deal pipelines."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers now see a growing consensus that the scouts model has reached its practical limits in its current form. While the approach once accelerated deal flow and broadened networks, firms are reassessing its effectiveness amid changing market dynamics."
+   },
+   {
+    "type": "p",
+    "text": "The termination of Sequoia’s program underscores a broader shift in how venture capital firms may approach early‑stage sourcing going forward, potentially prompting a reevaluation of alternative strategies."
+   }
+  ],
+  "key_points": [
+   "Sequoia Capital is closing its Scouts program, ending a model it pioneered.",
+   "Many venture firms adopted the scouts approach, but its usefulness is now being questioned.",
+   "The shutdown suggests a broader reassessment of early‑stage sourcing methods in venture capital."
+  ],
+  "meta_description": "Sequoia shuts its Scouts program, highlighting limits of a once‑popular VC sourcing model.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Sequoia",
+   "venture capital",
+   "scout model",
+   "startup funding",
+   "VC trends"
+  ],
+  "slug": "sequoia-ends-scouts-program-signaling-limits-vc-scout-model-48ae0d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T06:30:28Z"
+ },
+ {
+  "id": "291ee14f3e411b70",
+  "source_url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "US asks China to uphold Busan trade deal commitments",
+  "source_summary": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79404961_6.jpg",
+  "published": "2026-11-07T04:44:00+00:00",
+  "headline": "US Calls on China to Honor Busan Trade Deal on Agriculture, Rare Earths",
+  "body": [
+   {
+    "type": "p",
+    "text": "Washington has formally urged Beijing to fulfill the obligations set out in the 2025 Busan trade agreement, focusing on Chinese purchases of U.S. agricultural products and the continued supply of rare earth minerals. The request was conveyed in a diplomatic note that highlighted the importance of the deal for both economies."
+   },
+   {
+    "type": "p",
+    "text": "China responded by expressing concern over what it described as the United States' \"economic, trade restrictive\" measures, suggesting that Washington's own policies could undermine the spirit of the agreement. The Chinese side emphasized the need for a balanced approach to trade relations."
+   },
+   {
+    "type": "p",
+    "text": "The exchange underscores ongoing tensions in the bilateral trade relationship, with both nations seeking to protect strategic interests while navigating the commitments made under the Busan accord."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The deal affects global supply chains for food and critical minerals, sectors vital to both US and European economies."
+   }
+  ],
+  "key_points": [
+   "The United States has asked China to meet its 2025 Busan deal commitments on farm product purchases and rare‑earth supplies.",
+   "Beijing warned that U.S. trade restrictions could jeopardize the agreement’s intent.",
+   "The dialogue reflects broader US‑China trade frictions despite the formal pact."
+  ],
+  "meta_description": "The US urges China to honor the Busan trade pact on agriculture and rare earths, amid concerns over restrictive US trade measures.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US-China",
+   "Busan trade deal",
+   "agriculture",
+   "rare earths",
+   "trade relations",
+   "diplomacy"
+  ],
+  "slug": "us-calls-china-honor-busan-trade-deal-agriculture-rare-291ee1",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T06:30:32Z"
+ },
+ {
+  "id": "a556ec6077950a4f",
+  "source_url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+  "source": "TechCrunch",
+  "source_title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+  "source_summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+  "source_tags": [
+   "TC",
+   "Government & Policy",
+   "AI"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/SHAWN-THEW-Contributor-Getty.jpg?w=1024",
+  "published": "2026-11-07T04:16:43+00:00",
+  "headline": "Midterm Elections Pressure Big Tech to Shift Toward Democrats",
+  "body": [
+   {
+    "type": "p",
+    "text": "After two years of close ties with the White House, major technology firms are now reaching out to Democratic leaders as the 2026 midterm elections approach. Executives hope the outreach will reshape their public image and influence upcoming policy debates."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the companies' rebranding effort faces scrutiny from state governments, local officials and market participants who are preparing to act on issues ranging from data privacy to antitrust enforcement. The question remains whether the newfound bipartisan courting can withstand the pressure from these emerging fronts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The midterm outcomes could shape U.S. tech regulation, and European observers watch closely as similar policy pressures may arise across the Atlantic."
+   }
+  ],
+  "key_points": [
+   "Big Tech is pivoting toward Democrats ahead of the 2026 midterms after a period of alignment with the White House.",
+   "State, local and market forces are poised to challenge the industry's image makeover with regulatory and economic actions."
+  ],
+  "meta_description": "Big Tech seeks Democratic allies before the 2026 midterms, but state, local and market forces may test its new image.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "midterms",
+   "big tech",
+   "regulation",
+   "Democrats",
+   "state politics",
+   "markets"
+  ],
+  "slug": "midterm-elections-pressure-big-tech-shift-toward-democrats-a556ec",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T06:30:43Z"
+ },
+ {
+  "id": "8eabaa61234fa1c6",
+  "source_url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o",
+  "source": "BBC News",
+  "source_title": "Paraguay's President Santiago Peña impeached and arrested",
+  "source_summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+  "published": "2026-11-07T03:25:00+00:00",
+  "headline": "Paraguay President Santiago Peña Impeached Amid Banking Crisis",
+  "body": [
+   {
+    "type": "p",
+    "text": "Paraguayan authorities have removed President Santiago Peña from office and placed him in custody following an impeachment vote. The move came as the nation grappled with a severe banking crisis that has left millions of citizens unable to reach their accounts."
+   },
+   {
+    "type": "p",
+    "text": "The impeachment was driven by accusations that Peña’s administration failed to prevent or adequately respond to the financial turmoil, which sparked widespread public anger and calls for accountability. After the parliamentary decision, police detained the former president on charges related to the crisis."
+   },
+   {
+    "type": "p",
+    "text": "The arrest marks a dramatic escalation in Paraguay’s political turmoil, highlighting the depth of the economic emergency and the pressure on leaders to restore confidence in the banking system."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The upheaval underscores risks to regional financial stability and could affect foreign investors watching Latin American markets."
+   }
+  ],
+  "key_points": [
+   "President Santiago Peña was impeached and arrested after a banking crisis crippled access to funds for millions.",
+   "The crisis sparked public outrage and led lawmakers to hold the president accountable for the financial collapse."
+  ],
+  "meta_description": "Paraguayan President Santiago Peña was impeached and arrested amid a banking crisis that left millions without access to their money.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Paraguay",
+   "Santiago Peña",
+   "impeachment",
+   "banking crisis",
+   "Latin America"
+  ],
+  "slug": "paraguay-president-santiago-pena-impeached-amid-banking-crisis-8eabaa",
+  "reading_minutes": 1,
+  "added": "2026-11-07T06:30:48Z"
+ },
+ {
+  "id": "df2e47ba17ea9c0a",
+  "source_url": "https://www.dw.com/en/cornell-faculty-declares-no-confidence-in-university-leadership/a-79882895?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Cornell faculty declares 'no confidence' in university leadership",
+  "source_summary": "The university leadership has faced intense criticism for its handling of sexual crimes on campus since a former student filed a lawsuit saying she was drugged and raped at a fraternity house in October 2024.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79472843_6.jpg",
+  "published": "2026-11-07T03:14:00+00:00",
+  "headline": "Cornell Faculty Declares No Confidence in Leaders Over Assault Handling",
+  "body": [
+   {
+    "type": "p",
+    "text": "Faculty members at Cornell University have formally expressed a vote of no confidence in the institution's senior leadership. The motion reflects mounting frustration over how the university has addressed sexual crimes on campus."
+   },
+   {
+    "type": "p",
+    "text": "The backlash intensified after a former student filed a lawsuit alleging she was drugged and raped at a fraternity house in October 2024. Critics say the administration's response to the case has been inadequate and has failed to protect students."
+   },
+   {
+    "type": "p",
+    "text": "The faculty's declaration adds pressure on the university to reassess its policies and oversight mechanisms concerning campus safety and sexual misconduct."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights ongoing concerns about campus safety and institutional accountability in U.S. higher education."
+   }
+  ],
+  "key_points": [
+   "Cornell faculty voted no confidence in university leadership over its handling of sexual assault cases.",
+   "The decision follows a lawsuit alleging a student was drugged and raped at a fraternity house in October 2024."
+  ],
+  "meta_description": "Cornell faculty vote no confidence in leaders after criticism of the university's response to a sexual assault lawsuit.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Cornell",
+   "faculty",
+   "no confidence",
+   "sexual assault",
+   "university leadership"
+  ],
+  "slug": "cornell-faculty-declares-no-confidence-leaders-over-assault-handling-df2e47",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T06:30:56Z"
+ },
+ {
+  "id": "957ba9aad9956064",
+  "source_url": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
+  "source": "The New York Times",
+  "source_title": "U.S. Homeless Population Had Record Drop in 2025",
+  "source_summary": "The Department of Housing and Urban Development credited President Trump, while homeless advocacy groups said that so-called Housing First policies of his predecessors played a part.",
+  "source_tags": [
+   "Homeless Persons",
+   "United States Politics and Government",
+   "Urban Areas",
+   "Housing and Urban Development Department",
+   "Cicero Institute",
+   "National Alliance to End Homelessness",
+   "Poverty",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-homeless-drop-02-gzwf/06dc-homeless-drop-02-gzwf-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T03:09:53+00:00",
+  "headline": "U.S. Homelessness Hits Record Low in 2025 Amid Policy Debate",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Department of Housing and Urban Development reported that the United States saw a historic decline in its homeless population during 2025. Officials highlighted the drop as a key achievement of the current administration's efforts to address housing insecurity."
+   },
+   {
+    "type": "p",
+    "text": "While HUD attributed the improvement to policies enacted under President Trump, leaders of homeless advocacy groups pointed to the earlier \"Housing First\" strategies introduced by previous administrations as a significant factor in the reduction. The groups emphasized that the continued funding and expansion of those programs helped create pathways out of homelessness."
+   },
+   {
+    "type": "p",
+    "text": "The contrasting viewpoints underscore an ongoing debate over which policies most effectively reduce homelessness. Both sides agree that sustained investment in affordable housing and supportive services remains essential to maintaining the downward trend."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A sharp fall in homelessness signals potential policy lessons for other nations grappling with housing crises, including European countries."
+   }
+  ],
+  "key_points": [
+   "HUD says the 2025 decline in U.S. homelessness reflects President Trump's policies.",
+   "Advocacy groups credit earlier Housing First initiatives for the record drop.",
+   "The discussion highlights the importance of continued housing and support programs."
+  ],
+  "meta_description": "U.S. homelessness reaches a record low in 2025, with HUD praising Trump and advocates citing earlier Housing First policies.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "homelessness",
+   "HUD",
+   "Trump",
+   "Housing First",
+   "United States"
+  ],
+  "slug": "u-s-homelessness-hits-record-low-2025-amid-policy-957ba9",
+  "reading_minutes": 1,
+  "added": "2026-11-07T06:30:51Z"
+ },
+ {
+  "id": "3d733061247b5cf9",
+  "source_url": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
+  "source": "The New York Times",
+  "source_title": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
+  "source_summary": "The president has bulldozed through obstacles as he has sought to remake the face of Washington. But newly empowered Democrats and angry judges are setting up a high-stakes showdown.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Courts and the Judiciary",
+   "Building (Construction)",
+   "Midterm Elections (2026)",
+   "Suits and Litigation (Civil)",
+   "White House East Wing and Ballroom (Washington, DC)",
+   "White House Building (Washington, DC)",
+   "Commission of Fine Arts",
+   "Kennedy, John F, Center for the Performing Arts",
+   "National Capital Planning Commission"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-trump-makeover-top2-fpwz/07dc-trump-makeover-top2-fpwz-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T03:08:57+00:00",
+  "headline": "Democrats and Judges Challenge Trump’s Aggressive D.C. Building Plans",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump has pushed forward an ambitious construction agenda in Washington, D.C., aiming to reshape the capital’s skyline and infrastructure. His administration has fast‑tracked projects ranging from new federal office buildings to highway expansions, often bypassing typical regulatory reviews."
+   },
+   {
+    "type": "p",
+    "text": "The recent shift in congressional power to Democrats and a series of rulings by federal judges have introduced new obstacles for the president’s plans. Courts have halted several initiatives on grounds of environmental compliance and procedural violations, signaling a tougher legal environment for the construction push."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts say the clash could set precedents for how future administrations manage large‑scale urban projects. The outcome may affect not only the physical landscape of the nation’s capital but also the broader balance of power between the executive branch and the judiciary."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The showdown highlights how political and judicial checks can shape major urban development, impacting both U.S. governance and international perceptions of American infrastructure policy."
+   }
+  ],
+  "key_points": [
+   "Trump’s D.C. construction agenda faces increased scrutiny from newly empowered Democratic lawmakers.",
+   "Federal judges have blocked several projects, citing environmental and procedural concerns.",
+   "The dispute may influence future federal infrastructure initiatives and executive authority."
+  ],
+  "meta_description": "Democrats and judges are challenging President Trump's aggressive construction plans in Washington, D.C., creating a high‑stakes legal battle.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Washington D.C.",
+   "construction",
+   "judicial review",
+   "Democrats",
+   "infrastructure"
+  ],
+  "slug": "democrats-judges-challenge-trumps-aggressive-d-c-building-plans-3d7330",
+  "reading_minutes": 1,
+  "added": "2026-11-07T06:30:59Z"
+ },
+ {
+  "id": "54a25d38f8181137",
+  "source_url": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+  "source": "The New York Times",
+  "source_title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+  "source_summary": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "Polls and Public Opinion",
+   "Prediction Markets",
+   "Gambling",
+   "Presidential Election of 2024",
+   "Kalshi Inc",
+   "New York Times/Siena College Poll",
+   "New York Times",
+   "Vanderbilt University"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/04/multimedia/2026-11-04-insider-trading-index/2026-11-04-insider-trading-index-mediumSquareAt3X.png",
+  "published": "2026-11-07T02:55:47+00:00",
+  "headline": "Researchers Spot Suspicious Bets on Kalshi and Polymarket Ahead of Senate Poll",
+  "body": [
+   {
+    "type": "p",
+    "text": "Researchers have flagged unusual trading activity on the prediction markets Kalshi and Polymarket that coincided with the release of a Times/Siena poll covering two Senate races. The activity involved a single trader who placed bets that aligned closely with the poll outcomes."
+   },
+   {
+    "type": "p",
+    "text": "The timing of the wagers raised questions about whether the trader had access to non‑public information or simply made accurate predictions. The researchers could not determine the source of the trader's advantage."
+   },
+   {
+    "type": "p",
+    "text": "Both Kalshi and Polymarket are platforms where users bet on political and other future events, and the incident highlights ongoing concerns about the integrity of such markets when they intersect with real‑world elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode raises concerns for regulators and investors about the potential for insider trading in emerging prediction‑market platforms that influence political expectations."
+   }
+  ],
+  "key_points": [
+   "Researchers identified a trader's well‑timed bets on Kalshi and Polymarket before a Senate poll was released.",
+   "It remains unclear whether the trader used insider information or relied on accurate forecasting.",
+   "The case underscores scrutiny of prediction markets' role in political betting."
+  ],
+  "meta_description": "Researchers flag suspicious bets on Kalshi and Polymarket before a Senate poll, questioning possible insider information.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "prediction markets",
+   "political betting",
+   "insider trading",
+   "Senate races",
+   "Kalshi",
+   "Polymarket"
+  ],
+  "slug": "researchers-spot-suspicious-bets-kalshi-polymarket-ahead-senate-poll-54a25d",
+  "reading_minutes": 1,
+  "added": "2026-11-07T06:30:35Z"
+ },
+ {
+  "id": "36231604b2886429",
+  "source_url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+  "source": "TechCrunch",
+  "source_title": "Crusoe sells troubled Wyoming data center project to Google",
+  "source_summary": "The deal highlights the challenges of developing massive AI data centers.",
+  "source_tags": [
+   "AI",
+   "ai infrastructure",
+   "crusoe",
+   "datacenter",
+   "Google"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+  "published": "2026-11-07T01:40:28+00:00",
+  "headline": "Google Buys Troubled Wyoming AI Data Center From Crusoe",
+  "body": [
+   {
+    "type": "p",
+    "text": "Data‑center developer Crusoe has agreed to sell its Wyoming project to Google, according to a report published on TechCrunch. The facility, intended to support large‑scale artificial‑intelligence workloads, has encountered development difficulties that prompted the transaction."
+   },
+   {
+    "type": "p",
+    "text": "The sale underscores the broader challenges companies face when building massive AI‑focused data centers, including site selection, regulatory hurdles and the substantial capital required. Google’s acquisition signals its continued push to expand AI infrastructure in North America."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the deal reflects a growing trend of major cloud providers absorbing smaller, struggling projects to accelerate their AI compute capacity while mitigating risk."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For U.S. and European readers, the deal illustrates how leading cloud firms are consolidating AI infrastructure amid rising demand and complex development challenges."
+   }
+  ],
+  "key_points": [
+   "Crusoe is transferring its Wyoming AI data‑center project to Google.",
+   "The transaction highlights the difficulties of constructing large AI‑focused facilities.",
+   "Google’s move expands its AI infrastructure footprint in the United States."
+  ],
+  "meta_description": "Google acquires Crusoe's troubled Wyoming AI data‑center project, highlighting the challenges of building massive AI facilities.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Google",
+   "Crusoe",
+   "AI",
+   "data center",
+   "Wyoming",
+   "acquisition"
+  ],
+  "slug": "google-buys-troubled-wyoming-ai-data-center-from-crusoe-362316",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T06:31:04Z"
+ },
+ {
   "id": "5c1a467688bd0803",
   "source_url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
   "source": "The Guardian",
@@ -508,6 +1140,60 @@
   "slug": "lampard-says-hair-pull-everton-should-have-been-penalty-25495e",
   "reading_minutes": 1,
   "added": "2026-11-07T00:17:29Z"
+ },
+ {
+  "id": "ef3923a586671c66",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo",
+  "source": "BBC Sport",
+  "source_title": "Whole Australia team knew of sandpaper use - Khawaja",
+  "source_summary": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/29b455a0-da27-11f1-a78c-49bd6dfbb9b5.jpg",
+  "published": "2026-11-06T23:11:56+00:00",
+  "headline": "Khawaja Says Whole Australian Team Knew of Sandpaper Tampering",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Australian batsman Usman Khawaja has alleged that every member of the national cricket side was aware of the use of sandpaper to alter the condition of the ball during the final Test of the 2018 series against South Africa. The claim was made in a recent interview, where Khawaja said the practice was not limited to a few players but was known across the squad."
+   },
+   {
+    "type": "p",
+    "text": "The 2018 series concluded with a contentious match in which officials later identified evidence of ball‑tampering. While investigations at the time focused on a handful of individuals, Khawaja’s statement expands the scope of responsibility, suggesting a broader cultural acceptance of the illicit method within the team."
+   },
+   {
+    "type": "p",
+    "text": "Khawaja did not provide new documentary evidence, but his remarks revive debate over the integrity of Australian cricket and the adequacy of the sport’s governance. The former player’s comments may prompt further scrutiny of past incidents and influence how cricket authorities handle future allegations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Ball‑tampering scandals undermine confidence in sport integrity, a concern for fans and regulators in the US, UK and Europe."
+   }
+  ],
+  "key_points": [
+   "Usman Khawaja claims the entire Australian cricket team knew about sandpaper ball‑tampering in the 2018 final Test versus South Africa.",
+   "The allegation broadens previous investigations that focused on a few individuals.",
+   "Khawaja’s remarks could reignite calls for stricter oversight of cricket’s anti‑tampering measures."
+  ],
+  "meta_description": "Usman Khawaja says the whole Australian cricket team knew of sandpaper ball‑tampering in the 2018 South Africa Test, widening the controversy.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cricket",
+   "Australia",
+   "ball tampering",
+   "Usman Khawaja",
+   "South Africa",
+   "sports integrity"
+  ],
+  "slug": "khawaja-says-whole-australian-team-knew-sandpaper-tampering-ef3923",
+  "reading_minutes": 1,
+  "added": "2026-11-07T06:31:08Z"
  },
  {
   "id": "d9fb5d2e71dc8017",
