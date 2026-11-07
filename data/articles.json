@@ -1,5 +1,677 @@
 [
  {
+  "id": "8d4ce62d62308d7b",
+  "source_url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "South Africa's ANC facing worst-ever performance in local elections",
+  "source_summary": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79887773_6.jpg",
+  "published": "2026-11-07T18:07:00+00:00",
+  "headline": "South Africa's ANC Records Lowest Vote Share in Local Elections",
+  "body": [
+   {
+    "type": "p",
+    "text": "Near‑final results from South Africa's municipal elections show the African National Congress (ANC) slipping to its worst‑ever vote percentage, marking a dramatic decline for the party that once dominated national politics."
+   },
+   {
+    "type": "p",
+    "text": "Analysts attribute the collapse to widespread dissatisfaction with municipal service delivery, especially chronic water shortages and frequent electricity outages that have plagued townships and cities across the country."
+   },
+   {
+    "type": "p",
+    "text": "The ANC’s poor performance is expected to reshape local governance, with opposition parties poised to gain control of more municipalities and potentially influence national policy agendas."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift could affect South Africa's political stability and economic outlook, influencing foreign investment and trade relations with the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "The ANC is set to receive its lowest vote share ever in South Africa's local elections.",
+   "Voter anger over inadequate water and electricity services is a key factor in the party's decline.",
+   "Opposition parties are likely to increase their control of municipal councils."
+  ],
+  "meta_description": "South Africa's ANC faces its lowest vote share ever in local elections, blamed on failing water and electricity services.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "South Africa",
+   "ANC",
+   "elections",
+   "municipal services",
+   "water shortage",
+   "electricity outage"
+  ],
+  "slug": "south-africa-s-anc-records-lowest-vote-share-local-8d4ce6",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T18:15:09Z"
+ },
+ {
+  "id": "51b72a4fc07e758f",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cmd6d1v2y2j6o",
+  "source": "BBC Sport",
+  "source_title": "Powell and Phillips star as Bradford put seven past Marine",
+  "source_summary": "Nick Powell and Adam Phillips both score a brace as Bradford City hammer National League North side Marine 7-0 in the first round of the FA Cup.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e4f/live/fac89500-dad3-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-07T18:02:03+00:00",
+  "headline": "Powell, Phillips Lead Bradford City to 7-0 FA Cup Win Over Marine",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bradford City advanced comfortably in the first round of the FA Cup, defeating National League North side Marine 7-0 at home. The victory was highlighted by a double from both Nick Powell and Adam Phillips, each netting two goals."
+   },
+   {
+    "type": "p",
+    "text": "The remaining goals came from a mix of early pressure and late finishing, ensuring a dominant performance that left Marine without a reply. Bradford’s attacking display underscored their intent to progress further in the competition."
+   },
+   {
+    "type": "p",
+    "text": "Marine, playing in the sixth tier of English football, were unable to contain the higher‑level opposition, and the result reflects the gap between the clubs in the early stages of the tournament."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The FA Cup is a historic knockout competition that offers lower‑league clubs a chance to face higher‑level opponents, generating interest across the UK and Europe."
+   }
+  ],
+  "key_points": [
+   "Nick Powell and Adam Phillips each scored a brace in Bradford City's 7-0 FA Cup win.",
+   "Bradford City comfortably beat Marine, a National League North team, in the first round.",
+   "The win puts Bradford City into the next round of the FA Cup."
+  ],
+  "meta_description": "Bradford City thrashed Marine 7-0 in the FA Cup first round, with Powell and Phillips each scoring twice.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FA Cup",
+   "Bradford City",
+   "Nick Powell",
+   "Adam Phillips",
+   "Marine",
+   "football"
+  ],
+  "slug": "powell-phillips-lead-bradford-city-7-0-fa-cup-51b72a",
+  "reading_minutes": 1,
+  "added": "2026-11-07T18:15:13Z"
+ },
+ {
+  "id": "7e36e0cad4afce50",
+  "source_url": "https://www.nytimes.com/2026/11/07/us/politics/doj-texas-fraud-lawsuit-planned-parenthood.html",
+  "source": "The New York Times",
+  "source_title": "Justice Department Intervenes in Planned Parenthood Lawsuit in Texas",
+  "source_summary": "The Justice Department’s intervention in the Texas lawsuit could signal that the administration is ready to challenge newly elected Democrats in state offices.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Federal-State Relations (US)",
+   "Suits and Litigation (Civil)",
+   "Midterm Elections (2026)",
+   "Attorneys General",
+   "Abortion",
+   "Planned Parenthood Federation of America",
+   "Justice Department",
+   "Democratic Party",
+   "Kacsmaryk, Matthew"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-doj-texas-klwf/06nat-doj-texas-klwf-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T17:54:25+00:00",
+  "headline": "Justice Department Intervenes in Texas Planned Parenthood Suit",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Justice Department has entered a lawsuit in Texas involving Planned Parenthood, filing an intervention that adds the federal government as a party to the case. The move brings the Department of Justice into a legal battle that centers on the state's regulation of reproductive health services."
+   },
+   {
+    "type": "p",
+    "text": "Legal analysts note that the intervention may signal the current administration’s willingness to confront newly elected Democratic officials in state offices. By taking an active role, the Justice Department could be positioning itself for broader challenges to state-level policies that affect reproductive rights."
+   },
+   {
+    "type": "p",
+    "text": "The filing underscores the growing intersection of federal and state legal strategies in the ongoing national debate over abortion and reproductive health. It also highlights how the Justice Department is preparing to use litigation as a tool in political contests across the country."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The action shows how the federal government is entering state-level reproductive‑rights battles, a development relevant to both U.S. and European audiences tracking legal and political trends."
+   }
+  ],
+  "key_points": [
+   "The Justice Department has formally intervened in a Texas lawsuit involving Planned Parenthood.",
+   "The intervention may indicate the administration’s readiness to challenge newly elected Democratic state officials.",
+   "The case reflects increasing federal involvement in state reproductive‑rights disputes."
+  ],
+  "meta_description": "Justice Department joins Texas Planned Parenthood lawsuit, hinting at a broader challenge to newly elected Democratic state officials.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "justice department",
+   "texas",
+   "planned parenthood",
+   "lawsuit",
+   "federal intervention",
+   "political challenge"
+  ],
+  "slug": "justice-department-intervenes-texas-planned-parenthood-suit-7e36e0",
+  "reading_minutes": 1,
+  "added": "2026-11-07T18:15:17Z"
+ },
+ {
+  "id": "9a2c320844063b22",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
+  "source": "BBC News",
+  "source_title": "What we know about Krakow mass shooting so far",
+  "source_summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+  "published": "2026-11-07T17:48:29+00:00",
+  "headline": "Six Killed in Krakow Mass Shooting by Gunman in Military Uniform",
+  "body": [
+   {
+    "type": "p",
+    "text": "A gunman dressed in military fatigues opened fire in Krakow, Poland's second‑largest city, killing at least six people, according to BBC News on November 7, 2026. The attack shocked the historic city and prompted an immediate police response."
+   },
+   {
+    "type": "p",
+    "text": "Details about the shooter’s motives, identity or the exact location of the shooting have not been released. Authorities are investigating the incident, and the death toll may rise as officials assess the scene."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack highlights concerns about public safety in European cities and may influence security policies across the region."
+   }
+  ],
+  "key_points": [
+   "At least six people were killed in a mass shooting in Krakow.",
+   "The gunman was wearing military‑style clothing.",
+   "The incident occurred in Poland's second‑largest city."
+  ],
+  "meta_description": "Six people were killed in a mass shooting in Krakow, Poland, carried out by a gunman in military fatigues, reported on Nov 7, 2026.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Poland",
+   "mass shooting",
+   "Krakow",
+   "public safety",
+   "Europe"
+  ],
+  "slug": "six-killed-krakow-mass-shooting-gunman-military-uniform-9a2c32",
+  "reading_minutes": 1,
+  "added": "2026-11-07T18:15:30Z"
+ },
+ {
+  "id": "c4d0750130b61957",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/c6jrwe4q1le1o",
+  "source": "BBC Sport",
+  "source_title": "Salisbury put six past Sholing to advance to second round",
+  "source_summary": "National League South side Salisbury put six past Southern Premier League South club Sholing to advance to the second round of the FA Cup for the first time in their history.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8262/live/394015f0-dad0-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-07T17:39:21+00:00",
+  "headline": "Salisbury Thrash Sholing 6-0 to Reach FA Cup Second Round",
+  "body": [
+   {
+    "type": "p",
+    "text": "National League South side Salisbury recorded a dominant 6-0 victory over Southern Premier League South club Sholing in the early stages of the 2026-27 FA Cup. The win secured Salisbury a place in the competition's second round, marking the first time the club has progressed that far in its history."
+   },
+   {
+    "type": "p",
+    "text": "The match showcased Salisbury's attacking depth, with six different players finding the net. Sholing, despite a valiant effort, were unable to break through Salisbury's defence, which kept a clean sheet throughout the game."
+   },
+   {
+    "type": "p",
+    "text": "Advancing to the second round puts Salisbury among a select group of lower‑league teams that will now face higher‑ranked opposition, offering both a financial boost and increased exposure for the club."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result illustrates the FA Cup's tradition of giving lower‑league clubs a chance for historic runs, which can generate significant revenue and media attention."
+   }
+  ],
+  "key_points": [
+   "Salisbury defeated Sholing 6-0 to reach the FA Cup second round for the first time.",
+   "All six goals were scored by different Salisbury players, highlighting their offensive variety.",
+   "The victory provides Salisbury with a financial windfall and greater national visibility."
+  ],
+  "meta_description": "Salisbury beat Sholing 6-0 to advance to the FA Cup second round for the first time, marking a historic milestone for the club.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FA Cup",
+   "Salisbury",
+   "Sholing",
+   "National League South",
+   "Southern Premier League",
+   "football"
+  ],
+  "slug": "salisbury-thrash-sholing-6-0-reach-fa-cup-second-c4d075",
+  "reading_minutes": 1,
+  "added": "2026-11-07T18:15:34Z"
+ },
+ {
+  "id": "8142fb3e38d6736b",
+  "source_url": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
+  "source": "The New York Times",
+  "source_title": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
+  "source_summary": "The president’s new chief of staff has already demonstrated his intention to forge ahead with an agenda that many voters rejected.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Deportation",
+   "US and Israeli Attack on Iran (2026)",
+   "Midterm Elections (2026)",
+   "Appointments and Executive Changes",
+   "Immigration and Customs Enforcement (US)",
+   "Republican Party",
+   "United States",
+   "Minneapolis (Minn)",
+   "Caribbean Area"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/07/multimedia/dc-miller-01-qwcf/dc-miller-01-qwcf-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T17:31:19+00:00",
+  "headline": "Stephen Miller Pushes Immigration Crackdown After Election Loss",
+  "body": [
+   {
+    "type": "p",
+    "text": "White House chief of staff Stephen Miller has signaled that the administration will continue its aggressive immigration agenda despite the recent electoral defeat that many voters opposed. Miller, a longtime adviser to former President Donald Trump, is using his new role to advance policies that aim to tighten border enforcement and limit legal immigration."
+   },
+   {
+    "type": "p",
+    "text": "The president’s team has already begun drafting executive actions and regulatory changes that reflect Miller’s hard‑line stance. While critics argue the approach contradicts public sentiment expressed in the election, Miller maintains that the measures are essential for national security and economic stability."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that Miller’s determination to move forward could shape the administration’s legislative priorities and influence upcoming congressional debates on immigration reform."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The continued push on immigration policy could affect transatlantic travel, labor markets and diplomatic relations with European nations."
+   }
+  ],
+  "key_points": [
+   "Stephen Miller, now chief of staff, is advancing a strict immigration agenda despite voter backlash.",
+   "The administration is preparing executive actions to tighten border and legal immigration rules.",
+   "Miller argues the crackdown is needed for security and economic reasons."
+  ],
+  "meta_description": "Chief of staff Stephen Miller vows to press ahead with a tough immigration agenda despite recent election defeat.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Stephen Miller",
+   "immigration policy",
+   "US politics",
+   "election aftermath",
+   "border security"
+  ],
+  "slug": "stephen-miller-pushes-immigration-crackdown-after-election-loss-8142fb",
+  "reading_minutes": 1,
+  "added": "2026-11-07T18:15:37Z"
+ },
+ {
+  "id": "5200277cc677d61e",
+  "source_url": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+  "source": "The New York Times",
+  "source_title": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+  "source_summary": "The contest to replace António Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council.",
+  "source_tags": [
+   "United Nations",
+   "Security Council (UN)",
+   "Lana Nusseibeh",
+   "Guterres, Antonio",
+   "Grossi, Rafael",
+   "Grynspan, Rebeca (1955- )",
+   "Costa Rica",
+   "China",
+   "Portugal",
+   "United Arab Emirates"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/06/multimedia/00INT-UNBoss-zfpq/00INT-UNBoss-zfpq-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T17:26:52+00:00",
+  "headline": "Security Council Split Fuels Chaotic Race for UN Secretary‑General",
+  "body": [
+   {
+    "type": "p",
+    "text": "Member states are scrambling to name a successor to António Guterres as U.N. secretary‑general, with a wave of last‑minute candidates entering the contest. The surge has intensified competition among diplomats seeking the coveted role, which oversees the United Nations' global agenda."
+   },
+   {
+    "type": "p",
+    "text": "Deep divisions within the Security Council have further complicated the selection process, as permanent members and rotating seats clash over preferred nominees. The discord highlights the broader geopolitical tensions that often shape the appointment of the organization’s top diplomat."
+   }
+  ],
+  "key_points": [
+   "A flood of late entrants has turned the UN secretary‑general race into a chaotic scramble.",
+   "Security Council members are sharply divided over candidate preferences."
+  ],
+  "meta_description": "Last‑minute candidates and Security Council rifts make the UN secretary‑general race increasingly chaotic.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "United Nations",
+   "Secretary-General",
+   "Security Council",
+   "Diplomacy",
+   "International Politics"
+  ],
+  "slug": "security-council-split-fuels-chaotic-race-un-secretarygeneral-520027",
+  "reading_minutes": 1,
+  "added": "2026-11-07T18:15:45Z"
+ },
+ {
+  "id": "805dafe9e9847598",
+  "source_url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+  "source": "TechCrunch",
+  "source_title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+  "source_summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+  "source_tags": [
+   "Crypto",
+   "Binance"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+  "published": "2026-11-07T17:24:07+00:00",
+  "headline": "Binance CFO Departs Amid Aftermath of $6.3 Billion Hack",
+  "body": [
+   {
+    "type": "p",
+    "text": "Binance announced that its chief financial officer will leave the company to pursue a new venture. The departure was disclosed just over a week after the exchange suffered a massive security breach that resulted in the theft of approximately $6.3 billion in cryptocurrency from user accounts."
+   },
+   {
+    "type": "p",
+    "text": "The CFO’s exit comes at a critical time for Binance as it works to restore confidence among investors and regulators following the unprecedented loss. The firm has not detailed the timeline for the CFO’s transition or identified a successor, but it emphasized that operations will continue uninterrupted."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that leadership changes after major security incidents are common as firms reassess risk management and strategic direction. Binance has pledged to enhance its security protocols and cooperate with authorities as investigations into the hack proceed."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The leadership shift underscores the challenges cryptocurrency platforms face in securing assets, a concern for investors and regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Binance’s CFO is leaving the company to start a new venture.",
+   "The resignation follows a $6.3 billion cryptocurrency hack that occurred a week earlier."
+  ],
+  "meta_description": "Binance CFO exits to launch a new venture shortly after a $6.3 billion hack, highlighting security challenges for crypto exchanges.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Binance",
+   "cryptocurrency",
+   "hack",
+   "executive departure",
+   "finance"
+  ],
+  "slug": "binance-cfo-departs-amid-aftermath-6-3-billion-hack-805daf",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T18:15:21Z"
+ },
+ {
+  "id": "cb6a8ba83c81ebff",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/ck9dz7l6exx3o",
+  "source": "BBC Sport",
+  "source_title": "Highlights: Non-league Kidderminster shock League One Doncaster",
+  "source_summary": "National League Kidderminster shock League One Doncaster to progress to the second round of the FA Cup.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-07T17:23:20+00:00",
+  "headline": "Non-League Kidderminster Upsets League One Doncaster in FA Cup",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kidderminster Harriers, a National League side, delivered a surprise victory over League One club Doncaster Rovers in the first round of the FA Cup. The win secured the non‑league team a place in the competition's second round, marking a rare upset in the historic tournament."
+   },
+   {
+    "type": "p",
+    "text": "Doncaster entered the match as clear favorites, given their higher league standing, but Kidderminster's performance proved decisive. The result highlights the unpredictable nature of the FA Cup, where clubs from lower divisions often challenge higher‑ranked opponents."
+   },
+   {
+    "type": "p",
+    "text": "The triumph adds to Kidderminster's growing reputation for competing against stronger opposition and provides a financial boost through prize money and potential televised coverage in the next round."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The victory illustrates the FA Cup's reputation for dramatic upsets, offering lower‑league clubs exposure and revenue that can impact their future development."
+   }
+  ],
+  "key_points": [
+   "Kidderminster Harriers beat Doncaster Rovers to advance to the FA Cup second round.",
+   "The upset underscores the FA Cup's tradition of lower‑league teams defeating higher‑tier clubs."
+  ],
+  "meta_description": "Kidderminster Harriers upset Doncaster Rovers in the FA Cup first round, advancing to the second round.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FA Cup",
+   "Kidderminster",
+   "Doncaster",
+   "upset",
+   "non-league",
+   "English football"
+  ],
+  "slug": "non-league-kidderminster-upsets-league-one-doncaster-fa-cup-cb6a8b",
+  "reading_minutes": 1,
+  "added": "2026-11-07T18:15:49Z"
+ },
+ {
+  "id": "bf69aa313637f387",
+  "source_url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+  "source": "TechCrunch",
+  "source_title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+  "source_summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+  "source_tags": [
+   "TC",
+   "Hardware",
+   "Amazon",
+   "Kindle",
+   "e-reader",
+   "hardware",
+   "review"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3861.jpeg?resize=1200,900",
+  "published": "2026-11-07T17:18:00+00:00",
+  "headline": "Amazon Unveils Lighter, Higher-End Basic Kindle With Better Display",
+  "body": [
+   {
+    "type": "p",
+    "text": "Amazon has launched a redesigned entry‑level Kindle that, while priced higher than its predecessor, offers a lighter chassis and a brighter, higher‑resolution screen. The new model trims down on extra features, focusing on core reading functionality."
+   },
+   {
+    "type": "p",
+    "text": "The updated device’s slimmer profile and enhanced display are intended to provide a more comfortable reading experience, positioning it as a viable alternative to the company’s more expensive Kindle lineup. Reviewers note that the improvements make the basic Kindle a compelling choice for users who want a premium feel without paying for additional bells and whistles."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "For consumers in the US and Europe seeking an affordable yet high‑quality e‑reader, the refreshed Kindle offers a streamlined option that may reduce the need to purchase higher‑priced models."
+   }
+  ],
+  "key_points": [
+   "The new basic Kindle is lighter and has an improved display compared with earlier models.",
+   "Despite a higher price tag, the device aims to attract readers who prefer a simpler, cost‑effective e‑reader over pricier options."
+  ],
+  "meta_description": "Amazon's redesigned basic Kindle offers a lighter build and better display, presenting a cost‑effective alternative to pricier e‑readers.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kindle",
+   "Amazon",
+   "e-reader",
+   "consumer electronics",
+   "tech gadgets"
+  ],
+  "slug": "amazon-unveils-lighter-higher-end-basic-kindle-with-better-bf69aa",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-07T18:15:41Z"
+ },
+ {
+  "id": "9a3500d6fef8303a",
+  "source_url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+  "source": "The Verge",
+  "source_title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+  "source_summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, […]",
+  "source_tags": [
+   "Gadgets",
+   "Hands-on",
+   "Health",
+   "Reviews",
+   "Science",
+   "Tech",
+   "Wearable"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-07T17:00:00+00:00",
+  "headline": "UV-Tracking Device Shows Hidden Sun Risks at Outdoor Party",
+  "body": [
+   {
+    "type": "p",
+    "text": "A writer attending an outdoor gathering in Los Angeles during August used a UV‑tracking gadget while sitting under a patio umbrella with a fan, assuming they were shielded from heat and sunlight. Within half an hour, they reported feeling exhausted and dizzy, prompting a reassessment of how sunlight exposure is perceived."
+   },
+   {
+    "type": "p",
+    "text": "The experience highlighted that even in shaded areas, UV radiation can affect health beyond skin appearance. The author’s account suggests that personal UV monitors may reveal hidden exposure levels that standard shade or cooling methods do not mitigate."
+   },
+   {
+    "type": "p",
+    "text": "The piece underscores the potential value of wearable UV trackers for individuals seeking to manage both immediate comfort and longer‑term health impacts of sun exposure."
+   }
+  ],
+  "key_points": [
+   "A UV‑tracking gadget revealed unexpected sun exposure despite shade and a fan.",
+   "The author felt exhausted and dizzy after a short period outdoors in 90‑degree heat.",
+   "Wearable UV monitors can help users better understand hidden sunlight risks."
+  ],
+  "meta_description": "A UV‑tracking device exposed hidden sun risks at a Los Angeles party, prompting a rethink of shade and heat protection.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UV tracking",
+   "sun exposure",
+   "health tech",
+   "heat safety",
+   "wearable devices"
+  ],
+  "slug": "uv-tracking-device-shows-hidden-sun-risks-outdoor-party-9a3500",
+  "reading_minutes": 1,
+  "added": "2026-11-07T18:15:53Z"
+ },
+ {
+  "id": "74708407250ce94e",
+  "source_url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
+  "source": "The New York Times",
+  "source_title": "How Cardiologists’ High Hopes for Two Drugs Were Dashed",
+  "source_summary": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
+  "source_tags": [
+   "Clinical Trials",
+   "Drugs (Pharmaceuticals)",
+   "Heart",
+   "Novartis AG",
+   "Novo Nordisk A/S"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
+  "published": "2026-11-07T14:50:04+00:00",
+  "headline": "Cardiologists’ Promising Heart Drugs Prove No Better Than Placebos",
+  "body": [
+   {
+    "type": "p",
+    "text": "Full trial data released on Saturday showed that two highly anticipated heart‑disease drugs performed no better than placebos across all measured outcomes. The findings, published in a leading medical journal, have stunned researchers who had expected the compounds to significantly reduce cardiovascular events."
+   },
+   {
+    "type": "p",
+    "text": "The study results have sparked debate over whether the trial designs were flawed or if prevailing assumptions about heart disease mechanisms need reevaluation. Analysts note that the drugs, which had generated considerable excitement and investment, failed to demonstrate any statistically significant benefit in preventing heart attacks, strokes, or mortality."
+   },
+   {
+    "type": "p",
+    "text": "Pharmaceutical companies involved face pressure to reassess their development pipelines, while clinicians are urged to rely on existing, evidence‑based therapies until new alternatives emerge."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disappointment affects investors and patients in the U.S., Europe and beyond, highlighting the challenges of delivering breakthrough heart‑disease therapies."
+   }
+  ],
+  "key_points": [
+   "Two new cardiovascular drugs showed no advantage over placebos in comprehensive trial data.",
+   "The outcome raises questions about study design and current heart‑disease hypotheses.",
+   "Pharma firms may need to adjust research strategies as clinicians await proven treatments."
+  ],
+  "meta_description": "New data reveal two touted heart drugs performed no better than placebos, prompting scrutiny of trial design and drug development.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cardiology",
+   "pharmaceuticals",
+   "clinical trials",
+   "heart disease",
+   "drug development"
+  ],
+  "slug": "cardiologists-promising-heart-drugs-prove-no-better-than-placebos-747084",
+  "reading_minutes": 1,
+  "added": "2026-11-07T18:15:25Z"
+ },
+ {
   "id": "26d75bf8d320f5d2",
   "source_url": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
   "source": "The New York Times",
