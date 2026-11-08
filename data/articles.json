@@ -1,5 +1,712 @@
 [
  {
+  "id": "e692bf6a5e734d82",
+  "source_url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
+  "source": "The New York Times",
+  "source_title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
+  "source_summary": "The shock to global oil prices has caused a surge in demand for electric vehicles while propelling a race for immediate, secure power supplies.",
+  "source_tags": [
+   "COP31",
+   "United Nations",
+   "Oil (Petroleum) and Gasoline",
+   "US and Israeli Attack on Iran (2026)",
+   "Global Warming",
+   "Greenhouse Gas Emissions",
+   "International Energy Agency",
+   "Abdulaziz bin Salman, Prince of Saudi Arabia"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-cop31-war-swap-bgvm/08biz-cop31-war-swap-bgvm-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T15:39:12+00:00",
+  "headline": "Iran Conflict Drives Surge in EV Demand and Fossil Fuel Investment",
+  "body": [
+   {
+    "type": "p",
+    "text": "The ongoing war in Iran has sent global oil prices soaring, prompting a sharp increase in consumer interest for electric vehicles as buyers seek alternatives to volatile fuel costs."
+   },
+   {
+    "type": "p",
+    "text": "At the same time, the price spike has accelerated investments in traditional energy projects, as governments and companies race to secure reliable power supplies amid heightened geopolitical risk."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the dual response underscores a broader tension in energy markets, where the push for clean transportation coexists with renewed focus on immediate, secure fossil fuel sources."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European consumers face higher fuel costs and may see faster adoption of electric vehicles, while policymakers balance climate goals with energy security concerns."
+   }
+  ],
+  "key_points": [
+   "Higher oil prices from the Iran war are boosting electric vehicle demand.",
+   "The same price shock is spurring new investments in conventional energy to ensure supply security.",
+   "Energy markets are experiencing a simultaneous shift toward clean transport and reinforced fossil fuel projects."
+  ],
+  "meta_description": "Iran war-driven oil price surge fuels both electric vehicle demand and renewed fossil fuel investments, reshaping global energy markets.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran war",
+   "oil prices",
+   "electric vehicles",
+   "energy security",
+   "fossil fuels",
+   "clean energy"
+  ],
+  "slug": "iran-conflict-drives-surge-ev-demand-fossil-fuel-investment-e692bf",
+  "reading_minutes": 1,
+  "added": "2026-11-08T15:55:09Z"
+ },
+ {
+  "id": "b87fc3d96a2dfda2",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro",
+  "source": "BBC News",
+  "source_title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+  "source_summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
+  "published": "2026-11-08T15:37:25+00:00",
+  "headline": "UK Government Considers Ban on Under‑16 Access to Vinted and eBay",
+  "body": [
+   {
+    "type": "p",
+    "text": "Britain's culture secretary said the government is seriously evaluating a proposal to block users under the age of 16 from two major online marketplaces, Vinted and eBay. The move is part of a broader review of digital platforms that could see restrictions introduced in March next year."
+   },
+   {
+    "type": "p",
+    "text": "Officials have not disclosed the specific reasons behind the potential ban, but the discussion follows growing concerns about young people’s exposure to online trading and second‑hand sales. The proposal would add Vinted and eBay to a list of services under scrutiny for child safety and consumer protection issues."
+   },
+   {
+    "type": "p",
+    "text": "If implemented, the ban would require the platforms to enforce age verification measures or restrict certain features for minors. The government has indicated that any final decision will be announced in the coming months."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The proposal highlights increasing regulatory focus on protecting minors in online marketplaces across Europe and could influence similar policies in the US and other regions."
+   }
+  ],
+  "key_points": [
+   "The UK culture secretary confirmed the government is reviewing a ban on under‑16 users of Vinted and eBay.",
+   "The potential restrictions could take effect in March 2027 as part of a wider digital platform review.",
+   "Platforms may need to introduce age‑verification tools if the ban is enacted."
+  ],
+  "meta_description": "UK government may ban under‑16 access to Vinted and eBay, pending a review set for March 2027.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK government",
+   "online marketplaces",
+   "child protection",
+   "Vinted",
+   "eBay",
+   "digital regulation"
+  ],
+  "slug": "uk-government-considers-ban-under16-access-vinted-ebay-b87fc3",
+  "reading_minutes": 1,
+  "added": "2026-11-08T15:55:13Z"
+ },
+ {
+  "id": "e059d935c470953f",
+  "source_url": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
+  "source": "The New York Times",
+  "source_title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
+  "source_summary": "It remains unclear how the Justice Department might proceed. The move would be a major escalation of the Trump administration’s recent attacks against the news media.",
+  "source_tags": [
+   "Classified Information and State Secrets",
+   "News and News Media",
+   "Newspapers",
+   "Justice Department",
+   "New York Times",
+   "Federal Bureau of Investigation",
+   "Wall Street Journal",
+   "Washington Post",
+   "Supreme Court (US)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/07/multimedia/Justice-New-York-Times-bfgk/Justice-New-York-Times-bfgk-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T15:28:55+00:00",
+  "headline": "Justice Department Weighs Naming NYT as Conspirator in Comey Leak Probe",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal prosecutors are reportedly considering whether to charge The New York Times as a conspirator in the investigation into the leak of former FBI Director James Biden’s private messages. The proposal, which has not been finalized, would involve naming the newspaper in a criminal complaint related to the alleged unauthorized disclosure of classified information."
+   },
+   {
+    "type": "p",
+    "text": "Legal analysts say that such a move would represent a significant escalation of the Trump administration’s recent efforts to challenge and intimidate news organizations. The Justice Department has not disclosed any concrete evidence that would support the allegation against the paper, and officials have not confirmed whether formal charges will be filed."
+   },
+   {
+    "type": "p",
+    "text": "If the Department proceeds, the action could set a precedent for how the government responds to media reporting on sensitive investigations. Critics argue it could undermine press freedom, while supporters claim it is necessary to protect national security and enforce the law."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The potential charge could affect press freedom in the United States and set a precedent for how governments handle media reporting on classified leaks."
+   }
+  ],
+  "key_points": [
+   "The Justice Department is exploring the possibility of naming The New York Times as a conspirator in the Comey leak case.",
+   "Such a step would mark a major escalation in the Trump administration’s confrontations with the press.",
+   "No decision has been made, and the legal basis for charging the newspaper remains unclear."
+  ],
+  "meta_description": "Justice Department considers naming The New York Times as conspirator in Comey leak case, a possible escalation of attacks on the press.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Justice Department",
+   "New York Times",
+   "media law",
+   "Comey leak",
+   "press freedom"
+  ],
+  "slug": "justice-department-weighs-naming-nyt-conspirator-comey-leak-probe-e059d9",
+  "reading_minutes": 1,
+  "added": "2026-11-08T15:55:17Z"
+ },
+ {
+  "id": "1fa1bfcf39f13de7",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd",
+  "source": "The Guardian",
+  "source_title": "Abdul El-Sayed’s Oxford years: PhD, political awakening and sporting distinction",
+  "source_summary": "Michigan senator-elect’s former peers recall his time at university in Britain – and his love of coronation chicken sandwiches In the cold, twilight days of 2008, inside the University of Michigan’s fortress-like Fleming Administration Building, one student was given a particularly adulatory send-off. Mary Sue Coleman, president of the university at the time, convened a ceremony for the latest Rhodes scholar heading off to the University of Oxford: Abdul El-Sayed. “There is no doubt among anyone who crosses his path that he will achieve all he sets out to accomplish and more,” she declared to a room full of the university’s leaders, calling the medical PhD student the “epitome of the engaged intellect”.",
+  "source_tags": [
+   "Abdul El-Sayed",
+   "UK news",
+   "University of Oxford",
+   "Education",
+   "US news",
+   "World news",
+   "US politics",
+   "Democrats",
+   "Michigan",
+   "Higher education"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/fbc596c46adc464d74d4b24bd30de7e04c6a3fbc/0_103_1200_959/master/1200.jpg?width=700&quality=85&auto=format&fit=max&s=f2cfb1c630cd1613851a873ce18c2d5e",
+  "published": "2026-11-08T15:26:04+00:00",
+  "headline": "Michigan Senator-Elect Abdul El‑Sayed Honored as Rhodes Scholar at Oxford",
+  "body": [
+   {
+    "type": "p",
+    "text": "In November 2008, University of Michigan President Mary Sue Coleman led a ceremony to celebrate Abdul El‑Sayed’s selection as a Rhodes Scholar. The event, held in the Fleming Administration Building, highlighted El‑Sayed’s achievements as a medical PhD student and praised him as “the epitome of the engaged intellect.”"
+   },
+   {
+    "type": "p",
+    "text": "El‑Sayed, who later became the senator‑elect of Michigan, spent his Rhodes years at the University of Oxford. Former classmates recall his academic focus alongside a fondness for coronation chicken sandwiches, a detail that underscored his blend of scholarly rigor and everyday humor."
+   },
+   {
+    "type": "p",
+    "text": "The ceremony and subsequent Oxford experience marked a pivotal moment in El‑Sayed’s career, linking his U.S. political aspirations with a prestigious British scholarship and reinforcing his reputation for intellectual engagement."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story illustrates how a future U.S. political leader’s elite education abroad shapes transatlantic ties and public service trajectories."
+   }
+  ],
+  "key_points": [
+   "Abdul El‑Sayed was honored by Michigan’s president in 2008 as a Rhodes Scholar heading to Oxford.",
+   "Peers remember his academic drive and his quirky love of coronation chicken sandwiches during his Oxford years."
+  ],
+  "meta_description": "Michigan senator‑elect Abdul El‑Sayed was celebrated as a Rhodes Scholar in 2008, linking his U.S. political rise with Oxford education.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Abdul El‑Sayed",
+   "Rhodes Scholar",
+   "Oxford",
+   "Michigan politics",
+   "higher education"
+  ],
+  "slug": "michigan-senator-elect-abdul-elsayed-honored-rhodes-scholar-oxford-1fa1bf",
+  "reading_minutes": 1,
+  "added": "2026-11-08T15:55:33Z"
+ },
+ {
+  "id": "4498448773d69cd6",
+  "source_url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Israel: Eisenkot officially tasked with forming a government",
+  "source_summary": "Israeli President Isaac Herzog tasked Gadi Eisenkot with the right of trying to form a government. The opposition leader's way to replacing Benjamin Netanyahu as prime minister is full of political challenges.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79891763_6.jpg",
+  "published": "2026-11-08T15:18:00+00:00",
+  "headline": "Israel: President Herzog Assigns Eisenkot to Form New Government",
+  "body": [
+   {
+    "type": "p",
+    "text": "Israeli President Isaac Herzog formally tasked retired General Gadi Eisenkot with the mandate to try to assemble a governing coalition, following the recent parliamentary elections. Eisenkot, a former chief of staff of the Israel Defense Forces, receives the responsibility amid a fragmented Knesset where no single party holds a clear majority."
+   },
+   {
+    "type": "p",
+    "text": "The move places Eisenkot at the center of a complex political landscape, as opposition leader Benjamin Netanyahu seeks to retain his position as prime minister despite growing challenges. Forming a stable government will require negotiations with multiple parties, each holding distinct policy priorities and ideological positions."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the outcome of these talks will shape Israel’s domestic agenda and its foreign policy posture, particularly in relation to regional security and diplomatic ties with Western allies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A stable Israeli government influences Middle‑East security dynamics and U.S. and European diplomatic and economic interests in the region."
+   }
+  ],
+  "key_points": [
+   "President Isaac Herzog has appointed Gadi Eisenkot to negotiate a coalition government.",
+   "Netanyahu faces significant hurdles in remaining prime minister as parties jockey for influence.",
+   "The coalition talks will affect Israel’s internal policies and its relations with the West."
+  ],
+  "meta_description": "President Herzog tasks Gadi Eisenkot with forming Israel's new government, highlighting challenges for Netanyahu and regional stability.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "government formation",
+   "Gadi Eisenkot",
+   "Isaac Herzog",
+   "Benjamin Netanyahu"
+  ],
+  "slug": "israel-president-herzog-assigns-eisenkot-form-new-government-449844",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T15:55:22Z"
+ },
+ {
+  "id": "ee39245ad7510060",
+  "source_url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+  "source": "NPR",
+  "source_title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+  "source_summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2706x1804+0+0/resize/2706x1804!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F3b%2Fc4576aa14f7f879c8f83e8b05046%2Fap26307590155292.jpg",
+  "published": "2026-11-08T15:07:15+00:00",
+  "headline": "Russell Brand Faces Significant Prison Sentence After Rape Conviction",
+  "body": [
+   {
+    "type": "p",
+    "text": "Comedian Russell Brand was found guilty of rape and sexual assault by a London court, prompting a judge to schedule his sentencing for Monday. The court described the upcoming punishment as \"significant,\" indicating a lengthy term behind bars."
+   },
+   {
+    "type": "p",
+    "text": "The verdict marks a dramatic fall for the once‑celebrated entertainer, whose legal troubles have drawn extensive media attention. While the exact length of the sentence has not yet been disclosed, the judge’s remarks suggest a substantial period of incarceration."
+   },
+   {
+    "type": "p",
+    "text": "Brand’s case underscores the seriousness with which the UK judicial system is treating allegations of sexual violence, regardless of a defendant’s public profile."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The high‑profile sentencing demonstrates how the UK legal system addresses sexual‑assault cases involving celebrities, a development of interest to audiences in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Russell Brand was convicted of rape and sexual assault in a London court.",
+   "A judge announced a \"significant\" prison term will be imposed on Monday.",
+   "The case highlights the UK’s firm stance on sexual‑offense prosecutions."
+  ],
+  "meta_description": "Russell Brand was convicted of rape and sexual assault; a London judge will hand down a significant prison sentence on Monday.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Russell Brand",
+   "rape conviction",
+   "UK court",
+   "sentencing",
+   "celebrity crime"
+  ],
+  "slug": "russell-brand-faces-significant-prison-sentence-after-rape-conviction-ee3924",
+  "reading_minutes": 1,
+  "added": "2026-11-08T15:55:37Z"
+ },
+ {
+  "id": "4caeb136fa53b729",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo",
+  "source": "BBC Sport",
+  "source_title": "England await Guehi scan results after injury concern",
+  "source_summary": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da8/live/ac3bb310-db7b-11f1-b1f1-3be4e895d0fe.jpg",
+  "published": "2026-11-08T15:03:01+00:00",
+  "headline": "England Await Scan Results for Marc Guehi's Hip Injury Ahead of Euro",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester City centre‑back Marc Guehi is set to undergo a medical scan on Sunday after reporting a hip complaint. The scan will determine whether the 25‑year‑old defender can join the England squad for the upcoming international fixtures this week."
+   },
+   {
+    "type": "p",
+    "text": "Guehi, who has been a regular starter for City in the Premier League, was called up by England manager Gareth Southgate but his participation now hinges on the scan’s outcome. The England camp will monitor his condition closely, with the player expected to travel to the national team training base after the results are known."
+   },
+   {
+    "type": "p",
+    "text": "The timing of the scan is critical as England prepares for its next Euro qualifying matches, and the defensive options available to Southgate could be affected by Guehi’s fitness. Club and country medical teams are working together to ensure the player’s health is fully assessed before any decision is made."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "England’s chances in the Euro qualifying campaign could be impacted by the fitness of a key defender, a concern for fans across Europe and the U.S."
+   }
+  ],
+  "key_points": [
+   "Marc Guehi will have a hip scan on Sunday to assess his fitness for England duty.",
+   "His availability could influence England’s defensive lineup for upcoming Euro qualifiers.",
+   "Both Manchester City and the England national team are awaiting the scan results."
+  ],
+  "meta_description": "Manchester City defender Marc Guehi faces a hip scan on Sunday, with England awaiting results to confirm his availability for upcoming Euro qualifiers.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England",
+   "Marc Guehi",
+   "injury",
+   "scan",
+   "Euro qualifiers",
+   "football"
+  ],
+  "slug": "england-await-scan-results-marc-guehi-s-hip-injury-4caeb1",
+  "reading_minutes": 1,
+  "added": "2026-11-08T15:55:26Z"
+ },
+ {
+  "id": "2b571ffdaf575282",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/08/transgender-rights-unraveled",
+  "source": "The Guardian",
+  "source_title": "The political playbook that unraveled US transgender rights in the past decade",
+  "source_summary": "From the military to healthcare, Trump systematically dismantled Obama-era protections for transgender rights Shelby Chestnut remembers turning on the news in 2016 and hearing something he didn’t expect. Then- attorney general, Loretta Lynch, had just announced a federal lawsuit to block HB2 in North Carolina , otherwise known as the “bathroom bill”. Lynch said the law, which made it illegal for transgender people to use a public restroom that did not align with the sex listed on their birth certificate, was reminiscent of those passed during the Jim Crow era that restricted public facility use by race. Then, she addressed transgender Americans directly: “But no matter how isolated or scared you may feel today, the Department of Justice and the entire Obama administration wants you to know that we see you; we stand with you; and we will do everything we can to protect you going forward.” HB 2 was repealed within the year. Chestnut said he thought at the time: “Oh this is the next phase of protections for trans people.”",
+  "source_tags": [
+   "North Carolina",
+   "LGBTQ+ rights",
+   "US news",
+   "Kansas",
+   "Idaho",
+   "Transgender",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/7fd73804d5d6ed20300f1ac5f2e2e814db1ce6ff/648_0_6483_5187/master/6483.jpg?width=700&quality=85&auto=format&fit=max&s=3cccfb5fae5f0445c271fc61e756fca1",
+  "published": "2026-11-08T15:00:42+00:00",
+  "headline": "Trump Administration Undoes Obama-Era Transgender Protections",
+  "body": [
+   {
+    "type": "p",
+    "text": "In 2016, Attorney General Loretta Lynch announced a federal lawsuit to block North Carolina’s HB2, the so‑called “bathroom bill” that barred transgender people from using restrooms that did not match the sex on their birth certificates. Lynch likened the law to Jim Crow statutes and pledged the Department of Justice’s support for transgender Americans, stating the Obama administration would work to protect them."
+   },
+   {
+    "type": "p",
+    "text": "HB2 was repealed within a year, raising hopes for a new wave of transgender rights safeguards. However, over the following decade the Trump administration systematically rolled back many of the Obama‑era measures that had extended protections in areas such as the military, healthcare and federal employment."
+   },
+   {
+    "type": "p",
+    "text": "The reversal of these policies has left transgender individuals facing renewed legal uncertainty and reduced federal protections, marking a stark shift in the federal government’s stance on gender identity rights since 2016."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift illustrates how U.S. federal policy on gender identity can change dramatically, influencing rights debates in Europe and affecting multinational companies operating across these jurisdictions."
+   }
+  ],
+  "key_points": [
+   "Loretta Lynch sued to block North Carolina’s HB2 in 2016, calling it akin to Jim Crow laws.",
+   "HB2 was repealed within a year, but subsequent Trump policies dismantled broader transgender protections.",
+   "The rollback affects military service, healthcare access and federal anti‑discrimination rules."
+  ],
+  "meta_description": "From a 2016 DOJ lawsuit against NC's bathroom bill to Trump-era rollbacks, transgender protections in the US have been dramatically altered.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "transgender rights",
+   "US policy",
+   "Trump administration",
+   "LGBTQ",
+   "civil rights"
+  ],
+  "slug": "trump-administration-undoes-obama-era-transgender-protections-2b571f",
+  "reading_minutes": 1,
+  "added": "2026-11-08T15:55:53Z"
+ },
+ {
+  "id": "082de41780595cce",
+  "source_url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+  "source": "The Verge",
+  "source_title": "Chatbots might be coming to Apple’s HomeView",
+  "source_summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to […]",
+  "source_tags": [
+   "Apple",
+   "Apple Rumors",
+   "News",
+   "Smart Home",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-08T15:00:30+00:00",
+  "headline": "Apple's iOS 27.3 Beta Hints at Chatbot Support for HomeView Hub",
+  "body": [
+   {
+    "type": "p",
+    "text": "Developers examining the iOS 27.3 beta have discovered a new flag labeled \"Conversational Apps\" within the code for Apple’s HomeView smart‑home hub. The flag suggests that Apple is preparing its platform to host chat‑based applications, though the beta provides no specifics about which services might be included."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the addition could open the door for popular AI assistants such as ChatGPT or Claude to run directly on HomeView devices, allowing users to interact with their smart‑home ecosystem via natural language. Apple has not confirmed any timeline or official partnership for these potential chatbot integrations."
+   },
+   {
+    "type": "p",
+    "text": "If implemented, the feature would expand HomeView’s functionality beyond traditional device control, positioning Apple’s hub alongside competing platforms that already support voice‑first AI assistants."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Integrating AI chatbots into HomeView could streamline smart‑home control for U.S. and European users, aligning Apple with rivals that already offer voice‑first assistants."
+   }
+  ],
+  "key_points": [
+   "iOS 27.3 beta includes a \"Conversational Apps\" flag for HomeView, indicating possible chatbot support.",
+   "The code change could enable AI assistants like ChatGPT or Claude to run on Apple’s smart‑home hub.",
+   "Apple has not yet announced details or a release schedule for the feature."
+  ],
+  "meta_description": "Apple's iOS 27.3 beta reveals a flag for conversational apps, hinting at future chatbot support for its HomeView smart‑home hub.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "apple",
+   "ios",
+   "homeview",
+   "chatbots",
+   "smart home",
+   "AI"
+  ],
+  "slug": "apple-s-ios-27-3-beta-hints-chatbot-support-082de4",
+  "reading_minutes": 1,
+  "added": "2026-11-08T15:55:29Z"
+ },
+ {
+  "id": "9164bb8caa444268",
+  "source_url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+  "source": "TechCrunch",
+  "source_title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+  "source_summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+  "source_tags": [
+   "Hardware",
+   "Gadgets",
+   "Ninja",
+   "review",
+   "Coffee",
+   "shark"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/ninja-autobarista-1-1.jpg?resize=1200,722",
+  "published": "2026-11-08T15:00:00+00:00",
+  "headline": "Ninja AutoBarista Review Highlights Versatile Design but One Dealbreaker",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch’s review notes that Ninja’s new AutoBarista coffee machine impresses with its versatility across brewing methods, from drip coffee to espresso. The standout feature is the \"Grind iQ\" technology, which scans beans and adjusts the espresso extraction parameters accordingly."
+   },
+   {
+    "type": "p",
+    "text": "While the machine’s adaptability and bean‑analysis capability earned praise, the reviewer identified a single feature that proved to be a dealbreaker, though specific details of the flaw were not disclosed in the article."
+   },
+   {
+    "type": "p",
+    "text": "Overall, the AutoBarista offers a high‑tech approach to home coffee preparation, appealing to users who value automated precision and a range of brewing options."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Advanced home coffee makers like the AutoBarista reflect growing consumer demand for barista‑level automation in the US and European markets."
+   }
+  ],
+  "key_points": [
+   "Ninja AutoBarista’s Grind iQ technology customizes espresso shots by analyzing coffee beans.",
+   "The machine is praised for its broad brewing versatility.",
+   "A particular feature was deemed a dealbreaker by the reviewer."
+  ],
+  "meta_description": "Ninja AutoBarista offers versatile brewing and bean‑analysis tech, but a reviewer flagged one dealbreaking feature.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "coffee",
+   "appliances",
+   "Ninja",
+   "Grind iQ",
+   "espresso",
+   "product review"
+  ],
+  "slug": "ninja-autobarista-review-highlights-versatile-design-but-one-dealbreaker-9164bb",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T15:55:49Z"
+ },
+ {
+  "id": "a38288e4bc5a0ae9",
+  "source_url": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
+  "source": "The New York Times",
+  "source_title": "How a Duck Named Olivia Helped Pass D.C.’s Foie Gras Ban",
+  "source_summary": "Initiative 86, which bars the force-feeding of birds and the sale of foie gras, passed handily but restaurateurs and prominent chefs are preparing for a fight.",
+  "source_tags": [
+   "Foie Gras",
+   "Restaurants",
+   "Animal Abuse, Rights and Welfare",
+   "Chefs",
+   "Ducks",
+   "Poultry",
+   "French Food (Cuisine)",
+   "Law and Legislation",
+   "Andres, Jose (1969- )",
+   "Hutchins, Bart (Chef)"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-11-08T14:05:43+00:00",
+  "headline": "Duck Named Olivia Boosts Passage of D.C. Foie Gras Ban",
+  "body": [
+   {
+    "type": "p",
+    "text": "A grassroots campaign featuring a duck called Olivia played a key role in the approval of Initiative 86, a measure that prohibits force‑feeding birds and bans the sale of foie gras in Washington, D.C. The initiative cleared the ballot with strong support from voters."
+   },
+   {
+    "type": "p",
+    "text": "The new law has sparked immediate backlash from restaurant owners and well‑known chefs, who say the ban threatens culinary traditions and could hurt businesses that serve the luxury delicacy. Industry groups are already mobilizing legal and political resources to challenge the measure."
+   },
+   {
+    "type": "p",
+    "text": "Advocates of the ban argue that ending the practice of gavage protects animal welfare and aligns D.C. with other jurisdictions that have restricted foie gras. The debate now centers on balancing ethical concerns with the interests of the hospitality sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ban reflects growing animal‑welfare pressures that could influence similar legislation in other U.S. cities and European markets."
+   }
+  ],
+  "key_points": [
+   "Initiative 86, banning force‑feeding of birds and foie gras sales, passed in D.C.",
+   "Restaurant owners and prominent chefs are preparing legal and political opposition.",
+   "The campaign highlighted a duck named Olivia as a symbol of the animal‑rights effort."
+  ],
+  "meta_description": "A duck named Olivia helped secure D.C.'s ban on force‑feeding birds and foie gras sales, prompting industry backlash.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "foie gras ban",
+   "animal welfare",
+   "Washington D.C.",
+   "restaurant industry",
+   "initiative 86"
+  ],
+  "slug": "duck-named-olivia-boosts-passage-d-c-foie-gras-a38288",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T15:55:45Z"
+ },
+ {
+  "id": "79fbfe4df65114da",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm93zrw2wz9go",
+  "source": "BBC Sport",
+  "source_title": "'That's Reece' - World Cup semi-final brings out best and worst of Walsh",
+  "source_summary": "On a fractious night in Sydney that ended with Australia reaching yet another Men's Rugby League World Cup final, it was no surprise to see Reece Walsh centre stage – for better or worse.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b08/live/3fdc47d0-db7a-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-08T13:57:54+00:00",
+  "headline": "Reece Walsh Dominates Turbulent World Cup Semi in Sydney",
+  "body": [
+   {
+    "type": "p",
+    "text": "Australia secured a place in the Men’s Rugby League World Cup final after a contentious semi‑final in Sydney, a match that placed Reece Walsh at the centre of attention. The game was marked by on‑field incidents and heated exchanges, highlighting both the skill and the controversy surrounding the sport."
+   },
+   {
+    "type": "p",
+    "text": "Walsh’s performance was a focal point, drawing praise for his playmaking while also attracting criticism amid the night’s disputes. The Australian side’s victory adds another final appearance to their recent World Cup record, underscoring the nation’s strength in rugby league."
+   },
+   {
+    "type": "p",
+    "text": "The semi‑final’s drama reflects ongoing tensions within the sport, as officials and fans grapple with maintaining competitive intensity while ensuring player safety and sportsmanship."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome influences the global profile of rugby league, a sport gaining traction in North America and Europe, and raises questions about governance and player behavior."
+   }
+  ],
+  "key_points": [
+   "Australia advanced to the World Cup final after a heated semi‑final in Sydney.",
+   "Reece Walsh was the central figure, receiving both acclaim and scrutiny.",
+   "The match highlighted broader issues of discipline and conduct in rugby league."
+  ],
+  "meta_description": "Australia reaches the Rugby League World Cup final after a turbulent semi‑final in Sydney, with Reece Walsh at the centre of the action.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rugby League",
+   "World Cup",
+   "Australia",
+   "Reece Walsh",
+   "sportsmanship"
+  ],
+  "slug": "reece-walsh-dominates-turbulent-world-cup-semi-sydney-79fbfe",
+  "reading_minutes": 1,
+  "added": "2026-11-08T15:55:41Z"
+ },
+ {
   "id": "2869f325903fc5b8",
   "source_url": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
