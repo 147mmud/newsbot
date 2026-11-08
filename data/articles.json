@@ -1,5 +1,704 @@
 [
  {
+  "id": "cceeafe8e76c963c",
+  "source_url": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
+  "source": "The New York Times",
+  "source_title": "Here Are the Difficult Options Trump Is Weighing to Resolve the War in Iran",
+  "source_summary": "There are no good choices facing President Trump as he tries to find a way out of the deeply unpopular conflict. But there are choices.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "United States Politics and Government",
+   "United States International Relations",
+   "United States Defense and Military Forces",
+   "International Relations",
+   "Politics and Government",
+   "Defense and Military Forces",
+   "Defense Department",
+   "Trump, Donald J",
+   "Nuclear Weapons"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-iran-options2-qtwp/08dc-iran-options2-qtwp-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T23:49:53+00:00",
+  "headline": "Trump Grapples With Tough Choices to End Unpopular Iran War",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump faces a set of difficult decisions as he seeks a way out of the ongoing conflict with Iran, a war that has drawn widespread criticism at home and abroad. According to recent reporting, there are no clear or popular solutions on the table, leaving the administration in a tight spot."
+   },
+   {
+    "type": "p",
+    "text": "Despite the lack of easy answers, officials say that a range of options remains under consideration, though each carries significant risks and potential fallout. The administration’s challenge is to balance the desire to end hostilities with the political and strategic costs of any chosen path."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the war’s deep unpopularity adds pressure on Trump to act swiftly, yet any move is likely to be scrutinized by both domestic audiences and international partners."
+   }
+  ],
+  "key_points": [
+   "Trump has no universally accepted path to end the Iran conflict.",
+   "The war is deeply unpopular, limiting political maneuverability.",
+   "A variety of risky options are still being evaluated."
+  ],
+  "meta_description": "President Trump weighs risky options to end the unpopular Iran war, facing limited choices and political pressure.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Iran war",
+   "US foreign policy",
+   "military options",
+   "conflict"
+  ],
+  "slug": "trump-grapples-with-tough-choices-end-unpopular-iran-war-cceeaf",
+  "reading_minutes": 1,
+  "added": "2026-11-08T23:58:18Z"
+ },
+ {
+  "id": "d5a2eae5b1a4d7b6",
+  "source_url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+  "source": "The New York Times",
+  "source_title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+  "source_summary": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
+  "source_tags": [
+   "Leo XIV",
+   "Argentina",
+   "Milei, Javier",
+   "Roman Catholic Church",
+   "Popes",
+   "Francis",
+   "Buenos Aires (Argentina)",
+   "Latin America",
+   "Religion-State Relations",
+   "vis-photo"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T23:36:32+00:00",
+  "headline": "Pope Leo Calls on Argentina’s Milei to Prioritize Poor in Economy",
+  "body": [
+   {
+    "type": "p",
+    "text": "During his visit to Argentina, Pope Leo urged President Javier Milei to shape economic policy around the needs of the most vulnerable, emphasizing that an economy must serve the needy. The pontiff’s remarks highlighted the Catholic Church’s long‑standing commitment to social justice."
+   },
+   {
+    "type": "p",
+    "text": "The comments come as Milei’s libertarian government pursues market‑driven reforms that have sparked tension with the Church, which warns that such policies risk neglecting the poor. The Pope’s message underscores a clash between the administration’s economic agenda and the moral teachings of the Catholic hierarchy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute signals how social‑policy debates in Argentina could influence regional stability and affect foreign investors watching the country’s reform agenda."
+   }
+  ],
+  "key_points": [
+   "Pope Leo told President Milei that economic decisions should prioritize the poor.",
+   "The remarks reflect growing friction between Argentina’s libertarian leadership and the Catholic Church’s social justice focus."
+  ],
+  "meta_description": "Pope Leo urges Argentina’s President Milei to focus economic policy on the poor, highlighting tension with the Catholic Church.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Argentina",
+   "Pope Leo",
+   "Javier Milei",
+   "economy",
+   "social justice",
+   "Catholic Church"
+  ],
+  "slug": "pope-leo-calls-argentinas-milei-prioritize-poor-economy-d5a2ea",
+  "reading_minutes": 1,
+  "added": "2026-11-08T23:58:06Z"
+ },
+ {
+  "id": "7372e89861ee09bc",
+  "source_url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
+  "source": "BBC News",
+  "source_title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+  "source_summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+  "published": "2026-11-08T23:34:18+00:00",
+  "headline": "Surgeon’s Quick Action During Krakow Shooting Saved Officer’s Life",
+  "body": [
+   {
+    "type": "p",
+    "text": "A surgeon who was having lunch near the site of a recent shooting near Krakow is credited with saving the life of a police officer, according to a colleague of the medical professional. The incident involved a gunman who opened fire, prompting a rapid response from nearby law enforcement."
+   },
+   {
+    "type": "p",
+    "text": "Two police officers are being praised for stopping the attacker and preventing further casualties. Their decisive actions, combined with the surgeon’s immediate medical assistance, are believed to have been crucial in preserving the officer’s health after he was injured in the exchange."
+   },
+   {
+    "type": "p",
+    "text": "Details about the exact timing of the surgeon’s intervention and the extent of the officer’s injuries have not been disclosed, but authorities emphasize the importance of swift civilian aid in emergency situations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights how quick civilian medical response can complement police actions in active‑shooter events, a concern for public safety strategies in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "A surgeon nearby provided life‑saving aid to an injured police officer during a Krakow shooting.",
+   "Two officers stopped the gunman, preventing additional deaths.",
+   "The combined efforts of law enforcement and civilian medical help were vital to the outcome."
+  ],
+  "meta_description": "A surgeon’s rapid aid during a Krakow shooting helped save a police officer’s life as officers halted the gunman.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Krakow shooting",
+   "police response",
+   "civilian medical aid",
+   "public safety",
+   "law enforcement"
+  ],
+  "slug": "surgeons-quick-action-during-krakow-shooting-saved-officers-life-7372e8",
+  "reading_minutes": 1,
+  "added": "2026-11-08T23:58:25Z"
+ },
+ {
+  "id": "3120ee4f908c40c7",
+  "source_url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+  "source": "The New York Times",
+  "source_title": "When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.",
+  "source_summary": "A federal indictment alleges that three men used generative A.I. to impersonate voices of chief executives and lawyers to defraud companies of millions of dollars.",
+  "source_tags": [
+   "Federal Courts (US)",
+   "Artificial Intelligence",
+   "Extradition",
+   "Frauds and Swindling",
+   "Federal Bureau of Investigation",
+   "Ethics and Official Misconduct",
+   "Impostors (Criminal)",
+   "Money Laundering",
+   "Accounting and Accountants",
+   "Identity Theft"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08xp-ai1-tmjk/08xp-ai1-tmjk-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T23:34:09+00:00",
+  "headline": "AI Voice Scam Nets Over $129 Million in Federal Fraud Scheme",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal indictment alleges that three men leveraged generative artificial intelligence to mimic the voices of CEOs and corporate lawyers, deceiving companies into wiring millions of dollars to fraudulent accounts. The scheme, which spanned multiple industries, relied on realistic AI‑generated speech to convince employees that the requests were legitimate and urgent."
+   },
+   {
+    "type": "p",
+    "text": "According to the indictment, the conspirators used the fabricated calls to obtain wire transfers totaling more than $129 million. The victims included firms in the United States and abroad, all of which were duped by the convincing audio that sounded like their own executives. Law enforcement officials say the suspects coordinated the fraud through encrypted messaging and sophisticated money‑laundering techniques."
+   },
+   {
+    "type": "p",
+    "text": "The case highlights growing concerns about the misuse of deep‑fake technology in financial crimes. Prosecutors are pursuing charges that could result in significant prison time and aim to set a precedent for how authorities handle AI‑enabled fraud."
+   }
+  ],
+  "key_points": [
+   "Three men used generative AI to impersonate corporate leaders and steal over $129 million.",
+   "The indictment details how realistic voice deep‑fakes convinced employees to authorize wire transfers.",
+   "The case underscores rising threats from AI‑driven fraud to businesses worldwide."
+  ],
+  "meta_description": "Federal indictment reveals three men used AI‑generated voice deep‑fakes to steal more than $129 million from companies.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI fraud",
+   "deepfake",
+   "financial crime",
+   "cybersecurity",
+   "law enforcement",
+   "generative AI"
+  ],
+  "slug": "ai-voice-scam-nets-over-129-million-federal-fraud-3120ee",
+  "reading_minutes": 1,
+  "added": "2026-11-08T23:58:09Z"
+ },
+ {
+  "id": "1903544797000c54",
+  "source_url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
+  "source": "The New York Times",
+  "source_title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
+  "source_summary": "American forces are helping Colombia and Venezuela hunt the ELN. This weekend, the group attacked a Colombian military base with drones, officials said.",
+  "source_tags": [
+   "Colombia",
+   "National Liberation Army (Colombia)",
+   "Venezuela",
+   "Rubio, Marco",
+   "De La Espriella, Abelardo",
+   "Rodriguez, Delcy (1969- )",
+   "Trump, Donald J",
+   "Drug Abuse and Traffic",
+   "United States Defense and Military Forces",
+   "Latin America"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-colombia-attack-wzqk/08int-colombia-attack-wzqk-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T23:11:30+00:00",
+  "headline": "U.S.-Backed Hunt for ELN Triggers Drone Attack on Colombian Base",
+  "body": [
+   {
+    "type": "p",
+    "text": "American military assistance is being provided to both Colombia and Venezuela as they intensify operations against the National Liberation Army (ELN), an armed rebel group active in the region. The joint effort aims to disrupt the ELN's activities and curb its influence across the border areas."
+   },
+   {
+    "type": "p",
+    "text": "Over the weekend, the ELN responded with a drone strike on a Colombian military installation, officials said. The attack marked a notable escalation in the group's tactics, employing unmanned aerial vehicles to target government forces."
+   },
+   {
+    "type": "p",
+    "text": "Colombian authorities reported damage to the base but did not immediately release casualty figures. The incident underscores the heightened tension as U.S. support for counterinsurgency measures continues."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights growing U.S. involvement in South American security and the potential for increased violence as rebel groups adopt new technologies."
+   }
+  ],
+  "key_points": [
+   "The United States is assisting Colombia and Venezuela in operations against the ELN.",
+   "The ELN used drones to strike a Colombian military base this weekend.",
+   "The attack signals an escalation in the rebel group's tactics."
+  ],
+  "meta_description": "U.S. aid to Colombia and Venezuela fuels a hunt for the ELN, prompting the rebel group to launch a drone attack on a Colombian base.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "ELN",
+   "U.S. military aid",
+   "Colombia",
+   "Venezuela",
+   "drone attack",
+   "regional security"
+  ],
+  "slug": "u-s-backed-hunt-eln-triggers-drone-attack-colombian-190354",
+  "reading_minutes": 1,
+  "added": "2026-11-08T23:58:29Z"
+ },
+ {
+  "id": "bc0b846ed6bf5e65",
+  "source_url": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
+  "source_summary": "Following reports of Nvidia's chief Jensen Huang becoming involved with a Chinese spy, Huang offered an apology for cheating on his wife. Meanwhile, the US tech company pledged to investigate the alleged espionage.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79708779_6.jpg",
+  "published": "2026-11-08T23:07:00+00:00",
+  "headline": "Nvidia CEO Jensen Huang Apologizes for Affair, Promises Spy Probe",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia chief executive Jensen Huang issued a public apology after reports surfaced that he had engaged in an extramarital affair. In a brief statement, Huang said he had \"cheated on his wife\" and expressed remorse for his personal conduct."
+   },
+   {
+    "type": "p",
+    "text": "The apology coincided with the company's announcement that it will launch an internal investigation into allegations that Huang was involved with a Chinese intelligence operative. Nvidia said it is committed to fully examining any potential espionage activities linked to its leadership."
+   },
+   {
+    "type": "p",
+    "text": "The company did not provide details about the scope of the probe or any immediate actions that might follow. Huang's admission and the promised investigation come as the firm continues to navigate heightened scrutiny over its ties to China and its role in the global semiconductor market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The investigation could affect US‑China technology relations and investor confidence in a key player in the semiconductor industry."
+   }
+  ],
+  "key_points": [
+   "Nvidia CEO Jensen Huang publicly admitted to an affair and apologized.",
+   "Nvidia pledged to investigate claims that Huang had connections to a Chinese spy.",
+   "The probe adds to ongoing scrutiny of the company's ties to China."
+  ],
+  "meta_description": "Nvidia CEO Jensen Huang apologizes for an affair and announces a probe into alleged Chinese spy ties.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "espionage",
+   "China",
+   "corporate scandal"
+  ],
+  "slug": "nvidia-ceo-jensen-huang-apologizes-affair-promises-spy-probe-bc0b84",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T23:58:42Z"
+ },
+ {
+  "id": "67abd93f196f854c",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+  "source": "The Verge",
+  "source_title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+  "source_summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+  "source_tags": [
+   "AI",
+   "News",
+   "Nvidia",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-08T22:54:50+00:00",
+  "headline": "Nvidia Launches Probe Into CEO Jensen Huang’s Ties With Chinese Agent",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia’s board of directors announced on Sunday that it is opening an internal investigation into CEO Jensen Huang’s personal relationship with Alice Huang, an artificial‑intelligence executive described as an agent of the Chinese government. The probe follows a memo from Jensen Huang to staff in which he acknowledged the affair."
+   },
+   {
+    "type": "p",
+    "text": "The board’s decision signals heightened scrutiny of potential conflicts of interest that could affect the company’s operations and its compliance with U.S. export controls on advanced AI technology. Nvidia has not disclosed any further details about the scope of the investigation or any immediate impact on its business."
+   },
+   {
+    "type": "p",
+    "text": "Employees were instructed to direct any related concerns to the board’s compliance committee while the investigation proceeds. No allegations of wrongdoing have been made public at this stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The inquiry could affect Nvidia’s standing with regulators and investors in the United States and Europe, where concerns about Chinese influence on critical AI technology are high."
+   }
+  ],
+  "key_points": [
+   "Nvidia’s board has opened an internal investigation into CEO Jensen Huang’s relationship with a Chinese government agent.",
+   "Jensen Huang sent a memo to employees confirming the affair.",
+   "The probe may have implications for the company’s compliance with U.S. export regulations."
+  ],
+  "meta_description": "Nvidia’s board launches an investigation into CEO Jensen Huang’s relationship with a Chinese government agent, raising compliance concerns.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "China",
+   "AI",
+   "Corporate Governance",
+   "Investigation"
+  ],
+  "slug": "nvidia-launches-probe-into-ceo-jensen-huangs-ties-with-67abd9",
+  "reading_minutes": 1,
+  "added": "2026-11-08T23:58:21Z"
+ },
+ {
+  "id": "dd09302bd8713d79",
+  "source_url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
+  "source": "The New York Times",
+  "source_title": "Medicare Advantage vs. Traditional Medicare, Explained",
+  "source_summary": "When you sign up for the retiree health plan, the two options can present a financial puzzle. But cost is just one factor.",
+  "source_tags": [
+   "Retirement",
+   "Medicare",
+   "Medicare Advantage",
+   "Health Insurance and Managed Care",
+   "Elderly",
+   "Prices (Fares, Fees and Rates)",
+   "Content Type: Service",
+   "Elder Care",
+   "Drugs (Pharmaceuticals)",
+   "Medicine and Health"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/08/business/08retiring-illo-sub/08retiring-illo-sub-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T22:42:45+00:00",
+  "headline": "Medicare Advantage vs Traditional Medicare: Cost and Coverage Differences Explained",
+  "body": [
+   {
+    "type": "p",
+    "text": "Retirees enrolling in Medicare face a choice between Medicare Advantage plans and Traditional Medicare, a decision that can feel like a financial puzzle. Both options provide access to health care, but they differ in how services are delivered and paid for."
+   },
+   {
+    "type": "p",
+    "text": "Medicare Advantage plans are offered by private insurers and often bundle additional benefits such as vision or dental coverage, sometimes with lower out‑of‑pocket limits. Traditional Medicare, administered directly by the federal government, typically relies on separate supplemental policies to cover extra services."
+   },
+   {
+    "type": "p",
+    "text": "While cost is a prominent factor in the comparison, experts note that beneficiaries should also weigh network restrictions, prescription drug coverage, and the predictability of expenses over time. The choice ultimately depends on individual health needs and financial circumstances."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the trade‑offs helps U.S. retirees and their families manage health‑care costs, a concern also shared by aging populations in Europe."
+   }
+  ],
+  "key_points": [
+   "Medicare Advantage and Traditional Medicare differ in provider networks, supplemental benefits, and cost structures.",
+   "Cost is a key consideration, but coverage details and out‑of‑pocket limits also influence the decision.",
+   "Retirees should match plan features to their health needs and budget to avoid unexpected expenses."
+  ],
+  "meta_description": "A clear guide to the differences between Medicare Advantage and Traditional Medicare, focusing on cost, coverage and retiree choices.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Medicare",
+   "Retirement",
+   "Health Insurance",
+   "Medicare Advantage",
+   "Traditional Medicare"
+  ],
+  "slug": "medicare-advantage-vs-traditional-medicare-cost-coverage-differences-explained-dd0930",
+  "reading_minutes": 1,
+  "added": "2026-11-08T23:58:33Z"
+ },
+ {
+  "id": "95ba6d255c9768d8",
+  "source_url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+  "source": "The Verge",
+  "source_title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+  "source_summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. […]",
+  "source_tags": [
+   "Column",
+   "Entertainment",
+   "Music",
+   "Music Review"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/a3168552135_10.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-08T22:37:22+00:00",
+  "headline": "Soul Glo Returns With New Album NA I’M GON GRAB ALLAT in January",
+  "body": [
+   {
+    "type": "p",
+    "text": "American hardcore band Soul Glo announced that their next record, titled NA I’M GON GRAB ALLAT, is slated for release in January. The group has already issued two singles from the upcoming album, generating anticipation among fans of the genre."
+   },
+   {
+    "type": "p",
+    "text": "In the meantime, the band’s 2022 release Diaspora Problems remains a point of reference for listeners, with reviewers noting its distinctive blend of aggressive riffs and experimental elements. The album has been highlighted as a standout in the band’s catalog, prompting many to revisit it while awaiting new material."
+   },
+   {
+    "type": "p",
+    "text": "The Verge’s coverage emphasizes that the new record promises to continue Soul Glo’s reputation for pushing the boundaries of hardcore music, though specific details about its sound remain limited until the full release."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The band’s upcoming release highlights ongoing innovation in the hardcore scene, a genre with a dedicated following in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Soul Glo’s next album, NA I’M GON GRAB ALLAT, will drop in January.",
+   "Two singles from the upcoming record have already been released.",
+   "Fans are revisiting the band’s acclaimed 2022 album Diaspora Problems while waiting."
+  ],
+  "meta_description": "Soul Glo announces new album NA I’M GON GRAB ALLAT for January, with two singles already out.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Soul Glo",
+   "hardcore music",
+   "album release",
+   "Diaspora Problems",
+   "music news"
+  ],
+  "slug": "soul-glo-returns-with-new-album-na-im-gon-95ba6d",
+  "reading_minutes": 1,
+  "added": "2026-11-08T23:58:37Z"
+ },
+ {
+  "id": "7b3c7e424c5d55d7",
+  "source_url": "https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html",
+  "source": "The New York Times",
+  "source_title": "What to Know About Nvidia’s Investigation of Its C.E.O.",
+  "source_summary": "Jensen Huang, the chief executive of the A.I. chip company, admitted to a romantic relationship with a woman who U.S. intelligence says was recruited by China’s top spy agency.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Computer Chips",
+   "Computers and the Internet",
+   "Industrial Espionage",
+   "Boards of Directors",
+   "NVIDIA Corporation",
+   "Huang, Jen-Hsun",
+   "Silicon Valley (Calif)",
+   "Espionage and Intelligence Services",
+   "Conflicts of Interest"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08nvidia-what-we-know-gbfm/08nvidia-what-we-know-gbfm-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T22:26:08+00:00",
+  "headline": "Nvidia CEO Jensen Huang Discloses Relationship Tied to Chinese Spy Recruitment",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia chief executive Jensen Huang confirmed he is in a romantic relationship with a woman identified by U.S. intelligence as having been recruited by China’s primary intelligence service. The admission comes amid an internal investigation by Nvidia into potential security risks linked to the relationship."
+   },
+   {
+    "type": "p",
+    "text": "U.S. intelligence officials have flagged the woman’s connections to the Chinese spy agency, prompting concerns about possible access to proprietary AI chip technology. Nvidia has not disclosed the outcome of its inquiry, but the company said it is cooperating fully with relevant authorities."
+   },
+   {
+    "type": "p",
+    "text": "The revelation adds to ongoing scrutiny of technology firms for potential foreign influence, especially as Nvidia’s AI chips are critical to a range of industries worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights security concerns for U.S. and European tech firms handling advanced AI hardware, underscoring the geopolitical stakes of semiconductor supply chains."
+   }
+  ],
+  "key_points": [
+   "Nvidia CEO Jensen Huang admitted a romantic link to a woman tied to China’s top spy agency.",
+   "U.S. intelligence has flagged the woman’s recruitment by Chinese intelligence, prompting a corporate investigation.",
+   "Nvidia is cooperating with authorities amid heightened concerns over foreign access to AI technology."
+  ],
+  "meta_description": "Nvidia CEO Jensen Huang admits relationship with woman linked to Chinese intelligence, sparking a corporate security investigation.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "China espionage",
+   "AI chips",
+   "national security"
+  ],
+  "slug": "nvidia-ceo-jensen-huang-discloses-relationship-tied-chinese-spy-7b3c7e",
+  "reading_minutes": 1,
+  "added": "2026-11-08T23:58:57Z"
+ },
+ {
+  "id": "8cedf3cffeba6a9b",
+  "source_url": "https://www.npr.org/2026/11/08/nx-s1-6034003/trump-staffing-changes-post-midterms-signal-hes-battle-ready",
+  "source": "NPR",
+  "source_title": "Trump staffing changes post-midterms signal he's battle ready",
+  "source_summary": "President Trump is making changes to his inner circle that signal how he may approach divided government.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-11-08T22:04:17+00:00",
+  "headline": "Trump Reorganizes Inner Circle After Midterms, Signals Aggressive Stance",
+  "body": [
+   {
+    "type": "p",
+    "text": "Following the recent midterm elections, President Donald Trump announced a series of personnel adjustments within his senior advisory team. The changes include the departure of several long‑standing aides and the appointment of new figures who are closely aligned with the president's political agenda."
+   },
+   {
+    "type": "p",
+    "text": "Analysts interpret the reshuffle as an effort by Trump to prepare for a potentially divided government, positioning his inner circle to more aggressively pursue his policy goals. The new appointments are expected to focus on strengthening the administration's messaging and legislative strategy in a Congress where the opposition holds significant sway."
+   },
+   {
+    "type": "p",
+    "text": "The staffing overhaul underscores the president's intent to maintain a combative posture in the face of political challenges, signaling that his team will prioritize a hard‑line approach to upcoming legislative battles."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The reorganization could affect how the U.S. government navigates legislative negotiations, influencing both domestic policy and international relations."
+   }
+  ],
+  "key_points": [
+   "Trump replaced several senior advisers with allies after the midterms.",
+   "The staffing changes aim to ready the administration for a divided Congress.",
+   "New appointees are expected to focus on aggressive policy and messaging."
+  ],
+  "meta_description": "Trump reshuffles his inner circle post‑midterms, signaling a combative stance toward a divided Congress.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "staffing changes",
+   "midterm elections",
+   "U.S. politics",
+   "government"
+  ],
+  "slug": "trump-reorganizes-inner-circle-after-midterms-signals-aggressive-stance-8cedf3",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T23:58:55Z"
+ },
+ {
+  "id": "59a0de2a3c878a00",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo",
+  "source": "BBC Sport",
+  "source_title": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
+  "source_summary": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4 draw with Aston Villa done to Michael Carrick's future?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg",
+  "published": "2026-11-08T21:50:05+00:00",
+  "headline": "Manchester United's 4-4 Thriller Leaves Carrick's Future Uncertain",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United and Aston Villa produced a Premier League classic at Old Trafford, finishing in a 4-4 draw that featured a flurry of goals and dramatic moments."
+   },
+   {
+    "type": "p",
+    "text": "The high‑scoring encounter has reignited speculation about the club's managerial direction, with Michael Carrick's position remaining unsettled after the match."
+   },
+   {
+    "type": "p",
+    "text": "While United secured three points, the chaotic nature of the game highlighted both attacking potential and defensive frailties, leaving fans and pundits alike questioning the next steps for the coaching staff."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result impacts the Premier League title race and could influence managerial decisions at one of football's biggest clubs."
+   }
+  ],
+  "key_points": [
+   "United and Villa ended the match level at 4-4 in a goal‑filled spectacle.",
+   "Michael Carrick's future at Manchester United remains unclear.",
+   "The game exposed United's offensive strengths but defensive vulnerabilities."
+  ],
+  "meta_description": "Manchester United's 4-4 draw with Aston Villa sparks debate over Michael Carrick's uncertain future.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Aston Villa",
+   "Premier League",
+   "Michael Carrick",
+   "football"
+  ],
+  "slug": "manchester-united-s-4-4-thriller-leaves-carrick-s-59a0de",
+  "reading_minutes": 1,
+  "added": "2026-11-08T23:58:13Z"
+ },
+ {
   "id": "ecd65815b585666d",
   "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
   "source": "The Verge",
