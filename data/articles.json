@@ -1,5 +1,527 @@
 [
  {
+  "id": "2869f325903fc5b8",
+  "source_url": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
+  "source_summary": "Delhi was ranked as the world's most polluted major city on the eve of Diwali. Delhi's air pollution is expected to get worse in the coming days. DW has more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79889018_6.jpg",
+  "published": "2026-11-08T07:53:00+00:00",
+  "headline": "Delhi Becomes World's Most Polluted Major City on Diwali Eve",
+  "body": [
+   {
+    "type": "p",
+    "text": "On the evening before Diwali, Delhi was ranked as the most polluted major city worldwide, according to DW. The city’s air quality index reached levels not seen in the past decade, marking the worst pollution reading for the festival in ten years."
+   },
+   {
+    "type": "p",
+    "text": "Experts warn that the situation is likely to deteriorate in the coming days as firecracker use and seasonal weather patterns combine to trap pollutants near the ground. Residents have been advised to limit outdoor activities and use protective masks."
+   },
+   {
+    "type": "p",
+    "text": "The spike in pollution highlights ongoing challenges for Indian authorities in managing air quality during cultural celebrations, especially in densely populated urban centers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Severe air pollution in a megacity during a major cultural event underscores global health risks and the need for coordinated environmental policies."
+   }
+  ],
+  "key_points": [
+   "Delhi recorded the highest pollution levels of any major city on the eve of Diwali, a ten‑year high.",
+   "Air quality is expected to worsen in the days following the festival.",
+   "Health officials recommend reduced outdoor exposure and mask use."
+  ],
+  "meta_description": "Delhi tops world rankings for pollution on Diwali eve, with levels hitting a ten‑year high and expected to worsen.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "air pollution",
+   "Delhi",
+   "Diwali",
+   "health",
+   "environment"
+  ],
+  "slug": "delhi-becomes-world-s-most-polluted-major-city-diwali-2869f3",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T08:53:23Z"
+ },
+ {
+  "id": "3b8092eeb96f1481",
+  "source_url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+  "source": "NPR",
+  "source_title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+  "source_summary": "President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4492x3208+0+0/resize/4492x3208!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Ffa%2F3f790b7e481ea32d03d42cae34fe%2Fap26311730542307.jpg",
+  "published": "2026-11-08T07:35:29+00:00",
+  "headline": "Dana White to Meet Trump Monday After Press Secretary Offer",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump announced Saturday that he has extended an offer for the White House press secretary position to UFC CEO Dana White. The proposal marks an unusual crossover between the world of mixed‑martial‑arts promotion and the executive branch of the U.S. government."
+   },
+   {
+    "type": "p",
+    "text": "White confirmed that he will meet with Trump on Monday to discuss the offer. He has not indicated whether he will accept the role, and no details about the terms of the potential appointment have been disclosed."
+   },
+   {
+    "type": "p",
+    "text": "The meeting will be the first public discussion between the two men regarding the job offer, and it follows Trump’s recent pattern of naming high‑profile figures from entertainment and business to senior White House posts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The offer highlights Trump’s unconventional staffing choices, which could affect the administration’s communications strategy and draw attention from both U.S. and European media."
+   }
+  ],
+  "key_points": [
+   "President Trump offered the White House press secretary job to UFC boss Dana White.",
+   "White agreed to meet Trump on Monday to discuss the proposal.",
+   "No decision or terms have been announced regarding White's potential appointment."
+  ],
+  "meta_description": "UFC CEO Dana White will meet President Trump Monday after being offered the White House press secretary position.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "Dana White",
+   "White House",
+   "Press Secretary",
+   "UFC",
+   "Political appointments"
+  ],
+  "slug": "dana-white-meet-trump-monday-after-press-secretary-offer-3b8092",
+  "reading_minutes": 1,
+  "added": "2026-11-08T08:53:27Z"
+ },
+ {
+  "id": "2a2d18a832ec5ac5",
+  "source_url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
+  "source": "The Guardian",
+  "source_title": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
+  "source_summary": "President claimed to have ushered in a ‘golden age’ even as prices soared and war dragged on – and midterm voters did not buy his looking-glass narrative A new “golden age of America” is under way, Donald Trump repeatedly declared in his final pitch to voters before the US midterm elections. The war in Iran was not really a war, because “we’ve done very little fighting”, the US president stressed. The stock market had hit 88 all-time highs. “They’re saying,” he said, that on his watch the US has become “the hottest country anywhere in the world”.",
+  "source_tags": [
+   "Donald Trump",
+   "US news",
+   "US politics",
+   "World news",
+   "Trump administration",
+   "US midterm elections 2026",
+   "Democrats"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/3f42fde37adc0b023a4e7df3928fa9d10138204b/499_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=110b094d98162d3e7091963cd0033bce",
+  "published": "2026-11-08T07:00:34+00:00",
+  "headline": "Midterm Voters Reject Trump’s “Golden Age” Mirror‑World Narrative",
+  "body": [
+   {
+    "type": "p",
+    "text": "In his final appeal before the 2026 U.S. midterm elections, President Donald Trump proclaimed a new “golden age” for America, boasting of an 88‑point stock‑market rally, record heat, and a war in Iran that he described as “very little fighting.” The president’s optimistic portrait stood in stark contrast to rising prices and ongoing conflict abroad."
+   },
+   {
+    "type": "p",
+    "text": "Election analysts reported that American voters overwhelmingly dismissed the president’s alternate‑reality framing, turning away from his claims at the ballot box. The midterm results reflected a broad rejection of the “mirror world” narrative that Trump presented to the electorate."
+   },
+   {
+    "type": "p",
+    "text": "The outcome underscores a growing disconnect between the administration’s self‑portrayal and public perception, signaling challenges for Trump’s agenda as Congress prepares for a new legislative session."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The midterm verdict signals to U.S. and European leaders that domestic support for Trump’s rhetoric is waning, potentially affecting transatlantic policy coordination."
+   }
+  ],
+  "key_points": [
+   "Trump’s “golden age” claims were met with widespread voter rejection in the 2026 midterms.",
+   "Analysts say the results highlight a gap between the president’s narrative and public sentiment.",
+   "The vote may limit Trump’s ability to advance his policy agenda in the upcoming Congress."
+  ],
+  "meta_description": "Voters reject President Trump's 'golden age' claims in the 2026 midterms, highlighting a gap between his narrative and public sentiment.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "midterm elections",
+   "US politics",
+   "public opinion",
+   "economic claims"
+  ],
+  "slug": "midterm-voters-reject-trumps-golden-age-mirrorworld-narrative-2a2d18",
+  "reading_minutes": 1,
+  "added": "2026-11-08T08:53:31Z"
+ },
+ {
+  "id": "f7c9615409fb2cf4",
+  "source_url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+  "source": "The Guardian",
+  "source_title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+  "source_summary": "Farmers face big drop in production from extreme weather during this year’s super El Niño event Banana producers in Latin America are calling for better pay to help cope with the impact of the climate crisis, as they face big drops in production resulting from extreme weather during this year’s super El Niño event. High winds in parts of Colombia, one of the biggest suppliers to the UK market where droughts are predicted in some regions this year, and heavy rainfall in Peru and Ecuador are already affecting production, according to the Fairtrade Foundation ethical trade body. In the Dominican Republic, farmers are expected to face drought conditions, with forecasts of drier and warmer than usual conditions.",
+  "source_tags": [
+   "Food & drink industry",
+   "Fruit",
+   "Business",
+   "Food",
+   "Climate crisis",
+   "World news",
+   "Colombia",
+   "Peru",
+   "El Niño southern oscillation",
+   "Ecuador"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/9998f654354c4d901763da7a8e3a1176665da648/11_5_1775_1421/master/1775.jpg?width=700&quality=85&auto=format&fit=max&s=6deb07ce42dd93b0be1263324b040140",
+  "published": "2026-11-08T07:00:34+00:00",
+  "headline": "Latin American Banana Growers Seek Higher Wages Amid Super El Niño",
+  "body": [
+   {
+    "type": "p",
+    "text": "Banana producers across Colombia, Peru, Ecuador and the Dominican Republic are urging higher pay to offset the damage caused by this year’s super El Niño. The Fairtrade Foundation reports that strong winds in Colombia and heavy rains in Peru and Ecuador have already cut output, while drought is forecast for the Dominican Republic."
+   },
+   {
+    "type": "p",
+    "text": "The climate‑driven losses threaten the region’s ability to supply key markets, especially the United Kingdom, which relies heavily on Colombian bananas. Growers say better wages are essential to retain workers and invest in resilient farming practices as extreme weather becomes more frequent."
+   },
+   {
+    "type": "p",
+    "text": "Fairtrade officials note that without improved remuneration, smallholder farms may struggle to survive, potentially reshaping global banana supply chains and raising prices for consumers in Europe and North America."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Europe and North America import most of their bananas from Latin America, so climate shocks in the region can quickly translate into higher retail prices and supply shortages."
+   }
+  ],
+  "key_points": [
+   "Super El Niño weather has sharply reduced banana yields in major Latin American producing regions.",
+   "Farmers are demanding higher wages to cope with climate‑related losses and maintain production.",
+   "Reduced output could affect banana availability and prices in European markets, especially the UK."
+  ],
+  "meta_description": "Latin American banana growers call for higher wages as super El Niño slashes yields, threatening supply to Europe and North America.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "banana",
+   "Latin America",
+   "climate change",
+   "fair trade",
+   "El Niño",
+   "agriculture"
+  ],
+  "slug": "latin-american-banana-growers-seek-higher-wages-amid-super-f7c961",
+  "reading_minutes": 1,
+  "added": "2026-11-08T08:53:35Z"
+ },
+ {
+  "id": "2a0c6674e9218576",
+  "source_url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+  "source_summary": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?",
+  "source_tags": [
+   "Environment"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79659283_6.jpg",
+  "published": "2026-11-08T05:55:00+00:00",
+  "headline": "COP31 Opens in Antalya Amid Rising Drought, Flood and Heat Pressures",
+  "body": [
+   {
+    "type": "p",
+    "text": "Delegates gathered in Antalya, Turkey, to launch the 31st UN climate conference (COP31) as the world confronts worsening droughts, floods and extreme heat. The weather extremes are intensifying the urgency for concrete climate action, according to observers at the summit."
+   },
+   {
+    "type": "p",
+    "text": "Organisers highlighted that the cumulative impact of these events is placing unprecedented pressure on negotiators to move beyond high‑level pledges. Climate experts warned that without tangible measures, the gap between promised emissions cuts and actual outcomes will widen."
+   },
+   {
+    "type": "p",
+    "text": "The conference aims to translate political commitments into actionable policies, with a focus on resilience and adaptation strategies that can address the immediate threats posed by water scarcity, severe flooding and record‑breaking temperatures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Extreme weather events are already affecting agriculture, infrastructure and public health across the United States and Europe, making the outcomes of COP31 directly relevant to these regions."
+   }
+  ],
+  "key_points": [
+   "COP31 convenes in Antalya as droughts, floods and heat intensify global climate risks.",
+   "Delegates face heightened pressure to convert pledges into concrete mitigation and adaptation actions.",
+   "The summit seeks to bridge the gap between political promises and on‑the‑ground climate solutions."
+  ],
+  "meta_description": "COP31 begins in Antalya as droughts, floods and heat heighten pressure on leaders to deliver real climate action.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "climate",
+   "COP31",
+   "Antalya",
+   "drought",
+   "floods",
+   "heat"
+  ],
+  "slug": "cop31-opens-antalya-amid-rising-drought-flood-heat-pressures-2a0c66",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T08:53:39Z"
+ },
+ {
+  "id": "38a9888aa351ab8e",
+  "source_url": "https://www.nytimes.com/2026/11/08/world/africa/south-africa-election-african-national-congress.html",
+  "source": "The New York Times",
+  "source_title": "South Africa’s Politics May Never Be the Same Again",
+  "source_summary": "The African National Congress lost big in local elections, turning a once-dominant force credited with overturning apartheid into “any other political party.”",
+  "source_tags": [
+   "Politics and Government",
+   "African National Congress",
+   "Democratic Alliance (South Africa)",
+   "South Africa",
+   "Johannesburg (South Africa)",
+   "Legislatures and Parliaments",
+   "Elections"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-safrica-election-analysis-chqf/08int-safrica-election-analysis-chqf-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T05:01:23+00:00",
+  "headline": "South Africa’s ANC Suffers Historic Local Election Defeat",
+  "body": [
+   {
+    "type": "p",
+    "text": "The African National Congress (ANC) suffered a major loss in South Africa’s recent local elections, according to the New York Times. Once hailed for ending apartheid and dominating national politics, the party’s vote share fell sharply, relegating it to the status of a typical opposition party."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the election results mark a turning point for the ANC, which had long been the country’s governing force. The decline reflects growing public dissatisfaction and the rise of competing parties at municipal levels."
+   },
+   {
+    "type": "p",
+    "text": "The outcome signals a new era in South African politics, where the ANC will need to rebuild support and adapt to a more competitive political environment."
+   }
+  ],
+  "key_points": [
+   "The ANC lost heavily in the latest local elections, losing its dominant position.",
+   "The party is now described as comparable to any other political party in South Africa."
+  ],
+  "meta_description": "South Africa’s ANC faces a historic defeat in local elections, ending its long‑standing dominance.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "South Africa",
+   "ANC",
+   "local elections",
+   "political shift",
+   "African National Congress"
+  ],
+  "slug": "south-africas-anc-suffers-historic-local-election-defeat-38a988",
+  "reading_minutes": 1,
+  "added": "2026-11-08T08:53:43Z"
+ },
+ {
+  "id": "8607fab03255e4c7",
+  "source_url": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+  "source": "The New York Times",
+  "source_title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+  "source_summary": "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns. But environmental activists call it a “green wash.”",
+  "source_tags": [
+   "Diwali (Hindu Festival)",
+   "Air Pollution",
+   "Fireworks",
+   "Religion-State Relations",
+   "New Delhi (India)",
+   "Supreme Court of India",
+   "Environment",
+   "Festivals"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-diwali-pollution-01-qwjm/08int-diwali-pollution-01-qwjm-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T05:01:18+00:00",
+  "headline": "India's Supreme Court Orders Greener Fireworks for Diwali Amid Pollution Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "India's Supreme Court has mandated that only environmentally friendlier fireworks be used during this weekend's Diwali celebrations, citing the city's severe air‑quality problems. The ruling aims to reduce the surge of particulate matter that typically follows the festival."
+   },
+   {
+    "type": "p",
+    "text": "Environmental groups, however, have criticized the decision as superficial, labeling it a \"green wash\" that does not address the underlying sources of Delhi's chronic pollution. Activists argue that the limited restrictions will have little impact on overall air quality."
+   },
+   {
+    "type": "p",
+    "text": "The court's order reflects growing pressure on Indian authorities to balance cultural traditions with public‑health imperatives, as Delhi continues to grapple with some of the world's worst smog levels."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Severe air pollution in major cities like Delhi can affect global climate patterns and public health, underscoring the relevance of pollution‑reduction policies for international audiences."
+   }
+  ],
+  "key_points": [
+   "India's top court restricts Diwali fireworks to greener options to curb air pollution.",
+   "Environmental activists claim the measure is insufficient and merely symbolic.",
+   "The decision highlights tension between cultural practices and health concerns in Delhi."
+  ],
+  "meta_description": "India's Supreme Court limits Diwali fireworks to greener types amid Delhi's air‑quality crisis, sparking activist criticism.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Delhi",
+   "air pollution",
+   "Diwali",
+   "environmental policy",
+   "India",
+   "court ruling"
+  ],
+  "slug": "india-s-supreme-court-orders-greener-fireworks-diwali-amid-8607fa",
+  "reading_minutes": 1,
+  "added": "2026-11-08T08:53:47Z"
+ },
+ {
+  "id": "4c91c1c8cbcad657",
+  "source_url": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+  "source": "The New York Times",
+  "source_title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
+  "source_summary": "Food was at the heart of Henry Onesemo’s South Pacific island upbringing. Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand.",
+  "source_tags": [
+   "Restaurants",
+   "Cooking and Cookbooks",
+   "Food",
+   "Michelin Guide",
+   "New Zealand",
+   "Samoa"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00int-nz-samoan-chef-01-ghmt/00int-nz-samoan-chef-01-ghmt-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T05:01:15+00:00",
+  "headline": "Samoan Chef Henry Onesemo Introduces Island Flavors at NZ Michelin-Starred Venue",
+  "body": [
+   {
+    "type": "p",
+    "text": "Henry Onesemo, raised on the culinary traditions of the South Pacific, has opened a Michelin‑starred restaurant in New Zealand that showcases Samoan ingredients and techniques."
+   },
+   {
+    "type": "p",
+    "text": "Drawing on his island upbringing, Onesemo blends traditional dishes such as taro, coconut, and fresh seafood with contemporary fine‑dining presentation, earning acclaim from critics and diners alike."
+   },
+   {
+    "type": "p",
+    "text": "The restaurant’s menu highlights the cultural heritage of Samoa while meeting the exacting standards of New Zealand’s elite dining scene, positioning the chef as a bridge between Pacific flavors and global gastronomy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rise of Pacific Island flavors in high‑end restaurants reflects growing global interest in diverse culinary traditions, offering new opportunities for cultural exchange and tourism."
+   }
+  ],
+  "key_points": [
+   "Chef Henry Onesemo brings Samoan culinary heritage to a Michelin‑starred New Zealand restaurant.",
+   "The menu fuses traditional island ingredients with modern fine‑dining techniques.",
+   "Onesemo’s venture highlights Pacific cuisine on the international gourmet stage."
+  ],
+  "meta_description": "Samoan chef Henry Onesemo showcases island flavors at his Michelin‑starred New Zealand restaurant, blending tradition with fine dining.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Samoan cuisine",
+   "Michelin star",
+   "New Zealand dining",
+   "Chef Henry Onesemo",
+   "Pacific food",
+   "fine dining"
+  ],
+  "slug": "samoan-chef-henry-onesemo-introduces-island-flavors-nz-michelin-4c91c1",
+  "reading_minutes": 1,
+  "added": "2026-11-08T08:53:51Z"
+ },
+ {
+  "id": "d3bebbaf6fce2880",
+  "source_url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo",
+  "source": "BBC News",
+  "source_title": "Houthis say at least 33 killed in Saudi air strike",
+  "source_summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+  "published": "2026-11-08T04:03:12+00:00",
+  "headline": "Houthis Claim Saudi Air Strike Kills at Least 33 People in Yemen",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Houthi movement said a Saudi-led coalition air strike in Yemen resulted in at least 33 deaths. The claim was made in a statement released on Thursday, but the coalition has not responded to the allegation."
+   },
+   {
+    "type": "p",
+    "text": "Details about the location of the strike or the identities of those killed were not provided. The Houthis did not specify whether the victims were civilians or combatants, and no independent verification has been offered."
+   },
+   {
+    "type": "p",
+    "text": "Saudi Arabia, which heads the multinational coalition fighting the Houthis, has declined to comment on the incident. The report adds to a series of recent accusations of high civilian casualties in the protracted Yemen conflict."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The alleged high death toll highlights ongoing humanitarian concerns in Yemen, a conflict in which the United States and European nations have strategic interests."
+   }
+  ],
+  "key_points": [
+   "Houthis allege a Saudi-led air strike killed at least 33 people in Yemen.",
+   "The Saudi coalition has not issued a response to the claim.",
+   "No independent confirmation of the casualty figures has been reported."
+  ],
+  "meta_description": "Houthis say a Saudi-led air strike in Yemen killed at least 33 people, with no comment from the coalition.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Yemen",
+   "Saudi Arabia",
+   "Houthis",
+   "air strike",
+   "casualties"
+  ],
+  "slug": "houthis-claim-saudi-air-strike-kills-least-33-people-d3bebb",
+  "reading_minutes": 1,
+  "added": "2026-11-08T08:53:55Z"
+ },
+ {
   "id": "4e69f89a3a15c3c5",
   "source_url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
   "source": "BBC News",
@@ -1205,6 +1727,68 @@
   "added": "2026-11-07T22:15:28Z"
  },
  {
+  "id": "6b7e23271e0e9778",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/07/trump-east-potomac-golf-course-lawsuit",
+  "source": "The Guardian",
+  "source_title": "Judge to appoint special master to determine whether Trump lawyers purposely misled her over golf course",
+  "source_summary": "Ana Reyes wants to know whether federal officials lied about extent of renovation plans at East Potomac golf course A federal judge said on Saturday that she intended to appoint an ex-top federal prosecutor who served during Donald Trump’s first term to investigate whether she was purposely misled by lawyers and administration officials over changes to a historic public golf course in Washington DC. Jessie Liu, a former US attorney for the District of Columbia, would examine whether officials with the interior department and the National Park Service and attorneys with the Department of Justice violated ethics or misled US district judge Ana Reyes during the course of the civil case that was initiated with a lawsuit in February by the DC Preservation League and two golfers.",
+  "source_tags": [
+   "Washington DC",
+   "Trump administration",
+   "Golf",
+   "US justice system",
+   "US news",
+   "Law (US)",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/a124903d656409a71dbf4a736c146fec2683863c/505_0_4077_3261/master/4077.jpg?width=700&quality=85&auto=format&fit=max&s=dd5196470854152af00004c298430f6b",
+  "published": "2026-11-07T19:47:10+00:00",
+  "headline": "Judge to Appoint Special Master to Probe Trump Lawyers' Golf Course Claims",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. District Judge Ana Reyes announced she will name former Washington, D.C., U.S. attorney Jessie Liu as a special master. Liu, who served as a top federal prosecutor during Donald Trump’s first term, will investigate whether interior‑department officials, National Park Service staff and Department of Justice attorneys misled the court about renovation plans for the historic East Potomac Golf Course."
+   },
+   {
+    "type": "p",
+    "text": "The inquiry follows a civil lawsuit filed in February by the D.C. Preservation League and two local golfers, alleging that the federal government failed to disclose the full scope of changes to the public course. Reyes’ order seeks to determine if any ethical violations or intentional deception occurred during the case’s proceedings."
+   },
+   {
+    "type": "p",
+    "text": "If Liu finds evidence of misconduct, the special master could recommend further action against the officials involved, potentially impacting how federal agencies handle historic preservation projects."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights oversight of federal actions affecting historic public spaces, a concern for both U.S. and European audiences interested in government transparency and heritage preservation."
+   }
+  ],
+  "key_points": [
+   "Judge Ana Reyes will appoint former U.S. attorney Jessie Liu as a special master to examine possible deception by federal officials.",
+   "The review focuses on alleged misrepresentations about renovation plans for Washington’s East Potomac Golf Course.",
+   "Findings could lead to accountability measures for interior department, National Park Service, and DOJ attorneys."
+  ],
+  "meta_description": "Judge appoints former federal prosecutor as special master to investigate alleged misleadings about renovations at DC's historic East Potomac Golf Course.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "judge",
+   "special master",
+   "Trump",
+   "golf course",
+   "DC preservation",
+   "interior department"
+  ],
+  "slug": "judge-appoint-special-master-probe-trump-lawyers-golf-course-6b7e23",
+  "reading_minutes": 1,
+  "added": "2026-11-08T08:53:59Z"
+ },
+ {
   "id": "6653c5fed6fb0bfb",
   "source_url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
   "source": "TechCrunch",
@@ -1939,6 +2523,122 @@
   "slug": "uv-tracking-device-shows-hidden-sun-risks-outdoor-party-9a3500",
   "reading_minutes": 1,
   "added": "2026-11-07T18:15:53Z"
+ },
+ {
+  "id": "131c7319af2c42f1",
+  "source_url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+  "source": "The Verge",
+  "source_title": "Costco members can get $5 off the reimagined Ocarina of Time",
+  "source_summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets […]",
+  "source_tags": [
+   "Deals",
+   "Gadgets",
+   "Gaming",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-07T16:00:00+00:00",
+  "headline": "Costco Members Save $5 on Digital Ocarina of Time Remaster",
+  "body": [
+   {
+    "type": "p",
+    "text": "Costco is offering its members a $5 discount on the digital version of the reimagined Legend of Zelda: The Ocarina of Time. The reduced price of $54.99 is available through Costco’s online store, allowing shoppers to purchase the game at a lower cost than the standard retail price."
+   },
+   {
+    "type": "p",
+    "text": "The discount comes at a time when other retailers have already run preorder promotions for the remastered title. Costco’s offer remains open, giving customers who missed earlier deals a chance to save. The $5 reduction nearly offsets the $65 annual fee for a Costco membership, making the purchase more attractive for frequent shoppers."
+   },
+   {
+    "type": "p",
+    "text": "Gamers looking to add the classic adventure to their digital libraries can take advantage of the deal immediately. The promotion applies only to the digital edition, and the discount is automatically applied at checkout for eligible members."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The price cut makes a high‑profile Nintendo release more affordable for Costco shoppers, highlighting how membership perks can influence gaming purchases in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Costco members can buy the digital Ocarina of Time remaster for $54.99, $5 off the regular price.",
+   "The discount helps offset the $65 annual Costco membership fee.",
+   "The offer is still available online, unlike earlier preorder promotions from other retailers."
+  ],
+  "meta_description": "Costco members can save $5 on the digital Legend of Zelda: Ocarina of Time remaster, lowering the price to $54.99.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Costco",
+   "Ocarina of Time",
+   "Nintendo",
+   "gaming discount",
+   "digital games"
+  ],
+  "slug": "costco-members-save-5-digital-ocarina-time-remaster-131c73",
+  "reading_minutes": 1,
+  "added": "2026-11-08T08:54:04Z"
+ },
+ {
+  "id": "8eea48456f05ba11",
+  "source_url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+  "source": "The Verge",
+  "source_title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+  "source_summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions […]",
+  "source_tags": [
+   "Interview",
+   "Report",
+   "Tech",
+   "Web"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/2023-12-7-Discogs-Kevin-1-Warm.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-07T16:00:00+00:00",
+  "headline": "Discogs Founder Celebrates 25 Years of Vinyl Marketplace and Database",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kevin Lewandowski launched Discogs twenty-five years ago, turning it into the premier online hub for vinyl collectors and music enthusiasts. The site began as a simple marketplace for buying and selling records, but it quickly expanded into a detailed catalog that documents albums, singles, and countless variations of each release."
+   },
+   {
+    "type": "p",
+    "text": "Today, Discogs serves both casual listeners and obsessive collectors, offering a searchable database that rivals traditional music reference works. Its community‑driven model allows users to contribute information, ensuring the catalog stays current and comprehensive."
+   },
+   {
+    "type": "p",
+    "text": "The platform’s growth reflects the resurgence of physical music formats, as more listeners seek tangible media and detailed metadata. Discogs remains a key resource for anyone looking to verify pressing details, track ownership history, or discover rare recordings."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Discogs’ extensive catalog helps collectors and retailers in the US and Europe verify record details, supporting the growing market for physical music media."
+   }
+  ],
+  "key_points": [
+   "Discogs was founded by Kevin Lewandowski 25 years ago as a record‑selling marketplace.",
+   "It has evolved into a vast, user‑generated database covering all vinyl releases and versions.",
+   "The site supports the renewed interest in physical music formats worldwide."
+  ],
+  "meta_description": "Discogs marks 25 years as a leading vinyl marketplace and comprehensive music database, founded by Kevin Lewandowski.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Discogs",
+   "vinyl",
+   "music database",
+   "record collecting",
+   "online marketplace"
+  ],
+  "slug": "discogs-founder-celebrates-25-years-vinyl-marketplace-database-8eea48",
+  "reading_minutes": 1,
+  "added": "2026-11-08T08:54:07Z"
  },
  {
   "id": "74708407250ce94e",
