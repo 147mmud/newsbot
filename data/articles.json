@@ -1,5 +1,682 @@
 [
  {
+  "id": "ecd65815b585666d",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+  "source": "The Verge",
+  "source_title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+  "source_summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light […]",
+  "source_tags": [
+   "AI",
+   "News"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-08T20:22:39+00:00",
+  "headline": "Nvidia Launches Probe Into CEO Jensen Huang’s Ties to Chinese Spy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia's board of directors announced on Tuesday that it is commissioning an independent investigation into chief executive Jensen Huang and his relationship with Alice Huang, an executive at the Chinese firm Megaspeed. The board’s statement said the inquiry will examine whether any improper connections exist that could affect the company’s operations."
+   },
+   {
+    "type": "p",
+    "text": "According to the announcement, Alice Huang was reportedly recruited by China’s Ministry of State Security to gather intelligence on Nvidia. The investigation will focus on the nature of her interactions with Jensen Huang and any potential impact on Nvidia’s business practices."
+   },
+   {
+    "type": "p",
+    "text": "The company did not provide further details about the scope or timeline of the probe, and no conclusions have been drawn at this stage. Nvidia said it will cooperate fully with the investigation to ensure transparency and maintain stakeholder confidence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The inquiry highlights ongoing concerns in the US and Europe about Chinese espionage targeting high‑tech firms and could influence future security and investment policies."
+   }
+  ],
+  "key_points": [
+   "Nvidia’s board has ordered an independent investigation into CEO Jensen Huang’s ties to Megaspeed executive Alice Huang.",
+   "Alice Huang is alleged to have been recruited by China’s Ministry of State Security to spy on Nvidia.",
+   "The probe will assess whether any improper relationship could affect Nvidia’s operations."
+  ],
+  "meta_description": "Nvidia's board launches an independent probe into CEO Jensen Huang's relationship with a Megaspeed exec alleged to be a Chinese spy.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "espionage",
+   "China",
+   "investigation",
+   "Megaspeed"
+  ],
+  "slug": "nvidia-launches-probe-into-ceo-jensen-huangs-ties-chinese-ecd658",
+  "reading_minutes": 1,
+  "added": "2026-11-08T20:23:59Z"
+ },
+ {
+  "id": "5bc8b4d5f9a570a3",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo",
+  "source": "BBC Sport",
+  "source_title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+  "source_summary": "Manchester United twice come back from two goals down to earn a point against Aston Villa in an eight-goal thriller at Old Trafford, although they will go into the international break in the Premier League relegation zone.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f78/live/514a5d20-dba9-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-08T20:01:16+00:00",
+  "headline": "Man United Rally With Two Stoppage‑Time Goals to Draw 4‑4 at Villa",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United erased a two‑goal deficit in the final minutes to share points with Aston Villa in an eight‑goal thriller at Old Trafford. Villa led 2‑0 before United struck twice in regular time, and then added two more in stoppage time to level the score at 4‑4."
+   },
+   {
+    "type": "p",
+    "text": "The dramatic finish gave United a single point, but the result leaves them entrenched in the Premier League relegation zone as the league heads into the international break. Both sides exchanged blows throughout the match, with each team scoring twice before the late drama unfolded."
+   },
+   {
+    "type": "p",
+    "text": "United’s late resurgence highlights the volatility of their season, while Villa’s inability to hold onto a two‑goal lead underscores the competitive nature of the league’s lower‑half battles."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result keeps United in a relegation fight, affecting the Premier League’s title and European‑qualification race that draws global interest."
+   }
+  ],
+  "key_points": [
+   "Manchester United came back from 2‑0 down to draw 4‑4 with Aston Villa.",
+   "The point leaves United in the Premier League relegation zone ahead of the international break."
+  ],
+  "meta_description": "Manchester United rallied with two stoppage‑time goals to draw 4‑4 with Aston Villa, leaving United in the relegation zone before the international break.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Aston Villa",
+   "Premier League",
+   "comeback",
+   "relegation battle"
+  ],
+  "slug": "man-united-rally-with-two-stoppagetime-goals-draw-44-5bc8b4",
+  "reading_minutes": 1,
+  "added": "2026-11-08T20:24:04Z"
+ },
+ {
+  "id": "853d887e0219fd98",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po",
+  "source": "BBC Sport",
+  "source_title": "Brighton breeze past 10-man Brentford to move up to second",
+  "source_summary": "Diego Gomez's long-range strike fires Brighton to a 2-0 over Brentford, who saw Igor Thiago be shown a straight red card, as Fabian Hurzeler's side move up to second in the Premier League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8967/live/b01c8b60-dbaa-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-08T20:00:21+00:00",
+  "headline": "Brighton Beat Brentford 2-0, Move to Second in Premier League",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brighton secured a 2-0 victory over Brentford at the Amex Stadium, with a long-range strike from Diego Gomez opening the scoring. The goal gave the Seagulls early control of the match and set the tone for the rest of the game."
+   },
+   {
+    "type": "p",
+    "text": "Brentford's hopes were further dented when midfielder Igor Thiago received a straight red card after a reckless challenge, leaving the visitors with ten men for the remainder of the contest. Despite the numerical disadvantage, Brentford were unable to find a response."
+   },
+   {
+    "type": "p",
+    "text": "Fabian Hurzeler's side capitalised on the advantage, adding a second goal to seal the win. The result lifted Brighton to second place in the Premier League table, narrowing the gap to the league leaders."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Brighton's climb to second place intensifies the title race in England's top flight, a league that attracts significant viewership and commercial interest across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Diego Gomez scored a long-range goal as Brighton beat Brentford 2-0.",
+   "Brentford were reduced to ten men after Igor Thiago was sent off.",
+   "The win moved Brighton up to second in the Premier League standings."
+  ],
+  "meta_description": "Brighton beat Brentford 2-0 with a Gomez strike, sending Brentford down to ten men and moving Brighton up to second in the Premier League.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Premier League",
+   "Brighton",
+   "Brentford",
+   "football",
+   "red card",
+   "league standings"
+  ],
+  "slug": "brighton-beat-brentford-2-0-move-second-premier-league-853d88",
+  "reading_minutes": 1,
+  "added": "2026-11-08T20:24:19Z"
+ },
+ {
+  "id": "037a7c176af9dd69",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo",
+  "source": "BBC Sport",
+  "source_title": "Bournemouth continue winning streak with Ipswich win",
+  "source_summary": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f40/live/739a24b0-dba3-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-08T19:59:53+00:00",
+  "headline": "Bournemouth Extend Winning Streak with Evanilson's Fifth Straight Goal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bournemouth continued their impressive run in the Premier League by securing a controlled victory over Ipswich Town. The win was highlighted by striker Evanilson, who found the net for the fifth consecutive league match, underscoring his striking form."
+   },
+   {
+    "type": "p",
+    "text": "The match saw Bournemouth dominate possession and create several clear chances, ultimately translating their control into a decisive goal. Ipswich struggled to respond, allowing the visitors to maintain their momentum throughout the game."
+   },
+   {
+    "type": "p",
+    "text": "The result extends Bournemouth's winning streak, reinforcing their recent surge in form and positioning them as a team to watch as the season progresses."
+   }
+  ],
+  "key_points": [
+   "Evanilson scored his fifth straight Premier League goal as Bournemouth beat Ipswich.",
+   "The victory continued Bournemouth's winning streak in the league.",
+   "Bournemouth displayed dominant control throughout the match."
+  ],
+  "meta_description": "Bournemouth kept their winning streak alive with a controlled win over Ipswich, highlighted by Evanilson's fifth consecutive league goal.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bournemouth",
+   "Ipswich",
+   "Premier League",
+   "Evanilson",
+   "winning streak"
+  ],
+  "slug": "bournemouth-extend-winning-streak-with-evanilson-s-fifth-straight-037a7c",
+  "reading_minutes": 1,
+  "added": "2026-11-08T20:24:35Z"
+ },
+ {
+  "id": "fcafcaba90ec12f1",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
+  "source": "BBC News",
+  "source_title": "Seven dead and more than 100 injured after trains collide in Egypt",
+  "source_summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-08T19:58:02+00:00",
+  "headline": "Seven Dead and Over 100 Injured After Two Trains Collide Near Giza",
+  "body": [
+   {
+    "type": "p",
+    "text": "A collision between two trains traveling in the same direction caused several carriages to derail outside Giza, Egypt, resulting in at least seven fatalities and more than 100 injuries, according to local reports."
+   },
+   {
+    "type": "p",
+    "text": "Emergency services rushed to the scene to treat the injured and recover victims, while authorities began an investigation into the cause of the crash. The incident occurred on a busy railway line that serves commuters traveling to and from the capital, Cairo."
+   },
+   {
+    "type": "p",
+    "text": "The disaster has prompted calls for improved safety measures on Egypt's rail network, which has experienced a series of accidents in recent years. Officials have not yet released details on the specific factors that led to the trains' collision."
+   }
+  ],
+  "key_points": [
+   "Seven people were killed and over 100 injured after two trains collided near Giza.",
+   "The crash caused multiple carriages to derail on a major commuter route.",
+   "Authorities are investigating the cause and emphasizing rail safety concerns."
+  ],
+  "meta_description": "Seven dead and more than 100 injured after two trains collided and derailed near Giza, Egypt, prompting safety concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Egypt",
+   "train crash",
+   "Giza",
+   "railway safety",
+   "casualties"
+  ],
+  "slug": "seven-dead-over-100-injured-after-two-trains-collide-fcafca",
+  "reading_minutes": 1,
+  "added": "2026-11-08T20:24:07Z"
+ },
+ {
+  "id": "43fec1df2c7cc940",
+  "source_url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+  "source": "TechCrunch",
+  "source_title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+  "source_summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+  "source_tags": [
+   "Venture",
+   "roelof botha",
+   "Sequoia Capital"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+  "published": "2026-11-08T19:51:30+00:00",
+  "headline": "Sequoia Partners Said to Be Surprised by Botha's SpaceX Board Appointment",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent report indicates that partners at venture capital firm Sequoia Capital were taken aback when longtime investor Roelof Botha was appointed to SpaceX's board of directors. The article suggests the move was unexpected within Sequoia, where Botha has been a prominent figure."
+   },
+   {
+    "type": "p",
+    "text": "The same report argues that recent shifts in Sequoia's leadership and strategy are reversing the legacy established by the firm's former steward, though specific details of those changes were not disclosed."
+   },
+   {
+    "type": "p",
+    "text": "Botha's addition to SpaceX's board comes amid ongoing discussions about the influence of major venture firms on high‑profile technology companies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The development highlights the evolving relationship between leading venture capital firms and major aerospace innovators, which could affect future investment dynamics in the tech sector."
+   }
+  ],
+  "key_points": [
+   "Sequoia partners reportedly felt blindsided by Roelof Botha's appointment to SpaceX's board.",
+   "The report claims recent Sequoia changes are undoing the legacy of its former steward."
+  ],
+  "meta_description": "Sequoia partners were reportedly surprised by Roelof Botha joining SpaceX's board, amid claims the firm is shifting away from its former steward's legacy.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Sequoia Capital",
+   "Roelof Botha",
+   "SpaceX",
+   "Venture Capital",
+   "Board Appointment"
+  ],
+  "slug": "sequoia-partners-said-be-surprised-botha-s-spacex-board-43fec1",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T20:24:27Z"
+ },
+ {
+  "id": "ca1ad9d7bcfd285a",
+  "source_url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+  "source": "The New York Times",
+  "source_title": "Trains Collide Near Cairo, Killing 4",
+  "source_summary": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network.",
+  "source_tags": [
+   "Railroad Accidents and Safety",
+   "Deaths (Fatalities)",
+   "Railroads",
+   "Infrastructure (Public Works)",
+   "al Ayyat (Egypt)",
+   "Cairo (Egypt)",
+   "Egypt"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-egypt-traincrash-qztf/08int-egypt-traincrash-qztf-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T19:50:07+00:00",
+  "headline": "Four Killed as Two Passenger Trains Collide Near Cairo",
+  "body": [
+   {
+    "type": "p",
+    "text": "Two passenger trains crashed near Cairo, resulting in four fatalities, according to local reports. The collision involved trains traveling on the same line, though the exact cause has not been disclosed."
+   },
+   {
+    "type": "p",
+    "text": "The accident adds to a pattern of deadly rail incidents in Egypt, a country that has invested billions of dollars in modernizing its railway network in recent years. Despite these upgrades, safety concerns continue to surface."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have opened an investigation into the crash and are working to identify any operational failures or infrastructure issues that may have contributed to the tragedy. Officials have not yet released details on injuries beyond the confirmed deaths."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores ongoing safety challenges in Egypt's rail system, a concern for travelers and investors monitoring infrastructure improvements."
+   }
+  ],
+  "key_points": [
+   "A train collision near Cairo killed four people.",
+   "The crash follows a series of fatal rail accidents in Egypt despite significant modernization spending."
+  ],
+  "meta_description": "Four people died when two passenger trains collided near Cairo, highlighting persistent safety issues despite billions spent on rail upgrades.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Egypt",
+   "rail accident",
+   "Cairo",
+   "transport safety",
+   "infrastructure"
+  ],
+  "slug": "four-killed-two-passenger-trains-collide-near-cairo-ca1ad9",
+  "reading_minutes": 1,
+  "added": "2026-11-08T20:24:23Z"
+ },
+ {
+  "id": "9f8b24f8399a3fdf",
+  "source_url": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Germany news: Merz to nominate Aigner for president",
+  "source_summary": "German Chancellor Friedrich Merz announced that he will nominate Ilse Aigner for president, paving the way for her to be the first woman to hold the office. DW has more.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79883761_6.jpg",
+  "published": "2026-11-08T19:43:00+00:00",
+  "headline": "German Chancellor Merz to Nominate Ilse Aigner as President",
+  "body": [
+   {
+    "type": "p",
+    "text": "German Chancellor Friedrich Merz announced that he will put forward Ilse Aigner as the next candidate for the German presidency. The nomination sets the stage for Aigner to become the first woman to hold the office."
+   },
+   {
+    "type": "p",
+    "text": "Aigner, a veteran politician from the Christian Social Union, has held several ministerial posts in previous governments. Merz’s decision reflects the governing coalition’s intent to promote gender diversity at the highest level of state representation."
+   },
+   {
+    "type": "p",
+    "text": "The nomination will now move to the Federal Convention, where members will vote on the president. If confirmed, Aigner would succeed the current president and break a decades‑long gender barrier in German politics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A female president would mark a historic shift in German politics, signaling broader gender‑representation trends that resonate across Europe and the United States."
+   }
+  ],
+  "key_points": [
+   "Chancellor Friedrich Merz will nominate Ilse Aigner for Germany’s presidency.",
+   "Aigner would be the first woman to serve as German president if elected.",
+   "The nomination proceeds to the Federal Convention for a vote."
+  ],
+  "meta_description": "Chancellor Friedrich Merz nominates Ilse Aigner, set to become Germany's first female president, pending a vote by the Federal Convention.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Germany",
+   "presidency",
+   "Ilse Aigner",
+   "Friedrich Merz",
+   "women in politics"
+  ],
+  "slug": "german-chancellor-merz-nominate-ilse-aigner-president-9f8b24",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T20:24:40Z"
+ },
+ {
+  "id": "b181efd0cc6e09a8",
+  "source_url": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html",
+  "source": "The New York Times",
+  "source_title": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
+  "source_summary": "Democrats have begun laying the groundwork for an aggressive oversight agenda aimed at the Trump administration. But a political reckoning could come before the new Congress begins.",
+  "source_tags": [
+   "Hegseth, Pete",
+   "Jeffries, Hakeem",
+   "Trump, Donald J",
+   "United States Politics and Government",
+   "US and Israeli Attack on Iran (2026)",
+   "Impeachment",
+   "Midterm Elections (2026)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-hegseth-cong-pvzl/08dc-hegseth-cong-pvzl-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T19:22:52+00:00",
+  "headline": "Jeffries Leads Call to Impeach Hegseth Amid Democratic Oversight Push",
+  "body": [
+   {
+    "type": "p",
+    "text": "House Democratic leader Hakeem Jeffries announced his support for initiating impeachment proceedings against former White House counsel Peter Hegseth, signaling a new wave of congressional scrutiny of the Trump administration. Jeffries said the move reflects the party's commitment to hold officials accountable for actions taken during the previous presidency."
+   },
+   {
+    "type": "p",
+    "text": "Democrats are laying the groundwork for an aggressive oversight agenda that they plan to pursue before the new Congress convenes. The strategy includes a series of investigations and potential legislative actions aimed at uncovering alleged misconduct and policy failures tied to the former administration."
+   },
+   {
+    "type": "p",
+    "text": "The push for impeachment and broader oversight comes as the Democratic caucus seeks to demonstrate its resolve to address what it describes as a \"political reckoning\" for the Trump era. Party leaders anticipate that these efforts will shape the legislative priorities of the upcoming session and influence public perception of accountability in Washington."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European audiences are watching how the incoming Democratic majority may reshape oversight of the previous administration, affecting transatlantic policy coordination."
+   }
+  ],
+  "key_points": [
+   "Hakeem Jeffries backs impeachment of Peter Hegseth as part of a broader Democratic oversight plan.",
+   "Democrats are preparing an aggressive agenda to investigate the Trump administration before the new Congress starts.",
+   "The initiative is framed as a political reckoning for actions taken during the previous presidency."
+  ],
+  "meta_description": "Jeffries supports impeaching Hegseth as Democrats gear up for aggressive oversight of the Trump era before the new Congress convenes.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "impeachment",
+   "Democratic oversight",
+   "Hakeem Jeffries",
+   "Peter Hegseth",
+   "Trump administration",
+   "Congress"
+  ],
+  "slug": "jeffries-leads-call-impeach-hegseth-amid-democratic-oversight-push-b181ef",
+  "reading_minutes": 1,
+  "added": "2026-11-08T20:24:15Z"
+ },
+ {
+  "id": "53044e44b3aab431",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+  "source": "The Verge",
+  "source_title": "Apple is racing to make Siri more agentic",
+  "source_summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+  "source_tags": [
+   "AI",
+   "Apple",
+   "Apple Rumors",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-08T19:18:19+00:00",
+  "headline": "Apple Pushes Siri AI Forward Under CEO Ternus Pressure to Compete",
+  "body": [
+   {
+    "type": "p",
+    "text": "According to Bloomberg reporter Mark Gurman, Apple CEO John Ternus is urging senior engineering leader Craig Federighi to speed up the development of a more capable Siri AI agent. The push aims to position Siri against rival offerings such as OpenAI's Dots and Meta's Muse."
+   },
+   {
+    "type": "p",
+    "text": "Federighi has already delivered a functional version of the Siri AI on a very short timeline, but the company acknowledges that the current iteration falls short of the ambitious goals set by leadership. Executives remain realistic about the challenges ahead in creating a truly competitive conversational agent."
+   },
+   {
+    "type": "p",
+    "text": "The accelerated roadmap reflects Apple's broader strategy to embed advanced generative AI across its ecosystem, seeking to keep pace with rapid innovations from other tech giants."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A stronger Siri AI could reshape how consumers in the US and Europe interact with Apple devices, influencing competition in the fast‑growing generative‑AI market."
+   }
+  ],
+  "key_points": [
+   "Apple CEO John Ternus is pressuring AI chief Craig Federighi to fast‑track Siri's evolution.",
+   "The goal is to develop a Siri AI agent that can rival OpenAI's Dots and Meta's Muse.",
+   "A functional Siri AI version has been released quickly, but Apple admits more work is needed."
+  ],
+  "meta_description": "Apple CEO urges faster Siri AI development to compete with OpenAI and Meta, per Bloomberg.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple",
+   "Siri",
+   "AI",
+   "Craig Federighi",
+   "John Ternus",
+   "competition"
+  ],
+  "slug": "apple-pushes-siri-ai-forward-under-ceo-ternus-pressure-53044e",
+  "reading_minutes": 1,
+  "added": "2026-11-08T20:24:43Z"
+ },
+ {
+  "id": "1f59cd90d506c4f5",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
+  "source": "The Guardian",
+  "source_title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
+  "source_summary": "House Democrat is a ‘hard yes’ on impeachment resolution against defense secretary who ‘has abused his power’ House minority leader Hakeem Jeffries, poised to become majority leader, said on Sunday that he strongly supports impeaching defense secretary Pete Hegseth as a Republican lawmaker prepares to force a House vote. The top Democrat made his position clear during an appearance on ABC’s This Week, declaring himself a “hard yes” on the impeachment resolution targeting Hegseth.",
+  "source_tags": [
+   "Trump administration",
+   "Pete Hegseth",
+   "Donald Trump",
+   "US news",
+   "US politics",
+   "US midterm elections 2026",
+   "Hakeem Jeffries",
+   "US national security",
+   "US military",
+   "US foreign policy"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/951893fa5f4c12077ed8bdcbf1fee7a1489f34b6/291_0_2918_2334/master/2918.jpg?width=700&quality=85&auto=format&fit=max&s=301969086b1bb336f223dc67f40b73b0",
+  "published": "2026-11-08T19:11:33+00:00",
+  "headline": "Hakeem Jeffries Says He Is a “Hard Yes” on Impeaching Defense Secretary Pete Hegseth",
+  "body": [
+   {
+    "type": "p",
+    "text": "House Democratic leader Hakeem Jeffries told ABC’s This Week that he is a “hard yes” on the impeachment resolution targeting Defense Secretary Pete Hegseth. Jeffries, who currently serves as the House minority leader and is expected to become majority leader, said the resolution should move forward as a Republican lawmaker prepares to force a House vote."
+   },
+   {
+    "type": "p",
+    "text": "Jeffries framed the impeachment effort as a response to what he described as Hegseth’s abuse of power while serving as defense secretary. He did not provide additional details about the alleged misconduct, but emphasized that the Democratic caucus should support the measure."
+   },
+   {
+    "type": "p",
+    "text": "The push for impeachment comes amid growing partisan tension in Washington, with Republicans defending the secretary and Democrats urging accountability. The outcome of the upcoming vote could set a precedent for how high‑level officials are held to account in Congress."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The impeachment effort highlights deepening partisan divisions in the U.S. Congress and could influence future oversight of senior officials."
+   }
+  ],
+  "key_points": [
+   "House minority leader Hakeem Jeffries publicly backs impeachment of Defense Secretary Pete Hegseth.",
+   "Jeffries called himself a “hard yes” on the resolution as a Republican prepares to force a House vote.",
+   "The move reflects escalating partisan conflict over the secretary’s alleged abuse of power."
+  ],
+  "meta_description": "House Democratic leader Hakeem Jeffries says he is a “hard yes” on impeaching Defense Secretary Pete Hegseth as a GOP lawmaker seeks a House vote.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Hakeem Jeffries",
+   "Pete Hegseth",
+   "impeachment",
+   "U.S. Congress",
+   "defense department"
+  ],
+  "slug": "hakeem-jeffries-says-he-hard-yes-impeaching-defense-secretary-1f59cd",
+  "reading_minutes": 1,
+  "added": "2026-11-08T20:24:31Z"
+ },
+ {
+  "id": "84ab0fe30f78624b",
+  "source_url": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+  "source": "The New York Times",
+  "source_title": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+  "source_summary": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by last spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Classified Information and State Secrets",
+   "United States International Relations",
+   "Artificial Intelligence",
+   "Megaspeed International Pte Ltd",
+   "Ministry of State Security of the People's Republic of China",
+   "NVIDIA Corporation",
+   "Huang, Alice (Technology Executive)",
+   "Huang, Jen-Hsun",
+   "Rubio, Marco"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08dc-spy-chip-lkzp/08dc-spy-chip-lkzp-mediumSquareAt3X.jpg",
+  "published": "2026-11-08T18:37:04+00:00",
+  "headline": "Rubio Alerts Officials to Nvidia CEO’s Ties to Chinese Spy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senator Marco Rubio warned senior U.S. officials that Nvidia founder and chief executive Jensen Huang may have a personal connection to a woman linked to Chinese intelligence. The concern surfaced last spring when the secretary of state helped draft a classified memorandum outlining the potential security implications."
+   },
+   {
+    "type": "p",
+    "text": "The secret memo, prepared by the State Department, noted that Huang’s relationship with the individual raised questions about possible influence or access to proprietary technology. Officials described the matter as “significant” and recommended heightened scrutiny of Nvidia’s dealings with foreign entities."
+   },
+   {
+    "type": "p",
+    "text": "Rubio’s warning underscores ongoing apprehensions in Washington about the intersection of high‑tech leadership and foreign espionage. Lawmakers and agencies are monitoring the situation as part of broader efforts to safeguard critical American semiconductor assets."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The alert highlights U.S. concerns over potential Chinese espionage in the strategic semiconductor sector, affecting national security and trade policy."
+   }
+  ],
+  "key_points": [
+   "Rubio warned officials that Nvidia CEO Jensen Huang may be linked to a woman tied to Chinese intelligence.",
+   "A secret State Department memo drafted last spring highlighted the security concerns surrounding the relationship.",
+   "The issue reflects broader U.S. worries about foreign influence in the semiconductor industry."
+  ],
+  "meta_description": "Rubio warns officials about Nvidia CEO's possible ties to a Chinese spy, citing a secret State Department memo.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rubio",
+   "Nvidia",
+   "Jensen Huang",
+   "Chinese espionage",
+   "US security",
+   "semiconductors"
+  ],
+  "slug": "rubio-alerts-officials-nvidia-ceos-ties-chinese-spy-84ab0f",
+  "reading_minutes": 1,
+  "added": "2026-11-08T20:24:11Z"
+ },
+ {
   "id": "e692bf6a5e734d82",
   "source_url": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
   "source": "The New York Times",
