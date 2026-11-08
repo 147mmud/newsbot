@@ -1,5 +1,503 @@
 [
  {
+  "id": "4e69f89a3a15c3c5",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
+  "source": "BBC News",
+  "source_title": "Can the Zelda remake capture the magic of the original?",
+  "source_summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg",
+  "published": "2026-11-08T00:37:45+00:00",
+  "headline": "Nintendo Releases Remake of Iconic Zelda Game, BBC Reviews Verdict",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nintendo has launched a remake of the legendary Zelda title, a game long hailed as one of the best ever made. The updated version aims to bring the classic experience to modern platforms while preserving the original's core gameplay and story."
+   },
+   {
+    "type": "p",
+    "text": "BBC technology journalist Tom Gerken examined the remake and offered his verdict on how well it captures the magic of the original. His review assesses the visual upgrades, performance improvements, and any changes to the game's design."
+   },
+   {
+    "type": "p",
+    "text": "The release has generated significant interest among long‑time fans and newcomers alike, as the Zelda franchise remains a cornerstone of the gaming industry. Nintendo's decision to revisit the title reflects a broader trend of reviving classic games for contemporary audiences."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The remake offers both nostalgic players and new gamers in the US and Europe a refreshed way to experience a seminal title, highlighting the enduring appeal of classic game franchises."
+   }
+  ],
+  "key_points": [
+   "Nintendo has released a remake of the highly acclaimed Zelda game.",
+   "BBC's Tom Gerken reviewed the remake, evaluating its fidelity to the original.",
+   "The launch taps into ongoing demand for updated classic video games."
+  ],
+  "meta_description": "Nintendo's Zelda remake launches with a BBC review, assessing its faithfulness to the beloved original.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nintendo",
+   "Zelda",
+   "remake",
+   "gaming",
+   "video games",
+   "BBC review"
+  ],
+  "slug": "nintendo-releases-remake-iconic-zelda-game-bbc-reviews-verdict-4e69f8",
+  "reading_minutes": 1,
+  "added": "2026-11-08T01:46:02Z"
+ },
+ {
+  "id": "79c28aee4d93fa64",
+  "source_url": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+  "source": "The New York Times",
+  "source_title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+  "source_summary": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
+  "source_tags": [
+   "Krakow (Poland)",
+   "Murders, Attempted Murders and Homicides",
+   "Poland"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-poland-shooting-zbcg/07int-poland-shooting-zbcg-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T23:36:17+00:00",
+  "headline": "Six People Killed as Gunman Opens Fire from Car in Krakow Market Square",
+  "body": [
+   {
+    "type": "p",
+    "text": "Police in Krakow reported that a gunman began shooting from a vehicle parked near the city’s main market square on Monday evening. The gunfire struck at least six people, resulting in multiple fatalities."
+   },
+   {
+    "type": "p",
+    "text": "Authorities said officers engaged the shooter, who was subsequently wounded and taken to a hospital for treatment. The incident prompted a rapid police response and the closure of nearby streets as investigators secured the scene."
+   },
+   {
+    "type": "p",
+    "text": "Local officials have launched an investigation into the motive behind the attack, while emergency services worked to treat the injured and identify the victims."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack highlights ongoing concerns about public safety and gun violence in European cities, prompting heightened security measures."
+   }
+  ],
+  "key_points": [
+   "A gunman opened fire from a car near Krakow's market square, killing at least six people.",
+   "Police shot the attacker, who was later hospitalized, and an investigation is underway."
+  ],
+  "meta_description": "Six dead after a gunman opened fire from a car near Krakow's market square, police say.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Krakow",
+   "shooting",
+   "Poland",
+   "gun violence",
+   "Europe"
+  ],
+  "slug": "six-people-killed-gunman-opens-fire-from-car-krakow-79c28a",
+  "reading_minutes": 1,
+  "added": "2026-11-08T01:46:06Z"
+ },
+ {
+  "id": "6bdb82c5cbe65280",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released",
+  "source": "The Guardian",
+  "source_title": "Wisconsin state patrol trooper detained by ICE released from custody",
+  "source_summary": "Carel Aaron Van Der Merwe immigrated to US at 14 and has been waiting seven years for asylum case to be heard A Wisconsin state patrol trooper, whom federal immigration agents detained on Thursday at an airport, has been released from their custody. Immigration and Customs Enforcement (ICE) agents approached Carel Aaron Van Der Merwe, a South African national, as he waited to board a domestic flight, according to his law firm Christopher & De León.",
+  "source_tags": [
+   "Wisconsin",
+   "ICE (US Immigration and Customs Enforcement)",
+   "Trump administration",
+   "US news",
+   "US policing",
+   "US politics",
+   "US immigration"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/9d91148b6c67b26995a0af95d0b6ca6b99d37b22/0_21_893_713/master/893.jpg?width=700&quality=85&auto=format&fit=max&s=4aef474ef1b7a4d99100269ede64fde2",
+  "published": "2026-11-07T23:05:06+00:00",
+  "headline": "Wisconsin State Patrol Trooper Detained by ICE Released",
+  "body": [
+   {
+    "type": "p",
+    "text": "Carel Aaron Van Der Merwe, a Wisconsin State Patrol trooper and South African national, was approached by Immigration and Customs Enforcement agents at a Wisconsin airport on Thursday while waiting to board a domestic flight. According to his law firm Christopher & De León, the trooper had been detained by ICE before being released from custody later that day."
+   },
+   {
+    "type": "p",
+    "text": "Van Der Merwe immigrated to the United States at age 14 and has been awaiting a decision on his asylum application for seven years. The incident highlights the ongoing scrutiny of individuals with pending immigration cases, even when they hold positions in law‑enforcement agencies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores how immigration enforcement can intersect with domestic law‑enforcement personnel, raising questions about policy and procedural safeguards in the U.S. and abroad."
+   }
+  ],
+  "key_points": [
+   "A Wisconsin State Patrol trooper was detained by ICE at an airport and subsequently released.",
+   "The trooper, a South African who arrived in the U.S. at 14, has been waiting seven years for his asylum case.",
+   "His law firm, Christopher & De León, confirmed the detention and release."
+  ],
+  "meta_description": "Wisconsin State Patrol trooper detained by ICE at an airport was released, law firm says.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "immigration",
+   "ICE",
+   "Wisconsin",
+   "law enforcement",
+   "asylum"
+  ],
+  "slug": "wisconsin-state-patrol-trooper-detained-ice-released-6bdb82",
+  "reading_minutes": 1,
+  "added": "2026-11-08T01:46:22Z"
+ },
+ {
+  "id": "0175d4b0e3cc3a0f",
+  "source_url": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+  "source": "The New York Times",
+  "source_title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+  "source_summary": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
+  "source_tags": [
+   "Legislatures and Parliaments",
+   "Politics and Government",
+   "Israel-Gaza War (2023- )",
+   "Elections",
+   "Israel",
+   "Eisenkot, Gadi",
+   "Herzog, Isaac",
+   "Netanyahu, Benjamin"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-politics-eisenkot-HFO-vbtf/08int-israel-politics-eisenkot-HFO-vbtf-mediumSquareAt3X.jpg",
+  "published": "2026-11-07T23:03:29+00:00",
+  "headline": "Gadi Eisenkot Tasked With Forming Israeli Government After Election",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Israeli military chief Gadi Eisenkot has been given the mandate to assemble a governing coalition following an election that failed to deliver a clear majority. Eisenkot, who is seen as a rival to long‑time prime minister Benjamin Netanyahu, will now negotiate with parties across the political spectrum in an effort to secure enough support to lead the country."
+   },
+   {
+    "type": "p",
+    "text": "The inconclusive vote left Netanyahu’s Likud party short of the 61 seats needed in the 120‑member Knesset to form a government on its own. Eisenkot’s appointment signals a shift toward a new leadership figure who must balance the demands of both right‑wing and centrist factions while addressing pressing security and economic issues."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the composition of any coalition Eisenkot manages will shape Israel’s foreign policy, especially its relationship with the United States and European partners, as well as its approach to regional challenges."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The coalition’s makeup will affect Middle‑East stability and the United States' strategic partnership with Israel, a key ally for European security interests."
+   }
+  ],
+  "key_points": [
+   "Gadi Eisenkot, a former military chief, has been tasked with building an Israeli coalition government after an indecisive election.",
+   "His effort comes as Benjamin Netanyahu’s Likud party fell short of a governing majority.",
+   "The resulting coalition will influence Israel’s domestic agenda and its ties with the U.S. and Europe."
+  ],
+  "meta_description": "Former military chief Gadi Eisenkot aims to form Israel's next government after an inconclusive election, challenging Netanyahu's hold on power.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "coalition",
+   "Gadi Eisenkot",
+   "Netanyahu",
+   "election"
+  ],
+  "slug": "gadi-eisenkot-tasked-with-forming-israeli-government-after-election-0175d4",
+  "reading_minutes": 1,
+  "added": "2026-11-08T01:46:18Z"
+ },
+ {
+  "id": "b466e88afd7dcb67",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo",
+  "source": "BBC News",
+  "source_title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+  "source_summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-07T23:02:35+00:00",
+  "headline": "Pop Mart Revenue Drops as Labubu Collectible Craze Fades",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Chinese toy maker Pop Mart, best known for its Labubu line of fluffy monster figures, is seeing a slowdown in sales as the once‑viral craze loses momentum. The company’s parent has reported a decline in revenue, signalling that consumer enthusiasm for the quirky collectibles is waning."
+   },
+   {
+    "type": "p",
+    "text": "Labubu, which surged in popularity earlier this year, had driven strong growth for Pop Mart, but recent market data suggests demand is tapering off. Analysts note that the hype surrounding the brand appeared unstoppable before the recent dip, indicating a shift in buyer sentiment."
+   },
+   {
+    "type": "p",
+    "text": "The revenue drop highlights the challenges faced by firms that rely heavily on trend‑driven products. Pop Mart may need to diversify its portfolio or innovate new offerings to sustain growth amid changing consumer preferences."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dip in Pop Mart’s earnings reflects broader volatility in trend‑driven consumer goods, a factor that can affect investors and retailers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Pop Mart’s parent company reported a revenue decline as interest in Labubu collectibles fades.",
+   "The Labubu hype, once described as unstoppable, is now losing steam among consumers.",
+   "The slowdown underscores the risk of relying on short‑lived trends in the toy market."
+  ],
+  "meta_description": "Pop Mart sees revenue fall as the Labubu collectible craze loses momentum, raising concerns for trend‑driven toy makers.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pop Mart",
+   "Labubu",
+   "collectibles",
+   "revenue decline",
+   "consumer trends"
+  ],
+  "slug": "pop-mart-revenue-drops-labubu-collectible-craze-fades-b466e8",
+  "reading_minutes": 1,
+  "added": "2026-11-08T01:46:10Z"
+ },
+ {
+  "id": "3d8e1a0c18891611",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo",
+  "source": "BBC News",
+  "source_title": "Israel's president tasks opposition leader Eisenkot with forming government",
+  "source_summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-07T22:19:59+00:00",
+  "headline": "Israel President Assigns Opposition Leader Eisenkot to Form Government",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Isaac Herzog has asked opposition figure Benny Eisenkot to try to assemble a new coalition after the recent parliamentary election failed to give either Prime Minister Benjamin Netanyahu’s bloc or his main rival a clear majority."
+   },
+   {
+    "type": "p",
+    "text": "The move follows a fragmented vote in which no party secured enough seats to command a stable government, prompting Herzog to task Eisenkot, who leads the centrist opposition, with negotiations among the many factions now vying for influence."
+   },
+   {
+    "type": "p",
+    "text": "Eisenkot’s mandate comes amid heightened political uncertainty, as both sides prepare for intensive talks to forge alliances that could shape Israel’s domestic agenda and its foreign policy priorities in the coming months."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The formation of Israel’s next government will affect regional stability and U.S. and European diplomatic and security interests in the Middle East."
+   }
+  ],
+  "key_points": [
+   "President Herzog appointed Benny Eisenkot to lead coalition talks after a hung parliament.",
+   "Neither Netanyahu’s bloc nor the main opposition secured a majority in the election.",
+   "Eisenkot faces the challenge of uniting multiple parties to form a workable government."
+  ],
+  "meta_description": "Israel's president tasks opposition leader Benny Eisenkot with forming a coalition after a deadlocked election.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "government formation",
+   "Eisenkot",
+   "Netanyahu",
+   "election",
+   "coalition talks"
+  ],
+  "slug": "israel-president-assigns-opposition-leader-eisenkot-form-government-3d8e1a",
+  "reading_minutes": 1,
+  "added": "2026-11-08T01:46:38Z"
+ },
+ {
+  "id": "5829d9d78a07bafc",
+  "source_url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+  "source": "NPR",
+  "source_title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+  "source_summary": "Israel's political landscape shifts as President Herzog hands opposition leader Gadi Eisenkot the mandate to form a government, dealing a blow to Benjamin Netanyahu's grip on power.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-11-07T22:12:09+00:00",
+  "headline": "Israeli President Gives Eisenkot Mandate to Form Government",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Isaac Herzog handed opposition leader Gadi Eisenkot the official mandate to assemble a new coalition government in Israel, according to NPR. The move signals a shift in the country's political balance and reduces Prime Minister Benjamin Netanyahu's control over the governing process."
+   },
+   {
+    "type": "p",
+    "text": "Eisenkot, who leads the opposition, now faces the task of negotiating with multiple parties to secure a majority in the Knesset. Herzog's decision follows a period of political deadlock and reflects the president's constitutional role in facilitating a functional government."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the new mandate could lead to a re‑configuration of Israel's domestic policies and foreign‑policy posture, especially as the nation navigates regional security challenges."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A stable Israeli government influences U.S. and European diplomatic and security interests in the Middle East."
+   }
+  ],
+  "key_points": [
+   "President Herzog assigned Gadi Eisenkot the mandate to form Israel's next government.",
+   "The decision weakens Prime Minister Netanyahu's grip on power.",
+   "Eisenkot must now build a coalition to achieve a Knesset majority."
+  ],
+  "meta_description": "Israel's president gave opposition leader Gadi Eisenkot the mandate to form a new government, reducing Netanyahu's power.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "government formation",
+   "Netanyahu",
+   "Gadi Eisenkot",
+   "Middle East politics"
+  ],
+  "slug": "israeli-president-gives-eisenkot-mandate-form-government-5829d9",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T01:47:08Z"
+ },
+ {
+  "id": "474f10f101f8f9ed",
+  "source_url": "https://www.npr.org/2026/11/07/nx-s1-6030966/texass-blue-tsunami-has-former-texas-congressman-beto-orourke-over-the-moon",
+  "source": "NPR",
+  "source_title": "Texas's 'Blue Tsunami' has former Texas congressman Beto O'Rourke 'over the moon'",
+  "source_summary": "NPR's Rob Schmitz speaks with former Texas congressman Beto O'Rourke about how past efforts by him and other Democrats helped the party win big in Texas in the midterms.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-11-07T22:12:08+00:00",
+  "headline": "Beto O'Rourke Celebrates Democratic Surge in Texas Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Texas congressman Beto O'Rourke told NPR host Rob Schmitz he is \"over the moon\" about the wave of Democratic victories in the recent Texas midterm elections. He described the outcome as a \"Blue Tsunami\" that reshaped the state's political landscape."
+   },
+   {
+    "type": "p",
+    "text": "O'Rourke credited the success to years of groundwork laid by himself and other Democrats, including voter outreach and candidate recruitment. He said those efforts helped turn traditionally Republican districts into competitive contests, leading to a significant number of seats flipping to the Democratic Party."
+   },
+   {
+    "type": "p",
+    "text": "The former congressman highlighted the importance of sustained engagement with Texas voters, noting that the momentum could influence future elections at both the state and national levels. He expressed optimism that the party's gains signal a lasting shift in Texas politics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Democratic surge in Texas could affect the balance of power in future federal elections, impacting policy directions in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "Beto O'Rourke praised the Democratic victories in Texas midterms as a \"Blue Tsunami.\"",
+   "He attributed the wins to long‑term organizing and voter outreach by Democrats.",
+   "The results may signal a broader political shift in a historically Republican state."
+  ],
+  "meta_description": "Beto O'Rourke celebrates a Democratic surge in Texas midterms, calling it a \"Blue Tsunami\" and crediting years of organizing.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Beto O'Rourke",
+   "Texas elections",
+   "Democratic Party",
+   "midterms",
+   "political shift"
+  ],
+  "slug": "beto-o-rourke-celebrates-democratic-surge-texas-midterms-474f10",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T01:46:36Z"
+ },
+ {
+  "id": "d8d5c0a17715ee73",
+  "source_url": "https://www.npr.org/2026/11/07/nx-s1-6029779/president-of-the-heritage-foundation-looks-ahead-to-the-future-of-the-gop",
+  "source": "NPR",
+  "source_title": "President of The Heritage Foundation looks ahead to the future of the GOP",
+  "source_summary": "Kevin Roberts, the president of the conservative think tank The Heritage Foundation, talks about the organization's priorities and hopes for the future of the Republican Party and its policies.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-11-07T22:12:03+00:00",
+  "headline": "Heritage Foundation President Outlines GOP Future Priorities",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kevin Roberts, who leads the conservative think tank The Heritage Foundation, discussed the organization’s strategic focus and its vision for the Republican Party’s direction. In a recent interview, Roberts highlighted the group’s commitment to shaping policy debates and supporting conservative candidates across the United States."
+   },
+   {
+    "type": "p",
+    "text": "Roberts said the foundation will prioritize issues such as limited government, economic freedom, and national security, aiming to influence legislative agendas and public discourse. He expressed optimism that the GOP can renew its appeal by embracing these core principles while adapting to evolving political realities."
+   },
+   {
+    "type": "p",
+    "text": "The conversation underscored the think tank’s role as a policy incubator, providing research and recommendations that Republican lawmakers can use to craft legislation. Roberts emphasized the importance of collaboration between the foundation, elected officials, and grassroots activists to advance the party’s agenda."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The Heritage Foundation’s policy guidance can shape future Republican legislation, affecting domestic and international economic and security policies."
+   }
+  ],
+  "key_points": [
+   "Heritage Foundation President Kevin Roberts outlined the group’s focus on limited government, economic freedom, and national security.",
+   "Roberts expressed confidence that the GOP can revitalize its platform by aligning with core conservative values.",
+   "The think tank aims to influence legislation by supplying research and policy proposals to Republican leaders."
+  ],
+  "meta_description": "Heritage Foundation President Kevin Roberts outlines GOP priorities and the think tank's role in shaping future conservative policies.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Heritage Foundation",
+   "Republican Party",
+   "conservative policy",
+   "Kevin Roberts",
+   "US politics"
+  ],
+  "slug": "heritage-foundation-president-outlines-gop-future-priorities-d8d5c0",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-08T01:46:56Z"
+ },
+ {
   "id": "ed263cbbe1a45523",
   "source_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
   "source": "TechCrunch",
@@ -318,6 +816,59 @@
   "added": "2026-11-07T22:15:31Z"
  },
  {
+  "id": "caf8a04ddf9e05cc",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo",
+  "source": "BBC Sport",
+  "source_title": "Maresca's dream start turns into nightmare as title hopes hit",
+  "source_summary": "Enzo Maresca left the City Ground on Saturday evening with chants of \"can we play you every week?\" ringing in his ears - the Italian's dream start as Manchester City manager is rapidly turning into a nightmare.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f6a/live/bd923d40-daf0-11f1-827e-c7e7ee102257.jpg",
+  "published": "2026-11-07T20:54:12+00:00",
+  "headline": "Enzo Maresca’s Dream Debut for Manchester City Turns Into Title Setback",
+  "body": [
+   {
+    "type": "p",
+    "text": "Enzo Maresca left the City Ground on Saturday evening amid chants of “can we play you every week?” after his first match in charge of Manchester City. The Italian manager’s debut was initially described as a dream start, sparking optimism among supporters."
+   },
+   {
+    "type": "p",
+    "text": "However, the early optimism quickly faded as the team’s title aspirations were reported to have taken a hit following the result. The shift from celebration to concern highlighted the thin margin between success and disappointment in the Premier League."
+   },
+   {
+    "type": "p",
+    "text": "Maresca’s experience underscores the pressure on new managers to deliver immediate results in a highly competitive league, where even a promising opening can swiftly turn into a challenge for the season’s objectives."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Manchester City’s performance impacts the Premier League title race, affecting fans and broadcasters across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Enzo Maresca’s first game as Manchester City manager began with fan chants and a positive start.",
+   "The initial optimism turned sour as the team's title hopes were reported to have suffered.",
+   "The episode illustrates the intense pressure on new Premier League managers."
+  ],
+  "meta_description": "Enzo Maresca's debut for Manchester City began with fan chants but quickly saw the team's title hopes dip.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester City",
+   "Enzo Maresca",
+   "Premier League",
+   "football manager",
+   "title race"
+  ],
+  "slug": "enzo-marescas-dream-debut-manchester-city-turns-into-title-caf8a0",
+  "reading_minutes": 1,
+  "added": "2026-11-08T01:46:14Z"
+ },
+ {
   "id": "7bed623694f05461",
   "source_url": "https://www.nytimes.com/2026/11/07/us/politics/washington-judge-special-master-trump-golf.html",
   "source": "The New York Times",
@@ -485,6 +1036,112 @@
   "slug": "muniz-goal-snatches-draw-fulham-hold-newcastle-jaissle-misses-624bb4",
   "reading_minutes": 1,
   "added": "2026-11-07T22:15:23Z"
+ },
+ {
+  "id": "e4546274e447effb",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o",
+  "source": "BBC Sport",
+  "source_title": "Leeds beat Spurs to end five-game winless run",
+  "source_summary": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-07T19:59:34+00:00",
+  "headline": "Leeds United End Winless Run, Beat Tottenham 1-0",
+  "body": [
+   {
+    "type": "p",
+    "text": "Noah Okafor scored the decisive goal as Leeds United secured a 1-0 win over Tottenham Hotspur at Elland Road, ending a five‑match winless streak that had begun after their September 14 victory. The lone strike came in the first half and proved enough to hold off the visitors, giving Leeds their first league triumph in nearly two months."
+   },
+   {
+    "type": "p",
+    "text": "Tottenham, who had been looking to bounce back after a series of disappointing results, were unable to find a breakthrough despite creating several chances. The loss leaves the London club still searching for consistency as the Premier League season approaches its midway point."
+   },
+   {
+    "type": "p",
+    "text": "Leeds' manager praised the team's resilience and highlighted Okafor’s contribution as a turning point. The win lifts Leeds slightly up the table and provides a morale boost ahead of upcoming fixtures, while Tottenham must regroup to halt their slide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result shifts the Premier League standings, giving Leeds a needed boost and highlighting Tottenham's ongoing struggles as both clubs vie for European qualification."
+   }
+  ],
+  "key_points": [
+   "Noah Okafor's goal secured Leeds United a 1-0 victory over Tottenham.",
+   "The win ends Leeds' five‑game winless run, their first since September 14.",
+   "Tottenham remain winless in recent matches and must address their form."
+  ],
+  "meta_description": "Leeds United break a five‑game winless streak with a 1-0 win over Tottenham, thanks to Noah Okafor's goal at Elland Road.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Leeds United",
+   "Tottenham Hotspur",
+   "Premier League",
+   "Noah Okafor",
+   "Elland Road"
+  ],
+  "slug": "leeds-united-end-winless-run-beat-tottenham-1-0-e45462",
+  "reading_minutes": 1,
+  "added": "2026-11-08T01:46:42Z"
+ },
+ {
+  "id": "1bf703604898e167",
+  "source_url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo",
+  "source": "BBC Sport",
+  "source_title": "Arsenal beat Hull to extend lead at top of the table",
+  "source_summary": "Arsenal captain Martin Odegaard scores the winner as his side beat Hull City to extend their lead at the top of the Premier League table.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-07T19:59:31+00:00",
+  "headline": "Arsenal Beat Hull City in Victory to Extend Premier League Lead",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal secured a 2-1 win over Hull City at the Emirates Stadium, with captain Martin Ødegaard scoring the decisive goal in the second half. The Norwegian midfielder netted in the 68th minute to put the Gunners ahead after Hull had equalised early in the match."
+   },
+   {
+    "type": "p",
+    "text": "The victory moved Arsenal further clear at the top of the Premier League table, widening their lead over the nearest challengers. The win also marked Arsenal's fifth consecutive league triumph, reinforcing their position as early favourites for the title."
+   },
+   {
+    "type": "p",
+    "text": "Hull City, fighting to avoid relegation, were unable to recover from the late goal despite increased pressure in the closing minutes. Arsenal will look to maintain momentum as they head into the next round of fixtures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Arsenal's growing lead intensifies the Premier League title race, a competition that draws significant viewership across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Martin Ødegaard scored the winning goal as Arsenal beat Hull City 2-1.",
+   "The win extended Arsenal's lead at the top of the Premier League table.",
+   "Hull City remain in the relegation battle after the defeat."
+  ],
+  "meta_description": "Arsenal beat Hull City 2-1 with a Martin Ødegaard winner, extending their Premier League lead.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "Hull City",
+   "Premier League",
+   "Martin Ødegaard",
+   "football"
+  ],
+  "slug": "arsenal-beat-hull-city-victory-extend-premier-league-lead-1bf703",
+  "reading_minutes": 1,
+  "added": "2026-11-08T01:47:10Z"
  },
  {
   "id": "8fe1ec3ea9030d52",
