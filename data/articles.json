@@ -1,5 +1,679 @@
 [
  {
+  "id": "c58d7e0e8d4bb2a3",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo",
+  "source": "BBC News",
+  "source_title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+  "source_summary": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fead/live/0dafb010-dc53-11f1-a869-656dc96bd12d.jpg",
+  "published": "2026-11-09T16:01:19+00:00",
+  "headline": "Energy Secretary Fahnbulleh Vows to Cut Bills to Keep Climate Support",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Energy Secretary Lucy Fahnbulleh told reporters that her top priority is to tackle rising energy costs for households. She said that immediate action on energy bills is essential to maintain public confidence in the government's climate agenda."
+   },
+   {
+    "type": "p",
+    "text": "Fahnbulleh explained that without affordable energy, public backing for long‑term climate measures could erode. She emphasized that reducing household expenses will help sustain the momentum needed for the UK's transition to greener energy sources."
+   },
+   {
+    "type": "p",
+    "text": "The secretary indicated that her department will focus on policies that lower costs while still delivering on emissions targets. She stressed that aligning affordability with climate goals is a core part of the government's strategy moving forward."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Public acceptance of climate policies hinges on affordable energy, a concern shared by voters in the US, UK, Canada and Europe."
+   }
+  ],
+  "key_points": [
+   "Energy Secretary Lucy Fahnbulleh says cutting household energy bills is her overriding aim.",
+   "She argues that affordable energy is crucial to keep public support for climate action.",
+   "The government will prioritize cost‑reduction measures alongside emissions targets."
+  ],
+  "meta_description": "UK Energy Secretary Fahnbulleh says cutting energy bills is key to maintaining public support for climate action.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "energy",
+   "climate policy",
+   "energy bills",
+   "UK government",
+   "public support"
+  ],
+  "slug": "energy-secretary-fahnbulleh-vows-cut-bills-keep-climate-support-c58d7e",
+  "reading_minutes": 1,
+  "added": "2026-11-09T16:02:51Z"
+ },
+ {
+  "id": "e460234c4fe446a7",
+  "source_url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+  "source": "The New York Times",
+  "source_title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+  "source_summary": "The chipmaker’s size and significance to the A.I. trade means that Jensen Huang’s admission of a relationship with a businesswoman suspected of spying for China could reverberate across Wall Street.",
+  "source_tags": [
+   "Stocks and Bonds",
+   "Computer Chips",
+   "Artificial Intelligence",
+   "Industrial Espionage",
+   "NVIDIA Corporation",
+   "Huang, Jen-Hsun"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/09/multimedia/nvidia-stock-promo-bgjq/nvidia-stock-promo-bgjq-mediumSquareAt3X.jpg",
+  "published": "2026-11-09T15:57:46+00:00",
+  "headline": "Nvidia Shares Drop After CEO Jensen Huang Links to Chinese Spy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia's shares fell on Thursday after the company's chief executive, Jensen Huang, disclosed a personal relationship with a businesswoman who is under suspicion of spying for China. The admission triggered an internal investigation into potential security breaches."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that Nvidia's size and its pivotal role in the artificial‑intelligence market amplify the impact of any governance concerns, prompting heightened scrutiny from investors and regulators alike."
+   },
+   {
+    "type": "p",
+    "text": "The stock decline reflects broader market unease, as Wall Street watches how the probe may affect the chipmaker's operations and its collaborations with U.S. and European tech firms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Nvidia is a key supplier for AI technologies used by U.S. and European firms, so any security issues could affect supply chains and investor confidence across the region."
+   }
+  ],
+  "key_points": [
+   "Nvidia's stock slipped following CEO Jensen Huang's admission of ties to a suspected Chinese spy.",
+   "The chipmaker's central position in AI hardware makes the investigation a significant market concern."
+  ],
+  "meta_description": "Nvidia shares fall after CEO Jensen Huang reveals link to a suspected Chinese spy, sparking an investigation and market concerns.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "stock market",
+   "China espionage",
+   "AI industry"
+  ],
+  "slug": "nvidia-shares-drop-after-ceo-jensen-huang-links-chinese-e46023",
+  "reading_minutes": 1,
+  "added": "2026-11-09T16:02:55Z"
+ },
+ {
+  "id": "6a96ab95be14f91e",
+  "source_url": "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Fake news in Africa: In an age of disinformation, who decides what's true?",
+  "source_summary": "From Ghana to Mozambique, the fight against fake news keeps gaining momentum. But combating disinformation also requires safeguards for free speech, leaving some governments in an inconvenient position.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/55639122_6.jpg",
+  "published": "2026-11-09T15:56:00+00:00",
+  "headline": "African Nations Ramp Up Fight Against Fake News Amid Free Speech Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "Across the continent, from Ghana to Mozambique, governments and civil‑society groups are stepping up efforts to curb the spread of false information online. New fact‑checking units, media‑literacy campaigns and tighter regulation of social‑media platforms are being introduced to address the surge of disinformation that threatens public trust and electoral integrity."
+   },
+   {
+    "type": "p",
+    "text": "While these measures aim to protect citizens from misleading content, critics warn that tighter controls could also curtail legitimate expression. Some authorities find themselves in a delicate position, needing to balance the fight against fake news with the preservation of free‑speech rights, a tension that has sparked debate among lawmakers and human‑rights advocates."
+   },
+   {
+    "type": "p",
+    "text": "International partners are offering technical assistance and funding to bolster local capacity, but the success of these initiatives will depend on transparent oversight and the ability to adapt to rapidly evolving digital tactics."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Disinformation spreads across borders, influencing elections and public opinion worldwide, making Africa's approach relevant to democracies in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "African countries are expanding fact‑checking and media‑literacy programs to combat online disinformation.",
+   "Efforts to limit fake news risk infringing on free‑speech protections, prompting domestic debate.",
+   "External donors are supporting capacity‑building, but outcomes hinge on transparent implementation."
+  ],
+  "meta_description": "African nations boost anti‑fake‑news initiatives while navigating free‑speech challenges, with support from international partners.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Africa",
+   "disinformation",
+   "free speech",
+   "media literacy",
+   "governance"
+  ],
+  "slug": "african-nations-ramp-up-fight-against-fake-news-amid-6a96ab",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-09T16:02:59Z"
+ },
+ {
+  "id": "35f5dcdd0795a4cf",
+  "source_url": "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Turkey: Workers killed in Izmir steel plant blast",
+  "source_summary": "At least 10 workers lost their lives in an explosion at a steel factory in Izmir, with the Turkish authorities warning more people are trapped under the debris.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79900216_6.jpg",
+  "published": "2026-11-09T15:52:00+00:00",
+  "headline": "Ten Workers Killed in Izmir Steel Plant Blast, Others Trapped",
+  "body": [
+   {
+    "type": "p",
+    "text": "An explosion at a steel factory in Izmir, Turkey, killed at least ten workers, authorities said. Emergency crews arrived quickly, but the blast caused extensive damage to the plant’s structure."
+   },
+   {
+    "type": "p",
+    "text": "Turkish officials warned that additional people may still be buried under the rubble, and rescue operations are ongoing. The incident has prompted a local investigation into safety procedures at the facility."
+   },
+   {
+    "type": "p",
+    "text": "The tragedy highlights the risks faced by industrial workers in Turkey’s manufacturing sector, which remains a key part of the country’s economy."
+   }
+  ],
+  "key_points": [
+   "At least ten workers died in an explosion at an Izmir steel plant.",
+   "Rescue teams say more victims could be trapped under the debris.",
+   "Authorities have launched an investigation into the plant’s safety measures."
+  ],
+  "meta_description": "Ten workers died and others may be trapped after an explosion at a steel plant in Izmir, Turkey, prompting rescue efforts and a safety probe.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Turkey",
+   "Izmir",
+   "steel plant",
+   "explosion",
+   "industrial accident"
+  ],
+  "slug": "ten-workers-killed-izmir-steel-plant-blast-others-trapped-35f5dc",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-09T16:03:15Z"
+ },
+ {
+  "id": "67d134866a7d1897",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+  "source": "The Verge",
+  "source_title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+  "source_summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
+  "source_tags": [
+   "AI",
+   "News",
+   "Policy",
+   "Politics"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2296464785.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-09T15:50:38+00:00",
+  "headline": "Trump Downplays AI Risks in 60 Minutes Interview, Cites DOJ Oversight",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent appearance on CBS's \"60 Minutes,\" former President Donald Trump addressed concerns raised by AI executives about the safety of their models. Trump said he believes the perceived risk is \"not nearly as real as they talk\" and that it can be managed."
+   },
+   {
+    "type": "p",
+    "text": "He added that the Department of Justice is already handling the issue, noting, \"We had a situation where somebody…\" before emphasizing that the agency is overseeing any potential threats. The comment came amid ongoing industry debates over regulatory approaches to advanced artificial intelligence."
+   },
+   {
+    "type": "p",
+    "text": "Trump's remarks contrast with warnings from leading AI firms that call for stronger safeguards and government oversight. The interview highlights the continuing political divide over how to balance innovation with public safety."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The statements illustrate the gap between political leaders and tech firms on AI oversight, a topic of interest for regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Trump told \"60 Minutes\" that AI safety risks are overstated and manageable.",
+   "He claimed the Department of Justice is actively managing AI-related threats.",
+   "His comments differ from AI companies' calls for stricter regulation."
+  ],
+  "meta_description": "Trump downplays AI safety risks on 60 Minutes, saying the DOJ is handling any threats, sparking debate over regulation.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "AI safety",
+   "DOJ",
+   "60 Minutes",
+   "tech policy"
+  ],
+  "slug": "trump-downplays-ai-risks-60-minutes-interview-cites-doj-67d134",
+  "reading_minutes": 1,
+  "added": "2026-11-09T16:03:02Z"
+ },
+ {
+  "id": "1aee93233ebdafaa",
+  "source_url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+  "source": "The New York Times",
+  "source_title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+  "source_summary": "The global benchmark price is now down roughly $20 a barrel since late October, when it traded for around $113.",
+  "source_tags": [
+   "US and Israeli Attack on Iran (2026)",
+   "Oil (Petroleum) and Gasoline",
+   "United States Politics and Government",
+   "Prices (Fares, Fees and Rates)",
+   "War and Armed Conflicts",
+   "Peace Process",
+   "Midterm Elections (2026)",
+   "United States International Relations",
+   "United States Economy",
+   "Houthis"
+  ],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-11-09T15:43:36+00:00",
+  "headline": "Oil Prices Drop $20 a Barrel on Global U.S.-Iran Peace Hopes",
+  "body": [
+   {
+    "type": "p",
+    "text": "The world’s benchmark crude oil price has slipped about $20 per barrel since late October, falling from roughly $113 a barrel to current levels. Traders attribute the decline to growing optimism that diplomatic talks between the United States and Iran could lead to a de‑escalation of tensions in the Middle East."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the price movement reflects market sensitivity to geopolitical risk. When the prospect of conflict eases, investors often reduce the premium they attach to oil as a safe‑haven commodity. The recent price drop follows a period of volatility that saw oil hovering near historic highs amid fears of a broader regional confrontation."
+   },
+   {
+    "type": "p",
+    "text": "While the exact timing of any formal agreement remains uncertain, the market’s response underscores how quickly oil prices can react to shifts in diplomatic outlooks. The lower price environment may ease cost pressures for consumers and businesses that rely on petroleum products."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Cheaper oil can lower gasoline prices for drivers in the U.S. and Europe and ease input costs for manufacturers, influencing inflation and economic growth."
+   }
+  ],
+  "key_points": [
+   "Benchmark crude oil has fallen about $20 per barrel since late October.",
+   "The decline is linked to hopes for a diplomatic breakthrough between the U.S. and Iran.",
+   "Lower oil prices could reduce fuel costs for consumers and industry."
+  ],
+  "meta_description": "Crude oil prices drop $20 a barrel as markets react to hopeful U.S.-Iran peace talks, easing cost pressures for consumers and businesses.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "oil prices",
+   "U.S.-Iran relations",
+   "global markets",
+   "energy",
+   "inflation"
+  ],
+  "slug": "oil-prices-drop-20-barrel-global-u-s-iran-1aee93",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-09T16:03:11Z"
+ },
+ {
+  "id": "86961a9937fd8746",
+  "source_url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+  "source": "The Verge",
+  "source_title": "Disney and Adobe are building generative AI tools together",
+  "source_summary": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […]",
+  "source_tags": [
+   "Adobe",
+   "AI",
+   "Creators",
+   "Disney",
+   "Entertainment",
+   "News",
+   "Streaming",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Disney-Adobe-AI-partnership.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-09T15:38:56+00:00",
+  "headline": "Disney and Adobe Partner on Generative AI for Production Pipelines",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Walt Disney Company and Adobe announced a multiyear partnership at Adobe’s MAX conference, aimed at creating proprietary, artist‑led generative AI models. Adobe will give Disney early access to its newest AI technologies, which are intended to integrate directly into Disney’s production workflow."
+   },
+   {
+    "type": "p",
+    "text": "The collaboration is designed to support a range of Disney operations, from film and animation studios to the company’s theme parks and cruise line. By embedding generative AI tools into these areas, Disney hopes to streamline creative processes while maintaining artistic control."
+   },
+   {
+    "type": "p",
+    "text": "Both companies emphasized that the AI models will be tailored specifically for Disney’s needs, rather than relying on generic public models. The partnership reflects a broader industry trend of media firms seeking custom AI solutions to enhance content creation and guest experiences."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The alliance could accelerate AI‑driven innovation in entertainment, influencing how U.S. and European audiences experience Disney content and attractions."
+   }
+  ],
+  "key_points": [
+   "Disney and Adobe have entered a multiyear deal to develop custom generative AI tools for Disney’s production pipeline.",
+   "Adobe will provide Disney with early access to its latest AI technologies for use in theme parks, cruises, and content creation.",
+   "The AI models are described as \"artist‑led,\" ensuring creative control remains with Disney’s creators."
+  ],
+  "meta_description": "Disney teams up with Adobe to build custom generative AI tools for its production pipeline, theme parks and cruise line.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Disney",
+   "Adobe",
+   "generative AI",
+   "entertainment technology",
+   "partnership"
+  ],
+  "slug": "disney-adobe-partner-generative-ai-production-pipelines-86961a",
+  "reading_minutes": 1,
+  "added": "2026-11-09T16:03:31Z"
+ },
+ {
+  "id": "d2bc1bd42d0528f7",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+  "source": "The Guardian",
+  "source_title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
+  "source_summary": "President questions result in social media post after initially suggesting he would accept Democratic landslide win Trump admits deportation policy was ‘too tough’ Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November.",
+  "source_tags": [
+   "Trump administration",
+   "US news",
+   "Donald Trump",
+   "World news",
+   "US politics",
+   "US Senate",
+   "House of Representatives",
+   "Republicans",
+   "Democrats",
+   "US immigration"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=700&quality=85&auto=format&fit=max&s=8b9b1845576bebc1a772885a1ea1f315",
+  "published": "2026-11-09T15:38:44+00:00",
+  "headline": "Trump Questions Midterm Results as Democrats Claim Victory",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump posted on social media questioning the early vote numbers and the reliability of ballot machines after a Democratic landslide in the midterm elections, despite earlier saying he would accept the outcome."
+   },
+   {
+    "type": "p",
+    "text": "House Minority Leader Democrat Hakeem Jeffries told CBS News that the Trump administration will convene a closed‑door congressional briefing to discuss allegations involving Nvidia CEO Jensen Huang and an alleged Chinese spy."
+   },
+   {
+    "type": "p",
+    "text": "Republican chairs of three key House committees have also requested that Huang appear before lawmakers at a closed‑door hearing scheduled for 18 November."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute over election integrity and the potential espionage case could influence U.S. political dynamics and U.S.-China relations."
+   }
+  ],
+  "key_points": [
+   "Trump publicly cast doubt on the midterm results despite prior acceptance.",
+   "Jeffries announced a secret briefing on alleged espionage involving Jensen Huang.",
+   "Republican committee chairs seek Huang’s testimony at a November 18 hearing."
+  ],
+  "meta_description": "Trump questions midterm results while Democrats plan a closed briefing on alleged Chinese spy ties to Nvidia CEO Jensen Huang.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "midterm elections",
+   "Hakeem Jeffries",
+   "Jensen Huang",
+   "China espionage"
+  ],
+  "slug": "trump-questions-midterm-results-democrats-claim-victory-d2bc1b",
+  "reading_minutes": 1,
+  "added": "2026-11-09T16:03:22Z"
+ },
+ {
+  "id": "86a988233c43972a",
+  "source_url": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+  "source": "NPR",
+  "source_title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+  "source_summary": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8246x5497+0+0/resize/8246x5497!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0f%2Fa0%2F9498db764f74bf5081bd7fb99824%2Fap26313155738342.jpg",
+  "published": "2026-11-09T15:09:53+00:00",
+  "headline": "Thick Smog Envelops New Delhi as Diwali Firecrackers Boost Winter Pollution",
+  "body": [
+   {
+    "type": "p",
+    "text": "New Delhi, a metropolis of more than 30 million residents, is blanketed in dense smog following the Diwali celebrations. The fireworks released for the festival have added to the already high levels of particulate matter that typically surge during the winter months."
+   },
+   {
+    "type": "p",
+    "text": "The capital city regularly ranks among the world’s most polluted areas in the colder season, with air quality deteriorating sharply in late October and November. This seasonal spike is now compounded by the additional emissions from firecrackers, creating hazardous breathing conditions for the population."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have warned that the combined effect of seasonal pollutants and festival-related smoke could pose serious health risks, especially for vulnerable groups such as children, the elderly, and those with respiratory illnesses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights how cultural events can amplify existing environmental health challenges, a concern for cities worldwide facing air quality crises."
+   }
+  ],
+  "key_points": [
+   "Diwali fireworks have intensified New Delhi's winter smog, already among the highest globally.",
+   "The city’s air quality worsens notably in late October and November, affecting over 30 million people.",
+   "Health officials caution that the combined pollution could exacerbate respiratory problems."
+  ],
+  "meta_description": "Diwali fireworks worsen New Delhi's winter smog, adding to already severe pollution that affects over 30 million residents.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "New Delhi",
+   "air pollution",
+   "smog",
+   "Diwali",
+   "India",
+   "public health"
+  ],
+  "slug": "thick-smog-envelops-new-delhi-diwali-firecrackers-boost-winter-86a988",
+  "reading_minutes": 1,
+  "added": "2026-11-09T16:03:26Z"
+ },
+ {
+  "id": "63fd0ead650e79fe",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo",
+  "source": "BBC Sport",
+  "source_title": "Bronze named in World 11 for record ninth time",
+  "source_summary": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89c7/live/8800f540-dc4e-11f1-a869-656dc96bd12d.jpg",
+  "published": "2026-11-09T14:55:32+00:00",
+  "headline": "Lucy Bronze Makes Record Ninth Appearance in FIFPRO World XI",
+  "body": [
+   {
+    "type": "p",
+    "text": "England defender Lucy Bronze has been selected for the FIFPRO Women's World 11, marking her ninth inclusion in the elite team. The honor makes her the most frequently named player in the history of the award."
+   },
+   {
+    "type": "p",
+    "text": "Bronze joins four fellow England internationals who also earned spots in this year’s World 11, underscoring the strength of the English squad on the global stage. The selection reflects consistent performance at both club and international levels."
+   },
+   {
+    "type": "p",
+    "text": "The FIFPRO World 11 is compiled from votes by professional players worldwide, highlighting peer recognition of the sport’s top talent. Bronze’s record ninth appearance cements her legacy as one of women’s football’s most celebrated defenders."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Bronze’s repeated selection highlights the growing prominence of women’s football and England’s influence in the sport."
+   }
+  ],
+  "key_points": [
+   "Lucy Bronze has been named to the FIFPRO Women’s World 11 for a record ninth time.",
+   "Five England players, including Bronze, feature in this year’s World 11 lineup."
+  ],
+  "meta_description": "Lucy Bronze earns a record ninth place in the FIFPRO Women's World 11, joining four other England players in the elite lineup.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Lucy Bronze",
+   "FIFPRO",
+   "Women's football",
+   "England",
+   "World XI"
+  ],
+  "slug": "lucy-bronze-makes-record-ninth-appearance-fifpro-world-xi-63fd0e",
+  "reading_minutes": 1,
+  "added": "2026-11-09T16:03:07Z"
+ },
+ {
+  "id": "6d61c82c89e6cb84",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do",
+  "source": "BBC Sport",
+  "source_title": "Incident-by-incident: Was it a bad weekend for VAR?",
+  "source_summary": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de64/live/33dca940-dc36-11f1-95cf-a38331e6cb4b.jpg",
+  "published": "2026-11-09T14:34:19+00:00",
+  "headline": "Premier League Weekend Marred by Widespread VAR Controversies",
+  "body": [
+   {
+    "type": "p",
+    "text": "The latest round of Premier League fixtures saw almost every match touched by a contentious video‑assistant referee (VAR) decision, according to BBC Sport. Fans and pundits alike highlighted a series of incidents that sparked debate over the technology’s consistency and its impact on game flow."
+   },
+   {
+    "type": "p",
+    "text": "Critics pointed to decisions ranging from disallowed goals to questionable penalty awards, suggesting that the frequency of disputes could erode confidence in the system. While clubs lodged formal complaints, the league has yet to announce any immediate procedural changes."
+   },
+   {
+    "type": "p",
+    "text": "The controversy comes at a time when the Premier League is under pressure to balance technological precision with the sport’s traditional rhythm. Stakeholders are watching closely to see whether the governing bodies will refine VAR protocols before the season’s crucial stages."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Frequent VAR disputes risk alienating fans and could affect the Premier League’s reputation for fairness across Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Almost every Premier League match this weekend featured a disputed VAR call.",
+   "Critics argue the high number of controversies could undermine trust in the technology.",
+   "The league has not indicated any swift changes to VAR procedures."
+  ],
+  "meta_description": "A wave of VAR controversies hit the Premier League weekend, prompting calls for review of the technology's role in the game.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Premier League",
+   "VAR",
+   "football",
+   "controversy",
+   "UK sport"
+  ],
+  "slug": "premier-league-weekend-marred-widespread-var-controversies-6d61c8",
+  "reading_minutes": 1,
+  "added": "2026-11-09T16:03:19Z"
+ },
+ {
+  "id": "2ff23d1c4f567045",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cw8dzd953nq5o",
+  "source": "BBC Sport",
+  "source_title": "England clear way for Carse return and drop Bashir",
+  "source_summary": "England open the door for Brydon Carse to return to Test cricket for the tour of South Africa by naming him in the Lions squad.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb6/live/f5827880-dc32-11f1-958b-3f65a8ba2dc3.jpg",
+  "published": "2026-11-09T12:00:30+00:00",
+  "headline": "England Names Carse in Lions Squad, Drops Bashir for South Africa Tour",
+  "body": [
+   {
+    "type": "p",
+    "text": "England have named fast‑bowler Brydon Carse in the Lions squad for the upcoming Test series in South Africa, signalling a possible return to the national side after a period out of the team. The selection was announced as part of the squad for the tour, giving Carse a clear pathway back into the Test lineup."
+   },
+   {
+    "type": "p",
+    "text": "Alongside Carse's inclusion, the England board has omitted spinner Saif Bashir from the squad. The decision underscores the selectors' focus on reshaping the bowling attack ahead of the challenging South African conditions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The squad adjustments could influence England's performance in the high‑profile South Africa Test series, a key part of the international cricket calendar."
+   }
+  ],
+  "key_points": [
+   "Brydon Carse has been added to England's Lions squad for the South Africa Test tour.",
+   "Spinner Saif Bashir has been left out of the squad.",
+   "The changes aim to strengthen England's bowling options for the upcoming series."
+  ],
+  "meta_description": "England include Brydon Carse and drop Saif Bashir in the Lions squad for the South Africa Test tour.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England cricket",
+   "Brydon Carse",
+   "Saif Bashir",
+   "Test cricket",
+   "Lions squad",
+   "South Africa tour"
+  ],
+  "slug": "england-names-carse-lions-squad-drops-bashir-south-africa-2ff23d",
+  "reading_minutes": 1,
+  "added": "2026-11-09T16:03:35Z"
+ },
+ {
   "id": "fbc14e5f6ea51acf",
   "source_url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
   "source": "BBC News",
