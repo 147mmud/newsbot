@@ -1,5 +1,676 @@
 [
  {
+  "id": "fbc14e5f6ea51acf",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o",
+  "source": "BBC News",
+  "source_title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+  "source_summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7521/live/f16fd3e0-dbd9-11f1-be28-335d6f428fcf.jpg",
+  "published": "2026-11-09T06:01:52+00:00",
+  "headline": "Nvidia CEO Jensen Huang Faces Scandal Over Alleged Chinese Spy Affair",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia founder and chief executive Jensen Huang, once celebrated as a leading figure in Silicon Valley, is now embroiled in a personal controversy. Reports indicate that Huang is alleged to have had an affair with a woman suspected of working for Chinese intelligence services."
+   },
+   {
+    "type": "p",
+    "text": "The revelation has shifted public attention from Huang's technological achievements to questions about his private conduct. Media outlets have highlighted the stark contrast between his earlier reputation as the \"Taylor Swift of tech\" and the current scandal surrounding his personal life."
+   },
+   {
+    "type": "p",
+    "text": "While no legal proceedings have been announced, the story underscores the heightened scrutiny faced by high‑profile tech leaders amid ongoing concerns about foreign espionage and corporate security."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights growing worries in the US and Europe about Chinese intelligence infiltration of leading technology firms."
+   }
+  ],
+  "key_points": [
+   "Nvidia CEO Jensen Huang is alleged to have had an affair with a suspected Chinese spy.",
+   "The scandal marks a sharp departure from his previously celebrated public image.",
+   "No formal charges have been reported, but the case raises security concerns in the tech sector."
+  ],
+  "meta_description": "Nvidia CEO Jensen Huang is linked to an alleged affair with a suspected Chinese spy, sparking a personal scandal that raises security concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jensen Huang",
+   "Nvidia",
+   "espionage",
+   "scandal",
+   "Silicon Valley",
+   "China"
+  ],
+  "slug": "nvidia-ceo-jensen-huang-faces-scandal-over-alleged-chinese-fbc14e",
+  "reading_minutes": 1,
+  "added": "2026-11-09T06:04:12Z"
+ },
+ {
+  "id": "fdfdfd60876dfdbc",
+  "source_url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+  "source": "TechCrunch",
+  "source_title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+  "source_summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+  "source_tags": [
+   "AI",
+   "TC",
+   "Jensen Huang"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+  "published": "2026-11-09T05:26:29+00:00",
+  "headline": "Nvidia Board Probes CEO Jensen Huang Ties to Suspected Chinese Spy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia's board of directors has opened an internal investigation into CEO Jensen Huang after reports surfaced about his relationship with an individual suspected of acting as a Chinese intelligence operative. The probe focuses on whether any confidential information was shared and whether corporate governance standards were breached."
+   },
+   {
+    "type": "p",
+    "text": "Yale professor Jeffrey Sonnenfeld, who studies corporate leadership, said the odds of Huang remaining in his role are roughly a coin flip, estimating a 50-50 chance of his continuation as chief executive. Sonnenfeld's assessment reflects the seriousness with which board members are treating the allegations."
+   },
+   {
+    "type": "p",
+    "text": "The outcome of the investigation could have significant implications for Nvidia's leadership stability and its position in the highly competitive AI hardware market, where trust and security are paramount."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The probe could affect investor confidence in Nvidia and highlight broader concerns about foreign espionage in the tech sector."
+   }
+  ],
+  "key_points": [
+   "Nvidia's board is investigating CEO Jensen Huang over a link to a suspected Chinese spy.",
+   "Yale expert Jeffrey Sonnenfeld estimates a 50-50 chance that Huang will retain his CEO position."
+  ],
+  "meta_description": "Nvidia's board investigates CEO Jensen Huang's ties to a suspected Chinese spy, with Yale's Jeffrey Sonnenfeld saying his future is a 50-50 gamble.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "board investigation",
+   "Chinese espionage",
+   "corporate governance",
+   "Yale"
+  ],
+  "slug": "nvidia-board-probes-ceo-jensen-huang-ties-suspected-chinese-fdfdfd",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-09T06:04:24Z"
+ },
+ {
+  "id": "f03fc21c1881897f",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo",
+  "source": "BBC News",
+  "source_title": "Government's EV targets expected to be reduced this week",
+  "source_summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg",
+  "published": "2026-11-09T05:00:43+00:00",
+  "headline": "Government Likely to Lower EV Phase‑Out Targets This Week",
+  "body": [
+   {
+    "type": "p",
+    "text": "The government is expected to announce a reduction in its electric‑vehicle (EV) targets later this week, according to sources familiar with the matter. The current plan calls for the phase‑out of new petrol and diesel cars by 2030, with all newly registered vehicles required to be zero‑emission by 2035."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts say the proposed easing of these milestones could give car manufacturers more time to adapt to the rapid shift toward electrification, while also addressing concerns about the readiness of charging infrastructure and consumer affordability."
+   },
+   {
+    "type": "p",
+    "text": "Environmental groups have warned that any delay could hinder the country's progress toward its climate goals, emphasizing the importance of maintaining a clear timetable for the transition to zero‑emission transport."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift in EV targets affects global auto markets and climate strategies, influencing manufacturers and consumers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Government may reduce its EV phase‑out timetable this week.",
+   "Current targets: no new petrol/diesel cars after 2030; all new cars zero‑emission by 2035.",
+   "Stakeholders are divided over the impact on climate goals and industry readiness."
+  ],
+  "meta_description": "Government may lower EV phase‑out targets, delaying the 2030 petrol‑car ban and 2035 zero‑emission goal.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "electric vehicles",
+   "government policy",
+   "climate targets",
+   "automotive industry",
+   "emissions"
+  ],
+  "slug": "government-likely-lower-ev-phaseout-targets-this-week-f03fc2",
+  "reading_minutes": 1,
+  "added": "2026-11-09T06:04:15Z"
+ },
+ {
+  "id": "34283a418ea5faf5",
+  "source_url": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks",
+  "source_summary": "With Washington preparing negotiations with Moscow and Kyiv, European leaders fear Ukraine could face pressure to accept a bad deal. Iran tensions and the threat of renewed US strikes are also on the agenda.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79643897_6.jpg",
+  "published": "2026-11-09T04:18:00+00:00",
+  "headline": "G7 Ministers Meet as Europe Pushes for Bigger Role in Ukraine Peace Talks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Foreign ministers of the Group of Seven gathered to discuss the stalled peace process in Ukraine, with European leaders urging a larger European influence as Washington readies its own talks with Moscow and Kyiv. The ministers warned that without a stronger European voice, Kyiv could be pressured into accepting a settlement that falls short of its interests."
+   },
+   {
+    "type": "p",
+    "text": "The agenda also covered rising tensions with Iran, where the prospect of renewed U.S. strikes was debated alongside broader security concerns. European officials stressed the need for coordinated diplomatic efforts to manage both the Ukraine conflict and the escalating situation in the Middle East."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome could affect the stability of Europe’s security architecture and the future of U.S. involvement in both Eastern Europe and the Middle East."
+   }
+  ],
+  "key_points": [
+   "European ministers want a greater say in shaping any Ukraine peace deal.",
+   "The United States is preparing parallel negotiations with Moscow and Kyiv.",
+   "Iranian tensions and the risk of renewed U.S. strikes were also discussed."
+  ],
+  "meta_description": "G7 ministers discuss expanding Europe's role in Ukraine peace talks amid US negotiations and rising Iran tensions.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "G7",
+   "Ukraine peace talks",
+   "Europe",
+   "United States",
+   "Iran tensions"
+  ],
+  "slug": "g7-ministers-meet-europe-pushes-bigger-role-ukraine-peace-34283a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-09T06:04:28Z"
+ },
+ {
+  "id": "7e6b058b77055290",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+  "source": "The Guardian",
+  "source_title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+  "source_summary": "President makes unusual acknowledgement that one of the defining policies of his second administration had become a political liability Donald Trump has admitted that his deportation policy was “too tough” and has offered to strike an immigration deal with Democrats in a concession following the Republicans’ disastrous defeat in the midterm elections. In an interview on the CBS network’s 60 Minutes broadcast on Sunday, the president acknowledged that the aggressive crackdown had hurt him politically and said he was open to an arrangement to allow some undocumented immigrants to remain in the US.",
+  "source_tags": [
+   "Donald Trump",
+   "US politics",
+   "Republicans",
+   "Media",
+   "US news",
+   "ICE (US Immigration and Customs Enforcement)"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/d2da9c964ff03b1b8443aa38f9c263277095235f/342_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=b3ab287c8794ee40f7158799f6aa473d",
+  "published": "2026-11-09T03:59:31+00:00",
+  "headline": "Trump Calls His Deportation Policy “Too Tough” on 60 Minutes",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump told CBS’s 60 Minutes that the aggressive deportation strategy pursued by his administration was \"too tough,\" marking an unusual admission that the policy has become a political liability."
+   },
+   {
+    "type": "p",
+    "text": "He said the crackdown on undocumented immigrants hurt the Republican Party’s standing and indicated a willingness to negotiate an immigration deal with Democrats that would allow some undocumented residents to stay in the United States."
+   },
+   {
+    "type": "p",
+    "text": "The comments came after the GOP suffered a severe loss in the recent midterm elections, prompting the president to signal a shift in tone on immigration ahead of the upcoming election cycle."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The president’s shift could reshape the U.S. immigration debate and affect upcoming elections in both the United States and Europe, where immigration policy remains a contentious issue."
+   }
+  ],
+  "key_points": [
+   "Trump admits his administration’s hard‑line deportation policy was politically damaging.",
+   "He proposes an immigration agreement with Democrats to let certain undocumented immigrants remain.",
+   "The remarks follow a disastrous Republican performance in the midterm elections."
+  ],
+  "meta_description": "President Trump says his deportation policy was \"too tough\" and signals openness to an immigration deal with Democrats after GOP midterm losses.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "immigration",
+   "deportation policy",
+   "midterm elections",
+   "US politics"
+  ],
+  "slug": "trump-calls-his-deportation-policy-too-tough-60-minutes-7e6b05",
+  "reading_minutes": 1,
+  "added": "2026-11-09T06:04:31Z"
+ },
+ {
+  "id": "99fa79cf19e62827",
+  "source_url": "https://www.nytimes.com/2026/11/08/us/politics/trump-immigration-crackdown-republicans-midterms.html",
+  "source": "The New York Times",
+  "source_title": "Trump Says Immigration Crackdown May Have ‘Hurt’ Republicans in Midterms",
+  "source_summary": "The president was asked in a “60 Minutes” interview that aired on Sunday whether his deportation policies went too far. “I think it might be too tough,” he said.",
+  "source_tags": [
+   "Illegal Immigration",
+   "United States Politics and Government",
+   "Deportation",
+   "Midterm Elections (2026)",
+   "Appointments and Executive Changes",
+   "Republican Party",
+   "Immigration and Customs Enforcement (US)",
+   "Miller, Stephen (1985- )",
+   "Trump, Donald J",
+   "Wiles, Susie"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/08/us/08dc-trump-60Minutes/08dc-trump-60Minutes-mediumSquareAt3X.jpg",
+  "published": "2026-11-09T03:16:26+00:00",
+  "headline": "Trump Says Immigration Crackdown May Have Hurt GOP in Midterms",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a recent interview on CBS’s “60 Minutes,” President Donald Trump was asked whether his administration’s aggressive deportation policies had gone too far. He responded that the approach “might be too tough,” suggesting a possible miscalculation in the Republican strategy."
+   },
+   {
+    "type": "p",
+    "text": "Trump added that the hard‑line immigration stance could be harming the Republican Party’s chances in upcoming midterm elections. He implied that the policy’s political fallout might outweigh any perceived security benefits, though he did not detail specific electoral impacts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The president’s admission signals internal GOP concerns about immigration policy ahead of crucial midterm races, affecting both U.S. voters and international observers of American politics."
+   }
+  ],
+  "key_points": [
+   "Trump acknowledged his immigration crackdown might be overly harsh.",
+   "He warned the policy could damage Republican prospects in the midterms.",
+   "The comments were made during a televised “60 Minutes” interview."
+  ],
+  "meta_description": "President Trump says his tough immigration policies may have hurt Republicans ahead of the midterm elections, told \"60 Minutes\".",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "immigration",
+   "midterms",
+   "Republicans",
+   "60 Minutes"
+  ],
+  "slug": "trump-says-immigration-crackdown-may-have-hurt-gop-midterms-99fa79",
+  "reading_minutes": 1,
+  "added": "2026-11-09T06:04:39Z"
+ },
+ {
+  "id": "2bb28c52b26f224e",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o",
+  "source": "BBC News",
+  "source_title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+  "source_summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg",
+  "published": "2026-11-09T02:50:13+00:00",
+  "headline": "Cruise Ship Pianist Rescued After Nine Hours Adrift Off California",
+  "body": [
+   {
+    "type": "p",
+    "text": "A pianist from a cruise ship was rescued on Saturday after spending nine hours treading water in the Pacific Ocean. Two American fishermen reported seeing the musician about 20 miles (32 km) off the California coast and alerted authorities."
+   },
+   {
+    "type": "p",
+    "text": "Coast Guard units responded quickly, locating the man and bringing him aboard a rescue vessel. The pianist was reported to be in stable condition after the ordeal, though details about how he ended up in the water were not provided in the initial report."
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the vigilance of local mariners and the effectiveness of emergency response teams operating along the busy West Coast shipping lanes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rescue underscores the importance of maritime safety protocols for both commercial vessels and nearby fishermen in the busy Pacific corridor."
+   }
+  ],
+  "key_points": [
+   "Two US fishermen spotted a cruise ship pianist adrift 20 miles off California.",
+   "Coast Guard rescued the musician after nine hours in the Pacific Ocean.",
+   "The pianist was reported stable after the rescue."
+  ],
+  "meta_description": "A cruise ship pianist was rescued after nine hours adrift off California, spotted by two fishermen and saved by the Coast Guard.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cruise ship",
+   "rescue",
+   "Pacific Ocean",
+   "California",
+   "maritime safety"
+  ],
+  "slug": "cruise-ship-pianist-rescued-after-nine-hours-adrift-off-2bb28c",
+  "reading_minutes": 1,
+  "added": "2026-11-09T06:04:36Z"
+ },
+ {
+  "id": "f7d93440dd6eea10",
+  "source_url": "https://www.nytimes.com/2026/11/08/us/politics/biden-cancer-health-memoir.html",
+  "source": "The New York Times",
+  "source_title": "Biden Says Health to Limit Book Promotion as Cancer ‘Slows Me Down’",
+  "source_summary": "Former President Joseph R. Biden Jr. said his aggressive prostate cancer meant he “won’t be able to do as many conversations” to promote his forthcoming memoir as he had hoped.",
+  "source_tags": [
+   "Biden, Joseph R Jr",
+   "Prostate Cancer"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/08/multimedia/08pol-biden-health-gcfp/08pol-biden-health-gcfp-mediumSquareAt3X.jpg",
+  "published": "2026-11-09T02:14:35+00:00",
+  "headline": "Biden Says Prostate Cancer Will Limit Memoir Promotion Efforts",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former President Joseph R. Biden Jr. told reporters that his aggressive prostate cancer is slowing him down, meaning he will not be able to engage in as many conversations as he had hoped to promote his upcoming memoir."
+   },
+   {
+    "type": "p",
+    "text": "Biden explained that the illness restricts his stamina and capacity for extensive travel and public speaking, which are typical components of a book launch campaign. He emphasized that the health challenges are the primary reason for the reduced promotional schedule."
+   },
+   {
+    "type": "p",
+    "text": "Despite the limitation, the former president indicated that the memoir will still be released as planned, though readers can expect fewer personal appearances and media interviews from Biden himself."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The reduced promotion may affect the memoir's visibility and public discussion of the former president's legacy in the United States and abroad."
+   }
+  ],
+  "key_points": [
+   "Biden's aggressive prostate cancer limits his ability to promote his forthcoming memoir.",
+   "He expects to conduct fewer public conversations and appearances than originally planned."
+  ],
+  "meta_description": "Biden says aggressive prostate cancer will limit his ability to promote his upcoming memoir, reducing public appearances.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Biden",
+   "memoir",
+   "prostate cancer",
+   "book promotion",
+   "health",
+   "politics"
+  ],
+  "slug": "biden-says-prostate-cancer-will-limit-memoir-promotion-efforts-f7d934",
+  "reading_minutes": 1,
+  "added": "2026-11-09T06:04:51Z"
+ },
+ {
+  "id": "27ba2ac4c5ad7ca1",
+  "source_url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+  "source": "The Guardian",
+  "source_title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+  "source_summary": "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires. “The economy must be at the service of the people, rather than people being at the service of the economy,” he said on Sunday, shortly after landing in Argentina on the second leg of a Latin America tour.",
+  "source_tags": [
+   "Pope Leo XIV",
+   "Catholicism",
+   "Argentina",
+   "Americas",
+   "The papacy",
+   "Christianity",
+   "Javier Milei"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/cebae71e5fdd86b5579126f7d39addd8b86cf7f9/123_0_2842_2274/master/2842.jpg?width=700&quality=85&auto=format&fit=max&s=10ec074df5e4211e9bc79bc521c9f23c",
+  "published": "2026-11-09T02:11:25+00:00",
+  "headline": "Pope Leo Criticizes Milei’s Austerity, Urges Economy Serve People",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Sunday, Pope Leo XIV arrived in Buenos Aires for the second leg of a 12‑day tour of Latin America. In a brief address to a crowd that responded with enthusiastic applause, the pontiff took aim at Argentine President Javier Milei’s recent austerity program."
+   },
+   {
+    "type": "p",
+    "text": "The Pope warned that “the economy must be at the service of the people, rather than people being at the service of the economy,” stressing that growth should benefit all citizens. His remarks highlighted a moral dimension to economic policy, contrasting sharply with the hard‑line fiscal measures Milei has pursued since taking office."
+   },
+   {
+    "type": "p",
+    "text": "The speech underscored the Vatican’s broader concern about social equity in the region, and it came as Argentina continues to grapple with high inflation and debt challenges."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Argentina’s economic policies affect global markets and foreign investment, making the Pope’s critique relevant to investors and policymakers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Pope Leo XIV publicly rebuked President Javier Milei’s austerity measures during a visit to Buenos Aires.",
+   "He called for an economy that serves the people, not the other way around.",
+   "The remarks were met with loud applause, signaling strong public resonance."
+  ],
+  "meta_description": "Pope Leo XIV denounces Argentina's austerity, urging an economy that serves the people, during his Buenos Aires visit.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pope",
+   "Argentina",
+   "Milei",
+   "austerity",
+   "economy",
+   "Latin America"
+  ],
+  "slug": "pope-leo-criticizes-mileis-austerity-urges-economy-serve-people-27ba2a",
+  "reading_minutes": 1,
+  "added": "2026-11-09T06:04:48Z"
+ },
+ {
+  "id": "dc6ae14a5afd2e94",
+  "source_url": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Pope Leo urges Argentina's Milei to put people before the economy",
+  "source_summary": "Pope Leo XIV has urged Argentina to protect democracy and ensure economic growth benefits the poor, delivering a message to President Javier Milei over austerity, social welfare and political divisions.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79894825_6.jpg",
+  "published": "2026-11-09T01:35:00+00:00",
+  "headline": "Pope Leo Calls on Argentina's Milei to Prioritize People Over Economy",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a televised address, Pope Leo XIV appealed to Argentine President Javier Milei to place the welfare of citizens ahead of strict fiscal measures. The pontiff warned that austerity policies must not undermine the poor or erode democratic institutions."
+   },
+   {
+    "type": "p",
+    "text": "The Pope emphasized that economic growth should translate into tangible benefits for the most vulnerable, urging the government to protect social safety nets while pursuing reforms. He also called for dialogue to bridge the deep political divisions that have intensified under Milei’s administration."
+   },
+   {
+    "type": "p",
+    "text": "Pope Leo’s message aligns with broader concerns from international observers about the social impact of Argentina’s economic strategy. He urged the Argentine leadership to balance fiscal responsibility with a commitment to human dignity and democratic stability."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Argentina’s economic direction affects regional stability and trade ties that are important to the United States and European markets."
+   }
+  ],
+  "key_points": [
+   "Pope Leo XIV urged President Milei to prioritize social welfare over austerity.",
+   "He warned that economic policies must protect the poor and uphold democracy.",
+   "The Pope called for political dialogue to reduce Argentina’s growing divisions."
+  ],
+  "meta_description": "Pope Leo XIV urges Argentina's President Milei to put people before austerity, stressing democracy and social welfare.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Argentina",
+   "Pope Leo",
+   "Javier Milei",
+   "economy",
+   "democracy",
+   "social welfare"
+  ],
+  "slug": "pope-leo-calls-argentina-s-milei-prioritize-people-over-dc6ae1",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-09T06:04:57Z"
+ },
+ {
+  "id": "9a163dd578211e1d",
+  "source_url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
+  "source": "BBC News",
+  "source_title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+  "source_summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+  "published": "2026-11-09T00:50:06+00:00",
+  "headline": "Nvidia Starts Probe After CEO’s Affair With Suspected Chinese Spy",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia has opened an internal investigation after CEO Jensen Huang disclosed an affair with a woman described as a suspected Chinese intelligence operative. Huang publicly admitted to being \"unfaithful\" to his wife and said he will fully cooperate with the security review."
+   },
+   {
+    "type": "p",
+    "text": "The company said the probe will examine any potential breaches of corporate security and assess whether sensitive information may have been exposed. Nvidia did not provide details on the timeline of the alleged relationship or the identity of the individual involved."
+   },
+   {
+    "type": "p",
+    "text": "The investigation comes as U.S. and allied governments intensify scrutiny of Chinese espionage activities targeting high‑technology firms. Nvidia, a leading chipmaker, has not indicated how the inquiry might affect its operations or stock performance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights heightened concerns in the US and Europe over Chinese espionage targeting critical technology companies."
+   }
+  ],
+  "key_points": [
+   "Nvidia launches an internal security investigation following CEO Jensen Huang’s admission of an affair with a suspected Chinese spy.",
+   "Huang has pledged full cooperation with the probe, which will assess possible corporate security breaches."
+  ],
+  "meta_description": "Nvidia begins a security probe after CEO Jensen Huang admits affair with suspected Chinese spy, pledging full cooperation.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "espionage",
+   "corporate security",
+   "China",
+   "technology"
+  ],
+  "slug": "nvidia-starts-probe-after-ceos-affair-with-suspected-chinese-9a163d",
+  "reading_minutes": 1,
+  "added": "2026-11-09T06:04:20Z"
+ },
+ {
+  "id": "58435d411c44147d",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo",
+  "source": "BBC News",
+  "source_title": "Doing these things now will help you save money at Christmas",
+  "source_summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903c/live/8d645510-d9ef-11f1-bb10-cdca6001fbcf.jpg",
+  "published": "2026-11-09T00:09:14+00:00",
+  "headline": "Charities Offer Early Tips to Cut Christmas Spending",
+  "body": [
+   {
+    "type": "p",
+    "text": "Charities warn that small financial choices made now can significantly ease holiday budgets, and they have compiled a list of practical steps to help consumers prepare for the festive season. By starting to plan early, households can avoid the last‑minute price spikes that often accompany Christmas shopping."
+   },
+   {
+    "type": "p",
+    "text": "The advice includes reviewing regular expenses, setting a realistic gift budget, and comparing prices before purchasing. Simple actions such as switching off unused lights, using existing decorations, and opting for homemade gifts are also highlighted as ways to keep costs down without sacrificing holiday spirit."
+   },
+   {
+    "type": "p",
+    "text": "Implementing these measures ahead of December can reduce financial stress and leave more room for charitable giving during the season, according to the organisations offering the guidance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "With inflation affecting household budgets across the US and Europe, early financial planning can help families enjoy the holidays without overspending."
+   }
+  ],
+  "key_points": [
+   "Early budgeting and expense review can lower Christmas costs.",
+   "Comparing prices and reusing items help stretch holiday budgets.",
+   "Saving now allows more flexibility for festive spending and donations."
+  ],
+  "meta_description": "Charities share early budgeting tips to help you reduce Christmas expenses and avoid holiday financial stress.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Christmas budgeting",
+   "holiday spending",
+   "personal finance",
+   "charity advice",
+   "cost-saving tips"
+  ],
+  "slug": "charities-offer-early-tips-cut-christmas-spending-58435d",
+  "reading_minutes": 1,
+  "added": "2026-11-09T06:04:44Z"
+ },
+ {
   "id": "cceeafe8e76c963c",
   "source_url": "https://www.nytimes.com/2026/11/08/us/politics/trump-iran-options.html",
   "source": "The New York Times",
