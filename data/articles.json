@@ -1,5 +1,708 @@
 [
  {
+  "id": "e5490db3a1e2b907",
+  "source_url": "https://www.nytimes.com/2026/11/10/us/politics/voice-of-america-appeals-court.html",
+  "source": "The New York Times",
+  "source_title": "Firing of Voice of America Chief Was Illegal, Appeals Court Rules",
+  "source_summary": "The unanimous ruling upheld a lower-court decision and was the latest setback to the Trump administration, which has sought to shutter the independent news group.",
+  "source_tags": [
+   "Decisions and Verdicts",
+   "United States Politics and Government",
+   "Appointments and Executive Changes",
+   "Freedom of the Press",
+   "News and News Media",
+   "Appeals Courts (US)",
+   "Merit Systems Protection Board (US)",
+   "United States Agency for Global Media",
+   "Voice of America",
+   "Pillard, Cornelia T L"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-voa-zpvt/10dc-voa-zpvt-mediumSquareAt3X.jpg",
+  "published": "2026-11-10T21:47:25+00:00",
+  "headline": "Appeals Court Declares Firing of VOA Chief Illegal, Upholds Lower Court",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal appeals court issued a unanimous decision that the dismissal of the Voice of America (VOA) chief violated the law. The ruling affirmed a prior district‑court judgment that the termination was unlawful."
+   },
+   {
+    "type": "p",
+    "text": "The decision marks another setback for the Trump administration, which has pursued efforts to close the independent news outlet. Legal experts note that the court’s finding reinforces protections for journalists employed by government‑funded media."
+   },
+   {
+    "type": "p",
+    "text": "VOA, a U.S. government‑funded broadcaster, continues to operate under the oversight of the Broadcasting Board of Governors, and the ruling ensures its leadership can remain in place pending further legal proceedings."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights the tension between political attempts to control public broadcasting and judicial protection of press independence, a concern for both U.S. and European audiences."
+   }
+  ],
+  "key_points": [
+   "The appeals court unanimously ruled the VOA chief’s firing illegal.",
+   "The decision upholds a lower‑court ruling and challenges the Trump administration’s plan to shut down the broadcaster.",
+   "The ruling reinforces legal safeguards for independent government‑funded media."
+  ],
+  "meta_description": "Federal appeals court unanimously rules the firing of Voice of America chief illegal, upholding lower‑court decision and challenging Trump admin's…",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Voice of America",
+   "appeals court",
+   "press freedom",
+   "Trump administration",
+   "media law"
+  ],
+  "slug": "appeals-court-declares-firing-voa-chief-illegal-upholds-lower-e5490d",
+  "reading_minutes": 1,
+  "added": "2026-11-10T21:55:39Z"
+ },
+ {
+  "id": "0e124bc9c13362ba",
+  "source_url": "https://www.npr.org/2026/11/10/nx-s1-6035872/house-gop-report-critical-of-epstein-investigation",
+  "source": "NPR",
+  "source_title": "House GOP report critical of Epstein investigation",
+  "source_summary": "The House Oversight Committee has released a report into its investigation into sex-offender, Jeffrey Epstein. They faulted the federal government for not holding the financier accountable.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-11-10T21:43:31+00:00",
+  "headline": "House GOP Report Criticizes Federal Handling of Epstein Probe",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Republican-led House Oversight Committee released a report evaluating its own investigation into the late financier Jeffrey Epstein, a convicted sex offender. The document highlights shortcomings in the federal government's response to the case, asserting that authorities failed to hold Epstein accountable for his alleged crimes."
+   },
+   {
+    "type": "p",
+    "text": "Committee members argue that the investigation revealed gaps in coordination among federal agencies and a lack of decisive action. The report calls for stronger oversight mechanisms to ensure that high‑profile financial figures are subject to thorough legal scrutiny."
+   },
+   {
+    "type": "p",
+    "text": "While the report focuses on procedural failures, it does not detail specific legal outcomes or propose immediate legislative changes. The findings are expected to fuel further debate over federal accountability and the oversight of complex financial investigations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The report underscores concerns about federal oversight of powerful individuals, a topic of interest for both U.S. and European audiences monitoring accountability in financial crimes."
+   }
+  ],
+  "key_points": [
+   "The House Oversight Committee's report faults the federal government for not holding Jeffrey Epstein accountable.",
+   "The document cites gaps in inter‑agency coordination and calls for stronger oversight of high‑profile investigations."
+  ],
+  "meta_description": "House GOP report blames federal agencies for failing to hold Jeffrey Epstein accountable, calling for stronger oversight.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jeffrey Epstein",
+   "House Oversight Committee",
+   "federal accountability",
+   "investigation",
+   "political oversight"
+  ],
+  "slug": "house-gop-report-criticizes-federal-handling-epstein-probe-0e124b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-10T21:56:09Z"
+ },
+ {
+  "id": "cf8e950269ef3a02",
+  "source_url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+  "source": "The Verge",
+  "source_title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+  "source_summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their […]",
+  "source_tags": [
+   "Business",
+   "Fitness",
+   "Gadgets",
+   "Health",
+   "News",
+   "Science",
+   "Tech",
+   "Wearable"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-10T21:40:31+00:00",
+  "headline": "Oura to Acquire AI‑Driven Primary Care Startup Counsel Health for $625 Million",
+  "body": [
+   {
+    "type": "p",
+    "text": "Wearable‑tech company Oura disclosed its quarterly earnings and announced a deal to purchase AI health‑chatbot startup Counsel Health for $625 million. The acquisition follows Oura’s integration of Counsel Health’s chatbot into its own app earlier this year."
+   },
+   {
+    "type": "p",
+    "text": "Counsel Health describes itself as an “AI‑native primary care company,” delivering AI‑generated responses and health insights based on data users enter into the platform. By adding the chatbot, Oura aims to expand its health‑monitoring capabilities beyond sleep and activity tracking."
+   },
+   {
+    "type": "p",
+    "text": "The purchase reflects Oura’s broader strategy to deepen its role in digital health, positioning the Finnish‑based firm to offer more comprehensive, data‑driven care services to its global user base."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move could accelerate the convergence of wearable devices and AI‑driven primary care, influencing how consumers in the US and Europe manage health data."
+   }
+  ],
+  "key_points": [
+   "Oura agreed to buy Counsel Health for $625 million, adding an AI chatbot to its platform.",
+   "Counsel Health provides AI‑generated primary‑care insights using user‑reported health data.",
+   "The deal signals Oura’s push to broaden its digital‑health offerings beyond wearables."
+  ],
+  "meta_description": "Oura will acquire AI health‑chatbot startup Counsel Health for $625 million, expanding its digital‑health services.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Oura",
+   "Counsel Health",
+   "AI health",
+   "acquisition",
+   "wearable technology",
+   "digital health"
+  ],
+  "slug": "oura-acquire-aidriven-primary-care-startup-counsel-health-625-cf8e95",
+  "reading_minutes": 1,
+  "added": "2026-11-10T21:55:43Z"
+ },
+ {
+  "id": "dff338b1db31b0a9",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+  "source": "The Guardian",
+  "source_title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
+  "source_summary": "Jordan, the hardline conservative from Ohio, beat fellow congressman Steve Scalise by a vote of 106-73; Thune won re-election without a challenger Republicans elect Jim Jordan as House minority leader after party’s midterm defeats Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.”",
+  "source_tags": [
+   "Trump administration",
+   "Donald Trump",
+   "US-Israel war on Iran",
+   "Iran",
+   "Pete Hegseth",
+   "US news",
+   "US politics",
+   "World news",
+   "Republicans",
+   "Democrats"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/48fcdf967a95b370b2dedeef85b65ca4a811b5a5/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=cd52fc9117e1f0ee5008a69a3a45e3fe",
+  "published": "2026-11-10T21:34:13+00:00",
+  "headline": "Jim Jordan Elected House Republican Leader, John Thune Retains Senate Role",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republicans in the U.S. House chose hard‑line Ohio congressman Jim Jordan as their minority leader for the next Congress, defeating fellow GOP member Steve Scalise by a vote of 106 to 73. Jordan's victory follows the party's losses in the recent midterm elections."
+   },
+   {
+    "type": "p",
+    "text": "In the Senate, South Dakota's John Thune was re‑elected as the Republican minority leader without facing any challenger, securing his position for the upcoming session. Both leadership selections signal the GOP's direction as it prepares for the next legislative cycle."
+   },
+   {
+    "type": "p",
+    "text": "During a related press briefing, a spokesperson defended recent military actions, stating that operations against Iran, drug cartels, and other targets were lawful and ordered by the commander‑in‑chief. The remarks underscored the party's stance on national security issues."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The new House leadership and continued Senate leadership shape GOP strategy ahead of the 2028 elections and influence U.S. policy on security and legislative priorities."
+   }
+  ],
+  "key_points": [
+   "Jim Jordan won the House Republican leadership vote, beating Steve Scalise 106‑73.",
+   "John Thune was re‑elected unopposed as Senate minority leader.",
+   "Republican leaders emphasized the legality of recent military operations."
+  ],
+  "meta_description": "Jim Jordan becomes House Republican leader and John Thune retains Senate minority leader role after GOP internal votes.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jim Jordan",
+   "John Thune",
+   "House leadership",
+   "Senate minority leader",
+   "Republican Party"
+  ],
+  "slug": "jim-jordan-elected-house-republican-leader-john-thune-retains-dff338",
+  "reading_minutes": 1,
+  "added": "2026-11-10T21:56:23Z"
+ },
+ {
+  "id": "e644a999946641f3",
+  "source_url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
+  "source": "The New York Times",
+  "source_title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
+  "source_summary": "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I. and U.S. military intelligence.",
+  "source_tags": [
+   "Gloucester (England)",
+   "Patel, Kashyap",
+   "Federal Bureau of Investigation",
+   "Scotland Yard (Metropolitan Police Service)",
+   "United States Army",
+   "United States Defense and Military Forces",
+   "Espionage and Intelligence Services",
+   "Defense and Military Forces",
+   "Military Bases and Installations",
+   "International Relations"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-uk-soldier-1-qlpj/10int-uk-soldier-1-qlpj-mediumSquareAt3X.jpg",
+  "published": "2026-11-10T21:26:19+00:00",
+  "headline": "US Soldier Arrested in UK on Suspicion of Spying for Russia",
+  "body": [
+   {
+    "type": "p",
+    "text": "A 41-year-old American soldier, whose name has not been released, was taken into custody in the United Kingdom on suspicion of providing intelligence to Russia. The arrest follows a joint investigation conducted by the Federal Bureau of Investigation and U.S. military intelligence agencies."
+   },
+   {
+    "type": "p",
+    "text": "British authorities confirmed the suspect is being held pending possible charges, though no formal indictment has been filed at this stage. Details about the alleged espionage activities, including any specific information that may have been transmitted, were not disclosed in the statement."
+   },
+   {
+    "type": "p",
+    "text": "The case highlights ongoing cooperation between U.S. and British law‑enforcement bodies in addressing foreign intelligence threats. Officials have not indicated whether other individuals are under investigation as part of the same probe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The arrest demonstrates the close partnership between U.S. and British agencies in confronting Russian intelligence operations that could affect both nations."
+   }
+  ],
+  "key_points": [
+   "A U.S. soldier was arrested in the UK on suspicion of spying for Russia after a joint FBI and military intelligence investigation.",
+   "The suspect remains in custody pending possible charges, with no formal indictment announced yet.",
+   "The incident underscores continued U.S.–UK collaboration on counter‑espionage efforts."
+  ],
+  "meta_description": "A 41‑year‑old U.S. soldier was arrested in the UK on suspicion of spying for Russia after a joint FBI and military intelligence probe.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "spy",
+   "Russia",
+   "US military",
+   "UK",
+   "FBI",
+   "intelligence"
+  ],
+  "slug": "us-soldier-arrested-uk-suspicion-spying-russia-e644a9",
+  "reading_minutes": 1,
+  "added": "2026-11-10T21:55:48Z"
+ },
+ {
+  "id": "4d00bca1032131c2",
+  "source_url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro",
+  "source": "BBC News",
+  "source_title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+  "source_summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg",
+  "published": "2026-11-10T21:23:00+00:00",
+  "headline": "Thomas Markle Detained in Florida After Alleged Ankle Monitor Tampering",
+  "body": [
+   {
+    "type": "p",
+    "text": "Thomas Markle, the 82‑year‑old father of Meghan, Duchess of Sussex, was taken into house detention in Florida after officials said he cut off his ankle monitor. The alleged tampering occurred shortly after he was placed under electronic monitoring last week."
+   },
+   {
+    "type": "p",
+    "text": "Markle had been charged earlier this month with possession of child sexual abuse material, a serious offense that prompted the court to impose the monitoring requirement. Law enforcement officials said the removal of the device violated the terms of his detention and led to his re‑arrest."
+   },
+   {
+    "type": "p",
+    "text": "Florida authorities confirmed the detention but did not provide further details about the investigation or any upcoming court dates. The case adds to a series of legal challenges facing members of the extended royal family in the United States."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores how U.S. authorities handle high‑profile defendants and enforce electronic monitoring, a practice of interest to both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "Thomas Markle was detained in Florida after allegedly removing his ankle monitor.",
+   "He faces charges for possession of child sexual abuse material.",
+   "The incident highlights strict enforcement of monitoring conditions in U.S. courts."
+  ],
+  "meta_description": "Thomas Markle, Meghan's father, was detained in Florida after allegedly cutting off his ankle monitor amid child abuse material charges.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Thomas Markle",
+   "Meghan Markle",
+   "Florida detention",
+   "legal case",
+   "electronic monitoring"
+  ],
+  "slug": "thomas-markle-detained-florida-after-alleged-ankle-monitor-tampering-4d00bc",
+  "reading_minutes": 1,
+  "added": "2026-11-10T21:56:11Z"
+ },
+ {
+  "id": "d5d552974a848276",
+  "source_url": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+  "source": "CNBC",
+  "source_title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+  "source_summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108526734-1793896719005-gettyimages-1189238640-img_3612_woodbury78_11172019.jpeg?v=1793896736&w=1920&h=1080",
+  "published": "2026-11-10T21:22:44+00:00",
+  "headline": "Fossil CEO Reports Profit Return and Sales Growth Ahead of Plan",
+  "body": [
+   {
+    "type": "p",
+    "text": "Fossil Group Inc., the watchmaker known for its fashion‑forward timepieces, announced on Tuesday that its turnaround strategy is beginning to deliver results. The company said it is moving back into profitability after a period of losses, marking the first clear sign of financial recovery."
+   },
+   {
+    "type": "p",
+    "text": "In addition to returning to profit, Fossil reported that its sales have shifted back to growth. The CEO highlighted that the improvement is occurring faster than the internal targets set for the restructuring plan, suggesting that recent initiatives are resonating with consumers."
+   },
+   {
+    "type": "p",
+    "text": "The statements underscore a broader effort by the brand to revitalize its product lineup and streamline operations. While specific figures were not disclosed, the company’s leadership expressed confidence that the momentum will continue as the turnaround plan progresses."
+   }
+  ],
+  "key_points": [
+   "Fossil says it is back in profit as part of its turnaround effort.",
+   "Sales have returned to growth, outpacing the company’s internal timeline.",
+   "The CEO described the progress as ahead of the planned schedule."
+  ],
+  "meta_description": "Fossil reports a return to profit and sales growth, saying its turnaround is ahead of schedule.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Fossil",
+   "turnaround",
+   "profit",
+   "sales growth",
+   "watchmaker"
+  ],
+  "slug": "fossil-ceo-reports-profit-return-sales-growth-ahead-plan-d5d552",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-10T21:55:52Z"
+ },
+ {
+  "id": "1ef4277bb0b5e2f7",
+  "source_url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+  "source": "The New York Times",
+  "source_title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+  "source_summary": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.",
+  "source_tags": [
+   "International Relations",
+   "Industrial Espionage",
+   "Computer Chips",
+   "Artificial Intelligence",
+   "Computers and the Internet",
+   "Politics and Government",
+   "Alibaba Group Holding Ltd",
+   "Megaspeed International Pte Ltd",
+   "NVIDIA Corporation",
+   "Huang Le"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-mediumSquareAt3X.jpg",
+  "published": "2026-11-10T21:12:38+00:00",
+  "headline": "Chinese Asset Alice Huang Linked to Nvidia AI Chip Spy Case",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. intelligence officials have identified Alice Huang as a Chinese asset involved in a high‑profile espionage investigation surrounding Nvidia. Huang, who began her career in Shanghai’s finance sector, later moved into the technology arena, where she cultivated relationships with leading tech companies."
+   },
+   {
+    "type": "p",
+    "text": "According to the investigation, Huang leveraged her connections with tech titans to acquire critical artificial‑intelligence chips, a move that raised concerns about the transfer of sensitive technology to foreign interests. Her activities placed her at the center of a broader scrutiny of how Chinese intelligence may seek to obtain advanced semiconductor components."
+   },
+   {
+    "type": "p",
+    "text": "The case highlights the intersection of global finance, technology, and national security, illustrating how individuals with cross‑border experience can become conduits for intelligence operations. U.S. authorities continue to monitor similar pathways that could compromise the integrity of the semiconductor supply chain."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case underscores U.S. and European concerns about foreign espionage targeting critical AI hardware, which could affect national security and tech competitiveness."
+   }
+  ],
+  "key_points": [
+   "U.S. intelligence labels Alice Huang a Chinese asset tied to a Nvidia AI chip espionage probe.",
+   "Huang moved from Shanghai finance to tech circles, using those links to obtain advanced AI chips.",
+   "The investigation underscores risks of technology transfer amid geopolitical tensions."
+  ],
+  "meta_description": "U.S. intelligence says Alice Huang, a former Shanghai financier, acted as a Chinese asset to obtain Nvidia AI chips, raising security concerns.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "China",
+   "espionage",
+   "Nvidia",
+   "AI chips",
+   "finance",
+   "technology"
+  ],
+  "slug": "chinese-asset-alice-huang-linked-nvidia-ai-chip-spy-1ef427",
+  "reading_minutes": 1,
+  "added": "2026-11-10T21:56:15Z"
+ },
+ {
+  "id": "ea82244c1a291201",
+  "source_url": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
+  "source": "The New York Times",
+  "source_title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
+  "source_summary": "The automaker plans to sell Americans “Kei” pickup trucks, which are very popular in Japan and with U.S. auto enthusiasts. Even President Trump is a fan.",
+  "source_tags": [
+   "Automobiles",
+   "United States Politics and Government",
+   "Sports Utility Vehicles and Light Trucks",
+   "Toyota Motor Corp",
+   "Trump, Donald J",
+   "Japan",
+   "United States",
+   "Electric and Hybrid Vehicles",
+   "Small Cars (Compact, Subcompact and Microcars)",
+   "Prices (Fares, Fees and Rates)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-toyota-kei-truck-01-gpvw/10biz-toyota-kei-truck-01-gpvw-mediumSquareAt3X.jpg",
+  "published": "2026-11-10T21:11:36+00:00",
+  "headline": "Toyota Announces U.S. Sale of Japanese‑Style Kei Pickup Trucks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Toyota disclosed plans to introduce its Japanese‑market \"Kei\" pickup trucks to American consumers. The compact, lightweight trucks have a strong following in Japan and among U.S. automotive enthusiasts who appreciate their small size and utility."
+   },
+   {
+    "type": "p",
+    "text": "The automaker highlighted the model’s popularity in its home market and noted that it has attracted interest from notable figures, including former President Donald Trump, who has expressed admiration for the vehicle."
+   },
+   {
+    "type": "p",
+    "text": "Toyota expects the new offering to expand its product lineup in the United States, targeting buyers looking for a smaller alternative to traditional full‑size pickups."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The launch expands Toyota's U.S. portfolio with a niche vehicle, reflecting growing interest in compact utility trucks among American consumers."
+   }
+  ],
+  "key_points": [
+   "Toyota will bring its Japanese‑origin Kei pickup trucks to the U.S. market.",
+   "The compact trucks are already popular in Japan and among U.S. auto fans.",
+   "Former President Donald Trump has publicly praised the Kei pickup."
+  ],
+  "meta_description": "Toyota plans to sell its popular Japanese Kei pickup trucks in the United States, drawing interest from auto enthusiasts and former President Trump.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Toyota",
+   "Kei trucks",
+   "automotive market",
+   "U.S. auto industry",
+   "vehicle launch"
+  ],
+  "slug": "toyota-announces-u-s-sale-japanesestyle-kei-pickup-trucks-ea8224",
+  "reading_minutes": 1,
+  "added": "2026-11-10T21:56:30Z"
+ },
+ {
+  "id": "455871c5df8d981c",
+  "source_url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
+  "source": "The New York Times",
+  "source_title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
+  "source_summary": "For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said.",
+  "source_tags": [
+   "Russian Invasion of Ukraine (2022)",
+   "Newspapers",
+   "Political Prisoners",
+   "Censorship",
+   "Freedom of the Press",
+   "Human Rights and Human Rights Violations"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/10/world/europe/10vid-russia-newspaper-cover-image/10vid-russia-newspaper-cover-image-mediumSquareAt3X.jpg",
+  "published": "2026-11-10T20:53:41+00:00",
+  "headline": "Novaya Gazeta, Russia’s Leading Independent Newspaper, Shuts Down",
+  "body": [
+   {
+    "type": "p",
+    "text": "Novaya Gazeta, the Russian newspaper known for its investigative reporting, announced its closure after more than three decades of operation. The outlet has long been recognized for covering the country’s growing authoritarianism, often publishing stories that other media avoided."
+   },
+   {
+    "type": "p",
+    "text": "A journalist from the paper said the effort to silence the publication began years ago, reflecting a broader crackdown on dissenting voices in Russia. The shutdown marks the end of one of the few remaining platforms that consistently challenged official narratives."
+   },
+   {
+    "type": "p",
+    "text": "The closure underscores the tightening media environment in Russia, where independent outlets face legal pressure, financial strain, and threats to staff safety."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The loss of Novaya Gazeta reduces the flow of independent information from Russia, affecting global understanding of the country’s political climate."
+   }
+  ],
+  "key_points": [
+   "Novaya Gazeta, a prominent independent Russian newspaper, has ceased operations after over 30 years.",
+   "The paper’s journalists say a systematic effort to silence them began many years ago.",
+   "Its shutdown highlights the increasing repression of independent media in Russia."
+  ],
+  "meta_description": "Novaya Gazeta, Russia's independent newspaper, closes after 30 years amid growing repression of media.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Russia",
+   "media",
+   "press freedom",
+   "journalism",
+   "censorship",
+   "Novaya Gazeta"
+  ],
+  "slug": "novaya-gazeta-russias-leading-independent-newspaper-shuts-down-455871",
+  "reading_minutes": 1,
+  "added": "2026-11-10T21:56:27Z"
+ },
+ {
+  "id": "e92d6514393458c9",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko",
+  "source": "BBC Sport",
+  "source_title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+  "source_summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2726/live/abc28950-dd19-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-10T18:12:02+00:00",
+  "headline": "Manchester United Leaders Convene in Monaco Over Carrick's Future",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United's senior executives gathered in Monaco on Wednesday to discuss the club's coaching direction. The meeting focused on whether Michael Carrick will continue as head coach following his recent appointment."
+   },
+   {
+    "type": "p",
+    "text": "Club officials described the session as a critical review of performance and strategic alignment. Carrick, a former player and long‑time assistant, has been under scrutiny as the team seeks consistent results in domestic and European competitions."
+   },
+   {
+    "type": "p",
+    "text": "The outcome of the Monaco summit will determine the next steps for United's managerial hierarchy and could shape the club's approach to transfers, training methods, and fan engagement going forward."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Manchester United's coaching stability affects its global brand and commercial partnerships, which are closely followed by fans and investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Manchester United's top brass met in Monaco to decide Michael Carrick's future as head coach.",
+   "The decision will influence the club's strategic direction in upcoming seasons."
+  ],
+  "meta_description": "Manchester United executives met in Monaco to decide if Michael Carrick stays as head coach, a move that could shape the club's future.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "coaching",
+   "Monaco summit",
+   "football management"
+  ],
+  "slug": "manchester-united-leaders-convene-monaco-over-carrick-s-future-e92d65",
+  "reading_minutes": 1,
+  "added": "2026-11-10T21:55:56Z"
+ },
+ {
+  "id": "bd8e17e369805f18",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo",
+  "source": "BBC Sport",
+  "source_title": "McTominay reveals heart treatment at World Cup",
+  "source_summary": "Scott McTominay reveals he received treatment on his heart two days before Scotland's World Cup win over Haiti in June.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eae/live/09084700-dd22-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-10T16:46:31+00:00",
+  "headline": "Scotland Midfielder McTominay Reveals Heart Treatment Before Haiti Win",
+  "body": [
+   {
+    "type": "p",
+    "text": "Scotland international Scott McTominay disclosed that he underwent a medical procedure on his heart just two days before the national team secured a World Cup victory over Haiti in June. The midfielder said the treatment was completed without affecting his ability to train or play in the tournament."
+   },
+   {
+    "type": "p",
+    "text": "McTominay’s revelation comes as the squad celebrated their progress in the competition, highlighting the personal health challenges athletes can face even amid high‑profile events. He did not provide further medical details, but confirmed that doctors cleared him to continue participating in Scotland’s World Cup campaign."
+   },
+   {
+    "type": "p",
+    "text": "The Scottish Football Association has not commented on the specifics of the treatment, but the player’s openness adds a human dimension to the team’s on‑field achievements."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The story illustrates how elite athletes balance serious health concerns with competition, a topic of interest for fans and health professionals in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Scott McTominay received heart treatment two days before Scotland’s World Cup win over Haiti.",
+   "The procedure did not prevent him from playing in the tournament.",
+   "His disclosure underscores health issues athletes may manage behind the scenes."
+  ],
+  "meta_description": "Scotland midfielder Scott McTominay reveals he had heart treatment shortly before the team's World Cup win over Haiti.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Scotland",
+   "World Cup",
+   "heart health",
+   "McTominay",
+   "football"
+  ],
+  "slug": "scotland-midfielder-mctominay-reveals-heart-treatment-before-haiti-win-bd8e17",
+  "reading_minutes": 1,
+  "added": "2026-11-10T21:56:19Z"
+ },
+ {
   "id": "3e50515c6d1fc8cc",
   "source_url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
   "source": "The Verge",
