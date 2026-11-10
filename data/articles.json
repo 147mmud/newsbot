@@ -1,5 +1,676 @@
 [
  {
+  "id": "ea1ae81d170544b4",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+  "source": "BBC News",
+  "source_title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+  "source_summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-09T23:59:50+00:00",
+  "headline": "Trump Claims FBI Probing Nvidia CEO Over Alleged Spy Affair",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump said on Monday that he had spoken with Nvidia chief executive Jensen Huang about an alleged affair involving the CEO and a suspected Chinese spy. Trump asserted that the Federal Bureau of Investigation was looking into the matter."
+   },
+   {
+    "type": "p",
+    "text": "According to the president, his conversation with Huang included direct questions about the purported relationship and the ongoing investigation. The claim was made during a public statement, though no official FBI comment was provided."
+   },
+   {
+    "type": "p",
+    "text": "The allegation ties a high‑profile technology leader to potential espionage concerns, prompting renewed attention on corporate security and U.S.‑China relations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The claim links a leading U.S. tech company to espionage concerns, underscoring political scrutiny of the semiconductor sector amid U.S.-China tensions."
+   }
+  ],
+  "key_points": [
+   "President Trump said he asked Nvidia CEO Jensen Huang about an alleged affair with a suspected Chinese spy.",
+   "Trump claimed the FBI is investigating the matter.",
+   "No official response from the FBI or Nvidia was included in the statement."
+  ],
+  "meta_description": "President Trump says he asked Nvidia CEO Jensen Huang about an alleged affair with a suspected Chinese spy, claiming the FBI is investigating.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "FBI",
+   "Nvidia",
+   "Jensen Huang",
+   "China",
+   "espionage"
+  ],
+  "slug": "trump-claims-fbi-probing-nvidia-ceo-over-alleged-spy-ea1ae8",
+  "reading_minutes": 1,
+  "added": "2026-11-10T00:09:39Z"
+ },
+ {
+  "id": "87a53ccd41529c03",
+  "source_url": "https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Nvidia shareholders sue Jensen Huang over alleged spy ties",
+  "source_summary": "Nvidia shareholders have sued the chipmaker and its CEO, Jensen Huang, over his alleged ties to a suspected Chinese spy. The case adds to scrutiny over whether sensitive information at the AI giant was compromised.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79905607_6.jpg",
+  "published": "2026-11-09T23:55:00+00:00",
+  "headline": "Nvidia Shareholders Sue CEO Jensen Huang Over Alleged Spy Ties",
+  "body": [
+   {
+    "type": "p",
+    "text": "A group of Nvidia shareholders has filed a lawsuit against the chipmaker and its chief executive, Jensen Huang, alleging that he maintained connections with a person suspected of spying for China. The complaint claims the relationship could have exposed sensitive information about Nvidia’s artificial‑intelligence technologies."
+   },
+   {
+    "type": "p",
+    "text": "The shareholders say the alleged ties raise serious concerns about the protection of proprietary data and the potential for foreign influence within a leading AI hardware supplier. The filing adds to a growing wave of scrutiny over how the company safeguards its intellectual property and national‑security‑related research."
+   },
+   {
+    "type": "p",
+    "text": "Nvidia has not responded publicly to the allegations, and the case is expected to proceed through the courts. Legal experts note that the outcome could set precedents for how tech firms address shareholder concerns about espionage risks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The suit underscores heightened US and European concerns about safeguarding AI technology from foreign espionage and the accountability of corporate leadership."
+   }
+  ],
+  "key_points": [
+   "Nvidia shareholders sued the company and CEO Jensen Huang over alleged connections to a suspected Chinese spy.",
+   "The lawsuit claims the relationship may have compromised sensitive AI technology information.",
+   "The case heightens scrutiny of data security practices at major AI hardware firms."
+  ],
+  "meta_description": "Nvidia shareholders sue CEO Jensen Huang, alleging ties to a suspected Chinese spy and potential compromise of AI data.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "shareholder lawsuit",
+   "espionage",
+   "AI security",
+   "tech industry"
+  ],
+  "slug": "nvidia-shareholders-sue-ceo-jensen-huang-over-alleged-spy-87a53c",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-10T00:09:51Z"
+ },
+ {
+  "id": "285987eab7312733",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+  "source": "The Verge",
+  "source_title": "What could China get from Jensen Huang?",
+  "source_summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
+  "source_tags": [
+   "AI",
+   "Chips",
+   "Gadgets",
+   "Nvidia",
+   "Policy",
+   "Report",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-09T23:51:58+00:00",
+  "headline": "Nvidia’s AI Dominance Poses Strategic Options for China",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia’s graphics processing units have become the foundational hardware for the United States’ most advanced artificial‑intelligence systems. The company’s chips are consistently in short supply, with demand outstripping production capacity for several years running."
+   },
+   {
+    "type": "p",
+    "text": "Beyond hardware, Nvidia has taken an active role as an investor, channeling capital into a broad portfolio of emerging AI firms. This investment strategy has helped shape the next generation of AI applications and startups, reinforcing Nvidia’s influence across the sector."
+   },
+   {
+    "type": "p",
+    "text": "The combination of unrivaled chip technology and strategic financial backing positions Nvidia as a pivotal player in the global AI ecosystem, a status that draws attention from governments and businesses worldwide, including China, which is closely watching how the company’s resources might be leveraged."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European AI industries depend heavily on Nvidia’s technology, making supply constraints and investment trends a strategic concern for policymakers and tech firms."
+   }
+  ],
+  "key_points": [
+   "Nvidia’s GPUs are the core hardware for cutting‑edge AI development in the United States.",
+   "Demand for Nvidia chips has consistently exceeded supply in recent years.",
+   "The company is also a major investor in a wide range of emerging AI startups."
+  ],
+  "meta_description": "Nvidia's AI chips and investments shape the global tech landscape, prompting strategic interest from China.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "AI",
+   "chips",
+   "investment",
+   "China",
+   "technology"
+  ],
+  "slug": "nvidias-ai-dominance-poses-strategic-options-china-285987",
+  "reading_minutes": 1,
+  "added": "2026-11-10T00:09:59Z"
+ },
+ {
+  "id": "c1a334362f66dca5",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cr20w0q8lgy1o",
+  "source": "BBC Sport",
+  "source_title": "Sabalenka wins WTA Finals opener despite wayward serve",
+  "source_summary": "Aryna Sabalenka grapples with a misfiring serve as she begins her WTA Finals campaign with a tight victory over Karolina Muchova.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d951/live/c238f920-dc89-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-09T23:51:09+00:00",
+  "headline": "Sabalenka Edges Muchova in WTA Finals Opener Amid Serve Woes",
+  "body": [
+   {
+    "type": "p",
+    "text": "Aryna Sabalenka opened her WTA Finals campaign with a narrow win over Karolina Muchova, despite a misfiring serve that gave her opponent several chances. Sabalenka managed to hold serve at crucial moments and capitalised on a few decisive breaks to clinch the match."
+   },
+   {
+    "type": "p",
+    "text": "The Belarusian’s serve struggled throughout the encounter, prompting her to rely more on aggressive baseline play. Muchova pushed the contest with solid returns, but Sabalenka’s experience in high‑pressure matches helped her edge out the Czech in the final set, securing the first victory of the season‑ending tournament."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The WTA Finals gathers the season's top eight players, and early wins can shape the race for the year‑end rankings."
+   }
+  ],
+  "key_points": [
+   "Sabalenka defeated Muchova to claim the WTA Finals opener.",
+   "Her serve was inconsistent, forcing her to lean on groundstrokes.",
+   "The win puts Sabalenka in a strong position for the remainder of the Finals."
+  ],
+  "meta_description": "Aryna Sabalenka beats Karolina Muchova in the WTA Finals opener despite a shaky serve, staying on track for the season‑ending title.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tennis",
+   "WTA Finals",
+   "Aryna Sabalenka",
+   "Karolina Muchova",
+   "women's tennis"
+  ],
+  "slug": "sabalenka-edges-muchova-wta-finals-opener-amid-serve-woes-c1a334",
+  "reading_minutes": 1,
+  "added": "2026-11-10T00:09:43Z"
+ },
+ {
+  "id": "27ce09cfc5348cd3",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
+  "source": "The Guardian",
+  "source_title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+  "source_summary": "Ruling said law enacted by Congress reflects preference for border control over environmental and recreational harm The US supreme court has allowed Donald Trump to continue his administration’s construction of a border wall in Texas’s Big Bend region, including parts of Big Bend national park. In an unsigned, five-page ruling , the nation’s highest court granted the Trump administration’s emergency request to suspend a lower court order that had temporarily stopped the project last month.",
+  "source_tags": [
+   "US supreme court",
+   "Texas",
+   "Trump administration",
+   "US news",
+   "US politics"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/bc7caafb8648ba5cb0214720e2ca54df25bdf9bb/410_0_4079_3265/master/4079.jpg?width=700&quality=85&auto=format&fit=max&s=b74959320ae6c45a1a880e363c6dec2c",
+  "published": "2026-11-09T23:48:36+00:00",
+  "headline": "Supreme Court Allows Trump Border Wall Construction in Texas Big Bend",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Supreme Court issued an unsigned five‑page opinion on Thursday that granted the Trump administration’s emergency request to lift a lower‑court injunction that had halted work on a border wall in Texas’s Big Bend region. The decision clears the way for the project to proceed, including sections that would cross into Big Bend National Park."
+   },
+   {
+    "type": "p",
+    "text": "The Court said the congressional law authorizing the wall reflects a legislative preference for border security over the environmental and recreational impacts cited by opponents. By suspending the temporary stop order, the justices effectively allow the administration to continue building the barrier despite ongoing legal challenges."
+   },
+   {
+    "type": "p",
+    "text": "The ruling follows a series of lawsuits aimed at protecting the park’s natural landscape, but the Supreme Court’s intervention underscores the weight given to federal border‑control priorities in the current legal framework."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling highlights the tension between U.S. border‑security policies and environmental protection, a dynamic watched by European nations concerned about cross‑border migration and conservation standards."
+   }
+  ],
+  "key_points": [
+   "The Supreme Court lifted a lower‑court order, permitting the border wall to be built in Texas’s Big Bend area.",
+   "The decision emphasizes congressional authority for border security over environmental concerns.",
+   "Construction may extend into portions of Big Bend National Park despite ongoing opposition."
+  ],
+  "meta_description": "Supreme Court lifts injunction, allowing Trump’s border wall to proceed in Texas’s Big Bend, including parts of a national park.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "border wall",
+   "Supreme Court",
+   "Texas",
+   "Big Bend",
+   "environment",
+   "US politics"
+  ],
+  "slug": "supreme-court-allows-trump-border-wall-construction-texas-big-27ce09",
+  "reading_minutes": 1,
+  "added": "2026-11-10T00:09:47Z"
+ },
+ {
+  "id": "52b01554bc90d052",
+  "source_url": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
+  "source": "The New York Times",
+  "source_title": "Democrats Demand Answers on Trump’s A.I. Policy Amid Spy Plot",
+  "source_summary": "Congressional leaders raise concerns in a letter as Nvidia investigates its chief executive’s affair with a suspected Chinese spy.",
+  "source_tags": [
+   "NVIDIA Corporation",
+   "Industrial Espionage",
+   "Computer Chips",
+   "Artificial Intelligence",
+   "Espionage and Intelligence Services",
+   "United States International Relations",
+   "House Committee on Foreign Affairs",
+   "Huang, Alice (Technology Executive)",
+   "Huang, Jen-Hsun",
+   "Trump, Donald J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-spy-chip-01-hmzq/09dc-spy-chip-01-hmzq-mediumSquareAt3X.jpg",
+  "published": "2026-11-09T23:48:34+00:00",
+  "headline": "Democrats Press Trump Over AI Policy as Nvidia Probes Spy Ties",
+  "body": [
+   {
+    "type": "p",
+    "text": "House and Senate leaders sent a joint letter to President Donald Trump demanding clarification on his administration’s artificial‑intelligence strategy, citing potential national‑security risks. The lawmakers said the lack of a coherent policy could leave the United States vulnerable as AI technologies advance worldwide."
+   },
+   {
+    "type": "p",
+    "text": "The request comes amid a separate investigation by Nvidia, the leading chipmaker, into allegations that its chief executive engaged in an affair with a woman suspected of working for Chinese intelligence. Nvidia has opened an internal review to determine whether any proprietary information was compromised."
+   },
+   {
+    "type": "p",
+    "text": "Democratic leaders warned that both the president’s opaque AI stance and possible corporate espionage underscore growing concerns about foreign influence in critical technology sectors. They urged swift transparency to protect U.S. strategic interests."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The issues highlight how AI strategy and corporate security are becoming focal points of U.S. and European concerns about foreign interference."
+   }
+  ],
+  "key_points": [
+   "Congressional leaders wrote to President Trump demanding details on his AI policy.",
+   "Nvidia is investigating its CEO’s alleged relationship with a suspected Chinese spy.",
+   "Lawmakers link the AI policy gap and potential espionage to national‑security risks."
+  ],
+  "meta_description": "Democrats demand answers on Trump's AI policy while Nvidia probes its CEO's alleged ties to a suspected Chinese spy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI policy",
+   "Trump administration",
+   "Nvidia",
+   "espionage",
+   "national security"
+  ],
+  "slug": "democrats-press-trump-over-ai-policy-nvidia-probes-spy-52b015",
+  "reading_minutes": 1,
+  "added": "2026-11-10T00:10:06Z"
+ },
+ {
+  "id": "39582fe7195957e4",
+  "source_url": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+  "source_summary": "Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-11-09T23:46:00+00:00",
+  "headline": "Trilateral Talks on Ukraine War Begin in Abu Dhabi Amid Stalemate",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian and Russian officials are meeting again in Abu Dhabi for a new round of trilateral talks aimed at ending the conflict that began in 2022. The discussions follow a previous encounter in February that failed to bridge the major gaps between the parties."
+   },
+   {
+    "type": "p",
+    "text": "According to the briefing, the core issues remain unchanged. Kyiv continues to press for explicit security guarantees from Moscow, a demand that Moscow has repeatedly labeled a non‑starter. Russian representatives have not indicated any willingness to alter this stance."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the talks are unlikely to produce a breakthrough unless both sides adjust their positions on these fundamental points. The diplomatic effort underscores the ongoing difficulty of achieving a negotiated settlement."
+   }
+  ],
+  "key_points": [
+   "Ukraine still seeks security guarantees, which Russia rejects as a non‑starter.",
+   "The Abu Dhabi talks revisit the same unresolved issues that stalled the February meeting."
+  ],
+  "meta_description": "Ukraine and Russia meet in Abu Dhabi for new talks, but security guarantees remain a sticking point for Moscow.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Russia",
+   "Abu Dhabi",
+   "peace talks",
+   "security guarantees"
+  ],
+  "slug": "trilateral-talks-ukraine-war-begin-abu-dhabi-amid-stalemate-39582f",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-10T00:10:11Z"
+ },
+ {
+  "id": "b6d252dfd8ae2d70",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro",
+  "source": "BBC News",
+  "source_title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+  "source_summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png",
+  "published": "2026-11-09T23:45:14+00:00",
+  "headline": "Rep. Thomas Massie Seeks Impeachment Vote on Defense Secretary Hegseth",
+  "body": [
+   {
+    "type": "p",
+    "text": "Republican Representative Thomas Massie announced plans to force an impeachment vote against Defense Secretary James Hegseth. Massie argues the move is intended to pressure former President Donald Trump to dismiss Hegseth before Democrats can initiate their own impeachment proceedings next year."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts say the effort is unlikely to succeed given the narrow party-line support for the impeachment measure. The proposal comes amid growing partisan tensions over the administration's handling of defense policies."
+   },
+   {
+    "type": "p",
+    "text": "If the vote fails, Democrats are expected to pursue their own impeachment inquiry in the coming months, potentially escalating the partisan clash in Congress."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash highlights escalating partisan battles in Washington that could affect U.S. defense policy and legislative priorities."
+   }
+  ],
+  "key_points": [
+   "Rep. Thomas Massie is pushing for an impeachment vote on Defense Secretary James Hegseth.",
+   "The move aims to force former President Trump to fire Hegseth before Democrats launch an impeachment next year.",
+   "Experts predict the impeachment effort will likely not pass."
+  ],
+  "meta_description": "Rep. Thomas Massie seeks an impeachment vote on Defense Secretary Hegseth to pressure Trump before Democrats act.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Thomas Massie",
+   "James Hegseth",
+   "impeachment",
+   "Trump",
+   "Congress",
+   "defense department"
+  ],
+  "slug": "rep-thomas-massie-seeks-impeachment-vote-defense-secretary-hegseth-b6d252",
+  "reading_minutes": 1,
+  "added": "2026-11-10T00:10:22Z"
+ },
+ {
+  "id": "4148c5070368ff6d",
+  "source_url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+  "source": "CNBC",
+  "source_title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+  "source_summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108117104-1742236544453-gettyimages-2205568557-pepsi602175_ueyezeys.jpeg?v=1747947064&w=1920&h=1080",
+  "published": "2026-11-09T23:31:17+00:00",
+  "headline": "PepsiCo to Cut About 1,000 Jobs Across North America",
+  "body": [
+   {
+    "type": "p",
+    "text": "PepsiCo announced plans to eliminate roughly 1,000 positions across its North American operations. The cuts are part of a broader effort to streamline the company's structure as it seeks to boost sales in its core U.S. market."
+   },
+   {
+    "type": "p",
+    "text": "The company said the reductions will affect a range of functions, including sales, marketing and supply‑chain roles. Executives described the move as necessary to improve efficiency and restore growth after a period of stagnant performance."
+   },
+   {
+    "type": "p",
+    "text": "PepsiCo did not disclose the specific timeline for the layoffs, but indicated that the restructuring will be implemented over the coming months. The firm aims to align its workforce with revised strategic priorities and to better respond to competitive pressures in the beverage and snack sectors."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The job cuts affect thousands of workers in the United States and Canada and signal challenges for a major consumer‑goods company in a key market."
+   }
+  ],
+  "key_points": [
+   "PepsiCo will cut about 1,000 jobs in North America to streamline operations.",
+   "The layoffs target sales, marketing and supply‑chain roles as the company seeks to revive stagnant U.S. sales."
+  ],
+  "meta_description": "PepsiCo plans to cut roughly 1,000 North American jobs as it restructures to revive sales in its home market.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "PepsiCo",
+   "job cuts",
+   "North America",
+   "layoffs",
+   "corporate restructuring"
+  ],
+  "slug": "pepsico-cut-about-1-000-jobs-across-north-america-4148c5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-10T00:09:55Z"
+ },
+ {
+  "id": "8233129c4cd1fc8d",
+  "source_url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+  "source": "The New York Times",
+  "source_title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+  "source_summary": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
+  "source_tags": [
+   "International Relations",
+   "United States Politics and Government",
+   "Artificial Intelligence",
+   "Computer Chips",
+   "International Trade and World Market",
+   "Commerce Department",
+   "Justice Department",
+   "Megaspeed International Pte Ltd",
+   "NVIDIA Corporation",
+   "Huang Le"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
+  "published": "2026-11-09T23:27:04+00:00",
+  "headline": "US Commerce Dept. Halts Megaspeed Probe After Nvidia Exec Contact",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Commerce Department stopped its inquiry into Singapore‑based Megaspeed, a firm that had been purchasing advanced Nvidia artificial‑intelligence chips, after a senior Nvidia executive contacted department officials."
+   },
+   {
+    "type": "p",
+    "text": "The investigation was subsequently moved to the Justice Department, according to officials familiar with the matter. The shift follows the executive’s outreach, which prompted Commerce officials to pause their review."
+   },
+   {
+    "type": "p",
+    "text": "The case highlights the sensitivity of U.S. export controls on high‑performance computing technology and the influence of industry lobbying on regulatory actions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident illustrates how U.S. export controls on cutting‑edge AI hardware can be affected by corporate lobbying, a concern for both American and European technology markets."
+   }
+  ],
+  "key_points": [
+   "A Commerce Department probe into Megaspeed’s acquisition of Nvidia AI chips was halted after a top Nvidia executive intervened.",
+   "The investigation was transferred to the Justice Department following the executive’s outreach.",
+   "The episode underscores the role of industry influence in U.S. export‑control enforcement."
+  ],
+  "meta_description": "US Commerce Dept. halted a probe into Singapore's Megaspeed after a Nvidia exec intervened, moving the case to the Justice Department.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Megaspeed",
+   "US Commerce Department",
+   "Justice Department",
+   "AI chips",
+   "export controls"
+  ],
+  "slug": "us-commerce-dept-halts-megaspeed-probe-after-nvidia-exec-823312",
+  "reading_minutes": 1,
+  "added": "2026-11-10T00:10:14Z"
+ },
+ {
+  "id": "af4978c402ee8533",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po",
+  "source": "BBC Sport",
+  "source_title": "Man Utd expected to sack head coach Carrick",
+  "source_summary": "Michael Carrick's Manchester United reign appears close to an end following the club's worst start to a domestic campaign in 40 years.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9dcf/live/306777b0-dc8e-11f1-8a0c-79d3a3fe49e0.jpg",
+  "published": "2026-11-09T23:13:31+00:00",
+  "headline": "Manchester United Likely to Dismiss Coach Carrick After Poor Start",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United appear poised to part ways with head coach Michael Carrick, according to BBC Sport. The club's domestic campaign has begun with its worst start in four decades, prompting speculation that the board will act swiftly."
+   },
+   {
+    "type": "p",
+    "text": "Carrick, a former United midfielder, took charge earlier this season but has struggled to translate his playing pedigree into results on the pitch. The team's early-season form has left fans and analysts questioning his tactical approach and ability to motivate the squad."
+   },
+   {
+    "type": "p",
+    "text": "Sources suggest that senior officials are reviewing the situation and may move to replace Carrick before the season progresses further. Any decision will likely aim to halt the decline and restore United's competitive edge in the Premier League."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "United's struggles affect the Premier League title race and have commercial implications for one of football's biggest brands."
+   }
+  ],
+  "key_points": [
+   "Manchester United's domestic season has begun with its poorest start in 40 years.",
+   "Head coach Michael Carrick is expected to be dismissed amid the poor results.",
+   "The club is likely to seek a new manager to revive its Premier League fortunes."
+  ],
+  "meta_description": "Manchester United may fire coach Michael Carrick after the team's worst domestic start in 40 years, sources say.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Premier League",
+   "coaching",
+   "football"
+  ],
+  "slug": "manchester-united-likely-dismiss-coach-carrick-after-poor-start-af4978",
+  "reading_minutes": 1,
+  "added": "2026-11-10T00:10:03Z"
+ },
+ {
+  "id": "c4c959a89b6ada8c",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o",
+  "source": "BBC Sport",
+  "source_title": "Brady ends association with Birmingham City",
+  "source_summary": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9a/live/f4e649d0-dc85-11f1-851a-19e868620cad.jpg",
+  "published": "2026-11-09T22:18:17+00:00",
+  "headline": "Tom Brady Ends Three‑Year Tie With Birmingham City Football Club",
+  "body": [
+   {
+    "type": "p",
+    "text": "NFL legend Tom Brady has formally ended his three‑year association with Birmingham City, the Championship club currently leading the league table. The partnership, which began in 2023, linked the American quarterback with the English side in a cross‑sport promotional role."
+   },
+   {
+    "type": "p",
+    "text": "During his tenure, Brady made several appearances at club events and featured in marketing campaigns aimed at expanding Birmingham City’s profile in the United States. The club’s recent success on the field coincided with the high‑profile partnership, though the two parties have not disclosed any financial details."
+   },
+   {
+    "type": "p",
+    "text": "Both Brady and Birmingham City issued brief statements confirming the conclusion of the arrangement, emphasizing that the decision was mutual and that they remain grateful for the collaboration. No further projects or future involvement were announced."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The partnership highlighted the growing crossover between American football stars and European soccer clubs, offering U.S. fans a familiar face in the Premier League’s second tier."
+   }
+  ],
+  "key_points": [
+   "Tom Brady ends his three‑year partnership with Birmingham City after the club topped the Championship table.",
+   "The collaboration involved promotional appearances and marketing aimed at U.S. audiences.",
+   "Both parties described the split as amicable and did not disclose financial terms."
+  ],
+  "meta_description": "NFL icon Tom Brady ends his three‑year partnership with top‑flight Championship side Birmingham City, ending a cross‑sport promotional tie.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tom Brady",
+   "Birmingham City",
+   "Championship",
+   "sports marketing",
+   "cross‑sport partnership"
+  ],
+  "slug": "tom-brady-ends-threeyear-tie-with-birmingham-city-football-c4c959",
+  "reading_minutes": 1,
+  "added": "2026-11-10T00:10:18Z"
+ },
+ {
   "id": "c58d7e0e8d4bb2a3",
   "source_url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo",
   "source": "BBC News",
