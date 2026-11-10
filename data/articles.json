@@ -1,5 +1,655 @@
 [
  {
+  "id": "3e50515c6d1fc8cc",
+  "source_url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+  "source": "The Verge",
+  "source_title": "eBay appears to have shut the door on third-party AI agents",
+  "source_summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a […]",
+  "source_tags": [
+   "AI",
+   "Meta",
+   "Online Shopping",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-10T16:20:30+00:00",
+  "headline": "eBay Blocks Meta's Muse and Other Third‑Party AI Agents From Browsing",
+  "body": [
+   {
+    "type": "p",
+    "text": "According to a report from The Verge, eBay has begun preventing third‑party artificial‑intelligence agents, including Meta's Muse, from accessing its site. The change was observed after a user who had been using Muse to scan eBay listings for watches reported that the agent could no longer retrieve data."
+   },
+   {
+    "type": "p",
+    "text": "The user had been relying on Muse to generate a daily curated digest of watch listings across eBay and other marketplaces. The sudden loss of browsing capability suggests that eBay has implemented technical restrictions aimed at stopping automated agents from scraping its product pages."
+   },
+   {
+    "type": "p",
+    "text": "This development is being described as the latest obstacle in the rapidly evolving AI‑agent race, where developers seek to integrate real‑time web browsing into their services. eBay’s move aligns with broader concerns about data scraping, platform security, and the commercial impact of AI‑driven price‑monitoring tools."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The block highlights growing tensions between e‑commerce platforms and AI developers over data access, affecting how consumers receive AI‑curated product information."
+   }
+  ],
+  "key_points": [
+   "eBay has blocked third‑party AI agents, including Meta's Muse, from browsing its site.",
+   "The restriction halted a user's AI‑generated daily watch‑listing digest.",
+   "The action marks a new hurdle for developers building web‑enabled AI agents."
+  ],
+  "meta_description": "eBay has stopped AI agents like Meta's Muse from browsing its site, disrupting AI‑generated product digests and raising concerns for the AI‑agent…",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "eBay",
+   "AI agents",
+   "Meta Muse",
+   "web scraping",
+   "e‑commerce",
+   "technology policy"
+  ],
+  "slug": "ebay-blocks-meta-s-muse-other-thirdparty-ai-agents-3e5051",
+  "reading_minutes": 1,
+  "added": "2026-11-10T16:22:26Z"
+ },
+ {
+  "id": "45aca3ded394f8c7",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo",
+  "source": "BBC News",
+  "source_title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+  "source_summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-10T16:19:48+00:00",
+  "headline": "French Police Arrest Suspects in Mohamed Al Fayed Probe After Ritz Search",
+  "body": [
+   {
+    "type": "p",
+    "text": "French authorities announced several arrests linked to a criminal investigation involving the late Mohamed Al Fayed. The police said the arrests were made after a series of searches at properties connected to the Al Fayed family, including the Ritz hotel in Paris, which remains under family ownership."
+   },
+   {
+    "type": "p",
+    "text": "The investigation, which has been ongoing, focuses on alleged financial wrongdoing tied to the Al Fayed estate. Officials did not disclose the number of individuals detained or the specific charges, but confirmed that the operation was part of a broader probe into the family's business activities."
+   },
+   {
+    "type": "p",
+    "text": "The Ritz hotel, a historic luxury landmark, was among the locations examined by investigators. While the hotel continues to operate under the Al Fayed name, the police searches underscore heightened scrutiny of the family's assets across Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights ongoing scrutiny of high‑profile international business figures and could impact the reputation of a landmark hotel frequented by global travelers."
+   }
+  ],
+  "key_points": [
+   "French police arrested several people in a probe related to Mohamed Al Fayed's estate.",
+   "The Ritz Paris, still owned by the Al Fayed family, was searched as part of the investigation.",
+   "Details of the charges and the number of arrests were not released."
+  ],
+  "meta_description": "French police arrest suspects in a probe of Mohamed Al Fayed's estate after searching the Ritz Paris hotel.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mohamed Al Fayed",
+   "France police",
+   "Ritz Paris",
+   "financial investigation",
+   "business crime"
+  ],
+  "slug": "french-police-arrest-suspects-mohamed-al-fayed-probe-after-45aca3",
+  "reading_minutes": 1,
+  "added": "2026-11-10T16:22:30Z"
+ },
+ {
+  "id": "037c0388103ad485",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o",
+  "source": "BBC Sport",
+  "source_title": "Pochettino, Howe, Emery or Conte? - Man Utd's managerial options",
+  "source_summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d7/live/8668d6c0-dd17-11f1-b441-2b33b063138f.png",
+  "published": "2026-11-10T16:17:10+00:00",
+  "headline": "Manchester United Weighs Pochettino, Howe, Emery and Conte as Carrick's Future Uncertain",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United's board is reportedly considering several high‑profile candidates to replace interim manager Michael Carrick as doubts about his long‑term role grow. Among the names being discussed are former Tottenham Hotspur boss Mauricio Pochettino, former Manchester United assistant coach Ryan Howe, former Chelsea and Arsenal manager Unai Emery, and former Chelsea and Juventus boss Antonio Conte."
+   },
+   {
+    "type": "p",
+    "text": "The club’s search reflects a desire to restore stability and competitive performance after a turbulent season. Each candidate brings a distinct managerial style: Pochettino is known for his high‑pressing tactics, Howe for his familiarity with United’s squad, Emery for his tactical versatility, and Conte for his defensive organization."
+   },
+   {
+    "type": "p",
+    "text": "While no official shortlist has been released, the speculation underscores the urgency felt by United’s hierarchy to secure a permanent manager who can meet the expectations of fans and shareholders alike."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "United’s managerial choice will influence the Premier League title race and the club’s commercial appeal across Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Manchester United is evaluating Mauricio Pochettino, Ryan Howe, Unai Emery and Antonio Conte as possible successors to Michael Carrick.",
+   "The club seeks a permanent manager to bring stability after a season of uncertainty."
+  ],
+  "meta_description": "Manchester United considers Pochettino, Howe, Emery and Conte as options amid doubts over Michael Carrick's future.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "managerial search",
+   "Premier League",
+   "football",
+   "coaching changes"
+  ],
+  "slug": "manchester-united-weighs-pochettino-howe-emery-conte-carrick-s-037c03",
+  "reading_minutes": 1,
+  "added": "2026-11-10T16:22:34Z"
+ },
+ {
+  "id": "8088146df399ff20",
+  "source_url": "https://www.nytimes.com/2026/11/10/us/politics/nancy-lacore-hegseth-impeachment.html",
+  "source": "The New York Times",
+  "source_title": "Fired by Hegseth, New Member of Congress Supports His Ouster",
+  "source_summary": "Nancy Lacore, who will represent a House district starting in January, was chief of the Navy reserve until last year.",
+  "source_tags": [
+   "Hegseth, Pete",
+   "Lacore, Nancy",
+   "House of Representatives",
+   "United States Defense and Military Forces",
+   "United States Politics and Government",
+   "United States Navy",
+   "Appointments and Executive Changes"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10trump-lacore-zfch/10trump-lacore-zfch-mediumSquareAt3X.jpg",
+  "published": "2026-11-10T16:14:59+00:00",
+  "headline": "New Congresswoman Nancy Lacore Backs Ouster of Former Navy Reserve Chief Hegseth",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nancy Lacore, set to take her seat in the U.S. House of Representatives in January, has publicly supported the removal of Hegseth, the official who dismissed her from her role as chief of the Navy Reserve."
+   },
+   {
+    "type": "p",
+    "text": "Lacore served as the Navy Reserve's chief until her termination last year. Her endorsement of Hegseth's ouster underscores a personal stake in the leadership dispute within the military establishment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The stance highlights how recent military leadership changes can influence the political agenda of new lawmakers in Washington."
+   }
+  ],
+  "key_points": [
+   "Nancy Lacore, a incoming House member, was the Navy Reserve chief until last year.",
+   "She publicly backs the removal of Hegseth, who fired her from that position."
+  ],
+  "meta_description": "Incoming Congresswoman Nancy Lacore supports ousting Hegseth, the official who fired her as Navy Reserve chief.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nancy Lacore",
+   "Navy Reserve",
+   "Congress",
+   "military leadership",
+   "Hegseth"
+  ],
+  "slug": "new-congresswoman-nancy-lacore-backs-ouster-former-navy-reserve-808814",
+  "reading_minutes": 1,
+  "added": "2026-11-10T16:22:38Z"
+ },
+ {
+  "id": "7deffa3afc49f89b",
+  "source_url": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html",
+  "source": "The New York Times",
+  "source_title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+  "source_summary": "October’s Consumer Price Index report showed a broadening of price pressures that has stoked concerns about the Federal Reserve’s grip on inflation.",
+  "source_tags": [
+   "Inflation (Economics)",
+   "live-detached",
+   "United States Economy",
+   "Interest Rates",
+   "Consumer Price Index",
+   "Bureau of Labor Statistics"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-11-10T16:14:53+00:00",
+  "headline": "Broadening Price Pressures Heighten Fed Rate Hike Expectations",
+  "body": [
+   {
+    "type": "p",
+    "text": "The October Consumer Price Index revealed a widening of inflationary pressures across multiple categories, prompting renewed scrutiny of the Federal Reserve’s ability to contain price growth. Core components such as housing, transportation and food showed notable upticks, expanding the scope of the CPI’s rise beyond earlier focal points."
+   },
+   {
+    "type": "p",
+    "text": "Economists note that the broader inflation picture could compel the Fed to consider additional interest‑rate increases, despite recent pauses in its tightening cycle. Market participants are watching the data closely for signals about the central bank’s next policy move."
+   },
+   {
+    "type": "p",
+    "text": "Analysts caution that persistent inflation could affect consumer spending and corporate earnings, potentially slowing the economic recovery that began earlier this year. The CPI data also raises questions about the timing and magnitude of any future monetary adjustments."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. consumers and investors watch Fed policy closely, while European markets monitor U.S. rate moves for spillover effects on global growth and currency stability."
+   }
+  ],
+  "key_points": [
+   "October CPI data shows inflation spreading to more sectors.",
+   "The broader price pressures may push the Fed toward further rate hikes.",
+   "Higher inflation could dampen consumer spending and corporate profits."
+  ],
+  "meta_description": "October CPI shows widening inflation, increasing pressure on the Fed to raise rates, with implications for consumers and markets.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "inflation",
+   "Federal Reserve",
+   "interest rates",
+   "consumer price index",
+   "economic policy"
+  ],
+  "slug": "broadening-price-pressures-heighten-fed-rate-hike-expectations-7deffa",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-10T16:22:42Z"
+ },
+ {
+  "id": "b5c10e2e94c0d551",
+  "source_url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+  "source": "TechCrunch",
+  "source_title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+  "source_summary": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
+  "source_tags": [
+   "Media & Entertainment",
+   "Apple",
+   "apple tv",
+   "accessibility"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-TV-ASL-Sign-Language-interpretation.jpg?resize=1200,800",
+  "published": "2026-11-10T16:00:00+00:00",
+  "headline": "Apple TV Adds Built-In Sign Language Interpretation to Supported Shows",
+  "body": [
+   {
+    "type": "p",
+    "text": "Apple TV has introduced a new accessibility option that allows users to enable sign language interpretation while watching titles that support the feature. The functionality is integrated directly into the Apple TV interface, giving viewers a simple way to activate interpretation without external devices or apps."
+   },
+   {
+    "type": "p",
+    "text": "The option appears alongside other accessibility settings, and when turned on, a signed version of the dialogue is displayed in a picture‑in‑picture window. This addition expands Apple TV’s suite of tools aimed at making streaming content more inclusive for deaf and hard‑of‑hearing audiences."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The feature enhances accessibility for deaf and hard‑of‑hearing viewers in the United States and Europe, aligning with broader efforts to make streaming media more inclusive."
+   }
+  ],
+  "key_points": [
+   "Apple TV now includes built‑in sign language interpretation for supported titles.",
+   "Viewers can activate the feature through the platform’s accessibility settings."
+  ],
+  "meta_description": "Apple TV adds built‑in sign language interpretation for supported titles, improving accessibility for deaf viewers.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Apple TV",
+   "accessibility",
+   "sign language",
+   "streaming",
+   "disability inclusion"
+  ],
+  "slug": "apple-tv-adds-built-sign-language-interpretation-supported-shows-b5c10e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-10T16:22:46Z"
+ },
+ {
+  "id": "897edcb402e0b25d",
+  "source_url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+  "source": "The Verge",
+  "source_title": "The Verge’s 2026 holiday gift guide for moms",
+  "source_summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]",
+  "source_tags": [
+   "Gadgets",
+   "Gift Guides",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-10T16:00:00+00:00",
+  "headline": "The Verge Unveils 2026 Holiday Gift Guide for Moms",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Verge released its 2026 holiday gift guide aimed at mothers, highlighting a range of potential presents to honor their contributions. The guide acknowledges the challenge of selecting a tangible token of appreciation for such an influential figure."
+   },
+   {
+    "type": "p",
+    "text": "While the article does not list specific items, it emphasizes the breadth of options available and encourages readers to consider thoughtful, personalized gifts. The publication frames the guide as a resource for navigating the often overwhelming selection process during the holiday season."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "With holiday spending rising, a curated guide helps consumers in the US and Europe find appropriate gifts for a key family member."
+   }
+  ],
+  "key_points": [
+   "The Verge published a holiday gift guide specifically for moms in November 2026.",
+   "The guide addresses the difficulty of choosing meaningful gifts for mothers.",
+   "It offers a broad range of ideas to help shoppers find suitable presents."
+  ],
+  "meta_description": "The Verge's 2026 holiday gift guide offers ideas for thoughtful presents for moms during the festive season.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "holiday shopping",
+   "gift ideas",
+   "mothers",
+   "consumer guide",
+   "The Verge"
+  ],
+  "slug": "verge-unveils-2026-holiday-gift-guide-moms-897edc",
+  "reading_minutes": 1,
+  "added": "2026-11-10T16:23:01Z"
+ },
+ {
+  "id": "21eb9b73fb011893",
+  "source_url": "https://www.dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Iran denies role in fridge hack, France summons ambassador",
+  "source_summary": "France has said it rules \"nothing\" out in response to a cyberattack on supermarket refrigeration units. Iran, however, said it categorically rejected Paris' \"baseless and one-sided accusations\" of IRGC involvement.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79647777_6.jpg",
+  "published": "2026-11-10T15:57:00+00:00",
+  "headline": "Iran Denies Involvement in French Supermarket Fridge Hack",
+  "body": [
+   {
+    "type": "p",
+    "text": "France announced that it is keeping all options open after a cyberattack disabled refrigeration units in several supermarkets, prompting the government to summon the Iranian ambassador for explanations."
+   },
+   {
+    "type": "p",
+    "text": "Tehran responded by categorically rejecting what it called \"baseless and one-sided\" accusations that the Islamic Revolutionary Guard Corps was behind the intrusion, insisting that Iran had no role in the incident."
+   },
+   {
+    "type": "p",
+    "text": "The French foreign ministry said the investigation is ongoing and that no conclusions have been reached, while diplomatic channels remain engaged to address the allegations."
+   }
+  ],
+  "key_points": [
+   "France summoned Iran's ambassador after a cyberattack targeted supermarket refrigeration systems.",
+   "Iran denied any involvement and called the accusations unfounded.",
+   "The investigation continues with no definitive attribution yet."
+  ],
+  "meta_description": "France summons Iran's ambassador after a supermarket fridge hack; Tehran denies involvement, calling accusations baseless.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "France",
+   "cyberattack",
+   "refrigeration",
+   "IRGC",
+   "diplomacy"
+  ],
+  "slug": "iran-denies-involvement-french-supermarket-fridge-hack-21eb9b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-10T16:22:50Z"
+ },
+ {
+  "id": "9c7595fa9e7c183f",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/10/haitian-boy-ice-california",
+  "source": "The Guardian",
+  "source_title": "Haitian boy, 8, detained by ICE is now unaccounted for, lawmaker says",
+  "source_summary": "Juan Vargas, a congressman, says he’s working to reunite the third-grader with loved ones Relatives of an eight-year-old Haitian boy who was taken into custody by federal immigration authorities in California are unable to locate the child, according to a Democratic lawmaker who described the case as “despicable”. Video obtained by NBC News shows the boy being led away by three armed officials after he was summoned to what his family said was a routine immigration appointment in San Diego on 4 November.",
+  "source_tags": [
+   "ICE (US Immigration and Customs Enforcement)",
+   "US immigration",
+   "Haiti",
+   "California",
+   "Trump administration",
+   "US politics",
+   "US news",
+   "West Coast"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/16dc42912082ba49a416847b8c8632ff8061d1a9/166_0_3749_3000/master/3749.jpg?width=700&quality=85&auto=format&fit=max&s=bdd13bc0b2be97c58376f8f806c046a6",
+  "published": "2026-11-10T15:51:42+00:00",
+  "headline": "Haitian Boy Detained by ICE Missing in California, Lawmaker Says",
+  "body": [
+   {
+    "type": "p",
+    "text": "An eight‑year‑old Haitian boy was taken into custody by U.S. Immigration and Customs Enforcement (ICE) in San Diego on Nov. 4 after his family said he was summoned for a routine immigration appointment. Video obtained by NBC News shows the child being led away by three armed officials."
+   },
+   {
+    "type": "p",
+    "text": "Congressman Juan Vargas, a Democrat, told reporters the boy’s relatives have been unable to locate him since the detention. Vargas described the situation as “despicable” and said he is working to reunite the child with his family."
+   },
+   {
+    "type": "p",
+    "text": "The case has drawn criticism from immigrant‑rights groups, who argue that the lack of transparency surrounding the boy’s whereabouts highlights broader concerns about ICE’s handling of minors."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disappearance of a child in ICE custody underscores ongoing debates in the U.S. and Europe over immigration enforcement and the protection of minors."
+   }
+  ],
+  "key_points": [
+   "An 8‑year‑old Haitian boy was detained by ICE in San Diego on Nov. 4 and is now unaccounted for.",
+   "Democratic Rep. Juan Vargas called the case \"despicable\" and is seeking to reunite the child with his family.",
+   "The incident raises questions about ICE’s procedures for handling minors."
+  ],
+  "meta_description": "An 8‑year‑old Haitian boy detained by ICE in California is missing, prompting a Democratic lawmaker to call the case despicable and seek his reunification.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "immigration",
+   "ICE",
+   "child detention",
+   "California",
+   "US politics",
+   "Haiti"
+  ],
+  "slug": "haitian-boy-detained-ice-missing-california-lawmaker-says-9c7595",
+  "reading_minutes": 1,
+  "added": "2026-11-10T16:22:58Z"
+ },
+ {
+  "id": "ef57a426da2eaa60",
+  "source_url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o",
+  "source": "BBC News",
+  "source_title": "Israel's new parliament sworn in as leaders compete to form government",
+  "source_summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-10T15:51:09+00:00",
+  "headline": "Israel's New Knesset Sworn In as Gadi Eisenkot Seeks to Oust Netanyahu",
+  "body": [
+   {
+    "type": "p",
+    "text": "Israel's newly elected parliament convened for its first session on Thursday, with members taking the oath of office in a formal ceremony."
+   },
+   {
+    "type": "p",
+    "text": "The swearing‑in marks the start of intense negotiations among party leaders to assemble a governing coalition, a process that will determine the country's next prime minister."
+   },
+   {
+    "type": "p",
+    "text": "Gadi Eisenkot, identified as Benjamin Netanyahu's principal rival, has been given the initial opportunity to negotiate a coalition and potentially replace the incumbent prime minister."
+   }
+  ],
+  "key_points": [
+   "Israel's new parliament has been sworn in, beginning coalition talks.",
+   "Gadi Eisenkot is the first opposition leader to attempt to form a government and unseat Netanyahu."
+  ],
+  "meta_description": "Israel's new parliament is sworn in as Gadi Eisenkot begins coalition talks to replace Prime Minister Netanyahu.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "Knesset",
+   "government formation",
+   "Gadi Eisenkot",
+   "Benjamin Netanyahu"
+  ],
+  "slug": "israel-s-new-knesset-sworn-gadi-eisenkot-seeks-oust-ef57a4",
+  "reading_minutes": 1,
+  "added": "2026-11-10T16:23:06Z"
+ },
+ {
+  "id": "35fa8131dd72e7bb",
+  "source_url": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo",
+  "source": "BBC Sport",
+  "source_title": "Formula 1 to finish season in Middle East",
+  "source_summary": "The 2026 Formula 1 season will conclude with the Qatar and Abu Dhabi grands prix as planned, with Italy's Imola circuit stood down as back-up for the races.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f4/live/e7754920-dd0e-11f1-97df-bd0937690c4d.jpg",
+  "published": "2026-11-10T15:04:46+00:00",
+  "headline": "Formula 1 Season to End in Qatar and Abu Dhabi, Imola Backup Stood Down",
+  "body": [
+   {
+    "type": "p",
+    "text": "The 2026 Formula 1 calendar will wrap up with the scheduled Grand Prix events in Qatar and Abu Dhabi, confirming the Middle East as the season's finale locations."
+   },
+   {
+    "type": "p",
+    "text": "Italy's Imola circuit, which had been listed as a contingency venue, has been officially removed from the backup list for these concluding races."
+   },
+   {
+    "type": "p",
+    "text": "The decision maintains the original plan for the final two rounds, ensuring that teams and fans can prepare for the Middle Eastern venues without additional scheduling changes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The confirmed Middle East finale highlights the sport's growing focus on the region, affecting travel plans for European and North American fans and sponsors."
+   }
+  ],
+  "key_points": [
+   "The 2026 F1 season will finish with the Qatar and Abu Dhabi Grand Prix as originally scheduled.",
+   "Imola in Italy will no longer serve as a backup circuit for the season finale."
+  ],
+  "meta_description": "The 2026 Formula 1 season will conclude in Qatar and Abu Dhabi, with Italy's Imola circuit removed as a backup venue.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Formula 1",
+   "Qatar Grand Prix",
+   "Abu Dhabi Grand Prix",
+   "Imola",
+   "motorsport"
+  ],
+  "slug": "formula-1-season-end-qatar-abu-dhabi-imola-backup-35fa81",
+  "reading_minutes": 1,
+  "added": "2026-11-10T16:22:54Z"
+ },
+ {
+  "id": "02805aa48959e3d6",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo",
+  "source": "BBC Sport",
+  "source_title": "Birthdays and broken lamps - at home with the Charles brothers",
+  "source_summary": "Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf74/live/c70f0210-dd14-11f1-9ee9-1b95b66787ea.jpg",
+  "published": "2026-11-10T14:36:21+00:00",
+  "headline": "Charles Brothers Celebrate Birthdays Ahead of NI Nations League Clash",
+  "body": [
+   {
+    "type": "p",
+    "text": "Shea and Pierce Charles welcomed BBC Sport into their London flat as they prepared for Northern Ireland's upcoming Nations League fixtures. The brothers, both members of Michael O'Neill's youthful squad, took a moment to mark personal milestones, with one of them turning another year older on the day of the interview."
+   },
+   {
+    "type": "p",
+    "text": "The conversation turned to the simple pleasures that keep the players grounded: a shared love of steak sandwiches and the occasional broken lamp that adds a touch of domestic chaos to their routine. While the team focuses on the tactical challenges posed by their opponents, the Charles twins emphasized the importance of staying relaxed and enjoying the camaraderie that comes with being part of a close‑knit group."
+   },
+   {
+    "type": "p",
+    "text": "O'Neill's side, still in the early stages of rebuilding, hopes the blend of experience and fresh energy will translate into competitive performances in the league. The brothers expressed confidence that the team's spirit, bolstered by moments like birthday celebrations, will help them punch above their weight against stronger nations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Northern Ireland's progress in the Nations League reflects the broader development of smaller football nations in Europe, offering insight into how emerging talent is nurtured under experienced managers."
+   }
+  ],
+  "key_points": [
+   "Shea and Pierce Charles marked a birthday while gearing up for Northern Ireland's Nations League matches.",
+   "The brothers highlighted simple comforts, such as steak sandwiches, as part of their pre‑match routine.",
+   "Michael O'Neill's young squad aims to build momentum in the competition despite limited resources."
+  ],
+  "meta_description": "Shea and Pierce Charles celebrate a birthday and share pre‑match rituals ahead of Northern Ireland's Nations League games.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Northern Ireland",
+   "Nations League",
+   "Charles brothers",
+   "Michael O'Neill",
+   "football",
+   "birthdays"
+  ],
+  "slug": "charles-brothers-celebrate-birthdays-ahead-ni-nations-league-clash-02805a",
+  "reading_minutes": 1,
+  "added": "2026-11-10T16:23:10Z"
+ },
+ {
   "id": "df341f1df0443341",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/cmq8nnddpllqo",
   "source": "BBC Sport",
