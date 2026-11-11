@@ -155,6 +155,16 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
             canonical=abs_url(path), title=seo_title(a["headline"]),
             description=_trim(a["meta_description"], 158), og_image=share_image(a.get("image")) if config.USE_FEED_IMAGES else None))
 
+    # --- Search index + page --------------------------------------------------
+    cats = config.CATEGORIES
+    idx = [{"h": a["headline"], "s": a["slug"], "c": cats.get(a["category"], a["category"]),
+            "d": fmt_date(a["published"]).split(" · ")[0], "t": _trim(a.get("meta_description", ""), 140)}
+           for a in sorted(articles, key=lambda x: x["published"], reverse=True) if a.get("index", True)]
+    _write(OUT / "search-index.json", json.dumps(idx, separators=(",", ":"), ensure_ascii=False))
+    _write(OUT / "search" / "index.html", env.get_template("search.html").render(
+        page="search", trending=trending, canonical=abs_url("search/"),
+        title=f"Search | {config.SITE_NAME}", description=config.SITE_TAGLINE))
+
     # --- Static pages -------------------------------------------------------
     for name in ("about", "privacy", "contact", "editorial", "corrections", "terms", "newsletter"):
         _write(OUT / name / "index.html", env.get_template(f"{name}.html").render(
