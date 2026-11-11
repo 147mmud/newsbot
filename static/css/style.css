@@ -303,3 +303,4 @@ body:has(.sticky-ad:not([hidden])){padding-bottom:100px}
 .sr-page{margin-top:14px}
 .search-bar .sr-none{color:#cbd5e1}
 @media (max-width:640px){.wx-sub{display:block;margin:2px 0 0}.wxbar select{max-width:150px}}
+.tags span.trend{background:#fff4e5;color:#b45309}
