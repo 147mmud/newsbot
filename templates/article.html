@@ -28,7 +28,7 @@
   "@context": "https://schema.org", "@type": "NewsArticle",
   "headline": a.headline[:110], "description": a.meta_description,
   "datePublished": a.published, "dateModified": a.get('added', a.published),
-  "articleSection": categories[a.category], "keywords": a.tags|join(', '),
+  "articleSection": categories[a.category], "keywords": (a.tags + (a.trends or []))|join(', '),
   "mainEntityOfPage": canonical,
   "image": [og_image.url] if og_image else [],
   "author": {"@type": "Organization", "name": site.SITE_NAME + " Newsroom", "url": abs_url('about/')},
@@ -91,7 +91,7 @@
   </aside>
 
   {% if a.tags %}
-  <div class="tags">{% for t in a.tags %}<span>#{{ t }}</span>{% endfor %}</div>
+  <div class="tags">{% for t in a.tags %}<span>#{{ t }}</span>{% endfor %}{% for t in (a.trends or []) %}<span class="trend">&#128293; {{ t }}</span>{% endfor %}</div>
   {% endif %}
 
   {{ ads.native() }}
