@@ -74,6 +74,9 @@ FEEDS = [
     ("https://rss.dw.com/rdf/rss-en-all",                    "DW",            "world"),
     ("https://www.cbc.ca/webfeed/rss/rss-world",                 "CBC News",      "world"),
     ("http://rss.cnn.com/rss/edition_world.rss",                 "CNN",           "world"),
+    # --- Weather (shown on the Weather page; filed under World) ---
+    ("https://www.theguardian.com/environment/extreme-weather/rss", "The Guardian", "world"),
+    ("https://rss.nytimes.com/services/xml/rss/nyt/Weather.xml",     "The New York Times", "world"),
     # --- Politics ---
     ("https://feeds.bbci.co.uk/news/politics/rss.xml",           "BBC News",      "politics"),
     ("https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml","The New York Times", "politics"),
