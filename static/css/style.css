@@ -275,3 +275,31 @@ body:has(.sticky-ad:not([hidden])){padding-bottom:100px}
 .join-box .btn{background:#229ed9;color:#fff;border-color:#229ed9}
 :root[data-theme=dark] .join-box{background:#12304a;border-color:#1d4d73;color:#e8f1f9}
 .nav-tg{color:#229ed9}
+
+/* ---------- Weather strip + search ---------- */
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.wxbar{background:var(--surface);border-top:1px solid var(--line);border-bottom:1px solid var(--line);font-size:14px}
+.wx-in{display:flex;align-items:center;gap:10px 14px;flex-wrap:wrap;padding-top:7px;padding-bottom:7px}
+.wx-label{font:700 11px var(--font);letter-spacing:.08em;text-transform:uppercase;color:var(--brand)}
+.wxbar select{font:600 13px var(--font);padding:5px 8px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);max-width:190px}
+.wx-now{flex:1;min-width:180px;color:var(--ink)}
+.wx-now b{font-size:17px}
+.wx-ic{font-size:20px;margin-right:4px;vertical-align:-2px}
+.wx-sub{color:var(--ink-3);font-size:12.5px;margin-left:6px}
+.wx-btns{display:flex;gap:6px}
+.wx-btns button{font:600 12px var(--font);padding:5px 9px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);cursor:pointer}
+.wx-btns button:hover{border-color:var(--brand)}
+.search-bar{background:var(--navy-2);padding:12px 0 8px;border-bottom:1px solid #000}
+.sr-form{display:flex;gap:8px;margin:0 auto}
+.sr-form input{flex:1;min-width:0;font:16px var(--font);padding:10px 14px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--ink)}
+.sr-form .btn{border:0;cursor:pointer;padding:10px 18px}
+.sr-list{display:flex;flex-direction:column;margin-top:8px}
+.sr-item{display:block;padding:10px 12px;border-radius:8px;background:var(--surface);border:1px solid var(--line);margin-bottom:6px;color:var(--ink)}
+.sr-item:hover{border-color:var(--brand)}
+.sr-item b{display:block;font:600 15px/1.35 var(--font)}
+.sr-item span{font-size:12px;color:var(--ink-3)}
+.sr-all{color:#93c5fd;font-weight:600;padding:4px 2px}
+.sr-none,.sr-count{color:var(--ink-3);margin:8px 0}
+.sr-page{margin-top:14px}
+.search-bar .sr-none{color:#cbd5e1}
+@media (max-width:640px){.wx-sub{display:block;margin:2px 0 0}.wxbar select{max-width:150px}}
