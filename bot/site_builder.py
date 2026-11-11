@@ -145,6 +145,29 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
                 description=(f"Latest {name.lower()} news and breaking headlines from the US, UK, Canada and Europe."
                              + ("" if i == 1 else f" Page {i}."))))
 
+    # --- "Also reported by": same story from other outlets (our own pages) ----
+    stop = set("the a an of to in on for and or at by with from is are was were be as it its this that new says say after over "
+               "news live update how why what who will vs into out up us not has have had".split())
+    def _kw(a):
+        return {w for w in re.findall(r"[a-z0-9']+", a["headline"].lower()) if w not in stop and len(w) > 2}
+    recent = [a for a in articles if a.get("index", True)][:700]
+    kws = {a["id"]: _kw(a) for a in recent}
+    for a in articles:
+        a["same_story"] = []
+    for a in recent:
+        ka = kws[a["id"]]
+        if len(ka) < 3:
+            continue
+        hits = []
+        for b in recent:
+            if b["id"] == a["id"] or b["source"] == a["source"]:
+                continue
+            ov = len(ka & kws[b["id"]])
+            if ov >= 3 and ov / max(1, min(len(ka), len(kws[b["id"]]))) >= 0.4:
+                hits.append((ov, b))
+        hits.sort(key=lambda x: -x[0])
+        a["same_story"] = [b for _, b in hits[:3]]
+
     # --- Articles -----------------------------------------------------------
     tpl = env.get_template("article.html")
     for a in articles:

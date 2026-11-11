@@ -196,8 +196,8 @@ Allowed categories: {categories}
 Return JSON with exactly these keys:
 {{
  "headline": "SEO headline, 55-70 chars",
- "paragraphs": ["2 to 4 short paragraphs, 150-250 words total, original wording"],
- "key_points": ["2-3 one-sentence takeaways"],
+ "paragraphs": ["3 to 5 short paragraphs, 220-320 words total, original wording. Cover who, what, when and where, then the reaction or detail that follows. Use every fact in the source; add nothing that is not in it"],
+ "key_points": ["3 one-sentence takeaways"],
  "why_it_matters": "one or two sentences of context for US/European readers, only if supported by the source, else empty string",
  "meta_description": "max 155 chars",
  "category": "one of the allowed categories",
