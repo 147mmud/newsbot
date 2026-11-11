@@ -81,6 +81,11 @@ def run(args) -> int:
             log.info("Backfilled images: %d/%d found", sum(1 for a in todo if a["image"]), len(todo))
 
     articles = new + articles
+    try:                                    # Google Trends keywords (silently skipped if unreachable)
+        from bot import trends
+        log.info("Trends: %d articles matched trending terms", trends.enrich(articles))
+    except Exception as exc:
+        log.warning("Trends skipped: %s", exc)
     store.save(articles)
     log.info("Added %d new articles (total %d)", len(new), len(articles))
 
