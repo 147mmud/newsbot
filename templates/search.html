@@ -1,0 +1,12 @@
+{% extends "_page.html" %}
+{% block robots %}<meta name="robots" content="noindex, follow">{% endblock %}
+{% block heading %}Search{% endblock %}
+{% block content %}
+<form id="search-form" class="sr-form" role="search" action="{{ url('search/') }}" method="get">
+  <input type="search" name="q" placeholder="Search stories, teams, topics…" aria-label="Search the site" autocomplete="off">
+  <button type="submit" class="btn">Search</button>
+</form>
+<p id="search-count" class="sr-count" aria-live="polite"></p>
+<div id="search-results" class="sr-list sr-page"></div>
+<noscript><p>Search needs JavaScript. Browse our <a href="{{ url() }}">homepage</a> instead.</p></noscript>
+{% endblock %}
