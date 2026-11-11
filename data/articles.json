@@ -1,5 +1,736 @@
 [
  {
+  "id": "0d614d490a8c5790",
+  "source_url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+  "source": "The New York Times",
+  "source_title": "Silicon Valley Tech Allies Support Jensen Huang",
+  "source_summary": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be Chinese spy as a personal lapse, not a security failure.",
+  "source_tags": [
+   "NVIDIA Corporation",
+   "Huang, Jen-Hsun",
+   "Computer Chips",
+   "Artificial Intelligence",
+   "Computers and the Internet",
+   "Trump, Donald J",
+   "Musk, Elon"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-jensen-support-cmpv/10biz-jensen-support-cmpv-mediumSquareAt3X.jpg",
+  "published": "2026-11-11T15:35:00+00:00",
+  "headline": "Silicon Valley Leaders Defend Jensen Huang Over Spy Allegations",
+  "body": [
+   {
+    "type": "p",
+    "text": "Elon Musk and several other prominent Silicon Valley figures publicly defended Nvidia CEO Jensen Huang after reports linked his recent relationship to a woman suspected of being a Chinese intelligence operative. The criticism centered on concerns that the association could pose a national security risk for the chipmaker."
+   },
+   {
+    "type": "p",
+    "text": "In statements made on Tuesday, the tech leaders described the situation as a personal lapse rather than a breach of corporate security protocols. They emphasized that there is no evidence Huang shared confidential information or that Nvidia’s operations were compromised."
+   },
+   {
+    "type": "p",
+    "text": "The commentary came as the New York Times reported the allegations on November 11, 2026, highlighting the tension between personal conduct and security expectations for executives in the high‑tech sector. While the article noted the seriousness of the spy claim, it did not present any formal investigation findings."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers noted that the defense by Musk and peers reflects a broader debate within the tech community about how personal relationships intersect with geopolitical espionage concerns, especially as U.S. and European regulators increase scrutiny of Chinese influence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores growing scrutiny of tech executives' personal ties amid heightened U.S. and European concerns over Chinese espionage."
+   }
+  ],
+  "key_points": [
+   "Elon Musk and other Silicon Valley figures say Jensen Huang's alleged relationship is a personal mistake, not a security breach.",
+   "The woman involved is believed to be a Chinese spy, raising national security concerns for Nvidia.",
+   "No evidence has been presented that confidential company information was compromised."
+  ],
+  "meta_description": "Silicon Valley leaders, including Elon Musk, defend Nvidia CEO Jensen Huang, calling his alleged link to a suspected Chinese spy a personal lapse.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "Elon Musk",
+   "Chinese espionage",
+   "Silicon Valley",
+   "national security"
+  ],
+  "slug": "silicon-valley-leaders-defend-jensen-huang-over-spy-allegations-0d614d",
+  "reading_minutes": 1,
+  "added": "2026-11-11T15:39:11Z",
+  "trends": []
+ },
+ {
+  "id": "3bf8fbf35ed4db63",
+  "source_url": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
+  "source": "The New York Times",
+  "source_title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
+  "source_summary": "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign.",
+  "source_tags": [
+   "Strikes",
+   "Wages and Salaries",
+   "Demonstrations, Protests and Riots",
+   "Organized Labor",
+   "Sanchez Perez-Castejon, Pedro (1972- )",
+   "Spain"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-hcqm/11int-spain-strike-hcqm-mediumSquareAt3X.jpg",
+  "published": "2026-11-11T15:34:08+00:00",
+  "headline": "Spain Holds First General Strike in 14 Years Over Rents and Wages",
+  "body": [
+   {
+    "type": "p",
+    "text": "On November 11, 2026, workers across a broad spectrum of industries in Spain walked off their jobs in a coordinated general strike. The action marks the first nationwide strike of its kind in the country in 14 years, signaling a significant escalation in labor unrest."
+   },
+   {
+    "type": "p",
+    "text": "The strike was organized to protest two intertwined economic grievances: sharply rising rental costs and wages that have remained stagnant despite inflation. Participants described the combination as a growing burden on household budgets, making it difficult to afford basic living expenses."
+   },
+   {
+    "type": "p",
+    "text": "The campaign’s central issues—housing affordability and wage stagnation—have been highlighted in recent labor negotiations and public demonstrations. Organizers framed the strike as a necessary step to pressure policymakers and employers to address these systemic problems."
+   },
+   {
+    "type": "p",
+    "text": "While the immediate impact on production and services was noted across sectors, the broader significance lies in the unprecedented unity among Spanish workers. The strike underscores a resurgence of collective action aimed at influencing economic policy and labor market reforms."
+   }
+  ],
+  "key_points": [
+   "Spanish workers staged a general strike on Nov. 11, 2026, the first in 14 years.",
+   "The protest targeted rising rents and stagnant wages as core grievances.",
+   "The strike involved a wide range of industries, showing broad labor solidarity."
+  ],
+  "meta_description": "Spanish workers across multiple sectors staged a general strike on Nov. 11, 2026, protesting rising rents and stagnant wages—the first such strike in 14…",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spain",
+   "general strike",
+   "rising rents",
+   "stagnant wages",
+   "labor protest"
+  ],
+  "slug": "spain-holds-first-general-strike-14-years-over-rents-3bf8fb",
+  "reading_minutes": 1,
+  "added": "2026-11-11T15:39:16Z",
+  "trends": []
+ },
+ {
+  "id": "fa929d0299dc8e6d",
+  "source_url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+  "source": "The Verge",
+  "source_title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+  "source_summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the […]",
+  "source_tags": [
+   "Deals",
+   "Gadgets",
+   "Verge Shopping"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Sharge-140-GaN-Charger-Lifestyle-Image-2.jpg?w=300",
+  "published": "2026-11-11T15:30:00+00:00",
+  "headline": "Sharge and Amazon Cut Pixel 140W GaN MacBook Charger Price by 25%",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Pixel 140W GaN charger, designed for MacBook and other devices, is now being offered at a steep discount by both Amazon and the accessories retailer Sharge. Each retailer lists the charger for just under $70—$69.88 on Amazon and $69.90 on Sharge—representing a $24 reduction from its regular price."
+   },
+   {
+    "type": "p",
+    "text": "The price cut translates to more than a 25 percent discount, making the high‑wattage, GaN‑based charger more accessible to consumers seeking a stylish and powerful charging solution. The charger’s sleek design and ability to deliver up to 140 watts have been highlighted as key selling points for users with demanding laptops and peripherals."
+   },
+   {
+    "type": "p",
+    "text": "While the source notes the discounted pricing, it also mentions that Sharge carries additional charger models for buyers who do not need the full 140‑watt output, though specific details about those alternatives are not provided."
+   },
+   {
+    "type": "p",
+    "text": "The promotion is available now, with both retailers listing the same discounted price, allowing shoppers in the United States and other markets to take advantage of the savings immediately."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The reduced price makes a high‑performance, GaN‑based charger more affordable for MacBook users and other device owners in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "The Pixel 140W GaN charger is priced at $69.88 on Amazon and $69.90 on Sharge.",
+   "The discount of $24 represents more than a 25% price cut from the charger’s usual cost.",
+   "Sharge also offers lower‑wattage charger options for customers who need less power."
+  ],
+  "meta_description": "Amazon and Sharge slash the Pixel 140W GaN MacBook charger price by over 25%, now selling it for just under $70.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "MacBook",
+   "charger",
+   "discount",
+   "GaN",
+   "Sharge",
+   "Amazon"
+  ],
+  "slug": "sharge-amazon-cut-pixel-140w-gan-macbook-charger-price-fa929d",
+  "reading_minutes": 1,
+  "added": "2026-11-11T15:39:32Z",
+  "trends": []
+ },
+ {
+  "id": "67a71772f6c8a2c2",
+  "source_url": "https://www.nytimes.com/2026/11/11/us/politics/jim-himes-cia-house-intelligence-oversight.html",
+  "source": "The New York Times",
+  "source_title": "Incoming House Intelligence Chairman Vows Oversight of CIA’s Use of Covert Action",
+  "source_summary": "Representative Jim Himes, who will run the powerful intelligence committee in the new Congress, said he also planned to scrutinize contractor donations to President Trump’s construction projects.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Espionage and Intelligence Services",
+   "Appointments and Executive Changes",
+   "Central Intelligence Agency",
+   "Democratic Party",
+   "House Committee on Intelligence",
+   "Himes, James A (1966- )",
+   "Ratcliffe, John Lee (1965- )",
+   "Trump, Donald J",
+   "Clayton, Walter J"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/10/us/dc-intel/dc-intel-mediumSquareAt3X.jpg",
+  "published": "2026-11-11T15:27:51+00:00",
+  "headline": "Rep. Jim Himes Promises CIA Oversight as New Intelligence Chair",
+  "body": [
+   {
+    "type": "p",
+    "text": "Representative Jim Himes of Connecticut will chair the House Permanent Select Committee on Intelligence when the new Congress convenes, according to a statement released on November 11, 2026. In his opening remarks, Himes said the committee will intensify oversight of the Central Intelligence Agency’s covert‑action programs, emphasizing the need for transparency and accountability."
+   },
+   {
+    "type": "p",
+    "text": "Himes also indicated that the committee will examine the flow of money from private contractors to President Donald Trump’s construction projects. He suggested that such donations could raise conflict‑of‑interest concerns and merit closer scrutiny by congressional investigators."
+   },
+   {
+    "type": "p",
+    "text": "The announcement comes as the intelligence community faces heightened scrutiny over secret operations abroad and domestic political fundraising practices. Himes, a former member of the House Foreign Affairs Committee, highlighted his experience in national security matters as a foundation for the new oversight agenda."
+   },
+   {
+    "type": "p",
+    "text": "While no specific investigations have been launched yet, the chairman’s pledge signals a broader push by Democrats in the House to tighten controls on covert actions and ensure that private sector contributions do not influence government contracts or policy decisions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Enhanced oversight of covert operations and campaign‑related donations could affect U.S. foreign policy conduct and domestic political integrity."
+   }
+  ],
+  "key_points": [
+   "Rep. Jim Himes will lead the House Intelligence Committee in the incoming Congress.",
+   "He vows to increase oversight of CIA covert‑action activities.",
+   "Himes plans to investigate contractor donations to President Trump’s construction projects."
+  ],
+  "meta_description": "Rep. Jim Himes, new House Intelligence Chair, pledges tighter CIA oversight and scrutiny of contractor donations to Trump projects.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jim Himes",
+   "House Intelligence Committee",
+   "CIA oversight",
+   "campaign finance",
+   "Trump construction"
+  ],
+  "slug": "rep-jim-himes-promises-cia-oversight-new-intelligence-chair-67a717",
+  "reading_minutes": 1,
+  "added": "2026-11-11T15:39:19Z",
+  "trends": []
+ },
+ {
+  "id": "2f2ca5192f7d623c",
+  "source_url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Brazil electoral court fines Meta, sees no deliberate election bias",
+  "source_summary": "The fine came after President Lula's coalition filed a complaint. The court said there was no evidence of intent to influence the election. Meta said it will defend itself against \"false allegations.\"",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79726595_6.jpg",
+  "published": "2026-11-11T15:17:00+00:00",
+  "headline": "Brazil Electoral Court Fines Meta, Finds No Deliberate Election Bias",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazil's Superior Electoral Court imposed a fine on Meta after a complaint was lodged by President Luiz Inácio Lula da Silva's coalition. The complaint alleged that the social‑media giant had acted to influence the recent election, prompting the court to examine the platform's conduct."
+   },
+   {
+    "type": "p",
+    "text": "After reviewing the evidence, the court concluded that there was no proof of intentional interference or bias aimed at swaying the vote. While the fine was upheld, judges emphasized that the decision was based on procedural violations rather than any proven attempt to affect the election outcome."
+   },
+   {
+    "type": "p",
+    "text": "Meta responded by stating it will contest the penalty, describing the accusations as \"false allegations\" and pledging to defend its actions in court. The company reiterated its commitment to complying with local regulations and maintaining a neutral stance in political matters."
+   },
+   {
+    "type": "p",
+    "text": "The ruling underscores the growing scrutiny of large tech firms by electoral authorities in Brazil, a country that has intensified its focus on digital platform accountability following the 2022 elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights how democratic nations are tightening oversight of social‑media platforms ahead of elections, a trend relevant to regulators in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Brazil's electoral court fined Meta after a complaint from President Lula's coalition.",
+   "Judges found no evidence that Meta deliberately tried to influence the election.",
+   "Meta plans to appeal, calling the allegations against it false."
+  ],
+  "meta_description": "Brazil's electoral court fines Meta but finds no deliberate election bias, prompting the company to vow an appeal.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brazil",
+   "Meta",
+   "electoral court",
+   "election interference",
+   "tech regulation"
+  ],
+  "slug": "brazil-electoral-court-fines-meta-finds-no-deliberate-election-2f2ca5",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-11T15:39:38Z",
+  "trends": []
+ },
+ {
+  "id": "fafd0716dc850393",
+  "source_url": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+  "source": "CNBC",
+  "source_title": "Measles is surging in the U.S. — and outbreaks can cost millions",
+  "source_summary": "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108169600-1752074893642-gettyimages-2209442815-l1052839_ux0og2eg.jpeg?v=1794337701&w=1920&h=1080",
+  "published": "2026-11-11T15:14:53+00:00",
+  "headline": "Johns Hopkins Tool Finds 2025 U.S. Measles Outbreak Cost Over $37M",
+  "body": [
+   {
+    "type": "p",
+    "text": "Measles cases are on the rise across the United States, prompting health officials to warn of a growing public‑health threat. The surge has drawn attention to the financial strain that outbreaks can place on communities and governments."
+   },
+   {
+    "type": "p",
+    "text": "Researchers at Johns Hopkins University have created a new analytical tool designed to quantify the economic impact of infectious‑disease events. Applying the model to the 2025 measles outbreak, the team calculated that the episode generated costs exceeding $37 million."
+   },
+   {
+    "type": "p",
+    "text": "The estimate includes direct medical expenses, public‑health response costs, and indirect losses such as missed work and school days. By translating disease spread into dollar terms, the tool aims to help policymakers assess the fiscal benefits of vaccination programs and outbreak prevention measures."
+   },
+   {
+    "type": "p",
+    "text": "While the study focuses on a single year, its findings underscore the broader financial risks associated with declining vaccination rates. Officials in the U.S. and abroad may use the data to justify investments in immunization campaigns and to prepare budgets for potential future outbreaks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Understanding the monetary burden of measles helps U.S. and European policymakers weigh the cost‑effectiveness of vaccination initiatives and outbreak preparedness."
+   }
+  ],
+  "key_points": [
+   "Measles cases are increasing in the United States, raising public‑health concerns.",
+   "A Johns Hopkins‑developed tool estimates the 2025 U.S. measles outbreak cost over $37 million.",
+   "The cost analysis includes medical care, response efforts, and economic losses from missed work and school."
+  ],
+  "meta_description": "A Johns Hopkins tool estimates the 2025 U.S. measles outbreak cost over $37 million, highlighting the economic stakes of rising cases.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "measles",
+   "public health",
+   "economics",
+   "Johns Hopkins",
+   "outbreak",
+   "vaccination"
+  ],
+  "slug": "johns-hopkins-tool-finds-2025-u-s-measles-outbreak-fafd07",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-11T15:39:25Z",
+  "trends": []
+ },
+ {
+  "id": "e01c26203b2d1aa2",
+  "source_url": "https://www.dw.com/en/is-aiib-s-complaint-mechanism-failing-affected-communities/a-79919917?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Is AIIB's complaint mechanism failing affected communities?",
+  "source_summary": "The AIIB has a grievance redress mechanism for people affected by projects it finances. But those seeking to file a complaint face significant hurdles. Critics say reforms and greater transparency are needed.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79842589_6.jpg",
+  "published": "2026-11-11T15:12:00+00:00",
+  "headline": "AIIB Grievance System Stumbles as Affected Communities Face Hurdles",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Asian Infrastructure Investment Bank (AIIB) operates a grievance redress mechanism intended to address concerns of people impacted by the bank's financed projects. The system is meant to provide a formal channel for complaints and seek remedial action."
+   },
+   {
+    "type": "p",
+    "text": "According to the latest report, individuals attempting to file complaints encounter significant procedural obstacles that impede timely resolution. Critics highlight that the process lacks clarity, is difficult to navigate, and often leaves complainants without adequate feedback."
+   },
+   {
+    "type": "p",
+    "text": "The challenges have prompted calls for comprehensive reforms of the mechanism. Observers and civil‑society groups argue that greater transparency and clearer guidelines are essential to ensure that affected communities can effectively voice their grievances."
+   },
+   {
+    "type": "p",
+    "text": "The AIIB has not yet detailed specific changes, but the criticism underscores growing scrutiny of how multilateral lenders manage social and environmental impacts of their infrastructure investments."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The effectiveness of AIIB's grievance system influences global infrastructure standards and investor confidence in projects that affect local populations."
+   }
+  ],
+  "key_points": [
+   "AIIB's grievance redress mechanism is criticized for being hard to access.",
+   "Affected communities face procedural hurdles that delay complaint resolution.",
+   "Observers demand reforms and increased transparency in the bank's process."
+  ],
+  "meta_description": "AIIB's grievance mechanism faces criticism for procedural hurdles, prompting calls for reforms and greater transparency.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AIIB",
+   "grievance mechanism",
+   "infrastructure",
+   "transparency",
+   "reforms",
+   "civil society"
+  ],
+  "slug": "aiib-grievance-system-stumbles-affected-communities-face-hurdles-e01c26",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-11T15:40:01Z",
+  "trends": []
+ },
+ {
+  "id": "0d3376249b4798ad",
+  "source_url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+  "source": "TechCrunch",
+  "source_title": "Siri co-founder backs Helix for its voice ID tech",
+  "source_summary": "Helix said that its voice ID tech can run on an iPhone 13",
+  "source_tags": [
+   "Fundraising",
+   "TC",
+   "siri",
+   "voice AI"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Helix-Co-Founders-Credit_-Coy-Gutierrez.jpg?resize=1200,800",
+  "published": "2026-11-11T15:02:47+00:00",
+  "headline": "Siri Co‑Founder Invests in Helix as Voice ID Runs on iPhone 13",
+  "body": [
+   {
+    "type": "p",
+    "text": "The co‑founder of Siri has announced financial backing for Helix, a startup developing voice identification technology. The endorsement was disclosed in a statement released on November 11, 2026."
+   },
+   {
+    "type": "p",
+    "text": "Helix highlighted that its voice ID system is capable of operating directly on an iPhone 13, demonstrating the technology’s compatibility with existing consumer hardware. The company emphasized that the solution runs locally on the device without requiring cloud processing."
+   },
+   {
+    "type": "p",
+    "text": "The investment ties a veteran voice‑assistant pioneer to a firm seeking to bring biometric authentication to mainstream smartphones. Helix’s claim underscores a growing trend toward on‑device security features that protect user privacy."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the partnership could accelerate the adoption of voice‑based authentication in everyday devices, though Helix has not provided further details on rollout plans or additional device support."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "On‑device voice ID could enhance security for smartphone users in the US and Europe by reducing reliance on cloud services."
+   }
+  ],
+  "key_points": [
+   "A Siri co‑founder has provided backing to Helix, a voice ID startup.",
+   "Helix says its voice identification technology can run on an iPhone 13.",
+   "The move signals increased interest in on‑device biometric security."
+  ],
+  "meta_description": "Siri co‑founder backs Helix, whose voice ID tech now runs on iPhone 13, highlighting a push for on‑device biometric security.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Siri",
+   "Helix",
+   "voice identification",
+   "iPhone 13",
+   "biometric security"
+  ],
+  "slug": "siri-cofounder-invests-helix-voice-id-runs-iphone-13-0d3376",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-11T15:39:52Z",
+  "trends": []
+ },
+ {
+  "id": "b61c3675cf532798",
+  "source_url": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+  "source": "CNBC",
+  "source_title": "JetBlue's CEO has pushed back on creditor fears and is betting on premium to return to profitability",
+  "source_summary": "JetBlue will give reporters a look at its new first class seats on Wednesday.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108548411-1794343015653-gettyimages-2271061996-AFP_A83U2E4.jpeg?v=1794343051&w=1920&h=1080",
+  "published": "2026-11-11T15:00:02+00:00",
+  "headline": "JetBlue CEO Counters Creditor Concerns, Showcases New First‑Class Seats",
+  "body": [
+   {
+    "type": "p",
+    "text": "JetBlue Airways announced that its chief executive will address lingering creditor worries by emphasizing a renewed focus on premium‑class offerings as the airline works to restore profitability. The CEO’s comments come as the carrier seeks to reassure investors and lenders that its strategic shift toward higher‑margin services will generate the cash flow needed to meet debt obligations."
+   },
+   {
+    "type": "p",
+    "text": "To illustrate the premium push, JetBlue scheduled a media preview for Wednesday, inviting reporters to experience its redesigned first‑class cabin. The new seats feature upgraded amenities and a refreshed interior, signaling the airline’s commitment to attracting higher‑spending travelers and differentiating its product in a competitive market."
+   },
+   {
+    "type": "p",
+    "text": "While the preview highlights the airline’s product innovation, the CEO also directly rebutted speculation that mounting creditor pressure could force drastic cost‑cutting measures. By betting on premium revenue, JetBlue aims to balance its cost structure with higher yields, a tactic it believes will pave the way back to sustained earnings growth."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European travelers may see enhanced cabin experiences as JetBlue seeks to boost earnings, while investors watch the airline’s debt‑management tactics."
+   }
+  ],
+  "key_points": [
+   "JetBlue’s CEO is actively countering creditor concerns by focusing on premium‑class growth.",
+   "The airline will showcase its new first‑class seats to reporters on Wednesday.",
+   "Management believes a premium‑centric strategy will help return the carrier to profitability."
+  ],
+  "meta_description": "JetBlue CEO pushes back on creditor fears, highlighting new first‑class seats and a premium‑focused plan to regain profitability.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "JetBlue",
+   "airline industry",
+   "premium seating",
+   "creditor concerns",
+   "profitability"
+  ],
+  "slug": "jetblue-ceo-counters-creditor-concerns-showcases-new-firstclass-seats-b61c36",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-11T15:39:44Z",
+  "trends": []
+ },
+ {
+  "id": "5b1815b0ab0368eb",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm15egny92lvo",
+  "source": "BBC News",
+  "source_title": "Reform boycotts Senedd after member banned for saying white people are being replaced",
+  "source_summary": "Party members withdraw from most Senedd proceedings over speaking ban on Joe Martin.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6444/live/1aaf63e0-dde4-11f1-9cf4-b188db5b2d8c.jpg",
+  "published": "2026-11-11T14:32:16+00:00",
+  "headline": "Welsh Reform Party Boycotts Senedd After Member Banned Over Race Comment",
+  "body": [
+   {
+    "type": "p",
+    "text": "On 11 November 2026, the Reform Party announced a boycott of most proceedings in the Senedd after its member, Joe Martin, was barred from speaking. The ban was imposed after Martin said that white people were being replaced, a remark that the Senedd deemed unacceptable."
+   },
+   {
+    "type": "p",
+    "text": "In response, Reform Party members withdrew from the majority of scheduled debates and votes, signalling a coordinated protest against the speaking ban. The party’s action affected the day’s legislative agenda, with several committees operating with reduced attendance."
+   },
+   {
+    "type": "p",
+    "text": "Senedd officials confirmed the ban was applied in line with the parliament’s code of conduct, which prohibits statements that could be interpreted as hate speech. The Reform Party has not indicated whether it will resume participation pending a review of the disciplinary decision."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts note that the standoff highlights ongoing tensions in Welsh politics over the balance between free expression and anti‑discrimination rules. The boycott is expected to draw attention to the party’s grievances ahead of upcoming elections."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute underscores broader European debates on free speech limits within parliamentary settings and could influence upcoming elections in Wales."
+   }
+  ],
+  "key_points": [
+   "Joe Martin was prohibited from speaking in the Senedd after claiming white people are being replaced.",
+   "The Reform Party responded by boycotting most Senedd proceedings on 11 November 2026.",
+   "Senedd officials cite its code of conduct as the basis for the speaking ban."
+  ],
+  "meta_description": "Reform Party boycotts Senedd after member Joe Martin is banned for saying white people are being replaced, sparking a protest over free speech rules.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Wales",
+   "Reform Party",
+   "Senedd",
+   "free speech",
+   "boycott",
+   "political protest"
+  ],
+  "slug": "welsh-reform-party-boycotts-senedd-after-member-banned-over-5b1815",
+  "reading_minutes": 1,
+  "added": "2026-11-11T15:39:40Z",
+  "trends": []
+ },
+ {
+  "id": "e6f794bee4e11597",
+  "source_url": "https://www.bbc.co.uk/sport/horse-racing/articles/c3pw48qyjz2ko",
+  "source": "BBC Sport",
+  "source_title": "Welsh Grand National-winning jockey O'Brien dies aged 39",
+  "source_summary": "Tom O'Brien, the nephew of trainer Aidan, rode more than 1,000 winners and won the Welsh Grand National twice.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad33/live/fa981c70-ddc3-11f1-a50f-85eebf9e50e5.jpg",
+  "published": "2026-11-11T13:29:41+00:00",
+  "headline": "British Welsh Grand National Jockey Tom O'Brien Dies at 39",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tom O'Brien, a prominent jockey best known for his two victories in the Welsh Grand National, died on November 11, 2026, at the age of 39. O'Brien was the nephew of celebrated trainer Aidan O'Brien and built a distinguished career that included more than 1,000 race wins across the United Kingdom and Ireland."
+   },
+   {
+    "type": "p",
+    "text": "His first Welsh Grand National triumph came in 2022, followed by a second win in 2025, cementing his reputation as a leading rider in National Hunt racing. Throughout his career, O'Brien partnered with a range of trainers and owners, consistently delivering strong performances on both flat and jump races."
+   },
+   {
+    "type": "p",
+    "text": "The racing community has responded with tributes, highlighting O'Brien’s skill, professionalism, and the legacy he leaves behind. Colleagues and fans alike remembered his dedication to the sport and his close ties to the O'Brien racing family, noting that his loss will be felt deeply within the industry."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "O'Brien’s achievements made him a notable figure in British and Irish horse racing, influencing the sport’s competitive landscape."
+   }
+  ],
+  "key_points": [
+   "Tom O'Brien, nephew of trainer Aidan O'Brien, died at 39.",
+   "He amassed over 1,000 race wins and won the Welsh Grand National twice.",
+   "The racing world has paid tribute to his skill and impact on the sport."
+  ],
+  "meta_description": "Jockey Tom O'Brien, nephew of trainer Aidan O'Brien and two-time Welsh Grand National winner, dies at 39 after a career of over 1,000 wins.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tom O'Brien",
+   "Welsh Grand National",
+   "horse racing",
+   "British sport",
+   "jockey"
+  ],
+  "slug": "british-welsh-grand-national-jockey-tom-o-brien-dies-e6f794",
+  "reading_minutes": 1,
+  "added": "2026-11-11T15:39:28Z",
+  "trends": [
+   "tom o brien jockey"
+  ]
+ },
+ {
+  "id": "d0a759dbb285fa2d",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o",
+  "source": "BBC Sport",
+  "source_title": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+  "source_summary": "Mauricio Pochettino looks set to turn a decade-long courtship with Man Utd into a full-blown relationship, says chief football writer Phil McNulty.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg",
+  "published": "2026-11-11T12:58:17+00:00",
+  "headline": "Pochettino Nears Manchester United Role After Ten-Year Courtship",
+  "body": [
+   {
+    "type": "p",
+    "text": "Chief football writer Phil McNulty wrote on 11 November 2026 that Mauricio Pochettino appears poised to convert a decade‑long flirtation with Manchester United into a formal appointment. The Argentine manager, who has been linked with the club for ten years, is now being described as close to sealing a full‑blown relationship with the English giants."
+   },
+   {
+    "type": "p",
+    "text": "McNulty’s assessment comes as the Red Devils continue to search for a permanent manager to restore stability after a period of turnover. While the article does not disclose any official offer, it signals that United’s board may be moving nearer to a decision that could shape the club’s direction for the coming seasons."
+   },
+   {
+    "type": "p",
+    "text": "The piece also notes that former United midfielder Michael Carrick deserves a better outcome than the current situation, implying that the club’s handling of its managerial prospects has broader implications for its staff and former players."
+   },
+   {
+    "type": "p",
+    "text": "The commentary highlights the significance of the potential appointment for both United’s on‑field performance and its commercial profile, given the global reach of the Premier League and the club’s extensive fan base across the United States, United Kingdom, Canada, Germany and Switzerland."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Manchester United’s choice of manager will influence the Premier League’s competitive balance and the club’s commercial appeal in major markets such as the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Phil McNulty says Mauricio Pochettino is close to securing a managerial role at Manchester United after ten years of speculation.",
+   "The potential appointment follows a prolonged period of managerial instability at the club.",
+   "Former United midfielder Michael Carrick is mentioned as deserving a more favorable outcome amid the club’s managerial saga."
+  ],
+  "meta_description": "Phil McNulty reports Mauricio Pochettino is nearing a Manchester United job after a decade of links, while Michael Carrick is said to deserve better.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Mauricio Pochettino",
+   "Michael Carrick",
+   "Premier League",
+   "football management"
+  ],
+  "slug": "pochettino-nears-manchester-united-role-after-ten-year-courtship-d0a759",
+  "reading_minutes": 1,
+  "added": "2026-11-11T15:39:48Z",
+  "trends": []
+ },
+ {
   "id": "9ff5f3a7a913b695",
   "source_url": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-opposes-schumer-as-majority-leader.html",
   "source": "The New York Times",
