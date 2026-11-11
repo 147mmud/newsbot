@@ -123,7 +123,7 @@
     </form>
     <div class="wrap"><div class="sr-list"></div></div>
   </div>
-  {% if trending %}
+  {% if trending and page == 'home' %}
   <div class="ticker wrap"><b>Breaking</b>
     <div class="ticker-items">
       {% for t in trending[:5] %}<a href="{{ url('news/' ~ t.slug ~ '/') }}">{{ t.headline }}</a>{% endfor %}

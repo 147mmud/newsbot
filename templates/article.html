@@ -79,6 +79,13 @@
     {% endfor %}
   </div>
 
+  {% if a.same_story %}
+  <aside class="also">
+    <h2>Also reported by other outlets</h2>
+    <ul>{% for r in a.same_story %}<li><a href="{{ url('news/' ~ r.slug ~ '/') }}">{{ r.headline }}</a> <small>— {{ r.source }}</small></li>{% endfor %}</ul>
+  </aside>
+  {% endif %}
+
   <div class="source-box">
     <span>Originally reported by <strong>{{ a.source }}</strong>.</span>
     <a class="btn" href="{{ a.source_url }}" target="_blank" rel="noopener nofollow">Read the full story at {{ a.source }} ›</a>
