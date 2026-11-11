@@ -43,7 +43,8 @@ ENABLED = os.getenv("FB_ENABLED", "").strip().lower() == "true"
 PAGE_ID = os.getenv("FB_PAGE_ID", "").strip()
 TOKEN = os.getenv("FB_PAGE_TOKEN", "").strip()          # GitHub Secret only
 GRAPH = "https://graph.facebook.com/" + os.getenv("FB_GRAPH_VERSION", "v26.0")
-MAX_PER_RUN = int(os.getenv("FB_MAX_PER_RUN", "1"))
+MAX_PER_RUN = int(os.getenv("FB_MAX_PER_RUN", "2"))
+MAX_PER_DAY = int(os.getenv("FB_MAX_PER_DAY", "30"))     # safety cap for news link posts
 MAX_AGE_H = int(os.getenv("FB_MAX_AGE_HOURS", "6"))     # only fresh stories
 DUP_WINDOW_H = int(os.getenv("FB_DUP_WINDOW_HOURS", "48"))
 DUP_THRESHOLD = float(os.getenv("FB_DUP_THRESHOLD", "0.4"))
@@ -135,7 +136,15 @@ def pick(articles: list[dict], ledger: dict, t: datetime) -> list[dict]:
               if v.get("status") in ("posted", "posting", "needs_review") and k in by_id
               and parse(v["ts"]) >= dup_since]
     chosen = []
+    day = iso(t)[:10]
+    done_today = sum(1 for k, v in ledger.items() if not k.startswith(("rl:", "sc:"))
+                     and v.get("status") in ("posted", "posting") and str(v.get("ts", "")).startswith(day))
+    limit = max(0, min(MAX_PER_RUN, MAX_PER_DAY - done_today))
+    if limit == 0:
+        log.info("Daily post cap reached (%d).", MAX_PER_DAY)
     for a in sorted(articles, key=lambda x: x["published"], reverse=True):
+        if limit == 0:
+            break
         if a["id"] in ledger:
             continue
         reason = eligible(a, cutoff)
@@ -147,7 +156,7 @@ def pick(articles: list[dict], ledger: dict, t: datetime) -> list[dict]:
             log.info("skip near-duplicate: %s  ~  %s", a["headline"], twin["headline"])
             continue
         chosen.append(a)
-        if len(chosen) >= MAX_PER_RUN:
+        if len(chosen) >= limit:
             break
     return chosen
 

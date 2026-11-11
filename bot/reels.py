@@ -475,11 +475,12 @@ def matchday_reel(name, day, games):
     return r
 
 
-def news_reel(name, stories):
-    """stories: list of (category, headline, summary)."""
+def news_reel(name, stories, theme=None):
+    """stories: list of (category, headline, summary). theme = (kicker, title, colour1, colour2, seed)."""
+    kick, title, tc1, tc2, tseed = theme or ("TODAY IN", "60 SECONDS", (29, 78, 216), (200, 16, 46), 9)
     cat_color = {"Politics": (29, 78, 216), "World News": (15, 118, 110), "Business": (180, 83, 9),
                  "Tech": (124, 58, 237), "Sports": (21, 128, 61)}
-    bg = CinematicBG((29, 78, 216), (200, 16, 46), seed=9, pitch=False)
+    bg = CinematicBG(tc1, tc2, seed=tseed, pitch=False)
 
     def draw(img, t, reel):
         timings = reel.extra.get("timings", [])
@@ -487,9 +488,9 @@ def news_reel(name, stories):
         d = ImageDraw.Draw(img, "RGBA")
         if t < 2.2:                                           # intro
             d.rounded_rectangle((60, 560, 1020, 960), radius=40, fill=(6, 12, 28, 130))
-            lay = text_layer("TODAY IN", 70, fill=(252, 165, 165), pad=(0, 0))
+            lay = text_layer(kick, 70, fill=(252, 165, 165), pad=(0, 0))
             scaled(lay, ease(t / 0.4), W // 2, 640, img)
-            lay2 = text_layer("60 SECONDS", 130, pad=(0, 0))
+            lay2 = text_layer(title, 130 if len(title) < 13 else 96, pad=(0, 0))
             scaled(lay2, pop((t - 0.3) / 0.5), W // 2, 780, img)
             ctext(d, 900, "The stories that matter: US · UK · Europe", font(36), fill=(203, 213, 225), alpha=ease((t - 0.8) / 0.4))
             return
@@ -518,11 +519,154 @@ def news_reel(name, stories):
         # progress bar for the story
         d.rectangle((0, 1860, int(W * min(1, lt / dur)), 1872), fill=RED)
 
-    lines = ["Here's today in sixty seconds."]
+    lines = ["Here's today in sixty seconds." if theme is None else f"Here's your {title.lower()} briefing."]
     for cat, head, summ in stories:
         lines += [head + ".", summ]
     r = Reel(name, lines, draw, min_seconds=20, caption_y=1300)
     r.extra["no_caption"] = {h + "." for _, h, _ in stories}      # headline already on screen
+    return r
+
+
+# --------------------------------------------------------------------------- extra styles
+def _starts(timings, first, n, end, t0=1.8):
+    """Start time of each of n items whose voice lines begin at timing index `first`."""
+    if len(timings) >= first + n:
+        return [timings[first + k][0] for k in range(n)]
+    return [t0 + k * (end - t0) / n for k in range(n)]
+
+
+def _active(starts, t):
+    return max([k for k in range(len(starts)) if t >= starts[k] - 0.25] or [0])
+
+
+def countdown_reel(name, stories):
+    """Top-N count-down (big numbers). stories: list of (category, headline) best-last order is applied here."""
+    cat_color = {"Politics": (29, 78, 216), "World News": (15, 118, 110), "Business": (180, 83, 9),
+                 "Tech": (124, 58, 237), "Sports": (21, 128, 61)}
+    items = list(stories)[:5]
+    n = len(items)
+    ranked = [(n - k, c, h) for k, (c, h) in enumerate(items)]          # n .. 1
+    lines = [f"Top {n} stories right now."]
+    for num, c, h in ranked:
+        lines.append(f"Number {num}. {h}.")
+
+    def draw(img, t, reel):
+        timings = reel.extra.get("timings", [])
+        background((8, 14, 30), (190, 18, 60), t, img)
+        d = ImageDraw.Draw(img, "RGBA")
+        end = reel.extra["end"]
+        if t < 1.8:
+            lay = text_layer(f"TOP {n}", 220, pad=(0, 0))
+            scaled(lay, pop(t / 0.5), W // 2, 760, img)
+            ctext(d, 930, "STORIES RIGHT NOW", font(56, True), fill=(253, 224, 71), alpha=ease((t - 0.4) / 0.4))
+            return
+        starts = _starts(timings, 1, n, end)
+        i = _active(starts, t)
+        lt = t - (starts[i] - 0.25)
+        num, cat, head = ranked[i]
+        col = cat_color.get(cat, RED)
+        # giant number
+        big = text_layer(str(num), 520, fill=(255, 255, 255), pad=(0, 0), serif=True)
+        scaled(big, pop(lt / 0.5), 330, 640, img)
+        # rank rail
+        for k in range(n):
+            y = 420 + k * 150
+            on = k <= i
+            d.ellipse((960, y, 1010, y + 50), fill=(253, 224, 71, 255) if on else (255, 255, 255, 60))
+            d.text((968, y + 6), str(ranked[k][0]), font=font(30, True), fill=(10, 14, 30, 255) if on else (255, 255, 255, 140))
+        # headline card
+        d.rounded_rectangle((44, 1000, 930, 1560), radius=36, fill=(6, 12, 28, 190), outline=(255, 255, 255, 60), width=2)
+        chip = text_layer(cat.upper(), 36, bg=col + (255,), pad=(26, 12))
+        img.paste(chip, (80 + int((1 - ease(lt / 0.3)) * -700), 1030), chip)
+        f = font(62, True)
+        for j, ln in enumerate(wrap(d, head, f, 820)[:5]):
+            a = ease((lt - 0.2 - j * 0.12) / 0.35)
+            d.text((80 + int((1 - a) * 90), 1130 + j * 80), ln, font=f, fill=WHITE + (int(255 * a),))
+        d.rectangle((0, 1860, int(W * min(1, (t - 1.8) / max(1, end - 1.8))), 1872), fill=GOLD)
+
+    r = Reel(name, lines, draw, min_seconds=18, caption_y=1620)
+    r.extra["no_caption"] = {f"Number {num}. {h}." for num, c, h in ranked}
+    return r
+
+
+def breaking_reel(name, category, headline, points):
+    """One big story, alarm style: hazard stripes, flashing BREAKING banner, bullet cards."""
+    points = [p for p in points if p][:3]
+    lines = ["Breaking news.", headline + "."] + [p if p.endswith(".") else p + "." for p in points]
+
+    def draw(img, t, reel):
+        timings = reel.extra.get("timings", [])
+        d = ImageDraw.Draw(img, "RGBA")
+        d.rectangle((0, 0, W, H), fill=(18, 6, 10))
+        for k in range(-3, 14):                                      # moving hazard stripes
+            x = int(((k * 220) + t * 140) % (W + 660)) - 330
+            d.polygon([(x, 0), (x + 90, 0), (x - 500 + 90, H), (x - 500, H)], fill=(190, 18, 40, 38))
+        flash = 0.65 + 0.35 * math.sin(t * 7)
+        d.rectangle((0, 190, W, 330), fill=(220, 20, 50, int(255 * flash)))
+        ctext(d, 214, "BREAKING NEWS", font(96, True), alpha=ease(t / 0.3))
+        d.text((60, 360), category.upper(), font=font(42, True), fill=(253, 224, 71, 255))
+        s0 = timings[1][0] if len(timings) > 1 else 1.2
+        lt = t - (s0 - 0.2)
+        f = font(76, True)
+        hl = wrap(d, headline, f, 960)[:6]
+        for j, ln in enumerate(hl):
+            a = ease((lt - j * 0.15) / 0.3)
+            d.text((60 + int((1 - a) * 120), 430 + j * 98), ln, font=f, fill=WHITE + (int(255 * a),))
+        y0 = 430 + len(hl) * 98 + 40
+        ps = [timings[2 + k][0] if len(timings) > 2 + k else s0 + 2 + k * 2.5 for k in range(len(points))]
+        for k, pt in enumerate(points):
+            a = ease((t - ps[k]) / 0.35)
+            if a <= 0:
+                continue
+            ff = font(40)
+            tl = wrap(d, pt, ff, 880)[:3]
+            h = 40 + len(tl) * 52
+            d.rounded_rectangle((60 + int((1 - a) * 400), y0, 1020, y0 + h), radius=22, fill=(255, 255, 255, int(28 * a)),
+                                outline=(253, 224, 71, int(160 * a)), width=2)
+            for j, ln in enumerate(tl):
+                d.text((100 + int((1 - a) * 400), y0 + 22 + j * 52), ln, font=ff, fill=(255, 255, 255, int(255 * a)))
+            y0 += h + 22
+
+    r = Reel(name, lines, draw, min_seconds=16, caption_y=1560)
+    r.extra["no_caption"] = {headline + "."} | {l for l in lines[2:]}
+    return r
+
+
+def poll_reel(name, a, b):
+    """Which story matters more? a, b = (category, headline). Split-screen vote in the comments."""
+    lines = ["Which story matters more to you?", f"Option A. {a[1]}.", f"Option B. {b[1]}.", "Vote A or B in the comments."]
+
+    def draw(img, t, reel):
+        timings = reel.extra.get("timings", [])
+        d = ImageDraw.Draw(img, "RGBA")
+        d.rectangle((0, 0, W, H // 2), fill=(23, 60, 160))
+        d.rectangle((0, H // 2, W, H), fill=(170, 20, 50))
+        for k in range(5):
+            y = int((t * 160 + k * 400) % (H + 300)) - 150
+            d.polygon([(0, y), (W, y - 200), (W, y - 170), (0, y + 30)], fill=(255, 255, 255, 12))
+        end = reel.extra["end"]
+        sa = timings[1][0] if len(timings) > 1 else 2.0
+        sb = timings[2][0] if len(timings) > 2 else sa + 5
+        for letter, (cat, head), t0, y in (("A", a, sa, 220), ("B", b, sb, 1070)):
+            k = ease((t - t0 + 0.3) / 0.45)
+            if k <= 0:
+                continue
+            badge = text_layer(letter, 150, pad=(34, 6), bg=(255, 255, 255, 255), fill=NAVY)
+            scaled(badge, pop((t - t0 + 0.3) / 0.5), 140, y + 70, img)
+            d.text((260, y + 10), cat.upper(), font=font(36, True), fill=(253, 224, 71, int(255 * k)))
+            f = font(58, True)
+            for j, ln in enumerate(wrap(d, head, f, 760)[:5]):
+                aa = ease((t - t0 + 0.3 - j * 0.1) / 0.35)
+                d.text((260 + int((1 - aa) * 90), y + 60 + j * 74), ln, font=f, fill=WHITE + (int(255 * aa),))
+        vs = text_layer("VS", 120, pad=(30, 10), bg=(10, 14, 30, 255), fill=GOLD)
+        scaled(vs, 1 + 0.06 * math.sin(t * 5), W // 2, H // 2, img)
+        if t < 1.8:
+            d.rectangle((0, 560, W, 1000), fill=(6, 12, 28, 215))
+            ctext(d, 650, "WHICH STORY", font(100, True), alpha=ease(t / 0.3))
+            ctext(d, 790, "MATTERS MORE?", font(100, True), fill=(253, 224, 71), alpha=ease((t - 0.2) / 0.3))
+
+    r = Reel(name, lines, draw, min_seconds=18, caption_y=1560)
+    r.extra["no_caption"] = {lines[1], lines[2]}
     return r
 
 

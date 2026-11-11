@@ -28,8 +28,9 @@ from bot import scores_fb as S
 log = logging.getLogger("reels_fb")
 
 ENABLED = os.getenv("FB_REELS_ENABLED", "").strip().lower() == "true"
-MAX_PER_DAY = int(os.getenv("FB_REELS_MAX_PER_DAY", "3"))
-FORCE = os.getenv("FB_REELS_FORCE", "").strip().lower()      # result|matchday|news: ignore time windows (manual runs)
+MAX_PER_DAY = int(os.getenv("FB_REELS_MAX_PER_DAY", "8"))
+MIN_GAP_MIN = int(os.getenv("FB_REELS_MIN_GAP_MIN", "75"))    # minutes between two reels
+FORCE = os.getenv("FB_REELS_FORCE", "").strip().lower()      # result|matchday|news|break|top5|poll|desk: ignore time windows (manual runs)
 CAT = {"politics": "Politics", "world": "World News", "business": "Business", "tech": "Tech", "sports": "Sports"}
 SITE = S.SITE.replace("https://", "")
 
@@ -115,6 +116,116 @@ def news_candidate(ledger, t):
     return {"key": key, "kind": "news", "reel": reel, "caption": cap, "title": "Reel today in 60 seconds"}
 
 
+# --------------------------------------------------------------------------- extra reel styles (news, no photos)
+HASH = {"politics": "#Politics #USPolitics", "world": "#WorldNews", "business": "#Business #Markets", "tech": "#Tech #AI",
+        "sports": "#Sports"}
+DESK = {  # category -> (kicker, title, colour 1, colour 2, seed)
+    "politics": ("POLITICS", "POLITICS BRIEF", (29, 78, 216), (127, 29, 29), 11),
+    "world": ("WORLD", "WORLD BRIEF", (15, 118, 110), (30, 58, 138), 12),
+    "business": ("BUSINESS", "MARKET BRIEF", (180, 83, 9), (21, 128, 61), 13),
+    "tech": ("TECH", "TECH BRIEF", (124, 58, 237), (14, 116, 144), 14),
+    "sports": ("SPORTS", "SPORTS BRIEF", (21, 128, 61), (29, 78, 216), 15),
+}
+
+
+def fresh_pool(t, hours):
+    """Newest-first, indexable, de-duplicated recent stories."""
+    arts = fb.load_json(fb.ARTICLES, [])
+    pool = []
+    for a in sorted(arts, key=lambda x: x["published"], reverse=True):
+        if fb.parse(a["published"]) < t - timedelta(hours=hours) or not a.get("index", True):
+            continue
+        if any(fb.similarity(a, p) >= fb.DUP_THRESHOLD for p in pool):
+            continue
+        pool.append(a)
+    return pool
+
+
+def breaking_candidate(ledger, t):
+    for a in fresh_pool(t, 4):
+        key = f"rl:break:{a['id']}"
+        pts = [x for x in (a.get("key_points") or []) if x][:3]
+        if key in ledger or len(pts) < 2:
+            continue
+        cat = CAT.get(a["category"], "News")
+        reel = R.breaking_reel(f"break_{a['id'][:10]}", cat, a["headline"], pts)
+        cap = (f"🚨 BREAKING | {a['headline']}\n" + "\n".join(f"• {p}" for p in pts)
+               + f"\n💬 What do you think? 👇\n📰 Full story: {SITE}\n{HASH.get(a['category'], '#News')} #BreakingNews #Reels")
+        return {"key": key, "kind": "break", "reel": reel, "caption": cap, "title": f"Reel breaking {a['headline'][:50]}"}
+
+
+def top5_candidate(ledger, t):
+    key = f"rl:top5:{t.strftime('%Y-%m-%d')}-{t.hour // 6}"
+    if key in ledger:
+        return None
+    pool = fresh_pool(t, 12)
+    pick, counts = [], {}
+    for a in pool:                                  # at most 2 per section, 5 total
+        if counts.get(a["category"], 0) >= 2:
+            continue
+        counts[a["category"]] = counts.get(a["category"], 0) + 1
+        pick.append(a)
+        if len(pick) == 5:
+            break
+    if len(pick) < 5:
+        return None
+    items = [(CAT.get(a["category"], "News"), a["headline"]) for a in pick]
+    reel = R.countdown_reel(f"top5_{t.strftime('%Y%m%d%H')}", items)
+    ranked = list(zip(range(5, 0, -1), pick))
+    cap = ("🔥 TOP 5 STORIES RIGHT NOW\n" + "\n".join(f"{n}. {a['headline']}" for n, a in ranked)
+           + f"\n💬 Which one surprised you most? 👇\n📰 Read more: {SITE}\n#News #Trending #USNews #UKNews #Reels")
+    return {"key": key, "kind": "top5", "reel": reel, "caption": cap, "title": "Reel top 5 stories"}
+
+
+def poll_candidate(ledger, t):
+    key = f"rl:poll:{t.strftime('%Y-%m-%d')}-{t.hour // 8}"
+    if key in ledger:
+        return None
+    pool = fresh_pool(t, 12)
+    if not pool:
+        return None
+    a = pool[0]
+    b = next((x for x in pool[1:] if x["category"] != a["category"]), None)
+    if not b:
+        return None
+    reel = R.poll_reel(f"poll_{t.strftime('%Y%m%d%H')}", (CAT.get(a["category"], "News"), a["headline"]),
+                       (CAT.get(b["category"], "News"), b["headline"]))
+    cap = (f"🗳️ WHICH STORY MATTERS MORE?\n🅰️ {a['headline']}\n🅱️ {b['headline']}\n💬 Comment A or B 👇\n"
+           f"📰 Full stories: {SITE}\n#Poll #News #Reels")
+    return {"key": key, "kind": "poll", "reel": reel, "caption": cap, "title": "Reel poll A vs B"}
+
+
+def desk_candidate(ledger, t):
+    day = t.strftime("%Y-%m-%d")
+    pool = fresh_pool(t, 14)
+    for cat in ("business", "tech", "politics", "world", "sports"):
+        key = f"rl:desk:{cat}:{day}"
+        items = [a for a in pool if a["category"] == cat][:3]
+        if key in ledger or len(items) < 3:
+            continue
+        stories = [(CAT[cat], a["headline"], a["meta_description"]) for a in items]
+        reel = R.news_reel(f"desk_{cat}_{t.strftime('%Y%m%d')}", stories, theme=DESK[cat])
+        cap = (f"📌 {DESK[cat][1]} | {CAT[cat].upper()}\n" + "\n".join(f"• {a['headline']}" for a in items)
+               + f"\n💬 Which one do you want to know more about? 👇\n📰 {SITE}\n{HASH[cat]} #Reels")
+        return {"key": key, "kind": "desk", "reel": reel, "caption": cap, "title": f"Reel {cat} brief"}
+
+
+def kinds_today(ledger, t):
+    day = t.strftime("%Y-%m-%d")
+    out = {}
+    for k, v in ledger.items():
+        if k.startswith("rl:") and str(v.get("ts", "")).startswith(day) and v.get("status") in ("posted", "posting"):
+            kind = k.split(":")[1]
+            out[kind] = out.get(kind, 0) + 1
+    return out
+
+
+def last_reel_age_min(ledger, t):
+    ts = [fb.parse(v["ts"]) for k, v in ledger.items()
+          if k.startswith("rl:") and v.get("status") in ("posted", "posting") and v.get("ts")]
+    return (t - max(ts)).total_seconds() / 60 if ts else 10 ** 6
+
+
 def reels_today(ledger, t):
     day = t.strftime("%Y-%m-%d")
     return sum(1 for k, v in ledger.items() if k.startswith("rl:") and v.get("status") in ("posted", "posting")
@@ -159,11 +270,27 @@ def run() -> int:
     events = list({e["id"] + e["league"]: e for e in events}.values())
     log.info("ESPN events loaded: %d", len(events))
 
-    order = {"result": [result_candidate], "matchday": [matchday_candidate], "news": [news_candidate]}.get(
-        FORCE, [result_candidate, matchday_candidate, news_candidate])
+    if live and not FORCE and last_reel_age_min(ledger, t) < MIN_GAP_MIN:
+        log.info("Last reel was less than %d minutes ago - waiting.", MIN_GAP_MIN)
+        return 0
+
+    plain = {"news": news_candidate, "break": breaking_candidate, "top5": top5_candidate,
+             "poll": poll_candidate, "desk": desk_candidate}
+    if FORCE in plain:
+        order = [plain[FORCE]]
+    elif FORCE in ("result", "matchday"):
+        order = [result_candidate if FORCE == "result" else matchday_candidate]
+    else:
+        # sports results / match-day first, then the news style used least so far today (styles rotate)
+        used = kinds_today(ledger, t)
+        styles = sorted(plain, key=lambda k: (used.get(k, 0), list(plain).index(k)))
+        order = [result_candidate, matchday_candidate] + [plain[k] for k in styles]
     cand = None
     for f in order:
-        cand = f(ledger, t) if f is news_candidate else f(events, ledger, t)
+        if f in (result_candidate, matchday_candidate):
+            cand = f(events, ledger, t)
+        else:
+            cand = f(ledger, t)
         if cand:
             break
     if not cand:
