@@ -4,7 +4,7 @@ name: NewsBot
 on:
   schedule:
     # Minutes 7 and 37 instead of :00/:30 - GitHub delays jobs queued on the hour.
-    - cron: "7,37 * * * *"
+    - cron: "7,27,47 * * * *"
   workflow_dispatch:            # "Run workflow" button for manual runs
   push:                         # rebuild when you change the design/code
     branches: [main]
@@ -126,7 +126,8 @@ jobs:
           SITE_URL: ${{ vars.SITE_URL }}
           FB_ENABLED: ${{ vars.FB_ENABLED }}
           FB_PAGE_ID: ${{ vars.FB_PAGE_ID }}
-          FB_MAX_PER_RUN: ${{ vars.FB_MAX_PER_RUN || '1' }}
+          FB_MAX_PER_RUN: ${{ vars.FB_MAX_PER_RUN || '2' }}
+          FB_MAX_PER_DAY: ${{ vars.FB_MAX_PER_DAY || '30' }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
         run: |
           git config user.name  "newsbot"
