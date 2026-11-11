@@ -213,7 +213,12 @@ def page_has_link(link: str) -> bool:
 
 
 def message_for(a: dict) -> str:
-    return f"{a['headline']}\n\n{a.get('meta_description', '')}".strip()
+    try:
+        from bot.trends import tags_for
+        tags = tags_for(a)
+    except Exception:
+        tags = ""
+    return f"{a['headline']}\n\n{a.get('meta_description', '')}\n\n{tags}".strip()
 
 
 # --------------------------------------------------------------------------- main

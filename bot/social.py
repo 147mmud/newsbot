@@ -13,6 +13,14 @@ TG_T, TG_C = os.getenv("TG_BOT_TOKEN", ""), os.getenv("TG_CHAT_ID", "")
 X_K, X_S = os.getenv("X_API_KEY", ""), os.getenv("X_API_SECRET", "")
 X_T, X_TS = os.getenv("X_ACCESS_TOKEN", ""), os.getenv("X_ACCESS_SECRET", "")
 DIRECT = os.getenv("ADSTERRA_DIRECT", "")          # shown to ~1 in 5 X posts
+def _tr(a, n=2):
+    try:
+        from bot.trends import hashtag
+        return " ".join(h for h in (hashtag(t) for t in a.get("trends", [])[:n]) if h)
+    except Exception:
+        return ""
+
+
 TAGS = {"politics": "#Politics", "world": "#WorldNews", "business": "#Business", "tech": "#Tech", "sports": "#Sports"}
 
 
@@ -39,7 +47,7 @@ def bluesky(a, link):
     s = requests.post("https://bsky.social/xrpc/com.atproto.server.createSession",
                       json={"identifier": BSKY_H, "password": BSKY_P}, timeout=20)
     s.raise_for_status(); s = s.json()
-    text = f"{a['headline']}"[:240] + f" {TAGS.get(a['category'], '')}"
+    text = f"{a['headline']}"[:200] + f" {TAGS.get(a['category'], '')} {_tr(a)}".rstrip()
     embed = {"$type": "app.bsky.embed.external", "external": {
         "uri": link, "title": a["headline"][:200], "description": a["meta_description"][:300]}}
     img = a.get("image")
@@ -62,7 +70,7 @@ def bluesky(a, link):
 
 
 def telegram(a, link):
-    msg = f"<b>{a['headline']}</b>\n{a['meta_description'][:250]}\n\n{link}"
+    msg = f"<b>{a['headline']}</b>\n{a['meta_description'][:250]}\n\n{link}\n{_tr(a, 3)}".rstrip()
     r = requests.post(f"https://api.telegram.org/bot{TG_T}/sendMessage",
                       json={"chat_id": TG_C, "text": msg, "parse_mode": "HTML"}, timeout=20)
     r.raise_for_status()
@@ -75,7 +83,7 @@ def xpost(a, link, n=0):
     if DIRECT and n % 5 == 4:                       # occasional "more stories" post with the direct link
         text = f"More top stories and live scores today {tag}\n{DIRECT}"
     else:
-        text = f"{a['headline']}"[:230] + f" {tag}\n{link}"
+        text = f"{a['headline']}"[:200] + f" {tag} {_tr(a, 1)}".rstrip() + f"\n{link}"
     r = requests.post("https://api.x.com/2/tweets", auth=auth, json={"text": text}, timeout=20)
     r.raise_for_status()
 
