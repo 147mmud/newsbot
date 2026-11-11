@@ -319,3 +319,5 @@ body:has(.sticky-ad:not([hidden])){padding-bottom:100px}
 .wp-opt p{margin:0;color:var(--ink-2);font-size:14px}.wp-opt small{color:var(--ink-3)}
 .wp-opt .btn{text-decoration:none;display:inline-block}
 @media (max-width:760px){.wp-days{grid-template-columns:repeat(4,1fr)}.wp-opts{grid-template-columns:1fr}}
+.also{margin:20px 0;padding:14px 16px;border-left:4px solid var(--brand);background:var(--surface);border-radius:8px}
+.also h2{font-size:16px;margin:0 0 8px}.also ul{margin:0;padding-left:18px}.also li{margin:4px 0}.also small{color:var(--ink-3)}
