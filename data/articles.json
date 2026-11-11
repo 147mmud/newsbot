@@ -1,5 +1,747 @@
 [
  {
+  "id": "335e45d81e0a6603",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+  "source": "BBC News",
+  "source_title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+  "source_summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-11T22:07:37+00:00",
+  "headline": "Clashes Break Out in Barcelona as Tens of Thousands Join Spain General Strike",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Saturday, Barcelona saw violent clashes after thousands of demonstrators joined a nationwide general strike in Spain. The protest drew tens of thousands of participants across the country, marking one of the largest mobilisations in recent months."
+   },
+   {
+    "type": "p",
+    "text": "The strike was organised by Spain's main trade unions, who called for action over two pressing issues: the country's housing crisis and the rising cost of living. Demonstrators gathered in central Barcelona, where confrontations with police escalated into clashes."
+   },
+   {
+    "type": "p",
+    "text": "Police reports indicated that the unrest in Barcelona was sparked by the sheer scale of the turnout, with authorities deploying additional forces to manage the crowds. While the exact number of injured or arrested was not disclosed, the incident underscored the heightened tensions surrounding the strike."
+   },
+   {
+    "type": "p",
+    "text": "Union leaders maintained that the demonstrations reflected widespread frustration among workers and renters, urging the government to address housing affordability and wage stagnation. The clashes, however, raised concerns about public order and the potential for further unrest in other Spanish cities."
+   },
+   {
+    "type": "p",
+    "text": "The events in Barcelona come as European nations grapple with similar socioeconomic challenges, highlighting the broader relevance of Spain's labour movement to the continent's ongoing debates about economic policy and social welfare."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The unrest illustrates growing European discontent over housing costs and living standards, issues also affecting many U.S. and EU cities."
+   }
+  ],
+  "key_points": [
+   "Tens of thousands joined a Spain-wide general strike over housing and cost‑of‑living issues.",
+   "Clashes erupted in Barcelona as police confronted large crowds of demonstrators.",
+   "Spain's main unions say the strike signals deep public frustration with housing affordability."
+  ],
+  "meta_description": "Violent clashes break out in Barcelona as tens of thousands join Spain's general strike over housing and cost‑of‑living concerns.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spain",
+   "Barcelona",
+   "general strike",
+   "housing crisis",
+   "cost of living",
+   "protests"
+  ],
+  "slug": "clashes-break-out-barcelona-tens-thousands-join-spain-general-335e45",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:19:49Z",
+  "trends": []
+ },
+ {
+  "id": "9fb6867c3d9ff634",
+  "source_url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+  "source": "The Verge",
+  "source_title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+  "source_summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing the […]",
+  "source_tags": [
+   "Reviews",
+   "Smart Home",
+   "Smart Home Reviews",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-11T22:00:00+00:00",
+  "headline": "Home Assistant Connect Aux-2 Expands Smart‑Home Device Compatibility",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nabu Casa, the commercial arm of the Open Home Foundation that maintains the Home Assistant platform, introduced the Home Assistant Connect Aux-2 on Tuesday. The new accessory is a compact, multi‑function box designed to simplify the addition of a broader range of devices to a Home Assistant‑based smart home."
+   },
+   {
+    "type": "p",
+    "text": "The Aux‑2 acts as a bridge, allowing users to integrate appliances, sensors and other IoT products that previously required separate hubs or custom configurations. By consolidating these connections, the device aims to make Home Assistant more approachable for non‑technical homeowners."
+   },
+   {
+    "type": "p",
+    "text": "In hands‑on testing, the reviewer noted that the Aux‑2 performed as advertised, successfully linking several new devices without the need for additional software tweaks. The reviewer highlighted the smooth setup process and the device’s reliable operation within the Home Assistant ecosystem."
+   },
+   {
+    "type": "p",
+    "text": "The launch reflects Home Assistant’s ongoing strategy to improve user‑friendliness and broaden its market appeal. Nabu Casa positions the Aux‑2 as a key step toward a more unified smart‑home experience, targeting both existing enthusiasts and newcomers seeking an easier way to expand their connected home."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers see the Aux‑2 as part of a larger trend of modular smart‑home hardware that reduces fragmentation. If the device lives up to early impressions, it could encourage wider adoption of open‑source home automation platforms in North America and Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A more accessible smart‑home hub could accelerate adoption of open‑source automation platforms among US and European consumers seeking alternatives to proprietary ecosystems."
+   }
+  ],
+  "key_points": [
+   "Nabu Casa released the Home Assistant Connect Aux‑2, a multi‑function hub for adding more devices to Home Assistant.",
+   "The device simplifies integration of appliances and sensors, reducing the need for separate hubs.",
+   "Initial testing shows reliable performance and an easier setup process, supporting Home Assistant’s user‑friendly push."
+  ],
+  "meta_description": "Nabu Casa launches the Home Assistant Connect Aux-2, a new hub that broadens device compatibility and simplifies smart‑home setup.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Home Assistant",
+   "smart home",
+   "IoT",
+   "Nabu Casa",
+   "technology"
+  ],
+  "slug": "home-assistant-connect-aux-2-expands-smarthome-device-compatibility-9fb686",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:19:53Z",
+  "trends": []
+ },
+ {
+  "id": "3dc299943d41b299",
+  "source_url": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
+  "source": "The New York Times",
+  "source_title": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
+  "source_summary": "The upheaval points to a broader dilemma spurred by the election: whether the department can carry out President Trump’s priorities as career officials eye the exits and senior department officials resign.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Democratic Party",
+   "Justice Department",
+   "Office of Legal Counsel (US)",
+   "Republican Party",
+   "Senate",
+   "Blanche, Todd (Attorney)",
+   "Bondi, Pamela J",
+   "Dhillon, Harmeet"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/10/multimedia/00dc-justice-jbhl/00dc-justice-jbhl-mediumSquareAt3X.jpg",
+  "published": "2026-11-11T21:59:02+00:00",
+  "headline": "Justice Department Faces Leadership Exodus After Midterm Defeat",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Justice Department is confronting a wave of resignations following the recent midterm elections, as senior officials step down and many career staff consider leaving their posts. The turnover comes amid uncertainty about the department’s ability to advance President Trump’s policy agenda."
+   },
+   {
+    "type": "p",
+    "text": "The shift in personnel was highlighted in a New York Times report published on November 11, 2026, which noted that the department’s diminished ranks could hinder its capacity to implement the administration’s priorities. The report described the situation as a broader dilemma triggered by the election results."
+   },
+   {
+    "type": "p",
+    "text": "Career officials, who typically provide continuity across administrations, are reportedly eyeing exits, while senior leaders have already tendered their resignations. This exodus raises questions about the department’s operational stability and its readiness to pursue the President’s directives."
+   },
+   {
+    "type": "p",
+    "text": "Observers note that the Justice Department’s internal challenges may affect ongoing investigations and legal actions, though the report did not specify particular cases. The administration’s ability to fill the vacancies and maintain momentum on its agenda remains uncertain."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A weakened Justice Department could impact the enforcement of U.S. policies and legal actions that also affect transatlantic partners."
+   }
+  ],
+  "key_points": [
+   "Senior Justice Department officials have resigned after the midterm elections.",
+   "Many career staff are considering leaving, creating a leadership gap.",
+   "The departures raise doubts about the department’s ability to carry out President Trump’s priorities."
+  ],
+  "meta_description": "Justice Department sees senior resignations and staff exits after midterms, sparking concerns over its ability to pursue President Trump's agenda.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Justice Department",
+   "midterm elections",
+   "staff resignations",
+   "Trump administration",
+   "government turnover"
+  ],
+  "slug": "justice-department-faces-leadership-exodus-after-midterm-defeat-3dc299",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:19:57Z",
+  "trends": []
+ },
+ {
+  "id": "00c7ae7f9540ca81",
+  "source_url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Spain: Housing crisis prompts general strike, mass nighttime protests",
+  "source_summary": "Hundreds of thousands of citizens have hit the streets to protest Spain's housing crisis after millions of union workers staged a general strike. The crisis has triggered snap elections to take place on November 29.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79924368_6.jpg",
+  "published": "2026-11-11T21:58:00+00:00",
+  "headline": "Spain’s Housing Crisis Sparks General Strike and Night Protests",
+  "body": [
+   {
+    "type": "p",
+    "text": "Hundreds of thousands of Spaniards took to the streets in a wave of nighttime demonstrations, demanding action on the country's worsening housing crisis. The protests followed a massive general strike organized by union workers, which the reports say involved millions of participants across the nation."
+   },
+   {
+    "type": "p",
+    "text": "The unrest has intensified political pressure, prompting the government to call snap elections scheduled for November 29. Organizers and participants framed the vote as a pivotal moment to address the affordability and availability of housing, which they say has become a daily hardship for many families."
+   },
+   {
+    "type": "p",
+    "text": "Authorities have acknowledged the scale of the demonstrations, noting the convergence of labor unrest and public protest as an unprecedented challenge. While the elections loom, the immediate focus remains on how policymakers will respond to the housing emergency that has mobilized both workers and citizens in unprecedented numbers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The housing turmoil and resulting political upheaval could influence broader European economic stability and policy approaches to affordable housing."
+   }
+  ],
+  "key_points": [
+   "Hundreds of thousands protested Spain's housing crisis in nightly rallies.",
+   "Millions of union workers staged a general strike preceding the protests.",
+   "The crisis led the government to announce snap elections for November 29."
+  ],
+  "meta_description": "Spain's housing crisis triggers a massive general strike and nightly protests, leading to snap elections on Nov. 29.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Spain",
+   "housing crisis",
+   "general strike",
+   "protests",
+   "snap election"
+  ],
+  "slug": "spains-housing-crisis-sparks-general-strike-night-protests-00c7ae",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-11T22:20:06Z",
+  "trends": []
+ },
+ {
+  "id": "071d9c002fdefcb3",
+  "source_url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+  "source": "The New York Times",
+  "source_title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+  "source_summary": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+  "source_tags": [
+   "NVIDIA Corporation",
+   "Huang, Jen-Hsun",
+   "Artificial Intelligence",
+   "Computer Chips",
+   "Adultery",
+   "Ethics and Official Misconduct"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
+  "published": "2026-11-11T21:57:50+00:00",
+  "headline": "Jensen Huang Linked to Relationship With Nvidia Executive Amid Spy Probe",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia chief executive Jensen Huang is reported to have had a personal relationship with a senior Nvidia executive who reports directly to him, according to a New York Times article published on November 11, 2026."
+   },
+   {
+    "type": "p",
+    "text": "The disclosure comes while Huang is already under scrutiny for an earlier affair with a Chinese businesswoman whom U.S. intelligence agencies have identified as a Chinese spy. The earlier relationship has raised questions about potential security vulnerabilities at the chipmaker."
+   },
+   {
+    "type": "p",
+    "text": "Details about the new relationship have not been confirmed by Nvidia, and the company has not issued a public comment. The report does not specify the nature of the relationship or any impact on corporate operations."
+   },
+   {
+    "type": "p",
+    "text": "U.S. intelligence officials have previously warned that foreign espionage efforts target high‑technology firms, and the revelation adds to ongoing concerns about insider threats within the semiconductor industry."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that any personal ties between senior executives and individuals with possible foreign ties could attract further regulatory and congressional attention, especially given Nvidia’s strategic importance to U.S. defense and AI initiatives."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Nvidia’s role in AI and defense makes any potential insider risk a matter of national security for the United States and its allies."
+   }
+  ],
+  "key_points": [
+   "Nvidia CEO Jensen Huang is alleged to have been involved with a subordinate executive.",
+   "Huang is already facing scrutiny over a prior affair with a Chinese businesswoman identified as a spy by U.S. intelligence.",
+   "The reports have sparked concerns about potential security risks at a key U.S. technology firm."
+  ],
+  "meta_description": "Nvidia CEO Jensen Huang is reported to have a relationship with a reporting executive amid existing scrutiny over a prior affair with a Chinese spy.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jensen Huang",
+   "Nvidia",
+   "espionage",
+   "corporate governance",
+   "US-China relations"
+  ],
+  "slug": "jensen-huang-linked-relationship-with-nvidia-executive-amid-spy-071d9c",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:20:09Z",
+  "trends": [
+   "new york",
+   "spotlight"
+  ]
+ },
+ {
+  "id": "4374ccda9708c13c",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-hegseth-impeachment-vote",
+  "source": "The Guardian",
+  "source_title": "Democrats lambast absent peers after Republicans block Hegseth impeachment attempt",
+  "source_summary": "Eleven Democrats missed the key procedural vote on the impeachment effort, which failed by just seven votes US politics live – latest updates Democratic lawmakers expressed outrage at nearly a dozen of their colleagues for missing a vote Tuesday evening to impeach the defense secretary, Pete Hegseth , allowing Republicans to defeat the effort. Eleven Democrats missed the key procedural vote on the impeachment effort , which failed by just seven votes. Some blamed traffic and conflicting events and others accused Speaker Mike Johnson of closing the vote early. Many of those not in the Capitol said they support the effort to impeach Hegseth.",
+  "source_tags": [
+   "Pete Hegseth",
+   "Trump administration",
+   "Democrats",
+   "US news",
+   "US politics",
+   "Republicans"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/015a1a2baf166d2eaf78bea3692a71c03a0ca5da/0_0_1800_1440/master/1800.jpg?width=700&quality=85&auto=format&fit=max&s=5b734c91e1e57dafdce9132b019ddc86",
+  "published": "2026-11-11T21:54:30+00:00",
+  "headline": "Democrats Criticize Absent Colleagues After GOP Stops Hegseth Impeachment",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Tuesday evening, a procedural vote to impeach Defense Secretary Pete Hegseth failed in the House of Representatives by a margin of seven votes. The defeat came after eleven Democratic lawmakers were absent for the key vote, prompting sharp criticism from their party colleagues."
+   },
+   {
+    "type": "p",
+    "text": "Republican members moved to block the impeachment effort, and the vote was closed early, a decision some Democrats attribute to Speaker Mike Johnson. Those absent cited traffic delays and conflicting events as reasons for missing the session, while others accused the speaker of deliberately ending the vote before all members could be present."
+   },
+   {
+    "type": "p",
+    "text": "Despite their absence, the missing Democrats said they continue to support the impeachment initiative. The episode has heightened intra‑party tension, with Democratic leaders expressing outrage over the missed opportunity to hold the defense secretary accountable."
+   },
+   {
+    "type": "p",
+    "text": "The failed impeachment underscores the deep partisan divide in Congress, as Republicans successfully thwarted a move that many Democrats view as a necessary check on executive authority."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The failed impeachment highlights escalating partisan battles in Congress and raises questions about the ability to hold senior officials accountable."
+   }
+  ],
+  "key_points": [
+   "Eleven Democrats missed the procedural vote that would have advanced the impeachment of Defense Secretary Pete Hegseth.",
+   "The impeachment effort was defeated by seven votes after Republicans closed the vote early, a move blamed on Speaker Mike Johnson by some Democrats.",
+   "Absent Democrats cited traffic and scheduling conflicts, but maintain they support the impeachment despite missing the vote."
+  ],
+  "meta_description": "Eleven Democrats missed a key vote, leading to GOP defeat of the impeachment effort against Defense Secretary Pete Hegseth.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "impeachment",
+   "Pete Hegseth",
+   "Democrats",
+   "Republicans",
+   "Mike Johnson",
+   "Congress"
+  ],
+  "slug": "democrats-criticize-absent-colleagues-after-gop-stops-hegseth-impeachment-4374cc",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:20:13Z",
+  "trends": [
+   "tomb of the unknown soldier"
+  ]
+ },
+ {
+  "id": "33bddd1c40023b58",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+  "source": "The Verge",
+  "source_title": "United won’t let your AI agent book your flight",
+  "source_summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]",
+  "source_tags": [
+   "AI",
+   "Meta",
+   "News",
+   "OpenAI",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-11T21:54:21+00:00",
+  "headline": "United Bars AI Assistants From Booking Flights Over Privacy Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "United Airlines announced it will not permit personal artificial‑intelligence assistants to purchase tickets on its platform, citing privacy and regulatory issues. The policy applies to all customers attempting to use AI‑driven agents for reservations."
+   },
+   {
+    "type": "p",
+    "text": "The airline said it has not yet observed a significant number of travelers trying to employ AI agents for bookings, according to a report by The Wall Street Journal. United’s stance mirrors similar cautions expressed by other companies, such as food‑delivery service DoorDash, which have also limited AI‑based ordering."
+   },
+   {
+    "type": "p",
+    "text": "United emphasized that its decision is driven by the need to protect passenger data and comply with existing aviation regulations. The carrier did not provide a timeline for revisiting the policy, but indicated it will monitor how AI usage evolves in the travel sector."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the move highlights growing tensions between emerging AI technologies and established regulatory frameworks. While some consumers view AI assistants as convenient, airlines like United are prioritizing data security and legal compliance over early adoption."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The restriction underscores how major travel companies are balancing AI convenience with data protection and compliance, a concern for both US and European passengers."
+   }
+  ],
+  "key_points": [
+   "United Airlines will not allow personal AI assistants to book flights, citing privacy and regulatory concerns.",
+   "The airline reports few attempts by customers to use AI agents for reservations so far.",
+   "United’s policy aligns with similar restrictions from other firms such as DoorDash."
+  ],
+  "meta_description": "United Airlines blocks AI assistants from booking tickets, citing privacy and regulatory worries, as few customers have tried the technology.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "United Airlines",
+   "AI assistants",
+   "flight booking",
+   "privacy",
+   "regulation",
+   "travel industry"
+  ],
+  "slug": "united-bars-ai-assistants-from-booking-flights-over-privacy-33bddd",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:20:21Z",
+  "trends": []
+ },
+ {
+  "id": "6be9f289f6ede05f",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo",
+  "source": "BBC News",
+  "source_title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+  "source_summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
+  "published": "2026-11-11T21:42:20+00:00",
+  "headline": "Labour MPs Oppose Rosebank Drilling Amid Looming Decision",
+  "body": [
+   {
+    "type": "p",
+    "text": "A group of Labour Party MPs voiced strong opposition on Saturday to the proposed drilling at the Rosebank oil field, warning that the project is \"not the answer\" to energy needs. The comments were made as the UK government prepares to decide whether to grant a licence for the offshore development."
+   },
+   {
+    "type": "p",
+    "text": "The dissent comes despite a growing expectation among senior Labour figures that the drilling proposal will ultimately receive approval. Party members expressed concerns about environmental impact and the suitability of further fossil fuel extraction at a time of heightened climate scrutiny."
+   },
+   {
+    "type": "p",
+    "text": "The debate is taking place in Westminster, where the decision on the Rosebank field is expected in the coming weeks. MPs highlighted the need for a clear energy strategy that aligns with the UK's net‑zero targets, while also acknowledging the economic arguments presented by supporters of the project."
+   },
+   {
+    "type": "p",
+    "text": "Industry representatives have argued that the Rosebank development could create jobs and boost the UK’s energy security. However, the Labour MPs' statements underscore a split within the party and the broader political landscape over how best to balance economic interests with climate commitments."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outcome will affect UK energy policy, climate goals and potential job creation, with implications for European energy markets."
+   }
+  ],
+  "key_points": [
+   "Labour MPs publicly rejected the Rosebank drilling proposal, calling it \"not the answer\" to energy challenges.",
+   "Senior Labour figures are still expected to support the project, creating internal party tension.",
+   "The UK government is set to decide on a licence for the offshore field in the coming weeks."
+  ],
+  "meta_description": "Labour MPs oppose Rosebank oil drilling as the UK government nears a decision, highlighting internal party split over energy and climate policy.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rosebank",
+   "Labour Party",
+   "UK energy policy",
+   "oil drilling",
+   "climate debate"
+  ],
+  "slug": "labour-mps-oppose-rosebank-drilling-amid-looming-decision-6be9f2",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:20:25Z",
+  "trends": []
+ },
+ {
+  "id": "3a66a5ce2112c144",
+  "source_url": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
+  "source": "The New York Times",
+  "source_title": "Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy",
+  "source_summary": "That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties.",
+  "source_tags": [
+   "International Relations",
+   "United States Defense and Military Forces",
+   "United States International Relations",
+   "Espionage and Intelligence Services",
+   "Adultery",
+   "Industrial Espionage",
+   "Artificial Intelligence",
+   "Computer Chips",
+   "Asia-Pacific Economic Cooperation",
+   "Central Intelligence Agency"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg",
+  "published": "2026-11-11T21:24:12+00:00",
+  "headline": "US Suspects Nvidia CEO as Chinese Spy Target Amid Tense Diplomacy",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. intelligence agencies have reportedly flagged the chief executive of Nvidia as a potential target of Chinese espionage, according to a New York Times report published on November 11, 2026. The suspicion highlights the ongoing security concerns that Washington maintains regarding high‑technology firms with strategic importance."
+   },
+   {
+    "type": "p",
+    "text": "The allegation emerges at a time when President Joe Biden and Chinese President Xi Jinping are engaged in diplomatic efforts aimed at stabilizing bilateral relations. Despite these overtures, the intelligence finding underscores a deep‑seated mistrust between the two powers."
+   },
+   {
+    "type": "p",
+    "text": "Nvidia, a leading developer of graphics processing units and artificial‑intelligence hardware, has not publicly responded to the claims. The report does not provide details on any specific incidents or evidence, only that the United States believes the company's leader could be of interest to Chinese intelligence services."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the revelation may complicate ongoing diplomatic talks, as it adds a layer of covert competition to the public dialogue. The situation reflects broader tensions over technology transfer, intellectual‑property protection, and national security that have characterized U.S.–China relations in recent years."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode illustrates how espionage concerns can strain diplomatic efforts between the United States and China, affecting both security policy and the tech sector."
+   }
+  ],
+  "key_points": [
+   "U.S. agencies suspect Nvidia's chief executive is a target for Chinese espionage.",
+   "The suspicion comes while Biden and Xi are attempting to steady diplomatic ties.",
+   "The claim highlights persistent distrust between the United States and China over technology."
+  ],
+  "meta_description": "US intelligence flags Nvidia CEO as a Chinese spy target, underscoring deep mistrust amid Biden‑Xi diplomatic talks.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "espionage",
+   "US-China relations",
+   "diplomacy",
+   "technology"
+  ],
+  "slug": "us-suspects-nvidia-ceo-chinese-spy-target-amid-tense-3a66a5",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:20:33Z",
+  "trends": []
+ },
+ {
+  "id": "c9a65f752822ccd6",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cmwyvgvlv2qwo",
+  "source": "BBC Sport",
+  "source_title": "Raducanu to return at January's United Cup after injury lay-off",
+  "source_summary": "Emma Raducanu will make her return to tennis in the United Cup team competition in Australia in the first week of 2027.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a52/live/9f6dc1e0-de01-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-11T18:05:25+00:00",
+  "headline": "Emma Raducanu Set to Return at United Cup in Early 2027",
+  "body": [
+   {
+    "type": "p",
+    "text": "British tennis player Emma Raducanu is scheduled to make her competitive comeback at the United Cup, the mixed‑gender team event held in Australia. The tournament will take place in the first week of 2027, marking her first appearance since a prolonged injury lay‑off."
+   },
+   {
+    "type": "p",
+    "text": "Raducanu, who rose to prominence after winning the US Open in 2021, has been absent from the professional circuit while recovering from the injury that forced her out of competition. Her participation in the United Cup will see her join a national squad competing against other countries in a format that includes both men’s and women’s matches."
+   },
+   {
+    "type": "p",
+    "text": "The United Cup, which serves as a lead‑up event to the Australian Open, will provide Raducanu with a platform to test her fitness and form ahead of the Grand Slam season. Organisers confirmed her entry, and the British Tennis Association welcomed the news, noting that her return adds depth to the team line‑up."
+   }
+  ],
+  "key_points": [
+   "Emma Raducanu will return to professional tennis at the United Cup in Australia.",
+   "The event is scheduled for the first week of 2027, following her injury lay‑off.",
+   "Her comeback gives the British team a high‑profile player ahead of the Australian Open."
+  ],
+  "meta_description": "Emma Raducanu to make her tennis comeback at the United Cup in Australia during the first week of 2027 after an injury lay‑off.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Emma Raducanu",
+   "United Cup",
+   "tennis",
+   "injury comeback",
+   "Australia"
+  ],
+  "slug": "emma-raducanu-set-return-united-cup-early-2027-c9a65f",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:20:01Z",
+  "trends": []
+ },
+ {
+  "id": "52dabe1426689bf0",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o",
+  "source": "BBC Sport",
+  "source_title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+  "source_summary": "From 21-year-old who scored 79 seconds into his debut to being on the brink of breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67bf/live/ee8455c0-dab2-11f1-8c3b-f3c0d6bd7c4f.png",
+  "published": "2026-11-11T16:44:58+00:00",
+  "headline": "Harry Kane’s Fairytale Rise From 79‑Second Debut Goal to Record Appearances",
+  "body": [
+   {
+    "type": "p",
+    "text": "Harry Kane burst onto the international stage at age 21, scoring just 79 seconds after coming on in his first England appearance. The rapid strike marked the start of a career that has seen him become a central figure for the national side."
+   },
+   {
+    "type": "p",
+    "text": "Since that debut, Kane has consistently featured for England, contributing goals and leadership across multiple tournaments and qualifying campaigns. His performances have cemented his reputation as both a prolific scorer and a team captain."
+   },
+   {
+    "type": "p",
+    "text": "BBC Sport reports that Kane now stands on the cusp of surpassing the country's all‑time appearance record, a milestone that would place him among the most enduring figures in English football history."
+   },
+   {
+    "type": "p",
+    "text": "The milestone highlights Kane’s durability and importance to the squad, reflecting a journey that began with a single, swift goal and evolved into a legacy of sustained excellence for England."
+   },
+   {
+    "type": "p",
+    "text": "As the record approaches, fans and pundits alike reflect on Kane’s evolution from a debutante sensation to a seasoned leader, underscoring the narrative of a modern football fairytale."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Kane’s potential record underscores the longevity and influence of a player who has shaped England’s recent football fortunes, a point of interest for fans across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Kane scored 79 seconds into his debut for England at age 21.",
+   "He has become a regular goal‑scorer and captain for the national team.",
+   "He is now close to breaking England’s record for most international appearances."
+  ],
+  "meta_description": "Harry Kane, who scored 79 seconds into his debut, is now near England's all‑time appearance record, marking a remarkable career.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Harry Kane",
+   "England football",
+   "debut goal",
+   "appearance record",
+   "soccer"
+  ],
+  "slug": "harry-kanes-fairytale-rise-from-79second-debut-goal-record-52dabe",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:20:17Z",
+  "trends": []
+ },
+ {
+  "id": "0439b0f544d0045a",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo",
+  "source": "BBC Sport",
+  "source_title": "Pochettino ready to accept Man Utd offer to replace Carrick",
+  "source_summary": "Mauricio Pochettino is ready to accept an offer from Manchester United to become their next head coach.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6766/live/d5551640-ddad-11f1-81e1-cf7317aa5114.jpg",
+  "published": "2026-11-11T16:03:02+00:00",
+  "headline": "Mauricio Pochettino Poised to Accept Manchester United Coaching Offer",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mauricio Pochettino has indicated his willingness to take up an offer from Manchester United to become the club's next head coach. The statement was reported on 11 November 2026, confirming the Argentine manager's readiness to step into the role that would see him replace the outgoing coach, Michael Carrick."
+   },
+   {
+    "type": "p",
+    "text": "The prospective appointment would see Pochettino assume responsibility for Manchester United's first‑team affairs, guiding the squad in the Premier League and other competitions. The offer, extended by the club's hierarchy, aligns with their search for a new manager following Carrick's departure."
+   },
+   {
+    "type": "p",
+    "text": "While details of the contract and the exact timing of the appointment have not been disclosed, the indication that Pochettino is prepared to accept underscores Manchester United's intent to move swiftly in securing a high‑profile coach ahead of the upcoming season."
+   }
+  ],
+  "key_points": [
+   "Mauricio Pochettino is ready to accept Manchester United's offer to become head coach.",
+   "He would replace outgoing manager Michael Carrick at the club.",
+   "The news was reported on 11 November 2026."
+  ],
+  "meta_description": "Mauricio Pochettino is prepared to take the Manchester United head‑coach job, succeeding Michael Carrick, according to a 2026 report.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mauricio Pochettino",
+   "Manchester United",
+   "coaching",
+   "Premier League",
+   "football"
+  ],
+  "slug": "mauricio-pochettino-poised-accept-manchester-united-coaching-offer-0439b0",
+  "reading_minutes": 1,
+  "added": "2026-11-11T22:20:29Z",
+  "trends": []
+ },
+ {
   "id": "0d614d490a8c5790",
   "source_url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
   "source": "The New York Times",
