@@ -47,6 +47,7 @@
       out.innerHTML = "<span class='wx-ic' aria-hidden='true'>" + w[0] + "</span><b>" + fmt(c.temperature_2m) + "</b> " + w[1] +
         " <span class='wx-sub'>H " + fmt(d.daily.temperature_2m_max[0]) + " · L " + fmt(d.daily.temperature_2m_min[0]) +
         " · Feels " + fmt(c.apparent_temperature) + " · Wind " + Math.round(c.wind_speed_10m) + (st.f ? " mph" : " km/h") + "</span>";
+      try { window.WXSTATE = st; document.dispatchEvent(new CustomEvent("wx:update", { detail: st })); } catch (e) {}
     }).catch(function () { out.textContent = "Weather unavailable right now"; });
   }
   sel.addEventListener("change", function () {
