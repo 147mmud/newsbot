@@ -165,6 +165,16 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
         page="search", trending=trending, canonical=abs_url("search/"),
         title=f"Search | {config.SITE_NAME}", description=config.SITE_TAGLINE))
 
+    # --- Weather page (forecast is client-side; news is filtered here) -------
+    wre = re.compile(r"\b(weather|forecast|storm|hurricane|tornado|flood\w*|blizzard|snow\w*|heat ?wave|heatwave|cold snap|wildfire|"
+                     r"typhoon|cyclone|rainfall|thunderstorm|winter storm|extreme weather|drought|frost|temperatures?)\b", re.I)
+    wnews = [a for a in sorted(articles, key=lambda x: x["published"], reverse=True)
+             if a.get("index", True) and wre.search(a["headline"] + " " + " ".join(a.get("tags", [])))][:18]
+    _write(OUT / "weather" / "index.html", env.get_template("weather.html").render(
+        page="weather", trending=trending, canonical=abs_url("weather/"), wnews=wnews,
+        title=f"Weather Forecast & Weather News | {config.SITE_NAME}",
+        description="Live weather and 7-day forecast for US, UK, Canada and Europe cities, plus the latest weather news and severe-weather alerts."))
+
     # --- Static pages -------------------------------------------------------
     for name in ("about", "privacy", "contact", "editorial", "corrections", "terms", "newsletter"):
         _write(OUT / name / "index.html", env.get_template(f"{name}.html").render(
@@ -220,7 +230,7 @@ def _build_feeds(articles: list[dict]) -> None:
 
     # sitemap.xml
     urls = [abs_url()] + [abs_url(f"category/{c}/") for c in config.CATEGORIES] \
-        + [abs_url(p) for p in SCORE_PATHS] + [abs_url(f"{n}/") for n in ("about", "editorial", "corrections", "contact", "terms", "newsletter")]
+        + [abs_url(p) for p in SCORE_PATHS] + [abs_url(f"{n}/") for n in ("about", "editorial", "corrections", "contact", "terms", "newsletter", "weather")]
     rows = [f"<url><loc>{escape(u)}</loc><changefreq>hourly</changefreq></url>" for u in urls]
     rows += [f"<url><loc>{escape(abs_url('news/' + a['slug'] + '/'))}</loc>"
              f"<lastmod>{a['published'][:10]}</lastmod></url>" for a in indexable]
