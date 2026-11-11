@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% import "_cards.html" as c %}
+{% block main %}
+<nav class="crumbs"><a href="{{ url() }}">Home</a> › Weather</nav>
+<h1 class="page-title">Weather &amp; Forecast</h1>
+<p class="wp-lead">Pick your city in the bar above (or tap <b>📍 My location</b>) to see today's weather and the next 7 days. Your choice is remembered on this device.</p>
+
+<section class="wp-box" aria-labelledby="wp-h1">
+  <h2 id="wp-h1" class="wp-h">7-day forecast <small id="wp-city"></small></h2>
+  <div id="wp-days" class="wp-days" aria-live="polite"><p>Loading forecast…</p></div>
+  <p id="wp-warn" class="wp-warn" hidden></p>
+</section>
+
+<section class="wp-box" aria-labelledby="wp-h2">
+  <h2 id="wp-h2" class="wp-h">Get weather alerts</h2>
+  <div class="wp-opts">
+    <div class="wp-opt">
+      <b>🔔 Alerts on this device</b>
+      <p>Get a pop-up when severe weather (storms, heavy snow, extreme heat or cold) is forecast for your city.</p>
+      <button type="button" id="wp-notify" class="btn">Turn on alerts</button>
+      <small id="wp-notify-msg">Works while the site is open in your browser. For alerts when it's closed, use the options on the right.</small>
+    </div>
+    <div class="wp-opt">
+      <b>✉️ Daily email</b>
+      <p>The day's top stories in one short email, free.</p>
+      <a class="btn" href="{{ url('newsletter/') }}">Subscribe by email</a>
+    </div>
+    <div class="wp-opt">
+      <b>💬 Telegram &amp; Facebook</b>
+      <p>Weather and breaking news straight to your phone.</p>
+      <a class="btn" href="https://t.me/pressandscore" target="_blank" rel="noopener">Telegram</a>
+      <a class="btn" href="https://www.facebook.com/thepressandscore" target="_blank" rel="noopener">Facebook</a>
+    </div>
+  </div>
+</section>
+
+<section aria-labelledby="wp-h3">
+  <h2 id="wp-h3" class="wp-h">Latest weather news</h2>
+  {% if wnews %}
+  <div class="grid">{% for a in wnews %}{{ c.card(a, 'md') }}{% endfor %}</div>
+  {% else %}
+  <p class="empty">No weather stories right now — check back soon. This page updates automatically.</p>
+  {% endif %}
+</section>
+{% endblock %}
