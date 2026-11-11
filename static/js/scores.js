@@ -10,7 +10,14 @@
   if (!track || !bar) return;
 
   var tabs = bar.querySelectorAll(".sb-tabs button");
-  var current = "rugby";
+  /* Default sport by visitor region: Americas -> NFL, Australia/NZ -> rugby, everyone else (UK/Europe) -> football.
+     A sport the visitor picked themselves is remembered and wins. */
+  var current = "football";
+  try {
+    var tz = (Intl.DateTimeFormat().resolvedOptions().timeZone || "");
+    if (/^(America|US|Canada)\//.test(tz)) current = "nfl";
+    else if (/^(Australia|Pacific\/Auckland)/.test(tz)) current = "rugby";
+  } catch (e) {}
   var timer = null;
   var snapshot = null;
   try { current = localStorage.getItem("nb-sport") || current; } catch (e) {}
@@ -103,7 +110,7 @@
       function row(x, win, lose) {
         var label = x.abbr || x.name || "";
         var badge = x.logo
-          ? '<span class="sb-badge"><img src="' + esc(x.logo) + '" alt="" loading="lazy" width="16" height="16"></span>'
+          ? '<span class="sb-badge"><img src="' + esc(x.logo) + '" alt="' + esc(x.name || label) + ' logo" loading="lazy" width="16" height="16" referrerpolicy="no-referrer" onerror="var b=this.parentNode;b.textContent=\'' + esc((label || "?").charAt(0)).replace(/'/g, "") + '\';b.style.background=\'#475569\'"></span>'
           : '<span class="sb-badge" style="background:' + teamColor(x.name || label) + '">' + esc(label.charAt(0)) + "</span>";
         return '<div class="sb-team' + (post && win ? " win" : "") + (post && lose ? " lose" : "") + '">' + badge +
           '<span class="t">' + esc(label) + '</span><span class="s">' + (showScore ? esc(x.score) : "–") + "</span></div>";

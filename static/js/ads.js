@@ -33,6 +33,23 @@
     f.srcdoc = "<!doctype html><html><head><meta charset='utf-8'><style>html,body{margin:0;padding:0;overflow:hidden;background:transparent}</style></head><body>" +
       tpl.innerHTML + "</body></html>";
     box.appendChild(f);
+    collapseLater(slot, function () {            /* hide the slot if the network sent nothing */
+      try {
+        var d = f.contentDocument;
+        if (!d || !d.body) return false;
+        return !d.body.querySelector("img,iframe,ins,video,canvas,object,embed,a[href]");
+      } catch (e) { return false; }
+    });
+  }
+
+  /* Empty ad slots look broken: after the network has had time to answer, remove the blank box + label. */
+  function collapseLater(slot, isEmpty) {
+    [4500, 9000].forEach(function (ms) {
+      setTimeout(function () {
+        if (slot.__gone) return;
+        if (isEmpty()) { slot.__gone = true; slot.style.display = "none"; }
+      }, ms);
+    });
   }
 
   /* Scripts added via innerHTML don't execute - recreate them. */
@@ -54,6 +71,10 @@
   function renderNative(slot) {
     var tpl = slot.querySelector("template");
     if (tpl) injectHTML(slot, tpl.innerHTML);
+    slot.style.minHeight = "0";
+    collapseLater(slot, function () {
+      return !slot.querySelector("img,iframe,ins,video,a[href]");
+    });
   }
 
   function lazy(selector, fn) {
