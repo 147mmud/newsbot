@@ -1,5 +1,675 @@
 [
  {
+  "id": "9ff5f3a7a913b695",
+  "source_url": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-opposes-schumer-as-majority-leader.html",
+  "source": "The New York Times",
+  "source_title": "Bernie Sanders Opposes Schumer as Majority Leader",
+  "source_summary": "The progressive leader was among a few Democrats who signaled skepticism about Senator Chuck Schumer of New York, though his allies offered support and called for party unity.",
+  "source_tags": [
+   "Midterm Elections (2026)",
+   "United States Politics and Government",
+   "Elections, Senate",
+   "Senate",
+   "Democratic Party",
+   "Sanders, Bernard",
+   "Schumer, Charles E",
+   "Slotkin, Elissa",
+   "Van Hollen, Christopher Jr"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-democrats-bflg/10dc-democrats-bflg-mediumSquareAt3X.jpg",
+  "published": "2026-11-11T01:37:01+00:00",
+  "headline": "Bernie Sanders Voices Skepticism Toward Senate Majority Leader Schumer",
+  "body": [
+   {
+    "type": "p",
+    "text": "Senator Bernie Sanders joined a small group of Democrats in publicly questioning Senate Majority Leader Chuck Schumer's direction for the party. The progressive icon expressed doubt about Schumer's leadership at a recent gathering, marking a rare moment of open dissent within the party’s senior ranks."
+   },
+   {
+    "type": "p",
+    "text": "Schumer’s allies quickly responded, emphasizing the need for unity among Democrats. Several senior members issued statements defending the leader and urging colleagues to focus on shared legislative goals rather than internal disputes."
+   },
+   {
+    "type": "p",
+    "text": "The exchange highlights ongoing tensions between the party’s progressive wing and its establishment leadership as they navigate upcoming legislative battles and election strategies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The disagreement reveals internal divisions that could affect the Democratic Party’s ability to pass legislation and present a united front in upcoming elections."
+   }
+  ],
+  "key_points": [
+   "Bernie Sanders publicly signaled skepticism toward Senate Majority Leader Chuck Schumer.",
+   "Schumer’s supporters called for party unity and defended his leadership.",
+   "The incident underscores growing friction between progressive and establishment Democrats."
+  ],
+  "meta_description": "Bernie Sanders questions Senate leader Chuck Schumer, prompting calls for unity from party allies.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Bernie Sanders",
+   "Chuck Schumer",
+   "Democratic Party",
+   "Senate leadership",
+   "Party unity"
+  ],
+  "slug": "bernie-sanders-voices-skepticism-toward-senate-majority-leader-schumer-9ff5f3",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:51:46Z"
+ },
+ {
+  "id": "dafd0f351ed2df50",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+  "source": "The Guardian",
+  "source_title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+  "source_summary": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case. The president’s $10bn defamation lawsuit stems from the BBC’s splicing together of disparate comments he made before the 6 January US Capitol insurrection, as rendered in a Panorama documentary called Trump: A Second Chance. “Accepting the allegations in the complaint as true, the Court finds Trump plausibly pled damages where Trump alleges a defamatory documentary released toward the election caused reputational harm,” the Trump-appointed Florida district court judge wrote. “It would be difficult for the Court to accept a different framing without completely negating the significance and fragility of political elections.”",
+  "source_tags": [
+   "Donald Trump",
+   "BBC",
+   "UK news",
+   "US news",
+   "Europe",
+   "US politics",
+   "Media"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/456a998e975976898ff984ee0e99403b099a5195/238_0_2524_2020/master/2524.jpg?width=700&quality=85&auto=format&fit=max&s=ef0517a0d2cfb9ba604c29940d34eaad",
+  "published": "2026-11-11T01:18:56+00:00",
+  "headline": "Judge Allows Trump’s $10 Billion Suit Against BBC to Proceed",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge in Florida, Jeffrey T. Kuntz, has partially denied the BBC’s motion to dismiss Donald Trump’s $10 billion defamation lawsuit. The case stems from the broadcaster’s Panorama documentary, \"Trump: A Second Chance,\" which combined remarks the former president made before the Jan. 6 Capitol attack."
+   },
+   {
+    "type": "p",
+    "text": "Kuntz wrote that, assuming the complaint’s allegations are true, Trump has plausibly pleaded damages, claiming the documentary harmed his reputation ahead of the election. The judge noted that rejecting the plaintiff’s framing would undermine the importance of political elections."
+   },
+   {
+    "type": "p",
+    "text": "The decision allows the lawsuit to move forward, meaning the BBC will have to respond to the claims in court rather than having the case thrown out at the pleading stage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights tensions between U.S. political figures and foreign media outlets, raising questions about defamation standards across jurisdictions."
+   }
+  ],
+  "key_points": [
+   "Federal judge Jeffrey T. Kuntz partially rejected the BBC’s bid to dismiss Trump’s $10 billion defamation case.",
+   "The lawsuit alleges the Panorama documentary’s edited footage damaged Trump’s reputation before the 2024 election.",
+   "The ruling permits the case to proceed, requiring the BBC to answer the allegations in court."
+  ],
+  "meta_description": "U.S. judge lets Donald Trump's $10 billion defamation suit against the BBC move forward over a Panorama documentary.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "BBC",
+   "defamation lawsuit",
+   "U.S. courts",
+   "media"
+  ],
+  "slug": "judge-allows-trumps-10-billion-suit-against-bbc-proceed-dafd0f",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:52:06Z"
+ },
+ {
+  "id": "5fd791b2b236e9ce",
+  "source_url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
+  "source": "BBC News",
+  "source_title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+  "source_summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-11T01:14:40+00:00",
+  "headline": "House Defeats Immediate Impeachment Vote on Defense Secretary Hegseth",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. House of Representatives voted to block a resolution that would have impeached Defense Secretary Pete Hegseth, halting the effort for the time being. The motion failed to secure enough votes to advance, leaving the impeachment inquiry on hold."
+   },
+   {
+    "type": "p",
+    "text": "Former President Donald Trump praised the outcome, describing Hegseth as a \"Great American Patriot\" and lauding his service. Trump’s comments underscored his continued support for the secretary amid the political dispute."
+   },
+   {
+    "type": "p",
+    "text": "Democratic leaders indicated they may revisit the impeachment question in the next congressional session, suggesting the issue could reemerge next year."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision reflects ongoing partisan tensions over defense leadership and signals that impeachment efforts may continue in future sessions."
+   }
+  ],
+  "key_points": [
+   "The House rejected an immediate impeachment resolution against Defense Secretary Pete Hegseth.",
+   "Donald Trump hailed the decision, calling Hegseth a \"Great American Patriot.\"",
+   "Democrats say they could attempt another impeachment vote next year."
+  ],
+  "meta_description": "The US House blocks an impeachment bid against Defense Secretary Pete Hegseth; Trump praises him, Democrats may try again next year.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US politics",
+   "impeachment",
+   "Defense Department",
+   "Pete Hegseth",
+   "Donald Trump"
+  ],
+  "slug": "house-defeats-immediate-impeachment-vote-defense-secretary-hegseth-5fd791",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:51:29Z"
+ },
+ {
+  "id": "2a6b1923225a0191",
+  "source_url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+  "source": "TechCrunch",
+  "source_title": "X launches its own clipping feature to spur influencer engagement",
+  "source_summary": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+  "source_tags": [
+   "Social",
+   "clipping",
+   "influencers",
+   "social media",
+   "X"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
+  "published": "2026-11-11T01:02:13+00:00",
+  "headline": "X Introduces Video Clipping Tool to Boost Influencer Engagement",
+  "body": [
+   {
+    "type": "p",
+    "text": "X announced a new clipping feature that lets users trim longer videos into short, shareable segments. The tool follows the growing practice of creating bite‑size clips that can spread quickly across the platform."
+   },
+   {
+    "type": "p",
+    "text": "By offering built‑in clipping, X aims to make it easier for influencers to repurpose existing content and reach wider audiences. The feature is designed to encourage more frequent posting and increase the chances of videos going viral."
+   },
+   {
+    "type": "p",
+    "text": "The move reflects X's broader strategy to deepen creator engagement and keep pace with other platforms that already support video clipping. Early adopters are expected to experiment with the tool to boost their visibility."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clipping tool gives creators in the US and Europe a new way to produce viral short videos without leaving the platform, potentially expanding their reach and earnings."
+   }
+  ],
+  "key_points": [
+   "X has added a native clipping function for turning long videos into short clips.",
+   "The feature is intended to help influencers generate viral content more easily.",
+   "X’s rollout signals a focus on expanding creator tools within the platform."
+  ],
+  "meta_description": "X launches a clipping feature that lets influencers cut long videos into short, shareable clips to boost engagement.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "X",
+   "video clipping",
+   "influencers",
+   "social media",
+   "viral content"
+  ],
+  "slug": "x-introduces-video-clipping-tool-boost-influencer-engagement-2a6b19",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-11T01:51:34Z"
+ },
+ {
+  "id": "df6dd84b4db9ac93",
+  "source_url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+  "source": "BBC News",
+  "source_title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+  "source_summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-11T01:01:20+00:00",
+  "headline": "US Justice Dept Says Iran‑Backed Suspects Plotted RAF Fairford Attack",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Department of Justice announced that three men with ties to Iran were involved in a series of terrorist plots, one of which targeted the area surrounding RAF Fairford in England. The airbase, which hosts U.S. military aircraft, was the focus of a “major incident” that authorities say was part of a broader campaign against Western interests."
+   },
+   {
+    "type": "p",
+    "text": "According to the DOJ, the suspects coordinated the plots from abroad and attempted to exploit vulnerabilities at the UK facility. While details of the specific tactics remain classified, investigators linked the individuals to other planned attacks in Europe and the United States, indicating a coordinated effort by Iran‑aligned networks."
+   },
+   {
+    "type": "p",
+    "text": "The case underscores ongoing concerns about foreign‑backed extremist activity targeting NATO and U.S. installations in Europe. Law‑enforcement agencies in both the United States and the United Kingdom are working together to dismantle the network and prevent further threats."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "RAF Fairford hosts U.S. forces, making any threat to the base a direct concern for American and allied security in Europe."
+   }
+  ],
+  "key_points": [
+   "Three Iran‑backed suspects were linked to multiple terrorist plots, including an attack near RAF Fairford.",
+   "The U.S. Justice Department disclosed the coordination of the schemes across Europe and the United States.",
+   "Authorities are cooperating to disrupt the network and protect U.S. military sites abroad."
+  ],
+  "meta_description": "US DOJ says three Iran‑backed suspects plotted attacks, including a major incident near RAF Fairford, a key U.S. airbase in the UK.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "USA",
+   "UK",
+   "RAF Fairford",
+   "terrorism",
+   "DOJ"
+  ],
+  "slug": "us-justice-dept-says-iranbacked-suspects-plotted-raf-fairford-df6dd8",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:51:50Z"
+ },
+ {
+  "id": "d88cdd6507c1a89f",
+  "source_url": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+  "source": "The Verge",
+  "source_title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+  "source_summary": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR […]",
+  "source_tags": [
+   "Gaming",
+   "Microsoft",
+   "Tech",
+   "Xbox"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-11T00:34:24+00:00",
+  "headline": "Microsoft Launches Auto SR Upscaling for Xbox Ally X Series",
+  "body": [
+   {
+    "type": "p",
+    "text": "Microsoft announced the rollout of Automatic Super Resolution (Auto SR), an upscaling technology designed to rival Nvidia's DLSS. The feature is now available on the Xbox Ally X, Xbox Ally X20, and a selection of Windows Copilot Plus PCs."
+   },
+   {
+    "type": "p",
+    "text": "Auto SR, which began testing in April, promises to improve visual fidelity by rendering games at lower native resolutions and then upscaling them to higher output resolutions. The release includes several new capabilities, though the source does not detail them."
+   },
+   {
+    "type": "p",
+    "text": "The move expands Microsoft's graphics toolkit across both console and PC platforms, giving developers another option for performance‑focused rendering. It also signals a broader push to compete directly with Nvidia's established AI‑driven upscaling solutions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Auto SR gives gamers in the US and Europe a new choice for high‑quality graphics on both consoles and PCs, potentially influencing future hardware and game development decisions."
+   }
+  ],
+  "key_points": [
+   "Microsoft's Auto SR upscaling is now live on Xbox Ally X, Ally X20, and select Windows Copilot Plus PCs.",
+   "The technology aims to compete with Nvidia's DLSS by improving game resolution and performance.",
+   "Auto SR testing began in April and the official launch adds new features."
+  ],
+  "meta_description": "Microsoft rolls out Auto SR upscaling for Xbox Ally X, Ally X20 and select Windows PCs, challenging Nvidia's DLSS.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Xbox",
+   "Auto SR",
+   "upscaling",
+   "gaming",
+   "Microsoft",
+   "DLSS competitor"
+  ],
+  "slug": "microsoft-launches-auto-sr-upscaling-xbox-ally-x-series-d88cdd",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:51:54Z"
+ },
+ {
+  "id": "8bc24e27b81a68f0",
+  "source_url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o",
+  "source": "BBC News",
+  "source_title": "Robot vessels take on the dangerous work of mine hunting",
+  "source_summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-11T00:19:13+00:00",
+  "headline": "US Tests Autonomous Mine‑Hunting Vessels Amid Gulf Conflict",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United States is deploying robotic ships to conduct mine‑hunting operations in the Gulf, where the ongoing conflict has heightened the need for safe clearance of naval mines. These unmanned vessels are designed to locate and neutralise explosive devices without putting crew members at risk."
+   },
+   {
+    "type": "p",
+    "text": "According to the report, the Gulf conflict provides a practical environment for the U.S. military to evaluate the performance of its autonomous mine‑hunting systems. The technology aims to improve the speed and precision of mine clearance while reducing human exposure to hazardous conditions."
+   },
+   {
+    "type": "p",
+    "text": "The initiative reflects a broader shift toward integrating robotics into naval warfare, with the potential to reshape how maritime security is maintained in contested waters."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Successful autonomous mine‑hunting could lower casualties and keep vital shipping lanes open for European and North American trade."
+   }
+  ],
+  "key_points": [
+   "Robotic vessels are being used by the US to hunt mines in the Gulf conflict zone.",
+   "The deployment serves as a real‑world test for autonomous mine‑hunting technology.",
+   "The effort seeks to enhance safety and efficiency in naval mine clearance."
+  ],
+  "meta_description": "US deploys autonomous mine‑hunting vessels in the Gulf, testing new robotics to improve safety and efficiency in naval mine clearance.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "autonomous vessels",
+   "mine hunting",
+   "Gulf conflict",
+   "US Navy",
+   "robotics",
+   "maritime security"
+  ],
+  "slug": "us-tests-autonomous-minehunting-vessels-amid-gulf-conflict-8bc24e",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:51:38Z"
+ },
+ {
+  "id": "fcf75a6d87ff880b",
+  "source_url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo",
+  "source": "BBC News",
+  "source_title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+  "source_summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8d6/live/747458d0-dc37-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-11T00:18:07+00:00",
+  "headline": "Kenyan Communities Brace for Record El Niño Flood Threats",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kenyan residents are expressing growing alarm as meteorologists warn that this year’s El Niño could rank among the strongest ever recorded, bringing intense rainfall and severe flooding across the country. The forecast has prompted local authorities to issue warnings and urge preparations to mitigate potential damage."
+   },
+   {
+    "type": "p",
+    "text": "The predicted deluge threatens to overwhelm already vulnerable regions, where inadequate drainage and past flood damage have left many households at risk. Communities fear that rising water levels could destroy homes, disrupt agriculture, and endanger lives, echoing past disasters linked to El Niño events."
+   },
+   {
+    "type": "p",
+    "text": "Officials are coordinating emergency response plans, including the pre‑positioning of relief supplies and the reinforcement of flood defenses. While the exact timeline of the heavy rains remains uncertain, the emphasis remains on early action to reduce the humanitarian impact."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Severe flooding in Kenya could affect global food supply chains and humanitarian aid efforts, with potential ripple effects for international markets and aid organizations."
+   }
+  ],
+  "key_points": [
+   "Forecasters say this El Niño may be one of the strongest on record, bringing heavy rain to Kenya.",
+   "Kenyan residents fear widespread flooding could damage homes, farms and threaten lives.",
+   "Authorities are preparing emergency measures to mitigate the anticipated impact."
+  ],
+  "meta_description": "Kenyan communities brace for potentially record-breaking El Niño floods as forecasters warn of heavy rain and widespread damage.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "El Niño",
+   "Kenya",
+   "flooding",
+   "climate",
+   "disaster preparedness",
+   "weather forecast"
+  ],
+  "slug": "kenyan-communities-brace-record-el-nino-flood-threats-fcf75a",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:52:10Z"
+ },
+ {
+  "id": "635999376d1f6ed5",
+  "source_url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o",
+  "source": "BBC News",
+  "source_title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+  "source_summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
+  "published": "2026-11-11T00:16:44+00:00",
+  "headline": "Stickers and Building Sets Boost Toy Sales Ahead of Christmas",
+  "body": [
+   {
+    "type": "p",
+    "text": "Toy retailers are reporting a strong start to the 2026 holiday season, with sales of stickers and building‑set kits outpacing other categories. The surge has helped create what analysts describe as a \"bumper year\" for the sector so far, as families begin to stock up for the Christmas rush."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the popularity of these low‑tech products comes amid growing debate over children's screen time and the push for more connected toys. Parents are reportedly favouring tactile, creative play items that do not require batteries or internet connections."
+   },
+   {
+    "type": "p",
+    "text": "The trend is benefiting major chains and independent shops alike, with inventory planners adjusting orders to meet the heightened demand for sticker packs, construction bricks and similar hands‑on toys. Retailers expect the momentum to continue through December, bolstering overall holiday revenue."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Strong toy sales signal robust holiday spending for retailers in the US and Europe, while the shift toward non‑digital play highlights ongoing consumer worries about screen exposure for children."
+   }
+  ],
+  "key_points": [
+   "Sticker packs and building‑set kits are leading toy sales as the Christmas season approaches.",
+   "The rise in low‑tech toys reflects parental concerns about screen time and tech‑linked play.",
+   "Retailers are increasing stock of these items to capitalize on the early sales surge."
+  ],
+  "meta_description": "Stickers and building sets drive a strong start to 2026 holiday toy sales, amid parental concerns over screen time.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "toys",
+   "Christmas",
+   "retail",
+   "stickers",
+   "building sets",
+   "screen time"
+  ],
+  "slug": "stickers-building-sets-boost-toy-sales-ahead-christmas-635999",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:51:58Z"
+ },
+ {
+  "id": "b9c0719774360ef5",
+  "source_url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko",
+  "source": "BBC News",
+  "source_title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+  "source_summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+  "published": "2026-11-11T00:02:07+00:00",
+  "headline": "Poundland Looks for Last‑Minute Rescue Deal to Avert Collapse",
+  "body": [
+   {
+    "type": "p",
+    "text": "The discount retailer Poundland is reportedly close to administration, but the BBC says the chain has been granted additional time to secure a buyer. Sources indicate that senior executives are pursuing a last‑minute rescue package that could keep the business operating."
+   },
+   {
+    "type": "p",
+    "text": "If a deal is reached, it would stave off the immediate collapse of the high‑street chain, which has struggled with rising costs and changing consumer habits. The potential buyer has not been named, and details of the financial terms remain undisclosed."
+   },
+   {
+    "type": "p",
+    "text": "Poundland’s leadership remains hopeful that the extended window will allow negotiations to conclude, preventing the shutdown of stores across the United Kingdom and preserving jobs for its workforce."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The chain’s fate affects thousands of employees and signals broader challenges for low‑price retailers in Europe."
+   }
+  ],
+  "key_points": [
+   "Poundland is edging toward administration but has been given extra time to find a buyer.",
+   "A last‑minute rescue deal is being negotiated to keep the discount chain afloat.",
+   "The outcome could determine the future of hundreds of UK retail jobs."
+  ],
+  "meta_description": "Poundland seeks a last‑minute rescue deal to avoid administration, with extra time granted to find a buyer and preserve jobs.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Poundland",
+   "retail",
+   "rescue deal",
+   "administration",
+   "UK business"
+  ],
+  "slug": "poundland-looks-lastminute-rescue-deal-avert-collapse-b9c071",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:52:14Z"
+ },
+ {
+  "id": "d4a2a768fd51eb97",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cvglwllpxddro",
+  "source": "BBC Sport",
+  "source_title": "Brilliant Noskova dismantles Gauff to reach WTA Finals last four",
+  "source_summary": "Wimbledon champion Linda Noskova dismantles Coco Gauff to become the first player to reach the last four at the WTA Finals.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4770/live/6dbb7770-dd5f-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-10T23:59:03+00:00",
+  "headline": "Linda Noskova Beats Coco Gauff to Reach WTA Finals Semifinals",
+  "body": [
+   {
+    "type": "p",
+    "text": "Wimbledon champion Linda Noskova delivered a dominant performance against American star Coco Gauff, securing her place in the last four of the WTA Finals. The victory marks Noskova's first appearance in the tournament's semifinals, underscoring her rising stature on the women's tour."
+   },
+   {
+    "type": "p",
+    "text": "Noskova's aggressive play dismantled Gauff's defenses, allowing her to control the match from the outset. The win not only advances her in the prestigious year‑end event but also highlights the depth of competition among the sport's elite."
+   },
+   {
+    "type": "p",
+    "text": "With the semifinals now set, Noskova joins a select group of players vying for the championship title. Her breakthrough at the WTA Finals adds to a season that already includes a Wimbledon triumph, signaling a potential shift in the hierarchy of women's tennis."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The result reshapes the race for year‑end rankings and adds a new contender for the WTA Finals title, a tournament closely followed by tennis fans in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Linda Noskova defeated Coco Gauff to become the first player into the WTA Finals semifinals this year.",
+   "The win follows Noskova's recent Wimbledon championship, boosting her profile on the tour."
+  ],
+  "meta_description": "Linda Noskova beats Coco Gauff to reach the WTA Finals semifinals, marking her first appearance at this stage after winning Wimbledon.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "tennis",
+   "WTA Finals",
+   "Linda Noskova",
+   "Coco Gauff",
+   "Wimbledon champion"
+  ],
+  "slug": "linda-noskova-beats-coco-gauff-reach-wta-finals-semifinals-d4a2a7",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:51:42Z"
+ },
+ {
+  "id": "212619cd342aaf2b",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq9vw88v8p80o",
+  "source": "BBC Sport",
+  "source_title": "Injured Feyi-Waboso is our Robinson - Sinfield",
+  "source_summary": "Immanuel Feyi-Waboso is the 2026 team's equivalent of Rugby World Cup winner Jason Robinson says assistant coach Kevin Sinfield.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cf5/live/89d22cc0-dd54-11f1-b441-2b33b063138f.png",
+  "published": "2026-11-10T22:32:41+00:00",
+  "headline": "Injured Immanuel Feyi-Waboso Compared to Jason Robinson",
+  "body": [
+   {
+    "type": "p",
+    "text": "England assistant coach Kevin Sinfield said the sidelined Immanuel Feyi-Waboso has the qualities of former Rugby World Cup champion Jason Robinson. Sinfield made the comparison while discussing the 2026 squad’s options after Feyi-Waboso suffered an injury that will keep him out of upcoming matches."
+   },
+   {
+    "type": "p",
+    "text": "The 2026 team, still shaping its lineup for the international season, sees Feyi-Waboso as a dynamic back who can change the tempo of play, much like Robinson did during his career. Sinfield highlighted the player's speed, agility and attacking flair as hallmarks that mirror the former star’s style."
+   },
+   {
+    "type": "p",
+    "text": "While the injury limits Feyi-Waboso’s immediate contribution, coaches remain confident that his return will bolster England’s backline. The comparison underscores the high expectations placed on the young talent as the squad prepares for future tournaments."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The comparison highlights the potential impact of a rising English rugby star on the national team's performance in upcoming international competitions."
+   }
+  ],
+  "key_points": [
+   "Assistant coach Kevin Sinfield likens injured winger Immanuel Feyi-Waboso to Rugby World Cup winner Jason Robinson.",
+   "Feyi-Waboso’s injury sidelines him from upcoming matches but his return is expected to strengthen England’s backline."
+  ],
+  "meta_description": "England coach Kevin Sinfield compares injured winger Immanuel Feyi-Waboso to Jason Robinson, underscoring his expected impact on the 2026 squad.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "rugby",
+   "Immanuel Feyi-Waboso",
+   "Jason Robinson",
+   "Kevin Sinfield",
+   "England",
+   "injury"
+  ],
+  "slug": "injured-immanuel-feyi-waboso-compared-jason-robinson-212619",
+  "reading_minutes": 1,
+  "added": "2026-11-11T01:52:02Z"
+ },
+ {
   "id": "e5490db3a1e2b907",
   "source_url": "https://www.nytimes.com/2026/11/10/us/politics/voice-of-america-appeals-court.html",
   "source": "The New York Times",
