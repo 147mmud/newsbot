@@ -1,5 +1,702 @@
 [
  {
+  "id": "8865be63c867a875",
+  "source_url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+  "source": "CNBC",
+  "source_title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+  "source_summary": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108230917-1763994390176-gettyimages-2248015646-jl1_6581_sjozszkb.jpeg?v=1763994431&w=1920&h=1080",
+  "published": "2026-11-12T11:30:01+00:00",
+  "headline": "Scout Motors Logs 212,000 Reservations as SC Plant Nears Completion",
+  "body": [
+   {
+    "type": "p",
+    "text": "Scout Motors announced that it has secured roughly 212,000 reservations for its upcoming Terra pickup truck and Traveler sport‑utility vehicle, according to CEO Scott Keogh in an interview with CNBC."
+   },
+   {
+    "type": "p",
+    "text": "The reservations were reported as the company’s new manufacturing facility in South Carolina, a $2 billion investment, approaches the final stages of construction. The plant is expected to produce the two models once it becomes operational."
+   },
+   {
+    "type": "p",
+    "text": "Keogh highlighted the strong consumer interest in the brand’s electric‑vehicle lineup, noting that the reservation numbers reflect early market enthusiasm ahead of the vehicles’ launch later this year."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts see the reservation tally as a positive signal for the U.S. EV market, especially as manufacturers race to scale production capacity amid growing demand for zero‑emission pickups and SUVs."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The high reservation count underscores growing consumer appetite for electric pickups and SUVs in North America and Europe, signaling robust demand for new EV manufacturing capacity."
+   }
+  ],
+  "key_points": [
+   "Scout Motors reports about 212,000 reservations for its Terra pickup and Traveler SUV.",
+   "The company’s $2 billion South Carolina plant is close to completion.",
+   "CEO Scott Keogh said the reservation volume shows strong early demand for the upcoming models."
+  ],
+  "meta_description": "Scout Motors says it has 212,000 reservations for its Terra pickup and Traveler SUV as its $2 billion South Carolina plant nears completion.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Scout Motors",
+   "vehicle reservations",
+   "South Carolina plant",
+   "Terra pickup",
+   "Traveler SUV",
+   "electric vehicles"
+  ],
+  "slug": "scout-motors-logs-212-000-reservations-sc-plant-nears-8865be",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-12T11:38:54Z",
+  "trends": []
+ },
+ {
+  "id": "9818514c6ae45dbc",
+  "source_url": "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Israel targets senior Hamas member in Gaza hospital strike",
+  "source_summary": "Israel says Hamas was using the hospital as a military command center, while Palestinian officials report at least six people killed, including a surgeon. The strike comes amid an increasingly fragile ceasefire.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79926894_6.jpg",
+  "published": "2026-11-12T11:27:00+00:00",
+  "headline": "Israel Strikes Gaza Hospital, Killing Senior Hamas Official",
+  "body": [
+   {
+    "type": "p",
+    "text": "On November 12, Israeli forces bombed a hospital in the Gaza Strip, targeting what Israel described as a senior Hamas member who was allegedly using the facility as a military command centre."
+   },
+   {
+    "type": "p",
+    "text": "Palestinian officials said the strike killed at least six people, among them a surgeon, and caused additional injuries. The hospital, which serves civilians in the densely populated area, was not designated as a military target by the health authorities."
+   },
+   {
+    "type": "p",
+    "text": "The attack occurred while a ceasefire between Israel and Hamas remains extremely fragile, raising concerns that further violence could derail ongoing diplomatic efforts to halt the conflict."
+   },
+   {
+    "type": "p",
+    "text": "Both sides have offered conflicting narratives: Israel maintains the target was a legitimate military hub, while Palestinian representatives stress the civilian nature of the site and the loss of medical staff."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The strike threatens to further destabilise the tenuous ceasefire, affecting regional security and international diplomatic efforts."
+   }
+  ],
+  "key_points": [
+   "Israel says the hospital housed a senior Hamas commander and was a valid military target.",
+   "Palestinian officials report at least six deaths, including a surgeon, in the strike.",
+   "The incident heightens tensions amid an already fragile ceasefire between the parties."
+  ],
+  "meta_description": "Israel hits a Gaza hospital, killing a senior Hamas figure and at least six civilians, amid a fragile ceasefire.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Israel",
+   "Hamas",
+   "Gaza",
+   "hospital strike",
+   "ceasefire"
+  ],
+  "slug": "israel-strikes-gaza-hospital-killing-senior-hamas-official-981851",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-12T11:38:58Z",
+  "trends": []
+ },
+ {
+  "id": "e1723926d5308394",
+  "source_url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo",
+  "source": "BBC News",
+  "source_title": "New York building collapse kills at least two, officials say",
+  "source_summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg",
+  "published": "2026-11-12T11:23:41+00:00",
+  "headline": "Two Dead After Three‑Story Brooklyn Building Collapses",
+  "body": [
+   {
+    "type": "p",
+    "text": "A three‑storey building in Brooklyn collapsed on Wednesday afternoon, killing at least two people, officials said."
+   },
+   {
+    "type": "p",
+    "text": "The incident occurred in a residential area of the New York borough, prompting emergency crews to launch a dangerous search for additional survivors amid the rubble."
+   },
+   {
+    "type": "p",
+    "text": "First‑responders described the scene as hazardous, with ongoing efforts to locate anyone trapped beneath the debris while ensuring the safety of rescue personnel."
+   },
+   {
+    "type": "p",
+    "text": "Local authorities have not released further details about the cause of the collapse, but the operation continues as teams work to secure the site and assess the extent of the damage."
+   }
+  ],
+  "key_points": [
+   "A three‑storey building in Brooklyn collapsed on Wednesday, resulting in at least two fatalities.",
+   "Emergency services are conducting a risky search for possible survivors amid the wreckage.",
+   "Officials have not yet disclosed the cause of the collapse."
+  ],
+  "meta_description": "At least two people died when a three‑storey building collapsed in Brooklyn on Wednesday, prompting a hazardous rescue operation.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brooklyn",
+   "building collapse",
+   "casualties",
+   "rescue operation",
+   "New York"
+  ],
+  "slug": "two-dead-after-threestory-brooklyn-building-collapses-e17239",
+  "reading_minutes": 1,
+  "added": "2026-11-12T11:39:13Z",
+  "trends": []
+ },
+ {
+  "id": "4aa9074d7b959b54",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
+  "source": "BBC News",
+  "source_title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+  "source_summary": "As uncertainty swirls over the boss of the AI chip giant, some names have emerged as potential successors.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-12T11:21:25+00:00",
+  "headline": "Nvidia Faces CEO Succession Uncertainty Amid AI Chip Boom",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia, the leading AI chip maker, is currently without a clear successor to its chief executive Jensen Huang, prompting speculation across the technology sector. The company's board and investors are watching closely as the search for a new leader intensifies."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that several senior figures have been mentioned as possible candidates to take over the role, though no names have been confirmed publicly. The lack of an announced replacement has added a layer of uncertainty to Nvidia's strategic direction at a time when demand for AI hardware remains strong."
+   },
+   {
+    "type": "p",
+    "text": "The situation underscores the importance of stable leadership for a firm that sits at the heart of the global AI ecosystem. Stakeholders are awaiting further details on the succession process, which could shape Nvidia's future product roadmap and market positioning."
+   }
+  ],
+  "key_points": [
+   "Nvidia has not identified a successor to CEO Jensen Huang, creating leadership uncertainty.",
+   "Multiple unnamed senior executives are being discussed as potential replacements.",
+   "The succession question comes as demand for AI chips continues to grow worldwide."
+  ],
+  "meta_description": "Nvidia's CEO succession remains unclear, with potential successors discussed amid rising AI chip demand.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "CEO succession",
+   "AI chips",
+   "technology industry",
+   "leadership"
+  ],
+  "slug": "nvidia-faces-ceo-succession-uncertainty-amid-ai-chip-boom-4aa907",
+  "reading_minutes": 1,
+  "added": "2026-11-12T11:39:01Z",
+  "trends": [
+   "amd"
+  ]
+ },
+ {
+  "id": "4fb876fe22cf4a1f",
+  "source_url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
+  "source": "BBC News",
+  "source_title": "UK economy grows at fastest rate for more than two years",
+  "source_summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-12T11:20:25+00:00",
+  "headline": "UK Economy Expands 0.7% in Q3, Fastest Growth in Over Two Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "Official statistics released on November 12, 2026 show that the United Kingdom's gross domestic product rose by 0.7 percent in the three months ending September. The figure represents the strongest quarterly expansion the country has recorded since early 2024, according to the data published by the Office for National Statistics."
+   },
+   {
+    "type": "p",
+    "text": "The growth rate was calculated on a seasonally adjusted basis and reflects activity across the major sectors of the British economy, including services, manufacturing and construction. Analysts note that the 0.7 percent increase surpasses the modest gains recorded in the preceding quarters, marking a notable rebound after a period of slower expansion."
+   },
+   {
+    "type": "p",
+    "text": "The announcement comes as policymakers continue to monitor economic performance ahead of the upcoming fiscal budget. While the data points to renewed momentum, officials caution that sustaining the pace will depend on a range of domestic and global factors that remain under observation."
+   }
+  ],
+  "key_points": [
+   "UK GDP grew 0.7% in the three months to September, the fastest quarterly rise in over two years.",
+   "The increase was reported by the Office for National Statistics on November 12, 2026.",
+   "Growth outpaced the modest gains of previous quarters, indicating a rebound in economic activity."
+  ],
+  "meta_description": "UK GDP rose 0.7% in Q3 2026, the fastest growth in more than two years, according to official figures released on Nov. 12.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK economy",
+   "GDP growth",
+   "Q3 2026",
+   "economic data",
+   "Office for National Statistics"
+  ],
+  "slug": "uk-economy-expands-0-7-q3-fastest-growth-over-4fb876",
+  "reading_minutes": 1,
+  "added": "2026-11-12T11:39:29Z",
+  "trends": []
+ },
+ {
+  "id": "1ae6be660537f927",
+  "source_url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+  "source": "The Verge",
+  "source_title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+  "source_summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS […]",
+  "source_tags": [
+   "Drones",
+   "Gadgets",
+   "News",
+   "Security",
+   "Smart Home",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC01040.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-12T11:12:32+00:00",
+  "headline": "Ring Drone Cam Will Launch Without Manual Controls, Uses AI Pilot",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ring announced that its upcoming security camera drone, slated to begin flights in January, will operate solely with an autonomous \"AI Pilot\" system and will not offer any manual control option for users."
+   },
+   {
+    "type": "p",
+    "text": "The decision was confirmed after a recent demonstration on CBS News, where the drone crashed while attempting to navigate a test environment, highlighting the challenges of fully automated flight in residential settings."
+   },
+   {
+    "type": "p",
+    "text": "According to Ring, the AI Pilot will follow pre‑programmed routes and use onboard sensors to avoid obstacles, ensuring the device can monitor homes without requiring direct user input."
+   },
+   {
+    "type": "p",
+    "text": "The company emphasized that the lack of manual controls is intentional, aiming to simplify operation and reduce the risk of user error, while still providing continuous aerial surveillance for homeowners."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the reliance on AI for home security drones raises questions about reliability and privacy, especially after the high‑profile crash that drew public attention."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rollout of an AI‑only home security drone could influence consumer expectations for automated surveillance technology in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Ring's security drone will launch in January with only autonomous AI navigation.",
+   "A CBS News demo resulted in a crash, prompting Ring to confirm no manual controls.",
+   "The AI Pilot will follow preset routes and avoid obstacles without user input."
+  ],
+  "meta_description": "Ring's upcoming security drone will rely exclusively on AI navigation, with no manual controls, after a crash during a CBS News demo.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ring",
+   "security drone",
+   "AI pilot",
+   "home surveillance",
+   "CBS News"
+  ],
+  "slug": "ring-drone-cam-will-launch-without-manual-controls-uses-1ae6be",
+  "reading_minutes": 1,
+  "added": "2026-11-12T11:39:17Z",
+  "trends": []
+ },
+ {
+  "id": "0864bd6dc86e700f",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o",
+  "source": "BBC News",
+  "source_title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+  "source_summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b233/live/7e5aee10-de7e-11f1-b88b-3f1671ea859d.jpg",
+  "published": "2026-11-12T11:03:53+00:00",
+  "headline": "UK Prime Minister Burnham Declares Climate Consensus Over at COP31",
+  "body": [
+   {
+    "type": "p",
+    "text": "British Prime Minister Andy Burnham addressed delegates at the COP31 United Nations climate summit in Antalya, Turkey, on Saturday. In his speech, Burnham asserted that the long‑standing global climate consensus has effectively disappeared."
+   },
+   {
+    "type": "p",
+    "text": "Despite his stark assessment, Burnham pledged to usher in a \"new era of leadership\" on climate action. He emphasized the need for fresh approaches and renewed commitment from governments worldwide to tackle rising environmental challenges."
+   },
+   {
+    "type": "p",
+    "text": "The remarks were made during the high‑profile gathering of international leaders, negotiators and activists convened to discuss the implementation of the Paris Agreement and future emissions targets. Burnham’s comments highlighted a shift in tone among some political figures regarding the feasibility of existing climate frameworks."
+   },
+   {
+    "type": "p",
+    "text": "While the speech did not outline specific policy measures, Burnham’s declaration signals a potential re‑evaluation of the United Kingdom’s role in global climate negotiations and may influence the direction of forthcoming discussions at the summit."
+   }
+  ],
+  "key_points": [
+   "UK Prime Minister Andy Burnham told COP31 delegates the global climate consensus is now gone.",
+   "He promised a \"new era of leadership\" to address climate challenges.",
+   "The statements were delivered at the UN climate summit in Antalya, Turkey."
+  ],
+  "meta_description": "UK Prime Minister Andy Burnham says climate consensus is gone and vows new leadership at COP31 in Turkey.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Andy Burnham",
+   "COP31",
+   "climate summit",
+   "Turkey",
+   "global climate policy"
+  ],
+  "slug": "uk-prime-minister-burnham-declares-climate-consensus-over-cop31-0864bd",
+  "reading_minutes": 1,
+  "added": "2026-11-12T11:39:05Z",
+  "trends": []
+ },
+ {
+  "id": "16c5f06479896a67",
+  "source_url": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
+  "source": "The Guardian",
+  "source_title": "Trump the ‘biggest loser’ for scrapping climate action, John Kerry says at Cop31",
+  "source_summary": "Kerry decries president for ceding clean-energy dominance to China and says climate crisis still a key issue for voters Donald Trump is the “biggest loser we’ve seen in a long time” for scrapping action on the climate crisis and ceding the clean energy race to China, former US secretary of state John Kerry has said. Kerry, speaking at the Cop31 climate summit in Turkey, criticized Trump for withdrawing the US from the international climate process and axing measures that reduced planet-heating emissions. Unlike almost all other countries in the world, the Trump administration has sent no delegation to the resort city of Antalya for the annual UN climate talks, which started on Monday.",
+  "source_tags": [
+   "Cop31",
+   "US politics",
+   "US news",
+   "World news",
+   "Climate crisis",
+   "Environment",
+   "John Kerry",
+   "Donald Trump"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/32fe1f2eeb72c44b90ada00f0318f0c0c6262cf9/302_0_3013_2411/master/3013.jpg?width=700&quality=85&auto=format&fit=max&s=fc7c664db9fea20db7688d6a0ab8b8c5",
+  "published": "2026-11-12T11:00:48+00:00",
+  "headline": "John Kerry Calls Trump the Biggest Loser for Ending US Climate Action at COP31",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former U.S. secretary of state John Kerry labeled President Donald Trump the \"biggest loser\" for abandoning climate initiatives during his remarks at the COP31 summit in Antalya, Turkey, on Monday."
+   },
+   {
+    "type": "p",
+    "text": "Kerry criticized the Trump administration for withdrawing the United States from the international climate process and eliminating policies that cut greenhouse‑gas emissions, saying the move hands the clean‑energy lead to China."
+   },
+   {
+    "type": "p",
+    "text": "Unlike nearly every other nation, the United States has not sent a delegation to the United Nations climate talks, which began on Monday in the Turkish resort city."
+   },
+   {
+    "type": "p",
+    "text": "Kerry emphasized that the climate crisis remains a pivotal issue for voters, underscoring the political risk of the United States stepping back from global climate efforts."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The United States' absence from COP31 could weaken global climate cooperation and affect future energy markets, especially for European and North American stakeholders."
+   }
+  ],
+  "key_points": [
+   "John Kerry called President Trump the \"biggest loser\" for scrapping U.S. climate actions at COP31.",
+   "The U.S. has not sent any delegation to the Antalya climate summit, unlike almost all other countries.",
+   "Kerry warned that abandoning climate measures cedes clean‑energy dominance to China and remains a key voter concern."
+  ],
+  "meta_description": "John Kerry brands Trump the biggest loser for ending US climate action as the country skips COP31 in Turkey, ceding clean‑energy lead to China.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "John Kerry",
+   "Donald Trump",
+   "COP31",
+   "climate policy",
+   "US delegation",
+   "clean energy"
+  ],
+  "slug": "john-kerry-calls-trump-biggest-loser-ending-us-climate-16c5f0",
+  "reading_minutes": 1,
+  "added": "2026-11-12T11:39:21Z",
+  "trends": []
+ },
+ {
+  "id": "389c412be7daed77",
+  "source_url": "https://www.nytimes.com/video/climate/100000011222904/super-el-nino-malawi-drought-farmers.html",
+  "source": "The New York Times",
+  "source_title": "Malawi Farmers Brace for Drought From ‘Super El Niño’",
+  "source_summary": "Our global climate correspondent Chico Harlan visits a remote village in southern Malawi to see how farmers are preparing for an imminent drought caused by this year’s “Super El Niño.”",
+  "source_tags": [
+   "El Nino Southern Oscillation",
+   "Global Warming",
+   "Malawi"
+  ],
+  "category_hint": "world",
+  "image": null,
+  "published": "2026-11-12T11:00:05+00:00",
+  "headline": "Malawi Farmers Prepare for Imminent Drought Amid Super El Niño",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a remote village in southern Malawi, farmers are taking steps to ready themselves for an imminent drought, a condition linked to this year’s “Super El Niño,” according to New York Times climate correspondent Chico Harlan."
+   },
+   {
+    "type": "p",
+    "text": "The visit, reported on November 12, 2026, highlights the growing concern among local agricultural communities as they anticipate reduced rainfall and its impact on crops."
+   },
+   {
+    "type": "p",
+    "text": "Harlan’s reporting underscores the urgency of preparation in the region, noting that the Super El Niño phenomenon is driving expectations of a severe dry spell that could affect food security."
+   },
+   {
+    "type": "p",
+    "text": "While specific measures were not detailed in the article, the focus remains on how these farmers are adapting to the forecasted climate stress."
+   }
+  ],
+  "key_points": [
+   "Malawi’s southern farmers are bracing for a drought tied to the 2026 Super El Niño.",
+   "New York Times correspondent Chico Harlan documented the preparations in a remote village.",
+   "The anticipated dry conditions raise concerns about regional food security."
+  ],
+  "meta_description": "Malawi farmers in the south prepare for drought linked to the 2026 Super El Niño, reported by NYT correspondent Chico Harlan.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Malawi",
+   "drought",
+   "Super El Niño",
+   "agriculture",
+   "climate",
+   "food security"
+  ],
+  "slug": "malawi-farmers-prepare-imminent-drought-amid-super-el-nino-389c41",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-12T11:39:34Z",
+  "trends": []
+ },
+ {
+  "id": "2b49a019e43a2f49",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo",
+  "source": "BBC Sport",
+  "source_title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
+  "source_summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e373/live/dbd80f70-de86-11f1-b88b-3f1671ea859d.jpg",
+  "published": "2026-11-12T10:21:29+00:00",
+  "headline": "Michael Carrick Sacked After 15 Games Following Two-Year Deal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Manchester United dismissed Michael Carrick as head coach after just 15 matches in charge, ending a two-year contract that began earlier this season. The decision was announced by the club on Monday, marking Carrick as the third manager to lose his job at United within a three‑year span."
+   },
+   {
+    "type": "p",
+    "text": "Carrick, a former United midfielder, took over the role with expectations of rebuilding the team, but the club’s performance under his leadership failed to meet the standards set by the board and supporters. The short tenure highlights the ongoing instability at Old Trafford, where managerial turnover has accelerated in recent years."
+   },
+   {
+    "type": "p",
+    "text": "The sacking adds to a pattern of rapid changes at the club, with two previous managers also dismissed in the last three seasons. Fans and pundits have expressed disappointment over the lack of continuity, noting that frequent leadership changes can hinder long‑term planning and player development."
+   },
+   {
+    "type": "p",
+    "text": "United’s hierarchy has not yet named a successor, but the club indicated that it will seek a new manager who can deliver immediate results while establishing a sustainable vision for the future. The announcement has sparked discussions across the football community about the pressures facing top‑flight clubs in the Premier League."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Frequent coaching changes at a high‑profile Premier League club affect competitive balance and can influence transfer markets across Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Manchester United terminated Michael Carrick’s contract after 15 games.",
+   "Carrick was the third United manager dismissed in three seasons.",
+   "The club’s ongoing managerial turnover raises concerns about stability."
+  ],
+  "meta_description": "Manchester United sacked Michael Carrick after 15 games, making him the third manager dismissed in three seasons.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Manchester United",
+   "Michael Carrick",
+   "Premier League",
+   "football management",
+   "coach sacking"
+  ],
+  "slug": "michael-carrick-sacked-after-15-games-following-two-year-2b49a0",
+  "reading_minutes": 1,
+  "added": "2026-11-12T11:39:09Z",
+  "trends": [
+   "carrick"
+  ]
+ },
+ {
+  "id": "0dbcabf87960e56e",
+  "source_url": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
+  "source": "The New York Times",
+  "source_title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
+  "source_summary": "Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays.",
+  "source_tags": [
+   "Computers and the Internet",
+   "Data Centers",
+   "Artificial Intelligence",
+   "Regulation and Deregulation of Industry",
+   "Midterm Elections (2026)",
+   "Amazon.com Inc",
+   "CoreWeave",
+   "Microsoft Corp",
+   "International Brotherhood of Electrical Workers",
+   "Acton, Amy"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/12/business/12data-center-slowdown-B1/00data-center-slowdown-mediumSquareAt3X.jpg",
+  "published": "2026-11-12T10:03:40+00:00",
+  "headline": "Data Center Construction Set to Persist After Midterm Election Shift",
+  "body": [
+   {
+    "type": "p",
+    "text": "Big technology firms are moving ahead with new data center projects even as the political climate shifts following the recent midterm elections. The companies, which have been investing heavily in large‑scale artificial intelligence infrastructure, face a changing regulatory environment but are not halting construction."
+   },
+   {
+    "type": "p",
+    "text": "The midterm elections have brought increased scrutiny to giant AI initiatives, prompting some lawmakers to question the scale and impact of these projects. Despite this, the tech giants retain sufficient financial resources to absorb potential delays and continue expanding their data center footprints."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the momentum behind data center builds is driven by long‑term demand for cloud services and AI computing power. The firms’ ability to weather political headwinds underscores the resilience of the sector and its importance to the broader digital economy."
+   },
+   {
+    "type": "p",
+    "text": "While the political debate may influence future policy, the immediate outlook remains unchanged: data centers will keep rising to meet global computing needs. The continuation of these projects signals confidence in sustained growth for AI‑driven services."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "U.S. and European readers should note that ongoing data center expansion will affect energy use, job creation, and the competitive landscape for AI services."
+   }
+  ],
+  "key_points": [
+   "Big tech companies will keep building data centers despite a political shift after the midterms.",
+   "Midterm elections have increased scrutiny of large AI projects, but firms have the financial strength to handle delays.",
+   "Continued data center construction reflects ongoing demand for cloud and AI computing power."
+  ],
+  "meta_description": "Tech giants press on with data center builds despite midterm election backlash against large AI projects.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "data centers",
+   "technology",
+   "midterm elections",
+   "AI infrastructure",
+   "big tech"
+  ],
+  "slug": "data-center-construction-set-persist-after-midterm-election-shift-0dbcab",
+  "reading_minutes": 1,
+  "added": "2026-11-12T11:39:38Z",
+  "trends": [
+   "debt"
+  ]
+ },
+ {
+  "id": "c571c5b682c9552d",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo",
+  "source": "BBC Sport",
+  "source_title": "England legend Anderson, 44, joins Surrey",
+  "source_summary": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4274/live/de53bba0-de77-11f1-9115-cfe6d179af3a.jpg",
+  "published": "2026-11-12T09:32:22+00:00",
+  "headline": "James Anderson Signs With Surrey Extending Record Cricket Career",
+  "body": [
+   {
+    "type": "p",
+    "text": "England fast‑bowling legend James Anderson, 44, announced on 12 November 2026 that he has signed a contract to play for Surrey County Cricket Club. The move keeps the veteran bowler in the English domestic game beyond his 45th birthday, adding another chapter to his record‑breaking career."
+   },
+   {
+    "type": "p",
+    "text": "Anderson, who holds the world record for the most Test wickets, will join Surrey for the upcoming County Championship season. The signing was confirmed by Surrey’s management, who highlighted the value of his experience for the club’s younger players."
+   },
+   {
+    "type": "p",
+    "text": "The former Lancashire and England star has been a mainstay of the national side for over two decades, and his decision to continue at county level underscores his remarkable longevity in a sport where fast bowlers rarely play into their mid‑40s."
+   },
+   {
+    "type": "p",
+    "text": "While no official comments from Anderson were included in the report, the club’s statement emphasized his ongoing fitness and commitment to contributing on and off the field. The addition of a player of his stature is expected to boost Surrey’s competitive prospects and provide mentorship for emerging talent."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Anderson’s continued presence highlights the rare longevity of elite fast bowlers, offering valuable experience to English domestic cricket and influencing the development of younger players."
+   }
+  ],
+  "key_points": [
+   "James Anderson, aged 44, signs for Surrey County Cricket Club.",
+   "The contract extends his playing career beyond his 45th birthday.",
+   "Anderson remains the all‑time leading wicket‑taker in Test cricket."
+  ],
+  "meta_description": "England cricket legend James Anderson, 44, joins Surrey, extending his record‑breaking career past his 45th birthday.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "James Anderson",
+   "Surrey",
+   "cricket",
+   "England",
+   "County Championship"
+  ],
+  "slug": "james-anderson-signs-with-surrey-extending-record-cricket-career-c571c5",
+  "reading_minutes": 1,
+  "added": "2026-11-12T11:39:25Z",
+  "trends": []
+ },
+ {
   "id": "48e6c41241423249",
   "source_url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
   "source": "TechCrunch",
