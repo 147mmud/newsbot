@@ -27,7 +27,7 @@
 <script type="application/ld+json">{{ {
   "@context": "https://schema.org", "@type": "NewsArticle",
   "headline": a.headline[:110], "description": a.meta_description,
-  "datePublished": a.published, "dateModified": a.get('added', a.published),
+  "datePublished": a.published, "dateModified": a.get('updated', a.get('added', a.published)),
   "articleSection": categories[a.category], "keywords": (a.tags + (a.trends or []))|join(', '),
   "mainEntityOfPage": canonical,
   "image": [og_image.url] if og_image else [],
@@ -52,6 +52,7 @@
     <span class="badge cat-{{ a.category }}">{{ categories[a.category] }}</span>
     <time datetime="{{ a.published }}">{{ a.published|date }}</time>
     <span>· {{ a.reading_minutes }} min read</span>
+    {% if a.updated %}<span>· Updated <time datetime="{{ a.updated }}">{{ a.updated|date }}</time></span>{% endif %}
     <span>· Source: <a href="{{ a.source_url }}" target="_blank" rel="noopener nofollow">{{ a.source }}</a></span>
   </div>
 
@@ -79,6 +80,12 @@
     {% endfor %}
   </div>
 
+  {% if a.sources %}
+  <aside class="also">
+    <h2>Updated: other outlets are reporting this too</h2>
+    <ul>{% for x in a.sources %}<li><a href="{{ x.url }}" target="_blank" rel="noopener nofollow">{{ x.title }}</a> <small>— {{ x.source }}</small></li>{% endfor %}</ul>
+  </aside>
+  {% endif %}
   {% if a.same_story %}
   <aside class="also">
     <h2>Also reported by other outlets</h2>
