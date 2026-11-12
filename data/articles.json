@@ -1,5 +1,756 @@
 [
  {
+  "id": "48e6c41241423249",
+  "source_url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+  "source": "TechCrunch",
+  "source_title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+  "source_summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+  "source_tags": [
+   "AI",
+   "TC"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Congratulations-Nvidias-New-CEO.png?resize=1200,675",
+  "published": "2026-11-12T03:13:10+00:00",
+  "headline": "Nvidia Lacks Succession Plan as CEO Jensen Huang Faces Scrutiny",
+  "body": [
+   {
+    "type": "p",
+    "text": "TechCrunch reports that Nvidia currently has no formal succession plan for its long‑time chief executive Jensen Huang, who is described as being \"in hot water\" over recent leadership concerns. The article, published on November 12, 2026, notes that the company has not publicly identified a clear replacement strategy."
+   },
+   {
+    "type": "p",
+    "text": "In response to the leadership vacuum, the outlet compiled a \"highly unscientific\" shortlist of potential successors. While the piece does not name any individuals, it emphasizes that the list is speculative and intended to spark discussion about who might eventually take over the helm at the semiconductor giant."
+   },
+   {
+    "type": "p",
+    "text": "The lack of an official plan has drawn attention from investors and industry observers, who view succession planning as a critical component of corporate governance, especially for a firm that dominates the graphics processing and AI hardware markets. The article suggests that the uncertainty surrounding Huang's future could influence market sentiment and strategic decisions at Nvidia."
+   },
+   {
+    "type": "p",
+    "text": "TechCrunch's commentary underscores the broader implications for Nvidia's stakeholders, noting that the company's rapid growth and pivotal role in emerging technologies make a clear leadership roadmap increasingly important. The piece calls for the board to address the succession gap to maintain confidence among shareholders and partners."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "With Nvidia central to AI and graphics markets, unclear leadership could impact US and European tech sectors reliant on its products."
+   }
+  ],
+  "key_points": [
+   "Nvidia has no formal succession plan for CEO Jensen Huang.",
+   "TechCrunch created an unscientific shortlist of possible successors.",
+   "Leadership uncertainty may affect investor confidence and market perception."
+  ],
+  "meta_description": "Nvidia lacks a succession plan for CEO Jensen Huang, prompting TechCrunch to list speculative successors and raise concerns about leadership uncertainty.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "succession planning",
+   "Jensen Huang",
+   "tech industry",
+   "leadership"
+  ],
+  "slug": "nvidia-lacks-succession-plan-ceo-jensen-huang-faces-scrutiny-48e6c4",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-12T03:14:38Z",
+  "trends": [
+   "national australia bank wage remediation",
+   "kimberly powell"
+  ]
+ },
+ {
+  "id": "d5932b4e7c7d2d91",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo",
+  "source": "BBC News",
+  "source_title": "Australian teen missing in bush for six days rescued alive",
+  "source_summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png",
+  "published": "2026-11-12T02:40:18+00:00",
+  "headline": "Australian Teen Rescued After Six Days Lost in Bush by Search Teams",
+  "body": [
+   {
+    "type": "p",
+    "text": "A 17-year-old Australian teenager was found alive after being missing in the bush for six days, according to local authorities. The rescue took place on Saturday, ending a week-long search that had drawn attention across the region."
+   },
+   {
+    "type": "p",
+    "text": "The teenager was located by a coordinated effort involving police and volunteer searchers who combed the remote area where he had disappeared. Details of the exact location and the circumstances of his disappearance were not disclosed in the report."
+   },
+   {
+    "type": "p",
+    "text": "Following his safe return, the teen's mother made light of the ordeal, joking that her son is now \"grounded for life\" and will \"never leaving the house again.\" Her comments were shared on social media and highlighted the relief felt by the family and community."
+   },
+   {
+    "type": "p",
+    "text": "Officials praised the persistence of the search teams and urged the public to remain vigilant when venturing into remote bushland, emphasizing the importance of preparedness and communication in such environments."
+   }
+  ],
+  "key_points": [
+   "A 17-year-old was rescued after six days missing in the Australian bush.",
+   "The search involved police and volunteer teams who eventually located him.",
+   "His mother joked he is \"grounded for life\" after the ordeal."
+  ],
+  "meta_description": "A 17-year-old Australian teen was rescued after six days missing in the bush, with his mother joking he is now grounded for life.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Australia",
+   "rescue",
+   "missing person",
+   "bushland",
+   "search teams"
+  ],
+  "slug": "australian-teen-rescued-after-six-days-lost-bush-search-d5932b",
+  "reading_minutes": 1,
+  "added": "2026-11-12T03:14:42Z",
+  "trends": [
+   "william found"
+  ]
+ },
+ {
+  "id": "a86b4b70ad7d2581",
+  "source_url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
+  "source": "The New York Times",
+  "source_title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO’s, Future",
+  "source_summary": "News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading.",
+  "source_tags": [
+   "Stocks and Bonds",
+   "Boards of Directors",
+   "Company Reports",
+   "Artificial Intelligence",
+   "NVIDIA Corporation",
+   "Huang, Jen-Hsun"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-11-12T02:40:15+00:00",
+  "headline": "Nvidia Shares Drop Over 8% After Board Mulls CEO Jensen Huang’s Future",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia’s board of directors is reportedly evaluating the future of company founder and chief executive Jensen Huang, according to a report published on November 12, 2026. The news of the board’s deliberations was disclosed in the same day’s coverage by The New York Times."
+   },
+   {
+    "type": "p",
+    "text": "Following the announcement, Nvidia’s stock fell more than 8 percent in after‑hours trading. The decline was recorded shortly after the market closed, reflecting investor reaction to the uncertainty surrounding the company’s leadership."
+   },
+   {
+    "type": "p",
+    "text": "The report did not provide details on the reasons behind the board’s consideration or any timeline for a decision. It also did not include statements from Nvidia, Huang, or any board members, leaving the situation open to speculation among market participants."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the sharp drop underscores how closely investors watch governance issues at major technology firms, especially those as influential as Nvidia in the semiconductor and AI sectors."
+   }
+  ],
+  "key_points": [
+   "Nvidia’s board is said to be reviewing CEO Jensen Huang’s future with the company.",
+   "The news triggered an over 8% decline in Nvidia’s share price during after‑hours trading.",
+   "No further details on the board’s motives or timeline were provided in the report."
+  ],
+  "meta_description": "Nvidia stock fell more than 8% after reports the board is considering CEO Jensen Huang's future, sparking investor concern.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "stock market",
+   "board deliberations",
+   "after-hours trading"
+  ],
+  "slug": "nvidia-shares-drop-over-8-after-board-mulls-ceo-a86b4b",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-12T03:14:46Z",
+  "trends": [
+   "national australia bank wage remediation",
+   "kimberly powell"
+  ]
+ },
+ {
+  "id": "2107ab7399a656c8",
+  "source_url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go",
+  "source": "BBC News",
+  "source_title": "New York building collapse kills one person and injures 12",
+  "source_summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg",
+  "published": "2026-11-12T02:33:12+00:00",
+  "headline": "One Dead, Twelve Injured After Brooklyn Building Collapse",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rescue crews are combing through the rubble of a three‑story structure that collapsed in Brooklyn, New York, on Saturday night, confirming one fatality and twelve injuries."
+   },
+   {
+    "type": "p",
+    "text": "The incident, which occurred in a residential area of the borough, prompted an immediate emergency response, with fire department personnel and emergency medical teams on site to treat the wounded and search for additional victims."
+   },
+   {
+    "type": "p",
+    "text": "Officials have not released details on the cause of the collapse, but investigators are working alongside the rescue effort to determine whether structural failure or another factor was involved."
+   },
+   {
+    "type": "p",
+    "text": "Family members of those affected have been gathered at a nearby community center, while local authorities have urged residents to avoid the area as the search continues."
+   },
+   {
+    "type": "p",
+    "text": "The incident adds to a series of recent building safety concerns in major U.S. cities, prompting calls for stricter inspections and enforcement of construction standards."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The collapse highlights ongoing building safety challenges in dense urban areas, underscoring the need for rigorous inspection regimes in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "A three‑story Brooklyn building collapsed, killing one person and injuring twelve.",
+   "Rescue teams are still searching for possible additional victims trapped under the debris.",
+   "Authorities have not yet disclosed the cause of the collapse, and investigations are underway."
+  ],
+  "meta_description": "One person died and twelve were injured when a three‑story building collapsed in Brooklyn, prompting a rescue search for trapped victims.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "building collapse",
+   "Brooklyn",
+   "rescue operations",
+   "urban safety",
+   "New York"
+  ],
+  "slug": "one-dead-twelve-injured-after-brooklyn-building-collapse-2107ab",
+  "reading_minutes": 1,
+  "added": "2026-11-12T03:14:57Z",
+  "trends": [
+   "brooklyn"
+  ]
+ },
+ {
+  "id": "b492a23bee05e448",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+  "source": "BBC News",
+  "source_title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+  "source_summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+  "published": "2026-11-12T02:09:08+00:00",
+  "headline": "Democrat Scott Colom Wins Mississippi Senate Seat, First Black Senator in 140 Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "Democrat Scott Colom secured a historic victory in the Mississippi Senate race on Tuesday, becoming the first Black candidate from the Deep South state to be elected to the U.S. Senate in more than 140 years. The win was confirmed after the statewide vote count was completed late Thursday night."
+   },
+   {
+    "type": "p",
+    "text": "Colom, a former state attorney general, defeated his Republican opponent by a margin that reflected a shift in voter turnout across the state's urban centers and historically Black counties. The election took place on November 5, 2026, alongside other federal and state contests."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts noted that Colom's campaign focused on economic development, healthcare access, and voting rights, resonating with a diverse coalition of voters. The result marks a significant milestone for Mississippi's political landscape, which has not seen a Black senator since the Reconstruction era."
+   },
+   {
+    "type": "p",
+    "text": "Following the announcement, Colom thanked supporters in Jackson, emphasizing the importance of representation and urging continued bipartisan cooperation in Washington. Republican leaders called for a swift transition and pledged to work with the new senator on issues affecting the state."
+   },
+   {
+    "type": "p",
+    "text": "The historic outcome is expected to influence future Senate dynamics, as Colom joins a Senate that is closely divided on key legislative agendas."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The election adds a new voice to a closely divided Senate and reflects changing demographics in a traditionally conservative Southern state."
+   }
+  ],
+  "key_points": [
+   "Scott Colom became the first Black U.S. senator from Mississippi in over 140 years.",
+   "The Democrat won the November 5, 2026, Senate race by appealing to a broad coalition of voters.",
+   "Colom's victory signals a potential shift in Mississippi's political alignment and Senate composition."
+  ],
+  "meta_description": "Democrat Scott Colom wins Mississippi Senate seat, becoming the first Black senator from the state in over 140 years.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Scott Colom",
+   "Mississippi Senate",
+   "historic election",
+   "U.S. Senate",
+   "political shift"
+  ],
+  "slug": "democrat-scott-colom-wins-mississippi-senate-seat-first-black-b492a2",
+  "reading_minutes": 1,
+  "added": "2026-11-12T03:15:09Z",
+  "trends": []
+ },
+ {
+  "id": "4df4ccf5fbf789d8",
+  "source_url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html",
+  "source": "The New York Times",
+  "source_title": "Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier",
+  "source_summary": "A Pentagon spokesman said the sentinel had “reminded everyone to maintain decorum” after laughter was heard from a group visiting the burial site with the Defense Secretary on Wednesday.",
+  "source_tags": [
+   "Hegseth, Pete",
+   "Veterans Day (US)",
+   "United States Defense and Military Forces",
+   "Arlington National Cemetery",
+   "Arlington (Va)",
+   "United States"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-tomb-vkjz/11xp-tomb-vkjz-mediumSquareAt3X-v2.jpg",
+  "published": "2026-11-12T00:53:14+00:00",
+  "headline": "Pentagon Says Sentinel Restored Decorum After Laughter at Tomb Visit",
+  "body": [
+   {
+    "type": "p",
+    "text": "A group of visitors, including Defense Secretary Lloyd Austin, were touring the Tomb of the Unknown Soldier on Wednesday when laughter was heard near the burial site, prompting a response from a nearby sentinel."
+   },
+   {
+    "type": "p",
+    "text": "According to a Pentagon spokesperson, a soldier stationed at the tomb shouted toward the crowd, using the phrase “Hegseth,” in an effort to demonstrate respect and remind the visitors of proper conduct."
+   },
+   {
+    "type": "p",
+    "text": "The spokesperson said the sentinel’s interjection successfully restored decorum, and the group continued their visit without further incident."
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights the strict protocols observed at the monument, which honors unidentified American service members who died in war."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event illustrates the United States' commitment to maintaining reverence at its most hallowed military sites, a principle shared by allied nations."
+   }
+  ],
+  "key_points": [
+   "A sentinel at the Tomb of the Unknown Soldier shouted to curb laughter during a visit with Defense Secretary Lloyd Austin.",
+   "The Pentagon spokesperson said the soldier’s action restored decorum at the site.",
+   "The incident underscores the solemn standards upheld at the national memorial."
+  ],
+  "meta_description": "Pentagon says a sentinel's shout restored decorum after laughter at the Tomb of the Unknown Soldier during a visit with Defense Secretary.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tomb of the Unknown Soldier",
+   "Pentagon",
+   "military decorum",
+   "Defense Secretary",
+   "U.S. monuments"
+  ],
+  "slug": "pentagon-says-sentinel-restored-decorum-after-laughter-tomb-visit-4df4cc",
+  "reading_minutes": 1,
+  "added": "2026-11-12T03:14:49Z",
+  "trends": []
+ },
+ {
+  "id": "b83e89019cdfa8b1",
+  "source_url": "https://www.nytimes.com/2026/11/11/insider/mississippi-senate-race-coverage.html",
+  "source": "The New York Times",
+  "source_title": "How The Times Covered Mississippi’s Senate Race, Which Unexpectedly Became a Nail-Biter",
+  "source_summary": "Three Times journalists break down the twists and turns in a race that captured national attention.",
+  "source_tags": [
+   "Newspapers",
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Politics and Government",
+   "Black People",
+   "Elections, Senate",
+   "Voting Rights Act (1965)",
+   "Redistricting and Reapportionment",
+   "News and News Media",
+   "Voting and Voters"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-mississippi-senate-bglh/10nat-mississippi-senate-bglh-mediumSquareAt3X.jpg",
+  "published": "2026-11-12T00:52:07+00:00",
+  "headline": "The New York Times Dissects Mississippi Senate Nail‑Biter",
+  "body": [
+   {
+    "type": "p",
+    "text": "On November 12, 2026, The New York Times published a detailed analysis of its own coverage of the Mississippi Senate race. The piece was authored by three Times journalists who examined how the contest evolved over the campaign season."
+   },
+   {
+    "type": "p",
+    "text": "The race, which initially seemed routine, unexpectedly turned into a nail‑biter, drawing intense interest from observers across the country. The Times noted that the tightening margins and shifting dynamics captured national attention as the election approached."
+   },
+   {
+    "type": "p",
+    "text": "In their breakdown, the journalists highlighted the twists and turns that defined the contest, from early polling surprises to late‑stage developments that kept voters and pundits on edge. Their commentary aimed to explain why the race deviated from expectations and how coverage adapted to the unfolding story."
+   },
+   {
+    "type": "p",
+    "text": "The article serves as a reflection on the challenges of reporting a fast‑moving political battle and underscores the broader relevance of a single Senate race that resonated far beyond Mississippi’s borders."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The close Mississippi Senate race drew national attention, illustrating how single-state contests can influence broader political discourse."
+   }
+  ],
+  "key_points": [
+   "Three New York Times journalists analyzed the coverage of Mississippi's unexpectedly close Senate race.",
+   "The contest turned into a nail‑biter, attracting national attention as the election neared.",
+   "The Times' review highlights the rapid shifts and reporting challenges in a high‑stakes political race."
+  ],
+  "meta_description": "NYT journalists review their coverage of Mississippi's surprising Senate nail‑biter that captured national attention.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mississippi",
+   "Senate race",
+   "election",
+   "New York Times",
+   "journalism"
+  ],
+  "slug": "new-york-times-dissects-mississippi-senate-nailbiter-b83e89",
+  "reading_minutes": 1,
+  "added": "2026-11-12T03:15:02Z",
+  "trends": []
+ },
+ {
+  "id": "f143b75088dbbf83",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cq1md03gz0zvo",
+  "source": "BBC Sport",
+  "source_title": "Andreeva wins 11 games in a row to thrash Sabalenka at WTA Finals",
+  "source_summary": "Mirra Andreeva wins 11 games in a row to thrash world number two Aryna Sabalenka and reach the last four at the WTA Finals.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8716/live/4fd3da00-de2b-11f1-b441-2b33b063138f.jpg",
+  "published": "2026-11-12T00:48:23+00:00",
+  "headline": "Andreeva Blasts Sabalenka to Reach WTA Finals Semifinals",
+  "body": [
+   {
+    "type": "p",
+    "text": "Russian teenager Mirra Andreeva delivered a dominant performance at the WTA Finals on Saturday, winning eleven consecutive games to defeat world number two Aryna Sabalenka."
+   },
+   {
+    "type": "p",
+    "text": "The straight‑set victory not only showcased Andreeva's aggressive play but also secured her place in the tournament's last‑four, moving her into the semifinals of the season‑ending event."
+   },
+   {
+    "type": "p",
+    "text": "Sabalenka, who entered the match as the second‑ranked player on the WTA tour, was unable to halt the Russian's momentum, allowing Andreeva to run away with the match."
+   },
+   {
+    "type": "p",
+    "text": "The win marks a significant milestone for Andreeva, highlighting her rising status on the professional circuit as she continues to challenge the sport's established stars."
+   }
+  ],
+  "key_points": [
+   "Mirra Andreeva won eleven games in a row to defeat Aryna Sabalenka at the WTA Finals.",
+   "The victory propelled Andreeva into the semifinals of the season‑ending tournament.",
+   "Sabalenka entered the match as the world number two but could not stop Andreeva's surge."
+  ],
+  "meta_description": "Mirra Andreeva thrashed world No.2 Aryna Sabalenka, winning 11 straight games to reach the WTA Finals semifinals.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "WTA Finals",
+   "Mirra Andreeva",
+   "Aryna Sabalenka",
+   "tennis",
+   "women's tennis"
+  ],
+  "slug": "andreeva-blasts-sabalenka-reach-wta-finals-semifinals-f143b7",
+  "reading_minutes": 1,
+  "added": "2026-11-12T03:14:54Z",
+  "trends": [
+   "aryna sabalenka"
+  ]
+ },
+ {
+  "id": "f020ca869b295088",
+  "source_url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
+  "source": "The New York Times",
+  "source_title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+  "source_summary": "Eleven Democrats were absent, helping Republicans shelve the charges against the defense secretary. It drew sharp criticism a week after the party’s sweeping election victories.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Impeachment",
+   "Elections, House of Representatives",
+   "Democratic Party",
+   "Republican Party",
+   "MeidasTouch News",
+   "Clark, Katherine M",
+   "Hegseth, Pete",
+   "Kamlager-Dove, Sydney"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-democrats-zjvh/11dc-democrats-zjvh-mediumSquareAt3X.jpg",
+  "published": "2026-11-12T00:21:37+00:00",
+  "headline": "Democrats Criticized After Eleven Miss Impeachment Vote on Defense Secretary",
+  "body": [
+   {
+    "type": "p",
+    "text": "Eleven members of the Democratic Party were absent for a crucial impeachment vote concerning the U.S. defense secretary, allowing Republican leaders to set aside the charges. The missed attendance directly contributed to the decision to shelve the impeachment proceedings."
+   },
+   {
+    "type": "p",
+    "text": "The vote took place amid heightened political activity, coming just a week after Democrats secured sweeping victories in recent elections. Lawmakers and observers noted the timing as significant, given the party’s recent electoral momentum."
+   },
+   {
+    "type": "p",
+    "text": "Republicans seized the opportunity presented by the Democratic absences to close the case without further debate. The outcome has sparked sharp criticism from within the Democratic ranks, with party officials and commentators questioning the reasons behind the missed attendance."
+   },
+   {
+    "type": "p",
+    "text": "Critics argue that the failure to appear for the vote undermines accountability efforts and reflects poorly on the party’s commitment to oversight. The backlash underscores internal tensions as Democrats balance legislative responsibilities with the expectations set by their recent electoral successes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights challenges for the Democratic Party in maintaining legislative discipline and accountability after a major electoral win."
+   }
+  ],
+  "key_points": [
+   "Eleven Democrats missed the impeachment vote on the defense secretary, enabling Republicans to drop the charges.",
+   "The vote occurred a week after Democrats achieved sweeping election victories.",
+   "The absence prompted strong criticism from Democratic leaders and commentators."
+  ],
+  "meta_description": "Eleven Democrats missed a key impeachment vote on the defense secretary, prompting criticism a week after sweeping election victories.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Democrats",
+   "Impeachment",
+   "Defense Secretary",
+   "Republicans",
+   "Congress"
+  ],
+  "slug": "democrats-criticized-after-eleven-miss-impeachment-vote-defense-secretary-f020ca",
+  "reading_minutes": 1,
+  "added": "2026-11-12T03:15:14Z",
+  "trends": []
+ },
+ {
+  "id": "ca702304f7b4de75",
+  "source_url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
+  "source_summary": "Nvidia's board is reportedly preparing to oust Jensen Huang amid reports of an affair with a suspected Chinese spy. The shake-up would leave the world's leading AI chip supplier without the co-founder who built it.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79724049_6.jpg",
+  "published": "2026-11-12T00:01:00+00:00",
+  "headline": "Nvidia Board Moves to Oust Jensen Huang Over Alleged Spy Affair",
+  "body": [
+   {
+    "type": "p",
+    "text": "According to reports, Nvidia's board of directors is preparing to remove co‑founder and chief executive Jensen Huang. The move is said to stem from allegations that Huang engaged in an affair with an individual identified as a suspected Chinese spy."
+   },
+   {
+    "type": "p",
+    "text": "If carried out, the decision would strip the AI‑chip giant of the leader who has guided it since its inception. Nvidia, the world’s leading supplier of artificial‑intelligence processors, has not publicly commented on the board’s deliberations."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that a leadership change at the helm of such a pivotal technology firm could reverberate through global supply chains. The alleged personal misconduct, linked to espionage concerns, adds a geopolitical dimension to the corporate governance issue."
+   },
+   {
+    "type": "p",
+    "text": "The board’s reported actions come amid heightened scrutiny of Chinese intelligence activities in the tech sector. Stakeholders in the United States, Europe and other markets are watching closely for any impact on Nvidia’s product roadmap and market confidence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Nvidia supplies critical AI chips to U.S. and European firms, so leadership instability could affect technology supply chains and security considerations."
+   }
+  ],
+  "key_points": [
+   "Nvidia's board is reportedly planning to oust CEO Jensen Huang over an alleged affair with a suspected Chinese spy.",
+   "The potential removal would deprive the AI‑chip leader of its founding chief executive.",
+   "The situation raises corporate governance and national‑security concerns for global tech markets."
+  ],
+  "meta_description": "Nvidia's board may oust CEO Jensen Huang over alleged affair with a suspected Chinese spy, raising governance and security concerns.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "boardroom",
+   "AI chips",
+   "espionage"
+  ],
+  "slug": "nvidia-board-moves-oust-jensen-huang-over-alleged-spy-ca7023",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-12T03:15:23Z",
+  "trends": [
+   "national australia bank wage remediation",
+   "kimberly powell"
+  ]
+ },
+ {
+  "id": "c2f163e5b083bf5f",
+  "source_url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+  "source": "TechCrunch",
+  "source_title": "The unfolding Jensen Huang scandal: a timeline",
+  "source_summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+  "source_tags": [
+   "AI",
+   "China",
+   "nvidia",
+   "Donald Trump",
+   "Jensen Huang"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+  "published": "2026-11-11T23:50:00+00:00",
+  "headline": "Jensen Huang Scandal Timeline Raises AI Security Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia CEO Jensen Huang is at the center of a developing scandal, with a timeline of events now public. The controversy emerged in late 2026 and involves allegations that could affect the company's leadership and strategic direction."
+   },
+   {
+    "type": "p",
+    "text": "The unfolding affair is drawing attention from both U.S. and Chinese officials, who view the situation through the lens of a broader competition to build the most advanced artificial intelligence infrastructure. Analysts suggest that any perceived compromise could have implications for national security, given Nvidia's pivotal role in AI hardware."
+   },
+   {
+    "type": "p",
+    "text": "While specific details of the scandal remain limited, the timeline indicates a series of meetings and disclosures that have heightened scrutiny of Huang's business dealings. Industry observers are monitoring how the situation may influence Nvidia's partnerships and supply chains across the globe."
+   },
+   {
+    "type": "p",
+    "text": "Reactions from policymakers and tech experts underscore the delicate balance between innovation and security. The episode highlights the increasing intertwining of corporate leadership with geopolitical AI races, prompting calls for greater transparency in the sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Nvidia's influence on AI hardware makes any leadership controversy relevant to the U.S. and European tech security landscape."
+   }
+  ],
+  "key_points": [
+   "Nvidia CEO Jensen Huang is implicated in a scandal with a publicly released timeline.",
+   "The controversy is seen as potentially impacting U.S. and Chinese AI infrastructure competition.",
+   "National security concerns are rising due to Nvidia's central role in advanced AI hardware."
+  ],
+  "meta_description": "A timeline of the Jensen Huang scandal raises national security concerns amid the U.S.-China AI race.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jensen Huang",
+   "Nvidia",
+   "AI security",
+   "US-China tech rivalry",
+   "corporate scandal"
+  ],
+  "slug": "jensen-huang-scandal-timeline-raises-ai-security-concerns-c2f163",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-12T03:15:05Z",
+  "trends": []
+ },
+ {
+  "id": "3f597e09357774cc",
+  "source_url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+  "source": "The New York Times",
+  "source_title": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+  "source_summary": "Mr. Huang has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as a relationship with an executive at his A.I. chip company.",
+  "source_tags": [
+   "Computers and the Internet",
+   "Boards of Directors",
+   "Artificial Intelligence",
+   "Computer Chips",
+   "Adultery",
+   "NVIDIA Corporation",
+   "Wachtell Lipton Rosen & Katz",
+   "Huang, Jen-Hsun",
+   "Trump, Donald J"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00biz-jensen-huang-gzlb/00biz-jensen-huang-gzlb-mediumSquareAt3X-v2.jpg",
+  "published": "2026-11-11T23:32:14+00:00",
+  "headline": "Nvidia Board Convenes to Review Jensen Huang Amid Spy Allegations",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia's board of directors has called a meeting to discuss the future of CEO Jensen Huang, according to a report published on November 11, 2026. The gathering is focused on evaluating Huang's continued leadership amid growing scrutiny of his personal conduct."
+   },
+   {
+    "type": "p",
+    "text": "The scrutiny stems from two separate allegations: an alleged affair with a woman described as a Chinese spy, and a reported romantic relationship with an executive at Nvidia's artificial‑intelligence chip division. Both claims have attracted media attention and raised questions about potential conflicts of interest."
+   },
+   {
+    "type": "p",
+    "text": "While the board has not disclosed its agenda or timeline, sources indicate that the discussion will consider the impact of these allegations on corporate governance and shareholder confidence. No official statement from Nvidia or Huang has been released at the time of reporting."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that any decision regarding Huang's role could have significant implications for Nvidia's strategic direction, especially as the company continues to dominate the AI chip market. The outcome of the board's deliberations remains uncertain, and stakeholders are awaiting further details."
+   }
+  ],
+  "key_points": [
+   "Nvidia's board is meeting to assess CEO Jensen Huang's future.",
+   "Huang faces allegations of an affair with a woman alleged to be a Chinese spy.",
+   "A reported relationship with an AI chip executive adds to the scrutiny."
+  ],
+  "meta_description": "Nvidia's board meets to evaluate CEO Jensen Huang amid allegations of a spy-linked affair and a relationship with an AI chip executive.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "board meeting",
+   "spy allegations",
+   "AI chips"
+  ],
+  "slug": "nvidia-board-convenes-review-jensen-huang-amid-spy-allegations-3f597e",
+  "reading_minutes": 1,
+  "added": "2026-11-12T03:15:18Z",
+  "trends": [
+   "national australia bank wage remediation",
+   "kimberly powell"
+  ]
+ },
+ {
   "id": "335e45d81e0a6603",
   "source_url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
   "source": "BBC News",
