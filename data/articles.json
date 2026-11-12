@@ -1,5 +1,733 @@
 [
  {
+  "id": "09aee490d7c134a0",
+  "source_url": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html",
+  "source": "The New York Times",
+  "source_title": "Jensen Huang Resigns From Nvidia After Affairs",
+  "source_summary": "The chief executive has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with a subordinate at his A.I. chip company. Nvidia’s finance chief, Colette Kress, was named interim leader.",
+  "source_tags": [
+   "Huang, Jen-Hsun",
+   "NVIDIA Corporation",
+   "Computer Chips",
+   "Kress, Colette",
+   "Appointments and Executive Changes",
+   "Industrial Espionage",
+   "Espionage and Intelligence Services",
+   "Huang, Alice (Technology Executive)",
+   "Adultery",
+   "Boards of Directors"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/11/multimedia/00biz-jensen-huang-gzlb/00biz-jensen-huang-gzlb-mediumSquareAt3X-v2.jpg",
+  "published": "2026-11-12T19:07:44+00:00",
+  "headline": "Jensen Huang Steps Down as Nvidia CEO Amid Personal Scandal",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia announced that its chief executive, Jensen Huang, has resigned following intense scrutiny over his personal relationships. The resignation was reported on November 12, 2026, after media reports linked Huang to an affair with a woman described as a Chinese spy and a separate relationship with a subordinate within the company."
+   },
+   {
+    "type": "p",
+    "text": "The board’s decision came as the allegations raised concerns about potential security risks and conflicts of interest at the AI chip maker. Huang’s departure marks a sudden leadership change for the firm, which has been at the forefront of artificial‑intelligence hardware development."
+   },
+   {
+    "type": "p",
+    "text": "Following Huang’s exit, Nvidia named its chief financial officer, Colette Kress, as interim chief executive. Kress will assume the role while the board conducts a search for a permanent replacement, ensuring continuity in the company’s operations and strategic initiatives."
+   },
+   {
+    "type": "p",
+    "text": "The development underscores heightened attention to executive conduct and national‑security considerations within the technology sector, especially for firms with critical AI capabilities."
+   }
+  ],
+  "key_points": [
+   "Nvidia CEO Jensen Huang resigned amid allegations of an affair with a woman alleged to be a Chinese spy and a relationship with a subordinate.",
+   "The board appointed CFO Colette Kress as interim chief executive to maintain leadership stability.",
+   "The scandal highlights security and governance concerns for AI‑focused technology companies."
+  ],
+  "meta_description": "Nvidia CEO Jensen Huang resigns after personal scandal; CFO Colette Kress named interim leader.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "executive resignation",
+   "AI chips",
+   "corporate governance"
+  ],
+  "slug": "jensen-huang-steps-down-nvidia-ceo-amid-personal-scandal-09aee4",
+  "reading_minutes": 1,
+  "added": "2026-11-12T19:11:06Z",
+  "trends": [
+   "microsoft ceo"
+  ]
+ },
+ {
+  "id": "b96b7d9fc07a01bf",
+  "source_url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+  "source": "The Verge",
+  "source_title": "Microsoft Outlook is down",
+  "source_summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is […]",
+  "source_tags": [
+   "Apps",
+   "Microsoft",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-12T19:07:21+00:00",
+  "headline": "Microsoft Outlook Outage Affects Users Globally Amid Elevated Load",
+  "body": [
+   {
+    "type": "p",
+    "text": "Around the world, users have reported being unable to access Microsoft Outlook through both the web interface and mobile or desktop applications over the past hour. The disruption appears to be widespread, affecting individuals and organizations across multiple regions."
+   },
+   {
+    "type": "p",
+    "text": "Microsoft confirmed the problem on its Microsoft 365 Status page, stating that a portion of its infrastructure is experiencing elevated load. The company noted that this increased demand is occurring across several geographic areas, leading to the service interruption."
+   },
+   {
+    "type": "p",
+    "text": "The outage has impacted email communications for a range of users, from personal accounts to corporate environments that rely on Outlook as a primary messaging platform. No specific timeline for resolution has been provided, and the status page remains the primary source of updates."
+   },
+   {
+    "type": "p",
+    "text": "While Microsoft has not detailed the cause beyond the elevated load, the acknowledgment signals that the issue is being monitored at the infrastructure level. Users are advised to check the Microsoft 365 Status page for further information as the company works to restore normal service."
+   }
+  ],
+  "key_points": [
+   "Outlook email service is down globally for both web and app access.",
+   "Microsoft attributes the outage to elevated load on part of its infrastructure.",
+   "The issue is being tracked on the Microsoft 365 Status page with no resolution time yet."
+  ],
+  "meta_description": "Microsoft Outlook is down worldwide as elevated load strains infrastructure, according to the Microsoft 365 Status page.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "outlook",
+   "outage",
+   "microsoft365",
+   "email",
+   "downtime"
+  ],
+  "slug": "microsoft-outlook-outage-affects-users-globally-amid-elevated-load-b96b7d",
+  "reading_minutes": 1,
+  "added": "2026-11-12T19:11:26Z",
+  "trends": [
+   "outlook"
+  ]
+ },
+ {
+  "id": "b286561d0c40cc9e",
+  "source_url": "https://www.dw.com/en/pete-hegseth-honors-soldier-who-scolded-him-at-arlington-cemetery/a-79935075?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Pete Hegseth honors soldier who scolded him at Arlington cemetery",
+  "source_summary": "The soldier had reprimanded the US Defense Secretary and his group after they were heard talking and laughing at the Tomb of the Unknown Soldier. The site is one of the most solemn military memorials in the US.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79927848_6.jpg",
+  "published": "2026-11-12T19:07:00+00:00",
+  "headline": "Pete Hegseth Honors Soldier Who Scolded Him at Arlington Cemetery",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former Army Ranger and TV personality Pete Hegseth visited Arlington National Cemetery on Saturday to acknowledge a soldier who reprimanded him and his group for laughing near the Tomb of the Unknown Soldier. The incident occurred during a recent visit when Hegseth and companions were heard talking and chuckling at the solemn site."
+   },
+   {
+    "type": "p",
+    "text": "The soldier, whose name was not disclosed, approached the group and reminded them of the proper decorum expected at the nation's most revered military memorial. Hegseth said the soldier’s correction was a “wake‑up call” and expressed gratitude for the reminder of respect owed to fallen service members."
+   },
+   {
+    "type": "p",
+    "text": "After the encounter, Hegseth returned to the cemetery to thank the soldier publicly, emphasizing that the brief admonishment reinforced the importance of honoring the sacrifices represented by the Tomb. He noted that the experience left a lasting impression on him and his colleagues."
+   },
+   {
+    "type": "p",
+    "text": "The episode highlights ongoing concerns about appropriate behavior at Arlington, a site that draws millions of visitors each year and is closely guarded by the U.S. Army’s ceremonial unit. Officials have repeatedly stressed that the Tomb demands the highest level of reverence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Respectful conduct at Arlington reflects national values and honors the memory of fallen service members, a concern shared by both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "Pete Hegseth was publicly corrected by a soldier for laughing near the Tomb of the Unknown Soldier at Arlington.",
+   "The soldier’s admonition prompted Hegseth to return and publicly thank him for reinforcing proper respect.",
+   "The incident underscores the strict decorum expected at Arlington’s most solemn military memorial."
+  ],
+  "meta_description": "Pete Hegseth publicly thanks a soldier who scolded him for laughing at Arlington's Tomb of the Unknown Soldier, stressing respect for the memorial.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Pete Hegseth",
+   "Arlington Cemetery",
+   "Tomb of the Unknown Soldier",
+   "military respect",
+   "US Defense Secretary"
+  ],
+  "slug": "pete-hegseth-honors-soldier-who-scolded-him-arlington-cemetery-b28656",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-12T19:11:11Z",
+  "trends": []
+ },
+ {
+  "id": "a20ff2b991b55d37",
+  "source_url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+  "source": "TechCrunch",
+  "source_title": "Microsoft’s Outlook email hit by new outage",
+  "source_summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+  "source_tags": [
+   "Apps",
+   "email",
+   "Microsoft",
+   "Outlook"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848-e1720623049887.jpg?resize=1200,676",
+  "published": "2026-11-12T19:03:39+00:00",
+  "headline": "Microsoft Outlook Email Service Experiences Unexplained Outage",
+  "body": [
+   {
+    "type": "p",
+    "text": "On November 12, 2026, Microsoft reported an outage affecting its Outlook email service. The disruption was noted by users attempting to send or receive messages through the platform."
+   },
+   {
+    "type": "p",
+    "text": "The outage appears to be widespread, impacting Outlook users across multiple regions. Microsoft has confirmed the issue but has not provided a specific cause or timeline for resolution."
+   },
+   {
+    "type": "p",
+    "text": "The company’s communications indicated that technical teams are investigating the problem. No official statement has been released regarding the scope of the outage beyond its effect on email functionality."
+   },
+   {
+    "type": "p",
+    "text": "As of the latest update, Outlook remains unavailable for many users, and Microsoft has not announced an expected restoration time. The incident underscores the reliance on the service for personal and professional communications."
+   }
+  ],
+  "key_points": [
+   "Microsoft Outlook email service suffered an outage on November 12, 2026.",
+   "The cause of the outage has not been disclosed by Microsoft.",
+   "The disruption affects Outlook users globally with no announced fix time."
+  ],
+  "meta_description": "Microsoft reports an unexplained outage of its Outlook email service on November 12, 2026, affecting users worldwide.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Microsoft",
+   "Outlook",
+   "email outage",
+   "service disruption",
+   "tech news"
+  ],
+  "slug": "microsoft-outlook-email-service-experiences-unexplained-outage-a20ff2",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-12T19:11:46Z",
+  "trends": [
+   "outlook"
+  ]
+ },
+ {
+  "id": "26344e9d0d86a1f2",
+  "source_url": "https://www.dw.com/en/nigeria-axe-wielding-men-attack-opposition-campaign-rally-in-lagos/a-79934958?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Nigeria: Axe-wielding men attack opposition campaign rally in Lagos",
+  "source_summary": "A group of men armed with axes, clubs and machetes have reportedly attacked an opposition rally in the run-up to presidential elections. Journalists were also attacked as victims pointed fingers at the ruling APC party.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79934853_6.jpg",
+  "published": "2026-11-12T19:01:00+00:00",
+  "headline": "Armed Men Assault Opposition Rally in Lagos Ahead of Election",
+  "body": [
+   {
+    "type": "p",
+    "text": "On November 12, 2026, a group of men armed with axes, clubs and machetes stormed an opposition campaign rally in Lagos, Nigeria, as the country approaches its presidential elections."
+   },
+   {
+    "type": "p",
+    "text": "The attackers targeted both the rally participants and journalists covering the event, leaving several injured. Witnesses said the assailants moved through the crowd, wielding the weapons and forcing attendees to flee."
+   },
+   {
+    "type": "p",
+    "text": "Victims of the assault blamed the ruling All Progressives Congress (APC) party for the violence, suggesting the attack was politically motivated to intimidate opposition supporters ahead of the vote."
+   },
+   {
+    "type": "p",
+    "text": "Local authorities have not yet released details on arrests or investigations, but the incident has raised concerns about the safety of political gatherings and press freedom in Nigeria during the election season."
+   },
+   {
+    "type": "p",
+    "text": "International observers noted that such attacks could undermine confidence in the electoral process and highlight the volatile security situation in the nation’s most populous city."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack underscores risks to democratic processes and press freedom in Nigeria, a key partner in West African stability and a significant market for U.S. and European businesses."
+   }
+  ],
+  "key_points": [
+   "Armed men attacked an opposition rally in Lagos on November 12, 2026.",
+   "Journalists covering the rally were also assaulted during the incident.",
+   "Victims accused the ruling APC party of being behind the violence."
+  ],
+  "meta_description": "Armed men attacked an opposition rally in Lagos, injuring participants and journalists, with victims blaming the ruling APC party.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nigeria",
+   "Lagos",
+   "election violence",
+   "opposition rally",
+   "press freedom",
+   "APC"
+  ],
+  "slug": "armed-men-assault-opposition-rally-lagos-ahead-election-26344e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-12T19:11:31Z",
+  "trends": []
+ },
+ {
+  "id": "3d11d618ba415e78",
+  "source_url": "https://www.nytimes.com/2026/11/12/weather/noreaster-snow-cold.html",
+  "source": "The New York Times",
+  "source_title": "Nor’Easter Will Bring Cold Temperatures and Maybe a Little Snow to Millions",
+  "source_summary": "Millions of people from the Midwest to the Deep South will get a dose of winter weather this week.",
+  "source_tags": [
+   "Cold and Cold Spells",
+   "Floods",
+   "Snow and Snowstorms",
+   "Weather",
+   "Winter (Season)",
+   "Tornadoes",
+   "Wind",
+   "Arctic Regions",
+   "Catskills (NYS Area)",
+   "East Coast (US)"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2024/01/11/multimedia/2024-01-08-cold-tracker-index/2024-01-08-cold-tracker-index-mediumSquareAt3X-v4172.jpeg",
+  "published": "2026-11-12T18:58:07+00:00",
+  "headline": "Nor’Easter Brings Cold Temperatures and Snow From Midwest to South",
+  "body": [
+   {
+    "type": "p",
+    "text": "A nor’easter moving eastward this week is set to deliver a surge of cold air and scattered snowfall across a broad swath of the United States, affecting millions of residents from the Midwest through the Deep South."
+   },
+   {
+    "type": "p",
+    "text": "Meteorologists expect the system to produce noticeably lower temperatures than typical for this time of year, with the potential for light snow accumulations in areas that rarely see winter precipitation during November."
+   },
+   {
+    "type": "p",
+    "text": "The storm’s impact will be felt across multiple states, prompting local officials to monitor road conditions and issue advisories as needed, while residents are advised to prepare for colder weather and possible travel disruptions."
+   },
+   {
+    "type": "p",
+    "text": "Although the snowfall is expected to be modest, the combination of cold air and wet conditions could create hazardous driving situations, especially in regions unaccustomed to early-season winter weather."
+   }
+  ],
+  "key_points": [
+   "A nor’easter will bring colder temperatures and possible light snow to millions of people this week.",
+   "The storm spans from the Midwest down to the Deep South, an unusual reach for early-season winter weather.",
+   "Local authorities are monitoring conditions and advising residents to prepare for colder weather and potential travel impacts."
+  ],
+  "meta_description": "A nor'easter this week will bring colder temperatures and light snow to millions from the Midwest to the Deep South, prompting travel advisories.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "nor'easter",
+   "cold weather",
+   "snow",
+   "Midwest",
+   "Southern US",
+   "weather advisory"
+  ],
+  "slug": "noreaster-brings-cold-temperatures-snow-from-midwest-south-3d11d6",
+  "reading_minutes": 1,
+  "added": "2026-11-12T19:11:51Z",
+  "trends": []
+ },
+ {
+  "id": "4b1c06473ddaa785",
+  "source_url": "https://www.nytimes.com/2026/11/12/us/politics/house-veterans-benefits-bill-funding.html",
+  "source": "The New York Times",
+  "source_title": "House Passes Competing Veterans Bills in a Fight Over Funding",
+  "source_summary": "Legislation addressing the retirement pay of veterans with combat-related disabilities is making its way through Congress, but could collapse amid a funding clash.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Veterans",
+   "Law and Legislation",
+   "United States Defense and Military Forces",
+   "Democratic Party",
+   "House of Representatives",
+   "Republican Party",
+   "Veterans Affairs Department",
+   "Veterans of Foreign Wars",
+   "Blumenthal, Richard"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-cong-veterans-gvlc/12dc-cong-veterans-gvlc-mediumSquareAt3X.jpg",
+  "published": "2026-11-12T18:54:07+00:00",
+  "headline": "House Passes Rival Bills on Veterans Disability Retirement Pay",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Thursday, the U.S. House of Representatives approved two competing pieces of legislation that would change the retirement pay for veterans who have combat‑related disabilities. The bills move forward amid a broader debate over how to fund the measures, with lawmakers split on the best approach to support the veteran community."
+   },
+   {
+    "type": "p",
+    "text": "Both proposals aim to adjust the calculation of retirement benefits for disabled veterans, but they differ in the specifics of funding mechanisms and eligibility criteria. The competing nature of the bills reflects a growing partisan divide over federal spending priorities and the allocation of resources for veteran services."
+   },
+   {
+    "type": "p",
+    "text": "Analysts warn that the legislation could stall or collapse if Congress cannot reconcile the funding clash that underpins the two bills. The outcome will hinge on upcoming negotiations in the Senate and the broader budget process, where lawmakers will need to balance veteran benefits against other fiscal demands."
+   },
+   {
+    "type": "p",
+    "text": "Veterans advocacy groups have expressed concern that delays could leave thousands of service members without the promised retirement enhancements. The House’s action marks a critical step, but the ultimate fate of the proposals remains uncertain as budgetary negotiations continue."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Veterans' retirement benefits affect millions of former service members and represent a significant portion of federal spending, making the funding dispute relevant to both U.S. and European audiences concerned with defense and social policy."
+   }
+  ],
+  "key_points": [
+   "The House passed two rival bills to reform retirement pay for veterans with combat‑related disabilities.",
+   "The bills differ on funding methods, creating a clash that could jeopardize their passage.",
+   "Future Senate action and budget negotiations will determine whether the proposals survive."
+  ],
+  "meta_description": "The House approved two competing bills on veterans' disability retirement pay, but funding disagreements could derail the measures.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "veterans",
+   "legislation",
+   "House",
+   "disability",
+   "retirement pay",
+   "funding"
+  ],
+  "slug": "house-passes-rival-bills-veterans-disability-retirement-pay-4b1c06",
+  "reading_minutes": 1,
+  "added": "2026-11-12T19:11:15Z",
+  "trends": []
+ },
+ {
+  "id": "482115bd33f35a5a",
+  "source_url": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+  "source": "The New York Times",
+  "source_title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+  "source_summary": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
+  "source_tags": [
+   "Banking and Financial Institutions",
+   "Regulation and Deregulation of Industry",
+   "Interest Rates",
+   "Midterm Elections (2026)",
+   "United States Economy",
+   "Federal Reserve System",
+   "Warsh, Kevin M"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-fed-meetings-pmbj/12dc-fed-meetings-pmbj-mediumSquareAt3X.jpg",
+  "published": "2026-11-12T18:51:05+00:00",
+  "headline": "Fed Skips Policy Vote at October 2027 Meeting, Shifts to Strategy Session",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Federal Reserve announced on November 12, 2026 that it will not conduct a policy vote at its October 2027 meeting. Instead, the board will hold a strategy meeting, marking a procedural change for the central bank’s annual gathering."
+   },
+   {
+    "type": "p",
+    "text": "Chairman Kevin M. Warsh explained that the shift to a strategy‑focused session is the first step in a broader plan to alter how the Federal Reserve operates. The new approach is intended to reshape the institution’s internal decision‑making processes, though specific details of the plan were not disclosed."
+   },
+   {
+    "type": "p",
+    "text": "The announcement signals a departure from the traditional policy‑vote format that has guided the Fed’s monetary‑policy decisions for decades. Observers note that the move could affect how future interest‑rate guidance is communicated, but the immediate impact on markets remains to be seen."
+   }
+  ],
+  "key_points": [
+   "The Federal Reserve will forgo a policy vote at its October 2027 meeting.",
+   "A strategy meeting will replace the vote, initiating a broader operational overhaul.",
+   "Chairman Kevin M. Warsh frames the change as the first step in reshaping the Fed’s processes."
+  ],
+  "meta_description": "The Fed will skip its October 2027 policy vote, holding a strategy meeting instead, as chairman Kevin Warsh begins a broader operational shift.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Federal Reserve",
+   "Kevin Warsh",
+   "policy vote",
+   "strategy meeting",
+   "monetary policy"
+  ],
+  "slug": "fed-skips-policy-vote-october-2027-meeting-shifts-strategy-482115",
+  "reading_minutes": 1,
+  "added": "2026-11-12T19:11:18Z",
+  "trends": []
+ },
+ {
+  "id": "8075950902ff920a",
+  "source_url": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
+  "source": "The New York Times",
+  "source_title": "Will the Supreme Court Thwart Congressional Investigations?",
+  "source_summary": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
+  "source_tags": [
+   "United States Politics and Government",
+   "Immunity from Prosecution",
+   "Suits and Litigation (Civil)",
+   "Presidential Power (US)",
+   "Law and Legislation",
+   "Courts and the Judiciary",
+   "Freedom of the Press",
+   "News and News Media",
+   "News Sources, Confidential Status of",
+   "Presidents and Presidency (US)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg",
+  "published": "2026-11-12T18:27:08+00:00",
+  "headline": "Supreme Court May Limit Congressional Investigations Over Legal Hurdles",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Supreme Court is poised to address whether it can block investigations launched by Congress, a question that could reshape the balance of power between the legislative and judicial branches."
+   },
+   {
+    "type": "p",
+    "text": "Lawmakers face potential obstacles related to claims of immunity, the legal standing required to bring cases, and the need to demonstrate a valid legislative purpose for their inquiries."
+   },
+   {
+    "type": "p",
+    "text": "Legal scholars and political analysts note that the Court's forthcoming rulings will force Congress to carefully navigate these doctrines if it wishes to pursue investigative authority."
+   },
+   {
+    "type": "p",
+    "text": "The outcome could set precedents that affect how future congressional probes are conducted, influencing both domestic oversight and international perceptions of U.S. governance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rulings could alter the ability of U.S. lawmakers to conduct oversight, impacting governance and accountability both at home and abroad."
+   }
+  ],
+  "key_points": [
+   "The Supreme Court is considering limits on congressional investigations.",
+   "Lawmakers must address immunity, standing, and legislative purpose issues.",
+   "Court decisions could reshape the scope of legislative oversight."
+  ],
+  "meta_description": "Supreme Court may curb congressional investigations, forcing lawmakers to tackle immunity, standing, and legislative purpose challenges.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Supreme Court",
+   "Congressional investigations",
+   "legal standing",
+   "legislative immunity",
+   "government oversight"
+  ],
+  "slug": "supreme-court-may-limit-congressional-investigations-over-legal-hurdles-807595",
+  "reading_minutes": 1,
+  "added": "2026-11-12T19:11:34Z",
+  "trends": []
+ },
+ {
+  "id": "bd256d1db8509b4b",
+  "source_url": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
+  "source": "The New York Times",
+  "source_title": "Mortgage Rates Remain High as Affordability Challenges Persist",
+  "source_summary": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
+  "source_tags": [
+   "Real Estate and Housing (Residential)",
+   "Mortgages",
+   "Inflation (Economics)",
+   "Federal Home Loan Mortgage Corp (Freddie Mac)",
+   "National Assn of Realtors"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-mortgage-rates-pkzb/12biz-mortgage-rates-pkzb-mediumSquareAt3X.jpg",
+  "published": "2026-11-12T18:15:39+00:00",
+  "headline": "Mortgage Rates Edge Down to 7.11% as Buyers Remain Cautious",
+  "body": [
+   {
+    "type": "p",
+    "text": "The average rate for a 30-year fixed‑rate mortgage slipped marginally to 7.11 percent, according to the latest data released on November 12, 2026. The modest decline follows a period of persistently high borrowing costs that have kept many prospective homebuyers and sellers on the sidelines."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts note that the slight easing in rates is unlikely to spark a rapid resurgence in the housing market. While the drop signals a modest improvement in affordability, the overall level remains well above historic norms, limiting the incentive for many to re‑enter the market."
+   },
+   {
+    "type": "p",
+    "text": "Lenders reported a cautious approach to new loan applications, with many consumers still waiting for rates to fall further before committing to purchases or listings. Real‑estate professionals echoed this sentiment, emphasizing that market activity will likely stay subdued until financing conditions become more favorable."
+   },
+   {
+    "type": "p",
+    "text": "The Federal Reserve’s recent monetary policy stance continues to influence mortgage pricing, and experts suggest that any significant shift in buyer behavior will depend on future movements in interest rates and broader economic confidence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Mortgage costs affect housing affordability and consumer spending in both the United States and Europe, influencing broader economic stability."
+   }
+  ],
+  "key_points": [
+   "The average 30‑year fixed mortgage rate fell to 7.11 percent on November 12, 2026.",
+   "High rates keep many buyers and sellers on the sidelines despite the slight decline.",
+   "Experts say further rate reductions are needed to revive broader market activity."
+  ],
+  "meta_description": "Mortgage rates dipped to 7.11% on Nov. 12, 2026, but high costs still deter buyers and sellers, keeping the housing market subdued.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "mortgage rates",
+   "housing market",
+   "interest rates",
+   "real estate",
+   "affordability"
+  ],
+  "slug": "mortgage-rates-edge-down-7-11-buyers-remain-cautious-bd256d",
+  "reading_minutes": 1,
+  "added": "2026-11-12T19:11:38Z",
+  "trends": []
+ },
+ {
+  "id": "4358e5ff1119ddaf",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do",
+  "source": "BBC Sport",
+  "source_title": "Palace sack Sage after 16 games with Frank in advanced talks",
+  "source_summary": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73af/live/be720480-de96-11f1-9afe-1f03bfe02283.jpg",
+  "published": "2026-11-12T17:15:20+00:00",
+  "headline": "Crystal Palace Sack Manager Pierre Sage After 16 Games, Club Bottom",
+  "body": [
+   {
+    "type": "p",
+    "text": "Crystal Palace announced on Saturday that Pierre Sage has been dismissed as manager after overseeing 16 matches. The decision comes as the Selhurst Park side sit at the foot of the Premier League table."
+   },
+   {
+    "type": "p",
+    "text": "Sage took charge of the club at the start of the 2026-27 season, but a run of poor results left Palace winless in the league and struggling to avoid relegation. The club’s statement confirmed the termination of his contract with immediate effect."
+   },
+   {
+    "type": "p",
+    "text": "The dismissal was confirmed by the club’s official channels on 12 November 2026, shortly after the latest league fixtures. No replacement has been named, and the team will be led by interim staff for the upcoming matches as they aim to climb out of last place."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The sacking highlights the pressure on Premier League clubs to avoid relegation, a concern for fans and broadcasters in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Crystal Palace have fired manager Pierre Sage after 16 games in charge.",
+   "The club is currently bottom of the Premier League table.",
+   "The termination was announced on 12 November 2026 with no immediate successor named."
+  ],
+  "meta_description": "Crystal Palace dismiss Pierre Sage after 16 games as the club sits bottom of the Premier League, announced on 12 November 2026.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Crystal Palace",
+   "Premier League",
+   "manager dismissal",
+   "Pierre Sage",
+   "football"
+  ],
+  "slug": "crystal-palace-sack-manager-pierre-sage-after-16-games-4358e5",
+  "reading_minutes": 1,
+  "added": "2026-11-12T19:11:23Z",
+  "trends": []
+ },
+ {
+  "id": "a2da5a1ac4884c53",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o",
+  "source": "BBC Sport",
+  "source_title": "Owono undecided over future following De Miguel death",
+  "source_summary": "FC Andorra manager Carles Manso says goalkeeper Jesus Owono is yet to decide whether he will return to playing action following the death of Tenerife forward Jesus de Miguel.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3166/live/efcf2c80-dea8-11f1-98eb-79ee6ea9ba56.jpg",
+  "published": "2026-11-12T16:41:49+00:00",
+  "headline": "Goalkeeper Jesus Owono Undecided on Return After Teammate's Death",
+  "body": [
+   {
+    "type": "p",
+    "text": "FC Andorra manager Carles Manso confirmed on November 12, 2026, that goalkeeper Jesus Owono has not yet made a decision about resuming his playing duties. The uncertainty follows the recent death of Tenerife forward Jesus de Miguel, a tragic event that has affected the football community."
+   },
+   {
+    "type": "p",
+    "text": "Manso spoke about Owono's situation during a press briefing, emphasizing that the goalkeeper is taking time to consider his options. No timeline was provided for a potential comeback, and the club respects Owono's need for personal reflection after the loss."
+   },
+   {
+    "type": "p",
+    "text": "The death of de Miguel, a forward for Tenerife, has cast a somber mood over the Spanish football scene. While details of the incident were not disclosed, the impact on players close to the sport, such as Owono, highlights the emotional toll such events can have."
+   },
+   {
+    "type": "p",
+    "text": "FC Andorra remains supportive of Owño's decision-making process, indicating that the club will accommodate his choice whenever it is made. The manager reiterated that the team's focus is on providing the necessary support to the player during this difficult period."
+   }
+  ],
+  "key_points": [
+   "FC Andorra's goalkeeper Jesus Owono has not decided whether to return to play.",
+   "The decision comes after the death of Tenerife forward Jesus de Miguel.",
+   "Manager Carles Manso says the club will respect Owono's timeline and support him."
+  ],
+  "meta_description": "FC Andorra goalkeeper Jesus Owono remains undecided on returning to action after Tenerife forward Jesus de Miguel's death, says manager Carles Manso.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Jesus Owono",
+   "Jesus de Miguel",
+   "FC Andorra",
+   "CD Tenerife",
+   "player death"
+  ],
+  "slug": "goalkeeper-jesus-owono-undecided-return-after-teammate-s-death-a2da5a",
+  "reading_minutes": 1,
+  "added": "2026-11-12T19:11:42Z",
+  "trends": []
+ },
+ {
   "id": "8865be63c867a875",
   "source_url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
   "source": "CNBC",
