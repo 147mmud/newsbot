@@ -13,7 +13,7 @@ from xml.sax.saxutils import escape
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import config
-from bot import fetcher
+from bot import cluster, fetcher
 from bot import scores
 from bot import scores_hub
 
@@ -115,6 +115,20 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
         shutil.rmtree(OUT)
     OUT.mkdir()
     shutil.copytree(ROOT / "static", OUT / "static")
+    # One story = one page: near-identical reports collapse into the earliest page,
+    # the rest become redirect stubs (kept out of lists, search, sitemaps and feeds).
+    all_articles = articles
+    articles, dup_of = cluster.split(all_articles)
+    log.info("Stories: %d pages, %d duplicates redirected", len(articles), len(dup_of))
+    for a in all_articles:
+        t = dup_of.get(a["id"])
+        if t:
+            target = abs_url(f"news/{t['slug']}/")
+            _write(OUT / "news" / a["slug"] / "index.html",
+                   '<!doctype html><html lang="en"><head><meta charset="utf-8">'
+                   f'<title>{escape(t["headline"])}</title><link rel="canonical" href="{escape(target)}">'
+                   f'<meta http-equiv="refresh" content="0;url={escape(target)}"></head>'
+                   f'<body><p>This story has moved: <a href="{escape(target)}">{escape(t["headline"])}</a></p></body></html>')
     for key_file in (ROOT / "static").glob("*.txt"):      # IndexNow key must live at the site root
         shutil.copy(key_file, OUT / key_file.name)
 

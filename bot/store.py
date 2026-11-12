@@ -32,13 +32,23 @@ def _norm(title: str) -> str:
     return re.sub(r"[^a-z0-9 ]", "", title.lower())
 
 
+from datetime import datetime, timedelta, timezone
+
+from bot import cluster
+
+
 class Deduper:
     """Rejects items already published, or the same story from another outlet."""
 
     def __init__(self, articles: list[dict]):
         self.ids = {a["id"] for a in articles}
         self.urls = {a["source_url"] for a in articles}
+        for a in articles:                                  # outlets already folded into an article
+            self.urls.update(x["url"] for x in a.get("sources", []))
         self.titles = [_norm(a["source_title"]) for a in articles[:600]]
+        self.matcher = cluster.Matcher(articles[:2500])
+        self.pool = [a for a in articles[:900]]             # newest first
+        self.prepped = {}
 
     def is_duplicate(self, item: dict) -> bool:
         if item["id"] in self.ids or item["source_url"] in self.urls:
@@ -49,6 +59,21 @@ class Deduper:
                SequenceMatcher(None, t, other).ratio() >= config.DUPLICATE_TITLE_SIMILARITY:
                 return True
         return False
+
+    def _recent_pool(self, when: datetime):
+        lim = timedelta(hours=cluster.FAR_H)
+        return [a for a in self.pool if abs(cluster.when(a) - when) <= lim]
+
+    def same_story(self, probe: dict):
+        """Existing article (or one added this run) already covering this story, else None.
+        `probe` needs headline/source_title/published (+ optional category)."""
+        pool = self._recent_pool(cluster.when(probe))
+        for b in pool:
+            self.prepped.setdefault(b["id"], self.matcher.prep(b))
+        return self.matcher.find(probe, pool, self.prepped)
+
+    def register(self, art: dict) -> None:
+        self.pool.insert(0, art)
 
     def add(self, item: dict) -> None:
         self.ids.add(item["id"])
