@@ -367,22 +367,57 @@ def tags(*events) -> str:                       # kept for older callers
     return hashtags("final", *events)
 
 
-def cap_final(e, v) -> str:
+US_SPORTS = ("nfl", "nba", "mlb", "nhl", "ncaa", "wnba", "mls")
+Q_POOL = {
+    "us": ["Who was your MVP?", "Who was the player of the game?", "Rate this game out of 10.", "Best play of the night?"],
+    "football": ["Who was your man of the match?", "Rate this game out of 10.", "Who was your star man?", "Was that the right result?"],
+    "other": ["Who was your player of the match?", "Rate this game out of 10.", "Who was your star man?"],
+}
+
+
+def _lbl(e) -> str:
+    l = e["label"]
+    return l if l.isupper() and len(l) <= 5 else l.title()
+
+
+def question(e, v=None) -> str:
+    """Short engagement question for a finished game (stable per game, varied across games)."""
+    lab = (v or {}).get("label")
+    if lab == "UPSET ALERT":
+        return "Did you see this coming?"
+    if lab == "HONOURS EVEN":
+        return "Fair result?"
+    key = "us" if any(x in e["league"].lower() or x in e["label"].lower() for x in US_SPORTS) else \
+          "football" if e["sport"] == "football" else "other"
+    pool = Q_POOL[key]
+    try:
+        n = int(e["id"])
+    except ValueError:
+        n = sum(map(ord, e["id"]))
+    return pool[n % len(pool)]
+
+
+def result_headline(e, v) -> str:
+    """e.g. 'Bears edge Buccaneers 27-24 😱'"""
     a, b = e["teams"]
-    score = f"{a['name']} {a['score']}–{b['score']} {b['name']}"
-    head = {
-        "NAIL-BITER": "😱 WHAT. A. FINISH.",
-        "UPSET ALERT": "🚨 UPSET ALERT!",
-        "STATEMENT WIN": "🔥 STATEMENT WIN.",
-        "SHOOTOUT": "💥 WHAT A SHOOTOUT!",
-        "GOAL FEST": "💥 GOAL FEST!",
-        "HONOURS EVEN": "🤝 HONOURS EVEN.",
-    }.get(v.get("label"), f"{e['emoji']} FULL TIME | {e['label'].title()}")
-    q = {"UPSET ALERT": "Did you see this coming? 👇",
-         "NAIL-BITER": "Who was your player of the match? 👇",
-         "HONOURS EVEN": "Fair result? Tell us below 👇"}.get(v.get("label"), "Rate this game out of 10 👇")
+    try:
+        sa, sb = int(float(a["score"])), int(float(b["score"]))
+    except ValueError:
+        return f"{a['name']} {a['score']}-{b['score']} {b['name']}"
+    emo = v.get("emoji") or e["emoji"]
+    if sa == sb:
+        return f"{a['name']} and {b['name']} share the spoils {sa}-{sb} 🤝"
+    (w, ws), (l, ls) = ((a, sa), (b, sb)) if sa > sb else ((b, sb), (a, sa))
+    lab = v.get("label")
+    verb = {"NAIL-BITER": "edge", "UPSET ALERT": "stun", "STATEMENT WIN": "crush", "SHOOTOUT": "beat", "GOAL FEST": "beat"}.get(lab, "beat")
+    return f"{w['name']} {verb} {l['name']} {ws}-{ls} {emo}"
+
+
+def cap_final(e, v) -> str:
+    score = f"{e['teams'][0]['name']} {e['teams'][0]['score']}–{e['teams'][1]['score']} {e['teams'][1]['name']}"
     line = f" {v['line']}." if v.get("line") else ""
-    return (f"{head}\n{e['emoji']} {e['label'].title()}: {score}.{line}\n💬 {q}\n"
+    return (f"{result_headline(e, v)} {question(e, v)} Comment below 👇\n\n"
+            f"{e['emoji']} {_lbl(e)} | Full time: {score}.{line}\n"
             f"📊 Every score, live: {SITE.replace('https://', '')}\n{hashtags('final', e)}")
 
 
@@ -390,9 +425,20 @@ def cap_prematch(e) -> str:
     a, b = e["teams"]
     uk, et = times(e)
     venue = f" at {e['venue']}" if e["venue"] else ""
-    return (f"⏰ MATCH DAY | {e['label'].title()}\n{e['emoji']} {a['name']} vs {b['name']}{venue}\n"
-            f"🕒 Kick-off {uk} / {et}\n🔮 Drop your score prediction below 👇\n"
-            f"📊 Follow it live: {SITE.replace('https://', '')}\n{hashtags('pre', e)}")
+    return (f"{a['name']} vs {b['name']} — predict the score! 🔮 Comment your prediction below 👇\n\n"
+            f"{e['emoji']} {_lbl(e)}{venue}\n🕒 Kick-off {uk} / {et}\n"
+            f"🔴 Live score link in the first comment\n{hashtags('pre', e)}")
+
+
+def link_comment(post_id: str, kind: str = "") -> None:
+    """Put the live-scores link in the first comment (keeps the post itself clean). Never raises."""
+    if not post_id:
+        return
+    msg = {"pre": "🔴 Follow it LIVE here: ", "today": "🔴 Live scores all day: "}.get(kind, "📊 Every score, live: ") + SITE
+    try:
+        fb.graph("POST", f"{post_id}/comments", message=msg)
+    except Exception as exc:
+        log.warning("first comment failed for %s: %s", post_id, exc)
 
 
 # --------------------------------------------------------------------------- planning
@@ -526,6 +572,7 @@ def run() -> int:
             res = post_photo(img, cap)
             ledger[p["key"]].update(status="posted", ts=fb.iso(fb.now()), post_id=res.get("post_id") or res.get("id"))
             log.info("POSTED %s -> %s", p["title"], ledger[p["key"]]["post_id"])
+            link_comment(ledger[p["key"]]["post_id"], p["kind"])
         except Exception as exc:
             log.error("Post failed for %s: %s", p["key"], exc)
             fb.push_ledger(ledger, f"fb: score post attempt {p['key']}")

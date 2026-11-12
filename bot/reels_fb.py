@@ -58,16 +58,11 @@ def result_candidate(events, ledger, t):
         return None
     _, e, v, key = best
     a, b = e["teams"]
-    q = {"UPSET ALERT": "Did you see this coming? Tell us in the comments.",
-         "NAIL-BITER": "Who was your player of the match? Tell us in the comments."}.get(
-        v.get("label"), "Rate this game out of ten in the comments.")
+    q = S.question(e, v) + " Tell us in the comments."
     reel = R.result_reel(f"result_{e['id']}", e["label"], {"name": a["name"], "score": a["score"], "color": a["color"]},
                          {"name": b["name"], "score": b["score"], "color": b["color"]}, v.get("label"), v.get("line", ""), q)
-    head = {"NAIL-BITER": "😱 WHAT. A. FINISH.", "UPSET ALERT": "🚨 UPSET ALERT!", "STATEMENT WIN": "🔥 STATEMENT WIN.",
-            "SHOOTOUT": "💥 WHAT A SHOOTOUT!", "GOAL FEST": "💥 GOAL FEST!", "HONOURS EVEN": "🤝 HONOURS EVEN."}.get(
-        v.get("label"), f"{e['emoji']} FULL TIME")
-    cap = (f"{head} {a['name']} {a['score']}–{b['score']} {b['name']} | {e['label'].title()}\n"
-           f"💬 {q.replace(' Tell us in the comments.', ' 👇').replace(' in the comments.', ' 👇')}\n"
+    cap = (f"{S.result_headline(e, v)} {S.question(e, v)} Comment below 👇\n\n"
+           f"{S._lbl(e)} | Full time: {a['name']} {a['score']}–{b['score']} {b['name']}\n"
            f"📊 Every score, live: {SITE}\n{S.hashtags('final', e, extra=['#Reels'])}")
     return {"key": key, "kind": "result", "reel": reel, "caption": cap, "title": f"Reel FT {a['name']} v {b['name']}"}
 
@@ -86,7 +81,7 @@ def matchday_candidate(events, ledger, t):
     reel = R.matchday_reel(f"matchday_{t.strftime('%Y%m%d')}", day, games)
     cap = (f"📅 BIG GAMES TODAY | {day}\n"
            + "\n".join(f"{e['emoji']} {g[1]} vs {g[2]} – {g[3]} / {g[4]}" for e, g in zip(top, games))
-           + f"\n🔮 Predict ONE score in the comments 👇\n📊 Live scores: {SITE}\n{S.hashtags('today', *top, extra=['#Reels'])}")
+           + f"\n🔮 Predict the score of your game — comment below 👇\n🔴 Live score link in the first comment\n{S.hashtags('today', *top, extra=['#Reels'])}")
     return {"key": key, "kind": "matchday", "reel": reel, "caption": cap, "title": f"Reel match day {day}"}
 
 
@@ -326,6 +321,8 @@ def run() -> int:
         vid = publish_reel(path, cand["caption"])
         ledger[cand["key"]].update(status="posted", ts=fb.iso(fb.now()), post_id=vid)
         log.info("POSTED reel %s -> %s", cand["title"], vid)
+        if cand["kind"] in ("result", "matchday"):
+            S.link_comment(vid, "today" if cand["kind"] == "matchday" else "")
     except Exception as exc:
         log.error("Reel failed: %s", exc)
         fb.push_ledger(ledger, f"fb: reel attempt {cand['key']}")
