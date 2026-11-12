@@ -28,8 +28,8 @@ from bot import scores_fb as S
 log = logging.getLogger("reels_fb")
 
 ENABLED = os.getenv("FB_REELS_ENABLED", "").strip().lower() == "true"
-MAX_PER_DAY = int(os.getenv("FB_REELS_MAX_PER_DAY", "8"))
-MIN_GAP_MIN = int(os.getenv("FB_REELS_MIN_GAP_MIN", "75"))    # minutes between two reels
+MAX_PER_DAY = int(os.getenv("FB_REELS_MAX_PER_DAY", "16"))
+MIN_GAP_MIN = int(os.getenv("FB_REELS_MIN_GAP_MIN", "40"))    # minutes between two reels
 FORCE = os.getenv("FB_REELS_FORCE", "").strip().lower()      # result|matchday|news|break|top5|poll|desk: ignore time windows (manual runs)
 CAT = {"politics": "Politics", "world": "World News", "business": "Business", "tech": "Tech", "sports": "Sports"}
 SITE = S.SITE.replace("https://", "")
