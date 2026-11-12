@@ -33,7 +33,8 @@ PUBLISH_TARGET = env("PUBLISH_TARGET", "static")
 # --------------------------------------------------------------------------
 # PIPELINE LIMITS (keep these modest: free LLM tiers are rate-limited)
 # --------------------------------------------------------------------------
-MAX_NEW_PER_RUN = env("MAX_NEW_PER_RUN", 12, int)     # new articles per 30-min run
+MAX_NEW_PER_RUN = env("MAX_NEW_PER_RUN", 3, int)       # new articles per run (3 runs/hour)
+MAX_NEW_PER_DAY = env("MAX_NEW_PER_DAY", 30, int)      # hard daily cap: fewer, better pages index faster
 MAX_PER_FEED = env("MAX_PER_FEED", 6, int)            # newest N items read per feed
 MAX_ARTICLE_AGE_HOURS = env("MAX_ARTICLE_AGE_HOURS", 24, int)
 MAX_STORED_ARTICLES = env("MAX_STORED_ARTICLES", 3000, int)

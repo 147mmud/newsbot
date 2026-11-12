@@ -19,6 +19,19 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)-7s %(na
 log = logging.getLogger("main")
 
 
+def absorb(existing: dict, item: dict, now_iso: str) -> int:
+    """Fold another outlet's report of the same story into the existing page."""
+    srcs = existing.setdefault("sources", [])
+    if item["source_url"] == existing.get("source_url") or any(x["url"] == item["source_url"] for x in srcs):
+        return 0
+    if len(srcs) < 8:
+        srcs.append({"source": item["source"], "url": item["source_url"], "title": item["source_title"]})
+        existing["updated"] = now_iso
+        log.info("MERGED into '%s' <- %s: %s", existing["headline"][:50], item["source"], item["source_title"][:60])
+        return 1
+    return 0
+
+
 def run(args) -> int:
     articles = store.load()
     log.info("Loaded %d stored articles", len(articles))
@@ -41,13 +54,28 @@ def run(args) -> int:
                 if buckets[key]:
                     raw.append(buckets[key].pop(0))
         dedupe = store.Deduper(articles)
+        now_iso = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+        today = now_iso[:10]
+        done_today = sum(1 for a in articles if str(a.get("added", "")).startswith(today))
+        merged = 0
         for item in raw:
-            if len(new) >= config.MAX_NEW_PER_RUN:
+            if len(new) >= config.MAX_NEW_PER_RUN or done_today + len(new) >= config.MAX_NEW_PER_DAY:
                 break
             if dedupe.is_duplicate(item):
                 continue
             dedupe.add(item)
+            probe = {"id": item["id"], "headline": item["source_title"], "source_title": item["source_title"],
+                     "published": item["published"]}
+            same = dedupe.same_story(probe)
+            if same:                                   # same event already has a page: update it, don't add one
+                merged += absorb(same, item, now_iso)
+                continue
             art = processor.process(item)
+            same = dedupe.same_story(art)              # rewritten headline may match too
+            if same:
+                merged += absorb(same, item, now_iso)
+                continue
+            dedupe.register(art)
             if (not art.get("image") or fetcher.is_bad_image(art.get("image"))) and config.USE_FEED_IMAGES:
                 art["image"] = fetcher.page_image(art["source_url"])
                 art["img_checked"] = 2
