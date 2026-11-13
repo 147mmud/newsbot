@@ -1,5 +1,201 @@
 [
  {
+  "id": "358ebad0123e5bba",
+  "source_url": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Iran targeted US radar system in Bahrain",
+  "source_summary": "Iran claimed it struck US radar systems in Bahrain, while the US said it had intercepted the attacks. Clashes continue in the Strait of Hormuz, as the war remains in a state of de-escalation.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79686475_6.jpg",
+  "published": "2026-11-13T15:32:00+00:00",
+  "headline": "Iran Says It Hit U.S. Radar in Bahrain as Straits Tensions Persist",
+  "body": [
+   {
+    "type": "p",
+    "text": "Iran announced on Tuesday that it had successfully struck United States radar installations located in Bahrain, asserting the attack was part of its ongoing operations against what it described as hostile forces in the region."
+   },
+   {
+    "type": "p",
+    "text": "The United States government responded that its defensive systems had intercepted the Iranian attacks before they could cause damage, confirming that no U.S. assets were compromised during the incident."
+   },
+   {
+    "type": "p",
+    "text": "The exchange comes amid continued clashes in the strategic Strait of Hormuz, where both sides have engaged in a series of confrontations despite diplomatic efforts aimed at reducing hostilities."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the situation remains in a state of de‑escalation, with both Tehran and Washington signaling a willingness to avoid a broader conflict while still projecting military readiness."
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores the fragile security environment surrounding the Persian Gulf, a key conduit for global oil shipments, and highlights the ongoing risk of miscalculation between the two powers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident involves critical U.S. military infrastructure in a region vital to global energy supplies, raising concerns for Western economies and security policies."
+   }
+  ],
+  "key_points": [
+   "Iran claims it struck U.S. radar systems in Bahrain.",
+   "The United States says its defenses intercepted the attacks.",
+   "Clashes continue in the Strait of Hormuz as de‑escalation efforts persist."
+  ],
+  "meta_description": "Iran says it hit U.S. radar in Bahrain; the U.S. reports interceptions as tensions persist in the Strait of Hormuz.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "United States",
+   "Bahrain",
+   "Strait of Hormuz",
+   "military tensions"
+  ],
+  "slug": "iran-says-it-hit-u-s-radar-bahrain-straits-358eba",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-13T15:36:33Z",
+  "trends": [
+   "bahrain news"
+  ]
+ },
+ {
+  "id": "66e81a998246cd46",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o",
+  "source": "BBC Sport",
+  "source_title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+  "source_summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb8/live/8a5ea400-df72-11f1-b844-3146c4983677.png",
+  "published": "2026-11-13T15:28:06+00:00",
+  "headline": "Mauricio Pochettino Breaks Down Over Difficult Move From USA to Manchester United",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mauricio Pochettino appeared visibly emotional as he explained his decision to leave his role in the United States and accept the managerial position at Manchester United. The former Argentina international described the choice as \"difficult\" and was seen breaking down during the interview."
+   },
+   {
+    "type": "p",
+    "text": "Pochettino said the pull of Manchester United, one of the world’s most storied clubs, outweighed his attachment to his current duties in the United States. He emphasized that the opportunity to lead the English giants was a career milestone he could not refuse."
+   },
+   {
+    "type": "p",
+    "text": "The coach’s candid remarks came as he prepared to depart the United States later this week, marking the end of his tenure there. While no specific details about his previous role or contract were provided, the focus remained on his personal reaction to the transition."
+   },
+   {
+    "type": "p",
+    "text": "Manchester United supporters and football analysts have already begun to speculate on how Pochettino’s tactical approach might reshape the club’s fortunes. The manager’s emotional departure underscores the high stakes and pressure associated with taking charge of a club of United’s stature."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Pochettino’s appointment at Manchester United represents a high‑profile managerial shift that could influence the Premier League and transatlantic football dynamics."
+   }
+  ],
+  "key_points": [
+   "Mauricio Pochettino was tearful while discussing his move from the United States to Manchester United.",
+   "He described the decision as difficult but highlighted the allure of managing a historic English club.",
+   "His departure signals a major coaching change for both his former US team and Manchester United."
+  ],
+  "meta_description": "Mauricio Pochettino breaks down over his difficult decision to leave the USA for the Manchester United job, highlighting the emotional weight of the move.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mauricio Pochettino",
+   "Manchester United",
+   "football",
+   "coaching change",
+   "USA"
+  ],
+  "slug": "mauricio-pochettino-breaks-down-over-difficult-move-from-usa-66e81a",
+  "reading_minutes": 1,
+  "added": "2026-11-13T15:36:36Z",
+  "trends": [
+   "mauricio pochettino"
+  ]
+ },
+ {
+  "id": "68724b831eaea76e",
+  "source_url": "https://www.nytimes.com/2026/11/13/us/politics/stephen-miller-memo-wiles.html",
+  "source": "The New York Times",
+  "source_title": "After Influence Peddling Claims, White House Restricts Lobbyist Meetings",
+  "source_summary": "The office of Stephen Miller, President Trump’s new chief of staff, outlined a new policy that seeks to show independence from special interests.",
+  "source_tags": [
+   "Ballard, Brian D",
+   "Means, Calley",
+   "Miller, Stephen (1985- )",
+   "Ballard Partners",
+   "Trump, Donald J",
+   "Wiles, Susie"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-lobbyists-jhbk/12dc-trump-lobbyists-jhbk-mediumSquareAt3X.jpg",
+  "published": "2026-11-13T15:20:00+00:00",
+  "headline": "White House Limits Lobbyist Access After Influence‑Peddling Allegations",
+  "body": [
+   {
+    "type": "p",
+    "text": "The White House announced a new policy on Monday that curtails meetings between senior administration officials and lobbyists, responding to recent claims of influence peddling within the executive branch."
+   },
+   {
+    "type": "p",
+    "text": "The directive was issued by the office of Stephen Miller, who has been appointed chief of staff to President Donald Trump. The memo outlines specific categories of lobbyists who will no longer be permitted to meet with senior staff without prior clearance, aiming to demonstrate the administration’s independence from special‑interest groups."
+   },
+   {
+    "type": "p",
+    "text": "According to the statement, the policy will take effect immediately and applies to all senior officials in the White House, including the president’s closest advisers. The administration says the move is intended to restore public confidence after reports suggested that lobbyists had gained undue access to decision‑makers."
+   },
+   {
+    "type": "p",
+    "text": "Critics, however, argue that the new rules may be difficult to enforce and could merely serve as a public‑relations gesture. Some members of Congress have called for additional oversight to ensure the policy is applied consistently across the administration."
+   },
+   {
+    "type": "p",
+    "text": "The White House has not disclosed the exact number of lobbyists affected or provided details on the enforcement mechanism, leaving observers to watch for how the policy will be implemented in practice."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Limiting lobbyist access could reshape how U.S. policy is influenced, a concern for both American and European stakeholders monitoring government transparency."
+   }
+  ],
+  "key_points": [
+   "The White House introduced a policy restricting lobbyist meetings with senior staff.",
+   "Stephen Miller’s office issued the memo, citing a need to show independence from special interests.",
+   "The rule takes effect immediately, but details on enforcement remain unclear."
+  ],
+  "meta_description": "White House limits lobbyist meetings after influence‑peddling claims, aiming to show independence from special interests.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "White House",
+   "lobbying",
+   "Stephen Miller",
+   "Trump administration",
+   "policy reform"
+  ],
+  "slug": "white-house-limits-lobbyist-access-after-influencepeddling-allegations-68724b",
+  "reading_minutes": 1,
+  "added": "2026-11-13T15:36:40Z",
+  "trends": []
+ },
+ {
   "id": "342792b019550acb",
   "source_url": "https://www.dw.com/en/india-news-sonam-wangchuk-alleges-house-arrest-in-ladakh/live-79936475?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
@@ -399,9 +595,14 @@
     "source": "The New York Times",
     "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
     "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job"
+   },
+   {
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html",
+    "title": "Jensen Huang’s Fall Costs Asia an A.I. Ambassador to the U.S."
    }
   ],
-  "updated": "2026-11-13T00:38:46Z"
+  "updated": "2026-11-13T15:36:31Z"
  },
  {
   "id": "b96b7d9fc07a01bf",
@@ -464,9 +665,14 @@
     "source": "The New York Times",
     "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
     "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage"
+   },
+   {
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+    "title": "Microsoft’s massive Outlook outage continues"
    }
   ],
-  "updated": "2026-11-13T07:24:01Z"
+  "updated": "2026-11-13T15:36:31Z"
  },
  {
   "id": "b286561d0c40cc9e",
