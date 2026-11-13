@@ -1,5 +1,200 @@
 [
  {
+  "id": "1ff2d9e323bc2f07",
+  "source_url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+  "source": "The Verge",
+  "source_title": "FAA ground stop shuts down flights nationwide",
+  "source_summary": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety.\" US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers. FAA […]",
+  "source_tags": [
+   "Mass Transit",
+   "News",
+   "Transportation"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-13T21:38:25+00:00",
+  "headline": "FAA Issues Nationwide Ground Stop, Halting U.S. Flights Friday",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Friday, the Federal Aviation Administration (FAA) ordered a nationwide ground stop that paused all takeoffs at airports across the United States. The directive, issued as an “extraordinary circumstance” for safety reasons, affected every Air Route Traffic Control Center in the country."
+   },
+   {
+    "type": "p",
+    "text": "The FAA said the ground stop was triggered by a communication issue that impacted the ability of the centers to coordinate aircraft movements. The problem was described as affecting all centers simultaneously, prompting the agency to suspend departures until the issue could be resolved."
+   },
+   {
+    "type": "p",
+    "text": "U.S. Transportation Secretary Sean Duffy confirmed the action on Twitter, noting that the FAA’s decision was made to protect passengers and crews while the technical fault was addressed. No specific duration for the stoppage was provided, but the agency indicated that normal operations would resume once communications were restored."
+   },
+   {
+    "type": "p",
+    "text": "The abrupt halt disrupted thousands of passengers and airlines, leading to delays and cancellations nationwide. Airlines began rebooking affected travelers and issuing refunds where possible, while airport officials worked to manage the cascading effects on ground operations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The grounding underscores the vulnerability of the U.S. air traffic system to technical glitches, affecting millions of travelers and highlighting the importance of robust communication infrastructure."
+   }
+  ],
+  "key_points": [
+   "The FAA imposed a nationwide ground stop on Friday due to a communication failure affecting all Air Route Traffic Control Centers.",
+   "U.S. Transportation Secretary Sean Duffy announced the safety‑driven pause via Twitter.",
+   "The stoppage halted takeoffs at every U.S. airport, causing widespread delays and cancellations."
+  ],
+  "meta_description": "The FAA halted all U.S. takeoffs Friday after a communication issue hit every air traffic control center, prompting a nationwide ground stop.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FAA",
+   "ground stop",
+   "U.S. flights",
+   "air traffic control",
+   "transportation",
+   "flight delays"
+  ],
+  "slug": "faa-issues-nationwide-ground-stop-halting-u-s-flights-1ff2d9",
+  "reading_minutes": 1,
+  "added": "2026-11-13T21:40:58Z",
+  "trends": [
+   "faa",
+   "cnn news",
+   "flights being grounded"
+  ]
+ },
+ {
+  "id": "fa66eb00f7214b61",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+  "source": "The Guardian",
+  "source_title": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",
+  "source_summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating the issue Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered.",
+  "source_tags": [
+   "US news",
+   "US politics",
+   "Democrats",
+   "Republicans",
+   "Donald Trump",
+   "Chuck Schumer"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=700&quality=85&auto=format&fit=max&s=11f48d3a170fee791c19f53d3db29cc4",
+  "published": "2026-11-13T21:34:31+00:00",
+  "headline": "US Flights Halted Nationwide Over Air Traffic Control Communication Issue",
+  "body": [
+   {
+    "type": "p",
+    "text": "All commercial flights in the United States were grounded on Sunday evening after the transport secretary announced a nationwide air traffic control communication problem. The disruption affected every airport across the country, bringing passenger travel to a standstill."
+   },
+   {
+    "type": "p",
+    "text": "Transport Secretary Sean Duffy said Federal Aviation Administration technicians are actively investigating the cause of the communication issue. He emphasized that safety remains the top priority and that crews are working to restore normal operations as quickly as possible."
+   },
+   {
+    "type": "p",
+    "text": "The grounding comes amid other technology-related setbacks, including a prolonged Microsoft outage that the company describes as the longest in its history. The outage continues to impact millions of users and a wide range of industries."
+   },
+   {
+    "type": "p",
+    "text": "In unrelated political news, calls for Howard Lutnick to testify before Capitol Hill lawmakers have been answered, though details of the appearance were not provided in the briefing."
+   },
+   {
+    "type": "p",
+    "text": "Airlines are advising passengers to monitor airline communications for updates and to expect significant delays once flights resume. The FAA has not given a timeline for when normal service will restart."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The nationwide flight shutdown disrupts travel for millions and highlights the vulnerability of critical infrastructure, a concern for both US and European economies."
+   }
+  ],
+  "key_points": [
+   "All US commercial flights were grounded due to an air traffic control communication issue.",
+   "FAA technicians are investigating the problem, with safety cited as the primary concern.",
+   "The grounding occurs alongside a major Microsoft outage and political developments involving Howard Lutnick."
+  ],
+  "meta_description": "All US flights were halted due to an air traffic control communication issue, with FAA technicians investigating and airlines urging passengers to await…",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "air traffic control",
+   "flight grounding",
+   "FAA",
+   "transport secretary",
+   "Microsoft outage"
+  ],
+  "slug": "us-flights-halted-nationwide-over-air-traffic-control-communication-fa66eb",
+  "reading_minutes": 1,
+  "added": "2026-11-13T21:41:02Z",
+  "trends": [
+   "us flights",
+   "faa",
+   "cnn news"
+  ]
+ },
+ {
+  "id": "b4b8d91dc3cee001",
+  "source_url": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-near-new-orleans/a-79945080?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Tanker collides with cruise ship on Mississippi near New Orleans",
+  "source_summary": "A freighter collided with a cruise ship carrying around 130 people near New Orleans, causing the paddlewheel vessel to capsize. Rescue operations are underway.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79945020_6.jpg",
+  "published": "2026-11-13T21:31:00+00:00",
+  "headline": "Freighter Collides With Paddlewheel Cruise Ship Near New Orleans",
+  "body": [
+   {
+    "type": "p",
+    "text": "A freighter struck a paddlewheel cruise ship on the Mississippi River near New Orleans on Tuesday, causing the passenger vessel to capsize. The cruise ship was carrying approximately 130 people at the time of the collision."
+   },
+   {
+    "type": "p",
+    "text": "Rescue crews responded quickly, deploying boats and helicopters to the scene. Survivors were pulled from the water and taken to nearby hospitals for medical evaluation, while others were accounted for on the riverbank."
+   },
+   {
+    "type": "p",
+    "text": "Authorities are investigating the cause of the accident and have begun gathering statements from the crews of both vessels. The Mississippi River, a major commercial waterway, was temporarily closed to traffic as officials worked to secure the area."
+   },
+   {
+    "type": "p",
+    "text": "Local officials expressed concern for the passengers and praised the swift response of emergency services. The incident underscores the risks associated with heavy river traffic in the region."
+   }
+  ],
+  "key_points": [
+   "A freighter collided with a paddlewheel cruise ship on the Mississippi near New Orleans.",
+   "The cruise ship, carrying about 130 passengers, capsized after the impact.",
+   "Rescue operations are ongoing, with survivors being treated and an investigation launched."
+  ],
+  "meta_description": "A freighter collided with a paddlewheel cruise ship near New Orleans, capsizing the vessel and prompting rescue efforts for about 130 passengers.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "maritime accident",
+   "Mississippi River",
+   "New Orleans",
+   "cruise ship",
+   "rescue operation"
+  ],
+  "slug": "freighter-collides-with-paddlewheel-cruise-ship-near-new-orleans-b4b8d9",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-13T21:41:06Z",
+  "trends": [
+   "new orleans"
+  ]
+ },
+ {
   "id": "358ebad0123e5bba",
   "source_url": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
