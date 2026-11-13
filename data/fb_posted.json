@@ -4449,9 +4449,10 @@
   "ts": "2026-11-12T19:54:00Z"
  },
  "rl:news:2026-11-13": {
-  "status": "posting",
+  "post_id": "1486366370039755",
+  "status": "posted",
   "title": "Reel today in 60 seconds",
-  "ts": "2026-11-13T22:12:19Z"
+  "ts": "2026-11-13T22:12:30Z"
  },
  "rl:today:2026-10-21": {
   "post_id": "1845309716601488",
