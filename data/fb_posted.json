@@ -4502,6 +4502,11 @@
   "title": "Reel today in 60 seconds",
   "ts": "2026-11-13T22:12:30Z"
  },
+ "rl:poll:2026-11-14-2": {
+  "status": "posting",
+  "title": "Reel poll A vs B",
+  "ts": "2026-11-14T16:07:17Z"
+ },
  "rl:today:2026-10-21": {
   "post_id": "1845309716601488",
   "status": "posted",
