@@ -1,5 +1,196 @@
 [
  {
+  "id": "2b9afcbe9fec16df",
+  "source_url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
+  "source": "The New York Times",
+  "source_title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
+  "source_summary": "U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role.",
+  "source_tags": [
+   "Espionage and Intelligence Services",
+   "United States Politics and Government",
+   "Industrial Espionage",
+   "United States International Relations",
+   "Artificial Intelligence",
+   "Megaspeed International Pte Ltd",
+   "Ministry of State Security of the People's Republic of China",
+   "NVIDIA Corporation",
+   "Justice Department",
+   "Commerce Department"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-intel-vzbm/13dc-intel-vzbm-mediumSquareAt3X.jpg",
+  "published": "2026-11-14T01:22:56+00:00",
+  "headline": "U.S. Agencies Probe Nvidia CEO’s Former Lover as Possible Chinese Spy",
+  "body": [
+   {
+    "type": "p",
+    "text": "U.S. intelligence officials say they are examining the case of a woman who reportedly had an affair with Nvidia founder and chief executive Jensen Huang, suspecting she may have acted as an asset for China."
+   },
+   {
+    "type": "p",
+    "text": "The assessment comes amid broader concerns about foreign influence in the technology sector, with agencies emphasizing that the woman’s exact role and the extent of any intelligence gathering remain unclear."
+   },
+   {
+    "type": "p",
+    "text": "Officials have not disclosed the identity of the woman or detailed evidence, but they indicated that the investigation is ongoing and that further findings will be evaluated as more information becomes available."
+   },
+   {
+    "type": "p",
+    "text": "The revelation, reported by The New York Times on November 14, 2026, adds to scrutiny of Nvidia’s ties to national security issues, though the company has not commented publicly on the allegations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The probe underscores U.S. and European concerns about potential Chinese espionage within leading technology firms."
+   }
+  ],
+  "key_points": [
+   "U.S. intelligence agencies suspect a former romantic partner of Nvidia CEO Jensen Huang was a Chinese asset.",
+   "The woman’s precise activities and impact on Nvidia remain under investigation.",
+   "The case highlights heightened vigilance over foreign espionage in the tech industry."
+  ],
+  "meta_description": "U.S. agencies investigate a woman linked to Nvidia CEO Jensen Huang as a possible Chinese spy, with details still under review.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "espionage",
+   "China",
+   "US intelligence",
+   "technology security"
+  ],
+  "slug": "u-s-agencies-probe-nvidia-ceos-former-lover-possible-2b9afc",
+  "reading_minutes": 1,
+  "added": "2026-11-14T01:52:23Z",
+  "trends": [
+   "fallout"
+  ]
+ },
+ {
+  "id": "b675ee4996083ea2",
+  "source_url": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o",
+  "source": "BBC Sport",
+  "source_title": "Sabalenka's season ended by Svitolina at WTA Finals",
+  "source_summary": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab2/live/4631dfd0-dfbe-11f1-a785-cd5ce5e90c71.jpg",
+  "published": "2026-11-14T00:51:25+00:00",
+  "headline": "Sabalenza's Season Ends as Svitolina Advances at WTA Finals",
+  "body": [
+   {
+    "type": "p",
+    "text": "Former world number one Aryna Sabalenka saw her 2026 campaign come to an abrupt close on Tuesday at the WTA Finals, after a straight‑sets defeat to Ukraine's Elina Svitolina. The match, part of the season‑ending tournament, determined the final spot in the knockout stage."
+   },
+   {
+    "type": "p",
+    "text": "Svitolina secured her place with a decisive victory, overcoming Sabalenka in a contest that left the Belarusian star eliminated from further contention. The win not only propelled Svitolina into the next round but also marked the end of Sabalenka's hopes of extending her season beyond the group phase."
+   },
+   {
+    "type": "p",
+    "text": "The outcome was confirmed by tournament officials following the conclusion of the match, which took place at the WTA Finals venue. No additional commentary from the players was included in the report, but the result underscores the competitive nature of the event's round‑robin format."
+   },
+   {
+    "type": "p",
+    "text": "With Sabalenka's season now finished, the focus shifts to the remaining competitors as they vie for the championship title. Svitolina's advancement adds another strong contender to the knockout bracket, setting the stage for high‑stakes matches in the days ahead."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The WTA Finals gathers the season's top players, and Sabalenka's early exit reshapes the competition for the year‑end championship, affecting rankings and prize money."
+   }
+  ],
+  "key_points": [
+   "Aryna Sabalenka's 2026 season ended after a loss to Elina Svitolina at the WTA Finals.",
+   "Svitolina's win secured her a spot in the knockout stage of the tournament.",
+   "The result finalised the group‑stage standings, eliminating Sabalenka from further competition."
+  ],
+  "meta_description": "Aryna Sabalenka's season ends after Elina Svitolina beats her to reach the WTA Finals knockout stage.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "WTA Finals",
+   "Aryna Sabalenka",
+   "Elina Svitolina",
+   "tennis",
+   "season finale"
+  ],
+  "slug": "sabalenza-s-season-ends-svitolina-advances-wta-finals-b675ee",
+  "reading_minutes": 1,
+  "added": "2026-11-14T01:52:26Z",
+  "trends": []
+ },
+ {
+  "id": "8e9cd81adab4942a",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo",
+  "source": "BBC News",
+  "source_title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+  "source_summary": "The next title in the series is expected to be the biggest video game release ever.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
+  "published": "2026-11-14T00:37:01+00:00",
+  "headline": "Original GTA Creators Still Await Access to Highly Anticipated GTA 6",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rockstar Games' forthcoming title, Grand Theft Auto VI, is being billed as the biggest video‑game launch in history, according to a BBC News report published on 14 November 2026."
+   },
+   {
+    "type": "p",
+    "text": "Despite having co‑created the franchise, the series' original developers have not yet been given a playable version of the new installment. The report notes that even the founding team remains unable to experience the game firsthand."
+   },
+   {
+    "type": "p",
+    "text": "The announcement comes as anticipation builds worldwide for the release, with industry observers expecting GTA VI to set new standards for scale and revenue in the gaming sector."
+   },
+   {
+    "type": "p",
+    "text": "The lack of access for the original creators highlights the tight security and secrecy surrounding the project, underscoring Rockstar's effort to control information ahead of the anticipated launch."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The game's projected size could influence global gaming markets and set new benchmarks for revenue and player engagement in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Grand Theft Auto VI is promoted as the largest video‑game release ever.",
+   "The franchise's original creators have not yet received a playable copy.",
+   "Anticipation for the game is high as it approaches its expected launch."
+  ],
+  "meta_description": "Original Grand Theft Auto creators still lack access to the highly anticipated GTA VI, touted as the biggest game release ever.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Grand Theft Auto",
+   "Rockstar Games",
+   "video games",
+   "gaming industry",
+   "GTA 6"
+  ],
+  "slug": "original-gta-creators-still-await-access-highly-anticipated-gta-8e9cd8",
+  "reading_minutes": 1,
+  "added": "2026-11-14T01:52:30Z",
+  "trends": [
+   "rockstar gta vi",
+   "gta 6 map leak selfridges"
+  ]
+ },
+ {
   "id": "1ff2d9e323bc2f07",
   "source_url": "https://www.theverge.com/news/1033489/faa-ground-stop",
   "source": "The Verge",
@@ -64,7 +255,15 @@
    "faa",
    "cnn news",
    "flights being grounded"
-  ]
+  ],
+  "sources": [
+   {
+    "source": "DW",
+    "url": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf",
+    "title": "US lifts nationwide ground stop for airports hours after halting all departures"
+   }
+  ],
+  "updated": "2026-11-14T01:52:21Z"
  },
  {
   "id": "fa66eb00f7214b61",
