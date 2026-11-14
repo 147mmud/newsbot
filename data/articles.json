@@ -1,5 +1,180 @@
 [
  {
+  "id": "5b3cafa110811591",
+  "source_url": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Sudan: Misery worsens amid plummeting aid for displaced people",
+  "source_summary": "Sudan's humanitarian crisis is exacerbated by cuts in international aid. Almost 34 million people are in need as war and drone strikes are making it difficult to deliver aid to the population.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79659504_6.jpg",
+  "published": "2026-11-14T08:31:00+00:00",
+  "headline": "Sudan Humanitarian Crisis Deepens as Aid Cuts Hit 34 Million in Need",
+  "body": [
+   {
+    "type": "p",
+    "text": "The humanitarian situation in Sudan is deteriorating sharply as international assistance dwindles, leaving nearly 34 million people requiring aid, according to the latest report from DW dated November 14, 2026."
+   },
+   {
+    "type": "p",
+    "text": "Ongoing conflict and frequent drone strikes have hampered relief operations, making it increasingly difficult for aid agencies to reach vulnerable populations across the war‑torn country."
+   },
+   {
+    "type": "p",
+    "text": "The reduction in funding comes at a time when the need for food, medical supplies, and shelter is at its highest, exacerbating the misery of displaced families who are already struggling to survive."
+   },
+   {
+    "type": "p",
+    "text": "Humanitarian organisations warn that without a reversal of the aid cuts, the crisis could expand further, potentially leading to larger displacement flows and heightened instability in the region."
+   },
+   {
+    "type": "p",
+    "text": "The report underscores the urgent call for renewed international support to prevent a deeper humanitarian disaster in Sudan."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The escalating crisis in Sudan could generate increased refugee flows into neighboring regions, affecting migration patterns and security concerns for the United States and European nations."
+   }
+  ],
+  "key_points": [
+   "Nearly 34 million Sudanese need humanitarian assistance as aid funding declines.",
+   "War and drone strikes are severely limiting the delivery of relief supplies.",
+   "Aid agencies warn that continued cuts could worsen displacement and instability."
+  ],
+  "meta_description": "Sudan's humanitarian crisis worsens as aid cuts leave 34 million people in need amid ongoing war and drone strikes.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Sudan",
+   "humanitarian aid",
+   "conflict",
+   "displacement",
+   "international relief"
+  ],
+  "slug": "sudan-humanitarian-crisis-deepens-aid-cuts-hit-34-million-5b3caf",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-14T08:55:05Z",
+  "trends": []
+ },
+ {
+  "id": "6eba979d088e4f6d",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq74297dvnygo",
+  "source": "BBC Sport",
+  "source_title": "Japan's unlikely leader who turned down the All Blacks",
+  "source_summary": "Warner Dearns did not want to go to Japan as a teenager. Now he is determined to stay and do his adopted country proud.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a078/live/ecafe1b0-df85-11f1-a8e2-5b59832bb2f1.jpg",
+  "published": "2026-11-14T08:22:15+00:00",
+  "headline": "Warner Dearns Chooses Japan Over All Blacks, Vows to Lead",
+  "body": [
+   {
+    "type": "p",
+    "text": "Warner Dearns, a rugby player who once resisted moving to Japan as a teenager, has now embraced his adopted nation. The former prospect who turned down the chance to join the All Blacks has become an unlikely leader within Japanese rugby."
+   },
+   {
+    "type": "p",
+    "text": "Despite his early reluctance, Dearns decided to stay in Japan and commit fully to the sport there. His determination to represent Japan reflects a shift from his initial hesitation to a clear resolve to make his adopted country proud."
+   },
+   {
+    "type": "p",
+    "text": "The decision marks a notable turn in Dearns' career, highlighting his transition from a potential All Blacks candidate to a key figure in Japan's rugby scene. His leadership role underscores the growing appeal of Japanese rugby for international talent."
+   },
+   {
+    "type": "p",
+    "text": "While details of his performances remain limited, Dearns' choice to remain in Japan and his expressed pride in representing the nation have been highlighted as central to his current focus."
+   }
+  ],
+  "key_points": [
+   "Warner Dearns once declined a move to Japan as a teenager.",
+   "He later turned down the All Blacks and chose to stay in Japan.",
+   "Dearns now aims to lead and make his adopted country proud."
+  ],
+  "meta_description": "Rugby star Warner Dearns rejects All Blacks, stays in Japan and vows to lead his adopted nation.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Warner Dearns",
+   "Japan rugby",
+   "All Blacks",
+   "sports leadership",
+   "international rugby"
+  ],
+  "slug": "warner-dearns-chooses-japan-over-all-blacks-vows-lead-6eba97",
+  "reading_minutes": 1,
+  "added": "2026-11-14T08:55:08Z",
+  "trends": [
+   "england vs japan"
+  ]
+ },
+ {
+  "id": "19a081dbb1f66bab",
+  "source_url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo",
+  "source": "BBC News",
+  "source_title": "Young people should have legal guarantee to job or training, Milburn tells BBC",
+  "source_summary": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee34/live/00e38c90-dfea-11f1-93e1-3b657b665bcf.jpg",
+  "published": "2026-11-14T06:00:04+00:00",
+  "headline": "Milburn Calls for Legal Right to Work or Training for Young People",
+  "body": [
+   {
+    "type": "p",
+    "text": "Sir John Milburn, the author of a forthcoming review on youth unemployment, told the BBC that all young people should be given a legal guarantee of a job or a training place. The review, which is due to be published next week, examines the state of the labour market for people aged 16 to 24 across the United Kingdom."
+   },
+   {
+    "type": "p",
+    "text": "Milburn said the proposal would create a statutory entitlement, ensuring that every young person leaving school or college has a clear pathway into employment or skills development. He argued that such a guarantee could help curb the rising levels of youth joblessness that have persisted since the pandemic."
+   },
+   {
+    "type": "p",
+    "text": "However, Milburn also warned that the policy could result in some young people losing out on existing benefits. By shifting the focus to guaranteed placements, certain welfare payments might be reduced or withdrawn for those who are deemed to have access to the new entitlement."
+   },
+   {
+    "type": "p",
+    "text": "The comments come as the UK government prepares to consider a range of measures to address youth unemployment ahead of the review’s release. Stakeholders, including trade unions and employer groups, are expected to respond once the full recommendations are published."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Youth unemployment remains a concern across Europe and North America, and a legal guarantee could reshape labour‑market policies and welfare systems."
+   }
+  ],
+  "key_points": [
+   "John Milburn proposes a legal guarantee of a job or training for all 16‑24‑year‑olds in the UK.",
+   "The upcoming review on youth unemployment is scheduled for release next week.",
+   "Milburn acknowledges the plan could cut some benefit entitlements for young people."
+  ],
+  "meta_description": "John Milburn urges a legal right to work or training for UK youth, warning it may affect some benefit payments.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "youth unemployment",
+   "job guarantee",
+   "training",
+   "social policy",
+   "UK labour market"
+  ],
+  "slug": "milburn-calls-legal-right-work-or-training-young-people-19a081",
+  "reading_minutes": 1,
+  "added": "2026-11-14T08:55:12Z",
+  "trends": []
+ },
+ {
   "id": "2b9afcbe9fec16df",
   "source_url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
   "source": "The New York Times",
@@ -1196,9 +1371,14 @@
     "source": "BBC News",
     "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o",
     "title": "What we know about the global Microsoft outage"
+   },
+   {
+    "source": "BBC News",
+    "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+    "title": "Microsoft says services fully restored after day-long global outage"
    }
   ],
-  "updated": "2026-11-13T07:24:01Z"
+  "updated": "2026-11-14T08:55:03Z"
  },
  {
   "id": "26344e9d0d86a1f2",
