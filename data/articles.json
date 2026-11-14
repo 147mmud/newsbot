@@ -1,5 +1,195 @@
 [
  {
+  "id": "0f3c66386c82c288",
+  "source_url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+  "source": "TechCrunch",
+  "source_title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+  "source_summary": "Even Elon Musk said the monthly fee is \"too high.\"",
+  "source_tags": [
+   "Transportation",
+   "cybercab",
+   "Tesla"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+  "published": "2026-11-14T20:04:44+00:00",
+  "headline": "Tesla Launches Cybercab Personal Use Pre‑Orders With $299 Monthly Fee",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tesla announced on Monday that it is now accepting pre‑orders for its Cybercab service aimed at personal use. The new offering allows individual owners to subscribe to the autonomous ride‑hailing platform, which will be subject to geographic restrictions that limit where the service can be accessed."
+   },
+   {
+    "type": "p",
+    "text": "The subscription model requires a monthly payment of $299, a price point that has drawn attention from both consumers and industry observers. Tesla has not disclosed the exact regions where the service will be initially available, but the geo‑restriction clause suggests a phased rollout."
+   },
+   {
+    "type": "p",
+    "text": "Elon Musk, Tesla’s chief executive, commented on the pricing, describing the $299 monthly fee as \"too high.\" His remark highlights internal concerns about the affordability of the service for potential users, though no alternative pricing has been announced."
+   },
+   {
+    "type": "p",
+    "text": "The move marks Tesla’s expansion beyond vehicle sales into a subscription‑based mobility service, positioning the company to compete with other autonomous ride‑hailing initiatives. The pre‑order phase will run for an unspecified period while the company finalizes regulatory approvals and infrastructure requirements."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The subscription model could reshape personal transportation in the US and Europe by offering an autonomous ride‑hailing option, but pricing may affect adoption rates."
+   }
+  ],
+  "key_points": [
+   "Tesla opens pre‑orders for Cybercab personal use with a $299 monthly subscription.",
+   "The service will be limited to certain geographic areas at launch.",
+   "CEO Elon Musk labeled the monthly fee as \"too high,\" indicating pricing concerns."
+  ],
+  "meta_description": "Tesla begins Cybercab personal use pre‑orders with a $299 monthly fee, sparking comments from Elon Musk that the price is too high.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Tesla",
+   "Cybercab",
+   "autonomous vehicles",
+   "subscription service",
+   "pricing"
+  ],
+  "slug": "tesla-launches-cybercab-personal-use-preorders-with-299-monthly-0f3c66",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-14T20:10:15Z",
+  "trends": []
+ },
+ {
+  "id": "c7c4a5a6618fd981",
+  "source_url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
+  "source": "The New York Times",
+  "source_title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+  "source_summary": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.",
+  "source_tags": [
+   "Nationwide Ground Stops (Aviation)",
+   "Airlines and Airplanes",
+   "Regulation and Deregulation of Industry",
+   "Air Traffic Control",
+   "Federal Aviation Administration",
+   "Homeland Security Department",
+   "House of Representatives",
+   "Newark Liberty International Airport (NJ)",
+   "Transportation Department (US)",
+   "Duffy, Sean P"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
+  "published": "2026-11-14T19:45:12+00:00",
+  "headline": "Ground Stop Exposes Long‑Standing Weaknesses in U.S. Air Traffic System",
+  "body": [
+   {
+    "type": "p",
+    "text": "A recent ground stop, triggered by the Federal Aviation Administration's (FAA) aging air traffic control infrastructure, has drawn attention to systemic vulnerabilities that have caused multiple disruptions over the past several months. The incident, reported on November 14, 2026, underscores how outdated technology can directly impact flight operations across the United States."
+   },
+   {
+    "type": "p",
+    "text": "The FAA, responsible for managing the nation’s airspace, has acknowledged that its control systems are nearing the end of their operational life. In recent months, a series of failures have forced airlines to delay or cancel flights, prompting concerns among travelers and industry stakeholders about the reliability of the nation’s aviation network."
+   },
+   {
+    "type": "p",
+    "text": "In response to the growing pressure, FAA officials have outlined plans to accelerate upgrades to the air traffic control system. While specific timelines and funding details were not disclosed, the agency emphasized that modernization is essential to prevent further interruptions and to meet future demand."
+   },
+   {
+    "type": "p",
+    "text": "Airlines and passenger advocacy groups have welcomed the acknowledgment of the problem but are urging swift action. They note that continued delays could erode confidence in U.S. air travel and affect economic activity tied to the aviation sector."
+   },
+   {
+    "type": "p",
+    "text": "The ground stop serves as a stark reminder that the FAA’s infrastructure challenges are not isolated incidents but part of a broader pattern of aging equipment that requires comprehensive reform."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Reliable air traffic control is critical for safe, on‑time travel and for the economic health of the aviation industry in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "A recent ground stop highlighted failures in the FAA's aging air traffic control infrastructure.",
+   "Multiple disruptions have occurred over the past several months, affecting flights nationwide.",
+   "The FAA is planning accelerated upgrades to modernize the system and reduce future interruptions."
+  ],
+  "meta_description": "A ground stop reveals chronic flaws in the FAA's aging air traffic system, prompting officials to push for urgent upgrades.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FAA",
+   "air traffic control",
+   "ground stop",
+   "infrastructure upgrades",
+   "aviation safety"
+  ],
+  "slug": "ground-stop-exposes-longstanding-weaknesses-u-s-air-traffic-c7c4a5",
+  "reading_minutes": 1,
+  "added": "2026-11-14T20:10:19Z",
+  "trends": []
+ },
+ {
+  "id": "ecec5e0568a4d909",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o",
+  "source": "BBC Sport",
+  "source_title": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
+  "source_summary": "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5668/live/7585ebc0-e05c-11f1-9e26-b3b65586122f.jpg",
+  "published": "2026-11-14T19:33:46+00:00",
+  "headline": "Wales End 73-Year Wait With Stunning Victory Over New Zealand",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a match that captured global attention on November 14, 2026, the Welsh rugby team delivered a performance described as \"one of the greatest wins\" after defeating the New Zealand All Blacks. The triumph broke a 73-year streak of defeats against the Southern Hemisphere powerhouse, marking a historic turnaround for Wales."
+   },
+   {
+    "type": "p",
+    "text": "The victory was hailed by commentators and fans alike as Wales' greatest win of all time. The win not only erased a long‑standing hoodoo but also elevated the team from being viewed as underdogs to celebrated heroes in the rugby community."
+   },
+   {
+    "type": "p",
+    "text": "Reactions across the sport highlighted the significance of the result, with many noting the shift in perception for Welsh rugby on the world stage. The match underscored the unpredictable nature of international rugby and reinforced Wales' emerging status as a formidable opponent."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The upset reshapes expectations in international rugby, a sport with a large following in the US, UK, Canada, Germany and Switzerland."
+   }
+  ],
+  "key_points": [
+   "Wales defeated New Zealand, ending a 73-year losing streak.",
+   "The win was described as Wales' greatest victory ever.",
+   "The result transformed Wales from underdogs to celebrated heroes."
+  ],
+  "meta_description": "Wales break a 73-year losing streak against New Zealand with a historic win hailed as their greatest ever.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Wales",
+   "New Zealand",
+   "rugby",
+   "All Blacks",
+   "historic win"
+  ],
+  "slug": "wales-end-73-year-wait-with-stunning-victory-over-ecec5e",
+  "reading_minutes": 1,
+  "added": "2026-11-14T20:10:22Z",
+  "trends": []
+ },
+ {
   "id": "8615a438fb3fbf9e",
   "source_url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-moderate-progressive-congress",
   "source": "The Guardian",
