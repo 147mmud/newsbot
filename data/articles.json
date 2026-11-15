@@ -1,5 +1,110 @@
 [
  {
+  "id": "542b5ebf64de7475",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+  "source": "BBC News",
+  "source_title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+  "source_summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+  "published": "2026-11-15T19:32:39+00:00",
+  "headline": "Zelensky Calls on US and Musk to End Starlink Limits Amid Russian Attacks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelensky addressed the United States and SpaceX CEO Elon Musk on Thursday, urging them to remove remaining restrictions on the Starlink satellite internet service that supports Ukraine’s defence efforts."
+   },
+   {
+    "type": "p",
+    "text": "Zelensky said the existing limits continue to hamper Kyiv’s ability to counter Russian strikes, emphasizing that unfettered access to the network is essential for real‑time communications on the front lines."
+   },
+   {
+    "type": "p",
+    "text": "The appeal comes as Ukraine relies heavily on Starlink to maintain connectivity for military coordination, civilian communications and critical infrastructure, especially in areas where Russian attacks have damaged traditional networks."
+   },
+   {
+    "type": "p",
+    "text": "While the president did not specify the exact nature of the restrictions, he framed the request as a moral imperative, urging the United States and Musk to be on the \"right side of history\" by fully supporting Ukraine’s fight against aggression."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Starlink is a vital communications lifeline for Ukraine’s defence, and US policy on its use influences the broader support for Kyiv against Russian aggression."
+   }
+  ],
+  "key_points": [
+   "Zelensky asked the US and Elon Musk to lift all Starlink restrictions for Ukraine.",
+   "He warned that current limits impede Ukraine’s ability to repel Russian attacks.",
+   "The president framed the issue as a moral choice, urging alignment with history."
+  ],
+  "meta_description": "Zelensky urges the US and Elon Musk to end Starlink limits, saying they hinder Ukraine's defense against Russian attacks.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Zelensky",
+   "Starlink",
+   "Ukraine",
+   "US policy",
+   "Elon Musk",
+   "Russian attacks"
+  ],
+  "slug": "zelensky-calls-us-musk-end-starlink-limits-amid-russian-542b5e",
+  "reading_minutes": 1,
+  "added": "2026-11-15T19:54:01Z",
+  "trends": []
+ },
+ {
+  "id": "5f9fbb9d3c30743d",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo",
+  "source": "BBC Sport",
+  "source_title": "Ronaldinho, 46, makes comeback for Ravenna",
+  "source_summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg",
+  "published": "2026-11-15T19:31:48+00:00",
+  "headline": "Ronaldinho, 46, Returns to Play for Ravenna in Serie C Derby",
+  "body": [
+   {
+    "type": "p",
+    "text": "Brazilian football legend Ronaldinho, now 46, made a surprise return to the pitch on Saturday, featuring for Italian side Ravenna. The former World Cup winner took part in the first half of Ravenna's Serie C derby against local rivals Forlì, marking his first competitive appearance in more than a decade."
+   },
+   {
+    "type": "p",
+    "text": "The match, part of the third‑tier Italian league schedule, saw Ronaldinho don the Ravenna kit for the opening 45 minutes before being substituted at halftime. His brief cameo was the highlight of the encounter, drawing attention from fans and media alike as he stepped onto the field in the historic city of Ravenna."
+   },
+   {
+    "type": "p",
+    "text": "Ravenna's decision to field the veteran star underscored the club's ambition to generate excitement ahead of the season. While the game continued without him in the second half, Ronaldinho's involvement provided a memorable moment for supporters of both teams."
+   }
+  ],
+  "key_points": [
+   "Ronaldinho, aged 46, played the first half for Ravenna in a Serie C derby against Forlì.",
+   "The appearance marked the Brazilian legend's first competitive match in over ten years.",
+   "His cameo attracted significant media coverage and fan interest in the third‑tier Italian fixture."
+  ],
+  "meta_description": "Ronaldinho, 46, returns to competitive football with Ravenna, playing the first half of their Serie C derby against Forlì.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ronaldinho",
+   "Ravenna",
+   "Serie C",
+   "comeback",
+   "football"
+  ],
+  "slug": "ronaldinho-46-returns-play-ravenna-serie-c-derby-5f9fbb",
+  "reading_minutes": 1,
+  "added": "2026-11-15T19:54:06Z",
+  "trends": []
+ },
+ {
   "id": "589f2eca044b32b0",
   "source_url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
   "source": "The Verge",
@@ -2047,7 +2152,9 @@
   "added": "2026-11-12T19:11:06Z",
   "dup_of": "071d9c002fdefcb3",
   "dup_slug": "jensen-huang-linked-relationship-with-nvidia-executive-amid-spy-071d9c",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "b96b7d9fc07a01bf",
@@ -2061,7 +2168,9 @@
   "added": "2026-11-12T19:11:26Z",
   "dup_of": "a20ff2b991b55d37",
   "dup_slug": "microsoft-outlook-email-service-experiences-unexplained-outage-a20ff2",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-2.01.16-PM.jpg?quality=90&strip=all&crop=0,17.193583031279,100,65.612833937441",
+  "img_checked": 2
  },
  {
   "id": "b286561d0c40cc9e",
@@ -2827,7 +2936,9 @@
   "added": "2026-11-12T11:39:13Z",
   "dup_of": "2107ab7399a656c8",
   "dup_slug": "one-dead-twelve-injured-after-brooklyn-building-collapse-2107ab",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/839d/live/adbf9910-de9e-11f1-a701-fddedf244c16.jpg",
+  "img_checked": 2
  },
  {
   "id": "4aa9074d7b959b54",
@@ -3367,7 +3478,9 @@
   "added": "2026-11-12T03:14:38Z",
   "dup_of": "071d9c002fdefcb3",
   "dup_slug": "jensen-huang-linked-relationship-with-nvidia-executive-amid-spy-071d9c",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/NVIDIA-CEO-Business-Card-in-Modern-Office.png?resize=1200,675",
+  "img_checked": 2
  },
  {
   "id": "d5932b4e7c7d2d91",
@@ -3433,7 +3546,9 @@
   "added": "2026-11-12T03:14:46Z",
   "dup_of": "071d9c002fdefcb3",
   "dup_slug": "jensen-huang-linked-relationship-with-nvidia-executive-amid-spy-071d9c",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "2107ab7399a656c8",
@@ -3836,7 +3951,9 @@
   "added": "2026-11-12T03:15:23Z",
   "dup_of": "071d9c002fdefcb3",
   "dup_slug": "jensen-huang-linked-relationship-with-nvidia-executive-amid-spy-071d9c",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79724049_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "c2f163e5b083bf5f",
@@ -3915,7 +4032,9 @@
   "added": "2026-11-12T03:15:18Z",
   "dup_of": "0d614d490a8c5790",
   "dup_slug": "silicon-valley-leaders-defend-jensen-huang-over-spy-allegations-0d614d",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "335e45d81e0a6603",
@@ -3929,7 +4048,9 @@
   "added": "2026-11-11T22:19:49Z",
   "dup_of": "00c7ae7f9540ca81",
   "dup_slug": "spains-housing-crisis-sparks-general-strike-night-protests-00c7ae",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
+  "img_checked": 2
  },
  {
   "id": "9fb6867c3d9ff634",
@@ -4239,7 +4360,9 @@
   "added": "2026-11-11T22:20:13Z",
   "dup_of": "b6d252dfd8ae2d70",
   "dup_slug": "rep-thomas-massie-seeks-impeachment-vote-defense-secretary-hegseth-b6d252",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/015a1a2baf166d2eaf78bea3692a71c03a0ca5da/0_0_1800_1440/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87d1d9d206a9ad9dc65f1371e16df731",
+  "img_checked": 2
  },
  {
   "id": "33bddd1c40023b58",
@@ -5472,7 +5595,9 @@
   "added": "2026-11-11T01:51:29Z",
   "dup_of": "b6d252dfd8ae2d70",
   "dup_slug": "rep-thomas-massie-seeks-impeachment-vote-defense-secretary-hegseth-b6d252",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
+  "img_checked": 2
  },
  {
   "id": "2a6b1923225a0191",
@@ -6823,7 +6948,9 @@
   "added": "2026-11-10T16:22:34Z",
   "dup_of": "59a0de2a3c878a00",
   "dup_slug": "manchester-united-s-4-4-thriller-leaves-carrick-s-59a0de",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/98d7/live/8668d6c0-dd17-11f1-b441-2b33b063138f.png",
+  "img_checked": 2
  },
  {
   "id": "8088146df399ff20",
@@ -7439,7 +7566,9 @@
   "added": "2026-11-10T07:41:20Z",
   "dup_of": "c51ddbc7c8033a48",
   "dup_slug": "ukraine-power-grid-hit-again-russian-strikes-ahead-abu-c51ddb",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79918459_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "1b18832a8d2c83f7",
@@ -7678,7 +7807,9 @@
   "added": "2026-11-10T07:41:43Z",
   "dup_of": "bc0b846ed6bf5e65",
   "dup_slug": "nvidia-ceo-jensen-huang-apologizes-affair-promises-spy-probe-bc0b84",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+  "img_checked": 2
  },
  {
   "id": "1f2ee8577a07002e",
@@ -7970,7 +8101,9 @@
   "added": "2026-11-10T00:09:51Z",
   "dup_of": "67abd93f196f854c",
   "dup_slug": "nvidia-launches-probe-into-ceo-jensen-huangs-ties-with-67abd9",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79905607_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "285987eab7312733",
@@ -7984,7 +8117,9 @@
   "added": "2026-11-10T00:09:59Z",
   "dup_of": "1bc7ba2a28c4372d",
   "dup_slug": "china-recruits-megaspeed-exec-spy-nvidia-ceo-nyt-reports-1bc7ba",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "c1a334362f66dca5",
@@ -8107,7 +8242,9 @@
   "added": "2026-11-10T00:10:06Z",
   "dup_of": "84ab0fe30f78624b",
   "dup_slug": "rubio-alerts-officials-nvidia-ceos-ties-chinese-spy-84ab0f",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "39582fe7195957e4",
@@ -8512,7 +8649,9 @@
   "added": "2026-11-09T16:02:55Z",
   "dup_of": "67abd93f196f854c",
   "dup_slug": "nvidia-launches-probe-into-ceo-jensen-huangs-ties-with-67abd9",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "6a96ab95be14f91e",
@@ -9088,7 +9227,9 @@
   "added": "2026-11-09T06:04:12Z",
   "dup_of": "bc0b846ed6bf5e65",
   "dup_slug": "nvidia-ceo-jensen-huang-apologizes-affair-promises-spy-probe-bc0b84",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+  "img_checked": 2
  },
  {
   "id": "fdfdfd60876dfdbc",
@@ -9102,7 +9243,9 @@
   "added": "2026-11-09T06:04:24Z",
   "dup_of": "67abd93f196f854c",
   "dup_slug": "nvidia-launches-probe-into-ceo-jensen-huangs-ties-with-67abd9",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+  "img_checked": 2
  },
  {
   "id": "f03fc21c1881897f",
@@ -9281,7 +9424,9 @@
   "added": "2026-11-09T06:04:39Z",
   "dup_of": "8142fb3e38d6736b",
   "dup_slug": "stephen-miller-pushes-immigration-crackdown-after-election-loss-8142fb",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "2bb28c52b26f224e",
@@ -9466,7 +9611,9 @@
   "added": "2026-11-09T06:04:57Z",
   "dup_of": "d5a2eae5b1a4d7b6",
   "dup_slug": "pope-leo-calls-argentinas-milei-prioritize-poor-economy-d5a2ea",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79894825_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "9a163dd578211e1d",
@@ -9480,7 +9627,9 @@
   "added": "2026-11-09T06:04:20Z",
   "dup_of": "bc0b846ed6bf5e65",
   "dup_slug": "nvidia-ceo-jensen-huang-apologizes-affair-promises-spy-probe-bc0b84",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31a9/live/7a3a3f70-dc53-11f1-a869-656dc96bd12d.jpg",
+  "img_checked": 2
  },
  {
   "id": "58435d411c44147d",
@@ -9671,7 +9820,9 @@
   "added": "2026-11-08T23:58:25Z",
   "dup_of": "9a2c320844063b22",
   "dup_slug": "six-killed-krakow-mass-shooting-gunman-military-uniform-9a2c32",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+  "img_checked": 2
  },
  {
   "id": "3120ee4f908c40c7",
@@ -10080,7 +10231,9 @@
   "added": "2026-11-08T23:58:57Z",
   "dup_of": "1bc7ba2a28c4372d",
   "dup_slug": "china-recruits-megaspeed-exec-spy-nvidia-ceo-nyt-reports-1bc7ba",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "8cedf3cffeba6a9b",
@@ -10209,7 +10362,9 @@
   "added": "2026-11-08T20:23:59Z",
   "dup_of": "1bc7ba2a28c4372d",
   "dup_slug": "china-recruits-megaspeed-exec-spy-nvidia-ceo-nyt-reports-1bc7ba",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "5bc8b4d5f9a570a3",
@@ -10374,7 +10529,9 @@
   "added": "2026-11-08T20:24:07Z",
   "dup_of": "ca1ad9d7bcfd285a",
   "dup_slug": "four-killed-two-passenger-trains-collide-near-cairo-ca1ad9",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
+  "img_checked": 2
  },
  {
   "id": "43fec1df2c7cc940",
@@ -10569,7 +10726,9 @@
   "added": "2026-11-08T20:24:15Z",
   "dup_of": "1f59cd90d506c4f5",
   "dup_slug": "hakeem-jeffries-says-he-hard-yes-impeaching-defense-secretary-1f59cd",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "53044e44b3aab431",
@@ -11031,7 +11190,9 @@
   "added": "2026-11-08T15:55:22Z",
   "dup_of": "2050cc9f2667ada3",
   "dup_slug": "gadi-eisenkot-poised-form-government-replace-netanyahu-2050cc",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79891763_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "ee39245ad7510060",
@@ -11453,7 +11614,9 @@
   "added": "2026-11-08T08:53:23Z",
   "dup_of": "8607fab03255e4c7",
   "dup_slug": "india-s-supreme-court-orders-greener-fireworks-diwali-amid-8607fa",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79889018_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "3b8092eeb96f1481",
@@ -11467,7 +11630,9 @@
   "added": "2026-11-08T08:53:27Z",
   "dup_of": "8fe1ec3ea9030d52",
   "dup_slug": "trump-offers-ufc-boss-dana-white-white-house-press-8fe1ec",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4492x2527+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Ffa%2F3f790b7e481ea32d03d42cae34fe%2Fap26311730542307.jpg",
+  "img_checked": 2
  },
  {
   "id": "2a2d18a832ec5ac5",
@@ -11664,7 +11829,9 @@
   "added": "2026-11-08T08:53:43Z",
   "dup_of": "8d4ce62d62308d7b",
   "dup_slug": "south-africa-s-anc-records-lowest-vote-share-local-8d4ce6",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "8607fab03255e4c7",
@@ -11917,7 +12084,9 @@
   "added": "2026-11-08T01:46:06Z",
   "dup_of": "9a2c320844063b22",
   "dup_slug": "six-killed-krakow-mass-shooting-gunman-military-uniform-9a2c32",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "6bdb82c5cbe65280",
@@ -11988,7 +12157,9 @@
   "added": "2026-11-08T01:46:18Z",
   "dup_of": "2050cc9f2667ada3",
   "dup_slug": "gadi-eisenkot-poised-form-government-replace-netanyahu-2050cc",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "b466e88afd7dcb67",
@@ -12055,7 +12226,9 @@
   "added": "2026-11-08T01:46:38Z",
   "dup_of": "2050cc9f2667ada3",
   "dup_slug": "gadi-eisenkot-poised-form-government-replace-netanyahu-2050cc",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+  "img_checked": 2
  },
  {
   "id": "5829d9d78a07bafc",
@@ -12069,7 +12242,9 @@
   "added": "2026-11-08T01:47:08Z",
   "dup_of": "2050cc9f2667ada3",
   "dup_slug": "gadi-eisenkot-poised-form-government-replace-netanyahu-2050cc",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "474f10f101f8f9ed",
@@ -12191,7 +12366,9 @@
   "added": "2026-11-07T22:14:47Z",
   "dup_of": "0c9cbd4df150e7b2",
   "dup_slug": "midterm-wins-anti-data-center-candidates-tighten-ai-hub-0c9cbd",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+  "img_checked": 2
  },
  {
   "id": "4509cb41dc2d6f72",
@@ -12258,7 +12435,9 @@
   "added": "2026-11-07T22:15:04Z",
   "dup_of": "9a2c320844063b22",
   "dup_slug": "six-killed-krakow-mass-shooting-gunman-military-uniform-9a2c32",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79887076_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "69c75581d56ff5e1",
@@ -12272,7 +12451,9 @@
   "added": "2026-11-07T22:14:59Z",
   "dup_of": "1bc7ba2a28c4372d",
   "dup_slug": "china-recruits-megaspeed-exec-spy-nvidia-ceo-nyt-reports-1bc7ba",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+  "img_checked": 2
  },
  {
   "id": "7ef0b596a66bd5ec",
@@ -12286,7 +12467,9 @@
   "added": "2026-11-07T22:14:55Z",
   "dup_of": "8fe1ec3ea9030d52",
   "dup_slug": "trump-offers-ufc-boss-dana-white-white-house-press-8fe1ec",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "6e1a8650429ac32a",
@@ -12396,7 +12579,9 @@
   "added": "2026-11-07T22:15:11Z",
   "dup_of": "6b7e23271e0e9778",
   "dup_slug": "judge-appoint-special-master-probe-trump-lawyers-golf-course-6b7e23",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "bd11f7a826a1a0e4",
@@ -13769,7 +13954,9 @@
   "added": "2026-11-07T13:28:57Z",
   "dup_of": "5c1a467688bd0803",
   "dup_slug": "democrats-slam-trumps-choice-stephen-miller-chief-staff-5c1a46",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/60d582a626757ec72f79e844a2ef065af7c1b51c/0_0_2881_2305/master/2881.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01ffccc19ab78e5588a64a52df3aa4a1",
+  "img_checked": 2
  },
  {
   "id": "cb9011ce871e680d",
@@ -14651,7 +14838,9 @@
   "added": "2026-11-07T06:30:48Z",
   "dup_of": "29bba3c89545fee3",
   "dup_slug": "paraguay-president-impeached-after-resigning-amid-bank-collapse-29bba3",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
+  "img_checked": 2
  },
  {
   "id": "df2e47ba17ea9c0a",
@@ -14911,7 +15100,9 @@
   "added": "2026-11-07T06:31:04Z",
   "dup_of": "c0641eb0de56205a",
   "dup_slug": "ai-data-centers-surge-sparking-grid-strain-community-concerns-c0641e",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+  "img_checked": 2
  },
  {
   "id": "5c1a467688bd0803",
@@ -14997,7 +15188,9 @@
   "added": "2026-11-07T00:16:48Z",
   "dup_of": "29bba3c89545fee3",
   "dup_slug": "paraguay-president-impeached-after-resigning-amid-bank-collapse-29bba3",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "4edc16aea8a2d5a3",
@@ -15065,7 +15258,9 @@
   "added": "2026-11-07T00:17:05Z",
   "dup_of": "1f75afdfba2b4795",
   "dup_slug": "former-adviser-says-trump-aide-blocked-health-policies-donations-1f75af",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "1e7af97ae7a95ebb",
@@ -15248,7 +15443,9 @@
   "added": "2026-11-07T00:17:01Z",
   "dup_of": "29bba3c89545fee3",
   "dup_slug": "paraguay-president-impeached-after-resigning-amid-bank-collapse-29bba3",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79859242_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "25495e66a95b74dc",
@@ -15546,7 +15743,9 @@
   "added": "2026-11-06T20:32:22Z",
   "dup_of": "29bba3c89545fee3",
   "dup_slug": "paraguay-president-impeached-after-resigning-amid-bank-collapse-29bba3",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79873687_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "e4f448734a06aaa5",
@@ -15678,7 +15877,9 @@
   "added": "2026-11-06T20:32:42Z",
   "dup_of": "bf2e0fd7d6aeffd3",
   "dup_slug": "bomb-threats-disrupt-multiple-european-flights-all-land-safely-bf2e0f",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "c0641eb0de56205a",
@@ -16109,7 +16310,9 @@
   "added": "2026-11-06T20:33:06Z",
   "dup_of": "645b98c847a48d5f",
   "dup_slug": "tuchel-faces-squad-decisions-ahead-england-s-nations-league-645b98",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bce3/live/a576c690-d9ec-11f1-bbe5-797ee05bee69.jpg",
+  "img_checked": 2
  },
  {
   "id": "f8db21410a19a04e",
@@ -16956,7 +17159,9 @@
   "added": "2026-11-06T06:31:31Z",
   "dup_of": "29bba3c89545fee3",
   "dup_slug": "paraguay-president-impeached-after-resigning-amid-bank-collapse-29bba3",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a47323c79bca0033c8198a061b0824c5",
+  "img_checked": 2
  },
  {
   "id": "e3cb7a4059dddc69",
@@ -16970,7 +17175,9 @@
   "added": "2026-11-06T06:31:40Z",
   "dup_of": "64803e70f0a4d310",
   "dup_slug": "trumps-250foot-triumphal-arch-expected-win-federal-approval-thursday-64803e",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5722x3219+0+516/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fad%2F519ddb20452ca88d55aff277fc30%2Fgettyimages-2303244303.jpg",
+  "img_checked": 2
  },
  {
   "id": "7738513119a2525e",
@@ -17162,7 +17369,9 @@
   "added": "2026-11-06T06:32:04Z",
   "dup_of": "0c9cbd4df150e7b2",
   "dup_slug": "midterm-wins-anti-data-center-candidates-tighten-ai-hub-0c9cbd",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "4da0a601b9076e0a",
@@ -17520,7 +17729,9 @@
   "added": "2026-11-06T00:07:13Z",
   "dup_of": "ef66b94ce0de5327",
   "dup_slug": "diverse-new-wave-democrats-wins-seats-from-south-carolina-ef66b9",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/bce4d16194172ea30c2c9b3391b3adf7d6735573/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=52d8825c70459aaca4bc09b2a2a8ae2d",
+  "img_checked": 2
  },
  {
   "id": "6cb9709d0028d98c",
@@ -18258,7 +18469,9 @@
   "added": "2026-11-05T18:41:16Z",
   "dup_of": "ef66b94ce0de5327",
   "dup_slug": "diverse-new-wave-democrats-wins-seats-from-south-carolina-ef66b9",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "800fbaee76fedfb1",
@@ -19240,7 +19453,9 @@
   "added": "2026-11-05T10:44:21Z",
   "dup_of": "46d2f92392533470",
   "dup_slug": "nintendo-announces-switch-2-remake-zelda-ocarina-time-46d2f9",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_15_dce060.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+  "img_checked": 2
  },
  {
   "id": "bedbdbdbcf262f76",
@@ -19372,7 +19587,9 @@
   "added": "2026-11-05T02:44:56Z",
   "dup_of": "c6f96d4d723ddd38",
   "dup_slug": "musk-pac-s-47-million-boost-ken-paxton-falls-c6f96d",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/f5beb4426227616f86699d732ff704168d8ca0a1/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a81266298cbe968d0074a1f446018e8a",
+  "img_checked": 2
  },
  {
   "id": "1c7da4acfcdd25cb",
@@ -19656,7 +19873,9 @@
   "added": "2026-11-05T02:44:33Z",
   "dup_of": "7240ee344c610393",
   "dup_slug": "ossoff-warner-reelected-democrats-seek-senate-control-7240ee",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79850193_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "7f5a2e7845539490",
@@ -20346,7 +20565,9 @@
   "added": "2026-11-04T22:08:16Z",
   "dup_of": "2cddb55cf6229a90",
   "dup_slug": "us-midterms-could-shift-congressional-power-affect-ukraine-iran-2cddb5",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "7967eeb8c02e227a",
@@ -20664,7 +20885,9 @@
   "added": "2026-11-04T16:11:16Z",
   "dup_of": "9f8e9ab53c9798a1",
   "dup_slug": "us-midterms-2026-voters-decide-congress-amid-trump-agenda-9f8e9a",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/4df18077e6ef6dbd140ed398cd00e92926713dc6/312_0_4859_3888/master/4859.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=383f7f5660022356113de506590c7eeb",
+  "img_checked": 2
  },
  {
   "id": "c6f96d4d723ddd38",
@@ -21158,7 +21381,9 @@
   "added": "2026-11-04T07:57:35Z",
   "dup_of": "7240ee344c610393",
   "dup_slug": "ossoff-warner-reelected-democrats-seek-senate-control-7240ee",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79858456_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "ef66b94ce0de5327",
@@ -41341,69 +41566,17 @@
  },
  {
   "id": "1d859680790bd694",
-  "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
-  "source": "NPR",
-  "source_title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
-  "source_summary": "Brazil's opposition party accepts Lula's election victory, but Flávio Bolsonaro won't concede, while President Trump calls the vote \"rigged\" without offering evidence.",
-  "source_tags": [],
-  "category_hint": "world",
-  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5102x3401+0+0/resize/5102x3401!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F22%2F9ee7f26144c5b7a185360da6adb8%2Fap26299745358738.jpg",
-  "published": "2026-10-27T14:41:17+00:00",
-  "headline": "Bolsonaro Party Acknowledges Brazil Election Loss as Flávio Refuses to Concede",
-  "body": [
-   {
-    "type": "p",
-    "text": "Brazil's main opposition coalition formally recognized Luiz Inácio Lula da Silva's victory in the recent presidential election, ending the legal battle over the results."
-   },
-   {
-    "type": "p",
-    "text": "Despite the party's acceptance, Flávio Bolsonaro, son of former President Jair Bolsonaro and a leading figure in the party, publicly refused to concede, maintaining his criticism of the vote."
-   },
-   {
-    "type": "p",
-    "text": "In the United States, former President Donald Trump labeled the Brazilian election \"rigged\" but did not provide evidence to support the claim."
-   },
-   {
-    "type": "h2",
-    "text": "Why It Matters"
-   },
-   {
-    "type": "p",
-    "text": "The dispute highlights ongoing political polarization in Brazil and draws attention from U.S. leaders, potentially influencing diplomatic and trade relations."
-   }
-  ],
-  "key_points": [
-   "Brazil's opposition coalition accepted Lula's win, ending the contest over the election outcome.",
-   "Flávio Bolsonaro rejected the result, continuing to dispute the vote despite his party's acknowledgment.",
-   "Former U.S. President Donald Trump called the Brazilian election \"rigged\" without offering proof."
-  ],
-  "meta_description": "Brazil's opposition accepts Lula's win while Flávio Bolsonaro refuses to concede; Trump calls the vote rigged without evidence.",
-  "category": "politics",
-  "mode": "llm:groq",
-  "index": true,
-  "tags": [
-   "Brazil",
-   "election",
-   "Lula",
-   "Bolsonaro",
-   "Trump"
-  ],
   "slug": "bolsonaro-party-acknowledges-brazil-election-loss-flavio-refuses-concede-1d8596",
-  "reading_minutes": 1,
+  "headline": "Bolsonaro Party Acknowledges Brazil Election Loss as Flávio Refuses to Concede",
+  "source_title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
+  "source": "NPR",
+  "source_url": "https://www.npr.org/2026/10/27/nx-s1-6019217/bolsonaro-flavio-lula-brazil-election-trump",
+  "published": "2026-10-27T14:41:17+00:00",
+  "category": "politics",
   "added": "2026-10-27T14:52:50Z",
-  "sources": [
-   {
-    "source": "BBC News",
-    "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo",
-    "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami"
-   },
-   {
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-    "title": "Flávio Bolsonaro Lands in Miami After Fleeing Brazil"
-   }
-  ],
-  "updated": "2026-10-28T17:20:31Z"
+  "dup_of": "e189f9f1edbd35e2",
+  "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
+  "index": false
  },
  {
   "id": "97030c77df504008",
@@ -42836,53 +43009,17 @@
  },
  {
   "id": "77056fb56845d3c5",
-  "source_url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-  "source": "The Guardian",
-  "source_title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
-  "source_summary": "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second. What comes next for Brazil? The Guardian’s Tom Phillips will be answering your questions from 15:00 GMT today. Ask a question: log in or sign up here to comment, or email conversations@theguardian.com After losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva, better known simply as Lula, pulled off the most stunning political fightback in modern Brazilian history by winning the second, in so doing securing a fourth presidential term. It will see him become the country’s longest-serving leader. The result – 51.79% to Lula, 48.21% to Bolsonaro – was delivered after a supreme court judge had extended polling time by two hours, and after Lula’s camp accused their opponents of sabotaging public transport in an attempt to keep their voters from the polls. It was the first time in Brazilian electoral history that a first-round verdict had been overturned.",
-  "source_tags": [
-   "Brazil",
-   "Americas",
-   "World news"
-  ],
-  "category_hint": "world",
-  "image": "https://i.guim.co.uk/img/media/f7975b381e5fff70c5e117ef42e308e459969785/0_0_2000_1600/master/2000.jpg?width=700&quality=85&auto=format&fit=max&s=a4326cb9f19744b73452b12d4016c690",
-  "published": "2026-10-27T00:00:03+00:00",
-  "headline": "Lula Wins Brazil Runoff, Secures Fourth Term in Historic Comeback",
-  "body": [
-   {
-    "type": "p",
-    "text": "Incumbent President Luiz Inácio Lula da Silva reclaimed Brazil’s presidency after a dramatic second‑round victory, overturning his first‑round loss to far‑right challenger Flávio Bolsonaro. Lula secured 51.79% of the vote against Bolsonaro’s 48.21%, marking the first time in Brazilian electoral history that a first‑round result has been reversed."
-   },
-   {
-    "type": "p",
-    "text": "The runoff result was certified after a Supreme Court judge extended polling hours by two hours, a move that followed accusations from Lula’s camp that Bolsonaro supporters had sabotaged public transport to suppress voter turnout. The win grants Lula a fourth term, making him the longest‑serving leader in the nation’s modern history."
-   },
-   {
-    "type": "p",
-    "text": "The outcome signals a significant political shift, as Lula’s return promises continuity of his previous policies while confronting the challenges posed by a polarized electorate and the far‑right opposition."
-   }
-  ],
-  "key_points": [
-   "Lula defeated Flávio Bolsonaro in Brazil’s runoff with 51.79% of the vote.",
-   "A Supreme Court judge added two hours to polling, and Lula’s team alleged transport sabotage.",
-   "The victory gives Lula a fourth term, making him Brazil’s longest‑serving president."
-  ],
-  "meta_description": "Lula wins Brazil's runoff with 51.79%, securing a fourth term and becoming the country's longest‑serving president.",
-  "category": "politics",
-  "mode": "llm:groq",
-  "index": true,
-  "tags": [
-   "Brazil",
-   "Lula",
-   "Bolsonaro",
-   "election",
-   "runoff",
-   "politics"
-  ],
   "slug": "lula-wins-brazil-runoff-secures-fourth-term-historic-comeback-77056f",
-  "reading_minutes": 1,
-  "added": "2026-10-27T02:23:34Z"
+  "headline": "Lula Wins Brazil Runoff, Secures Fourth Term in Historic Comeback",
+  "source_title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+  "source": "The Guardian",
+  "source_url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+  "published": "2026-10-27T00:00:03+00:00",
+  "category": "politics",
+  "added": "2026-10-27T02:23:34Z",
+  "dup_of": "e189f9f1edbd35e2",
+  "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
+  "index": false
  },
  {
   "id": "bba291662c45fb8c",
@@ -73901,55 +74038,17 @@
  },
  {
   "id": "64e163149c7b1f94",
-  "source_url": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
-  "source": "DW",
-  "source_title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'",
-  "source_summary": "US President Donald Trump again accused Ukrainian President Volodymyr Zelenskyy of not wanting to end the war. The remarks come amid renewed tensions over US policy toward Moscow including waiving some sanctions.",
-  "source_tags": [
-   "News"
-  ],
-  "category_hint": "world",
-  "image": "https://static.dw.com/image/79686258_6.jpg",
-  "published": "2026-10-19T00:26:00+00:00",
-  "headline": "Trump Defends Russia Sanctions Waivers, Blames Zelenskyy",
-  "body": [
-   {
-    "type": "p",
-    "text": "President Donald Trump reiterated his criticism of Ukrainian President Volodymyr Zelenskyy, saying the Ukrainian leader does not want the war to end. Trump made the comments as the United States faces renewed debate over its approach to Russia, including recent waivers of certain sanctions aimed at Moscow."
-   },
-   {
-    "type": "p",
-    "text": "The president defended the decision to grant sanctions waivers, arguing they serve U.S. interests, while accusing Zelenskyy of actions that \"prolong the war.\" The remarks highlight growing tension within the administration and among allies about how to balance pressure on Russia with support for Ukraine."
-   },
-   {
-    "type": "h2",
-    "text": "Why It Matters"
-   },
-   {
-    "type": "p",
-    "text": "The dispute reflects broader U.S. and European challenges in coordinating sanctions and aid to Ukraine amid the ongoing war."
-   }
-  ],
-  "key_points": [
-   "Trump defended recent waivers of Russian sanctions while accusing Zelenskyy of extending the conflict.",
-   "The comments underscore internal U.S. disagreements over policy toward Russia and Ukraine."
-  ],
-  "meta_description": "Trump backs Russia sanctions waivers and blames Zelenskyy for prolonging the war, sparking policy tension.",
-  "category": "politics",
-  "mode": "llm:groq",
-  "index": true,
-  "tags": [
-   "Trump",
-   "Zelenskyy",
-   "sanctions",
-   "Russia",
-   "Ukraine",
-   "US policy"
-  ],
   "slug": "trump-defends-russia-sanctions-waivers-blames-zelenskyy-64e163",
-  "reading_minutes": 1,
-  "img_checked": 2,
-  "added": "2026-10-19T05:13:39Z"
+  "headline": "Trump Defends Russia Sanctions Waivers, Blames Zelenskyy",
+  "source_title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'",
+  "source": "DW",
+  "source_url": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
+  "published": "2026-10-19T00:26:00+00:00",
+  "category": "politics",
+  "added": "2026-10-19T05:13:39Z",
+  "dup_of": "c6a52d96351faee4",
+  "dup_slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
+  "index": false
  },
  {
   "id": "e2ccbff6cf02fec4",
