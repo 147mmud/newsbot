@@ -13,7 +13,7 @@ import sys
 import time
 
 import config
-from bot import fetcher, processor, store
+from bot import cluster, fetcher, processor, store
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)-7s %(name)-10s %(message)s")
 log = logging.getLogger("main")
@@ -30,6 +30,29 @@ def absorb(existing: dict, item: dict, now_iso: str) -> int:
         log.info("MERGED into '%s' <- %s: %s", existing["headline"][:50], item["source"], item["source_title"][:60])
         return 1
     return 0
+
+
+KEEP = ("id", "slug", "headline", "source_title", "source", "source_url", "published", "category", "added")
+
+
+def retire_duplicates(articles: list[dict]) -> int:
+    """Delete the content of pages that repeat another story; keep a tiny stub so the old URL
+    redirects to the original and the same report is never added again."""
+    live = [a for a in articles if not a.get("dup_of")]
+    _, dup_of = cluster.split(live, universe=articles)
+    n = 0
+    for a in live:
+        t = dup_of.get(a["id"])
+        if not t:
+            continue
+        absorb(t, {"source": a["source"], "source_url": a["source_url"], "source_title": a.get("source_title", a["headline"])},
+               a.get("added", a["published"]))
+        stub = {k: a[k] for k in KEEP if k in a}
+        stub.update(dup_of=t["id"], dup_slug=t["slug"], index=False)
+        a.clear()
+        a.update(stub)
+        n += 1
+    return n
 
 
 def run(args) -> int:
@@ -114,6 +137,10 @@ def run(args) -> int:
         log.info("Trends: %d articles matched trending terms", trends.enrich(articles))
     except Exception as exc:
         log.warning("Trends skipped: %s", exc)
+    try:
+        log.info("Retired %d duplicate pages (redirect stubs kept)", retire_duplicates(articles))
+    except Exception as exc:
+        log.warning("Duplicate cleanup skipped: %s", exc)
     store.save(articles)
     log.info("Added %d new articles (total %d)", len(new), len(articles))
 
