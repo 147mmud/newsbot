@@ -118,20 +118,25 @@ def build(articles: list[dict], with_scores: bool = True) -> None:
     # One story = one page: near-identical reports collapse into the earliest page,
     # the rest become redirect stubs (kept out of lists, search, sitemaps and feeds).
     all_articles = articles
-    articles, dup_of = cluster.split(all_articles)
-    log.info("Stories: %d pages, %d duplicates redirected", len(articles), len(dup_of))
+    live_all = [a for a in all_articles if not a.get("dup_of")]
+    articles, dup_of = cluster.split(live_all, universe=all_articles)
+    by_slug = {a["slug"]: a for a in articles}
+    redirects = {}                                        # old slug -> canonical article
     for a in all_articles:
+        if a.get("dup_of") and a.get("dup_slug") in by_slug:
+            redirects[a["slug"]] = by_slug[a["dup_slug"]]
+    for a in live_all:
         t = dup_of.get(a["id"])
         if t:
-            target = abs_url(f"news/{t['slug']}/")
-            _write(OUT / "news" / a["slug"] / "index.html",
-                   '<!doctype html><html lang="en"><head><meta charset="utf-8">'
-                   f'<title>{escape(t["headline"])}</title><link rel="canonical" href="{escape(target)}">'
-                   f'<meta http-equiv="refresh" content="0;url={escape(target)}"></head>'
-                   f'<body><p>This story has moved: <a href="{escape(target)}">{escape(t["headline"])}</a></p></body></html>')
-    for key_file in (ROOT / "static").glob("*.txt"):      # IndexNow key must live at the site root
-        shutil.copy(key_file, OUT / key_file.name)
-
+            redirects[a["slug"]] = t
+    log.info("Stories: %d pages, %d duplicates redirected", len(articles), len(redirects))
+    for slug, t in redirects.items():
+        target = abs_url(f"news/{t['slug']}/")
+        _write(OUT / "news" / slug / "index.html",
+               '<!doctype html><html lang="en"><head><meta charset="utf-8">'
+               f'<title>{escape(t["headline"])}</title><link rel="canonical" href="{escape(target)}">'
+               f'<meta http-equiv="refresh" content="0;url={escape(target)}"></head>'
+               f'<body><p>This story has moved: <a href="{escape(target)}">{escape(t["headline"])}</a></p></body></html>')
     # Listings (home, sections, related, trending) only show stories that have
     # a real photo; stories without one still get their own page + sitemap entry.
     listed = [a for a in articles if a.get("image") and not fetcher.is_bad_image(a["image"])] \

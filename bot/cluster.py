@@ -102,9 +102,9 @@ class Matcher:
         return who
 
 
-def split(articles: list[dict]):
+def split(articles: list[dict], universe: list[dict] | None = None):
     """-> (canonical articles in original order, {duplicate_id: canonical_article})."""
-    m = Matcher(articles)
+    m = Matcher(universe if universe is not None else articles)   # word rarity measured on every page ever kept (stable)
     order = sorted(articles, key=when)                  # oldest first
     canon, dup_of, recent, counts = [], {}, [], Counter()                  # recent: [(prepped, article)]
     for a in order:

@@ -120,7 +120,7 @@ def enrich(articles: list[dict], hours: int = 24) -> int:
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
     todo = []
     for a in articles:
-        if "trends" in a:
+        if "trends" in a or a.get("dup_of"):
             continue
         try:
             if datetime.fromisoformat(a["published"].replace("Z", "+00:00")) < cutoff:
