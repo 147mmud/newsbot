@@ -1,5 +1,116 @@
 [
  {
+  "id": "020f9500556b6f7e",
+  "source_url": "https://www.dw.com/en/iran-s-growing-exodus-of-young-talent/a-79960368?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Iran's growing exodus of young talent",
+  "source_summary": "Conflict and uncertainty are driving more and more educated young Iranians to consider leaving the country.",
+  "source_tags": [
+   "World"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/59789896_6.jpg",
+  "published": "2026-11-16T16:08:00+00:00",
+  "headline": "Iran’s Conflict and Uncertainty Prompt Exodus of Educated Youth",
+  "body": [
+   {
+    "type": "p",
+    "text": "A growing number of educated young Iranians are weighing the prospect of leaving their country, driven by ongoing conflict and a climate of uncertainty. The trend reflects a widening sense of instability that is influencing personal and professional decisions among the nation’s most skilled younger generation."
+   },
+   {
+    "type": "p",
+    "text": "The exodus is described as a “growing” phenomenon, indicating that the number of potential emigrants is increasing over time. While specific destinations are not detailed, the pattern suggests a broader regional or international movement of talent seeking more secure environments."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the departure of these young professionals could have long‑term implications for Iran’s economic and social development, as the loss of educated individuals may affect the country’s capacity to innovate and rebuild amid persistent challenges."
+   }
+  ],
+  "key_points": [
+   "Conflict and uncertainty in Iran are prompting more educated young people to consider emigration.",
+   "The trend is described as a growing exodus of talent from the country.",
+   "Potential departure of skilled youth may impact Iran’s future development."
+  ],
+  "meta_description": "Conflict and uncertainty are driving an increasing number of educated young Iranians to consider leaving the country, signaling a growing talent exodus.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Iran",
+   "brain drain",
+   "youth migration",
+   "conflict",
+   "education"
+  ],
+  "slug": "irans-conflict-uncertainty-prompt-exodus-educated-youth-020f95",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-16T16:15:26Z",
+  "trends": []
+ },
+ {
+  "id": "6df19d4445d12f29",
+  "source_url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+  "source": "TechCrunch",
+  "source_title": "Serena Williams winds down her VC firm, launches new fund, targets $200M",
+  "source_summary": "Serena Williams and long time business partner Beth Ferreira announced Monday the launch of an early stage firm called Starfire Ventures.",
+  "source_tags": [
+   "Venture",
+   "Serena Williams"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301975852.jpg?w=1024",
+  "published": "2026-11-16T16:06:30+00:00",
+  "headline": "Serena Williams and Beth Ferreira Launch Starfire Ventures Targeting $200M",
+  "body": [
+   {
+    "type": "p",
+    "text": "Tennis legend Serena Williams and longtime business partner Beth Ferreira announced on Monday the creation of a new early‑stage venture capital firm called Starfire Ventures. The duo said the firm will focus on investing in emerging companies across a range of sectors."
+   },
+   {
+    "type": "p",
+    "text": "The announcement comes as Williams winds down her previous VC vehicle, shifting resources and attention to the newly formed Starfire Ventures. The partners said the new fund aims to raise approximately $200 million to support startups in their seed and Series A rounds."
+   },
+   {
+    "type": "p",
+    "text": "While details on the fund’s investment thesis were not disclosed, Williams and Ferreira highlighted their intent to leverage their networks and experience to help founders scale. The launch was made public through a press release and shared on social media platforms."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that Williams’ continued involvement in venture capital underscores the growing trend of high‑profile athletes entering the tech investment space. The $200 million target places Starfire Ventures among the larger early‑stage funds seeking to back innovative companies."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The fund adds significant capital to the early‑stage ecosystem, offering U.S. and European investors another source of backing for high‑growth startups."
+   }
+  ],
+  "key_points": [
+   "Serena Williams and Beth Ferreira launched early‑stage VC firm Starfire Ventures.",
+   "The new fund aims to raise about $200 million for seed and Series A investments.",
+   "Williams is winding down her previous venture capital firm as she shifts focus to Starfire."
+  ],
+  "meta_description": "Serena Williams and Beth Ferreira launch Starfire Ventures, an early‑stage VC fund targeting $200 million, as Williams winds down her prior firm.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Serena Williams",
+   "venture capital",
+   "Starfire Ventures",
+   "Beth Ferreira",
+   "startup funding"
+  ],
+  "slug": "serena-williams-beth-ferreira-launch-starfire-ventures-targeting-200m-6df19d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-16T16:15:29Z",
+  "trends": []
+ },
+ {
   "id": "4a4854872af7be9c",
   "source_url": "https://www.bbc.co.uk/news/articles/cq8j4yn1vjymo",
   "source": "BBC News",
@@ -59979,7 +60090,9 @@
   "added": "2026-10-22T19:27:43Z",
   "dup_of": "bf680081019e9261",
   "dup_slug": "federal-judge-halts-dhs-voter-fraud-field-interviews-nine-bf6800",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+286/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2F62%2F92593bf2437cb45b7aa4fd9393d3%2Fgettyimages-2278767542.jpg",
+  "img_checked": 2
  },
  {
   "id": "1b0ac5d8afd08637",
@@ -60282,7 +60395,9 @@
   "added": "2026-10-22T19:28:12Z",
   "dup_of": "8d0c91607e727366",
   "dup_slug": "meta-restructures-stock-aid-zuckerberg-against-california-wealth-tax-8d0c91",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
+  "img_checked": 2
  },
  {
   "id": "7adabf8857b29b63",
@@ -61089,7 +61204,9 @@
   "added": "2026-10-22T15:36:48Z",
   "dup_of": "7bf42add1baba77c",
   "dup_slug": "australia-brink-defeat-second-test-against-south-africa-7bf42a",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/055c/live/5a880f40-ce39-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "5970a54614a3907d",
@@ -61346,7 +61463,9 @@
   "added": "2026-10-22T10:34:33Z",
   "dup_of": "008d7322ad26dcaa",
   "dup_slug": "russia-says-it-ready-resume-talks-with-ukraine-u-008d73",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/369ecb74e3157beaae2c4399ccb4727967eafd28/206_83_6682_5346/master/6682.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db79c4622165b6e24031238edab08dba",
+  "img_checked": 2
  },
  {
   "id": "985e951ed9a901e0",
@@ -61475,7 +61594,9 @@
   "added": "2026-10-22T10:34:41Z",
   "dup_of": "bfba6319bd21ee9e",
   "dup_slug": "paddy-power-slashes-1-400-jobs-citing-new-betting-bfba63",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8549/live/51056ff0-ce37-11f1-9a39-31b474234113.jpg",
+  "img_checked": 2
  },
  {
   "id": "12f88bc508f0a992",
@@ -61698,7 +61819,9 @@
   "added": "2026-10-22T05:19:49Z",
   "dup_of": "b2917dd007e79a8e",
   "dup_slug": "ai-discovery-php-flaws-sparks-worldwide-cybersecurity-response-b2917d",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f340/live/eba975d0-cdcc-11f1-bd0d-75577ccf219c.jpg",
+  "img_checked": 2
  },
  {
   "id": "4e58e0f32884ba73",
@@ -61777,7 +61900,9 @@
   "added": "2026-10-22T05:20:10Z",
   "dup_of": "008d7322ad26dcaa",
   "dup_slug": "russia-says-it-ready-resume-talks-with-ukraine-u-008d73",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79727535_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "e891ee3bd43815a2",
@@ -62533,7 +62658,9 @@
   "added": "2026-10-22T00:37:06Z",
   "dup_of": "0846771c76415496",
   "dup_slug": "pope-declared-cancer-free-after-successful-lung-surgery-084677",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79720855_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "8d0e217e826a7d5c",
@@ -62769,7 +62896,9 @@
   "added": "2026-10-22T00:37:21Z",
   "dup_of": "35844c0074212ce3",
   "dup_slug": "france-protests-highlight-growing-youth-shift-populist-parties-europe-35844c",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/67678897_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "d3dd8e84a087f16b",
@@ -62835,7 +62964,9 @@
   "added": "2026-10-22T00:37:40Z",
   "dup_of": "58fea97a0d5e6d19",
   "dup_slug": "putin-frees-american-prisoner-during-meeting-with-trump-envoy-58fea9",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "86bbef590f282368",
@@ -63176,7 +63307,9 @@
   "added": "2026-10-21T21:57:25Z",
   "dup_of": "954ba61da6d3c686",
   "dup_slug": "spacex-tesla-boards-create-independent-review-committees-954ba6",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "077101b507206f50",
@@ -63244,7 +63377,9 @@
   "added": "2026-10-21T21:57:45Z",
   "dup_of": "97ddca94dfcfaffc",
   "dup_slug": "united-airlines-cuts-2026-profit-outlook-fuel-costs-bookings-97ddca",
-  "index": false
+  "index": false,
+  "image": "https://image.cnbcfm.com/api/v1/image/108313063-1779968970407-gettyimages-2277877363-260527_san_137.jpeg?v=1792016572&w=1920&h=1080",
+  "img_checked": 2
  },
  {
   "id": "44ccc961b1b60b48",
@@ -64427,7 +64562,9 @@
   "added": "2026-10-21T13:10:31Z",
   "dup_of": "9e8e1246338378da",
   "dup_slug": "us-envoy-steve-witkoff-visits-st-petersburg-after-norway-9e8e12",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c89/live/33b50660-cd77-11f1-bbdb-c39c91930f26.jpg",
+  "img_checked": 2
  },
  {
   "id": "bd75c088ee6fbae0",
@@ -64566,7 +64703,9 @@
   "added": "2026-10-21T13:11:02Z",
   "dup_of": "ebb25c71fbd771db",
   "dup_slug": "wall-street-awaits-musks-potential-spacextesla-deal-ahead-earnings-ebb25c",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "6af4ed1b28989319",
@@ -64691,7 +64830,9 @@
   "added": "2026-10-21T13:11:01Z",
   "dup_of": "4ec5caee751891ba",
   "dup_slug": "la-county-says-doj-noncitizen-voter-list-unreliable-after-4ec5ca",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4850x2728+0+252/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F2c%2F463f93e447fabeff7a98c433569b%2Fgettyimages-2299327153.jpg",
+  "img_checked": 2
  },
  {
   "id": "8ab1e4d4df11a2a6",
@@ -64750,7 +64891,9 @@
   "added": "2026-10-21T07:29:00Z",
   "dup_of": "af8168b8c3f847c0",
   "dup_slug": "britain-approves-new-north-sea-gas-drilling-project-jackdaw-af8168",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/74c4/live/9aad62c0-cd2e-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "a1ed71456c66480c",
@@ -64942,7 +65085,9 @@
   "added": "2026-10-21T07:29:06Z",
   "dup_of": "ebb25c71fbd771db",
   "dup_slug": "wall-street-awaits-musks-potential-spacextesla-deal-ahead-earnings-ebb25c",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png",
+  "img_checked": 2
  },
  {
   "id": "e9a85fc36b3b4e02",
@@ -65495,7 +65640,9 @@
   "added": "2026-10-21T01:58:10Z",
   "dup_of": "b27251a7b5716165",
   "dup_slug": "zelensky-meets-us-envoys-oslo-amid-rubio-s-intelligence-b27251",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "2d4da907ab82988e",
@@ -65573,7 +65720,9 @@
   "added": "2026-10-21T01:58:06Z",
   "dup_of": "869a10547f604f23",
   "dup_slug": "nigeria-confirms-first-ebola-case-abuja-linked-ugandan-traveler-869a10",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/cc9a6ec270dac6b02b8ff0b829657c9fed193c1b/671_0_4033_3227/master/4033.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=85b9f5f0c8fc151f39b636cc7e3f6168",
+  "img_checked": 2
  },
  {
   "id": "325360ba161d347e",
@@ -66215,7 +66364,9 @@
   "added": "2026-10-20T22:48:54Z",
   "dup_of": "1ff2b71fa9c054c7",
   "dup_slug": "elon-musk-announces-plan-gift-spacex-shares-every-american-1ff2b7",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+  "img_checked": 2
  },
  {
   "id": "2856d5c14e030ec6",
@@ -66348,7 +66499,9 @@
   "added": "2026-10-20T22:49:21Z",
   "dup_of": "f44baaa9161e1dfe",
   "dup_slug": "spacex-posts-161-revenue-jump-14-6b-ai-connectivity-f44baa",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "4aa40e70d863c2fc",
@@ -67602,7 +67755,9 @@
   "added": "2026-10-20T20:29:16Z",
   "dup_of": "7df59247ffc89c38",
   "dup_slug": "faa-grants-certification-boeings-largest-737-max-10-jet-7df592",
-  "index": false
+  "index": false,
+  "image": "https://image.cnbcfm.com/api/v1/image/107256667-1686758918936-gettyimages-1241994057-farnborough_airshow-22-18-07-2022.jpeg?v=1690473506&w=1920&h=1080",
+  "img_checked": 2
  },
  {
   "id": "7df59247ffc89c38",
@@ -67688,7 +67843,9 @@
   "added": "2026-10-20T20:28:55Z",
   "dup_of": "b27251a7b5716165",
   "dup_slug": "zelensky-meets-us-envoys-oslo-amid-rubio-s-intelligence-b27251",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cae/live/985a2c50-cd20-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "524d17dbf476c43f",
@@ -67912,7 +68069,9 @@
   "added": "2026-10-20T16:50:22Z",
   "dup_of": "2485a1df2f4de8f6",
   "dup_slug": "ukraine-accuses-u-s-cutting-off-starshield-satellite-service-2485a1",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "9b712c93570145b1",
@@ -68609,7 +68768,9 @@
   "added": "2026-10-20T12:02:22Z",
   "dup_of": "8c9c53ded81e43a3",
   "dup_slug": "google-reports-cloud-disruptions-across-europe-region-monday-8c9c53",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-Podcast-Memberships.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "bfba6319bd21ee9e",
@@ -68685,7 +68846,9 @@
   "added": "2026-10-20T12:02:02Z",
   "dup_of": "3d554af9f25325ae",
   "dup_slug": "saudi-arabia-sends-kingdom-center-staff-home-over-houthi-3d554a",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a4e/live/0b27de20-cc78-11f1-baeb-8d65d4bcd7ab.jpg",
+  "img_checked": 2
  },
  {
   "id": "a021a26c7dd7c3a4",
@@ -69176,7 +69339,9 @@
   "added": "2026-10-20T10:18:17Z",
   "dup_of": "813fdc139e0bbeac",
   "dup_slug": "republicans-pour-record-cash-into-senate-races-outspending-democrats-813fdc",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/eb2979a9b3fdfcc56cbe6661450a944c5a53d535/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c72eecdfa4d01196cee9a50218f0c226",
+  "img_checked": 2
  },
  {
   "id": "78dd3677f6b5d1f6",
@@ -69491,7 +69656,9 @@
   "added": "2026-10-20T09:50:52Z",
   "dup_of": "ba105382ed87b53b",
   "dup_slug": "alberta-voters-reject-independence-push-uphold-canadian-unity-ba1053",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/24436e30051721c8fa0489c283150fc4b439b60a/334_0_3331_2666/master/3331.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91cd2bd97a6c909f5c3923aa377bca8f",
+  "img_checked": 2
  },
  {
   "id": "ec67d89b8b3ed971",
@@ -69505,7 +69672,9 @@
   "added": "2026-10-20T09:50:56Z",
   "dup_of": "813fdc139e0bbeac",
   "dup_slug": "republicans-pour-record-cash-into-senate-races-outspending-democrats-813fdc",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "322e34d1716039d3",
@@ -70455,7 +70624,9 @@
   "added": "2026-10-20T10:18:36Z",
   "dup_of": "ba105382ed87b53b",
   "dup_slug": "alberta-voters-reject-independence-push-uphold-canadian-unity-ba1053",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "ca656d75d61907bb",
@@ -70853,7 +71024,9 @@
   "added": "2026-10-20T06:31:50Z",
   "dup_of": "ba105382ed87b53b",
   "dup_slug": "alberta-voters-reject-independence-push-uphold-canadian-unity-ba1053",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79709560_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "ba105382ed87b53b",
@@ -71102,7 +71275,9 @@
   "added": "2026-10-20T10:18:56Z",
   "dup_of": "6ce8d55f576332f7",
   "dup_slug": "microsoft-withdraws-from-uk-s-largest-planned-ai-data-6ce8d5",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "83412812302cf17b",
@@ -71289,7 +71464,9 @@
   "added": "2026-10-20T06:31:58Z",
   "dup_of": "d37be34335120dc2",
   "dup_slug": "court-filing-says-ex-openai-employee-had-saudi-backing-d37be3",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "fe8618e7ca148fc4",
@@ -72054,7 +72231,9 @@
   "added": "2026-10-20T01:13:49Z",
   "dup_of": "3bd4a10ac85d6f64",
   "dup_slug": "deportation-protections-remain-ukrainian-sudanese-migrants-3bd4a1",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/9bd27b70fe701104ae96a61f3b5d9b87bdb4e4b4/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22eefb2f771c01cc792902e0903077f5",
+  "img_checked": 2
  },
  {
   "id": "a0da66b5315021c3",
@@ -72316,7 +72495,9 @@
   "added": "2026-10-19T22:17:35Z",
   "dup_of": "214775273f2c610d",
   "dup_slug": "trump-proposes-fourweek-overhaul-d-c-s-east-potomac-214775",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x4608+0+428/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F8a%2Fe31e842f41f2ba10f448583c2776%2Fgettyimages-2300870866.jpg",
+  "img_checked": 2
  },
  {
   "id": "70e71748c9bd3643",
@@ -72384,7 +72565,9 @@
   "added": "2026-10-19T22:17:49Z",
   "dup_of": "588cd184f2db3117",
   "dup_slug": "doj-arrests-28-california-green-card-holders-over-noncitizen-588cd1",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "50c115309d98a51f",
@@ -74257,7 +74440,9 @@
   "added": "2026-10-19T05:13:10Z",
   "dup_of": "9c1c8207c79892d2",
   "dup_slug": "debt-strains-coreweave-oracle-softbank-signal-data-center-risks-9c1c82",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "172f1677048c0ee3",
@@ -74529,7 +74714,9 @@
   "added": "2026-10-19T05:13:30Z",
   "dup_of": "fc8318609dfba872",
   "dup_slug": "white-house-defends-press-secretary-amid-bar-registration-questions-fc8318",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4597x2586+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2F88%2Fe01714b14c92b04ca175755c5462%2Fap26286502696919.jpg",
+  "img_checked": 2
  },
  {
   "id": "64e163149c7b1f94",
@@ -74543,7 +74730,9 @@
   "added": "2026-10-19T05:13:39Z",
   "dup_of": "c6a52d96351faee4",
   "dup_slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79686258_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "e2ccbff6cf02fec4",
@@ -74663,7 +74852,9 @@
   "added": "2026-10-19T00:08:17Z",
   "dup_of": "c6a52d96351faee4",
   "dup_slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "fc2fd78fa19cf32d",
@@ -74677,7 +74868,9 @@
   "added": "2026-10-19T00:08:38Z",
   "dup_of": "d0f743ed4b35719b",
   "dup_slug": "canada-military-base-fire-sparks-serious-incident-pm-says-d0f743",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79692055_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "9f308b9c06a26bb1",
@@ -74797,7 +74990,9 @@
   "added": "2026-10-19T00:08:57Z",
   "dup_of": "c6a52d96351faee4",
   "dup_slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
+  "img_checked": 2
  },
  {
   "id": "8246dcf875909dbb",
@@ -74811,7 +75006,9 @@
   "added": "2026-10-19T05:13:50Z",
   "dup_of": "6e77ee804ab2ab8e",
   "dup_slug": "17-killed-dozens-injured-stampede-indian-religious-gathering-6e77ee",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e891/live/86ce21f0-cb34-11f1-9a39-31b474234113.jpg",
+  "img_checked": 2
  },
  {
   "id": "73ce7b1dab25a142",
@@ -74869,7 +75066,9 @@
   "added": "2026-10-19T00:08:29Z",
   "dup_of": "a464de5bf78a8416",
   "dup_slug": "ice-arrests-surge-among-individuals-with-no-criminal-record-a464de",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&strip=all&crop=0%2C10.735414032424%2C100%2C78.529171935151&w=1200",
+  "img_checked": 2
  },
  {
   "id": "944f39f3a671f7d8",
@@ -74883,7 +75082,9 @@
   "added": "2026-10-19T00:08:50Z",
   "dup_of": "214775273f2c610d",
   "dup_slug": "trump-proposes-fourweek-overhaul-d-c-s-east-potomac-214775",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/3ca631f85573f7d6dc2d7e98b67228c8b7f16fe0/1151_0_4715_3774/master/4715.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c64f5dc93818374069b9fd4245348296",
+  "img_checked": 2
  },
  {
   "id": "444e538032f96950",
@@ -74897,7 +75098,9 @@
   "added": "2026-10-18T21:20:31Z",
   "dup_of": "d0f743ed4b35719b",
   "dup_slug": "canada-military-base-fire-sparks-serious-incident-pm-says-d0f743",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
+  "img_checked": 2
  },
  {
   "id": "ab826f2c5be7c5f0",
@@ -75026,7 +75229,9 @@
   "added": "2026-10-18T21:20:35Z",
   "dup_of": "c6a52d96351faee4",
   "dup_slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "9759730f8b52f135",
@@ -75370,7 +75575,9 @@
   "added": "2026-10-18T21:21:00Z",
   "dup_of": "cb12f25905ce2419",
   "dup_slug": "trump-endorses-netanyahu-ahead-israels-oct-27-election-cb12f2",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "cdd5d0fe64cff999",
@@ -75854,7 +76061,9 @@
   "added": "2026-10-18T19:23:32Z",
   "dup_of": "0bda9656b1f3fc9f",
   "dup_slug": "reporter-uncovers-elizabeth-holmes-deceptions-nathan-fielder-documentary-0bda96",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+  "img_checked": 2
  },
  {
   "id": "753af9b499f38f46",
@@ -75978,7 +76187,9 @@
   "added": "2026-10-18T19:23:49Z",
   "dup_of": "13ef523ebaae6975",
   "dup_slug": "united-slip-sixth-straight-winless-game-after-leeds-draw-13ef52",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6f87/live/fe590f70-cb14-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "ab2f38f5e2b788bf",
@@ -76157,7 +76368,9 @@
   "added": "2026-10-18T19:23:53Z",
   "dup_of": "c9c02875c2fe36b5",
   "dup_slug": "trump-border-czar-says-administration-could-strip-ilhan-omar-c9c028",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "07bb6ae11a5dae7d",
@@ -76391,7 +76604,9 @@
   "added": "2026-10-18T19:24:09Z",
   "dup_of": "6e77ee804ab2ab8e",
   "dup_slug": "17-killed-dozens-injured-stampede-indian-religious-gathering-6e77ee",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "e55e7fdfe86dd710",
@@ -76405,7 +76620,9 @@
   "added": "2026-10-18T21:47:47Z",
   "dup_of": "d0f743ed4b35719b",
   "dup_slug": "canada-military-base-fire-sparks-serious-incident-pm-says-d0f743",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=271f64adc7ac5def6bec46e906fa8d42",
+  "img_checked": 2
  },
  {
   "id": "6cfdb5bf59d6d915",
@@ -76601,7 +76818,9 @@
   "added": "2026-10-18T21:36:15Z",
   "dup_of": "a0b37a78c129788b",
   "dup_slug": "israeli-settlers-assault-palestinians-damage-eu-car-west-bank-a0b37a",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/b9d822eea77ce4604c690c4a52244f9602ac7b1f/195_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf94e311d615b546e0026ccc90813da9",
+  "img_checked": 2
  },
  {
   "id": "6ce8d55f576332f7",
@@ -76805,7 +77024,9 @@
   "added": "2026-10-18T16:49:35Z",
   "dup_of": "a0b37a78c129788b",
   "dup_slug": "israeli-settlers-assault-palestinians-damage-eu-car-west-bank-a0b37a",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "6a083a36de897bf0",
@@ -77006,7 +77227,9 @@
   "added": "2026-10-18T16:49:47Z",
   "dup_of": "6979ac6f4e965f84",
   "dup_slug": "john-kirby-discusses-white-house-press-secretary-role-trump-6979ac",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/e50def8ae8511ad75607422fb5c86c53a794db80/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ca2bf05cdfb6c1c85cc9f57a83b7d4ca",
+  "img_checked": 2
  },
  {
   "id": "1dd35c909ebc4681",
@@ -77401,7 +77624,9 @@
   "added": "2026-10-18T21:48:31Z",
   "dup_of": "c4c3730905e364a7",
   "dup_slug": "egyptian-president-says-cairo-will-defend-saudi-arabia-if-c4c373",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "4f5bd0962d74287d",
@@ -77817,7 +78042,9 @@
   "added": "2026-10-18T13:10:52Z",
   "dup_of": "919da0ca97516054",
   "dup_slug": "pope-leo-xiv-urges-putin-halt-siege-oleshky-ukraine-919da0",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1919x1079+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2F4c%2F028622124a108d72e3827ab507f1%2Fap26291371602024.jpg",
+  "img_checked": 2
  },
  {
   "id": "d789cafd835fa1df",
@@ -78056,7 +78283,9 @@
   "added": "2026-10-18T13:11:12Z",
   "dup_of": "b0fc972daf283fa1",
   "dup_slug": "no-kings-protests-urge-early-voting-ahead-midterm-elections-b0fc97",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "6979ac6f4e965f84",
@@ -78668,7 +78897,9 @@
   "added": "2026-10-18T09:02:11Z",
   "dup_of": "2cc31e1edcbf7f0d",
   "dup_slug": "violent-protests-erupt-albania-over-kushner-linked-resort-project-2cc31e",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "ff60a66bba7b5eea",
