@@ -1,5 +1,138 @@
 [
  {
+  "id": "4a4854872af7be9c",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq8j4yn1vjymo",
+  "source": "BBC News",
+  "source_title": "Workers should get paid time off to train for crises, say peers",
+  "source_summary": "A House of Lords committee says more preparation is needed for war, power cuts, and cyber-attacks.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8b8/live/35b336a0-e11b-11f1-a7a2-7bb21fac8f0b.png",
+  "published": "2026-11-16T06:04:24+00:00",
+  "headline": "House of Lords Calls for Paid Crisis‑Training Leave for Workers",
+  "body": [
+   {
+    "type": "p",
+    "text": "A committee of the UK House of Lords has issued a report urging that employees be granted paid time off to train for emergencies. The recommendation targets preparation for scenarios such as war, widespread power outages and cyber‑attacks."
+   },
+   {
+    "type": "p",
+    "text": "The Lords panel argues that current readiness levels are insufficient and that systematic training would improve national resilience. It suggests that employers incorporate dedicated leave into contracts so staff can acquire the necessary skills without loss of income."
+   },
+   {
+    "type": "p",
+    "text": "The report, released on 16 November 2026, calls on both government and industry to adopt the proposal, emphasizing that a coordinated approach is essential for safeguarding critical infrastructure and public safety."
+   },
+   {
+    "type": "p",
+    "text": "While the committee did not detail implementation steps, it highlighted that paid training could become a standard part of employment terms across sectors, ensuring a workforce capable of responding to future crises."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Enhanced emergency training could help Western economies maintain critical services during conflicts or cyber incidents, a concern shared by the US and European nations."
+   }
+  ],
+  "key_points": [
+   "A UK House of Lords committee recommends paid leave for workers to train for war, power cuts and cyber‑attacks.",
+   "The report says current emergency preparedness is inadequate and calls for systematic training.",
+   "Employers are urged to embed crisis‑training leave into contracts to boost national resilience."
+  ],
+  "meta_description": "UK Lords committee urges paid leave for workers to train for war, power cuts and cyber‑attacks, calling for better national preparedness.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK",
+   "House of Lords",
+   "crisis training",
+   "paid leave",
+   "security",
+   "workforce"
+  ],
+  "slug": "house-lords-calls-paid-crisistraining-leave-workers-4a4854",
+  "reading_minutes": 1,
+  "added": "2026-11-16T06:16:38Z",
+  "trends": []
+ },
+ {
+  "id": "4128919762701c70",
+  "source_url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+  "source": "The New York Times",
+  "source_title": "Megaspeed Says Alice Huang Left Company in August 2025",
+  "source_summary": "The Singaporean company’s statement was its first to address the status of Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
+  "source_tags": [
+   "NVIDIA Corporation",
+   "Huang, Jen-Hsun",
+   "Megaspeed International Pte Ltd",
+   "Huang, Alice (Technology Executive)",
+   "Artificial Intelligence",
+   "Computer Chips",
+   "Adultery",
+   "China",
+   "Industrial Espionage",
+   "Espionage and Intelligence Services"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
+  "published": "2026-11-16T06:02:06+00:00",
+  "headline": "Megaspeed Confirms Former Exec Alice Huang Departed in August 2025",
+  "body": [
+   {
+    "type": "p",
+    "text": "Singapore-based Megaspeed issued a statement on Thursday confirming that former executive Alice Huang left the company in August 2025. The announcement marks the firm's first public comment on Ms. Huang's employment status after months of speculation."
+   },
+   {
+    "type": "p",
+    "text": "Ms. Huang, who previously held a senior role at Megaspeed, was known for her personal relationship with Jensen Huang, the chief executive of Nvidia. The connection drew attention from both industry observers and government officials."
+   },
+   {
+    "type": "p",
+    "text": "U.S. officials have alleged that Alice Huang was engaged in espionage activities on behalf of China. The allegations have not been formally charged, but they have intensified scrutiny of technology ties between Singapore, the United States, and China."
+   },
+   {
+    "type": "p",
+    "text": "Megaspeed's statement did not address the espionage claims, focusing solely on the timeline of Ms. Huang's departure. The company emphasized that it remains committed to compliance with all relevant security regulations."
+   },
+   {
+    "type": "p",
+    "text": "The revelation adds to ongoing concerns about foreign intelligence operations targeting high‑tech firms, especially those linked to prominent figures in the semiconductor sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case highlights heightened U.S. and European vigilance over potential Chinese espionage in the global technology supply chain."
+   }
+  ],
+  "key_points": [
+   "Megaspeed confirms Alice Huang left the company in August 2025.",
+   "Ms. Huang previously had a personal relationship with Nvidia CEO Jensen Huang.",
+   "U.S. officials allege she was spying for China, though no charges have been filed."
+  ],
+  "meta_description": "Megaspeed says former exec Alice Huang left in August 2025; U.S. officials allege she spied for China.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Megaspeed",
+   "Alice Huang",
+   "Nvidia",
+   "espionage",
+   "China",
+   "tech security"
+  ],
+  "slug": "megaspeed-confirms-former-exec-alice-huang-departed-august-2025-412891",
+  "reading_minutes": 1,
+  "added": "2026-11-16T06:16:42Z",
+  "trends": []
+ },
+ {
   "id": "fa232e2aaf8a1962",
   "source_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
   "source": "TechCrunch",
@@ -43161,7 +43294,9 @@
   "added": "2026-10-27T02:23:15Z",
   "dup_of": "658a40ed2174abd4",
   "dup_slug": "judge-says-doj-illegally-fired-maurene-comey-exfbi-directors-658a40",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79771300_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "543832a6d8326a90",
@@ -43233,7 +43368,9 @@
   "added": "2026-10-27T02:23:22Z",
   "dup_of": "e5398442eae1f082",
   "dup_slug": "venezuelan-opposition-leader-maria-corina-machado-returns-after-exile-e53984",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725c/live/634334d0-d1e9-11f1-b360-61fb5d34dc08.jpg",
+  "img_checked": 2
  },
  {
   "id": "29ebdec5eedb5529",
@@ -43247,7 +43384,9 @@
   "added": "2026-10-27T02:23:30Z",
   "dup_of": "496be01d2415b7d4",
   "dup_slug": "healey-proposes-tax-shield-lowincome-pensioners-budget-496be0",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
+  "img_checked": 2
  },
  {
   "id": "77056fb56845d3c5",
@@ -43261,7 +43400,9 @@
   "added": "2026-10-27T02:23:34Z",
   "dup_of": "e189f9f1edbd35e2",
   "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/f7975b381e5fff70c5e117ef42e308e459969785/0_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3146e4c326ba9a25ffb05fd9c3aca076",
+  "img_checked": 2
  },
  {
   "id": "bba291662c45fb8c",
@@ -43387,7 +43528,9 @@
   "added": "2026-10-26T23:18:04Z",
   "dup_of": "c59df339ef311a72",
   "dup_slug": "justice-department-seeks-appeals-court-help-block-california-mail-c59df3",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00dc-cali-appeal-vgzc/00dc-cali-appeal-vgzc-facebookJumbo-v2.jpg",
+  "img_checked": 2
  },
  {
   "id": "9e593cbe4d281348",
@@ -43454,7 +43597,9 @@
   "added": "2026-10-26T23:18:09Z",
   "dup_of": "1c28c174b0bd6705",
   "dup_slug": "harry-kane-emerges-clear-frontrunner-this-years-ballon-dor-1c28c1",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79771183_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "fc2b3fe9d518a9eb",
@@ -43529,7 +43674,9 @@
   "added": "2026-10-26T23:18:28Z",
   "dup_of": "e189f9f1edbd35e2",
   "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/0de4d058b50f7c1ef96360807b8a7d704ff3313e/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e39789a412717bcb0b233bfa8e01c81e",
+  "img_checked": 2
  },
  {
   "id": "7b349492b8abe9e9",
@@ -44282,7 +44429,9 @@
   "added": "2026-10-26T19:11:13Z",
   "dup_of": "acf02c7de9a8e47b",
   "dup_slug": "us-provides-ai-targeting-support-saudi-yemen-conflict-acf02c",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26int-egypt-3-jwpm/26int-egypt-3-jwpm-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "6c1a82d727893ac0",
@@ -44588,7 +44737,9 @@
   "added": "2026-10-26T12:48:22Z",
   "dup_of": "10946728aa117eed",
   "dup_slug": "uk-prime-minister-burnham-open-honest-debate-eu-free-109467",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bc4a/live/267093e0-d135-11f1-be77-d1864d279cb0.jpg",
+  "img_checked": 2
  },
  {
   "id": "7a4345e12ba2922c",
@@ -44718,7 +44869,9 @@
   "added": "2026-10-26T12:48:38Z",
   "dup_of": "e189f9f1edbd35e2",
   "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-brazil-election-wtk-promo-jvmh/25int-brazil-election-wtk-promo-jvmh-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "e088e48f01a5ccca",
@@ -44792,7 +44945,9 @@
   "added": "2026-10-26T12:48:58Z",
   "dup_of": "08c2854425f2c987",
   "dup_slug": "obama-rallies-abdul-elsayed-michigan-audi-plant-announcement-looms-08c285",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/a3a6bc9a255698ab87bc098f773be3825c3eeb14/132_0_4529_3625/master/4529.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=a6c265e854c2762503adc9833898bc8d",
+  "img_checked": 2
  },
  {
   "id": "8d2dc8a738fb5110",
@@ -45269,7 +45424,9 @@
   "added": "2026-10-26T06:00:53Z",
   "dup_of": "e189f9f1edbd35e2",
   "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79769653_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "461f69a40c55a1e0",
@@ -45456,7 +45613,9 @@
   "added": "2026-10-26T00:39:47Z",
   "dup_of": "e189f9f1edbd35e2",
   "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7690x4326+0+401/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6d%2F46%2F3b8586734e2997734a0ed801605d%2Fap26299000355395.jpg",
+  "img_checked": 2
  },
  {
   "id": "a46dd8f247370b7b",
@@ -45470,7 +45629,9 @@
   "added": "2026-10-26T00:40:03Z",
   "dup_of": "e189f9f1edbd35e2",
   "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26brazil-live-promo-1amET-qztf/26brazil-live-promo-1amET-qztf-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "5c8e7931e99b2428",
@@ -45537,7 +45698,9 @@
   "added": "2026-10-26T00:40:15Z",
   "dup_of": "e189f9f1edbd35e2",
   "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/12419465c89789c79295caff90cc2957feb4543c/512_0_3320_2656/master/3320.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e32293a3abd038488dbbb9d84056cce1",
+  "img_checked": 2
  },
  {
   "id": "eae5b860906f3c0c",
@@ -45605,7 +45768,9 @@
   "added": "2026-10-26T00:40:19Z",
   "dup_of": "e189f9f1edbd35e2",
   "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79769653_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "03e91b2dcb779b9c",
@@ -46043,7 +46208,9 @@
   "added": "2026-10-25T22:29:29Z",
   "dup_of": "8798303fc7b7c8a3",
   "dup_slug": "record-turnout-expected-serbia-election-students-target-vucic-879830",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg",
+  "img_checked": 2
  },
  {
   "id": "da114e8ce7c53566",
@@ -46128,7 +46295,9 @@
   "added": "2026-10-26T06:01:01Z",
   "dup_of": "acf02c7de9a8e47b",
   "dup_slug": "us-provides-ai-targeting-support-saudi-yemen-conflict-acf02c",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25int-saudi-airport-1-pqfm/25int-saudi-airport-1-pqfm-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "fd90da602ae8dd7d",
@@ -46142,7 +46311,9 @@
   "added": "2026-10-25T22:29:02Z",
   "dup_of": "a7d4534cd235a0a1",
   "dup_slug": "democratic-senate-candidate-talarico-blasts-elon-musk-texas-rally-a7d453",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/25/us/25pol-talarico-musk/25pol-talarico-musk-facebookJumbo-v2.png",
+  "img_checked": 2
  },
  {
   "id": "a6feae291b1a855a",
@@ -46262,7 +46433,9 @@
   "added": "2026-10-26T06:01:19Z",
   "dup_of": "e189f9f1edbd35e2",
   "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "727ad38d32ee9e95",
@@ -46334,7 +46507,9 @@
   "added": "2026-10-25T22:29:25Z",
   "dup_of": "b41cc3ce348d7061",
   "dup_slug": "alaska-senate-candidate-peltola-reschedules-stops-after-crash-b41cc3",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/c9ec35b18b3b7eea1144187cf87402bc680473f8/552_156_4389_3513/master/4389.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd7c7693228d6eed0c75b99c146fe6a9",
+  "img_checked": 2
  },
  {
   "id": "960d56865066c30c",
@@ -46833,7 +47008,9 @@
   "added": "2026-10-25T19:56:22Z",
   "dup_of": "545b7ee43d193adc",
   "dup_slug": "attorney-general-blanche-defends-doj-lawsuit-block-alaska-senate-545b7e",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25dc-trump-elections1-vcth/25dc-trump-elections1-vcth-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "17d78e32df9bd94f",
@@ -46961,7 +47138,9 @@
   "added": "2026-10-25T19:56:45Z",
   "dup_of": "e5398442eae1f082",
   "dup_slug": "venezuelan-opposition-leader-maria-corina-machado-returns-after-exile-e53984",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dcf/live/679d8fc0-d0a0-11f1-87fa-c1809f43a7a8.jpg",
+  "img_checked": 2
  },
  {
   "id": "da7581cf7ca68184",
@@ -47080,7 +47259,9 @@
   "added": "2026-10-25T19:56:50Z",
   "dup_of": "545b7ee43d193adc",
   "dup_slug": "attorney-general-blanche-defends-doj-lawsuit-block-alaska-senate-545b7e",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4247x2389+0+17/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F4f%2Ff29bb039483ea9e51572e8f660d8%2Fap26294709681244.jpg",
+  "img_checked": 2
  },
  {
   "id": "e528548a0fbd9fb3",
@@ -47094,7 +47275,9 @@
   "added": "2026-10-25T17:36:32Z",
   "dup_of": "e5398442eae1f082",
   "dup_slug": "venezuelan-opposition-leader-maria-corina-machado-returns-after-exile-e53984",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/b76716fc922183868270c55ef67ee72294490554/313_0_4560_3648/master/4560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cdfa0bc3b59eb2a1670022459854998b",
+  "img_checked": 2
  },
  {
   "id": "e02f1060fe12a9c9",
@@ -47168,7 +47351,9 @@
   "added": "2026-10-25T17:36:39Z",
   "dup_of": "2a8e2c9c87a813dc",
   "dup_slug": "carrick-s-united-job-threatened-after-bournemouth-defeat-2a8e2c",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/38c6/live/beb4dcd0-d093-11f1-b441-2b33b063138f.jpg",
+  "img_checked": 2
  },
  {
   "id": "0c010e6571678155",
@@ -47981,7 +48166,9 @@
   "added": "2026-10-25T13:54:00Z",
   "dup_of": "80e2963232be33dd",
   "dup_slug": "nigeria-kenya-ebola-patients-passed-through-uganda-airport-oct-80e296",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/60287067_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "d2f8191d8fa128d7",
@@ -47995,7 +48182,9 @@
   "added": "2026-10-25T13:53:44Z",
   "dup_of": "097a198d5d4af185",
   "dup_slug": "carrick-says-he-may-bench-fernandes-after-emotional-united-097a19",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c3b6/live/e92ed210-d0af-11f1-a701-fddedf244c16.jpg",
+  "img_checked": 2
  },
  {
   "id": "b366ba776fde8cd4",
@@ -49907,7 +50096,9 @@
   "added": "2026-10-25T04:30:18Z",
   "dup_of": "08c2854425f2c987",
   "dup_slug": "obama-rallies-abdul-elsayed-michigan-audi-plant-announcement-looms-08c285",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/bcf04be8e15098a7d07e4aa14bcc516999eb7ef1/233_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cf2fbe3e80043711d1efc5db83fafe3",
+  "img_checked": 2
  },
  {
   "id": "0733bab45c12c35d",
@@ -50317,7 +50508,9 @@
   "added": "2026-10-24T23:38:19Z",
   "dup_of": "c1113a7020d2867c",
   "dup_slug": "manchester-uniteds-managerial-turmoil-deepens-under-michael-carrick-c1113a",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/48e4/live/2d7fb690-cf94-11f1-878e-95f884e98e77.jpg",
+  "img_checked": 2
  },
  {
   "id": "0509c80e85fbace7",
@@ -50518,7 +50711,9 @@
   "added": "2026-10-24T21:32:09Z",
   "dup_of": "243bd4ec36812282",
   "dup_slug": "nearly-1-000-arrested-after-massive-protests-sweep-france-243bd4",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "74e6f302850b139a",
@@ -51146,7 +51341,9 @@
   "added": "2026-10-24T18:57:54Z",
   "dup_of": "c59df339ef311a72",
   "dup_slug": "justice-department-seeks-appeals-court-help-block-california-mail-c59df3",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24dc-trump-justice-topart-02-kjvw/24dc-trump-justice-topart-02-kjvw-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "25c2c85b0f3192ea",
@@ -51160,7 +51357,9 @@
   "added": "2026-10-24T18:58:02Z",
   "dup_of": "462bd9a0f845990b",
   "dup_slug": "brazil-election-runoff-highlights-evangelical-strongholds-role-462bd9",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/0ba994ba5bb361aee178bf93d77a0ef20ea9f1ee/407_0_4928_3943/master/4928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1988723b6b0684a11980fd1ef786a152",
+  "img_checked": 2
  },
  {
   "id": "6bd0cdff017f32e8",
@@ -51673,7 +51872,9 @@
   "added": "2026-10-24T16:12:37Z",
   "dup_of": "f490e9c8ed30cee3",
   "dup_slug": "block-unveils-dessa-ai-model-trained-solely-human-conversation-f490e9",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822",
+  "img_checked": 2
  },
  {
   "id": "7aa7087d5e806ea7",
@@ -52061,7 +52262,9 @@
   "added": "2026-10-24T16:13:09Z",
   "dup_of": "9ecaeb5e863007f7",
   "dup_slug": "verge-rates-iphone-duo-7-10-highlights-review-challenges-9ecaeb",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+  "img_checked": 2
  },
  {
   "id": "aaae882ab1b18e90",
@@ -52199,7 +52402,9 @@
   "added": "2026-10-24T16:13:05Z",
   "dup_of": "a7d4534cd235a0a1",
   "dup_slug": "democratic-senate-candidate-talarico-blasts-elon-musk-texas-rally-a7d453",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/11/01/magazine/01mag-interview-hinojosa-02/01mag-interview-hinojosa-02-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "0566fc330979a823",
@@ -52213,7 +52418,9 @@
   "added": "2026-10-24T23:38:40Z",
   "dup_of": "070fc8ca959fb2d4",
   "dup_slug": "trump-s-temporary-waiver-lets-major-polluters-skip-cleanair-070fc8",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb/00CLI-POLLUTION-EPA-TAKEAWAYS-glzb-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "070fc8ca959fb2d4",
@@ -52625,7 +52832,9 @@
   "added": "2026-10-24T12:12:11Z",
   "dup_of": "c0e79d37fc6fb2a8",
   "dup_slug": "israeli-soldiers-killed-palestinian-gunmen-attack-west-bank-c0e79d",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F54%2F65e65442429790eaf3f08a065edd%2Fap26296557878703.jpg",
+  "img_checked": 2
  },
  {
   "id": "8b223b49b5f67aba",
@@ -52639,7 +52848,9 @@
   "added": "2026-10-24T12:12:42Z",
   "dup_of": "c0e79d37fc6fb2a8",
   "dup_slug": "israeli-soldiers-killed-palestinian-gunmen-attack-west-bank-c0e79d",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-westbank-operation-01-hvzq/24int-westbank-operation-01-hvzq-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "2602740eb5a33621",
@@ -52706,7 +52917,9 @@
   "added": "2026-10-24T12:12:54Z",
   "dup_of": "8006443cbc11f869",
   "dup_slug": "ohio-governor-dewine-urges-ramaswamy-remove-controversial-campaign-ad-800644",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "e0cf85b4c2d3b5bc",
@@ -53031,7 +53244,9 @@
   "added": "2026-10-24T07:11:55Z",
   "dup_of": "57c8f42920b5125d",
   "dup_slug": "france-increase-police-deployment-ahead-anticipated-protests-57c8f4",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79751985_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "b3dfed1f3aa5c429",
@@ -53045,7 +53260,9 @@
   "added": "2026-10-24T07:12:06Z",
   "dup_of": "bf0719f7efa21e5b",
   "dup_slug": "france-bans-certain-protests-after-recent-riots-macron-says-bf0719",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f26/live/2a059180-cf74-11f1-aaa0-39a3560003e9.jpg",
+  "img_checked": 2
  },
  {
   "id": "5c898b852149709d",
@@ -53700,7 +53917,9 @@
   "added": "2026-10-23T23:25:59Z",
   "dup_of": "5e0b187c4df2f503",
   "dup_slug": "trump-officials-seek-block-senate-results-over-name-confusion-5e0b18",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23pol-onpolitics-newsletter-sullivan-bmfp/23pol-onpolitics-newsletter-sullivan-bmfp-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "5d9a6526c73983c1",
@@ -53773,7 +53992,9 @@
   "added": "2026-10-23T23:26:07Z",
   "dup_of": "f9113fa394af665d",
   "dup_slug": "openai-shifts-frontier-model-training-offline-environment-f9113f",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+  "img_checked": 2
  },
  {
   "id": "baa175376c6ed0ff",
@@ -53898,7 +54119,9 @@
   "added": "2026-10-24T01:55:59Z",
   "dup_of": "877f0dceea8eeb6d",
   "dup_slug": "justice-department-launches-inquiry-into-trump-ally-corey-lewandowski-877f0d",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-lewandowski-bzgt/23dc-lewandowski-bzgt-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "d4ce3a4d0bc7b7a2",
@@ -53912,7 +54135,9 @@
   "added": "2026-10-23T23:26:11Z",
   "dup_of": "57c8f42920b5125d",
   "dup_slug": "france-increase-police-deployment-ahead-anticipated-protests-57c8f4",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79737847_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "f782f2bc9618a504",
@@ -54166,7 +54391,9 @@
   "added": "2026-10-23T23:26:27Z",
   "dup_of": "80e2963232be33dd",
   "dup_slug": "nigeria-kenya-ebola-patients-passed-through-uganda-airport-oct-80e296",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79613787_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "7f7e2339ee67fd1e",
@@ -54292,7 +54519,9 @@
   "added": "2026-10-24T01:55:45Z",
   "dup_of": "73ecc8e75020598c",
   "dup_slug": "trump-grants-tariff-exemptions-select-canadian-products-ahead-election-73ecc8",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79729248_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "c1892955fa13633f",
@@ -54306,7 +54535,9 @@
   "added": "2026-10-24T01:56:03Z",
   "dup_of": "ddd68b4847051f0c",
   "dup_slug": "trump-appeals-supreme-court-resume-big-bend-border-wall-ddd68b",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23dc-immig-jbmk/23dc-immig-jbmk-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "9c7f8885b558b3d4",
@@ -54426,7 +54657,9 @@
   "added": "2026-10-23T20:20:15Z",
   "dup_of": "73ecc8e75020598c",
   "dup_slug": "trump-grants-tariff-exemptions-select-canadian-products-ahead-election-73ecc8",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=423d8482234c266deb79bec7f3662120",
+  "img_checked": 2
  },
  {
   "id": "5589793920531c42",
@@ -54440,7 +54673,9 @@
   "added": "2026-10-23T20:08:17Z",
   "dup_of": "063c29a16ff7723c",
   "dup_slug": "techcrunch-founder-summit-2026-set-boston-nov-4-063c29",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
+  "img_checked": 2
  },
  {
   "id": "73ecc8e75020598c",
@@ -54940,7 +55175,9 @@
   "added": "2026-10-23T20:08:49Z",
   "dup_of": "063c29a16ff7723c",
   "dup_slug": "techcrunch-founder-summit-2026-set-boston-nov-4-063c29",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+  "img_checked": 2
  },
  {
   "id": "895da49a496ad5ec",
@@ -55480,7 +55717,9 @@
   "added": "2026-10-23T18:21:59Z",
   "dup_of": "5e0b187c4df2f503",
   "dup_slug": "trump-officials-seek-block-senate-results-over-name-confusion-5e0b18",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/bdee892d1dc584f42952f78df20925461a3cbd97/617_0_4577_3663/master/4577.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b52ac8a976e3eda4898c449185a6e37c",
+  "img_checked": 2
  },
  {
   "id": "07c813bdfe47637c",
@@ -55494,7 +55733,9 @@
   "added": "2026-10-23T18:22:04Z",
   "dup_of": "c0e79d37fc6fb2a8",
   "dup_slug": "israeli-soldiers-killed-palestinian-gunmen-attack-west-bank-c0e79d",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-jordan-shooting-mkph/23int-jordan-shooting-mkph-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "caf375cd95fcd00f",
@@ -56329,7 +56570,9 @@
   "added": "2026-10-23T16:58:39Z",
   "dup_of": "ac5e98862ed52dfe",
   "dup_slug": "one-killed-four-injured-shooting-near-paris-antiterror-police-ac5e98",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd9e/live/bb37b200-cee8-11f1-b441-2b33b063138f.jpg",
+  "img_checked": 2
  },
  {
   "id": "14edf46e5af1fc29",
@@ -57887,7 +58130,9 @@
   "added": "2026-10-23T06:27:37Z",
   "dup_of": "b0b7ef6acd8e0a71",
   "dup_slug": "tibet-earthquake-kills-16-injures-dozens-strongest-5-years-b0b7ef",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "719c795a9e7e9cb6",
@@ -58401,7 +58646,9 @@
   "added": "2026-10-23T01:26:01Z",
   "dup_of": "877f0dceea8eeb6d",
   "dup_slug": "justice-department-launches-inquiry-into-trump-ally-corey-lewandowski-877f0d",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/27f1bec13236412c652ed0449df939e709dbf42c/695_0_3476_2781/master/3476.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e87e3c489f28fbcd1cbb4955b742e43",
+  "img_checked": 2
  },
  {
   "id": "3bc2714ae3055a55",
@@ -58650,7 +58897,9 @@
   "added": "2026-10-23T01:26:21Z",
   "dup_of": "8d0c91607e727366",
   "dup_slug": "meta-restructures-stock-aid-zuckerberg-against-california-wealth-tax-8d0c91",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+  "img_checked": 2
  },
  {
   "id": "b0b7ef6acd8e0a71",
@@ -59474,7 +59723,9 @@
   "added": "2026-10-22T22:42:39Z",
   "dup_of": "33c5d937e12b2d73",
   "dup_slug": "james-anderson-44-not-offered-new-lancashire-contract-33c5d9",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5e85/live/667f1180-ce5d-11f1-a166-e30097724580.jpg",
+  "img_checked": 2
  },
  {
   "id": "399032daa4f5fae7",
@@ -59488,7 +59739,9 @@
   "added": "2026-10-22T22:42:47Z",
   "dup_of": "a67f99a0a39f0755",
   "dup_slug": "cyber-chiefs-order-websites-patch-php-flaws-or-shut-a67f99",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22xp-PHP-fjtz/22xp-PHP-fjtz-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "3ad012ee8126d9a7",
