@@ -1,5 +1,127 @@
 [
  {
+  "id": "fa232e2aaf8a1962",
+  "source_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+  "source": "TechCrunch",
+  "source_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+  "source_summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+  "source_tags": [
+   "Startups",
+   "AI",
+   "Info edge",
+   "physical ai"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
+  "published": "2026-11-15T23:30:00+00:00",
+  "headline": "Indian Chip Startup Bharat Semi Raises $24M Seed, Wins AI Sensor Deals",
+  "body": [
+   {
+    "type": "p",
+    "text": "Bharat Semi, an Indian semiconductor startup, announced a $24 million seed financing round on November 15, 2026. The funding will support the company’s push into the global market for artificial‑intelligence‑enabled sensor technology."
+   },
+   {
+    "type": "p",
+    "text": "The round was raised from a group of investors whose identities were not disclosed in the announcement. Bharat Semi said the capital will be used to scale its chip design operations and accelerate product development for AI‑driven sensors."
+   },
+   {
+    "type": "p",
+    "text": "In parallel with the financing, the startup reported design wins with several customers, most notably defense contractor General Atomics. These agreements indicate early commercial traction for the company’s sensor solutions."
+   },
+   {
+    "type": "p",
+    "text": "Bharat Semi’s leadership highlighted the growing demand for AI‑powered sensors across industries such as aerospace, autonomous systems and industrial automation. The company aims to leverage its Indian base to compete with established chip makers worldwide."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the sizable seed round reflects investor confidence in India’s expanding semiconductor ecosystem and the broader market potential for AI‑enabled hardware."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "AI‑enabled sensors are critical for defense and autonomous technologies, sectors where U.S. and European firms are actively investing."
+   }
+  ],
+  "key_points": [
+   "Bharat Semi secured a $24 million seed round to fund its AI sensor chip development.",
+   "The startup has already earned design wins, including a deal with General Atomics.",
+   "Funding will help Bharat Semi target the global AI sensor market from its Indian base."
+  ],
+  "meta_description": "Indian chip startup Bharat Semi raises $24M seed round and lands design wins, including General Atomics, to expand its AI sensor market.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "India",
+   "chip startup",
+   "AI sensors",
+   "seed funding",
+   "General Atomics",
+   "semiconductor"
+  ],
+  "slug": "indian-chip-startup-bharat-semi-raises-24m-seed-wins-fa232e",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-15T23:57:49Z",
+  "trends": []
+ },
+ {
+  "id": "936ba96886552a93",
+  "source_url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Yemen: Anti-Houthi forces pull back as rebels advance",
+  "source_summary": "Forces aligned with the Yemeni government and Saudi Arabia are seeking to strengthen control over the interim capital Aden as the Iran-backed Houthis approach.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79953716_6.jpg",
+  "published": "2026-11-15T23:29:00+00:00",
+  "headline": "Anti‑Government Forces Withdraw While Houthis Advance Toward Aden",
+  "body": [
+   {
+    "type": "p",
+    "text": "In the latest developments in Yemen, forces aligned with the internationally recognised government and its Saudi Arabian backers are pulling back from positions around the interim capital, Aden. The retreat comes as Iran‑backed Houthi rebels move closer to the city, intensifying the contest for control."
+   },
+   {
+    "type": "p",
+    "text": "The government‑aligned troops, supported by Saudi Arabia, have been attempting to consolidate their hold on Aden, which serves as the temporary seat of the Yemeni administration. Their efforts to strengthen control are now being challenged by the advancing Houthi forces, prompting a tactical withdrawal from certain areas."
+   },
+   {
+    "type": "p",
+    "text": "The shift in front lines underscores the fluid nature of the conflict, with the Houthis gaining momentum while anti‑Houthi forces reassess their deployments. Observers note that the movement of forces around Aden reflects broader strategic calculations by both sides as they vie for influence in the southern part of the country."
+   },
+   {
+    "type": "p",
+    "text": "The situation remains dynamic, and the proximity of Houthi fighters to Aden raises concerns about the stability of the interim capital and the broader security environment in Yemen."
+   }
+  ],
+  "key_points": [
+   "Government‑aligned forces and Saudi allies are retreating from positions near Aden.",
+   "Iran‑backed Houthi rebels are advancing toward the interim capital.",
+   "The shift highlights a changing balance of power in southern Yemen."
+  ],
+  "meta_description": "Yemeni government and Saudi forces withdraw as Houthi rebels close in on the interim capital Aden, altering the conflict's dynamics.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Yemen",
+   "Aden",
+   "Houthis",
+   "Saudi Arabia",
+   "Yemeni government"
+  ],
+  "slug": "antigovernment-forces-withdraw-while-houthis-advance-toward-aden-936ba9",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-15T23:57:54Z",
+  "trends": []
+ },
+ {
   "id": "542b5ebf64de7475",
   "source_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
   "source": "BBC News",
@@ -21475,7 +21597,9 @@
   "added": "2026-11-04T07:57:50Z",
   "dup_of": "d97d56f6980a5020",
   "dup_slug": "democrat-abdul-elsayed-beats-republican-mike-rogers-michigan-senate-d97d56",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/962825a1cc0faaec411418d7850b922d8dd48894/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f157e2c04f262180911ad2ebeb4f20c",
+  "img_checked": 2
  },
  {
   "id": "7f280f946fc74fe5",
@@ -22156,7 +22280,9 @@
   "added": "2026-11-04T01:14:57Z",
   "dup_of": "b0936e6dce0dd067",
   "dup_slug": "jon-ossoff-wins-reelection-georgia-defeats-mike-collins-b0936e",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/a8a2468cf86e121bf772fd951dc3411eeb18d984/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e25ed63c9d971965403e183689725b8",
+  "img_checked": 2
  },
  {
   "id": "b0936e6dce0dd067",
@@ -22879,7 +23005,9 @@
   "added": "2026-11-03T20:38:29Z",
   "dup_of": "0d7f17b03c89f6f0",
   "dup_slug": "trump-administration-plans-roll-back-pregnancy-job-protections-0d7f17",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03midterms-election-litigation-roundup-fbpl/03midterms-election-litigation-roundup-fbpl-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "1c062443983afd39",
@@ -23289,7 +23417,9 @@
   "added": "2026-11-03T14:37:32Z",
   "dup_of": "2b376a551173279b",
   "dup_slug": "techcrunch-founder-summit-passes-discount-until-tomorrow-9-m-2b376a",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking_2.jpg?resize=1200,800",
+  "img_checked": 2
  },
  {
   "id": "772b6b8019a21193",
@@ -23895,7 +24025,9 @@
   "added": "2026-11-03T06:33:22Z",
   "dup_of": "d09cd0a6db448140",
   "dup_slug": "south-korea-proposes-recordbreaking-2027-budget-with-billions-ai-d09cd0",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+  "img_checked": 2
  },
  {
   "id": "5b89bdd5c21e0f1c",
@@ -24287,7 +24419,9 @@
   "added": "2026-11-03T06:34:06Z",
   "dup_of": "27a620f67ac8e6f3",
   "dup_slug": "us-launches-limited-strikes-iran-ahead-midterm-elections-27a620",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/06/01/multimedia/02DC-military/02DC-military-facebookJumbo-v2.jpg",
+  "img_checked": 2
  },
  {
   "id": "27a620f67ac8e6f3",
@@ -25883,7 +26017,9 @@
   "added": "2026-11-02T06:45:52Z",
   "dup_of": "3cd8b2a86b335030",
   "dup_slug": "michigan-senate-candidate-elsayed-bars-rep-stevens-from-events-3cd8b2",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02pol-michigan-tick-tock-kgtf/02pol-michigan-tick-tock-kgtf-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "8b5c937ea31d227f",
@@ -26246,7 +26382,9 @@
   "added": "2026-11-02T06:46:33Z",
   "dup_of": "1581f6cb400fb1cd",
   "dup_slug": "over-50-million-early-votes-cast-nationwide-ahead-midterms-1581f6",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7565/live/4b97ea90-d6c3-11f1-b441-2b33b063138f.jpg",
+  "img_checked": 2
  },
  {
   "id": "6ecb156b783c39ec",
@@ -26478,7 +26616,9 @@
   "added": "2026-11-02T00:35:05Z",
   "dup_of": "16a6189094eba8b7",
   "dup_slug": "binance-seeks-recover-6-3bn-stolen-crypto-hack-linked-16a618",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+  "img_checked": 2
  },
  {
   "id": "9cf6a04116c0a0bf",
@@ -26916,7 +27056,9 @@
   "added": "2026-11-02T00:35:21Z",
   "dup_of": "6336aff37e57b820",
   "dup_slug": "nvidia-considers-cosigning-loan-nscale-ai-data-center-west-6336af",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+  "img_checked": 2
  },
  {
   "id": "3604bfbf152b4f6e",
@@ -27047,7 +27189,9 @@
   "added": "2026-11-01T20:47:32Z",
   "dup_of": "3cd8b2a86b335030",
   "dup_slug": "michigan-senate-candidate-elsayed-bars-rep-stevens-from-events-3cd8b2",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/b74ef59dc193fbb01caa37d843c2625eeb29b433/111_0_2177_1741/master/2177.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d8f90c43ee28e42240412fe97203b9e",
+  "img_checked": 2
  },
  {
   "id": "ccb4f322f0fe3367",
@@ -27168,7 +27312,9 @@
   "added": "2026-11-01T20:47:48Z",
   "dup_of": "3cd8b2a86b335030",
   "dup_slug": "michigan-senate-candidate-elsayed-bars-rep-stevens-from-events-3cd8b2",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/228a/live/b46d8f40-d676-11f1-93e1-3b657b665bcf.jpg",
+  "img_checked": 2
  },
  {
   "id": "906edfc4e6ffa9b6",
@@ -27354,7 +27500,9 @@
   "added": "2026-11-01T20:48:10Z",
   "dup_of": "3cd8b2a86b335030",
   "dup_slug": "michigan-senate-candidate-elsayed-bars-rep-stevens-from-events-3cd8b2",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2614x1470+0+135/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F9b%2F8dd4ff984429b0392a7b2129803a%2Fap26305624303454.jpg",
+  "img_checked": 2
  },
  {
   "id": "2ddf556248bb265c",
@@ -28040,7 +28188,9 @@
   "added": "2026-11-01T16:17:51Z",
   "dup_of": "3957844ea4ba5918",
   "dup_slug": "binance-suffers-massive-hack-linked-north-korean-unit-tradertraitor-395784",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "c0f8e37d433c0d4d",
@@ -28168,7 +28318,9 @@
   "added": "2026-11-01T09:08:53Z",
   "dup_of": "85a0fb28a2dc0560",
   "dup_slug": "germany-looks-first-female-president-amid-uncertainty-85a0fb",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79821628_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "cd9f25e4ebbd402e",
@@ -28243,7 +28395,9 @@
   "added": "2026-11-01T09:09:21Z",
   "dup_of": "039cd73c94c74886",
   "dup_slug": "over-290-arrested-french-protests-against-cost-living-turn-039cd7",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
+  "img_checked": 2
  },
  {
   "id": "e61fb9bb11a007b3",
@@ -28698,7 +28852,9 @@
   "added": "2026-11-01T02:06:50Z",
   "dup_of": "5c0dfac75eab3c26",
   "dup_slug": "north-korean-elite-hackers-suspected-record-binance-theft-5c0dfa",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79819974_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "d931d79e15935141",
@@ -29121,7 +29277,9 @@
   "added": "2026-11-01T02:07:18Z",
   "dup_of": "86537bb3d6770a0e",
   "dup_slug": "virginia-d-c-sue-over-trumps-proposed-250foot-arch-86537b",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3979x2238+0+413/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fa2%2F645cbd55439bbd497811fb489444%2Fap26291517141879.jpg",
+  "img_checked": 2
  },
  {
   "id": "5fcb2bc59ce028bf",
@@ -29376,7 +29534,9 @@
   "added": "2026-10-31T22:46:45Z",
   "dup_of": "3957844ea4ba5918",
   "dup_slug": "binance-suffers-massive-hack-linked-north-korean-unit-tradertraitor-395784",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+  "img_checked": 2
  },
  {
   "id": "9d5bb642693228a6",
@@ -29455,7 +29615,9 @@
   "added": "2026-10-31T22:47:36Z",
   "dup_of": "039cd73c94c74886",
   "dup_slug": "over-290-arrested-french-protests-against-cost-living-turn-039cd7",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-france-protests-leadall-vpqj/31int-france-protests-leadall-vpqj-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "89c6cb6d29717113",
@@ -29642,7 +29804,9 @@
   "added": "2026-10-31T22:46:59Z",
   "dup_of": "848ee73e23558f52",
   "dup_slug": "democrats-target-upset-texas-senate-race-backed-trump-848ee7",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "a6f4d82f698bd79b",
@@ -29710,7 +29874,9 @@
   "added": "2026-11-01T02:07:34Z",
   "dup_of": "73247f498d992757",
   "dup_slug": "director-curry-barker-releases-new-horror-short-mama-bear-73247f",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "1f18179676b73eaa",
@@ -29724,7 +29890,9 @@
   "added": "2026-10-31T22:47:05Z",
   "dup_of": "6b71f2733154d341",
   "dup_slug": "judge-dismisses-trump-lawsuit-against-wsj-over-epstein-letter-6b71f2",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00hfo-wsj-defamation-1-zklh/00hfo-wsj-defamation-1-zklh-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "6b71f2733154d341",
@@ -30100,7 +30268,9 @@
   "added": "2026-10-31T19:30:48Z",
   "dup_of": "16a6189094eba8b7",
   "dup_slug": "binance-seeks-recover-6-3bn-stolen-crypto-hack-linked-16a618",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "38053a77617858bc",
@@ -30212,7 +30382,9 @@
   "added": "2026-10-31T19:31:21Z",
   "dup_of": "29a5a2198f7239cb",
   "dup_slug": "polish-police-deploy-amid-standoff-over-supreme-court-control-29a5a2",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-poland-court-hgvz/31int-poland-court-hgvz-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "2e89c3febb5d7023",
@@ -30984,7 +31156,9 @@
   "added": "2026-10-31T15:16:31Z",
   "dup_of": "d759b38674c5802a",
   "dup_slug": "binance-suspends-deposits-withdrawals-after-hack-threatening-6-3-d759b3",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "ea5ffaf9c4b4394a",
@@ -31843,7 +32017,9 @@
   "added": "2026-10-31T02:15:45Z",
   "dup_of": "04e0219f15261e46",
   "dup_slug": "federal-judge-denies-trump-administration-request-void-california-ballots-04e021",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/0335a1833425e9c9cbea5d82dbb76888d662896a/641_0_5417_4335/master/5417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fbbc4a12c375f33ffcd587fa2814aa8",
+  "img_checked": 2
  },
  {
   "id": "1d23d404259ade8f",
@@ -32308,7 +32484,9 @@
   "added": "2026-10-30T22:55:44Z",
   "dup_of": "ae57ab42aa1761a7",
   "dup_slug": "alaska-senate-race-erupts-over-alleged-peltola-ballotstacking-scheme-ae57ab",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/50d55bb9df7e127eca8443fde8a04dd7b0850aaf/395_0_2612_2090/master/2612.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f854560ad7d2c7833bfe72fd45d6781",
+  "img_checked": 2
  },
  {
   "id": "011fdc062b2b84be",
@@ -32496,7 +32674,9 @@
   "added": "2026-10-30T22:56:00Z",
   "dup_of": "6b689c0f0ee94165",
   "dup_slug": "trump-angered-former-lawyers-50-million-deal-wants-funds-6b689c",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/30/us/30DC-MILDON/30DC-MILDON-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "a14f1102d16bd286",
@@ -32624,7 +32804,9 @@
   "added": "2026-10-30T22:55:56Z",
   "dup_of": "3957844ea4ba5918",
   "dup_slug": "binance-suffers-massive-hack-linked-north-korean-unit-tradertraitor-395784",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "16a6189094eba8b7",
@@ -33002,7 +33184,9 @@
   "added": "2026-10-30T18:48:43Z",
   "dup_of": "d759b38674c5802a",
   "dup_slug": "binance-suspends-deposits-withdrawals-after-hack-threatening-6-3-d759b3",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/30/business/30Biz-Cryptoconsumer/30Biz-Cryptoconsumer-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "c4dbacf8aa2b8b7f",
@@ -33202,7 +33386,9 @@
   "added": "2026-10-30T18:48:58Z",
   "dup_of": "f6545332f7a615b2",
   "dup_slug": "least-30-dead-after-highspeed-train-collision-near-toledo-f65453",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30Int-spain-crash-tfqv/30Int-spain-crash-tfqv-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "3a6f2f9865a4e25f",
@@ -33771,7 +33957,9 @@
   "added": "2026-10-30T13:28:16Z",
   "dup_of": "3957844ea4ba5918",
   "dup_slug": "binance-suffers-massive-hack-linked-north-korean-unit-tradertraitor-395784",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F72%2F4e%2F43296d994303a3c15ef19703ff2e%2Fap26302822880513.jpg",
+  "img_checked": 2
  },
  {
   "id": "5cfbd02556ec4a84",
@@ -33884,7 +34072,9 @@
   "added": "2026-10-30T13:28:04Z",
   "dup_of": "b8abd60f90cc4de2",
   "dup_slug": "google-shares-drop-500bn-value-ai-search-summaries-hit-b8abd6",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/30/multimedia/30db-nyse-final-vclb/30db-nyse-final-vclb-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "1a8b0d33cb53e8d9",
@@ -33898,7 +34088,9 @@
   "added": "2026-10-30T13:28:12Z",
   "dup_of": "d94141045673e181",
   "dup_slug": "obamas-cheesecake-factory-quip-sparks-trump-rebuttal-mississippi-d94141",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F5b%2Fe7ad0f394e5ca990073747bcaa6b%2Fgettyimages-2213067117.jpg",
+  "img_checked": 2
  },
  {
   "id": "74ae3cc665d751f4",
@@ -34018,7 +34210,9 @@
   "added": "2026-10-30T06:21:44Z",
   "dup_of": "03e3dea529c560fc",
   "dup_slug": "chinese-startup-deploys-ai-sensors-hunt-mosquitoes-safely-03e3de",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-facebookJumbo.jpg?play-overlay",
+  "img_checked": 2
  },
  {
   "id": "e6c33e8b4a778911",
@@ -34559,7 +34753,9 @@
   "added": "2026-10-30T06:22:16Z",
   "dup_of": "ae57ab42aa1761a7",
   "dup_slug": "alaska-senate-race-erupts-over-alleged-peltola-ballotstacking-scheme-ae57ab",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/29/multimedia/29pol-alaska-ballot-folo-jqck/29pol-alaska-ballot-folo-jqck-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "a2e2af5d8b9134d1",
@@ -34757,7 +34953,9 @@
   "added": "2026-10-30T00:15:13Z",
   "dup_of": "90b267becbf2eaa8",
   "dup_slug": "microsoft-reports-10-billion-revenue-from-openai-partnership-90b267",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
+  "img_checked": 2
  },
  {
   "id": "05367ef1f34c39f8",
@@ -35260,7 +35458,9 @@
   "added": "2026-10-30T00:15:38Z",
   "dup_of": "a00f511771f17d70",
   "dup_slug": "actor-patrick-stewart-dies-86-after-battle-with-dementia-a00f51",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/74547188_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "c9bbe62d5435994d",
@@ -35274,7 +35474,9 @@
   "added": "2026-10-29T20:30:41Z",
   "dup_of": "2a40fc1e66e01af0",
   "dup_slug": "rivian-beats-q3-estimates-software-sales-r2-deliveries-climb-2a40fc",
-  "index": false
+  "index": false,
+  "image": "https://image.cnbcfm.com/api/v1/image/108259066-17697091982026-01-29t175216z_1445274856_rc20bjafy1ai_rtrmadp_0_starbucks-investor-day.jpeg?v=1769709261&w=1920&h=1080",
+  "img_checked": 2
  },
  {
   "id": "095fa390d54a1463",
@@ -35748,7 +35950,9 @@
   "added": "2026-10-29T20:31:16Z",
   "dup_of": "ae9fc21b7f8b67c7",
   "dup_slug": "alaska-governor-launches-criminal-probe-peltola-campaign-ae9fc2",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/7961a29a4736b94a504a27e050b549ed685d734f/0_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4d0910384f9a088c9be42cf34622bdd6",
+  "img_checked": 2
  },
  {
   "id": "5e6f1cae74a74e4f",
@@ -36932,7 +37136,9 @@
   "added": "2026-10-29T08:23:04Z",
   "dup_of": "f6545332f7a615b2",
   "dup_slug": "least-30-dead-after-highspeed-train-collision-near-toledo-f65453",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79791993_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "c3ce5e2005a037a9",
@@ -37463,7 +37669,9 @@
   "added": "2026-10-29T01:43:48Z",
   "dup_of": "1d859680790bd694",
   "dup_slug": "bolsonaro-party-acknowledges-brazil-election-loss-flavio-refuses-concede-1d8596",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c2c/live/4c19c1e0-d2eb-11f1-b441-2b33b063138f.jpg",
+  "img_checked": 2
  },
  {
   "id": "87d678004b810be2",
@@ -37477,7 +37685,9 @@
   "added": "2026-10-29T01:44:05Z",
   "dup_of": "46da125cd735d773",
   "dup_slug": "eu-scales-back-offer-canada-associate-membership-talks-46da12",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79303068_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "2e719675555af8c4",
@@ -37879,7 +38089,9 @@
   "added": "2026-10-28T21:53:48Z",
   "dup_of": "7b349492b8abe9e9",
   "dup_slug": "justice-department-files-additional-leak-charges-against-james-comey-7b3494",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "5fbc0983d65db87b",
@@ -37948,7 +38160,9 @@
   "added": "2026-10-28T21:53:54Z",
   "dup_of": "f6545332f7a615b2",
   "dup_slug": "least-30-dead-after-highspeed-train-collision-near-toledo-f65453",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg",
+  "img_checked": 2
  },
  {
   "id": "718210a39d4817c9",
@@ -38440,7 +38654,9 @@
   "added": "2026-10-28T17:20:27Z",
   "dup_of": "568e455d0b5aa7ca",
   "dup_slug": "apple-launches-14inch-macbook-pro-powered-new-m6-chip-568e45",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple-macbook-pro-touch-video-1.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+  "img_checked": 2
  },
  {
   "id": "9debcc1c98c3af40",
@@ -38454,7 +38670,9 @@
   "added": "2026-10-28T17:20:46Z",
   "dup_of": "568e455d0b5aa7ca",
   "dup_slug": "apple-launches-14inch-macbook-pro-powered-new-m6-chip-568e45",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/mbptouch.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+  "img_checked": 2
  },
  {
   "id": "3030a3b196dbf3a5",
@@ -38468,7 +38686,9 @@
   "added": "2026-10-28T17:20:31Z",
   "dup_of": "1d859680790bd694",
   "dup_slug": "bolsonaro-party-acknowledges-brazil-election-loss-flavio-refuses-concede-1d8596",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "bd935ab905ad6be8",
@@ -38713,7 +38933,9 @@
   "added": "2026-10-28T17:21:02Z",
   "dup_of": "057d0979b59fdf86",
   "dup_slug": "ceasefire-declared-oleshky-enable-aid-evacuation-057d09",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79771347_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "9dd863424d4e6780",
@@ -38727,7 +38949,9 @@
   "added": "2026-10-28T17:21:06Z",
   "dup_of": "cf9b0941943d0f7a",
   "dup_slug": "trump-rubio-rally-texas-ken-paxton-amid-midterm-push-cf9b09",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/2ebbdf45d0c23b2bc30e6555b9cd903d94bf9cab/236_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7741f4f0b192f04ba46b62cfd0d0c995",
+  "img_checked": 2
  },
  {
   "id": "ad313d3f4854a9e1",
@@ -39288,7 +39512,9 @@
   "added": "2026-10-28T11:34:40Z",
   "dup_of": "7b956926a420b476",
   "dup_slug": "jio-shares-jump-21-debut-becomes-indias-secondlargest-listed-7b9569",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-jio-ipo-zcbj/28biz-jio-ipo-zcbj-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "068183e5a0103a70",
@@ -40024,7 +40250,9 @@
   "added": "2026-10-28T05:26:56Z",
   "dup_of": "a73085d1e7d542ef",
   "dup_slug": "anthropic-ipo-prospectus-reveals-five-unexpected-details-a73085",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+  "img_checked": 2
  },
  {
   "id": "997cb930ed2507b2",
@@ -40539,7 +40767,9 @@
   "added": "2026-10-27T23:43:48Z",
   "dup_of": "da114e8ce7c53566",
   "dup_slug": "ifixit-scores-iphone-duo-repairability-5-10-reveals-foldable-da114e",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&strip=all&crop=0%2C3.5651957117926%2C100%2C92.869608576415&w=1200",
+  "img_checked": 2
  },
  {
   "id": "142764f66840177a",
@@ -40898,7 +41128,9 @@
   "added": "2026-10-27T20:01:01Z",
   "dup_of": "fc2b3fe9d518a9eb",
   "dup_slug": "uk-budget-looms-brexit-north-sea-oil-issues-challenge-fc2b3f",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7041/live/3d52f8e0-d23a-11f1-a701-fddedf244c16.jpg",
+  "img_checked": 2
  },
  {
   "id": "1d9a88889f6545c9",
@@ -41576,7 +41808,9 @@
   "added": "2026-10-27T14:52:50Z",
   "dup_of": "e189f9f1edbd35e2",
   "dup_slug": "brazil-runoff-vote-begins-lula-faces-flavio-bolsonaro-e189f9",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5102x2870+0+266/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb3%2F22%2F9ee7f26144c5b7a185360da6adb8%2Fap26299745358738.jpg",
+  "img_checked": 2
  },
  {
   "id": "97030c77df504008",
@@ -41720,7 +41954,9 @@
   "added": "2026-10-27T14:53:11Z",
   "dup_of": "8798303fc7b7c8a3",
   "dup_slug": "record-turnout-expected-serbia-election-students-target-vucic-879830",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79799443_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "6b9d6b83985d990a",
@@ -42682,7 +42918,9 @@
   "added": "2026-10-27T08:20:42Z",
   "dup_of": "d94141045673e181",
   "dup_slug": "obamas-cheesecake-factory-quip-sparks-trump-rebuttal-mississippi-d94141",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5438x3059+0+283/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F61%2F0838e35b43c6b376fed3b33fb522%2Fap26300007326103.jpg",
+  "img_checked": 2
  },
  {
   "id": "d94141045673e181",
@@ -42834,7 +43072,9 @@
   "added": "2026-10-27T02:23:02Z",
   "dup_of": "7b349492b8abe9e9",
   "dup_slug": "justice-department-files-additional-leak-charges-against-james-comey-7b3494",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
+  "img_checked": 2
  },
  {
   "id": "858bf7d244f35ab5",
@@ -42905,7 +43145,9 @@
   "added": "2026-10-27T02:23:18Z",
   "dup_of": "da114e8ce7c53566",
   "dup_slug": "ifixit-scores-iphone-duo-repairability-5-10-reveals-foldable-da114e",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
+  "img_checked": 2
  },
  {
   "id": "565e4a8ef4072dc1",
