@@ -1,5 +1,130 @@
 [
  {
+  "id": "36f71dc747c1e3ea",
+  "source_url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
+  "source": "BBC News",
+  "source_title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+  "source_summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
+  "published": "2026-11-17T17:42:26+00:00",
+  "headline": "Jensen Huang Leads Nvidia Revival After Board Rejects Ex‑Boss Return",
+  "body": [
+   {
+    "type": "p",
+    "text": "Nvidia's chief executive Jensen Huang announced a renewed push for the company's comeback on Thursday, following a board decision that dismissed calls to reinstate a former senior executive. The board's refusal came after pressure from a group of investors who wanted the ex‑boss back in a leadership role."
+   },
+   {
+    "type": "p",
+    "text": "Huang said he has received an \"outpouring\" of calls from investors and other stakeholders urging him to return to a more active role in steering Nvidia's strategy. He emphasized that the company remains focused on delivering its next generation of graphics and AI products despite the board's stance."
+   },
+   {
+    "type": "p",
+    "text": "The board's rejection of the reinstatement proposal was made public in a brief statement, noting that the current leadership team is best positioned to guide Nvidia through a competitive market. No further details about the former executive or the specific reasons for the board's decision were disclosed."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the episode underscores the high level of investor interest in Nvidia's direction, especially as the firm continues to dominate the AI hardware sector. Huang's comments suggest he will continue to engage closely with shareholders while maintaining the existing management structure."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Nvidia's leadership decisions affect global tech markets and investors in the US and Europe, given the company's pivotal role in AI hardware."
+   }
+  ],
+  "key_points": [
+   "Nvidia's board rejected investor pressure to bring back a former senior executive.",
+   "CEO Jensen Huang reported an \"outpouring\" of calls from investors urging his increased involvement.",
+   "The company will maintain its current leadership team while pursuing its AI and graphics roadmap."
+  ],
+  "meta_description": "Nvidia's board refuses to reinstate a former executive as CEO Jensen Huang reports strong investor calls for his continued leadership.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "board decision",
+   "investor pressure",
+   "leadership",
+   "AI hardware"
+  ],
+  "slug": "jensen-huang-leads-nvidia-revival-after-board-rejects-exboss-36f71d",
+  "reading_minutes": 1,
+  "added": "2026-11-17T17:45:03Z",
+  "trends": [
+   "mary barra",
+   "national security",
+   "nvidia earnings"
+  ]
+ },
+ {
+  "id": "47b4728cc9a6d81a",
+  "source_url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o",
+  "source": "BBC News",
+  "source_title": "UK sanctions firms over Israeli West Bank settlements",
+  "source_summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg",
+  "published": "2026-11-17T17:41:49+00:00",
+  "headline": "UK Imposes Sanctions on Companies Linked to West Bank Settlements",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United Kingdom has announced sanctions against several firms it says are involved in Israeli settlement activities in the West Bank. The move marks the first set of punitive measures since the UK declared a stricter stance toward Israeli actions in the occupied territory."
+   },
+   {
+    "type": "p",
+    "text": "The sanctions target companies that the British government alleges provide support to settlement construction and related activities, though specific names and the exact nature of the restrictions were not detailed in the announcement."
+   },
+   {
+    "type": "p",
+    "text": "The decision follows a broader policy shift announced earlier by the UK, signalling a willingness to use economic tools to address concerns over settlement expansion and its impact on the Israeli‑Palestinian conflict."
+   },
+   {
+    "type": "p",
+    "text": "British officials indicated that the sanctions are intended to pressure entities contributing to settlement growth, aligning with international criticism of the settlements' legality under international law."
+   },
+   {
+    "type": "p",
+    "text": "The announcement has been noted by observers as a significant step in the UK's foreign policy, potentially influencing other European nations' approaches to the issue."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The sanctions signal a new level of UK engagement in the Israeli‑Palestinian conflict, potentially affecting trade relations and prompting similar actions by other European governments."
+   }
+  ],
+  "key_points": [
+   "The UK has sanctioned firms it says are linked to Israeli settlement activity in the West Bank.",
+   "These sanctions are the first since Britain announced a tougher policy on Israeli actions in the territory.",
+   "The move reflects a broader shift in UK foreign policy toward using economic measures against settlement support."
+  ],
+  "meta_description": "The UK sanctions firms tied to Israeli West Bank settlements, marking its first punitive step after announcing a tougher stance on settlement activity.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "UK sanctions",
+   "West Bank",
+   "Israeli settlements",
+   "foreign policy",
+   "Europe"
+  ],
+  "slug": "uk-imposes-sanctions-companies-linked-west-bank-settlements-47b472",
+  "reading_minutes": 1,
+  "added": "2026-11-17T17:45:06Z",
+  "trends": []
+ },
+ {
   "id": "b79ad42b1ed8495a",
   "source_url": "https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html",
   "source": "The New York Times",
