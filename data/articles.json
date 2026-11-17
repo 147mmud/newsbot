@@ -1,5 +1,138 @@
 [
  {
+  "id": "c656e17c3cca6bff",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+  "source": "The Guardian",
+  "source_title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+  "source_summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation.",
+  "source_tags": [
+   "Trump administration",
+   "US news",
+   "World news",
+   "Democrats",
+   "Donald Trump",
+   "US politics",
+   "Air transport",
+   "Republicans"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=700&quality=85&auto=format&fit=max&s=17e73185da693d68998e86881b8293b4",
+  "published": "2026-11-17T00:19:28+00:00",
+  "headline": "Trump Defends Commerce Secretary Over Nvidia Chip Export Delay",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump publicly backed Commerce Secretary Gina Lutnick on Thursday after Treasury Secretary Scott Bessent said the department had delayed action on restricting advanced AI chip exports tied to Nvidia. The criticism centers on an alleged slow‑walk of export controls that could affect the United States' lead in high‑performance computing."
+   },
+   {
+    "type": "p",
+    "text": "Trump’s defense came during a live briefing, where he rejected claims that the Commerce Department was hindering national security interests. Bessent had earlier blamed Lutnick’s office for the lag, suggesting that faster enforcement was needed to curb the flow of cutting‑edge chips abroad."
+   },
+   {
+    "type": "p",
+    "text": "In parallel, several technology leaders, including Elon Musk, have urged Nvidia’s board to reinstate former CEO Jensen Huang. Reports indicate Huang is considering a return to the company just four days after his resignation, adding further pressure on the firm amid the export‑control debate."
+   },
+   {
+    "type": "p",
+    "text": "The combined political and industry reactions highlight the tension between maintaining strict export regimes and preserving the competitiveness of U.S. AI hardware manufacturers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Export controls on advanced AI chips affect both national security and the global competitiveness of U.S. tech firms, making the debate relevant for American and European markets."
+   }
+  ],
+  "key_points": [
+   "President Trump defended Commerce Secretary Lutnick after Treasury Secretary Bessent accused the department of delaying Nvidia AI chip export restrictions.",
+   "Tech CEOs, led by Elon Musk, called for the reinstatement of former Nvidia CEO Jensen Huang, who may return four days after resigning.",
+   "The dispute underscores the clash between U.S. export control policy and the interests of the domestic AI chip industry."
+  ],
+  "meta_description": "Trump backs Commerce Secretary amid claims of delayed Nvidia AI chip export restrictions; tech CEOs push for former Nvidia CEO's return.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Nvidia",
+   "AI chips",
+   "export controls",
+   "tech industry",
+   "Gina Lutnick"
+  ],
+  "slug": "trump-defends-commerce-secretary-over-nvidia-chip-export-delay-c656e1",
+  "reading_minutes": 1,
+  "added": "2026-11-17T00:22:24Z",
+  "trends": []
+ },
+ {
+  "id": "0ba32fcb7f50296a",
+  "source_url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+  "source": "The New York Times",
+  "source_title": "United Airlines Flights Resume After ‘Widespread System Outage’",
+  "source_summary": "The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.",
+  "source_tags": [
+   "United Airlines",
+   "Airlines and Airplanes",
+   "Computer Network Outages",
+   "Delays (Transportation)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/16/multimedia/16xp-united-czbh/16xp-united-czbh-mediumSquareAt3X.jpg",
+  "published": "2026-11-17T00:17:25+00:00",
+  "headline": "United Airlines Flights Resume After Outage Before Thanksgiving Travel",
+  "body": [
+   {
+    "type": "p",
+    "text": "United Airlines announced that its flights have resumed operation after a widespread system outage disrupted service across its network. The outage, which affected the airline’s scheduling and reservation platforms, forced a brief suspension of flights on Tuesday."
+   },
+   {
+    "type": "p",
+    "text": "The interruption came on the heels of a nationwide ground stop that occurred the previous week, adding to the series of technical challenges facing the carrier. United did not provide specific details about the cause of the outage, but confirmed that normal operations were restored by late afternoon."
+   },
+   {
+    "type": "p",
+    "text": "Airlines and travelers are closely watching the situation as the United States heads into one of its busiest travel periods of the year. The timing of the outage raised concerns about potential delays and cancellations during the upcoming Thanksgiving holiday, a period traditionally marked by high passenger volumes."
+   },
+   {
+    "type": "p",
+    "text": "United officials urged passengers to check their flight status and rebook if necessary, while industry analysts noted that the incident underscores the vulnerability of airline IT systems during peak travel seasons."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outage highlights the fragility of airline technology at a time when millions of U.S. and European travelers plan holiday trips."
+   }
+  ],
+  "key_points": [
+   "United Airlines flights resumed after a brief, widespread system outage.",
+   "The outage followed a nationwide ground stop that occurred the week before.",
+   "Travelers remain concerned about possible disruptions during the busy Thanksgiving period."
+  ],
+  "meta_description": "United Airlines flights are back after a system outage, easing worries ahead of the busy Thanksgiving travel season.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "United Airlines",
+   "system outage",
+   "flight resume",
+   "Thanksgiving travel",
+   "airline disruption"
+  ],
+  "slug": "united-airlines-flights-resume-after-outage-before-thanksgiving-travel-0ba32f",
+  "reading_minutes": 1,
+  "added": "2026-11-17T00:22:29Z",
+  "trends": [
+   "united airlines"
+  ]
+ },
+ {
   "id": "020f9500556b6f7e",
   "source_url": "https://www.dw.com/en/iran-s-growing-exodus-of-young-talent/a-79960368?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
@@ -38042,56 +38175,17 @@
  },
  {
   "id": "3ca60481268871a9",
-  "source_url": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-  "source": "CNBC",
-  "source_title": "America's largest budget airline reports 71% jump in airfare",
-  "source_summary": "Frontier Airlines reported a 71% jump in airfare for the third quarter and said customers continue to book",
-  "source_tags": [],
-  "category_hint": "business",
-  "image": "https://image.cnbcfm.com/api/v1/image/108304675-1778354492260-gettyimages-2253909846-260102_lax_109.jpeg?v=1778354555&w=1920&h=1080",
-  "published": "2026-10-28T23:51:38+00:00",
-  "headline": "Frontier Airlines Posts 71% Fare Jump in Q3, Bookings Hold",
-  "body": [
-   {
-    "type": "p",
-    "text": "Frontier Airlines announced that average ticket prices rose by 71 percent in the third quarter of 2026. The carrier said the increase reflects higher demand and a shift in its pricing strategy during the period."
-   },
-   {
-    "type": "p",
-    "text": "Despite the sharp fare rise, Frontier reported that customers continue to book flights at a steady pace. The airline highlighted that booking volumes have not shown a noticeable decline, suggesting that travelers are still choosing the low‑cost carrier even with higher prices."
-   },
-   {
-    "type": "p",
-    "text": "The company did not provide further details on the factors driving the fare surge or its impact on overall revenue. No additional commentary was offered on future pricing expectations."
-   },
-   {
-    "type": "h2",
-    "text": "Why It Matters"
-   },
-   {
-    "type": "p",
-    "text": "The data shows that demand for low‑cost air travel remains robust in the United States, even as ticket prices climb, which could influence pricing trends across the industry."
-   }
-  ],
-  "key_points": [
-   "Frontier Airlines' average airfare jumped 71% in Q3 2026.",
-   "Customer bookings remained stable despite the fare increase."
-  ],
-  "meta_description": "Frontier Airlines reports a 71% rise in Q3 fares while bookings stay steady, indicating strong demand for low‑cost travel.",
-  "category": "business",
-  "mode": "llm:groq",
-  "index": true,
-  "tags": [
-   "Frontier Airlines",
-   "airfare",
-   "Q3 2026",
-   "travel demand",
-   "low‑cost carrier"
-  ],
   "slug": "frontier-airlines-posts-71-fare-jump-q3-bookings-hold-3ca604",
-  "reading_minutes": 1,
-  "img_checked": 2,
-  "added": "2026-10-29T01:44:26Z"
+  "headline": "Frontier Airlines Posts 71% Fare Jump in Q3, Bookings Hold",
+  "source_title": "America's largest budget airline reports 71% jump in airfare",
+  "source": "CNBC",
+  "source_url": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+  "published": "2026-10-28T23:51:38+00:00",
+  "category": "business",
+  "added": "2026-10-29T01:44:26Z",
+  "dup_of": "7b956926a420b476",
+  "dup_slug": "jio-shares-jump-21-debut-becomes-indias-secondlargest-listed-7b9569",
+  "index": false
  },
  {
   "id": "caed67f6619196f3",
@@ -40060,9 +40154,14 @@
     "source": "The New York Times",
     "url": "https://www.nytimes.com/2026/10/28/business/india-jio-ipo.html",
     "title": "Jio’s Blockbuster I.P.O. Gives India’s Investors a Lift"
+   },
+   {
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+    "title": "America's largest budget airline reports 71% jump in airfare"
    }
   ],
-  "updated": "2026-10-28T11:34:40Z"
+  "updated": "2026-10-29T01:44:26Z"
  },
  {
   "id": "a47f24d13aa6c1d4",
@@ -79021,7 +79120,9 @@
   "added": "2026-10-18T09:02:27Z",
   "dup_of": "d0f743ed4b35719b",
   "dup_slug": "canada-military-base-fire-sparks-serious-incident-pm-says-d0f743",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F00%2F2a%2Fa5e2242c4287be6dedf0da163a0b%2Fap26291249424490.jpg",
+  "img_checked": 2
  },
  {
   "id": "e67f39522e81710b",
@@ -79035,7 +79136,9 @@
   "added": "2026-10-18T09:02:31Z",
   "dup_of": "d0f743ed4b35719b",
   "dup_slug": "canada-military-base-fire-sparks-serious-incident-pm-says-d0f743",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-chfb/18int-canada-alberta-fire-chfb-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "5b9b057762a87b38",
@@ -79326,7 +79429,9 @@
   "added": "2026-10-18T04:19:01Z",
   "dup_of": "d0f743ed4b35719b",
   "dup_slug": "canada-military-base-fire-sparks-serious-incident-pm-says-d0f743",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/951a/live/d1508b70-cac9-11f1-9a39-31b474234113.jpg",
+  "img_checked": 2
  },
  {
   "id": "cc04fc7e52c03a2e",
@@ -79399,7 +79504,9 @@
   "added": "2026-10-18T04:19:05Z",
   "dup_of": "b0fc972daf283fa1",
   "dup_slug": "no-kings-protests-urge-early-voting-ahead-midterm-elections-b0fc97",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19no-kings-dallas-print1-wjbh-copy/19no-kings-dallas-print1-wjbh-copy-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "d0f743ed4b35719b",
@@ -79625,7 +79732,9 @@
   "added": "2026-10-17T23:57:49Z",
   "dup_of": "a0b37a78c129788b",
   "dup_slug": "israeli-settlers-assault-palestinians-damage-eu-car-west-bank-a0b37a",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+  "img_checked": 2
  },
  {
   "id": "8cd3829ec39222c0",
@@ -80280,7 +80389,9 @@
   "added": "2026-10-17T21:41:42Z",
   "dup_of": "c6a52d96351faee4",
   "dup_slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19DC-RUSSIA-SANX-qczf/17DC-RUSSIA-SANX-qczf-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "47c30bab6469745c",
@@ -80294,7 +80405,9 @@
   "added": "2026-10-17T21:41:46Z",
   "dup_of": "470da62f3b145014",
   "dup_slug": "manzambi-scores-late-header-villa-beat-newcastle-emery-notches-470da6",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e187/live/674bcbf0-ca6e-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "5c37b2406edd5a29",
@@ -80308,7 +80421,9 @@
   "added": "2026-10-17T21:41:50Z",
   "dup_of": "bb38f1891d1520bf",
   "dup_slug": "tiktok-permanently-suspends-account-alex-gibneys-musk-documentary-film-bb38f1",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+  "img_checked": 2
  },
  {
   "id": "4ad96c026db61c9d",
@@ -80363,7 +80478,9 @@
   "added": "2026-10-17T21:42:18Z",
   "dup_of": "2cc31e1edcbf7f0d",
   "dup_slug": "violent-protests-erupt-albania-over-kushner-linked-resort-project-2cc31e",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/287a/live/339305e0-ca4a-11f1-81dd-07b2258f847d.jpg",
+  "img_checked": 2
  },
  {
   "id": "610b2389dc841014",
@@ -80487,7 +80604,9 @@
   "added": "2026-10-17T21:42:10Z",
   "dup_of": "c6a52d96351faee4",
   "dup_slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17DC-GRAHAM-UKRAINE-2-zlcw/17DC-GRAHAM-UKRAINE-2-zlcw-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "1bdfc9526fa86d48",
@@ -80554,7 +80673,9 @@
   "added": "2026-10-18T04:19:45Z",
   "dup_of": "8d09f527326849ff",
   "dup_slug": "mexican-judge-sentences-three-men-158-years-surf-trip-8d09f5",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-mexico-sentence-zqch/17int-mexico-sentence-zqch-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "bb38f1891d1520bf",
@@ -81014,7 +81135,9 @@
   "added": "2026-10-18T04:19:21Z",
   "dup_of": "d0f11237d1f3614e",
   "dup_slug": "replit-ends-anthropic-partnership-over-cost-concerns-shifts-focus-d0f112",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+  "img_checked": 2
  },
  {
   "id": "87f321ddcc293169",
@@ -81433,7 +81556,9 @@
   "added": "2026-10-17T19:15:27Z",
   "dup_of": "f4290472ac1a332c",
   "dup_slug": "elon-musk-settles-lawsuits-over-2024-election-lottery-giveaway-f42904",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "ecae77816bab8aa8",
@@ -81628,7 +81753,9 @@
   "added": "2026-10-17T16:38:21Z",
   "dup_of": "919da0ca97516054",
   "dup_slug": "pope-leo-xiv-urges-putin-halt-siege-oleshky-ukraine-919da0",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "1d48a568addde72b",
@@ -81695,7 +81822,9 @@
   "added": "2026-10-17T16:38:37Z",
   "dup_of": "2cc31e1edcbf7f0d",
   "dup_slug": "violent-protests-erupt-albania-over-kushner-linked-resort-project-2cc31e",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-albania-protests-wtk-fhbj/24int-albania-protests-wtk-fhbj-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "9c715d5779cdec1b",
@@ -81816,7 +81945,9 @@
   "added": "2026-10-18T04:19:33Z",
   "dup_of": "ad3a47861a304e90",
   "dup_slug": "meta-s-new-terms-permit-ai-training-publisher-content-ad3a47",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "ce81f3c6c7b631a6",
@@ -81830,7 +81961,9 @@
   "added": "2026-10-17T16:38:32Z",
   "dup_of": "2d7bc3ec029344d8",
   "dup_slug": "australia-proposes-off-switch-social-media-recommendations-2d7bc3",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+  "img_checked": 2
  },
  {
   "id": "f4290472ac1a332c",
@@ -81912,7 +82045,9 @@
   "added": "2026-10-17T16:38:45Z",
   "dup_of": "863c6f1138a1ace5",
   "dup_slug": "england-dominates-wales-with-13-tries-women-s-world-863c6f",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fcf1/live/0284fa00-ca11-11f1-9a39-31b474234113.jpg",
+  "img_checked": 2
  },
  {
   "id": "79e800af7ff35628",
@@ -81985,7 +82120,9 @@
   "added": "2026-10-18T04:19:30Z",
   "dup_of": "d4f2dc4a3450981a",
   "dup_slug": "federal-agents-seize-ilhan-omars-sisters-phone-ahead-home-d4f2dc",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/86198b3c15465682adb6cc2b42274419233943bc/273_0_2722_2179/master/2722.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86b030d57e7458f7751fbc3bcce97346",
+  "img_checked": 2
  },
  {
   "id": "90c74339363b89b9",
@@ -82241,7 +82378,9 @@
   "added": "2026-10-17T13:09:14Z",
   "dup_of": "3f2e65e4265abf5c",
   "dup_slug": "mayor-bally-bagayoko-becomes-prominent-face-france-youth-protests-3f2e65",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "3f2e65e4265abf5c",
@@ -82564,7 +82703,9 @@
   "added": "2026-10-18T04:19:38Z",
   "dup_of": "f1f5359ff63cb9c8",
   "dup_slug": "trump-administration-sues-california-halt-mail-ballot-counting-alleged-f1f535",
-  "index": false
+  "index": false,
+  "image": null,
+  "img_checked": 2
  },
  {
   "id": "c668fb0baba7a514",
@@ -82632,7 +82773,9 @@
   "added": "2026-10-17T13:09:26Z",
   "dup_of": "62390e7d5c5f49be",
   "dup_slug": "australia-beats-new-zealand-rugby-league-world-cup-opener-62390e",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3808/live/390a1690-ca21-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "7c6af41d41306883",
@@ -82959,7 +83102,9 @@
   "added": "2026-10-17T09:13:02Z",
   "dup_of": "527b1ef2ed80979f",
   "dup_slug": "pennsylvanias-four-districts-illustrate-democrats-midterm-flip-strategy-527b1e",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17pol-pennsylvania-scrolly-01-kzhg/17pol-pennsylvania-scrolly-01-kzhg-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "f9ea549ccd40ca6e",
@@ -83210,7 +83355,9 @@
   "added": "2026-10-17T09:13:11Z",
   "dup_of": "8d09f527326849ff",
   "dup_slug": "mexican-judge-sentences-three-men-158-years-surf-trip-8d09f5",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/69003479_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "acf78236a010438c",
@@ -83387,7 +83534,9 @@
   "added": "2026-10-17T04:56:13Z",
   "dup_of": "8d09f527326849ff",
   "dup_slug": "mexican-judge-sentences-three-men-158-years-surf-trip-8d09f5",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
+  "img_checked": 2
  },
  {
   "id": "cdadba4a0993e87f",
@@ -83401,7 +83550,9 @@
   "added": "2026-10-17T04:56:17Z",
   "dup_of": "c6a52d96351faee4",
   "dup_slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2025/08/16/multimedia/16dc-russia-sanctions/16dc-russia-sanctions-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "a5275065b82ce073",
@@ -83415,7 +83566,9 @@
   "added": "2026-10-17T04:56:28Z",
   "dup_of": "c6a52d96351faee4",
   "dup_slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/63bbfb9d93afbe44cae6b938cc6633e49026dfb0/445_0_3091_2473/master/3091.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da779ce91b6c12df145b41469eb279ea",
+  "img_checked": 2
  },
  {
   "id": "8d09f527326849ff",
@@ -83505,7 +83658,9 @@
   "added": "2026-10-17T04:56:36Z",
   "dup_of": "c6a52d96351faee4",
   "dup_slug": "trump-pauses-new-russia-sanctions-cites-national-interests-c6a52d",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+  "img_checked": 2
  },
  {
   "id": "8a848b0f24947dc0",
@@ -83576,7 +83731,9 @@
   "added": "2026-10-17T04:56:44Z",
   "dup_of": "42c147a6a504cef7",
   "dup_slug": "brazilian-amazon-deforestation-hits-record-low-ahead-election-runoff-42c147",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
+  "img_checked": 2
  },
  {
   "id": "98a69daf3645ef37",
@@ -83942,7 +84099,9 @@
   "added": "2026-10-17T00:20:08Z",
   "dup_of": "2a4b7a7dc287e72e",
   "dup_slug": "apple-opens-iphone-duo-preorders-tomorrow-with-custom-options-2a4b7a",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "c2c0f4b07e6f289a",
@@ -83956,7 +84115,9 @@
   "added": "2026-10-17T00:20:12Z",
   "dup_of": "e93a0e32d481103c",
   "dup_slug": "netflix-appoints-peter-rice-content-officer-replacing-bajaria-e93a0e",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/19/multimedia/16biz-netflix-lkmh/16biz-netflix-lkmh-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "9075db65e8ffa3bc",
@@ -83970,7 +84131,9 @@
   "added": "2026-10-17T00:20:20Z",
   "dup_of": "f1f5359ff63cb9c8",
   "dup_slug": "trump-administration-sues-california-halt-mail-ballot-counting-alleged-f1f535",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/8a8dbce0be7f01b53762193a2684b1f3bc86dfd5/672_0_6724_5382/master/6724.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=763f9fb2c28767d88ee36deef0f35e07",
+  "img_checked": 2
  },
  {
   "id": "ff61d93f10142060",
@@ -84334,7 +84497,9 @@
   "added": "2026-10-17T00:20:40Z",
   "dup_of": "42c147a6a504cef7",
   "dup_slug": "brazilian-amazon-deforestation-hits-record-low-ahead-election-runoff-42c147",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79684767_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "3395b49839809674",
@@ -84941,7 +85106,9 @@
   "added": "2026-10-16T22:01:51Z",
   "dup_of": "e93a0e32d481103c",
   "dup_slug": "netflix-appoints-peter-rice-content-officer-replacing-bajaria-e93a0e",
-  "index": false
+  "index": false,
+  "image": "https://image.cnbcfm.com/api/v1/image/107073528-1654800231246-rice.jpg?v=1711475524&w=1920&h=1080",
+  "img_checked": 2
  },
  {
   "id": "42c147a6a504cef7",
@@ -85139,7 +85306,9 @@
   "added": "2026-10-16T18:45:47Z",
   "dup_of": "4227246c7fb08a85",
   "dup_slug": "white-house-names-katie-zacharia-new-press-secretary-trump-422724",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/16/arts/16vid-zacharia-out-cover-image/16vid-zacharia-out-cover-image-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "0e8c5a4ed55b4ec3",
@@ -85153,7 +85322,9 @@
   "added": "2026-10-16T18:45:51Z",
   "dup_of": "fc8318609dfba872",
   "dup_slug": "white-house-defends-press-secretary-amid-bar-registration-questions-fc8318",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79658900_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "0983dd7b3a35ece4",
@@ -85927,7 +86098,9 @@
   "added": "2026-10-16T14:45:48Z",
   "dup_of": "4430f4e22947ae3d",
   "dup_slug": "ocasio-cortez-joins-elsayed-trail-michigan-trumpheld-senate-race-4430f4",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/16/us/politics/AOC-Cover-Photo/AOC-Cover-Photo-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "9d337093f9bfed1d",
@@ -86000,7 +86173,9 @@
   "added": "2026-10-16T14:45:56Z",
   "dup_of": "568aa47c4bd878ed",
   "dup_slug": "tesla-unveils-spacex-powered-roadster-that-leapt-over-fleet-568aa4",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "4c7899a36ff05016",
@@ -86449,7 +86624,9 @@
   "added": "2026-10-16T09:40:56Z",
   "dup_of": "b9b2cc25c45f6c21",
   "dup_slug": "tech-stocks-plunge-ai-spending-concerns-hit-south-korea-b9b2cc",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16biz-indonesia-crash-vwfq/16biz-indonesia-crash-vwfq-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "f1e229dc76d61d4d",
@@ -86520,7 +86697,9 @@
   "added": "2026-10-16T09:41:00Z",
   "dup_of": "92dbe4dfb586de8a",
   "dup_slug": "zelensky-announces-ukraine-will-resume-russian-refinery-strikes-92dbe4",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/13301cb98a22a6b1728f97dbe586d68dfc8cba5f/341_0_3578_2863/master/3578.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f79dd362a9be101e46b8110306520b3d",
+  "img_checked": 2
  },
  {
   "id": "ce08915b1812a51f",
@@ -87047,7 +87226,9 @@
   "added": "2026-10-16T04:55:34Z",
   "dup_of": "a75559f2ca43f5a5",
   "dup_slug": "three-children-adult-killed-oregon-elementary-school-shooting-a75559",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dc0/live/70180250-c959-11f1-8879-9d9deeb686e1.jpg",
+  "img_checked": 2
  },
  {
   "id": "4430f4e22947ae3d",
@@ -87252,7 +87433,9 @@
   "added": "2026-10-16T04:55:50Z",
   "dup_of": "a75559f2ca43f5a5",
   "dup_slug": "three-children-adult-killed-oregon-elementary-school-shooting-a75559",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28d2/live/c1615dd0-c901-11f1-bc2e-018d645d8d21.jpg",
+  "img_checked": 2
  },
  {
   "id": "41d2a43ff64d857f",
@@ -87457,7 +87640,9 @@
   "added": "2026-10-16T00:17:49Z",
   "dup_of": "9ec96211d71f48ff",
   "dup_slug": "houthis-strike-yemen-government-palace-aden-target-saudi-assets-9ec962",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/15/15vid-yemen-hq-strike-54513-cover/15vid-yemen-hq-strike-54513-cover-facebookJumbo-v2.jpg",
+  "img_checked": 2
  },
  {
   "id": "c9c43f1e32a507cc",
@@ -87471,7 +87656,9 @@
   "added": "2026-10-16T00:17:53Z",
   "dup_of": "f9936a0b30446874",
   "dup_slug": "job-seekers-claim-thousands-lost-unfulfilled-employment-promises-f9936a",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
+  "img_checked": 2
  },
  {
   "id": "60d1c61b53e19cce",
@@ -87598,7 +87785,9 @@
   "added": "2026-10-16T00:17:57Z",
   "dup_of": "f33f74a9fca5afe4",
   "dup_slug": "trump-pushes-end-ukraine-war-raises-questions-u-s-f33f74",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15dc-trump-ukraine-pmfg/15dc-trump-ukraine-pmfg-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "e93a0e32d481103c",
@@ -87843,7 +88032,9 @@
   "added": "2026-10-16T00:18:13Z",
   "dup_of": "4227246c7fb08a85",
   "dup_slug": "white-house-names-katie-zacharia-new-press-secretary-trump-422724",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/6db616e3289a52fccbb9884a313f47e7661f5a17/0_0_3274_2621/master/3274.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=234aaf0d08d17faacb2135783d5b1044",
+  "img_checked": 2
  },
  {
   "id": "8aafb96779c4d305",
@@ -88319,7 +88510,9 @@
   "added": "2026-10-15T21:45:12Z",
   "dup_of": "61b59749e908408b",
   "dup_slug": "19-injured-minibus-collides-with-freight-train-near-channel-61b597",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4526/live/ca62a180-c8ea-11f1-8e7c-9b1d04b5a9dd.png",
+  "img_checked": 2
  },
  {
   "id": "54d7a618ecd38be0",
@@ -89385,7 +89578,9 @@
   "added": "2026-10-15T18:36:48Z",
   "dup_of": "62390e7d5c5f49be",
   "dup_slug": "australia-beats-new-zealand-rugby-league-world-cup-opener-62390e",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3e8a/live/bac7ea70-c8ac-11f1-9a39-31b474234113.jpg",
+  "img_checked": 2
  },
  {
   "id": "959eed628008861e",
@@ -89629,7 +89824,9 @@
   "added": "2026-10-15T14:23:00Z",
   "dup_of": "9d534dddec58ff0b",
   "dup_slug": "burnham-held-two-hospitality-dinners-with-man-city-chairman-9d534d",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3715/live/6a53aaf0-c890-11f1-b0a4-81e564f1cfaa.jpg",
+  "img_checked": 2
  },
  {
   "id": "2a4b7a7dc287e72e",
@@ -89712,7 +89909,9 @@
   "added": "2026-10-15T14:23:16Z",
   "dup_of": "ad2f1d16b1219488",
   "dup_slug": "texas-democrat-james-talarico-faces-voter-scrutiny-senate-town-ad2f1d",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/15/us/15pol-dems-senate-promo/15pol-dems-senate-promo-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "f616628c1389da33",
@@ -90144,7 +90343,9 @@
   "added": "2026-10-15T09:21:51Z",
   "dup_of": "c43a6407ebc083fa",
   "dup_slug": "houthis-threaten-aramco-after-saudi-evacuation-order-yemen-facility-c43a64",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15inyt-saudi-military-1-cflm/15inyt-saudi-military-1-cflm-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "b0c900be5d02b919",
@@ -90807,7 +91008,9 @@
   "added": "2026-10-15T04:28:01Z",
   "dup_of": "4227246c7fb08a85",
   "dup_slug": "white-house-names-katie-zacharia-new-press-secretary-trump-422724",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15vid-Zacharia-lawyer-cover/15vid-Zacharia-lawyer--fgkp-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "6e73e0b7709907fd",
@@ -90821,7 +91024,9 @@
   "added": "2026-10-15T04:28:05Z",
   "dup_of": "34a9bd72b7267764",
   "dup_slug": "brazil-approves-40hour-work-week-boosting-lula-ahead-runoff-34a9bd",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79645001_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "5a661ac011f7536f",
@@ -91095,7 +91300,9 @@
   "added": "2026-10-15T04:28:09Z",
   "dup_of": "b31569649bf0410b",
   "dup_slug": "saudi-man-charged-over-sophisticated-recording-device-hidden-openai-b31569",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "b9b1dfc3d046da75",
@@ -91346,7 +91553,9 @@
   "added": "2026-10-15T00:04:54Z",
   "dup_of": "34e3643232f207a8",
   "dup_slug": "bumble-shares-surge-firm-reports-1-billion-takeover-talks-34e364",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/ANTHROPIC-INVESTORS-HFO-zgtc/ANTHROPIC-INVESTORS-HFO-zgtc-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "53b42798e408baa9",
@@ -91973,7 +92182,9 @@
   "added": "2026-10-14T21:35:17Z",
   "dup_of": "f2a486ee3c43b90d",
   "dup_slug": "chip-stocks-slide-ai-spending-worries-chinese-rivalry-rise-f2a486",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+  "img_checked": 2
  },
  {
   "id": "bd61b92171acdf66",
@@ -93003,7 +93214,9 @@
   "added": "2026-10-14T17:58:12Z",
   "dup_of": "2a599db62b35d5c3",
   "dup_slug": "apple-announces-homeview-smart-home-device-launch-date-set-2a599d",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-welcome-home-roundup.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "455fff5af7436c35",
@@ -93185,7 +93398,9 @@
   "added": "2026-10-14T17:58:28Z",
   "dup_of": "dc6c472b6bc862cc",
   "dup_slug": "turkey-police-raid-opposition-tv-station-halt-live-broadcasts-dc6c47",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-turkey-TV-wcht/14int-turkey-TV-wcht-facebookJumbo-v2.jpg",
+  "img_checked": 2
  },
  {
   "id": "a57e6ddc2c18530f",
@@ -93371,7 +93586,9 @@
   "added": "2026-10-14T13:03:44Z",
   "dup_of": "9b2218756696f2a5",
   "dup_slug": "bank-america-fined-1-8-billion-lax-moneylaundering-oversight-9b2218",
-  "index": false
+  "index": false,
+  "image": "https://image.cnbcfm.com/api/v1/image/108250555-1767974377302-gettyimages-2201916861-_d6a3281_18br2qz5.jpeg?v=1767974405&w=1920&h=1080",
+  "img_checked": 2
  },
  {
   "id": "3ca96ac041961964",
@@ -93672,7 +93889,9 @@
   "added": "2026-10-14T13:03:56Z",
   "dup_of": "d9dca1a3cdfff1ea",
   "dup_slug": "saudi-minister-promises-serious-response-after-houthi-airport-attacks-d9dca1",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-saudi-airport-vbwm/15int-saudi-airport-vbwm-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "69617cfc65b35ee2",
