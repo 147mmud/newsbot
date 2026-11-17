@@ -1,5 +1,134 @@
 [
  {
+  "id": "b79ad42b1ed8495a",
+  "source_url": "https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html",
+  "source": "The New York Times",
+  "source_title": "El Niño Draws Sea Turtles to California’s Coast for the First Time",
+  "source_summary": "The California coast has seen an influx of olive ridley sea turtles, which are the smallest such reptiles and are normally found in tropical waters.",
+  "source_tags": [
+   "Oceans and Seas",
+   "Turtles and Tortoises",
+   "Endangered and Extinct Species",
+   "El Nino Southern Oscillation",
+   "Fish and Wildlife Service",
+   "National Marine Fisheries Service",
+   "California"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/16/arts/Turtles_release/Turtles_release-facebookJumbo.png",
+  "published": "2026-11-17T08:06:56+00:00",
+  "headline": "El Niño Brings Olive Ridley Turtles to California Coast for First Time",
+  "body": [
+   {
+    "type": "p",
+    "text": "An unusual surge of olive ridley sea turtles has been recorded along the California shoreline, a phenomenon linked to the current El Niño weather pattern."
+   },
+   {
+    "type": "p",
+    "text": "Olive ridleys, the smallest species of sea turtles, typically inhabit tropical waters far from the Pacific Northwest, making their appearance on the West Coast a notable deviation from their normal range."
+   },
+   {
+    "type": "p",
+    "text": "Marine biologists monitoring the situation say the warm ocean currents associated with El Niño are likely drawing the turtles northward, offering them new feeding grounds along California’s coast."
+   },
+   {
+    "type": "p",
+    "text": "The unexpected presence of these turtles has drawn interest from local conservation groups and the public, who are observing the animals as they navigate the unfamiliar habitat."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event highlights how climate variations like El Niño can alter marine species' distribution, affecting ecosystems and coastal communities in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "El Niño is driving olive ridley sea turtles north to California for the first time.",
+   "Olive ridleys are the smallest sea turtle species and usually live in tropical waters.",
+   "Scientists attribute the turtles' movement to warmer ocean currents created by El Niño."
+  ],
+  "meta_description": "El Niño draws olive ridley sea turtles to California's coast for the first time, a rare shift for the smallest sea turtle species.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "El Niño",
+   "olive ridley",
+   "sea turtles",
+   "California coast",
+   "marine wildlife"
+  ],
+  "slug": "el-nino-brings-olive-ridley-turtles-california-coast-first-b79ad4",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-17T08:17:06Z",
+  "trends": []
+ },
+ {
+  "id": "f1fb5ad4d2079fac",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
+  "source": "BBC News",
+  "source_title": "Which areas have the most jobs for 16-24 year-olds? Use our look-up to find out",
+  "source_summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+  "published": "2026-11-17T07:21:37+00:00",
+  "headline": "BBC Launches Tool to Show Jobs Available to 16‑24 Year‑Olds by Area",
+  "body": [
+   {
+    "type": "p",
+    "text": "BBC News published a story on 17 November 2026 introducing an interactive look‑up tool that lets 16‑24 year‑olds see how many jobs are available in their local area and which sectors are hiring."
+   },
+   {
+    "type": "p",
+    "text": "The service allows users to enter their postcode or town and receive a breakdown of job openings by industry, giving young people a clearer picture of where opportunities exist nearby."
+   },
+   {
+    "type": "p",
+    "text": "According to the BBC article, the tool is designed to help the youngest segment of the workforce identify the most active employment markets and target their job searches more effectively."
+   },
+   {
+    "type": "p",
+    "text": "The launch comes amid ongoing concerns about youth unemployment across Europe and North America, prompting policymakers and educators to seek better information for job‑seekers."
+   },
+   {
+    "type": "p",
+    "text": "BBC News encourages readers to use the look‑up feature to explore local labour market trends and to share the resource with peers who are entering the job market."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Youth unemployment remains a policy focus in the US, UK, Canada and Europe, making tools that clarify local job prospects valuable for job‑seekers and policymakers."
+   }
+  ],
+  "key_points": [
+   "BBC News introduced an online tool that maps job openings for 16‑24 year‑olds by location.",
+   "The look‑up provides a sector‑by‑sector breakdown of available positions in each area.",
+   "The resource aims to help young people target their job searches amid broader youth employment challenges."
+  ],
+  "meta_description": "BBC News unveils a new tool that shows how many jobs are available to 16‑24 year‑olds in each area and which sectors are hiring.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "jobs",
+   "youth employment",
+   "labour market",
+   "BBC",
+   "career tools"
+  ],
+  "slug": "bbc-launches-tool-show-jobs-available-1624-yearolds-area-f1fb5a",
+  "reading_minutes": 1,
+  "added": "2026-11-17T08:17:10Z",
+  "trends": []
+ },
+ {
   "id": "c656e17c3cca6bff",
   "source_url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
   "source": "The Guardian",
@@ -38185,7 +38314,9 @@
   "added": "2026-10-29T01:44:26Z",
   "dup_of": "7b956926a420b476",
   "dup_slug": "jio-shares-jump-21-debut-becomes-indias-secondlargest-listed-7b9569",
-  "index": false
+  "index": false,
+  "image": "https://image.cnbcfm.com/api/v1/image/108304675-1778354492260-gettyimages-2253909846-260102_lax_109.jpeg?v=1778354555&w=1920&h=1080",
+  "img_checked": 2
  },
  {
   "id": "caed67f6619196f3",
@@ -94456,7 +94587,9 @@
   "added": "2026-10-14T07:29:41Z",
   "dup_of": "e8b1a20e862bcf41",
   "dup_slug": "judge-orders-white-house-keep-cnn-ms-now-politico-e8b1a2",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-press-ban-ruling-bcqg/13biz-press-ban-ruling-bcqg-facebookJumbo-v2.jpg",
+  "img_checked": 2
  },
  {
   "id": "d1ce815f4d3d5184",
@@ -94693,7 +94826,9 @@
   "added": "2026-10-14T01:51:04Z",
   "dup_of": "b455050704985bda",
   "dup_slug": "pope-leos-lung-nodule-highlights-need-early-treatment-b45505",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2a0/live/ccd96d30-c792-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "eb2341583d0d6526",
@@ -94771,7 +94906,9 @@
   "added": "2026-10-14T01:50:56Z",
   "dup_of": "4227246c7fb08a85",
   "dup_slug": "white-house-names-katie-zacharia-new-press-secretary-trump-422724",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13dc-press-secretary-ckgw/13dc-press-secretary-ckgw-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "2e40a7030ca678b3",
@@ -95361,7 +95498,9 @@
   "added": "2026-10-13T23:05:34Z",
   "dup_of": "b31569649bf0410b",
   "dup_slug": "saudi-man-charged-over-sophisticated-recording-device-hidden-openai-b31569",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13biz-openai-security-fzgm/13biz-openai-security-fzgm-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "84c7a153927e739f",
@@ -96056,7 +96195,9 @@
   "added": "2026-10-13T18:08:42Z",
   "dup_of": "a941923aa13a3053",
   "dup_slug": "argentina-files-legal-claim-over-uk-falklands-oil-exploration-a94192",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/1651600a577e16c6617520e787af63fe99b21bc4/587_0_7911_6328/master/7911.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf0067ce6b9fbb21ae5f6c99629f25bd",
+  "img_checked": 2
  },
  {
   "id": "a941923aa13a3053",
@@ -96528,7 +96669,9 @@
   "added": "2026-10-13T11:01:03Z",
   "dup_of": "3b90f566a3b288e6",
   "dup_slug": "bulgaria-condemns-recent-black-sea-drone-strikes-merchant-vessels-3b90f5",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3983/live/6a522470-c708-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "de75db705d1e714d",
@@ -96542,7 +96685,9 @@
   "added": "2026-10-13T11:01:07Z",
   "dup_of": "09066c34d66374b2",
   "dup_slug": "federal-agents-search-home-rep-ilhan-omar-ahead-midterms-09066c",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/2323e8360ea96fbeaccfbe7a8d8046f98d7d43de/0_0_4806_3845/master/4806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=85a233a4cd5fd21244d56de9ea89cff9",
+  "img_checked": 2
  },
  {
   "id": "ebe61f847677821d",
@@ -97520,7 +97665,9 @@
   "added": "2026-10-13T03:10:07Z",
   "dup_of": "07228413cc260d8b",
   "dup_slug": "breaking-bad-star-rj-mitte-dies-34-known-walter-072284",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79646664_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "bfc39967bcea6b95",
@@ -97697,7 +97844,9 @@
   "added": "2026-10-12T22:34:51Z",
   "dup_of": "d3cb3584b4e4feac",
   "dup_slug": "more-than-500-trees-targeted-removal-d-c-golf-d3cb35",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12dc-trees-fmlz/12dc-trees-fmlz-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "ab8ad969604344c8",
@@ -97955,7 +98104,9 @@
   "added": "2026-10-12T22:35:15Z",
   "dup_of": "2d16d13c8b75835f",
   "dup_slug": "air-strikes-kill-dozens-gold-miners-sudan-egypt-border-2d16d1",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12int-sudan-egypt-airstrike-1-vckq/12int-sudan-egypt-airstrike-1-vckq-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "194dc1f5886d1cc8",
@@ -98473,7 +98624,9 @@
   "added": "2026-10-12T15:12:36Z",
   "dup_of": "09066c34d66374b2",
   "dup_slug": "federal-agents-search-home-rep-ilhan-omar-ahead-midterms-09066c",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc45/live/01c4d970-c64f-11f1-b47f-e3f9cf703bc3.png",
+  "img_checked": 2
  },
  {
   "id": "09066c34d66374b2",
@@ -99221,7 +99374,9 @@
   "added": "2026-10-12T05:46:12Z",
   "dup_of": "ff5d851a98ea2bb4",
   "dup_slug": "uk-prime-minister-burnham-blames-russia-brexit-vote-interference-ff5d85",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b37c/live/b4b0e8c0-c57e-11f1-80f2-5bd1e5df7ada.jpg",
+  "img_checked": 2
  },
  {
   "id": "ed6c544be0e92837",
@@ -99235,7 +99390,9 @@
   "added": "2026-10-12T05:46:31Z",
   "dup_of": "d87dedb9076492e1",
   "dup_slug": "federal-judge-blocks-trump-administration-from-using-taxpayer-ads-d87ded",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79636204_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "c4e640b4ccfd77c4",
@@ -99695,7 +99852,9 @@
   "added": "2026-10-11T23:55:28Z",
   "dup_of": "15d34cdc01af3c16",
   "dup_slug": "blast-hits-riyadhs-king-khalid-airport-amid-houthicoalition-fighting-15d34c",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79631917_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "6b47233e66303f81",
@@ -99709,7 +99868,9 @@
   "added": "2026-10-11T23:55:47Z",
   "dup_of": "dcc48233c883fd3c",
   "dup_slug": "trump-considers-supporting-saudi-fight-against-houthis-after-airport-dcc482",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2165/live/f588e620-c602-11f1-9a39-31b474234113.jpg",
+  "img_checked": 2
  },
  {
   "id": "78c9bd4b505a94f0",
@@ -100139,7 +100300,9 @@
   "added": "2026-10-11T20:10:57Z",
   "dup_of": "dcc48233c883fd3c",
   "dup_slug": "trump-considers-supporting-saudi-fight-against-houthis-after-airport-dcc482",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-saudi-assess-bvtm/11int-saudi-assess-bvtm-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "49f3350e5d2ebf16",
@@ -101466,7 +101629,9 @@
   "added": "2026-10-11T09:15:34Z",
   "dup_of": "ba8e8ba8f048c626",
   "dup_slug": "trump-says-deal-with-putin-will-release-russian-diesel-ba8e8b",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79634623_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "78c733a4f593b12c",
@@ -102170,7 +102335,9 @@
   "added": "2026-10-11T02:08:21Z",
   "dup_of": "15d34cdc01af3c16",
   "dup_slug": "blast-hits-riyadhs-king-khalid-airport-amid-houthicoalition-fighting-15d34c",
-  "index": false
+  "index": false,
+  "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/989x556+0+747/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F67%2F6adafce549cc8bcbb7372304010a%2Fap26282625542805.jpg",
+  "img_checked": 2
  },
  {
   "id": "8bc05b7198c02b2f",
@@ -102483,7 +102650,9 @@
   "added": "2026-10-10T23:28:03Z",
   "dup_of": "ba8e8ba8f048c626",
   "dup_slug": "trump-says-deal-with-putin-will-release-russian-diesel-ba8e8b",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/10/us/10pol-midterms-diesel-trump/10pol-midterms-diesel-trump-facebookJumbo-v2.jpg",
+  "img_checked": 2
  },
  {
   "id": "a976a218925ec25f",
@@ -102550,7 +102719,9 @@
   "added": "2026-10-10T23:27:44Z",
   "dup_of": "d05facb80f7a8876",
   "dup_slug": "microsoft-ceo-urges-emergency-brake-ai-trust-architecture-d05fac",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+  "img_checked": 2
  },
  {
   "id": "09ea0a7a95711950",
@@ -102564,7 +102735,9 @@
   "added": "2026-10-10T23:28:15Z",
   "dup_of": "15d34cdc01af3c16",
   "dup_slug": "blast-hits-riyadhs-king-khalid-airport-amid-houthicoalition-fighting-15d34c",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79629578_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "d05facb80f7a8876",
@@ -102925,7 +103098,9 @@
   "added": "2026-10-11T02:08:41Z",
   "dup_of": "dc6a6a6ea2f981fa",
   "dup_slug": "trump-blames-norway-after-missing-2026-nobel-peace-prize-dc6a6a",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/10/multimedia/10xp-Trump-01-zwvq/10xp-Trump-01-zwvq-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "9fe15a12a7df7ad0",
@@ -103000,7 +103175,9 @@
   "added": "2026-10-10T20:00:59Z",
   "dup_of": "ba8e8ba8f048c626",
   "dup_slug": "trump-says-deal-with-putin-will-release-russian-diesel-ba8e8b",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/57e8/live/ab163790-c50e-11f1-9f41-61faa76b4354.jpg",
+  "img_checked": 2
  },
  {
   "id": "0dad3819eb486694",
@@ -103116,7 +103293,9 @@
   "added": "2026-10-10T20:01:24Z",
   "dup_of": "377e90e61976787a",
   "dup_slug": "hurricane-isaias-makes-landfall-florida-with-dangerous-storm-surge-377e90",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a454/live/61dbc890-c4e3-11f1-a793-e9d00826e617.jpg",
+  "img_checked": 2
  },
  {
   "id": "3c348478df1a5f29",
@@ -103814,7 +103993,9 @@
   "added": "2026-10-10T15:50:47Z",
   "dup_of": "ea24cb5ac914986e",
   "dup_slug": "christa-pike-discharged-after-surviving-execution-attempt-ea24cb",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05ed/live/df926130-c4d0-11f1-bc2e-018d645d8d21.jpg",
+  "img_checked": 2
  },
  {
   "id": "51702e3e43fefd3a",
@@ -103943,7 +104124,9 @@
   "added": "2026-10-10T15:51:12Z",
   "dup_of": "920f135c2d32123e",
   "dup_slug": "verstappen-secures-sprint-pole-over-russell-singapore-gp-920f13",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2084/live/95f182b0-c4ba-11f1-9ce9-55293bd7f0d9.jpg",
+  "img_checked": 2
  },
  {
   "id": "b134901bac303efa",
@@ -103957,7 +104140,9 @@
   "added": "2026-10-10T15:51:08Z",
   "dup_of": "15d34cdc01af3c16",
   "dup_slug": "blast-hits-riyadhs-king-khalid-airport-amid-houthicoalition-fighting-15d34c",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c68/live/40a0f7d0-c507-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "15d34cdc01af3c16",
@@ -104051,7 +104236,9 @@
   "added": "2026-10-10T15:51:00Z",
   "dup_of": "1e4dca187621eb20",
   "dup_slug": "techcrunch-disrupt-2026-experts-reveal-how-land-1-000-1e4dca",
-  "index": false
+  "index": false,
+  "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
+  "img_checked": 2
  },
  {
   "id": "3292f7f8dac8bc8a",
@@ -105096,7 +105283,9 @@
   "added": "2026-10-10T02:40:36Z",
   "dup_of": "582e321073cee6f5",
   "dup_slug": "three-men-convicted-2024-murder-australian-surfer-brothers-mexico-582e32",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/69003479_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "377e90e61976787a",
@@ -105173,7 +105362,9 @@
   "added": "2026-10-10T02:40:56Z",
   "dup_of": "42c765af81d07bf7",
   "dup_slug": "pentagon-announces-public-execution-fort-hood-shooter-firing-squad-42c765",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79625575_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "dc6a6a6ea2f981fa",
@@ -105555,7 +105746,9 @@
   "added": "2026-10-10T02:41:04Z",
   "dup_of": "ba8e8ba8f048c626",
   "dup_slug": "trump-says-deal-with-putin-will-release-russian-diesel-ba8e8b",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/e29aa72f0ab1f4d0fff1cdad48794d44d329f308/1376_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dbee0114c597207216473352b1c67855",
+  "img_checked": 2
  },
  {
   "id": "2f73e25ce74c5aba",
@@ -105745,7 +105938,9 @@
   "added": "2026-10-09T23:10:54Z",
   "dup_of": "42c765af81d07bf7",
   "dup_slug": "pentagon-announces-public-execution-fort-hood-shooter-firing-squad-42c765",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-execution-kvcg/09dc-execution-kvcg-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "8e90ca435a9fa25e",
@@ -105759,7 +105954,9 @@
   "added": "2026-10-09T23:10:58Z",
   "dup_of": "f11f2c288c2c9565",
   "dup_slug": "nikon-disqualifies-small-world-motion-winner-over-ai-use-f11f2c",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/09/science/09SCI-NIKON-UPDATE/09SCI-NIKON-UPDATE-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "d3ebcbfb5cd8078c",
@@ -105773,7 +105970,9 @@
   "added": "2026-10-09T23:11:10Z",
   "dup_of": "ba8e8ba8f048c626",
   "dup_slug": "trump-says-deal-with-putin-will-release-russian-diesel-ba8e8b",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-trump-russia2-zgvq/09dc-trump-russia2-zgvq-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "4778e4b99b8db9c1",
@@ -106130,7 +106329,9 @@
   "added": "2026-10-10T02:41:16Z",
   "dup_of": "6794814fc09c1a8f",
   "dup_slug": "anthropic-ai-model-sent-false-homicide-tip-philadelphia-police-679481",
-  "index": false
+  "index": false,
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "img_checked": 2
  },
  {
   "id": "1006a89764bbbbc7",
@@ -106197,7 +106398,9 @@
   "added": "2026-10-09T19:44:05Z",
   "dup_of": "d3bfc37a6fdb0168",
   "dup_slug": "7-6-magnitude-quake-strikes-panama-prompting-tsunami-alerts-d3bfc3",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg",
+  "img_checked": 2
  },
  {
   "id": "6794814fc09c1a8f",
@@ -106480,7 +106683,9 @@
   "added": "2026-10-09T19:44:21Z",
   "dup_of": "18491f38b58b28f9",
   "dup_slug": "fcc-chair-carr-defers-tv-airing-decision-hasan-execution-18491f",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/b3814b60dc2f89bbd3cd5bce54eb6f455147d747/254_0_1392_1114/master/1392.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd4da01c5769b48428650e91f379311b",
+  "img_checked": 2
  },
  {
   "id": "7f88c83ae8305f70",
@@ -106494,7 +106699,9 @@
   "added": "2026-10-09T19:44:28Z",
   "dup_of": "4cb0a30321347d1e",
   "dup_slug": "democratic-super-pac-pours-5-million-into-kansas-senate-4cb0a3",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/09/us/politics/09pol-kansas-senate-fox-btfl/09pol-kansas-senate-fox-btfl-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "3eebeebdcbbb08bb",
@@ -106571,7 +106778,9 @@
   "added": "2026-10-09T19:19:25Z",
   "dup_of": "42c765af81d07bf7",
   "dup_slug": "pentagon-announces-public-execution-fort-hood-shooter-firing-squad-42c765",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-cong-execution-mlcj/09dc-cong-execution-mlcj-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "0f1d2134d269f5d6",
@@ -106585,7 +106794,9 @@
   "added": "2026-10-09T19:19:38Z",
   "dup_of": "42c765af81d07bf7",
   "dup_slug": "pentagon-announces-public-execution-fort-hood-shooter-firing-squad-42c765",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09dc-execution-vance-qjvk/09dc-execution-vance-qjvk-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "2e11b1b6e0d80af5",
@@ -106717,7 +106928,9 @@
   "added": "2026-10-09T19:19:45Z",
   "dup_of": "d3bfc37a6fdb0168",
   "dup_slug": "7-6-magnitude-quake-strikes-panama-prompting-tsunami-alerts-d3bfc3",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79624147_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "075f92ad6b926725",
@@ -107036,7 +107249,9 @@
   "added": "2026-10-09T18:47:34Z",
   "dup_of": "42c765af81d07bf7",
   "dup_slug": "pentagon-announces-public-execution-fort-hood-shooter-firing-squad-42c765",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f92/live/fba16ad0-c4c4-11f1-9a39-31b474234113.jpg",
+  "img_checked": 2
  },
  {
   "id": "4cb0a30321347d1e",
@@ -107184,7 +107399,9 @@
   "added": "2026-10-09T18:47:38Z",
   "dup_of": "ab049856cf97f36b",
   "dup_slug": "trump-picks-conservative-commentator-katie-zacharia-press-secretary-ab0498",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/09/us/09dc-press/09dc-press-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "ab049856cf97f36b",
@@ -107263,7 +107480,9 @@
   "added": "2026-10-09T18:47:42Z",
   "dup_of": "d629d0097126c5ef",
   "dup_slug": "nyc-mayor-decries-ice-agent-shooting-during-arrest-illegal-d629d0",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09newyork-shooting-ice-target-hkcb/09newyork-shooting-ice-target-hkcb-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "18491f38b58b28f9",
@@ -108351,7 +108570,9 @@
   "added": "2026-10-09T13:07:01Z",
   "dup_of": "31f304d6555dcf31",
   "dup_slug": "green-party-leader-defends-stance-after-zionism-motion-sparks-31f304",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f10d/live/a324f3e0-c3de-11f1-a64c-550be9e3c66b.jpg",
+  "img_checked": 2
  },
  {
   "id": "603a1798959edc67",
@@ -108464,7 +108685,9 @@
   "added": "2026-10-09T13:07:13Z",
   "dup_of": "8dce6b889a93aede",
   "dup_slug": "openai-revenue-revised-down-20-billion-from-earlier-forecast-8dce6b",
-  "index": false
+  "index": false,
+  "image": "https://static01.nyt.com/images/2026/10/09/multimedia/09db-openai-qhkz/09db-openai-qhkz-facebookJumbo.jpg",
+  "img_checked": 2
  },
  {
   "id": "9f1dada88361ec18",
@@ -108739,7 +108962,9 @@
   "added": "2026-10-09T05:58:11Z",
   "dup_of": "31f304d6555dcf31",
   "dup_slug": "green-party-leader-defends-stance-after-zionism-motion-sparks-31f304",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb8b/live/eafd3fa0-c3ad-11f1-a0b5-7b6bc14012a9.jpg",
+  "img_checked": 2
  },
  {
   "id": "36b1e278a0f3e23a",
@@ -109104,7 +109329,9 @@
   "added": "2026-10-08T23:43:47Z",
   "dup_of": "42c765af81d07bf7",
   "dup_slug": "pentagon-announces-public-execution-fort-hood-shooter-firing-squad-42c765",
-  "index": false
+  "index": false,
+  "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c51/live/097ea900-c3c7-11f1-9a39-31b474234113.jpg",
+  "img_checked": 2
  },
  {
   "id": "b6600228f09be0d4",
@@ -110573,7 +110800,9 @@
   "added": "2026-10-08T18:50:50Z",
   "dup_of": "a3eabd53a0843488",
   "dup_slug": "trump-promises-not-attack-iran-before-novembers-us-midterms-a3eabd",
-  "index": false
+  "index": false,
+  "image": "https://i.guim.co.uk/img/media/f9eb5b70bde94bd9b328ff82cf999bee96de89a8/470_0_4208_3366/master/4208.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=8d8074fdd4a2a3408fe3f4335a78221e",
+  "img_checked": 2
  },
  {
   "id": "7dcbf8a5afe012f6",
@@ -110747,7 +110976,9 @@
   "added": "2026-10-08T19:13:29Z",
   "dup_of": "a3eabd53a0843488",
   "dup_slug": "trump-promises-not-attack-iran-before-novembers-us-midterms-a3eabd",
-  "index": false
+  "index": false,
+  "image": "https://static.dw.com/image/79306945_6.jpg",
+  "img_checked": 2
  },
  {
   "id": "99f761068afaf5c6",
