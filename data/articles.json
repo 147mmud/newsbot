@@ -1,5 +1,125 @@
 [
  {
+  "id": "017ffa83242fd131",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+  "source": "BBC News",
+  "source_title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+  "source_summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg",
+  "published": "2026-11-18T16:37:49+00:00",
+  "headline": "Democrats Nominate Hakeem Jeffries as Next US House Speaker",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Democratic Party has put forward Representative Hakeem Jeffries as its nominee for Speaker of the United States House of Representatives. The nomination was announced as the party prepares to assume control of the chamber following the upcoming midterm elections."
+   },
+   {
+    "type": "p",
+    "text": "Jeffries, a member of Congress from New York, is positioned to become the first Black lawmaker to lead the House if Democrats secure a majority in January. The timing of the nomination aligns with the party’s expectation of taking control of the chamber at the start of the new congressional session."
+   },
+   {
+    "type": "p",
+    "text": "The nomination places Jeffries on a clear path toward the speakership, pending the outcome of the November elections and the subsequent organization of the House in January. His potential election would mark a historic milestone in the leadership of the United States legislature."
+   },
+   {
+    "type": "p",
+    "text": "While the source does not detail reactions from other lawmakers or the public, the announcement underscores the Democratic caucus’s confidence in Jeffries and highlights the significance of his prospective role as the first Black speaker."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Jeffries’ potential speakership would be a historic first for Black representation in U.S. legislative leadership, a development of interest to both American and European audiences."
+   }
+  ],
+  "key_points": [
+   "Democrats have nominated Representative Hakeem Jeffries for House Speaker.",
+   "If Democrats gain a majority, Jeffries could become the first Black speaker in history.",
+   "The nomination sets Jeffries on a path to lead the chamber when control shifts in January."
+  ],
+  "meta_description": "Democrats nominate Hakeem Jeffries for US House Speaker, positioning him to become the first Black lawmaker to lead the chamber in January.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Hakeem Jeffries",
+   "US House Speaker",
+   "Democratic Party",
+   "historic milestone",
+   "Congress",
+   "political leadership"
+  ],
+  "slug": "democrats-nominate-hakeem-jeffries-next-us-house-speaker-017ffa",
+  "reading_minutes": 1,
+  "added": "2026-11-18T16:39:57Z",
+  "trends": [
+   "jeffries"
+  ]
+ },
+ {
+  "id": "5296b6f36502c26d",
+  "source_url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+  "source": "CNBC",
+  "source_title": "Target shares rise 5% as retailer posts best sales growth in five years, hikes guidance",
+  "source_summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://image.cnbcfm.com/api/v1/image/108348718-1786564489963-gettyimages-2288364781-260804_dctarget_271.jpeg?v=1794940116&w=1920&h=1080",
+  "published": "2026-11-18T16:34:33+00:00",
+  "headline": "Target Shares Jump 5% After Best Sales Growth in Five Years",
+  "body": [
+   {
+    "type": "p",
+    "text": "Target Corp. reported third‑quarter results that exceeded analysts' sales forecasts, marking the retailer's strongest top‑line growth in five years. The earnings release, issued on Monday, showed the company continuing its turnaround strategy that began earlier this year."
+   },
+   {
+    "type": "p",
+    "text": "Following the beat, Target raised its full‑year guidance, signaling confidence in sustained momentum. The updated outlook includes higher revenue and earnings projections than previously forecast, reflecting stronger consumer demand and effective cost controls."
+   },
+   {
+    "type": "p",
+    "text": "Investors responded positively, with Target's stock climbing about 5% in after‑hours trading on the New York Stock Exchange. The share price gain underscores market approval of the retailer's operational improvements and growth trajectory."
+   },
+   {
+    "type": "p",
+    "text": "The results come as the broader retail sector grapples with shifting consumer habits and inflation pressures. Target's performance suggests that its strategic initiatives, such as expanded private‑label offerings and enhanced digital capabilities, are resonating with shoppers."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Target's strong results highlight a rare growth story in U.S. retail, offering insight into consumer spending trends that affect both American and European markets."
+   }
+  ],
+  "key_points": [
+   "Target beat third‑quarter sales expectations, delivering its best growth in five years.",
+   "The retailer lifted its full‑year guidance, projecting higher revenue and earnings.",
+   "Shares rose roughly 5% in after‑hours trading, reflecting investor confidence."
+  ],
+  "meta_description": "Target shares rise 5% after beating Q3 sales expectations and posting its best growth in five years, prompting a raise in guidance.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Target",
+   "retail",
+   "earnings",
+   "guidance",
+   "stocks"
+  ],
+  "slug": "target-shares-jump-5-after-best-sales-growth-five-5296b6",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-18T16:40:01Z",
+  "trends": []
+ },
+ {
   "id": "e63a04bafdaa554f",
   "source_url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
   "source": "The New York Times",
