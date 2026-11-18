@@ -1,5 +1,138 @@
 [
  {
+  "id": "ef2050480c726e32",
+  "source_url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
+  "source": "BBC News",
+  "source_title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+  "source_summary": "No state has ever been found guilty by an international court of committing genocide.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg",
+  "published": "2026-11-18T23:04:06+00:00",
+  "headline": "Myanmar Poised for First State Genocide Verdict at UN Court",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United Nations International Court of Justice is set to deliver a verdict that could mark the first time a sovereign state is found guilty of genocide, with Myanmar at the centre of the case over the Rohingya massacres."
+   },
+   {
+    "type": "p",
+    "text": "The proceedings stem from allegations that Myanmar's military carried out systematic killings, rapes and village burnings targeting the Rohingya Muslim minority, actions described by the United Nations as ethnic cleansing."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts note that no nation has previously been convicted of genocide by an international tribunal, making the upcoming decision a historic legal milestone."
+   },
+   {
+    "type": "p",
+    "text": "The potential ruling is expected to trigger international diplomatic responses, with Western governments closely monitoring the outcome for implications on human‑rights enforcement and future sanctions."
+   },
+   {
+    "type": "p",
+    "text": "If the court finds Myanmar guilty, it would set a precedent for holding states accountable for mass atrocities under international law."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A genocide conviction would reshape how the international community enforces human‑rights norms and could affect sanctions and aid policies toward Myanmar and similar regimes."
+   }
+  ],
+  "key_points": [
+   "The UN court may issue the first genocide conviction against a state, targeting Myanmar over Rohingya atrocities.",
+   "Allegations involve widespread killings, sexual violence and village destruction by Myanmar's military.",
+   "A guilty verdict would establish a new precedent for international accountability and could influence global diplomatic actions."
+  ],
+  "meta_description": "UN court may deliver first genocide verdict against Myanmar for Rohingya massacres, a historic legal precedent.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Myanmar",
+   "genocide",
+   "UN court",
+   "Rohingya",
+   "international law",
+   "human rights"
+  ],
+  "slug": "myanmar-poised-first-state-genocide-verdict-un-court-ef2050",
+  "reading_minutes": 1,
+  "added": "2026-11-18T23:10:27Z",
+  "trends": []
+ },
+ {
+  "id": "f7885a7f892bd839",
+  "source_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+  "source": "TechCrunch",
+  "source_title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+  "source_summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+  "source_tags": [
+   "AI",
+   "Commerce",
+   "AI agents",
+   "Microsoft",
+   "Satya Nadella"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773211.jpg?w=594",
+  "published": "2026-11-18T22:58:11+00:00",
+  "headline": "Microsoft CEO Nadella Says AI Agents Will Upend Web Advertising",
+  "body": [
+   {
+    "type": "p",
+    "text": "Microsoft chief executive Satya Nadella told TechCrunch on November 18, 2026 that autonomous AI agents are poised to reshape the economics of the internet. He said the technology could fundamentally alter how value is created and captured online, especially for platforms that rely on advertising revenue."
+   },
+   {
+    "type": "p",
+    "text": "Nadella explained that AI agents can act on behalf of users to locate products, compare prices and complete purchases without traditional ad clicks. This shift, he warned, would erode the effectiveness of ad‑driven business models that dominate many web services today."
+   },
+   {
+    "type": "p",
+    "text": "The Microsoft leader highlighted that companies such as Amazon will need to rethink their customer‑acquisition strategies in light of agents that bypass conventional marketing funnels. He suggested that the competitive landscape could see new pricing structures and partnership models emerge as firms adapt."
+   },
+   {
+    "type": "p",
+    "text": "While Nadella did not provide specific timelines, his comments underscore a broader industry conversation about the future role of artificial intelligence in commerce. Analysts see the remarks as a signal that major tech firms are preparing for a transition away from ad‑centric revenue streams toward more direct, agent‑mediated interactions."
+   },
+   {
+    "type": "p",
+    "text": "The prediction adds to growing speculation that AI agents will become a standard interface for online shopping, potentially reshaping advertising budgets and the way brands reach consumers across the United States and Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Advertising revenue underpins many US and European online platforms; a move toward AI agents could reshape how businesses monetize web traffic."
+   }
+  ],
+  "key_points": [
+   "Satya Nadella says AI agents could disrupt advertising‑driven web business models.",
+   "Microsoft warns firms like Amazon must redesign how they attract and retain customers.",
+   "The shift may lead to new pricing and partnership structures as agents handle purchases directly."
+  ],
+  "meta_description": "Microsoft CEO predicts AI agents will upend ad‑driven web economics, urging companies like Amazon to rethink customer acquisition.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "advertising",
+   "Microsoft",
+   "web economy",
+   "Amazon",
+   "Satya Nadella"
+  ],
+  "slug": "microsoft-ceo-nadella-says-ai-agents-will-upend-web-f7885a",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-18T23:10:32Z",
+  "trends": []
+ },
+ {
   "id": "017ffa83242fd131",
   "source_url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
   "source": "BBC News",
