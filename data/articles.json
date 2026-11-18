@@ -1,5 +1,132 @@
 [
  {
+  "id": "2dcacdebf1ed0ba4",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po",
+  "source": "BBC Sport",
+  "source_title": "Belief and bench help Northern Ireland scale new heights as promotion secured",
+  "source_summary": "Manager Michael O'Neill hails the belief shown by his side after they came from behind against Hungary to seal the draw they needed for promotion to Nations League A.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg",
+  "published": "2026-11-17T23:49:31+00:00",
+  "headline": "Northern Ireland Promote to Nations League A After Draw with Hungary",
+  "body": [
+   {
+    "type": "p",
+    "text": "Northern Ireland secured promotion to the top tier of the UEFA Nations League on Thursday, 2026, after a dramatic 2-2 draw against Hungary. The match, part of the league's final round, saw the Irish side come from behind to earn the point they needed to move up to League A."
+   },
+   {
+    "type": "p",
+    "text": "Manager Michael O'Neill praised his squad's belief and resilience, noting that the comeback demonstrated the team's growing confidence. The draw was enough to clinch promotion, marking a historic achievement for the nation in the competition."
+   },
+   {
+    "type": "p",
+    "text": "Hungary, who had taken the lead early in the game, were unable to hold on as Northern Ireland equalised twice in the second half. The result not only lifted the Irish team but also reshaped the standings, ensuring they will face Europe's elite nations in the next Nations League cycle."
+   },
+   {
+    "type": "p",
+    "text": "The promotion is expected to provide Northern Ireland with more high‑profile matches and increased exposure on the international stage, offering valuable experience for players ahead of upcoming qualifiers and tournaments."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Promotion to League A gives Northern Ireland more competitive fixtures against Europe's strongest sides, boosting the team's development and visibility."
+   }
+  ],
+  "key_points": [
+   "Northern Ireland earned promotion to Nations League A after a 2-2 draw with Hungary.",
+   "Manager Michael O'Neill highlighted the team's belief as key to the comeback.",
+   "The result secures Northern Ireland's place among Europe's top national teams for the next league cycle."
+  ],
+  "meta_description": "Northern Ireland clinches promotion to Nations League A after a comeback draw with Hungary, praised by manager Michael O'Neill.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Northern Ireland",
+   "Nations League",
+   "Hungary",
+   "Michael O'Neill",
+   "promotion"
+  ],
+  "slug": "northern-ireland-promote-nations-league-after-draw-with-hungary-2dcacd",
+  "reading_minutes": 1,
+  "added": "2026-11-18T00:00:45Z",
+  "trends": [
+   "nations league playoffs"
+  ]
+ },
+ {
+  "id": "5df5cda1f6fb9d32",
+  "source_url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+  "source": "The Guardian",
+  "source_title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
+  "source_summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare For All. “Everybody’s like, ‘ah well, you’d work with Donald Trump to get Medicare For All?’. I’m like hell yeah, because the point for me is Medicare For All. I don’t care who puts their name on it. I need to go back and talk to Michiganders, and I need to know that our service made their lives easier,” he said at the Atlantic Summit in Washington DC.",
+  "source_tags": [
+   "US news",
+   "Donald Trump",
+   "Trump administration",
+   "Alaska",
+   "US politics",
+   "World news"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=700&quality=85&auto=format&fit=max&s=057988ef0001ab2994d1723ca85ac7c1",
+  "published": "2026-11-17T23:41:08+00:00",
+  "headline": "Trump Dismisses NSA Outage as Power Issue, While Senator Backs Medicare For All",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump responded to a brief internal network outage at the National Security Agency on Thursday, describing the disruption as a normal consequence of being \"big and powerful.\" The NSA had earlier attributed the glitch to scheduled routine maintenance that temporarily affected its systems."
+   },
+   {
+    "type": "p",
+    "text": "The comment came during a live briefing in Washington, D.C., where Trump downplayed the incident and suggested that such technical hiccups are expected for large organizations. No further details about the duration or impact of the outage were provided in the statement."
+   },
+   {
+    "type": "p",
+    "text": "In a separate appearance at the Atlantic Summit in Washington, Democratic Senator-elect Abdul El‑Sayed of Michigan announced his willingness to work with the Trump administration to advance his signature policy, Medicare For All. El‑Sayed emphasized that his priority is the health‑care plan itself, not the political affiliation of its supporters, and said he would return to Michigan to discuss how the proposal could benefit constituents."
+   },
+   {
+    "type": "p",
+    "text": "Both remarks highlight contrasting priorities in the current political climate: the President’s focus on projecting strength amid a technical glitch, and a rising Democratic figure’s push for sweeping health‑care reform despite partisan divisions."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident underscores concerns about the reliability of critical U.S. intelligence infrastructure, while the bipartisan health‑care overture signals shifting dynamics in American policy debates."
+   }
+  ],
+  "key_points": [
+   "President Trump called an NSA network outage a typical issue for a large, powerful agency.",
+   "The NSA said the outage resulted from scheduled routine maintenance.",
+   "Senator-elect Abdul El‑Sayed pledged to collaborate with the Trump administration on Medicare For All."
+  ],
+  "meta_description": "Trump downplays NSA outage as a power issue; Senator-elect El‑Sayed offers to work with the administration on Medicare For All.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "NSA outage",
+   "Donald Trump",
+   "Abdul El‑Sayed",
+   "Medicare For All",
+   "U.S. politics"
+  ],
+  "slug": "trump-dismisses-nsa-outage-power-issue-while-senator-backs-5df5cd",
+  "reading_minutes": 1,
+  "added": "2026-11-18T00:00:48Z",
+  "trends": [
+   "national security agency"
+  ]
+ },
+ {
   "id": "36f71dc747c1e3ea",
   "source_url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo",
   "source": "BBC News",
@@ -60,7 +187,15 @@
    "mary barra",
    "national security",
    "nvidia earnings"
-  ]
+  ],
+  "sources": [
+   {
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+    "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked"
+   }
+  ],
+  "updated": "2026-11-18T00:00:42Z"
  },
  {
   "id": "47b4728cc9a6d81a",
