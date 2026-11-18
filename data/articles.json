@@ -1,5 +1,132 @@
 [
  {
+  "id": "e63a04bafdaa554f",
+  "source_url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
+  "source": "The New York Times",
+  "source_title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+  "source_summary": "Mary Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.",
+  "source_tags": [
+   "Alaska",
+   "Elections, Senate",
+   "Peltola, Mary",
+   "Sullivan, Daniel Scott (1964- )",
+   "Sullivan, Daniel J (1957- )",
+   "Names, Personal",
+   "Democratic Party",
+   "Republican Party",
+   "Midterm Elections (2026)",
+   "United States Politics and Government"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03hfo-pol-ak-senate-01-gcpq/03hfo-pol-ak-senate-01-gcpq-mediumSquareAt3X.jpg",
+  "published": "2026-11-18T07:10:15+00:00",
+  "headline": "Democrats Reach 56 Senate Seats After Mary Peltola Wins Alaska Race",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Democratic Party announced it now holds 56 seats in the U.S. Senate following the election of Mary Peltola in Alaska. Peltola defeated incumbent Republican Senator Dan S. Sullivan, who was seeking a third term."
+   },
+   {
+    "type": "p",
+    "text": "Peltola's victory marks a historic shift for the traditionally conservative state, as she becomes the first Democrat to represent Alaska in the Senate since 2015. The race concluded on November 5, 2026, with Peltola securing a majority of the vote."
+   },
+   {
+    "type": "p",
+    "text": "Sullivan, a two‑term senator, had previously held the seat since 2017. His loss underscores a broader trend of competitive contests in states once considered solidly Republican. Democratic leaders hailed the win as a sign of growing appeal in the Pacific Northwest and highlighted the importance of Alaska's unique economic and environmental issues."
+   },
+   {
+    "type": "p",
+    "text": "The new composition of the Senate gives Democrats a modest but notable edge, potentially influencing upcoming legislative agendas and committee assignments. Analysts suggest the outcome could affect debates on energy policy, indigenous rights, and Arctic affairs, all of which are central to Alaska's interests."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The shift adds to Democratic influence in the Senate, affecting policy discussions that impact both U.S. and European interests in energy and Arctic regions."
+   }
+  ],
+  "key_points": [
+   "Mary Peltola defeated two‑term Republican Senator Dan S. Sullivan in Alaska.",
+   "Peltola is the first Democrat to represent Alaska in the Senate since 2015.",
+   "The win brings the Democratic Party's Senate count to 56 seats."
+  ],
+  "meta_description": "Democrats claim 56 Senate seats after Mary Peltola defeats incumbent Dan S. Sullivan, becoming Alaska's first Democratic senator since 2015.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "U.S. Senate",
+   "Alaska election",
+   "Mary Peltola",
+   "Dan Sullivan",
+   "Democratic majority"
+  ],
+  "slug": "democrats-reach-56-senate-seats-after-mary-peltola-wins-e63a04",
+  "reading_minutes": 1,
+  "added": "2026-11-18T07:15:38Z",
+  "trends": []
+ },
+ {
+  "id": "36c204e33cfbb8a5",
+  "source_url": "https://www.dw.com/en/india-news-gandhi-gives-talk-in-new-york-warns-of-looming-crisis/live-79976447?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "India news: Gandhi gives talk in New York, warns of 'looming crisis'",
+  "source_summary": "Indian opposition leader Rahul Gandhi’s US remarks on the economy drew a BJP counterattack. Meanwhile, the Quad leaders pushed back on moves to undermine regional peace,",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/79976405_6.jpg",
+  "published": "2026-11-18T07:03:00+00:00",
+  "headline": "Rahul Gandhi Warns of Looming Crisis in New York, BJP Hits Back",
+  "body": [
+   {
+    "type": "p",
+    "text": "Indian opposition leader Rahul Gandhi addressed an audience in New York, warning of a looming economic crisis for India. His remarks, delivered on Tuesday, highlighted concerns about the country's financial outlook and called for urgent policy action."
+   },
+   {
+    "type": "p",
+    "text": "The speech prompted a swift response from the ruling Bharatiya Janata Party (BJP), which launched a counterattack accusing Gandhi of exaggerating the situation and undermining the government's efforts to stabilize the economy."
+   },
+   {
+    "type": "p",
+    "text": "In a separate development, leaders of the Quad alliance met to condemn recent actions they said were aimed at destabilising regional peace, reaffirming their commitment to a rules‑based order in the Indo‑Pacific."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The statements reflect rising political tension in India and underscore the Quad's focus on maintaining stability in a region critical to U.S. and European strategic interests."
+   }
+  ],
+  "key_points": [
+   "Rahul Gandhi warned of an imminent economic crisis during a New York talk.",
+   "The BJP responded by accusing him of alarmism and political opportunism.",
+   "Quad leaders denounced moves they view as threatening regional peace."
+  ],
+  "meta_description": "Rahul Gandhi warned of an economic crisis in New York, sparking a BJP rebuttal, while Quad leaders condemned actions threatening regional peace.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Rahul Gandhi",
+   "India",
+   "BJP",
+   "Quad",
+   "regional peace",
+   "economy"
+  ],
+  "slug": "rahul-gandhi-warns-looming-crisis-new-york-bjp-hits-36c204",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-18T07:15:42Z",
+  "trends": []
+ },
+ {
   "id": "2dcacdebf1ed0ba4",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po",
   "source": "BBC Sport",
