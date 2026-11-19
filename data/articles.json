@@ -1,5 +1,126 @@
 [
  {
+  "id": "0f144ace9611dcf3",
+  "source_url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+  "source": "The Guardian",
+  "source_title": "One in four women globally unable to refuse sex within marriage, says UN",
+  "source_summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world has no power of consent if their husband or partner demands sex, according to a UN report. In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and in Arab states face the same predicament. In Latin America and the Caribbean, one in 10 women are not able to refuse sex, said the report by the UN Population Fund ( UNFPA ) published on Thursday.",
+  "source_tags": [
+   "Global development",
+   "Sexual consent",
+   "Sexual violence",
+   "Violence against women and girls",
+   "Society",
+   "United Nations",
+   "Women",
+   "World news",
+   "Human rights",
+   "Rape and sexual assault"
+  ],
+  "category_hint": "world",
+  "image": "https://i.guim.co.uk/img/media/91c39e6279d80734110ea1274bb82ba750178aca/464_0_4640_3712/master/4640.jpg?width=700&quality=85&auto=format&fit=max&s=8a65fd4c087d0bf1c10532e8c847cbd7",
+  "published": "2026-11-19T04:00:16+00:00",
+  "headline": "UN Report Finds One in Four Women Globally Can't Refuse Sex",
+  "body": [
+   {
+    "type": "p",
+    "text": "The United Nations Population Fund released a report on Thursday showing that 25% of women worldwide lack the ability to refuse sexual advances from a husband or partner. The findings highlight a pervasive gap in marital consent across diverse regions."
+   },
+   {
+    "type": "p",
+    "text": "In West and Central Africa, the situation is most acute, with 45% of women unable to say no within marriage. East and Southern Africa and Arab states each report about one‑third of women facing the same constraint."
+   },
+   {
+    "type": "p",
+    "text": "Latin America and the Caribbean see a lower, yet still significant, proportion, where one in ten women cannot refuse sex. The data underscore regional variations but a common pattern of limited marital consent for women."
+   },
+   {
+    "type": "p",
+    "text": "The UNFPA report calls attention to the need for policy interventions and cultural change to protect women's sexual autonomy. It adds to ongoing global discussions about gender equality and human rights."
+   }
+  ],
+  "key_points": [
+   "UNFPA reports that one in four women worldwide cannot refuse sex from a spouse or partner.",
+   "Nearly half of women in West and Central Africa lack marital consent, while one‑third face it in East/Southern Africa and Arab states.",
+   "In Latin America and the Caribbean, one in ten women are unable to say no to sex within marriage."
+  ],
+  "meta_description": "UNFPA report reveals 25% of women globally cannot refuse sex in marriage, with highest rates in West and Central Africa.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "gender rights",
+   "sexual consent",
+   "UNFPA",
+   "Africa",
+   "Latin America",
+   "human rights"
+  ],
+  "slug": "un-report-finds-one-four-women-globally-can-t-0f144a",
+  "reading_minutes": 1,
+  "added": "2026-11-19T04:22:14Z",
+  "trends": []
+ },
+ {
+  "id": "d4344b2d009ac823",
+  "source_url": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
+  "source": "The New York Times",
+  "source_title": "‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days",
+  "source_summary": "The highly anticipated release of Grand Theft Auto VI is expected to prompt a wave of students and employees to stay home on Thursday.",
+  "source_tags": [
+   "Grand Theft Auto VI (Video Game)",
+   "Computer and Video Games",
+   "Labor and Jobs",
+   "Absenteeism and Truancy",
+   "Rockstar Games"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-GTAFlu-wqvt/18xp-GTAFlu-wqvt-mediumSquareAt3X.jpg",
+  "published": "2026-11-19T03:54:30+00:00",
+  "headline": "‘GTA Flu’ Triggers Anticipated Absences in Schools and Workplaces Thursday",
+  "body": [
+   {
+    "type": "p",
+    "text": "The release of Grand Theft Auto VI on Thursday has sparked what some are calling a “GTA Flu,” prompting a surge of planned sick days among students and employees across the United States and other regions."
+   },
+   {
+    "type": "p",
+    "text": "School administrators and business managers are preparing for a noticeable dip in attendance, as the highly anticipated game launch is expected to keep many people at home rather than in classrooms or offices."
+   },
+   {
+    "type": "p",
+    "text": "Educators report that students have already informed teachers of their intention to miss school to play the new title, while employers say staff are scheduling leave to coincide with the release."
+   },
+   {
+    "type": "p",
+    "text": "The phenomenon highlights the cultural impact of major video‑game launches, with the industry’s flagship franchise influencing daily routines beyond the typical entertainment sphere."
+   }
+  ],
+  "key_points": [
+   "Grand Theft Auto VI launches Thursday, prompting many to stay home.",
+   "Schools and workplaces are preparing for a wave of absences dubbed “GTA Flu.”",
+   "The event underscores the broad social influence of major video‑game releases."
+  ],
+  "meta_description": "Grand Theft Auto VI's release sparks a “GTA Flu,” leading schools and businesses to brace for a wave of planned absences on Thursday.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "GTA VI",
+   "video games",
+   "workplace absenteeism",
+   "schools",
+   "Thursday release",
+   "entertainment"
+  ],
+  "slug": "gta-flu-triggers-anticipated-absences-schools-workplaces-thursday-d4344b",
+  "reading_minutes": 1,
+  "added": "2026-11-19T04:22:18Z",
+  "trends": [
+   "ps5 pro"
+  ]
+ },
+ {
   "id": "ef2050480c726e32",
   "source_url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
   "source": "BBC News",
