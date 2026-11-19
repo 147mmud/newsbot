@@ -1,5 +1,122 @@
 [
  {
+  "id": "c0f9ebc4783c4912",
+  "source_url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+  "source": "The New York Times",
+  "source_title": "Live Updates: Trump Departs China After First-Ever Summit With Xi and Putin",
+  "source_summary": "President Trump said before the meeting that he wanted to discuss nuclear weapons and the wars in Ukraine and Iran. But the three leaders appeared to refer to the topics only in vague terms.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
+  "published": "2026-11-19T13:37:51+00:00",
+  "headline": "Trump Leaves China After Historic Summit With Xi and Putin",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump departed Beijing on Saturday after holding the first-ever three‑way summit with Chinese President Xi Jinping and Russian President Vladimir Putin. The meeting took place at the Great Hall of the People and marked a rare direct engagement among the three leaders."
+   },
+   {
+    "type": "p",
+    "text": "Ahead of the talks, Trump said he intended to focus on nuclear weapons policy and the ongoing conflicts in Ukraine and Iran. However, according to the event’s coverage, the discussion remained vague, with the three heads of state only alluding to those issues without detailed commitments."
+   },
+   {
+    "type": "p",
+    "text": "The summit concluded without any concrete agreements being announced, and the leaders appeared to keep their remarks broad. Observers noted the diplomatic significance of the gathering, given the historically limited direct contact between the United States, China and Russia at the highest level."
+   },
+   {
+    "type": "p",
+    "text": "Trump’s brief visit, which also included a state dinner and a tour of the Forbidden City, was the first time a sitting U.S. president has met both Xi and Putin together. The lack of specificity on the key topics raised questions about the summit’s substantive outcomes."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The summit underscores shifting diplomatic dynamics among the U.S., China and Russia, which could affect security and trade policies relevant to Western audiences."
+   }
+  ],
+  "key_points": [
+   "Trump met Xi and Putin in Beijing for a historic three‑way summit.",
+   "He had said he wanted to discuss nuclear weapons and the wars in Ukraine and Iran.",
+   "The leaders only referenced those topics in vague terms, with no concrete agreements announced."
+  ],
+  "meta_description": "Trump leaves Beijing after the first three‑way summit with Xi and Putin, where discussions on nuclear weapons and wars remained vague.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "Xi Jinping",
+   "Vladimir Putin",
+   "summit",
+   "China",
+   "Russia"
+  ],
+  "slug": "trump-leaves-china-after-historic-summit-with-xi-putin-c0f9eb",
+  "reading_minutes": 1,
+  "added": "2026-11-19T13:42:05Z",
+  "trends": []
+ },
+ {
+  "id": "feb249b67917e5a3",
+  "source_url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo",
+  "source": "BBC News",
+  "source_title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+  "source_summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3865/live/755fe980-e407-11f1-ab35-e1af93fa5cce.jpg",
+  "published": "2026-11-19T13:35:52+00:00",
+  "headline": "UK Competition Watchdog Says Viagogo Likely Used Hidden Fees",
+  "body": [
+   {
+    "type": "p",
+    "text": "Britain’s Competition and Markets Authority (CMA) has issued a provisional finding that ticket‑resale platform Viagogo may have breached consumer‑protection law by employing hidden fees, a practice known as drip pricing. The initial assessment was released on 19 November 2026."
+   },
+   {
+    "type": "p",
+    "text": "The CMA’s investigation focused on how Viagogo presented ticket prices to consumers, noting that the final cost often rose after the initial price was shown, due to additional charges added later in the purchase process. This approach can mislead buyers about the true price of tickets."
+   },
+   {
+    "type": "p",
+    "text": "The regulator said the evidence suggests the company’s pricing structure could be in breach of the UK’s Consumer Rights Act, which requires transparent pricing. The CMA has not yet made a final decision and the findings remain provisional pending further review."
+   },
+   {
+    "type": "p",
+    "text": "If the final ruling confirms the provisional findings, Viagogo could face enforcement action, including possible fines or orders to change its pricing practices. The case highlights ongoing scrutiny of online marketplaces that sell event tickets across Europe."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Transparent pricing is a key consumer protection issue in the UK and EU, and the outcome could affect how online ticket platforms operate across Europe."
+   }
+  ],
+  "key_points": [
+   "The CMA provisionally finds Viagogo may have used hidden fees, known as drip pricing.",
+   "The practice could breach the UK Consumer Rights Act requiring transparent pricing.",
+   "Further investigation will determine whether enforcement action will be taken against Viagogo."
+  ],
+  "meta_description": "UK regulator provisionally finds Viagogo may have broken consumer law with hidden fees, prompting possible enforcement action.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Viagogo",
+   "CMA",
+   "hidden fees",
+   "consumer protection",
+   "ticket resale"
+  ],
+  "slug": "uk-competition-watchdog-says-viagogo-likely-used-hidden-fees-feb249",
+  "reading_minutes": 1,
+  "added": "2026-11-19T13:42:09Z",
+  "trends": []
+ },
+ {
   "id": "0f144ace9611dcf3",
   "source_url": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
   "source": "The Guardian",
