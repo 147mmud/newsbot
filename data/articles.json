@@ -1,5 +1,118 @@
 [
  {
+  "id": "597f76dd91d86b84",
+  "source_url": "https://www.npr.org/2026/11/19/nx-s1-6044771/for-new-members-of-congress-getting-a-prime-office-is-a-game-of-chance",
+  "source": "NPR",
+  "source_title": "For new members of Congress, getting a prime office is a game of chance",
+  "source_summary": "Orientation for incoming House members is coming to a close. After two weeks of training, leadership elections and happy hours, one of the last rites of passage is the office lottery.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": null,
+  "published": "2026-11-19T21:46:24+00:00",
+  "headline": "New House Members Face Office Lottery After Two‑Week Orientation",
+  "body": [
+   {
+    "type": "p",
+    "text": "Incoming members of the U.S. House of Representatives are wrapping up a two‑week orientation program that includes training sessions, leadership elections and informal gatherings. The program, held in Washington, D.C., is designed to familiarize the new lawmakers with congressional procedures and to build relationships among the freshman class."
+   },
+   {
+    "type": "p",
+    "text": "As the orientation draws to a close, the final step for the newcomers is the office lottery, a chance‑based system that determines which members receive prime office space in the Capitol complex. The lottery is considered a traditional rite of passage for first‑term legislators, who often compete for desirable locations near committee rooms and leadership offices."
+   },
+   {
+    "type": "p",
+    "text": "The office assignment process follows a series of structured activities that have taken place over the past two weeks, including policy briefings and networking events. While the lottery itself is random, the outcome can influence a member’s ability to meet with staff, constituents and colleagues efficiently, making it a noteworthy conclusion to the orientation period."
+   }
+  ],
+  "key_points": [
+   "New House members complete a two‑week orientation that includes training and leadership elections.",
+   "The final orientation activity is an office lottery that assigns prime Capitol office space.",
+   "Office locations can affect a freshman lawmaker’s daily operations and networking opportunities."
+  ],
+  "meta_description": "Freshmen in the U.S. House finish a two‑week orientation with an office lottery that decides their Capitol workspace.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Congress",
+   "office lottery",
+   "orientation",
+   "House of Representatives",
+   "new members"
+  ],
+  "slug": "new-house-members-face-office-lottery-after-twoweek-orientation-597f76",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-19T21:52:02Z",
+  "trends": []
+ },
+ {
+  "id": "f2dddf2ea7d8bc56",
+  "source_url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+  "source": "TechCrunch",
+  "source_title": "These tech outages are giving Y2K, AI agent style",
+  "source_summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+  "source_tags": [
+   "AI",
+   "Security"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Muharrem-huner.jpg?resize=1200,800",
+  "published": "2026-11-19T21:42:31+00:00",
+  "headline": "Cybersecurity Experts Link Recent Airline, Banking and SaaS Outages",
+  "body": [
+   {
+    "type": "p",
+    "text": "In the past weeks, major airline reservation systems, several banking platforms and popular productivity services have experienced widespread outages, disrupting travel bookings, financial transactions and workplace collaboration."
+   },
+   {
+    "type": "p",
+    "text": "Cybersecurity analysts say the simultaneous failures are unlikely to be random coincidences, suggesting a common underlying vulnerability or coordinated attack may be at play."
+   },
+   {
+    "type": "p",
+    "text": "The incidents have been reported across multiple regions, affecting users in the United States, Europe and other markets, prompting companies to investigate the root causes and reinforce their defenses."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the timing of the disruptions raises concerns about the resilience of critical digital infrastructure, especially as reliance on cloud‑based services continues to grow."
+   },
+   {
+    "type": "p",
+    "text": "While no definitive cause has been confirmed, experts urge organizations to review security protocols and monitor for potential threats that could exploit similar weaknesses."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The outages highlight risks to essential services that many U.S. and European consumers depend on daily."
+   }
+  ],
+  "key_points": [
+   "Airline, banking and productivity platforms suffered major outages recently.",
+   "Cybersecurity experts believe a shared vulnerability or coordinated attack may be responsible.",
+   "Companies are urged to strengthen security measures as digital reliance expands."
+  ],
+  "meta_description": "Cybersecurity experts suggest a common cause behind recent airline, banking and SaaS outages, urging stronger digital defenses.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "cybersecurity",
+   "service outages",
+   "airline industry",
+   "banking tech",
+   "productivity software"
+  ],
+  "slug": "cybersecurity-experts-link-recent-airline-banking-saas-outages-f2dddf",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-19T21:52:04Z",
+  "trends": []
+ },
+ {
   "id": "c0f9ebc4783c4912",
   "source_url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
   "source": "The New York Times",
