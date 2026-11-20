@@ -1,5 +1,132 @@
 [
  {
+  "id": "a8f641bc1705047c",
+  "source_url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+  "source": "BBC News",
+  "source_title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+  "source_summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54e/live/d83db150-e47e-11f1-99a4-65a971d3bd23.jpg",
+  "published": "2026-11-20T02:54:40+00:00",
+  "headline": "Rockstar's GTA 6 Shatters Records, Surpassing $2 Billion in Sales",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rockstar Games has announced that its long‑awaited title Grand Theft Auto VI has generated more than $2 billion in sales, according to industry estimates. The figure marks the highest revenue ever recorded for a single entertainment launch."
+   },
+   {
+    "type": "p",
+    "text": "The release ends a 13‑year gap since the previous main entry in the franchise, and analysts say the rapid accumulation of revenue points to unprecedented consumer demand for the game."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers describe the performance as a benchmark for the broader entertainment sector, noting that no other product has achieved comparable sales in such a short period."
+   },
+   {
+    "type": "p",
+    "text": "The milestone underscores the growing financial clout of video‑game publishers and highlights the potential for future blockbuster releases to shape market dynamics worldwide."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The record illustrates the expanding economic influence of video games, a sector increasingly central to the US and European entertainment markets."
+   }
+  ],
+  "key_points": [
+   "Grand Theft Auto VI has exceeded $2 billion in sales, setting a new entertainment record.",
+   "The launch ends a 13‑year interval since Rockstar's last major title in the series.",
+   "Analysts view the revenue surge as a landmark for the global entertainment industry."
+  ],
+  "meta_description": "Rockstar's GTA 6 tops $2 billion in sales, becoming the biggest entertainment launch ever, analysts say.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "GTA6",
+   "Rockstar Games",
+   "video games",
+   "sales",
+   "entertainment industry"
+  ],
+  "slug": "rockstar-s-gta-6-shatters-records-surpassing-2-billion-a8f641",
+  "reading_minutes": 1,
+  "added": "2026-11-20T03:04:45Z",
+  "trends": []
+ },
+ {
+  "id": "209c7ccca8deca7c",
+  "source_url": "https://www.nytimes.com/2026/11/19/us/politics/rollins-christian-messages.html",
+  "source": "The New York Times",
+  "source_title": "Agriculture Secretary’s Christian Messages to Staff Went ‘Too Far,’ Judge Says",
+  "source_summary": "A federal judge ordered limits on Brooke Rollins’s promotion of her religious beliefs, saying her emails to her department had violated the First Amendment.",
+  "source_tags": [
+   "Rollins, Brooke (1972- )",
+   "Religion-State Relations",
+   "Freedom of Religion",
+   "Workplace Hazards and Violations",
+   "United States Politics and Government",
+   "Federal Courts (US)",
+   "Freedom of Speech and Expression",
+   "First Amendment (US Constitution)",
+   "United States",
+   "Government Employees"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-rollins-gzvc/19dc-rollins-gzvc-mediumSquareAt3X.jpg",
+  "published": "2026-11-20T02:52:59+00:00",
+  "headline": "Judge Limits Agriculture Secretary Brooke Rollins’ Religious Emails",
+  "body": [
+   {
+    "type": "p",
+    "text": "A federal judge has ordered restrictions on Agriculture Secretary Brooke Rollins’ use of department email to promote her Christian beliefs, finding that the messages violated the First Amendment. The ruling was reported by The New York Times on November 20, 2026."
+   },
+   {
+    "type": "p",
+    "text": "The judge concluded that Rollins’ emails to staff crossed the line of permissible religious expression in a government workplace, prompting the court to impose limits on future communications. The decision emphasizes that public‑sector officials must separate personal faith advocacy from official duties."
+   },
+   {
+    "type": "p",
+    "text": "Legal analysts note that the case underscores the ongoing tension between individual religious expression and the constitutional separation of church and state within federal agencies. No further disciplinary action was detailed in the ruling."
+   },
+   {
+    "type": "p",
+    "text": "The Agriculture Department has not issued a public response to the judge’s order, and the matter may set a precedent for how other agencies handle faith‑based messaging by senior officials."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling reinforces First Amendment boundaries for federal employees, affecting how U.S. agencies manage religious communication."
+   }
+  ],
+  "key_points": [
+   "A federal judge ruled that Agriculture Secretary Brooke Rollins’ Christian emails to staff violated the First Amendment.",
+   "The court ordered limits on Rollins’ future use of department email for religious promotion.",
+   "The decision highlights constitutional limits on religious expression by government officials."
+  ],
+  "meta_description": "A federal judge restricts Agriculture Secretary Brooke Rollins’ religious emails, citing First Amendment violations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Brooke Rollins",
+   "Agriculture Department",
+   "First Amendment",
+   "religious expression",
+   "federal court"
+  ],
+  "slug": "judge-limits-agriculture-secretary-brooke-rollins-religious-emails-209c7c",
+  "reading_minutes": 1,
+  "added": "2026-11-20T03:04:49Z",
+  "trends": []
+ },
+ {
   "id": "597f76dd91d86b84",
   "source_url": "https://www.npr.org/2026/11/19/nx-s1-6044771/for-new-members-of-congress-getting-a-prime-office-is-a-game-of-chance",
   "source": "NPR",
