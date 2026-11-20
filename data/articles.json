@@ -1,5 +1,135 @@
 [
  {
+  "id": "974fdeb4375ac413",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
+  "source": "BBC News",
+  "source_title": "Three Kyiv bridges hit during major Russian missile attack",
+  "source_summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg",
+  "published": "2026-11-20T11:12:57+00:00",
+  "headline": "Three Kyiv Bridges Struck in Major Russian Missile Attack, Five Killed",
+  "body": [
+   {
+    "type": "p",
+    "text": "On November 20, 2026, Russian forces launched a large‑scale missile barrage against Ukraine’s capital, hitting three of Kyiv’s key bridges. The strikes were part of a broader wave of attacks that unfolded across the city in the early hours of the day."
+   },
+   {
+    "type": "p",
+    "text": "The missile hits caused significant damage to the infrastructure and resulted in the deaths of five civilians. Emergency services rushed to the scene, treating the injured and securing the affected sites while authorities began assessing the structural impact on the city’s transport network."
+   },
+   {
+    "type": "p",
+    "text": "The assault came shortly after Kyiv announced a successful strike on the Crimean Bridge, a strategic link connecting Russia to the annexed peninsula. Russian officials framed the Kyiv bridge attacks as a direct response to that operation, indicating an escalation in the ongoing conflict."
+   },
+   {
+    "type": "p",
+    "text": "Ukrainian officials condemned the attack as an attempt to disrupt civilian life and hinder movement within the capital. International observers noted the pattern of retaliation and warned that such strikes could further destabilize the region’s security environment."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attacks underscore the risk of infrastructure targeting in the Russia‑Ukraine war, raising concerns for European security and supply routes."
+   }
+  ],
+  "key_points": [
+   "Three major bridges in Kyiv were hit by Russian missiles on November 20, 2026.",
+   "The attacks killed five civilians and caused extensive damage to the city’s transport links.",
+   "The strike followed Ukraine’s recent successful targeting of the Crimean Bridge, signaling heightened retaliation."
+  ],
+  "meta_description": "Russian missiles hit three Kyiv bridges on Nov 20, killing five and escalating after Ukraine struck the Crimean Bridge.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kyiv",
+   "bridges",
+   "missile attack",
+   "Russia",
+   "Ukraine",
+   "casualties"
+  ],
+  "slug": "three-kyiv-bridges-struck-major-russian-missile-attack-five-974fde",
+  "reading_minutes": 1,
+  "added": "2026-11-20T11:27:44Z",
+  "trends": [
+   "ukraine"
+  ]
+ },
+ {
+  "id": "a317d0e872be3df5",
+  "source_url": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
+  "source": "The New York Times",
+  "source_title": "How the U.S. Economy Is Tied to A.I.",
+  "source_summary": "Artificial intelligence has become a huge piece of the U.S. economy. Ben Casselman, the chief economics correspondent for The New York Times, explains why that is and how it might be risky.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "United States Economy",
+   "United States",
+   "Anthropic AI LLC",
+   "NVIDIA Corporation"
+  ],
+  "category_hint": "business",
+  "image": null,
+  "published": "2026-11-20T11:01:37+00:00",
+  "headline": "AI Becomes Central Pillar of the U.S. Economy, Analyst Warns of Risks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Artificial intelligence now forms a massive component of the United States' economic landscape, according to Ben Casselman, the chief economics correspondent for The New York Times."
+   },
+   {
+    "type": "p",
+    "text": "Casselman explains that AI's integration across industries has accelerated growth, reshaping productivity and creating new market opportunities throughout the country."
+   },
+   {
+    "type": "p",
+    "text": "He also cautions that the rapid expansion of AI carries significant risks, including potential disruptions to labor markets and heightened regulatory challenges."
+   },
+   {
+    "type": "p",
+    "text": "The analysis, published on November 20, 2026, underscores how the U.S. economy's reliance on AI technology could influence future policy decisions and business strategies."
+   },
+   {
+    "type": "p",
+    "text": "Readers in the United States, United Kingdom, Canada, Germany, and Switzerland are urged to consider both the economic benefits and the emerging vulnerabilities highlighted by the report."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The growing economic weight of AI could affect employment, investment, and policy decisions in both the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "AI now represents a major segment of the U.S. economy.",
+   "Ben Casselman outlines how AI drives growth across multiple sectors.",
+   "He warns that the rapid AI expansion poses economic and regulatory risks."
+  ],
+  "meta_description": "Ben Casselman details AI's huge role in the U.S. economy and warns of associated risks.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "artificial intelligence",
+   "U.S. economy",
+   "economic risk",
+   "technology",
+   "Ben Casselman"
+  ],
+  "slug": "ai-becomes-central-pillar-u-s-economy-analyst-warns-a317d0",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-20T11:27:48Z",
+  "trends": []
+ },
+ {
   "id": "a8f641bc1705047c",
   "source_url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
   "source": "BBC News",
@@ -124,7 +254,15 @@
   "slug": "judge-limits-agriculture-secretary-brooke-rollins-religious-emails-209c7c",
   "reading_minutes": 1,
   "added": "2026-11-20T03:04:49Z",
-  "trends": []
+  "trends": [],
+  "sources": [
+   {
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+    "title": "Trump officials consider appeal after agriculture secretary’s religious emails ruled unconstitutional – US politics live"
+   }
+  ],
+  "updated": "2026-11-20T11:27:43Z"
  },
  {
   "id": "597f76dd91d86b84",
