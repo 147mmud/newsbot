@@ -1,5 +1,125 @@
 [
  {
+  "id": "aee70c00cf7ed1c5",
+  "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo",
+  "source": "BBC Sport",
+  "source_title": "Superb England run up record win over All Blacks",
+  "source_summary": "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2675/live/d24dc9a0-e5c4-11f1-a738-4787e1a18cce.jpg",
+  "published": "2026-11-21T16:08:59+00:00",
+  "headline": "England Record Win Over All Blacks After Moody Leads Haka Response",
+  "body": [
+   {
+    "type": "p",
+    "text": "England delivered a historic performance on Saturday, defeating New Zealand by a record margin. The match, played on 21 November 2026, saw the English side overturn the All Blacks' long‑standing dominance in a stunning display of attacking rugby."
+   },
+   {
+    "type": "p",
+    "text": "Former England captain Lewis Moody played a pivotal role in the pre‑match ritual, leading the hosts' response to the traditional haka. His leadership helped set the tone for a game in which England surged ahead early and never looked back."
+   },
+   {
+    "type": "p",
+    "text": "The victory not only marked the biggest winning gap England has ever recorded against New Zealand, but it also signalled a revival in English rugby under the current coaching regime. Analysts highlighted the combination of disciplined defence and expansive back‑line play as key factors in the result."
+   },
+   {
+    "type": "p",
+    "text": "Fans and pundits alike praised the team's performance, noting that the win could reshape expectations for upcoming international fixtures. The result will likely influence rankings and future tournament seedings, underscoring England's re‑emergence as a global rugby powerhouse."
+   }
+  ],
+  "key_points": [
+   "England beat New Zealand by their largest ever margin.",
+   "Lewis Moody led England's response to the All Blacks' haka.",
+   "The win signals a strong revival for English rugby on the world stage."
+  ],
+  "meta_description": "England defeats New Zealand by a record margin, with Lewis Moody leading the haka response, marking a major revival in English rugby.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "England rugby",
+   "All Blacks",
+   "record win",
+   "Lewis Moody",
+   "haka"
+  ],
+  "slug": "england-record-win-over-all-blacks-after-moody-leads-aee70c",
+  "reading_minutes": 1,
+  "added": "2026-11-21T16:18:44Z",
+  "trends": []
+ },
+ {
+  "id": "89298d3b7fb05770",
+  "source_url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+  "source": "TechCrunch",
+  "source_title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+  "source_summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+  "source_tags": [
+   "Media & Entertainment",
+   "AI",
+   "Hollywood",
+   "entertainment",
+   "microdramas"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
+  "published": "2026-11-21T16:00:00+00:00",
+  "headline": "Actor Licenses Face to Microdrama Startup Amid Growing AI Trend",
+  "body": [
+   {
+    "type": "p",
+    "text": "A well‑known actor has signed a deal allowing a microdrama startup to use a digital replica of his face for its productions, marking a new chapter in the commercialization of AI‑generated likenesses."
+   },
+   {
+    "type": "p",
+    "text": "The arrangement mirrors a practice already gaining traction in China, where studios frequently license celebrity avatars for short‑form video content and advertising, bypassing the need for physical appearances."
+   },
+   {
+    "type": "p",
+    "text": "Industry analysts warn that widespread adoption of such licensing could reshape Hollywood’s talent model, raising questions about compensation, creative control and the long‑term impact on actors’ careers."
+   },
+   {
+    "type": "p",
+    "text": "Experts cited in the TechCrunch article caution that while the technology offers cost‑saving benefits, it may also erode traditional negotiating power for performers and introduce complex legal challenges around image rights."
+   },
+   {
+    "type": "p",
+    "text": "The actor’s move, reported on November 21, 2026, underscores a broader debate about the balance between innovation and the protection of personal brand equity in the entertainment sector."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The development could affect how US and European audiences see celebrity involvement in media, while also influencing contract negotiations for talent across the entertainment industry."
+   }
+  ],
+  "key_points": [
+   "An actor has licensed his facial likeness to a microdrama startup for AI‑generated content.",
+   "The practice is already common in China and could soon spread to Hollywood.",
+   "Experts warn the trend may alter talent compensation and raise legal issues over image rights."
+  ],
+  "meta_description": "Actor licenses his face to a microdrama startup, sparking debate over AI's impact on Hollywood talent and rights.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "entertainment",
+   "celebrity rights",
+   "Hollywood",
+   "microdrama",
+   "digital likeness"
+  ],
+  "slug": "actor-licenses-face-microdrama-startup-amid-growing-ai-trend-89298d",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-21T16:18:52Z",
+  "trends": []
+ },
+ {
   "id": "a5ae86279d6526d5",
   "source_url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
   "source": "BBC News",
@@ -1186,7 +1306,15 @@
   "added": "2026-11-18T16:39:57Z",
   "trends": [
    "jeffries"
-  ]
+  ],
+  "sources": [
+   {
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/21/magazine/hakeem-jeffries-interview.html",
+    "title": "Hakeem Jeffries on Trump, Stephen Miller, AIPAC and the Road Ahead"
+   }
+  ],
+  "updated": "2026-11-21T16:18:42Z"
  },
  {
   "id": "5296b6f36502c26d",
