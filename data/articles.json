@@ -1,5 +1,119 @@
 [
  {
+  "id": "a5ae86279d6526d5",
+  "source_url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
+  "source": "BBC News",
+  "source_title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+  "source_summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg",
+  "published": "2026-11-21T08:10:25+00:00",
+  "headline": "Zelensky Labels Putin a Killer After Trump Calls Him a Friend",
+  "body": [
+   {
+    "type": "p",
+    "text": "Ukrainian President Volodymyr Zelensky condemned Russian President Vladimir Putin as a \"killer\" in remarks made this week, responding to comments by former U.S. President Donald Trump."
+   },
+   {
+    "type": "p",
+    "text": "Trump had recently greeted Putin ahead of a scheduled meeting in China, describing the two leaders as having a \"great relationship\" and referring to Putin as a friend."
+   },
+   {
+    "type": "p",
+    "text": "Zelensky's statement came amid ongoing tensions over Russia's war in Ukraine, highlighting the stark contrast between the Ukrainian leader's view of Putin and Trump's more conciliatory remarks."
+   },
+   {
+    "type": "p",
+    "text": "The exchange underscores the divergent narratives in international politics, with Zelensky emphasizing the human cost of Russia's actions while Trump framed the relationship in personal terms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The clash of statements illustrates differing diplomatic stances that could influence Western policy toward Russia and affect security considerations in Europe and North America."
+   }
+  ],
+  "key_points": [
+   "Zelensky called Putin a \"killer\" after Trump praised the Russian leader as a friend.",
+   "Trump greeted Putin before a China meeting, saying they have a \"great relationship\".",
+   "The comments reflect contrasting perspectives on Russia amid the Ukraine conflict."
+  ],
+  "meta_description": "Zelensky calls Putin a killer after Trump describes the Russian leader as a friend ahead of a China meeting.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Zelensky",
+   "Putin",
+   "Trump",
+   "Ukraine war",
+   "Russia",
+   "China meeting"
+  ],
+  "slug": "zelensky-labels-putin-killer-after-trump-calls-him-friend-a5ae86",
+  "reading_minutes": 1,
+  "added": "2026-11-21T08:14:49Z",
+  "trends": []
+ },
+ {
+  "id": "a17aa840c297a8d9",
+  "source_url": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
+  "source": "ESPN",
+  "source_title": "Harden has 51 in 'vintage' performance, leaps Kobe for 3rd-most 50-point games",
+  "source_summary": "James Harden posted the 26th 50-point game of his career, passing the late Kobe Bryant for third-most 50-point games in NBA history.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1121%2Fr1748814_1296x729_16%2D9.jpg",
+  "published": "2026-11-21T07:57:04+00:00",
+  "headline": "James Harden Scores 51, Moves Past Kobe Bryant for Third‑Most 50‑Point Games",
+  "body": [
+   {
+    "type": "p",
+    "text": "James Harden delivered a \"vintage\" performance by scoring 51 points, marking the 26th time he has reached the 50‑point threshold in his NBA career. The achievement places him ahead of the late Kobe Bryant, moving Harden into third place on the all‑time list for 50‑point games."
+   },
+   {
+    "type": "p",
+    "text": "The milestone was recorded during the latest NBA contest, though the specific opponent and venue were not detailed in the source. Harden's 51‑point outburst added to his career total of 50‑point games, surpassing Bryant's tally and solidifying his status among the league's most prolific scorers."
+   },
+   {
+    "type": "p",
+    "text": "By eclipsing Bryant, Harden now trails only two players in the record books for the most 50‑point games. The accomplishment underscores his enduring scoring ability and adds another notable entry to his statistical legacy."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Harden's climb up the all‑time scoring list highlights the longevity and impact of his offensive talent, a point of interest for basketball fans in the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "James Harden scored 51 points, his 26th career 50‑point game.",
+   "The performance moves him past Kobe Bryant for third‑most 50‑point games in NBA history.",
+   "Only two players have more 50‑point games than Harden."
+  ],
+  "meta_description": "James Harden's 51‑point game gives him the third‑most 50‑point performances in NBA history, overtaking Kobe Bryant.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "James Harden",
+   "NBA",
+   "50-point games",
+   "Kobe Bryant",
+   "basketball records"
+  ],
+  "slug": "james-harden-scores-51-moves-past-kobe-bryant-thirdmost-a17aa8",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-21T08:14:53Z",
+  "trends": []
+ },
+ {
   "id": "d9d55b2a7cb96960",
   "source_url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
   "source": "The Guardian",
