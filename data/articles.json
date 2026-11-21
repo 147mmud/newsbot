@@ -1,5 +1,125 @@
 [
  {
+  "id": "8d54d4add32f2fcc",
+  "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+  "source": "TechCrunch",
+  "source_title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "source_summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+  "source_tags": [
+   "AI",
+   "Apps",
+   "Security",
+   "Social",
+   "Meredith Whittaker",
+   "signal"
+  ],
+  "category_hint": "tech",
+  "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
+  "published": "2026-11-21T21:37:10+00:00",
+  "headline": "Signal Limits Mobile Screenshots Amid AI Surveillance Threat",
+  "body": [
+   {
+    "type": "p",
+    "text": "Signal, the encrypted messaging service, announced on November 21, 2026 that it is restricting users' ability to capture screenshots in its Android and iOS applications. The change applies to all users of the platform worldwide."
+   },
+   {
+    "type": "p",
+    "text": "The move is presented as a response to what the company describes as an \"existential threat\" posed by artificial‑intelligence‑driven surveillance tools. By limiting screenshots, Signal aims to reduce the risk that private conversations could be harvested and analyzed by AI systems."
+   },
+   {
+    "type": "p",
+    "text": "The new restriction affects both incoming and outgoing messages, and it is enforced directly within the mobile apps. Users attempting to take a screenshot will receive a notification that the action is blocked."
+   },
+   {
+    "type": "p",
+    "text": "Signal's leadership has framed the update as a protective measure for its user base, emphasizing the service's commitment to privacy in an era of increasingly sophisticated monitoring technologies."
+   },
+   {
+    "type": "p",
+    "text": "The announcement comes as privacy advocates and tech analysts continue to debate the balance between usability and security in messaging platforms."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "With AI tools increasingly able to extract data from images, limiting screenshots helps protect personal communications for users in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Signal is disabling screenshot functionality on its Android and iOS apps.",
+   "The restriction is aimed at countering AI‑powered surveillance threats.",
+   "The change was announced on November 21, 2026 and applies globally."
+  ],
+  "meta_description": "Signal blocks mobile screenshots to guard against AI surveillance, citing an existential privacy threat.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Signal",
+   "privacy",
+   "AI surveillance",
+   "mobile security",
+   "messaging apps"
+  ],
+  "slug": "signal-limits-mobile-screenshots-amid-ai-surveillance-threat-8d54d4",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-21T21:47:37Z",
+  "trends": []
+ },
+ {
+  "id": "dcf506cb0b2a9b57",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo",
+  "source": "BBC Sport",
+  "source_title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+  "source_summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg",
+  "published": "2026-11-21T21:14:08+00:00",
+  "headline": "Arsenal’s David Raya to Undergo Shoulder Scan After Newcastle Draw",
+  "body": [
+   {
+    "type": "p",
+    "text": "Arsenal goalkeeper David Raya suffered a shoulder injury during Saturday's Premier League match that ended in a 2-2 draw with Newcastle. The injury forced him off the pitch before the final whistle."
+   },
+   {
+    "type": "p",
+    "text": "Following the match, medical staff confirmed that Raya will undergo a diagnostic scan to assess the extent of the shoulder problem. The scan is scheduled promptly, allowing the club to determine the appropriate treatment and recovery timeline."
+   },
+   {
+    "type": "p",
+    "text": "The 2-2 result left both teams sharing points, with the incident highlighting the physical demands placed on goalkeepers in high‑intensity fixtures. Arsenal will monitor Raya's condition closely as the season progresses."
+   },
+   {
+    "type": "p",
+    "text": "While no further details have been released about the expected absence, the club's medical team will provide updates after the scan results are available."
+   }
+  ],
+  "key_points": [
+   "David Raya left the field with a shoulder injury during Arsenal's 2-2 draw with Newcastle.",
+   "Arsenal has arranged a scan to evaluate the severity of Raya's shoulder problem.",
+   "The match ended in a shared point, and the club awaits scan results before deciding on Raya's next steps."
+  ],
+  "meta_description": "Arsenal goalkeeper David Raya will have a shoulder scan after exiting Saturday's 2-2 draw with Newcastle due to injury.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Arsenal",
+   "David Raya",
+   "injury",
+   "shoulder scan",
+   "Newcastle"
+  ],
+  "slug": "arsenals-david-raya-undergo-shoulder-scan-after-newcastle-draw-dcf506",
+  "reading_minutes": 1,
+  "added": "2026-11-21T21:47:41Z",
+  "trends": []
+ },
+ {
   "id": "aee70c00cf7ed1c5",
   "source_url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo",
   "source": "BBC Sport",
