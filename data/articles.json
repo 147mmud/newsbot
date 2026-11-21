@@ -1,5 +1,140 @@
 [
  {
+  "id": "d9d55b2a7cb96960",
+  "source_url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+  "source": "The Guardian",
+  "source_title": "Trump turns White House press conference into a 2028 succession audition",
+  "source_summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?” The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up his kingdom, hovered in the White House press briefing room on Friday.",
+  "source_tags": [
+   "Trump administration",
+   "Donald Trump",
+   "US politics",
+   "William Shakespeare",
+   "US news",
+   "JD Vance",
+   "Marco Rubio",
+   "Republicans",
+   "The far right"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/13a779743e2a0f56e66622d1d81ea56493964bed/454_0_4537_3631/master/4537.jpg?width=700&quality=85&auto=format&fit=max&s=7e3ba93507fee6b375f66a2e89ce762a",
+  "published": "2026-11-21T00:16:26+00:00",
+  "headline": "Trump Uses White House Press Conference to Test 2028 Successors",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump turned a routine White House press briefing on Friday into what observers described as a rehearsal for the 2028 presidential succession, focusing attention on potential candidates."
+   },
+   {
+    "type": "p",
+    "text": "During the session, former Attorney General Ken Vance and Senator Marco Rubio were subjected to a series of questions that appeared designed to gauge their readiness for a future Trump‑backed ticket."
+   },
+   {
+    "type": "p",
+    "text": "The moment drew unexpected attention to former White House adviser Stephen Miller, who dominated the discussion and shifted the spotlight away from the two candidates."
+   },
+   {
+    "type": "p",
+    "text": "The press conference evoked a line from Shakespeare’s King Lear—“Which of you shall we say doth love us most?”—highlighting the theatrical nature of the succession test inside the briefing room."
+   },
+   {
+    "type": "p",
+    "text": "Analysts noted that the event underscored Trump’s continued influence over the Republican field as the 2028 election approaches."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The briefing signals Trump’s ongoing role in shaping the GOP’s future leadership ahead of the 2028 election, a development watched by both US and European political observers."
+   }
+  ],
+  "key_points": [
+   "Trump framed a Friday press briefing as a test for 2028 successor candidates Ken Vance and Marco Rubio.",
+   "Stephen Miller unexpectedly became the focal point of the discussion.",
+   "The event was likened to a Shakespearean scene, emphasizing its dramatic political overtones."
+  ],
+  "meta_description": "Trump turns a White House press briefing into a 2028 succession audition, spotlighting Ken Vance, Marco Rubio and Stephen Miller.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Donald Trump",
+   "2028 election",
+   "Ken Vance",
+   "Marco Rubio",
+   "Stephen Miller",
+   "Republican Party"
+  ],
+  "slug": "trump-uses-white-house-press-conference-test-2028-successors-d9d55b",
+  "reading_minutes": 1,
+  "added": "2026-11-21T00:54:57Z",
+  "trends": [
+   "trump portfolio palantir nvidia spacex trades",
+   "katie zacharia"
+  ]
+ },
+ {
+  "id": "061f6c8fa6ba0386",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o",
+  "source": "BBC News",
+  "source_title": "Can AI really help spot Black Friday deals? We put it to the test",
+  "source_summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
+  "published": "2026-11-21T00:06:11+00:00",
+  "headline": "BBC Tests Four AI Models to Find Black Friday TV Deals",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a BBC News experiment published on 21 November 2026, four artificial‑intelligence models were put through their paces to see whether they could identify cheaper prices on a new television during the Black Friday sales period."
+   },
+   {
+    "type": "p",
+    "text": "The trial compared the performance of each model as they scanned retailer listings and promotional offers, with the goal of determining if AI could reliably flag bargains that human shoppers might miss."
+   },
+   {
+    "type": "p",
+    "text": "All four systems were evaluated over the same timeframe, using the same product specifications, and their recommendations were recorded for analysis by the BBC team."
+   },
+   {
+    "type": "p",
+    "text": "The findings, detailed in the BBC report, highlight the current capabilities and limitations of AI tools in consumer price‑tracking, offering readers insight into whether such technology can meaningfully reduce purchase costs."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "As shoppers in the US and Europe seek savings during major sales events, understanding AI's ability to spot deals informs consumer choices and tech adoption."
+   }
+  ],
+  "key_points": [
+   "BBC tested four AI models to locate Black Friday TV discounts.",
+   "Each model analyzed retailer listings during the same sales window.",
+   "The results show both promise and constraints for AI‑driven price hunting."
+  ],
+  "meta_description": "BBC tests four AI models to see if they can spot cheaper Black Friday TV deals, revealing the technology's strengths and limits.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "AI",
+   "Black Friday",
+   "TV deals",
+   "consumer tech",
+   "price tracking",
+   "BBC test"
+  ],
+  "slug": "bbc-tests-four-ai-models-find-black-friday-tv-061f6c",
+  "reading_minutes": 1,
+  "added": "2026-11-21T00:55:01Z",
+  "trends": []
+ },
+ {
   "id": "7225edced384ee6f",
   "source_url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
   "source": "The Verge",
