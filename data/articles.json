@@ -1,5 +1,122 @@
 [
  {
+  "id": "e3281306dcda366f",
+  "source_url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
+  "source": "The New York Times",
+  "source_title": "Trump Moves to Restrict Congressional Oversight of Contractors",
+  "source_summary": "The president’s executive order is the latest effort to blunt Democratic plans to investigate the administration’s actions.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Government Contracts and Procurement",
+   "Democratic Party",
+   "Corruption (Institutional)",
+   "Conflicts of Interest",
+   "House of Representatives",
+   "Senate",
+   "Trump, Donald J",
+   "Scharf, William O",
+   "Garcia, Robert (1977- )"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21dc-trump-oversight-gpmz/21dc-trump-oversight-gpmz-mediumSquareAt3X.jpg",
+  "published": "2026-11-22T01:29:53+00:00",
+  "headline": "Trump Issues Executive Order to Limit Congressional Contractor Oversight",
+  "body": [
+   {
+    "type": "p",
+    "text": "President Donald Trump signed an executive order on Tuesday aimed at restricting congressional oversight of government contractors. The order, announced in Washington, seeks to curb the ability of lawmakers to examine contracts tied to the administration's activities."
+   },
+   {
+    "type": "p",
+    "text": "The move is described as the latest effort to blunt Democratic plans to investigate the administration's actions. By limiting access to contractor information, the president hopes to impede forthcoming inquiries that Democrats have signaled they will pursue."
+   },
+   {
+    "type": "p",
+    "text": "Critics argue the order undermines legislative checks on executive power, while supporters contend it protects sensitive operational details. The executive order adds to a series of actions taken by the administration to shape the scope of congressional scrutiny."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Limiting congressional oversight could affect transparency of government spending and the balance of power between the executive branch and legislatures in the US and allied democracies."
+   }
+  ],
+  "key_points": [
+   "President Trump signed an executive order to limit congressional oversight of contractors.",
+   "The order is intended to counter Democratic efforts to investigate the administration.",
+   "The measure has sparked debate over executive authority versus legislative oversight."
+  ],
+  "meta_description": "Trump issues an executive order to restrict congressional oversight of contractors, aiming to block Democratic investigations.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "executive order",
+   "Congress",
+   "contractors",
+   "oversight",
+   "Democrats"
+  ],
+  "slug": "trump-issues-executive-order-limit-congressional-contractor-oversight-e32813",
+  "reading_minutes": 1,
+  "added": "2026-11-22T02:08:57Z",
+  "trends": []
+ },
+ {
+  "id": "79bace62ffcba62c",
+  "source_url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
+  "source": "BBC News",
+  "source_title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+  "source_summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+  "published": "2026-11-22T01:25:03+00:00",
+  "headline": "FBI’s Ten‑Most‑Wanted Mexican Drug Lord Arrested After Shoot‑out",
+  "body": [
+   {
+    "type": "p",
+    "text": "Mexican drug trafficker Fausto Isidro \"Chapo Idisro\" Meza Flores was taken into custody following a gun battle with law‑enforcement officials. The operation took place in Mexico, where Meza Flores had been on the FBI’s list of ten most‑wanted fugitives."
+   },
+   {
+    "type": "p",
+    "text": "Authorities say Meza Flores faces charges of drug trafficking and torture. The confrontation escalated into a shoot‑out before officers were able to detain him without further casualties reported."
+   },
+   {
+    "type": "p",
+    "text": "The arrest marks a significant development in the ongoing effort to dismantle high‑level narcotics networks operating across North America. Officials highlighted the cooperation between Mexican police and U.S. agencies that led to the successful apprehension."
+   },
+   {
+    "type": "p",
+    "text": "While details of the investigation remain limited, the capture of a figure listed among the FBI’s most‑wanted underscores the continued focus on transnational crime groups linked to the drug trade."
+   }
+  ],
+  "key_points": [
+   "Fausto Isidro \"Chapo Idisro\" Meza Flores, a Mexican drug lord, was arrested after a shoot‑out with authorities.",
+   "He was on the FBI’s ten‑most‑wanted list and is accused of drug trafficking and torture.",
+   "The operation demonstrates ongoing cooperation between Mexican and U.S. law‑enforcement agencies."
+  ],
+  "meta_description": "Mexican drug lord Fausto Isidro \"Chapo Idisro\" Meza Flores, on the FBI's ten‑most‑wanted list, was arrested after a shoot‑out, facing drug trafficking and…",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Mexican drug lord",
+   "FBI most wanted",
+   "arrest",
+   "shoot-out",
+   "drug trafficking",
+   "torture"
+  ],
+  "slug": "fbis-tenmostwanted-mexican-drug-lord-arrested-after-shootout-79bace",
+  "reading_minutes": 1,
+  "added": "2026-11-22T02:09:01Z",
+  "trends": []
+ },
+ {
   "id": "8d54d4add32f2fcc",
   "source_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
   "source": "TechCrunch",
