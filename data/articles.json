@@ -1,5 +1,112 @@
 [
  {
+  "id": "16eaa063c1f0f2ab",
+  "source_url": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
+  "source": "The New York Times",
+  "source_title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
+  "source_summary": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Midterm Elections (2026)",
+   "Elections, House of Representatives",
+   "Democratic Party",
+   "Republican Party",
+   "Hubbard, Chuck (Journalist)",
+   "Foxx, Virginia",
+   "Trump, Donald J",
+   "North Carolina",
+   "Greensboro (NC)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-hfo-NC-5-01-tklh/00pol-hfo-NC-5-01-tklh-mediumSquareAt3X.jpg",
+  "published": "2026-11-22T23:28:41+00:00",
+  "headline": "Democrat Chuck Hubbard Upsets 11-Term Republican Virginia Foxx in NC",
+  "body": [
+   {
+    "type": "p",
+    "text": "In a surprising result on Tuesday, retired journalist Chuck Hubbard, running as a Democrat, defeated long‑time incumbent Virginia Foxx in North Carolina’s 5th congressional district. Foxx, a Republican who had served eleven terms in the U.S. House of Representatives, was unseated in a district that has traditionally leaned conservative."
+   },
+   {
+    "type": "p",
+    "text": "The election took place on November 5, 2026, and the final count confirmed Hubbard’s victory, marking a notable shift in a region where Foxx had previously enjoyed strong support. Hubbard’s campaign emphasized his background in journalism and a message of change, resonating with enough voters to overcome Foxx’s entrenched incumbency."
+   },
+   {
+    "type": "p",
+    "text": "Foxx’s loss ends a more than two‑decade tenure in Congress, while Hubbard’s win adds a new Democratic voice from a district that had been a Republican stronghold. The outcome was reported by the New York Times on November 22, 2026, highlighting the unexpected nature of the upset in a conservative area."
+   }
+  ],
+  "key_points": [
+   "Retired journalist Chuck Hubbard won the congressional seat in North Carolina’s 5th district.",
+   "Long‑time Republican Rep. Virginia Foxx, serving eleven terms, was defeated.",
+   "The result marks a rare Democratic victory in a traditionally conservative district."
+  ],
+  "meta_description": "Democrat Chuck Hubbard defeats 11‑term Republican Virginia Foxx in a conservative North Carolina district, ending her long tenure.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Chuck Hubbard",
+   "Virginia Foxx",
+   "North Carolina",
+   "2026 election",
+   "U.S. House"
+  ],
+  "slug": "democrat-chuck-hubbard-upsets-11-term-republican-virginia-foxx-16eaa0",
+  "reading_minutes": 1,
+  "added": "2026-11-22T23:34:05Z",
+  "trends": []
+ },
+ {
+  "id": "69c461a1d0845cc2",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo",
+  "source": "BBC Sport",
+  "source_title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+  "source_summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png",
+  "published": "2026-11-22T23:20:16+00:00",
+  "headline": "Rio Ngumoha Stars as Liverpool Thumps Manchester United 4-0",
+  "body": [
+   {
+    "type": "p",
+    "text": "Liverpool delivered a dominant 4-0 victory over Manchester United on Saturday, with the match taking place at Anfield. The win was highlighted by the performance of young forward Rio Ngumoha, who impressed fans and analysts alike."
+   },
+   {
+    "type": "p",
+    "text": "Match of the Day pundit Danny Murphy described Ngumoha as a \"wow\" player, saying the youngster demonstrated his full potential during the game. Murphy emphasized that Ngumoha's contributions were pivotal in turning the match into a showcase of Liverpool's attacking prowess."
+   },
+   {
+    "type": "p",
+    "text": "Ngumoha's display included key passes, decisive runs and a clinical finish that helped seal the comprehensive win. His performance has been hailed as a sign that he could become a regular game‑changer for the club moving forward."
+   },
+   {
+    "type": "p",
+    "text": "The 4-0 result reinforces Liverpool's strong position in the Premier League and adds to the growing reputation of Ngumoha as one of the team's emerging talents."
+   }
+  ],
+  "key_points": [
+   "Rio Ngumoha played a starring role in Liverpool's 4-0 win over Manchester United.",
+   "Danny Murphy praised Ngumoha as a \"wow\" player who showed his full capability.",
+   "The victory underscores Liverpool's dominance in the Premier League."
+  ],
+  "meta_description": "Rio Ngumoha shines as Liverpool thrash Manchester United 4-0, earning praise from pundit Danny Murphy.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Manchester United",
+   "Rio Ngumoha",
+   "Premier League",
+   "Danny Murphy"
+  ],
+  "slug": "rio-ngumoha-stars-liverpool-thumps-manchester-united-4-0-69c461",
+  "reading_minutes": 1,
+  "added": "2026-11-22T23:34:09Z",
+  "trends": []
+ },
+ {
   "id": "78c2b15f8b0e26ae",
   "source_url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
   "source": "The Verge",
