@@ -1,5 +1,122 @@
 [
  {
+  "id": "d619d9b762e92764",
+  "source_url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+  "source": "The New York Times",
+  "source_title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
+  "source_summary": "The maker of Pampers and Bounty paper towels operates 15 sites capable of running shifts unattended, with plans to add more in 2027.",
+  "source_tags": [
+   "Factories and Manufacturing",
+   "Productivity",
+   "Layoffs and Job Reductions",
+   "Labor and Jobs",
+   "Procter & Gamble Co",
+   "Cincinnati (Ohio)",
+   "Economic Policy Institute",
+   "Bureau of Labor Statistics"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-procter-gamble-factories-pcmw/22biz-procter-gamble-factories-pcmw-mediumSquareAt3X.jpg",
+  "published": "2026-11-22T10:02:21+00:00",
+  "headline": "Procter & Gamble Expands Unmanned Factory Shifts to Cut Costs",
+  "body": [
+   {
+    "type": "p",
+    "text": "Procter & Gamble, the maker of brands such as Pampers and Bounty paper towels, announced plans to increase the number of factory shifts that run without human operators. The company currently runs 15 sites capable of unattended operation and intends to add more locations in 2027 as part of its cost‑reduction strategy."
+   },
+   {
+    "type": "p",
+    "text": "The expansion of unmanned shifts is aimed at lowering labor expenses while maintaining production levels across its manufacturing network. By automating entire shifts, P&G hopes to achieve greater efficiency and reduce overhead associated with staffing factories around the clock."
+   },
+   {
+    "type": "p",
+    "text": "The move reflects a broader trend in the consumer‑goods sector toward greater automation. While the company has not disclosed specific numbers of additional sites, the 2027 timeline signals a phased rollout of the technology across its global operations."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the initiative could influence employment patterns in manufacturing hubs where P&G operates. The company’s focus on cost control comes as it seeks to sustain profit margins amid competitive pressures."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The expansion of unmanned shifts could affect manufacturing jobs and product pricing for consumers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Procter & Gamble currently operates 15 factories capable of fully automated shifts.",
+   "The company plans to add more unmanned sites in 2027 to further cut costs.",
+   "Automation is central to P&G’s strategy to improve efficiency and reduce labor expenses."
+  ],
+  "meta_description": "Procter & Gamble will add more unmanned factory shifts by 2027, expanding its 15 existing sites to cut labor costs and boost efficiency.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Procter & Gamble",
+   "automation",
+   "manufacturing",
+   "cost cutting",
+   "consumer goods"
+  ],
+  "slug": "procter-gamble-expands-unmanned-factory-shifts-cut-costs-d619d9",
+  "reading_minutes": 1,
+  "added": "2026-11-22T10:04:01Z",
+  "trends": []
+ },
+ {
+  "id": "f6ad3d8a0173f5b1",
+  "source_url": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o",
+  "source": "BBC Sport",
+  "source_title": "Injured Jacks out of T20 Australia tour",
+  "source_summary": "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed0e/live/c327b730-e653-11f1-a563-e14cd8b02601.jpg",
+  "published": "2026-11-22T10:00:04+00:00",
+  "headline": "England All-Rounder Will Jacks Ruled Out of Australia T20 Tour",
+  "body": [
+   {
+    "type": "p",
+    "text": "England’s versatile all‑rounder Will Jacks has been forced to miss the remainder of the team’s Twenty20 series in Australia after sustaining a broken hand. The injury was confirmed on Thursday, 22 November 2026, and medical staff ruled him out for the rest of the tour."
+   },
+   {
+    "type": "p",
+    "text": "Jacks, who has been a key contributor with both bat and ball for England, was expected to feature in the remaining matches against the Australian side. The decision comes as the squad prepares for the final fixtures of the series, which are being played across several venues in Australia."
+   },
+   {
+    "type": "p",
+    "text": "Team officials have not disclosed a replacement for Jacks, but the England camp will need to reshuffle its lineup to cover the loss. The injury highlights the physical risks players face on demanding international tours."
+   },
+   {
+    "type": "p",
+    "text": "The broken hand will also keep Jacks out of any upcoming domestic commitments until he is cleared to play. Fans and teammates expressed disappointment at the news, emphasizing his importance to the side’s balance in the short format."
+   }
+  ],
+  "key_points": [
+   "England all‑rounder Will Jacks has broken his hand and will miss the rest of the T20 tour of Australia.",
+   "The injury was confirmed on 22 November 2026, ending his participation in the series.",
+   "England will need to adjust its squad composition for the remaining matches."
+  ],
+  "meta_description": "England's Will Jacks is ruled out of the rest of the T20 Australia tour after breaking his hand, impacting the squad's lineup.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Will Jacks",
+   "England cricket",
+   "T20",
+   "Australia tour",
+   "injury"
+  ],
+  "slug": "england-all-rounder-will-jacks-ruled-out-australia-t20-f6ad3d",
+  "reading_minutes": 1,
+  "added": "2026-11-22T10:04:05Z",
+  "trends": []
+ },
+ {
   "id": "e3281306dcda366f",
   "source_url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
   "source": "The New York Times",
