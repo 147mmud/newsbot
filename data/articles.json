@@ -1,5 +1,132 @@
 [
  {
+  "id": "78c2b15f8b0e26ae",
+  "source_url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+  "source": "The Verge",
+  "source_title": "Delta flights in and out of Atlanta delayed due to system outage",
+  "source_summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at […]",
+  "source_tags": [
+   "News",
+   "Transportation"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2223798482.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-22T17:46:44+00:00",
+  "headline": "Delta Flights at Atlanta’s Largest Hub Face Major Delays After Weight‑Balance System Outage on Sunday, Impacting Hundreds of Departures",
+  "body": [
+   {
+    "type": "p",
+    "text": "All Delta Air Lines flights arriving at or departing from Hartsfield‑Jackson Atlanta International Airport were delayed on Sunday after a malfunction was discovered in the system that calculates an aircraft’s weight and balance."
+   },
+   {
+    "type": "p",
+    "text": "The outage affected every Delta operation at the airport, which serves as the carrier’s largest hub and one of the world’s busiest airports, forcing the airline to hold planes on the ground while technicians worked to restore the software."
+   },
+   {
+    "type": "p",
+    "text": "At the time of reporting, no other airline reported similar problems, and Delta officials said they were focusing on safely resolving the issue before resuming normal schedules."
+   },
+   {
+    "type": "p",
+    "text": "Travelers at the airport experienced long wait times, and the airline advised passengers to check flight status updates and consider alternative arrangements as the delay persisted."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Atlanta is a primary connection point for domestic and international travelers, so delays at Delta’s main hub can ripple across U.S. and European flight networks."
+   }
+  ],
+  "key_points": [
+   "Delta flights in and out of Atlanta were delayed on Sunday due to a weight‑balance calculation system failure.",
+   "Hartsfield‑Jackson Atlanta International Airport is Delta’s largest hub and a major global gateway.",
+   "Only Delta was affected by the outage, and the airline worked to restore the system before flights could resume."
+  ],
+  "meta_description": "Delta flights at Atlanta’s main hub were delayed Sunday after a weight‑balance system outage halted operations.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Delta",
+   "Atlanta",
+   "flight delays",
+   "airline outage",
+   "aviation"
+  ],
+  "slug": "delta-flights-atlantas-largest-hub-face-major-delays-after-78c2b1",
+  "reading_minutes": 1,
+  "added": "2026-11-22T17:47:54Z",
+  "trends": [
+   "delta air lines"
+  ]
+ },
+ {
+  "id": "4c9d70de279cb63c",
+  "source_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+  "source": "BBC News",
+  "source_title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+  "source_summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg",
+  "published": "2026-11-22T17:18:26+00:00",
+  "headline": "Finnish Forces Tow Russia-Bound Vessel After Drone Attack in Gulf of Finland",
+  "body": [
+   {
+    "type": "p",
+    "text": "A cargo ship heading for Russia was struck by a drone in the Gulf of Finland on Saturday, prompting Finnish defence officials to tow the damaged vessel to safety."
+   },
+   {
+    "type": "p",
+    "text": "The Finnish Defence Forces said the attack appeared to be a drone strike and suggested that Ukraine was the most likely source, though Kyiv has not responded to the allegation."
+   },
+   {
+    "type": "p",
+    "text": "The incident occurred in international waters near Finland's eastern coast, and the ship was subsequently moved to a nearby harbour for assessment and repairs."
+   },
+   {
+    "type": "p",
+    "text": "Finnish authorities are investigating the event, emphasizing the need to monitor any escalation that could affect regional security, while the Russian destination of the ship remains unchanged."
+   },
+   {
+    "type": "p",
+    "text": "No casualties were reported, and the drone's origin remains unconfirmed pending further evidence."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The attack highlights rising tensions in the Baltic region, where NATO and EU members monitor potential spillovers from the Russia‑Ukraine conflict."
+   }
+  ],
+  "key_points": [
+   "A Russia-bound cargo ship was hit by a drone in the Gulf of Finland on Saturday.",
+   "Finnish defence officials suspect Ukraine was behind the strike, but Kyiv has not commented.",
+   "The vessel was towed to a nearby harbour for safety and investigation."
+  ],
+  "meta_description": "Finnish forces tow a Russia-bound ship after a suspected Ukrainian drone strike in the Gulf of Finland, raising Baltic security concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Finland",
+   "Baltic Sea",
+   "drone attack",
+   "Russia-Ukraine conflict",
+   "maritime security"
+  ],
+  "slug": "finnish-forces-tow-russia-bound-vessel-after-drone-attack-4c9d70",
+  "reading_minutes": 1,
+  "added": "2026-11-22T17:47:57Z",
+  "trends": [
+   "libya"
+  ]
+ },
+ {
   "id": "d619d9b762e92764",
   "source_url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
   "source": "The New York Times",
