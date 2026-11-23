@@ -1,5 +1,122 @@
 [
  {
+  "id": "fa0361298b0609e5",
+  "source_url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+  "source": "The Verge",
+  "source_title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+  "source_summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]",
+  "source_tags": [
+   "Gadgets",
+   "News",
+   "Tech"
+  ],
+  "category_hint": "tech",
+  "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&strip=all&crop=0,0,100,100",
+  "published": "2026-11-23T03:00:00+00:00",
+  "headline": "Kodak Launches SlideTag Tiny Digital Frame That Also Tracks",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kodak has introduced the SlideTag, a miniature digital photo frame that also functions as a personal tracker. The device follows the company’s recent Charmera collectible line, which earlier this year added a Millennium Edition featuring Y2K‑inspired designs."
+   },
+   {
+    "type": "p",
+    "text": "The SlideTag is positioned as a follow‑up to Kodak’s tiny camera that was released under the Charmera brand. While the original camera was limited to grainy photos and low‑quality video, the new frame allows users to display their images and benefit from its tracking capability."
+   },
+   {
+    "type": "p",
+    "text": "Reto, the designer behind the Charmera series, highlighted that the SlideTag expands the utility of the collection beyond simple image capture. By combining a display with location‑tracking features, the product aims to appeal to collectors who want both nostalgia and practical functionality."
+   },
+   {
+    "type": "p",
+    "text": "The launch comes as Kodak continues to explore niche accessories that blend retro aesthetics with modern technology, targeting fans of the brand’s heritage and new users interested in compact smart devices."
+   }
+  ],
+  "key_points": [
+   "Kodak’s SlideTag is a tiny digital photo frame that doubles as a tracker.",
+   "It follows the Charmera line, which earlier this year added a Y2K‑themed Millennium Edition.",
+   "The device expands on the original Charmera camera’s limited photo and video functions."
+  ],
+  "meta_description": "Kodak releases the SlideTag, a miniature digital photo frame with built‑in tracking, extending its Charmera collectible line.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Kodak",
+   "SlideTag",
+   "digital frame",
+   "tracker",
+   "Charmera",
+   "collectibles"
+  ],
+  "slug": "kodak-launches-slidetag-tiny-digital-frame-that-also-tracks-fa0361",
+  "reading_minutes": 1,
+  "added": "2026-11-23T04:03:58Z",
+  "trends": []
+ },
+ {
+  "id": "3254ef278d69e73b",
+  "source_url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+  "source": "BBC News",
+  "source_title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+  "source_summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
+  "published": "2026-11-23T02:37:02+00:00",
+  "headline": "Seven-Year-Old Rescued After Russian Strike Leaves Nine Dead in Ukraine",
+  "body": [
+   {
+    "type": "p",
+    "text": "Rescuers pulled a seven‑year‑old boy alive from the rubble of a residential building in Ukraine after a Russian strike earlier today, officials said."
+   },
+   {
+    "type": "p",
+    "text": "The attack, which hit the building in the early hours, has killed nine people, and emergency teams continue to search for additional victims who remain missing."
+   },
+   {
+    "type": "p",
+    "text": "Local authorities confirmed that the strike caused extensive damage to the structure, prompting a large‑scale rescue operation that involved firefighters, medical personnel and volunteers."
+   },
+   {
+    "type": "p",
+    "text": "While the rescued child is reported to be in stable condition, families of the deceased await further information as the search for the missing continues."
+   },
+   {
+    "type": "p",
+    "text": "The incident adds to the growing toll of civilian casualties in the ongoing conflict, with international observers monitoring the humanitarian impact."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The strike underscores the civilian toll of the Ukraine conflict, a concern for European security and humanitarian aid efforts."
+   }
+  ],
+  "key_points": [
+   "A seven‑year‑old boy was rescued alive from a building hit by a Russian strike in Ukraine.",
+   "The attack killed nine people and left several others missing.",
+   "Rescue crews are still searching the rubble for additional victims."
+  ],
+  "meta_description": "A 7‑year‑old boy rescued after a Russian strike in Ukraine kills nine, with rescue teams still searching for missing victims.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Ukraine",
+   "Russian strike",
+   "civilian casualties",
+   "rescue operation",
+   "conflict"
+  ],
+  "slug": "seven-year-old-rescued-after-russian-strike-leaves-nine-3254ef",
+  "reading_minutes": 1,
+  "added": "2026-11-23T04:04:02Z",
+  "trends": []
+ },
+ {
   "id": "16eaa063c1f0f2ab",
   "source_url": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
   "source": "The New York Times",
