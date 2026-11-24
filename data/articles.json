@@ -1,5 +1,136 @@
 [
  {
+  "id": "8f2eb146b3141886",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo",
+  "source": "BBC Sport",
+  "source_title": "Palace docked points for using four sub windows in win",
+  "source_summary": "Crystal Palace say they are \"disappointed\" by the ruling which they \"do not agree is reasonable or proportionate\".",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/a5fbf0d0-e7fd-11f1-ab60-79086b6495b8.jpg",
+  "published": "2026-11-24T12:14:19+00:00",
+  "headline": "Crystal Palace Docked Points Over Four Substitutes in Victory",
+  "body": [
+   {
+    "type": "p",
+    "text": "The English Premier League has deducted points from Crystal Palace after the club used four substitute players during a recent win, a breach of competition rules."
+   },
+   {
+    "type": "p",
+    "text": "The sanction was announced on 24 November 2026, the same day the BBC Sport reported the decision, and it affects the club's standing in the league table."
+   },
+   {
+    "type": "p",
+    "text": "Crystal Palace issued a statement expressing disappointment, describing the ruling as neither reasonable nor proportionate."
+   },
+   {
+    "type": "p",
+    "text": "The club indicated it will review the decision and consider possible appeals, while the league maintains that the regulations were clearly violated."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The points deduction could impact Palace's league position and European qualification hopes, influencing the competitive balance of the Premier League."
+   }
+  ],
+  "key_points": [
+   "Crystal Palace were penalised for fielding four substitutes in a match.",
+   "The Premier League deducted points on 24 November 2026.",
+   "The club called the ruling unreasonable and disproportionate."
+  ],
+  "meta_description": "Crystal Palace were docked points for using four substitutes in a win, a decision the club calls unreasonable and disproportionate.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Crystal Palace",
+   "Premier League",
+   "points deduction",
+   "substitutes rule",
+   "football sanctions"
+  ],
+  "slug": "crystal-palace-docked-points-over-four-substitutes-victory-8f2eb1",
+  "reading_minutes": 1,
+  "added": "2026-11-24T12:23:54Z",
+  "trends": []
+ },
+ {
+  "id": "e812e2dc07a173ba",
+  "source_url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
+  "source": "The New York Times",
+  "source_title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
+  "source_summary": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
+  "source_tags": [
+   "Airlines and Airplanes",
+   "Air Traffic Control",
+   "Delays (Transportation)",
+   "Computer Network Outages",
+   "Federal Aviation Administration",
+   "L3Harris Technologies Inc",
+   "Transportation Department (US)",
+   "Duffy, Sean P",
+   "Bedford, Bryan",
+   "El Dorado (Ark)"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/22/us/22dc-l3harris1/22dc-l3harris1-mediumSquareAt3X.jpg",
+  "published": "2026-11-24T12:13:16+00:00",
+  "headline": "Top Aviation Leaders Traveling During FAA’s Nationwide Ground Stop",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Friday, Nov. 13, the Federal Aviation Administration implemented a nationwide ground stop that halted all commercial flights across the United States."
+   },
+   {
+    "type": "p",
+    "text": "At the time of the shutdown, several senior transportation administrators and key executives from the contractor responsible for an ongoing equipment upgrade were in transit, according to the report."
+   },
+   {
+    "type": "p",
+    "text": "The coincidence of high‑level officials traveling while the air‑traffic system was forced offline underscores the vulnerability of critical aviation operations to unexpected disruptions."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that the event highlights the challenges of coordinating essential upgrades with the need to maintain continuous flight services, especially on busy travel days."
+   },
+   {
+    "type": "p",
+    "text": "The incident serves as a reminder that even routine travel by top officials can be impacted when systemic safety measures are activated."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The pause affected millions of passengers and illustrates how operational glitches can disrupt both travel and the movement of officials overseeing aviation safety."
+   }
+  ],
+  "key_points": [
+   "The FAA’s nationwide ground stop on Nov. 13 halted all U.S. commercial flights.",
+   "Transportation administrators and contractor executives were traveling during the shutdown.",
+   "The overlap raises concerns about coordination of equipment upgrades and flight continuity."
+  ],
+  "meta_description": "FAA’s nationwide ground stop on Nov. 13 halted flights while top aviation officials and contractor executives were traveling, highlighting system…",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FAA",
+   "ground stop",
+   "aviation officials",
+   "flight cancellations",
+   "equipment upgrade"
+  ],
+  "slug": "top-aviation-leaders-traveling-during-faas-nationwide-ground-stop-e812e2",
+  "reading_minutes": 1,
+  "added": "2026-11-24T12:23:58Z",
+  "trends": []
+ },
+ {
   "id": "f05308563db45104",
   "source_url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
   "source": "The New York Times",
@@ -190,7 +321,15 @@
   "added": "2026-11-23T14:30:13Z",
   "trends": [
    "jensen huang"
-  ]
+  ],
+  "sources": [
+   {
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+    "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live"
+   }
+  ],
+  "updated": "2026-11-24T12:23:53Z"
  },
  {
   "id": "90f831b4fd3ecc8c",
