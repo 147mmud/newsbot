@@ -1,5 +1,132 @@
 [
  {
+  "id": "f05308563db45104",
+  "source_url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
+  "source": "The New York Times",
+  "source_title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
+  "source_summary": "A court filing said the engineer captured meetings on customers, A.I. safety and a foreign government briefing. Federal prosecutors are investigating what he did with the recordings.",
+  "source_tags": [
+   "Artificial Intelligence",
+   "Wiretapping and Other Eavesdropping Devices and Methods",
+   "Computer Security",
+   "Alfozan, Abdulrahman",
+   "OpenAI Labs"
+  ],
+  "category_hint": "tech",
+  "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-openai-bugging-1-jmpw/23biz-openai-bugging-1-jmpw-mediumSquareAt3X.jpg",
+  "published": "2026-11-24T01:36:36+00:00",
+  "headline": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
+  "body": [
+   {
+    "type": "p",
+    "text": "Federal prosecutors have filed a court document alleging that an engineer at OpenAI secretly recorded dozens of internal meetings. The recordings reportedly covered discussions about OpenAI's customers, artificial‑intelligence safety protocols, and a briefing that involved a foreign government."
+   },
+   {
+    "type": "p",
+    "text": "The filing, submitted to a U.S. federal court, does not specify the exact dates of the recordings but indicates that the engineer captured the conversations without authorization. Prosecutors are now examining how the engineer stored and possibly shared the material, though the filing does not disclose any alleged misuse."
+   },
+   {
+    "type": "p",
+    "text": "OpenAI has not publicly responded to the allegations at this time. The investigation underscores the growing legal attention on how AI companies handle sensitive information, especially as they expand collaborations with governments and commercial partners."
+   }
+  ],
+  "key_points": [
+   "A court filing accuses an OpenAI engineer of secretly recording internal meetings on customers, AI safety and a foreign‑government briefing.",
+   "Federal prosecutors are investigating the engineer's handling of the recordings and any potential distribution.",
+   "OpenAI has not yet issued a comment on the allegations."
+  ],
+  "meta_description": "Prosecutors allege an OpenAI engineer secretly recorded internal meetings on customers, AI safety and a foreign briefing, prompting a federal…",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "OpenAI",
+   "engineer",
+   "recordings",
+   "federal prosecution",
+   "AI safety",
+   "privacy"
+  ],
+  "slug": "openai-engineer-secretly-recorded-dozens-meetings-prosecutors-say-f05308",
+  "reading_minutes": 1,
+  "added": "2026-11-24T01:56:01Z",
+  "trends": []
+ },
+ {
+  "id": "4e0e74aaa0cc89c5",
+  "source_url": "https://www.nytimes.com/2026/11/23/us/politics/walter-willett-trump-harvard.html",
+  "source": "The New York Times",
+  "source_title": "How a Scientist Behind the Mediterranean Diet Got Caught in Trump’s War on Harvard",
+  "source_summary": "Walter Willett studies the link between diet and health, a high priority for Health Secretary Robert F. Kennedy Jr. His grants were frozen anyway.",
+  "source_tags": [
+   "Diet and Nutrition",
+   "United States Politics and Government",
+   "Colleges and Universities",
+   "Research",
+   "Medicine and Health",
+   "Food",
+   "Harvard University",
+   "National Institutes of Health",
+   "Willett, Walter C",
+   "United States"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/20/multimedia/DC-WILLETT-HEADER-ALT-2-cgbm/DC-WILLETT-HEADER-ALT-2-cgbm-mediumSquareAt3X-v3.jpg",
+  "published": "2026-11-24T01:31:14+00:00",
+  "headline": "Harvard Nutrition Scientist Walter Willett Caught in Trump‑Era Harvard Conflict",
+  "body": [
+   {
+    "type": "p",
+    "text": "Walter Willett, a leading researcher at Harvard who helped develop the Mediterranean diet, has become a focal point in the ongoing political dispute between former President Donald Trump and the university. Willett’s work examines how dietary patterns influence health outcomes, a subject that has drawn the attention of Health Secretary Robert F. Kennedy Jr., who has made nutrition research a top priority for his department."
+   },
+   {
+    "type": "p",
+    "text": "The controversy intensified after Trump’s administration launched a broader campaign targeting Harvard’s academic programs, labeling them as politically biased. In the midst of this “war on Harvard,” Willett’s research grants were frozen, despite his prominence in the field and the relevance of his findings to public health policy."
+   },
+   {
+    "type": "p",
+    "text": "Kennedy Jr. has publicly emphasized the importance of diet‑related studies, underscoring the disconnect between the federal health agenda and the funding freeze affecting Willett’s projects. The freeze has raised concerns among scientists about the stability of research financing when political battles intersect with academic work."
+   },
+   {
+    "type": "p",
+    "text": "Harvard officials have not commented on the specific grant status, but the episode highlights the vulnerability of university‑based research to external political pressures. Willett’s situation serves as a case study of how high‑profile scientists can become entangled in broader ideological conflicts."
+   },
+   {
+    "type": "p",
+    "text": "The episode occurs as the United States and European nations continue to grapple with diet‑related health challenges, making the protection of nutrition research a matter of international public‑health interest."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The freeze of grants for a leading diet researcher could affect public‑health policies in the US and Europe, where nutrition guidance is a key tool against chronic disease."
+   }
+  ],
+  "key_points": [
+   "Harvard nutrition expert Walter Willett’s grants were frozen amid Trump’s campaign against the university.",
+   "Health Secretary Robert F. Kennedy Jr. has highlighted diet research as a priority despite the funding freeze.",
+   "The incident illustrates how political disputes can directly impact academic health research."
+  ],
+  "meta_description": "Harvard nutrition scientist Walter Willett’s grants were frozen amid Trump’s political clash with the university, raising concerns for health research.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Walter Willett",
+   "Mediterranean diet",
+   "Harvard",
+   "health research",
+   "Trump",
+   "Robert F. Kennedy Jr."
+  ],
+  "slug": "harvard-nutrition-scientist-walter-willett-caught-trumpera-harvard-conflict-4e0e74",
+  "reading_minutes": 1,
+  "added": "2026-11-24T01:56:06Z",
+  "trends": []
+ },
+ {
   "id": "dfa4db2f66ca0142",
   "source_url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
   "source": "The Guardian",
