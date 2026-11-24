@@ -1,5 +1,118 @@
 [
  {
+  "id": "b69a766984af6eb6",
+  "source_url": "https://www.dw.com/en/scientists-discover-quasar-formed-630-million-years-after-the-big-bang/a-80041882?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "Scientists discover quasar formed 630 million years after the Big Bang",
+  "source_summary": "Scientists are seeing the quasar as it was 13.1 billion years ago — when the universe was less than 5% of its current age.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/80041951_6.jpg",
+  "published": "2026-11-24T22:34:00+00:00",
+  "headline": "Quasar Discovered From 630 Million Years After Big Bang",
+  "body": [
+   {
+    "type": "p",
+    "text": "An international team of astronomers has identified a quasar that formed roughly 630 million years after the Big Bang, making it one of the earliest known supermassive black holes."
+   },
+   {
+    "type": "p",
+    "text": "The object is observed as it existed 13.1 billion years ago, when the universe was less than five percent of its present age, allowing scientists to study conditions in the infant cosmos."
+   },
+   {
+    "type": "p",
+    "text": "The discovery was made using deep‑space observations that captured the quasar’s light, which has traveled across the expanding universe to reach Earth’s telescopes."
+   },
+   {
+    "type": "p",
+    "text": "Researchers say the finding provides a rare glimpse into the formation of massive structures shortly after the universe’s birth, challenging existing models of early black‑hole growth."
+   },
+   {
+    "type": "p",
+    "text": "Further analysis of the quasar’s properties is expected to refine theories about how such massive objects could develop so quickly after the Big Bang."
+   }
+  ],
+  "key_points": [
+   "Scientists have detected a quasar that formed about 630 million years after the Big Bang.",
+   "The quasar is observed as it was 13.1 billion years ago, when the universe was under five percent of its current age.",
+   "The find offers new insight into the rapid emergence of supermassive black holes in the early universe."
+  ],
+  "meta_description": "Astronomers spot a quasar from 630 million years after the Big Bang, shedding light on early cosmic evolution.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "quasar",
+   "astronomy",
+   "early universe",
+   "cosmology",
+   "discovery"
+  ],
+  "slug": "quasar-discovered-from-630-million-years-after-big-bang-b69a76",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-24T22:41:04Z",
+  "trends": []
+ },
+ {
+  "id": "fbae9cff9d2de32a",
+  "source_url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
+  "source": "The New York Times",
+  "source_title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
+  "source_summary": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
+  "source_tags": [
+   "Newspapers",
+   "Politics and Government",
+   "Vice Presidents and Vice Presidency (US)",
+   "Tennessee",
+   "Gore, Al"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-gore-newpaper-qptl/24xp-gore-newpaper-qptl-mediumSquareAt3X.jpg",
+  "published": "2026-11-24T22:33:51+00:00",
+  "headline": "Former Vice President Al Gore Purchases Tennessee’s Carthage Courier",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Carthage Courier, a weekly newspaper serving Carthage, Tennessee, announced this week that former Vice President Al Gore is acquiring the publication. The paper, which has been in continuous operation since its founding in 1913, will change ownership to the former U.S. official."
+   },
+   {
+    "type": "p",
+    "text": "The announcement was made by the Carthage Courier’s editorial staff, confirming that the transaction is proceeding under the name of Al Gore. Details of the purchase price or financing were not disclosed in the statement released by the newspaper."
+   },
+   {
+    "type": "p",
+    "text": "Founded over a century ago, the Carthage Courier has chronicled local news, events, and community issues for generations of residents. Its long history includes coverage of regional developments and serves as a primary source of information for the town and surrounding areas."
+   },
+   {
+    "type": "p",
+    "text": "The acquisition marks a notable entry of a former national political figure into the ownership of a small-town newspaper. While the future editorial direction has not been outlined, the change in ownership is expected to be closely watched by the paper’s readership and local stakeholders."
+   }
+  ],
+  "key_points": [
+   "Al Gore is buying the Carthage Courier, a weekly newspaper in Tennessee.",
+   "The Carthage Courier has been publishing continuously since 1913.",
+   "The purchase was announced by the newspaper this week, with no financial details released."
+  ],
+  "meta_description": "Former Vice President Al Gore is acquiring Tennessee's historic Carthage Courier newspaper, in operation since 1913.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Al Gore",
+   "Carthage Courier",
+   "newspaper acquisition",
+   "Tennessee",
+   "media ownership"
+  ],
+  "slug": "former-vice-president-al-gore-purchases-tennessees-carthage-courier-fbae9c",
+  "reading_minutes": 1,
+  "added": "2026-11-24T22:41:06Z",
+  "trends": []
+ },
+ {
   "id": "8f2eb146b3141886",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/c8wy5vy160kpo",
   "source": "BBC Sport",
