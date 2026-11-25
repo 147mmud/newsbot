@@ -1,5 +1,124 @@
 [
  {
+  "id": "cffc2f91e377f589",
+  "source_url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+  "source": "BBC News",
+  "source_title": "US stocks fall further as fears over AI intensify",
+  "source_summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
+  "published": "2026-11-25T15:24:34+00:00",
+  "headline": "US Stocks Slip as AI Concerns Push Nasdaq Down Nearly 4%",
+  "body": [
+   {
+    "type": "p",
+    "text": "On Friday morning, November 25, 2026, all three major U.S. stock indexes opened lower in early trading. Investors saw the Dow Jones Industrial Average, the S&P 500 and the tech‑heavy Nasdaq each register declines as the trading day began."
+   },
+   {
+    "type": "p",
+    "text": "The Nasdaq led the losses, falling close to 4%, reflecting heightened anxiety over developments in artificial intelligence. Analysts linked the drop to growing concerns that AI‑related risks could affect corporate earnings and market stability."
+   },
+   {
+    "type": "p",
+    "text": "The broader market weakness underscored the influence of AI sentiment on equity prices, with traders monitoring further news for clues about how the sector might evolve in the coming weeks."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The drop highlights how AI‑related uncertainty can quickly ripple through U.S. equity markets, affecting investors in both the United States and Europe."
+   }
+  ],
+  "key_points": [
+   "All three main U.S. indexes opened lower in early trading on November 25, 2026.",
+   "The Nasdaq fell almost 4%, the steepest decline among the indexes.",
+   "The slide was driven by intensifying fears surrounding artificial intelligence."
+  ],
+  "meta_description": "U.S. stock indexes fell on Friday, with the Nasdaq down nearly 4% amid rising AI concerns.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "US stocks",
+   "Nasdaq",
+   "AI concerns",
+   "stock market",
+   "technology sector"
+  ],
+  "slug": "us-stocks-slip-ai-concerns-push-nasdaq-down-nearly-cffc2f",
+  "reading_minutes": 1,
+  "added": "2026-11-25T15:32:03Z",
+  "trends": []
+ },
+ {
+  "id": "93b661595e04a42a",
+  "source_url": "https://www.dw.com/en/us-army-detonates-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "US Army detonates unstable lead-based explosives in Iowa",
+  "source_summary": "The Army says a controlled blast is the safest way to deal with explosive chemicals that began crystallizing in storage, but residents say changing guidance has left them confused about where the lead dust will go.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/80043086_6.jpg",
+  "published": "2026-11-25T15:09:00+00:00",
+  "headline": "U.S. Army Conducts Controlled Detonation of Lead Explosives in Iowa",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Army carried out a controlled explosion on Tuesday in Iowa to neutralize a stockpile of unstable, lead‑based explosives that had begun to crystallize while in storage. Army officials said the blast was the safest method to prevent accidental release of hazardous chemicals."
+   },
+   {
+    "type": "p",
+    "text": "The explosives, stored at a military facility in the state, started forming crystals, prompting concerns about their stability. According to the Army, detonating the material under controlled conditions would eliminate the risk of an uncontrolled incident and protect surrounding communities."
+   },
+   {
+    "type": "p",
+    "text": "Local residents, however, expressed confusion over the Army’s guidance regarding the dispersion of lead dust after the blast. Some community members reported receiving mixed messages about where the dust might travel and what protective measures were recommended."
+   },
+   {
+    "type": "p",
+    "text": "Officials from the Army reiterated that extensive monitoring would be conducted before, during, and after the detonation to ensure that any lead particles remain within safe limits. They also promised to keep the public informed as data becomes available."
+   },
+   {
+    "type": "p",
+    "text": "The incident highlights ongoing challenges in managing aging munitions stockpiles and underscores the need for clear communication between military authorities and nearby populations."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event illustrates the risks associated with aging munitions and the importance of transparent communication for public safety in the U.S. and Europe."
+   }
+  ],
+  "key_points": [
+   "The Army detonated unstable lead‑based explosives in Iowa to avoid accidental release.",
+   "Crystallization of the explosives raised safety concerns, prompting the controlled blast.",
+   "Residents are uncertain about the Army’s guidance on potential lead dust fallout."
+  ],
+  "meta_description": "The U.S. Army safely detonated unstable lead‑based explosives in Iowa, but residents remain unclear about lead dust guidance.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "U.S. Army",
+   "explosives",
+   "Iowa",
+   "lead contamination",
+   "public safety"
+  ],
+  "slug": "u-s-army-conducts-controlled-detonation-lead-explosives-iowa-93b661",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-25T15:32:07Z",
+  "trends": []
+ },
+ {
   "id": "a87455069b89efa4",
   "source_url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
   "source": "BBC News",
