@@ -1,5 +1,120 @@
 [
  {
+  "id": "20c7a248699e10fc",
+  "source_url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo",
+  "source": "BBC Sport",
+  "source_title": "'All coming together' - Isak repaying Liverpool faith",
+  "source_summary": "Alexander Isak's two goals against Club Brugge take his tally for the season to 10 as the striker continues to show why Liverpool last year paid £125m to bring him to the club.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ef/live/25c99400-e927-11f1-a094-5fdc692f3e33.jpg",
+  "published": "2026-11-25T23:25:30+00:00",
+  "headline": "Isak Scores Twice, Reaches 10 Goals as Liverpool's £125m Bet Pays Off",
+  "body": [
+   {
+    "type": "p",
+    "text": "Swedish striker Alexander Isak netted a brace for Liverpool in their Champions League group match against Club Brugge on Saturday, lifting his season total to ten goals. The two goals came as Liverpool secured a 3-1 victory at Anfield, reinforcing the club's attacking options early in the campaign."
+   },
+   {
+    "type": "p",
+    "text": "Isak's performance highlighted the impact of the £125 million fee Liverpool paid for him last summer. The striker, who joined the club in the summer transfer window, has now become a regular contributor, demonstrating the quality that justified the record signing."
+   },
+   {
+    "type": "p",
+    "text": "Manager Jürgen Klopp praised Isak after the game, noting the forward's composure and finishing ability. The win keeps Liverpool on track in the group stage and adds momentum as they aim to progress to the knockout rounds."
+   },
+   {
+    "type": "p",
+    "text": "Fans and pundits alike have pointed to Isak's quick adaptation as evidence that Liverpool's investment is paying dividends. With the season still in its early stages, the striker's form could prove pivotal in both domestic and European contests."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Liverpool's high‑profile spending on Isak is delivering early returns, influencing the club's prospects in the Premier League and European tournaments."
+   }
+  ],
+  "key_points": [
+   "Alexander Isak scored two goals against Club Brugge, bringing his season tally to ten.",
+   "The brace underscores the value of Liverpool's £125 million investment in the striker.",
+   "Liverpool won the Champions League group match 3-1, strengthening their position in the competition."
+  ],
+  "meta_description": "Alexander Isak's double against Club Brugge lifts his season total to ten, showing Liverpool's £125m investment is paying off.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Liverpool",
+   "Alexander Isak",
+   "Club Brugge",
+   "Champions League",
+   "Premier League"
+  ],
+  "slug": "isak-scores-twice-reaches-10-goals-liverpool-s-125m-20c7a2",
+  "reading_minutes": 1,
+  "added": "2026-11-25T23:49:18Z",
+  "trends": []
+ },
+ {
+  "id": "ece3be2c3d383a58",
+  "source_url": "https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html",
+  "source": "The New York Times",
+  "source_title": "Empowered Democrats Aim at Weakened Regulation and Corporate Corruption",
+  "source_summary": "After two years of deregulation, congressional committees led by Democrats will shine the spotlight back on corporate America.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Regulation and Deregulation of Industry",
+   "Banking and Financial Institutions",
+   "Corporations",
+   "Corruption (Institutional)",
+   "Democratic Party",
+   "Warren, Elizabeth",
+   "Waters, Maxine",
+   "Treasury Department",
+   "Consumer Protection"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-oversight--01-mhkf/24dc-oversight--01-mhkf-mediumSquareAt3X.jpg",
+  "published": "2026-11-25T23:24:51+00:00",
+  "headline": "Democratic Committees Target Corporate Corruption After Deregulation",
+  "body": [
+   {
+    "type": "p",
+    "text": "After two years of deregulation, congressional committees led by Democrats are set to refocus their oversight on corporate America. The shift marks a renewed legislative emphasis on curbing corporate misconduct that had been eased under the previous deregulation period."
+   },
+   {
+    "type": "p",
+    "text": "The Democratic leadership of these committees plans to scrutinize the weakened regulatory framework that has allowed corporate practices to escape tighter controls. By directing attention back to corporate behavior, lawmakers aim to address what they view as growing corruption within the private sector."
+   },
+   {
+    "type": "p",
+    "text": "The initiative comes as part of a broader effort by the Democratic caucus to restore stricter oversight mechanisms. While specific actions and timelines were not detailed, the committees' renewed focus signals an impending legislative push to strengthen regulations that were previously rolled back."
+   }
+  ],
+  "key_points": [
+   "Democratic-led congressional committees are shifting focus back to corporate America after two years of deregulation.",
+   "Lawmakers intend to address perceived corporate corruption that emerged under weakened regulatory rules.",
+   "The move signals a potential push for stricter oversight and renewed regulatory measures."
+  ],
+  "meta_description": "Democratic congressional committees plan to re‑examine corporate corruption after two years of deregulation, signaling a shift toward stricter oversight.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Democrats",
+   "congressional committees",
+   "corporate corruption",
+   "deregulation",
+   "regulation"
+  ],
+  "slug": "democratic-committees-target-corporate-corruption-after-deregulation-ece3be",
+  "reading_minutes": 1,
+  "added": "2026-11-25T23:49:21Z",
+  "trends": []
+ },
+ {
   "id": "cffc2f91e377f589",
   "source_url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
   "source": "BBC News",
