@@ -1,5 +1,138 @@
 [
  {
+  "id": "a87455069b89efa4",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+  "source": "BBC News",
+  "source_title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+  "source_summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
+  "published": "2026-11-25T04:49:55+00:00",
+  "headline": "Kilmar Ábrego García Departs US for Spain, Ending Trump Deportation Fight",
+  "body": [
+   {
+    "type": "p",
+    "text": "Kilmar Ábrego García has left the United States and traveled to Spain, bringing an end to a high‑profile deportation dispute that began under the administration of former President Donald Trump."
+   },
+   {
+    "type": "p",
+    "text": "The case first gained attention when Ábrego García was deported to El Salvador, only to be returned to the United States, turning the episode into a flash point in discussions about Trump's immigration policies."
+   },
+   {
+    "type": "p",
+    "text": "Legal experts note that the episode highlighted tensions between U.S. immigration enforcement and the rights of individuals facing removal, especially when cross‑border movements are involved."
+   },
+   {
+    "type": "p",
+    "text": "Observers say the conclusion of Ábrego García's case may influence future debates on how the United States handles similar deportation scenarios, though no further legal actions have been announced."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The dispute illustrated how individual deportation cases can become symbols in broader US immigration policy debates, relevant to policymakers and the public in Europe."
+   }
+  ],
+  "key_points": [
+   "Kilmar Ábrego García has moved from the US to Spain, ending his deportation case.",
+   "His prior deportation to El Salvador and return sparked debate over Trump’s immigration agenda.",
+   "The case underscored broader tensions in US immigration enforcement."
+  ],
+  "meta_description": "Kilmar Ábrego García leaves the US for Spain, ending a deportation saga that highlighted debate over Trump's immigration agenda.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "immigration",
+   "deportation",
+   "Trump",
+   "US policy",
+   "Spain",
+   "legal dispute"
+  ],
+  "slug": "kilmar-abrego-garcia-departs-us-spain-ending-trump-deportation-a87455",
+  "reading_minutes": 1,
+  "added": "2026-11-25T05:04:14Z",
+  "sources": [
+   {
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+    "title": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight"
+   }
+  ],
+  "updated": "2026-11-25T05:04:12Z",
+  "trends": []
+ },
+ {
+  "id": "1683344d8c36626f",
+  "source_url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+  "source": "The New York Times",
+  "source_title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+  "source_summary": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+  "source_tags": [
+   "Deaths (Obituaries)",
+   "Firestone Ford, Martha",
+   "Detroit Lions",
+   "Football",
+   "Firestone Natural Rubber Co",
+   "National Football League",
+   "Ford, William Clay"
+  ],
+  "category_hint": "business",
+  "image": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/merlin_184116561_86296d93-61d7-42f1-a351-868f49df8338-mediumSquareAt3X.jpg",
+  "published": "2026-11-25T03:52:08+00:00",
+  "headline": "Martha Firestone Ford, 101, Dies After Leading Detroit Lions Since 2014",
+  "body": [
+   {
+    "type": "p",
+    "text": "Martha Firestone Ford, the 101‑year‑old owner of the Detroit Lions, passed away on November 25, 2026. She had assumed control of the NFL franchise after the death of her husband, William Clay Ford Sr., in 2014."
+   },
+   {
+    "type": "p",
+    "text": "Ford, a member of the storied Ford family, became one of the few women to own an NFL team when she took the helm of the Lions. Her tenure oversaw the team's operations and community initiatives in Detroit, maintaining the family’s long‑standing involvement in professional football."
+   },
+   {
+    "type": "p",
+    "text": "Her death marks the end of a rare era of female ownership in the league, highlighting the limited number of women who have held such positions in the NFL’s history. The Lions organization and league officials have not yet released detailed statements, but her legacy as a pioneering female owner is widely recognized."
+   },
+   {
+    "type": "p",
+    "text": "Ford’s passing is being noted by sports observers for both her longevity and her role in a traditionally male‑dominated sport. The Detroit community, long connected to the Ford family, is expected to honor her contributions to the city’s football heritage."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "Her death underscores the rarity of female ownership in the NFL, a league where women owners remain few."
+   }
+  ],
+  "key_points": [
+   "Martha Firestone Ford, age 101, died on November 25, 2026.",
+   "She became Detroit Lions owner after her husband William Clay Ford Sr. died in 2014.",
+   "Ford was among a small group of female owners in NFL history."
+  ],
+  "meta_description": "Martha Firestone Ford, 101, dies after leading the Detroit Lions since 2014, one of the NFL's few female owners.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Detroit Lions",
+   "Martha Firestone Ford",
+   "NFL ownership",
+   "women in sports",
+   "American football"
+  ],
+  "slug": "martha-firestone-ford-101-dies-after-leading-detroit-lions-168334",
+  "reading_minutes": 1,
+  "added": "2026-11-25T05:04:22Z",
+  "trends": []
+ },
+ {
   "id": "b69a766984af6eb6",
   "source_url": "https://www.dw.com/en/scientists-discover-quasar-formed-630-million-years-after-the-big-bang/a-80041882?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
