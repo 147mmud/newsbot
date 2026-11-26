@@ -1,5 +1,116 @@
 [
  {
+  "id": "c129b270d18be3e3",
+  "source_url": "https://www.dw.com/en/fedex-plane-overshoots-runway-at-miami-airport-on-thanksgiving-eve/a-80056541?maca=en-rss-en-all-1573-rdf",
+  "source": "DW",
+  "source_title": "FedEx plane overshoots runway at Miami airport on Thanksgiving eve",
+  "source_summary": "A FedEx plane from Memphis ran past the end of a runway at Miami airport, shutting most runways and causing delays of several hours on the eve of the US holiday.",
+  "source_tags": [
+   "News"
+  ],
+  "category_hint": "world",
+  "image": "https://static.dw.com/image/80056499_6.jpg",
+  "published": "2026-11-26T08:01:00+00:00",
+  "headline": "FedEx Plane Overshoots Miami Runway, Causing Thanksgiving Eve Delays",
+  "body": [
+   {
+    "type": "p",
+    "text": "A FedEx cargo aircraft originating from Memphis overran the end of a runway at Miami International Airport on the evening of Thanksgiving. The incident occurred just before the U.S. holiday, prompting immediate safety protocols and the temporary closure of most of the airport’s runways."
+   },
+   {
+    "type": "p",
+    "text": "Airport officials halted all take‑offs and landings while emergency crews secured the area and inspected the aircraft for damage. The runway overrun forced the shutdown of the primary and auxiliary strips, disrupting scheduled passenger and cargo operations across the region."
+   },
+   {
+    "type": "p",
+    "text": "The closure resulted in several hours of delays for airlines and freight carriers, affecting travelers and businesses relying on timely deliveries during the holiday period. Airlines rerouted flights to alternate airports, and some passengers were rebooked for later departures."
+   },
+   {
+    "type": "p",
+    "text": "Authorities indicated that investigations would examine the cause of the overrun, though no injuries were reported. FedEx released a statement confirming the aircraft was safely evacuated and that operations would resume once the runway was cleared and cleared for use."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The incident disrupted holiday travel and cargo shipments, highlighting the vulnerability of major U.S. airports to operational setbacks."
+   }
+  ],
+  "key_points": [
+   "A FedEx cargo plane from Memphis overshot a runway at Miami International Airport on Thanksgiving Eve.",
+   "The overrun forced the shutdown of most runways, causing several hours of flight and cargo delays.",
+   "No injuries were reported, and investigations into the cause are underway."
+  ],
+  "meta_description": "FedEx cargo plane overruns Miami runway on Thanksgiving Eve, shutting most runways and causing hours of delays.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "FedEx",
+   "Miami airport",
+   "runway overrun",
+   "Thanksgiving",
+   "flight delays"
+  ],
+  "slug": "fedex-plane-overshoots-miami-runway-causing-thanksgiving-eve-delays-c129b2",
+  "reading_minutes": 1,
+  "img_checked": 2,
+  "added": "2026-11-26T08:06:21Z",
+  "trends": []
+ },
+ {
+  "id": "2fb2b3d8c7d7dcd7",
+  "source_url": "https://www.bbc.co.uk/sport/american-football/articles/c64gn8ryp7jno",
+  "source": "BBC Sport",
+  "source_title": "Four-time MVP Rodgers released and may have played last NFL game",
+  "source_summary": "Veteran quarterback Aaron Rodgers may have played his last game in the NFL after being released by the Pittsburgh Steelers.",
+  "source_tags": [],
+  "category_hint": "sports",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06b6/live/78394d70-e8d7-11f1-a3b9-79c60ec9ab33.jpg",
+  "published": "2026-11-26T07:51:10+00:00",
+  "headline": "Four-Time MVP Aaron Rodgers Released by Steelers, May Play Final NFL Game",
+  "body": [
+   {
+    "type": "p",
+    "text": "Veteran quarterback Aaron Rodgers, a four-time Most Valuable Player, was released by the Pittsburgh Steelers on Sunday, according to the latest report from BBC Sport. The move came as the Steelers trimmed their roster ahead of the upcoming season, ending Rodgers' brief tenure with the team."
+   },
+   {
+    "type": "p",
+    "text": "Rodgers, who has spent the majority of his career with the Green Bay Packers before a short stint with the New York Jets, entered the 2026 season as one of the league's most decorated players. His release at age 48 raises the possibility that the game he played with the Steelers could be his final appearance in the National Football League."
+   },
+   {
+    "type": "p",
+    "text": "The announcement has sparked discussion among fans and analysts about the end of an era for one of the sport's most celebrated quarterbacks. While no official retirement has been filed, the timing of the release suggests Rodgers may be contemplating retirement after a career that includes four MVP awards and multiple playoff runs."
+   },
+   {
+    "type": "p",
+    "text": "The Steelers have not commented on future plans for the quarterback position, focusing instead on developing younger talent. Rodgers' future remains uncertain, but his legacy as a prolific passer and leader is already cemented in NFL history."
+   }
+  ],
+  "key_points": [
+   "Aaron Rodgers, a four-time MVP, was released by the Pittsburgh Steelers.",
+   "The release could mark Rodgers' final NFL game after a 20-year career.",
+   "No retirement announcement has been made, leaving his future uncertain."
+  ],
+  "meta_description": "Four-time MVP Aaron Rodgers was released by the Steelers, prompting speculation that his recent game may be his last in the NFL.",
+  "category": "sports",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Aaron Rodgers",
+   "NFL",
+   "Pittsburgh Steelers",
+   "quarterback",
+   "MVP"
+  ],
+  "slug": "four-time-mvp-aaron-rodgers-released-steelers-may-play-2fb2b3",
+  "reading_minutes": 1,
+  "added": "2026-11-26T08:06:23Z",
+  "trends": []
+ },
+ {
   "id": "20c7a248699e10fc",
   "source_url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo",
   "source": "BBC Sport",
