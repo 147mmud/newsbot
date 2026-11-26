@@ -1,5 +1,136 @@
 [
  {
+  "id": "c0b51333f259c842",
+  "source_url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+  "source": "The New York Times",
+  "source_title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
+  "source_summary": "More governments in Europe are telling citizens to prepare for emergencies. After unexpected disruptions, many are listening.",
+  "source_tags": [
+   "Disasters and Emergencies",
+   "Communications and Media Blackouts",
+   "Computer Network Outages",
+   "Stockpiling",
+   "Cyberwarfare and Defense",
+   "European Union",
+   "Europe",
+   "Finland",
+   "France",
+   "Great Britain"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-europe-preppers-fvzk/27int-europe-preppers-fvzk-mediumSquareAt3X.jpg",
+  "published": "2026-11-26T18:23:08+00:00",
+  "headline": "European Governments Push Emergency Prep After Cyberattacks",
+  "body": [
+   {
+    "type": "p",
+    "text": "In recent weeks, several European governments have issued public advisories urging citizens to ready themselves for possible emergencies. The calls come after a series of unexpected disruptions, including coordinated cyberattacks and bomb threats that have affected multiple countries across the continent."
+   },
+   {
+    "type": "p",
+    "text": "Officials stress that ordinary people should adopt basic preparedness measures, such as assembling emergency kits, securing essential documents, and staying informed about local alert systems. The guidance is being disseminated through national media channels and official websites, aiming to reach a broad audience."
+   },
+   {
+    "type": "p",
+    "text": "The heightened alerts have sparked a noticeable shift in public behavior, with survivalist practices moving from niche subcultures into mainstream conversation. Retailers report increased sales of items like water filters, portable power supplies, and first‑aid supplies, reflecting growing consumer interest in self‑reliance."
+   },
+   {
+    "type": "p",
+    "text": "Analysts note that the rapid spread of these preparedness messages underscores the perceived seriousness of the threats and the governments' intent to mitigate panic by encouraging proactive steps. As Europeans adapt to the new security landscape, the trend may influence how other regions approach civil defense and emergency planning."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The rise in emergency preparedness across Europe highlights a growing concern about security threats that could also affect transatlantic partners and global supply chains."
+   }
+  ],
+  "key_points": [
+   "European governments are urging citizens to prepare for emergencies after recent cyberattacks and bomb threats.",
+   "Public advisories focus on basic steps like emergency kits and staying informed through official channels.",
+   "Survivalist practices are becoming mainstream, with increased consumer demand for preparedness supplies."
+  ],
+  "meta_description": "European governments urge citizens to prepare for emergencies after cyberattacks and bomb threats, pushing survivalism into the mainstream.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Europe",
+   "cyberattacks",
+   "bomb threats",
+   "emergency preparedness",
+   "survivalism"
+  ],
+  "slug": "european-governments-push-emergency-prep-after-cyberattacks-c0b513",
+  "reading_minutes": 1,
+  "added": "2026-11-26T18:24:34Z",
+  "trends": []
+ },
+ {
+  "id": "89f27539301488af",
+  "source_url": "https://www.bbc.co.uk/news/articles/c6808dv4e817o",
+  "source": "BBC News",
+  "source_title": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
+  "source_summary": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein.",
+  "source_tags": [],
+  "category_hint": "politics",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/812f/live/23b5af10-e99e-11f1-b880-15b494ba858d.png",
+  "published": "2026-11-26T18:22:31+00:00",
+  "headline": "Mandelson Retained Shares as Ambassador Amid Conflict Concerns",
+  "body": [
+   {
+    "type": "p",
+    "text": "Documents released this week reveal that former UK ambassador Peter Mandelson continued to hold shareholdings while serving in his diplomatic post, despite warnings that the assets could pose a conflict of interest."
+   },
+   {
+    "type": "p",
+    "text": "The peer, who was dismissed from his ambassadorial role last year, faced scrutiny after his relationship with convicted sex offender Jeffrey Epstein came to light. The revelations about his retained shares add another layer to the controversy surrounding his tenure."
+   },
+   {
+    "type": "p",
+    "text": "The paperwork, obtained by the BBC, shows that Mandelson did not divest the holdings even after concerns were raised by officials about the potential for undue influence or perceived impropriety. The records do not indicate any formal breach of rules, but they highlight a gap between advisory warnings and actual practice."
+   },
+   {
+    "type": "p",
+    "text": "Mandelson's removal from the ambassadorial post was announced in 2025, citing his ties to Epstein as the primary reason. The new evidence about his financial interests has prompted calls for clearer guidelines on asset disclosures for senior public servants."
+   },
+   {
+    "type": "p",
+    "text": "While no legal action has been taken regarding the shareholdings, the episode underscores ongoing debates in the UK about transparency and ethical standards for officials representing the government abroad."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The case illustrates the importance of strict financial disclosure rules for diplomats, a concern for governments and investors in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Peter Mandelson kept shareholdings while serving as a UK ambassador despite conflict of interest warnings.",
+   "He was dismissed from the ambassadorial role last year over his relationship with Jeffrey Epstein.",
+   "The documents highlight gaps in enforcement of asset‑disclosure rules for senior officials."
+  ],
+  "meta_description": "Documents show former UK ambassador Peter Mandelson retained shares despite conflict warnings, adding to his 2025 dismissal over ties to Jeffrey Epstein.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Peter Mandelson",
+   "conflict of interest",
+   "diplomacy",
+   "Jeffrey Epstein",
+   "UK politics"
+  ],
+  "slug": "mandelson-retained-shares-ambassador-amid-conflict-concerns-89f275",
+  "reading_minutes": 1,
+  "added": "2026-11-26T18:24:38Z",
+  "trends": []
+ },
+ {
   "id": "c129b270d18be3e3",
   "source_url": "https://www.dw.com/en/fedex-plane-overshoots-runway-at-miami-airport-on-thanksgiving-eve/a-80056541?maca=en-rss-en-all-1573-rdf",
   "source": "DW",
