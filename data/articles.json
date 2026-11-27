@@ -1,5 +1,142 @@
 [
  {
+  "id": "4a8534c435e81794",
+  "source_url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+  "source": "The New York Times",
+  "source_title": "Canada’s Top Court Lets Quebec Use Controversial Measure for Secularism Law",
+  "source_summary": "Quebec had used the measure to pass a law barring certain public workers, like schoolteachers and police officers, from wearing religious symbols on duty, which critics called discriminatory.",
+  "source_tags": [
+   "Canada",
+   "Quebec Province (Canada)",
+   "Law and Legislation",
+   "Freedom of Religion",
+   "Freedom of Speech and Expression",
+   "Constitutions",
+   "Civil Rights and Liberties",
+   "Symbols",
+   "Carney, Mark J",
+   "St-Pierre Plamondon, Paul"
+  ],
+  "category_hint": "world",
+  "image": "https://static01.nyt.com/images/2026/11/27/world/27canada-quebec-34567/27canada-quebec-34567-mediumSquareAt3X.jpg",
+  "published": "2026-11-27T19:31:28+00:00",
+  "headline": "Canada Supreme Court Upholds Quebec Secularism Measure for Public Workers",
+  "body": [
+   {
+    "type": "p",
+    "text": "Canada's Supreme Court ruled on Tuesday that Quebec may continue to apply its controversial secularism measure, allowing the province to enforce a law that prohibits certain public employees, including schoolteachers and police officers, from wearing religious symbols while on duty."
+   },
+   {
+    "type": "p",
+    "text": "The decision affirms the province's earlier use of the measure to pass the law, which has been described by critics as discriminatory because it targets visible expressions of faith among public servants."
+   },
+   {
+    "type": "p",
+    "text": "Supporters of the law argue it upholds state neutrality and protects the secular nature of public institutions, while opponents contend it infringes on individual religious freedoms."
+   },
+   {
+    "type": "p",
+    "text": "The ruling comes amid ongoing debate across Canada about the balance between secularism and religious rights, a topic that has sparked legal challenges and public protests in recent years."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The ruling may influence similar secularism policies in other jurisdictions and affect discussions on religious freedom in democratic societies."
+   }
+  ],
+  "key_points": [
+   "Canada's top court allows Quebec to enforce its secularism law banning religious symbols for certain public workers.",
+   "The law affects teachers and police officers and has been labeled discriminatory by critics.",
+   "The decision highlights a broader national debate over secularism versus religious freedom."
+  ],
+  "meta_description": "Canada's Supreme Court upholds Quebec's law banning religious symbols for teachers and police, sparking debate over secularism and discrimination.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Canada",
+   "Quebec",
+   "Secularism",
+   "Supreme Court",
+   "Religious Freedom"
+  ],
+  "slug": "canada-supreme-court-upholds-quebec-secularism-measure-public-workers-4a8534",
+  "reading_minutes": 1,
+  "added": "2026-11-27T19:41:33Z",
+  "trends": [
+   "court"
+  ]
+ },
+ {
+  "id": "348af45eab9e6cc5",
+  "source_url": "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa",
+  "source": "The Guardian",
+  "source_title": "The US army just detonated a poison bomb over Iowa | Steven Donziger",
+  "source_summary": "The shocking situation in Iowa is a metaphor for much of what is wrong with the United States There’s no way to hide it: the US government just deliberately detonated a poison bomb of lead azide over the state of Iowa when a totally safe alternative was available. The problem in Iowa was relatively simple to solve. The army for decades had stored lead underground at a munitions facility. As far back as 2009, the government knew the lead was deteriorating and might blow up on its own. But it procrastinated. Finally, in March, the army hired a Georgia-based company to use a chemical spray to neutralize the lead, creating a nonhazardous byproduct that can be disposed in landfills. Steven Donziger is a US-based human rights and environmental lawyer and the author of Donziger On Justice on Substack",
+  "source_tags": [
+   "Pollution",
+   "US politics",
+   "US Environmental Protection Agency",
+   "US news",
+   "Environment",
+   "Iowa",
+   "Trump administration"
+  ],
+  "category_hint": "politics",
+  "image": "https://i.guim.co.uk/img/media/b2b2564f0b22b48d1db251eafb21a222e021cacd/481_0_7209_5768/master/7209.jpg?width=700&quality=85&auto=format&fit=max&s=1b217e4df2075da1c0b941f0d3bfc891",
+  "published": "2026-11-27T19:30:18+00:00",
+  "headline": "U.S. Army Detonates Lead Azide Bomb Over Iowa After Delayed Cleanup",
+  "body": [
+   {
+    "type": "p",
+    "text": "The U.S. Army detonated a lead azide bomb over Iowa in March, according to a report by Steven Donziger, a human‑rights and environmental lawyer. The explosion was carried out at a former munitions site where the Army had stored lead underground for decades."
+   },
+   {
+    "type": "p",
+    "text": "Government officials had known since 2009 that the lead was deteriorating and could potentially explode on its own, but action was delayed. In March, the Army contracted a Georgia‑based company to apply a chemical spray that would neutralize the lead, producing a non‑hazardous by‑product suitable for landfill disposal."
+   },
+   {
+    "type": "p",
+    "text": "Donziger argues that a safer alternative existed and criticizes the decision to use a poison bomb, describing the incident as a metaphor for broader problems within the United States. The report highlights the contrast between the available neutralization method and the choice to detonate the explosive material."
+   },
+   {
+    "type": "p",
+    "text": "The incident has sparked concern among environmental observers, though no official response from the Army or federal agencies is included in the source."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The event underscores ongoing challenges in U.S. hazardous‑material management and raises questions about governmental decision‑making on environmental safety."
+   }
+  ],
+  "key_points": [
+   "The Army detonated a lead azide bomb over Iowa in March after years of stored lead at a munitions site.",
+   "Officials had known of the deteriorating lead since 2009 but delayed action until a Georgia firm was hired to neutralize it.",
+   "Critics, including lawyer Steven Donziger, say a safer, non‑explosive cleanup method was available."
+  ],
+  "meta_description": "The U.S. Army detonated a lead azide bomb over Iowa in March after delayed action on deteriorating stored lead, sparking environmental concerns.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "U.S. Army",
+   "Iowa",
+   "lead azide",
+   "environment",
+   "military cleanup"
+  ],
+  "slug": "u-s-army-detonates-lead-azide-bomb-over-iowa-348af4",
+  "reading_minutes": 1,
+  "added": "2026-11-27T19:41:37Z",
+  "trends": []
+ },
+ {
   "id": "7846d48857904db7",
   "source_url": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
   "source": "The New York Times",
