@@ -1,5 +1,121 @@
 [
  {
+  "id": "da27f7263691c42d",
+  "source_url": "https://www.bbc.co.uk/news/articles/c670278qk879o",
+  "source": "BBC News",
+  "source_title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+  "source_summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+  "published": "2026-11-27T01:45:30+00:00",
+  "headline": "New Zealand's National Party Coalition Falls Short of Majority by One Seat in Parliament",
+  "body": [
+   {
+    "type": "p",
+    "text": "The right‑leaning ruling bloc in New Zealand, headed by the National Party, has been reported to miss the parliamentary majority by a single seat. The shortfall means the coalition does not have the numbers required to command a stable government under the country's parliamentary system."
+   },
+   {
+    "type": "p",
+    "text": "The deficit of one seat was identified after the latest count of seats held by the coalition partners, confirming that the bloc falls just below the threshold needed for a majority. Without that extra seat, the coalition will need to seek additional support from independents or opposition members to pass legislation."
+   },
+   {
+    "type": "p",
+    "text": "Political analysts note that the narrow margin could lead to negotiations and possible concessions as the National Party looks to secure the confidence of the House. The situation underscores the fragility of coalition governments in proportional representation systems."
+   },
+   {
+    "type": "p",
+    "text": "Observers in Wellington and abroad are watching how the National Party will respond, with expectations that the party may reach out to minor parties or independent MPs to bridge the gap. The outcome will shape New Zealand's policy agenda and its ability to implement the coalition’s right‑leaning platform."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "A fragile governing majority can affect New Zealand's trade and policy stability, which are of interest to US and European partners."
+   }
+  ],
+  "key_points": [
+   "New Zealand's National Party‑led coalition lacks a parliamentary majority by one seat.",
+   "The shortfall leaves the right‑leaning bloc without the numbers to govern outright.",
+   "The coalition will likely need to negotiate support from independents or smaller parties."
+  ],
+  "meta_description": "New Zealand's National Party coalition falls short of a parliamentary majority by one seat, prompting potential negotiations for support.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "New Zealand",
+   "National Party",
+   "coalition",
+   "parliament",
+   "majority"
+  ],
+  "slug": "new-zealand-s-national-party-coalition-falls-short-majority-da27f7",
+  "reading_minutes": 1,
+  "added": "2026-11-27T01:52:40Z",
+  "trends": []
+ },
+ {
+  "id": "36a20150712c1008",
+  "source_url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo",
+  "source": "BBC News",
+  "source_title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+  "source_summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+  "source_tags": [],
+  "category_hint": "business",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8d/live/b5d26cb0-e9cd-11f1-a094-5fdc692f3e33.jpg",
+  "published": "2026-11-27T00:54:45+00:00",
+  "headline": "Solo Diners Spend £200 Monthly on Luxury Meals, Trend Shifts Restaurants",
+  "body": [
+   {
+    "type": "p",
+    "text": "A growing number of people are choosing to eat alone as a form of self‑care, according to a recent BBC report. One individual disclosed that they spend about £200 each month on high‑end meals enjoyed in solitude, highlighting the personal financial commitment behind the trend."
+   },
+   {
+    "type": "p",
+    "text": "The rise of solo‑dining is not limited to isolated cases; it is being embraced across the United Kingdom as a lifestyle choice. Participants describe the experience as a way to focus on personal wellbeing, savor food without compromise, and treat themselves without the need for a companion."
+   },
+   {
+    "type": "p",
+    "text": "Industry observers note that this shift is beginning to reshape the restaurant sector. Establishments are adapting menus, seating arrangements, and marketing strategies to accommodate diners who come alone, recognizing the potential for steady revenue from solo patrons."
+   },
+   {
+    "type": "p",
+    "text": "While the movement is still emerging, its impact on dining culture suggests a broader re‑evaluation of how restaurants cater to individual customers, with implications for service models and pricing structures in the coming years."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The trend signals a shift in consumer behaviour that could influence restaurant revenue models and dining experiences across the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Solo‑dining is being promoted as a self‑care practice in the UK.",
+   "One diner reports spending roughly £200 a month on upscale meals alone.",
+   "Restaurants are adjusting offerings to attract and retain solo customers."
+  ],
+  "meta_description": "Solo diners in the UK are spending about £200 monthly on luxury meals, prompting restaurants to adapt to the growing self‑care trend.",
+  "category": "business",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "solo dining",
+   "self-care",
+   "restaurant industry",
+   "UK",
+   "food trends"
+  ],
+  "slug": "solo-diners-spend-200-monthly-luxury-meals-trend-shifts-36a201",
+  "reading_minutes": 1,
+  "added": "2026-11-27T01:52:44Z",
+  "trends": []
+ },
+ {
   "id": "c0b51333f259c842",
   "source_url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
   "source": "The New York Times",
@@ -39919,65 +40035,17 @@
  },
  {
   "id": "2a40fc1e66e01af0",
-  "source_url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-  "source": "CNBC",
-  "source_title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-  "source_summary": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
-  "source_tags": [],
-  "category_hint": "business",
-  "image": "https://image.cnbcfm.com/api/v1/image/108297781-1777308295201-108297781-1777308210048-gettyimages-2272326273-BIZ-AUTO-RIVIAN-R2-ROADSHOW-TB.jpeg?v=1777308342&w=1920&h=1080",
-  "published": "2026-10-29T20:05:34+00:00",
-  "headline": "Rivian Beats Q3 Estimates as Software Sales and R2 Deliveries Climb",
-  "body": [
-   {
-    "type": "p",
-    "text": "Rivian reported third-quarter earnings that surpassed analyst expectations, driven by higher software revenue and an increase in deliveries of its R2 model. The electric‑vehicle maker highlighted the growing contribution of its software segment to overall earnings."
-   },
-   {
-    "type": "p",
-    "text": "Along with the earnings beat, Rivian updated its 2026 outlook, projecting stronger vehicle delivery volumes, higher pre‑tax adjusted earnings, and increased capital expenditures. The revised guidance reflects the company’s confidence in scaling production and expanding its product lineup."
-   },
-   {
-    "type": "p",
-    "text": "The company’s performance underscores the accelerating demand for electric trucks and SUVs, as well as the rising importance of software services in the automotive sector."
-   },
-   {
-    "type": "h2",
-    "text": "Why It Matters"
-   },
-   {
-    "type": "p",
-    "text": "Stronger earnings and an upgraded outlook suggest Rivian is gaining momentum in the competitive EV market, which could impact investors and supply chains in the US and Europe."
-   }
-  ],
-  "key_points": [
-   "Rivian’s Q3 earnings exceeded estimates thanks to higher software revenue and R2 deliveries.",
-   "The firm raised its 2026 guidance, forecasting better vehicle deliveries, earnings and capex.",
-   "Software sales are becoming a larger revenue driver for the EV maker."
-  ],
-  "meta_description": "Rivian beats Q3 earnings estimates, lifts 2026 guidance as software revenue and R2 deliveries rise.",
-  "category": "business",
-  "mode": "llm:groq",
-  "index": true,
-  "tags": [
-   "Rivian",
-   "electric vehicles",
-   "software revenue",
-   "vehicle deliveries",
-   "2026 guidance"
-  ],
   "slug": "rivian-beats-q3-estimates-software-sales-r2-deliveries-climb-2a40fc",
-  "reading_minutes": 1,
-  "img_checked": 2,
+  "headline": "Rivian Beats Q3 Estimates as Software Sales and R2 Deliveries Climb",
+  "source_title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+  "source": "CNBC",
+  "source_url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+  "published": "2026-10-29T20:05:34+00:00",
+  "category": "business",
   "added": "2026-10-29T20:31:28Z",
-  "sources": [
-   {
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-    "title": "Starbucks sales fall short of expectations, but its U.S. turnaround continues to gain steam"
-   }
-  ],
-  "updated": "2026-10-29T20:30:41Z"
+  "dup_of": "8a2e29a52badb261",
+  "dup_slug": "alphabet-reports-25-revenue-growth-profit-declines-8a2e29",
+  "index": false
  },
  {
   "id": "d1ff6d7e943c4863",
@@ -41512,7 +41580,15 @@
   ],
   "slug": "alphabet-reports-25-revenue-growth-profit-declines-8a2e29",
   "reading_minutes": 1,
-  "added": "2026-10-29T08:23:06Z"
+  "added": "2026-10-29T08:23:06Z",
+  "sources": [
+   {
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+    "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise"
+   }
+  ],
+  "updated": "2026-10-29T20:31:28Z"
  },
  {
   "id": "04e0219f15261e46",
