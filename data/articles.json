@@ -1,5 +1,135 @@
 [
  {
+  "id": "5f10fc1549e2cb53",
+  "source_url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o",
+  "source": "BBC News",
+  "source_title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+  "source_summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+  "source_tags": [],
+  "category_hint": "world",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
+  "published": "2026-11-28T10:34:58+00:00",
+  "headline": "Two MSF Staff Killed as Israeli Strike Hits Gaza Medical Clinic, WHO Condemns",
+  "body": [
+   {
+    "type": "p",
+    "text": "Doctors Without Borders (MSF) reported that two of its staff members were killed when an Israeli military strike hit a medical clinic in Gaza on Thursday."
+   },
+   {
+    "type": "p",
+    "text": "The Israeli defense forces said the operation was aimed at \"Hamas terrorists\" believed to be present at the site, but the organization did not provide further details about the target."
+   },
+   {
+    "type": "p",
+    "text": "The World Health Organization publicly condemned the attack, calling it a violation of medical neutrality and urging all parties to protect health facilities and personnel."
+   },
+   {
+    "type": "p",
+    "text": "The incident adds to a growing number of reported strikes on health infrastructure in the Gaza Strip, raising concerns among international humanitarian groups about the safety of aid workers operating in the conflict zone."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The loss of humanitarian staff underscores the risks to medical aid in the Israel‑Gaza conflict, affecting international relief efforts that many Western governments support."
+   }
+  ],
+  "key_points": [
+   "Two MSF workers were killed in an Israeli strike on a Gaza medical clinic.",
+   "Israel said the strike targeted Hamas terrorists believed to be at the location.",
+   "The WHO condemned the attack, citing a breach of medical neutrality."
+  ],
+  "meta_description": "Two MSF staff killed in an Israeli strike on a Gaza clinic; Israel says it targeted Hamas, WHO condemns the attack.",
+  "category": "world",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Gaza",
+   "Israel",
+   "MSF",
+   "WHO",
+   "medical clinic",
+   "conflict"
+  ],
+  "slug": "two-msf-staff-killed-israeli-strike-hits-gaza-medical-5f10fc",
+  "reading_minutes": 1,
+  "added": "2026-11-28T10:43:24Z",
+  "trends": []
+ },
+ {
+  "id": "59d0fa02ce7c08be",
+  "source_url": "https://www.nytimes.com/2026/11/28/us/politics/millions-of-children-are-losing-food-stamps.html",
+  "source": "The New York Times",
+  "source_title": "Millions of Children Are Losing Food Stamps",
+  "source_summary": "Republicans said the cuts, part of their domestic policy bill, would root out fraud and push adults to work. But two million children have lost benefits.",
+  "source_tags": [
+   "United States Politics and Government",
+   "Law and Legislation",
+   "One Big Beautiful Bill Act (2025)",
+   "Food Stamps",
+   "Parenting",
+   "American Enterprise Institute for Public Policy Research",
+   "Center on Budget and Policy Priorities",
+   "Congressional Budget Office",
+   "Republican Party"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/23/multimedia/00DC-SNAP-CUTS-wthl/00DC-SNAP-CUTS-wthl-mediumSquareAt3X.jpg",
+  "published": "2026-11-28T10:02:17+00:00",
+  "headline": "Republican Bill Cuts Food Stamps, Leaves Two Million Children Without Benefits",
+  "body": [
+   {
+    "type": "p",
+    "text": "The Republican-controlled Congress passed a domestic policy bill that trims the Supplemental Nutrition Assistance Program, commonly known as food stamps. The legislation, enacted this week, reduces eligibility criteria and eliminates certain categories of recipients. Officials say the changes are intended to curb fraud and encourage employment among adults."
+   },
+   {
+    "type": "p",
+    "text": "As a result, an estimated two million children across the United States have lost access to the program’s benefits. The loss represents a sharp decline in the number of minors receiving nutrition assistance since the bill’s implementation. Advocates warn that the cuts could increase food insecurity among vulnerable families."
+   },
+   {
+    "type": "p",
+    "text": "Republican leaders argue that tightening the program will deter misuse and motivate job‑seeking behavior, asserting that the reforms target fraudulent claims rather than needy households. They cite the need to protect taxpayer dollars while promoting self‑sufficiency. Critics counter that the measures disproportionately affect low‑income children."
+   },
+   {
+    "type": "p",
+    "text": "The policy shift arrives amid broader debates over welfare reform and budget priorities in Washington. State and local agencies are preparing to adjust enrollment processes in line with the new federal rules, while nonprofit groups are mobilizing resources to fill gaps for families left without assistance."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The cuts could raise child poverty and food insecurity in the U.S., echoing welfare debates that also affect European social safety‑net discussions."
+   }
+  ],
+  "key_points": [
+   "A Republican domestic policy bill reduces food stamp eligibility, aiming to curb fraud and boost work incentives.",
+   "Two million children have lost SNAP benefits as a result of the cuts.",
+   "Critics say the reforms hurt low‑income families, while Republicans claim they protect taxpayers."
+  ],
+  "meta_description": "Republican legislation cuts food stamps, leaving two million U.S. children without benefits as officials cite fraud prevention and work incentives.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "food stamps",
+   "child welfare",
+   "Republican policy",
+   "domestic policy bill",
+   "fraud prevention",
+   "unemployment"
+  ],
+  "slug": "republican-bill-cuts-food-stamps-leaves-two-million-children-59d0fa",
+  "reading_minutes": 1,
+  "added": "2026-11-28T10:43:28Z",
+  "trends": [
+   "fraud"
+  ]
+ },
+ {
   "id": "3b71dcf2c9349c48",
   "source_url": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
   "source": "The New York Times",
