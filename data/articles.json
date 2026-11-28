@@ -1,5 +1,130 @@
 [
  {
+  "id": "3b71dcf2c9349c48",
+  "source_url": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
+  "source": "The New York Times",
+  "source_title": "Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction",
+  "source_summary": "President Trump will lose control over the National Capital Planning Commission after Democrats take control of Congress in January. It could give final approval to some of his prized projects.",
+  "source_tags": [
+   "United States Politics and Government",
+   "National Parks, Monuments and Seashores",
+   "Building (Construction)",
+   "Democratic Party",
+   "National Capital Planning Commission",
+   "Trump, Donald J",
+   "East Potomac Park (Washington, DC)",
+   "Washington (DC)"
+  ],
+  "category_hint": "politics",
+  "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-planning-pzmq/27dc-planning-pzmq-mediumSquareAt3X.jpg",
+  "published": "2026-11-28T02:08:43+00:00",
+  "headline": "Planning Board Schedules Final Meeting on Trump D.C. Projects Before Loss of Control",
+  "body": [
+   {
+    "type": "p",
+    "text": "The National Capital Planning Commission is set to hold a last‑minute meeting to review several construction proposals linked to former President Donald Trump in Washington, D.C. The session is being convened as the board’s authority approaches a significant shift."
+   },
+   {
+    "type": "p",
+    "text": "According to the report, Trump will relinquish his influence over the commission once Democrats assume control of Congress in January. That change in partisan leadership could alter the decision‑making process for projects that have been championed by the former president."
+   },
+   {
+    "type": "p",
+    "text": "The upcoming meeting may represent the final opportunity for the planning board to grant approval to some of Trump’s most prominent development ideas before the anticipated loss of his control. Officials have not disclosed which specific projects will be considered, but the timing suggests a strategic push to secure endorsements while the current composition remains in place."
+   },
+   {
+    "type": "p",
+    "text": "Stakeholders are watching closely, as the outcome could shape the capital’s skyline and set a precedent for how political transitions affect urban planning. The board’s deliberations are expected to conclude before the new congressional majority takes effect."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The decision could determine whether high‑profile Trump projects proceed before a shift in congressional power changes the planning board’s leadership."
+   }
+  ],
+  "key_points": [
+   "The National Capital Planning Commission will hold a last‑minute meeting on Trump‑related D.C. construction projects.",
+   "Trump is slated to lose his influence over the commission when Democrats control Congress in January.",
+   "The meeting could provide the final approval for some of Trump’s prized development proposals."
+  ],
+  "meta_description": "A last‑minute planning board meeting may approve Trump’s D.C. projects before he loses control of the commission in January.",
+  "category": "politics",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Trump",
+   "D.C. construction",
+   "National Capital Planning Commission",
+   "Congress",
+   "urban planning"
+  ],
+  "slug": "planning-board-schedules-final-meeting-trump-d-c-projects-3b71dc",
+  "reading_minutes": 1,
+  "added": "2026-11-28T02:14:07Z",
+  "trends": []
+ },
+ {
+  "id": "50f0be167f44a967",
+  "source_url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+  "source": "BBC News",
+  "source_title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+  "source_summary": "With an official PC version potentially still months away, fans are getting impatient.",
+  "source_tags": [],
+  "category_hint": "tech",
+  "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg",
+  "published": "2026-11-28T01:30:50+00:00",
+  "headline": "Gamers Harness AI and Leaked Data to Recreate GTA 6 Ahead of PC Release",
+  "body": [
+   {
+    "type": "p",
+    "text": "A community of gamers has begun using artificial intelligence tools together with leaked game files to produce a functional clone of Grand Theft Auto VI, the highly anticipated sequel from Rockstar Games. The effort is driven by the desire to experience the title on personal computers, a platform that has not yet received an official release."
+   },
+   {
+    "type": "p",
+    "text": "The unofficial project relies on publicly available AI software that can generate game assets, as well as files that were reportedly obtained from unauthorized sources. By combining these elements, participants claim to have assembled a playable version that mirrors the console experience, though it remains a fan‑made reconstruction rather than an official product."
+   },
+   {
+    "type": "p",
+    "text": "Rockstar has not confirmed a release date for a PC edition, and industry analysts suggest that an official version could still be several months away. The lack of an authorized PC launch has intensified fan impatience, prompting some to turn to these alternative methods to satisfy their curiosity about the game’s open‑world design and storyline."
+   },
+   {
+    "type": "p",
+    "text": "While the cloned version showcases the technical possibilities of AI‑assisted game development, it also raises concerns about intellectual property and the potential impact on the market for an eventual official PC release. Observers note that such fan initiatives may influence how developers approach cross‑platform launches in the future."
+   },
+   {
+    "type": "h2",
+    "text": "Why It Matters"
+   },
+   {
+    "type": "p",
+    "text": "The move underscores growing demand for PC versions of major titles and illustrates how AI can accelerate unofficial game reproductions, affecting both consumers and developers in the US and Europe."
+   }
+  ],
+  "key_points": [
+   "Gamers are using AI and leaked files to build a fan‑made clone of Grand Theft Auto VI.",
+   "Rockstar has not announced an official PC release, which may still be months away.",
+   "The project highlights both the capabilities of AI in game creation and concerns over copyright."
+  ],
+  "meta_description": "Gamers employ AI and leaked data to clone GTA 6 as fans await an official PC release months away.",
+  "category": "tech",
+  "mode": "llm:groq",
+  "index": true,
+  "tags": [
+   "Grand Theft Auto 6",
+   "AI gaming",
+   "game cloning",
+   "PC gaming",
+   "Rockstar Games"
+  ],
+  "slug": "gamers-harness-ai-leaked-data-recreate-gta-6-ahead-50f0be",
+  "reading_minutes": 1,
+  "added": "2026-11-28T02:14:11Z",
+  "trends": []
+ },
+ {
   "id": "4a8534c435e81794",
   "source_url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
   "source": "The New York Times",
